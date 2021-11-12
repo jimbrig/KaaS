@@ -41,6 +41,7 @@ Alias: "Actuarial Science"
 ### Practice and Theory
 
 - [[Property Casualty Loss Reserving Methodologies]]
+- [[Loss Triangles]]
 - [[Interest Rate Theory]]
 - [[Actuarial Exams]]
 - [[Property Casualty vs Life Insurance]]

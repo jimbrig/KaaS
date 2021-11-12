@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 4779,
       "tags": 0,
-      "links": 94
+      "links": 95
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -187,7 +187,7 @@
     "MOCs/Actuarial Science.md": {
       "size": 2543,
       "tags": 1,
-      "links": 60
+      "links": 61
     },
     "Slipbox/_README.md": {
       "size": 0,
@@ -503,13 +503,18 @@
       "size": 0,
       "tags": 3,
       "links": 3
+    },
+    "Slipbox/Loss Triangles.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 65,
-      "Create": 91,
-      "Link": 186,
+      "Create": 92,
+      "Link": 190,
       "Expand": 22
     }
   },
@@ -528,8 +533,8 @@
       "10": 20,
       "11": 81,
       "12": 126,
-      "13": 33,
-      "14": 0,
+      "13": 34,
+      "14": 4,
       "15": 0,
       "16": 23,
       "17": 77,
@@ -547,7 +552,7 @@
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
-      "Fri": 260,
+      "Fri": 265,
       "Sat": 0,
       "Sun": 0
     }
@@ -579,6 +584,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
@@ -621,7 +627,6 @@
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
@@ -685,6 +690,7 @@
         "<a class=\"internal-link\" href=\"HOME.md\"> HOME </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
@@ -734,8 +740,7 @@
         "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Personal/Person-Template.md\"> Person-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -748,6 +753,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -795,10 +803,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

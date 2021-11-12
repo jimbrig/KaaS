@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/Actuarial Science.md",
-            "mode": "preview"
+            "file": "Slipbox/Loss Triangles.md",
+            "mode": "source"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Actuarial Science.md"
+                "file": "Slipbox/Loss Triangles.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/Actuarial Science.md",
+                "file": "Slipbox/Loss Triangles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,14 +130,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Actuarial Science.md",
+                "file": "Slipbox/Loss Triangles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dfd637e612f618c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -149,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Actuarial Science.md",
+                "file": "Slipbox/Loss Triangles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,6 +194,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Loss Triangles.md",
     "MOCs/Actuarial Science.md",
     "Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md",
     "Changelog.md",
@@ -194,7 +203,6 @@
     "Workbench.md",
     "README.md",
     "Slipbox/R Package - conjuror.md",
-    "Slipbox/R Package - simulationmachine.md",
-    "Slipbox/R Packge - deeptriangle.md"
+    "Slipbox/R Package - simulationmachine.md"
   ]
 }

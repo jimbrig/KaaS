@@ -71,6 +71,7 @@ Read our post on the [loss development factors](http://www.hbactuarial.com/loss-
 
 - [[Development]]
 - [[Actuarial Science]]
+- [[Property Casualty Loss Reserving Methodologies]]
 
 
 *Backlinks:*

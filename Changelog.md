@@ -1,4 +1,4 @@
-- 2021-11-12 at 14h04 · [[Loss Triangles]]
+- 2021-11-12 at 14h06 · [[Loss Triangles]]
 - 2021-11-12 at 13h59 · [[Actuarial Science]]
 - 2021-11-12 at 13h49 · [[How to Improve the Performance of Your Windows Computer Fundamentally]]
 - 2021-11-12 at 13h41 · [[_README]]

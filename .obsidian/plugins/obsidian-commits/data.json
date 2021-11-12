@@ -505,7 +505,7 @@
       "links": 3
     },
     "Slipbox/Loss Triangles.md": {
-      "size": 0,
+      "size": 5589,
       "tags": 3,
       "links": 2
     }
@@ -515,7 +515,7 @@
       "Refactor": 65,
       "Create": 92,
       "Link": 190,
-      "Expand": 22
+      "Expand": 23
     }
   },
   "dailyCommits": {
@@ -534,7 +534,7 @@
       "11": 81,
       "12": 126,
       "13": 34,
-      "14": 4,
+      "14": 5,
       "15": 0,
       "16": 23,
       "17": 77,
@@ -552,7 +552,7 @@
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
-      "Fri": 265,
+      "Fri": 266,
       "Sat": 0,
       "Sun": 0
     }
@@ -581,7 +581,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",

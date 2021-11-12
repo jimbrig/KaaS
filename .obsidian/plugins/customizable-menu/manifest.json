@@ -1,0 +1,10 @@
+{
+	"id": "customizable-menu",
+	"name": "Customizable Menu",
+	"version": "2.1.1",
+	"minAppVersion": "0.12.11",
+	"description": "Allows you to add any command to Obsidian's right-click menu.",
+	"author": "kzhovn",
+	"authorUrl": "https://github.com/kzhovn/",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,19 @@
+/*Icon Picker*/
+.custom-menu-icon {
+    transform: translateY(3px);
+    margin-right: 8px;
+}
+
+.custom-menu-icon-container{
+    display: flex;
+}
+
+.custom-menu-settings-icon {
+    height: 20px;
+    margin-right: 0.5rem;
+    transform: translateY(2px);
+}
+
+.custom-menu-flex {
+    display: flex;
+}

@@ -1,0 +1,32 @@
+{
+  "spellcheck": true,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Slipbox",
+  "attachmentFolderPath": "./_assets",
+  "spellcheckDictionary": [
+    "Backlinks",
+    "Dataviews",
+    "Analytics",
+    "Lifecycle",
+    "backend",
+    "ve",
+    "chainladder",
+    "Tryangle",
+    "casdown",
+    "minimalistic",
+    "seemlessly",
+    "conda",
+    "github",
+    "pre",
+    "scikit",
+    "algorithmically",
+    "imaginator",
+    "actuar"
+  ],
+  "livePreview": true
+}

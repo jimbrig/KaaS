@@ -1,0 +1,10 @@
+{
+	"id": "podcast-note",
+	"name": "Podcast Note",
+	"version": "1.1.2",
+	"minAppVersion": "0.9.12",
+	"description": "Podcast Note lets you automatically add podcast information to your notes.",
+	"author": "Marc Julian Schwarz",
+	"authorUrl": "https://www.marc-julian.de",
+	"isDesktopOnly": false
+}

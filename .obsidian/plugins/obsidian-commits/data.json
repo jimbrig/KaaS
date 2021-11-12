@@ -1,0 +1,817 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "Workbench.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Changelog.md": {
+      "size": 4779,
+      "tags": 0,
+      "links": 94
+    },
+    "Daily-Notes/2021-11-08.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Resources/Embeds/Todoist-Embed.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Daily-Note-Template.md": {
+      "size": 709,
+      "tags": 1,
+      "links": 3
+    },
+    "Templates/Kanban-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/List-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Mindsweep-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/MOC-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Readme-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Project-Template.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Templates/Weekly-Review-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Agenda-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Personal-Templates/Person-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Work-Templates/Initiative-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Work-Templates/Person-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Slipbox-Templates/Slipbox-Default-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/Slipbox-Templates/Slipbox-Dev-Template.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Resources/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Reference/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "MOCs/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md": {
+      "size": 4928,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md": {
+      "size": 2683,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md": {
+      "size": 2256,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md": {
+      "size": 2462,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md": {
+      "size": 2956,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md": {
+      "size": 2746,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md": {
+      "size": 1029,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md": {
+      "size": 535,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md": {
+      "size": 2694,
+      "tags": 1,
+      "links": 2
+    },
+    "Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md": {
+      "size": 1323,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md": {
+      "size": 2979,
+      "tags": 1,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md": {
+      "size": 5464,
+      "tags": 1,
+      "links": 2
+    },
+    "Resources/Highlights/_README.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "MOCs/Actuarial Science.md": {
+      "size": 2543,
+      "tags": 1,
+      "links": 60
+    },
+    "Slipbox/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Daily-Notes/2021-11-10.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Daily-Notes/2021-11-12.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Slipbox/Simulating Actuarial Claims Data with R.md": {
+      "size": 4598,
+      "tags": 2,
+      "links": 5
+    },
+    "MOCs/Development.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 7
+    },
+    "MOCs/R.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md": {
+      "size": 3522,
+      "tags": 2,
+      "links": 5
+    },
+    "Slipbox/Actuarial Development Master Resource List.md": {
+      "size": 11472,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/Actuarial Experience Studies.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "MOCs/Data Science.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "Slipbox/Data Science Lifecycle.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Slipbox/Microsoft Azure.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Python Package - SQLAlchemy.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/CAS - Casualty Actuarial Society.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 14
+    },
+    "Slipbox/KasaAI GitHub Organization.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
+    },
+    "Slipbox/Loss Data Analytics.md": {
+      "size": 5115,
+      "tags": 1,
+      "links": 7
+    },
+    "Slipbox/Property Casualty Data Model.md": {
+      "size": 7496,
+      "tags": 2,
+      "links": 23
+    },
+    "Slipbox/SQLite.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/PostgreSQL.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Relational Databases.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Subject Area Models.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "MOCs/Databases.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/SQL.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Miniature Insurance Economic Simulator.md": {
+      "size": 2575,
+      "tags": 2,
+      "links": 8
+    },
+    "Slipbox/Actuarial Rate Indications Automation.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Unified Architecture Framework.md": {
+      "size": 2860,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Business Process Model and Notation.md": {
+      "size": 2138,
+      "tags": 2,
+      "links": 3
+    },
+    "Slipbox/R Package - raw.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "Slipbox/Python Package - tryangle.md": {
+      "size": 2870,
+      "tags": 2,
+      "links": 4
+    },
+    "Slipbox/R Package - casdown.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "Slipbox/Python Package - ChainLadder.md": {
+      "size": 8584,
+      "tags": 2,
+      "links": 5
+    },
+    "Slipbox/R Package - ChainLadder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Free Actuarial System for Loss Reserving.md": {
+      "size": 3153,
+      "tags": 3,
+      "links": 4
+    },
+    "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md": {
+      "size": 2649,
+      "tags": 2,
+      "links": 4
+    },
+    "Slipbox/R Package - cascsim.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 4
+    },
+    "Slipbox/R Package - imaginator.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 4
+    },
+    "MOCs/Python.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Cloud Computing.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Machine Learning.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure Machine Learning.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "MOCs/Finance.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "MOCs/Mathematics and Statistics.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "MOCs/Software Development.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Property Casualty Loss Reserving Methodologies.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Slipbox/Interest Rate Theory.md": {
+      "size": 0,
+      "tags": 4,
+      "links": 3
+    },
+    "Slipbox/Actuarial Exams.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "Templates/Slipbox-Templates/Slipbox-Python-Template.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Interpolation of Cumulative Loss Development Factors.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "Slipbox/Probability Theory.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Bayesian Statistics.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Credibility Theory.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "Slipbox/Generalized Linear Models.md": {
+      "size": 0,
+      "tags": 5,
+      "links": 4
+    },
+    "Slipbox/Generalized Additive Models.md": {
+      "size": 0,
+      "tags": 5,
+      "links": 4
+    },
+    "Slipbox/Neural Networks.md": {
+      "size": 0,
+      "tags": 5,
+      "links": 4
+    },
+    "Slipbox/Random Forest Algorithms.md": {
+      "size": 0,
+      "tags": 5,
+      "links": 4
+    },
+    "Slipbox/R Package - actuar.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Package - insurancerating.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Package - rsvr.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Packge - deeptriangle.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Package - casdata.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Package - simulationmachine.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    },
+    "Slipbox/R Package - conjuror.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 3
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 65,
+      "Create": 91,
+      "Link": 186,
+      "Expand": 22
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 20,
+      "11": 81,
+      "12": 126,
+      "13": 33,
+      "14": 0,
+      "15": 0,
+      "16": 23,
+      "17": 77,
+      "18": 0,
+      "19": 0,
+      "20": 4,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 100,
+      "Tue": 0,
+      "Wed": 4,
+      "Thu": 0,
+      "Fri": 260,
+      "Sat": 0,
+      "Sun": 0
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>",
+        "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PCDM - Property Casualty Data Model.md\"> PCDM - Property Casualty Data Model </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+      ],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Software Development.md\"> Software Development </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Finance.md\"> Finance </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
+        "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Finance.md\"> Finance </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Databases.md\"> Databases </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Templates/Work/Agenda-Template.md\"> Agenda-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Work/Initiative-Template.md\"> Initiative-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Daily-Note-Template.md\"> Daily-Note-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Kanban-Template.md\"> Kanban-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/List-Template.md\"> List-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Mindsweep-Template.md\"> Mindsweep-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/MOC-Template.md\"> MOC-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Work/Person-Template.md\"> Person-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Personal/Project-Template.md\"> Project-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Readme-Template.md\"> Readme-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Personal/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Personal/Mindsweep-Template.md\"> Mindsweep-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Common/Mindsweep-Template.md\"> Mindsweep-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/List-Template.md\"> List-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/MOC-Template.md\"> MOC-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Readme-Template.md\"> Readme-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Person-Template.md\"> Person-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"HOME.md\"> HOME </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
+        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Python.md\"> Python </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Finance.md\"> Finance </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
+        "<a class=\"internal-link\" href=\"Templates/Initiative-Template.md\"> Initiative-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/List-Template.md\"> List-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Readme-Template.md\"> Readme-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/MOC-Template.md\"> MOC-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Person-Template.md\"> Person-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Personal/Person-Template.md\"> Person-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
+      ],
+      "Refactored": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Reference/Obsidian.md\"> Obsidian </a>",
+        "<a class=\"internal-link\" href=\"HOME.md\"> HOME </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
+      ],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+      ],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}

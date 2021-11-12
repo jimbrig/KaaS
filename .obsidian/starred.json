@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "Workbench",
+      "path": "Workbench.md"
+    }
+  ]
+}

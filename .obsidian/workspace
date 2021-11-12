@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d98244d24f0942ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8d5a2eeea000c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOCs/_README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ec79e0937ef51d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "18660007bf8dc1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c414a742f2df21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0bf88acbc792237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Topic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11213e26ba402af9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c32bb46b6a621c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc49c60a28d7389b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2142b0eb44a38c1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ef081585c37b46b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MOCs/_README.md"
+              }
+            }
+          },
+          {
+            "id": "f23069879d02d697",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "54e6b62b1c254acb",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "830219bf551ff804",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MOCs/_README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e02ec4ca0518aea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MOCs/_README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9cd97e0871ce41c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "022e8fb8be0bfbde",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MOCs/_README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792593,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359
+  },
+  "active": "fa8d5a2eeea000c8",
+  "lastOpenFiles": [
+    "MOCs/_README.md",
+    "Daily-Notes/2021-11-12.md",
+    "Workbench.md",
+    "README.md",
+    "Changelog.md",
+    "MOCs/Actuarial Science.md",
+    "Slipbox/R Package - conjuror.md",
+    "Slipbox/R Package - simulationmachine.md",
+    "Slipbox/R Packge - deeptriangle.md",
+    "Slipbox/R Package - casdata.md"
+  ]
+}

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/_README.md",
-            "mode": "source"
+            "file": "MOCs/Actuarial Science.md",
+            "mode": "preview"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/_README.md"
+                "file": "MOCs/Actuarial Science.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "MOCs/Actuarial Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "MOCs/Actuarial Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "MOCs/Actuarial Science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,15 +186,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "MOCs/Actuarial Science.md",
+    "Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md",
+    "Changelog.md",
     "MOCs/_README.md",
     "Daily-Notes/2021-11-12.md",
     "Workbench.md",
     "README.md",
-    "Changelog.md",
-    "MOCs/Actuarial Science.md",
     "Slipbox/R Package - conjuror.md",
     "Slipbox/R Package - simulationmachine.md",
-    "Slipbox/R Packge - deeptriangle.md",
-    "Slipbox/R Package - casdata.md"
+    "Slipbox/R Packge - deeptriangle.md"
   ]
 }

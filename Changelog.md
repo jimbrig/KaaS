@@ -1,3 +1,4 @@
+- 2021-11-12 at 13h49 · [[How to Improve the Performance of Your Windows Computer Fundamentally]]
 - 2021-11-12 at 13h41 · [[_README]]
 - 2021-11-12 at 13h33 · [[Project-Template]]
 - 2021-11-12 at 13h04 · [[Actuarial Science]]
@@ -93,7 +94,6 @@
 - 2021-11-08 at 09h36 · [[How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC]]
 - 2021-11-08 at 09h36 · [[How to Learn Linux and Git]]
 - 2021-11-08 at 09h36 · [[How to Keep Windows 10 Organized, Pretty, and Productive]]
-- 2021-11-08 at 09h36 · [[How to Improve the Performance of Your Windows Computer Fundamentally]]
 - 2021-11-08 at 09h36 · [[How to Get Through a Paper and Digital Backlog – Gigaom]]
 - 2021-11-08 at 09h36 · [[How to Handle Inbox Infinity]]
 - 2021-11-08 at 09h36 · [[How to Get and Remain Organized During Chaotic Times]]

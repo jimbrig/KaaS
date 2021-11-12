@@ -507,14 +507,14 @@
     "Slipbox/Loss Triangles.md": {
       "size": 7428,
       "tags": 3,
-      "links": 3
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 65,
       "Create": 92,
-      "Link": 191,
+      "Link": 192,
       "Expand": 24
     }
   },
@@ -534,7 +534,7 @@
       "11": 81,
       "12": 126,
       "13": 34,
-      "14": 7,
+      "14": 8,
       "15": 0,
       "16": 23,
       "17": 77,
@@ -552,7 +552,7 @@
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
-      "Fri": 268,
+      "Fri": 269,
       "Sat": 0,
       "Sun": 0
     }
@@ -757,6 +757,7 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
@@ -804,8 +805,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

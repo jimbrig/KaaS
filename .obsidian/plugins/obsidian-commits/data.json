@@ -505,17 +505,17 @@
       "links": 3
     },
     "Slipbox/Loss Triangles.md": {
-      "size": 5589,
+      "size": 7428,
       "tags": 3,
-      "links": 2
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 65,
       "Create": 92,
-      "Link": 190,
-      "Expand": 23
+      "Link": 191,
+      "Expand": 24
     }
   },
   "dailyCommits": {
@@ -534,7 +534,7 @@
       "11": 81,
       "12": 126,
       "13": 34,
-      "14": 5,
+      "14": 7,
       "15": 0,
       "16": 23,
       "17": 77,
@@ -552,7 +552,7 @@
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
-      "Fri": 266,
+      "Fri": 268,
       "Sat": 0,
       "Sun": 0
     }
@@ -582,6 +582,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
@@ -755,6 +756,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
@@ -803,8 +805,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

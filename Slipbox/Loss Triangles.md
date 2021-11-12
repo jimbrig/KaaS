@@ -21,8 +21,10 @@ The easiest loss triangle to explain is the accident year paid loss triangle. Th
 
 The second category that claim data is organized by is called “age”. Age, in this context, is the number of years from the beginning of the accident year to the moment of the last transaction in your database. So, let’s say $75,000 was paid for Mr. Slipsalot’s claim in 2004(mostly medical); then in each subsequent  year an additional $30,000 (mostly indemnity) has been paid; he is relatively young, so you expect that these $30,000 claim payments will continue for the next 30 years. For this claim the information can be presented as follows:
 
+<center>
+
 | Accident Year | Age | Valuation Year | Paid Losses |
-| ------------- | --- | -------------- | ----------- |
+| :-------------: | :---: | :--------------: | :-----------: |
 | 2004          | 1   | 2004           | 75,000      |
 | 2004          | 2   | 2005           | 105,000     |
 | 2004          | 3   | 2006           | 135,000     |

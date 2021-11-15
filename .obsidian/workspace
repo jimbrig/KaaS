@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Actuarial Development Master Resource List.md",
+            "file": "Slipbox/Property Casualty Data Model.md",
             "mode": "preview"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Actuarial Development Master Resource List.md"
+                "file": "Slipbox/Property Casualty Data Model.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Actuarial Development Master Resource List.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Actuarial Development Master Resource List.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Actuarial Development Master Resource List.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,15 +202,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
-    "Slipbox/Actuarial Development Master Resource List.md",
+    "Slipbox/Property Casualty Data Model.md",
     "MOCs/Actuarial Science.md",
+    "Slipbox/Actuarial Development Master Resource List.md",
     "Slipbox/WSL Terminal and Shell Setup Guide.md",
     "Slipbox/zsh.md",
     "Slipbox/Productivity Apps.md",
     "MOCs/Development.md",
     "Slipbox/API Architecture - Performance Best Practices.md",
     "MOCs/Web Development.md",
-    "Slipbox/REST API Best Practices.md",
-    "Daily-Notes/2021-11-15.md"
+    "Slipbox/REST API Best Practices.md"
   ]
 }

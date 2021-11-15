@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily-Notes/2021-11-15.md",
-            "mode": "source"
+            "file": "Slipbox/Linux - visudo.md",
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Notes/2021-11-15.md"
+                "file": "Slipbox/Linux - visudo.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Notes/2021-11-15.md",
+                "file": "Slipbox/Linux - visudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Notes/2021-11-15.md",
+                "file": "Slipbox/Linux - visudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Notes/2021-11-15.md",
+                "file": "Slipbox/Linux - visudo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,10 +190,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359
+    "width": 359,
+    "collapsed": true
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Linux - visudo.md",
+    "Slipbox/How to create a passwordless sudoer on Linux.md",
     "Daily-Notes/2021-11-15.md",
     "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
     "MOCs/Actuarial Science.md",
@@ -201,8 +204,6 @@
     "Slipbox/Actuarial Development Master Resource List.md",
     "Slipbox/WSL Terminal and Shell Setup Guide.md",
     "Slipbox/zsh.md",
-    "Slipbox/Productivity Apps.md",
-    "MOCs/Development.md",
-    "Slipbox/API Architecture - Performance Best Practices.md"
+    "Slipbox/Productivity Apps.md"
   ]
 }

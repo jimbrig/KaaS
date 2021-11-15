@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 5534,
       "tags": 0,
-      "links": 102
+      "links": 104
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -185,7 +185,7 @@
       "links": 0
     },
     "MOCs/Actuarial Science.md": {
-      "size": 2543,
+      "size": 2998,
       "tags": 1,
       "links": 61
     },
@@ -230,7 +230,7 @@
       "links": 1
     },
     "Slipbox/Actuarial Experience Studies.md": {
-      "size": 0,
+      "size": 2030,
       "tags": 1,
       "links": 5
     },
@@ -305,7 +305,7 @@
       "links": 0
     },
     "Slipbox/Miniature Insurance Economic Simulator.md": {
-      "size": 2575,
+      "size": 2996,
       "tags": 2,
       "links": 8
     },
@@ -512,7 +512,7 @@
     "Daily-Notes/2021-11-15.md": {
       "size": 0,
       "tags": 1,
-      "links": 3
+      "links": 4
     },
     "MOCs/Web Development.md": {
       "size": 0,
@@ -543,14 +543,24 @@
       "size": 2318,
       "tags": 2,
       "links": 8
+    },
+    "Slipbox/How to create a passwordless sudoer on Linux.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "Slipbox/Linux - visudo.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
-      "Create": 99,
-      "Link": 219,
-      "Expand": 28
+      "Create": 101,
+      "Link": 224,
+      "Expand": 31
     }
   },
   "dailyCommits": {
@@ -570,7 +580,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 0,
+      "15": 10,
       "16": 23,
       "17": 77,
       "18": 0,
@@ -583,7 +593,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 139,
+      "Mon": 149,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -622,9 +632,14 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
@@ -673,9 +688,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
@@ -731,6 +744,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
@@ -779,9 +794,7 @@
         "<a class=\"internal-link\" href=\"Templates/List-Template.md\"> List-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Readme-Template.md\"> Readme-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -794,6 +807,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
@@ -841,10 +857,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

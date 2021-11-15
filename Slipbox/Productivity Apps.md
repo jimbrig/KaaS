@@ -14,8 +14,6 @@ Tags: ["#Type/List", "#Topic/Productivity"]
 - [[Feedly]]
 - [[Evernote]]
 - [[Momentum]]
-- 
-
 
 
 ***

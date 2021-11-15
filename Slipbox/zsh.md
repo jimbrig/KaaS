@@ -7,8 +7,8 @@ Alias: "zsh"
 
 # zsh
 
-[[oh-my-zsh]] 
-
+- zsh is an awesome shell that is nearly identical to [[bash]] (Bourne-again Shell), but allows for much more customization options.
+- [[oh-my-zsh]] - collection of plugins from t
 
 
 *Backlinks:*

@@ -1,5 +1,6 @@
-- 2021-11-15 at 12h10 · [[Productivity Apps]]
-- 2021-11-15 at 12h02 · [[zsh]]
+- 2021-11-15 at 12h15 · [[zsh]]
+- 2021-11-15 at 12h14 · [[WSL Terminal and Shell Setup Guide]]
+- 2021-11-15 at 12h13 · [[Productivity Apps]]
 - 2021-11-15 at 12h02 · [[Development]]
 - 2021-11-15 at 12h00 · [[API Architecture - Performance Best Practices]]
 - 2021-11-15 at 11h51 · [[Web Development]]

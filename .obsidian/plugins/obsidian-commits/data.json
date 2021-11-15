@@ -12,7 +12,7 @@
     "README.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 15
     },
     "Changelog.md": {
       "size": 5534,
@@ -584,7 +584,7 @@
     "/": {
       "Refactor": 69,
       "Create": 106,
-      "Link": 239,
+      "Link": 240,
       "Expand": 33
     }
   },
@@ -608,7 +608,7 @@
       "15": 10,
       "16": 48,
       "17": 77,
-      "18": 0,
+      "18": 1,
       "19": 0,
       "20": 4,
       "21": 0,
@@ -618,7 +618,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 174,
+      "Mon": 175,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -834,6 +834,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -883,8 +884,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

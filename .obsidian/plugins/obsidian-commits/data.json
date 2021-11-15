@@ -525,17 +525,17 @@
       "links": 15
     },
     "Slipbox/API Architecture - Performance Best Practices.md": {
-      "size": 0,
+      "size": 6154,
       "tags": 2,
-      "links": 0
+      "links": 11
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
       "Create": 96,
-      "Link": 203,
-      "Expand": 26
+      "Link": 204,
+      "Expand": 27
     }
   },
   "dailyCommits": {
@@ -552,7 +552,7 @@
       "9": 0,
       "10": 20,
       "11": 99,
-      "12": 126,
+      "12": 128,
       "13": 34,
       "14": 8,
       "15": 0,
@@ -568,7 +568,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 118,
+      "Mon": 120,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -605,7 +605,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
@@ -777,6 +778,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
@@ -826,8 +828,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

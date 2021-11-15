@@ -11,7 +11,7 @@ Alias: "Getting Things Done"
 
 ## Notes
 
-- [[The GTD Mindsweep]]
+- [[GTD Mindsweep]]
 
 ## Related MOCs
 

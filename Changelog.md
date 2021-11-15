@@ -1,4 +1,5 @@
-- 2021-11-15 at 16h13 · [[Getting Things Done]]
+- 2021-11-15 at 16h19 · [[GTD Mindsweep]]
+- 2021-11-15 at 16h14 · [[Getting Things Done]]
 - 2021-11-15 at 16h12 · [[Personal Knowledge Management]]
 - 2021-11-15 at 16h12 · [[Tools]]
 - 2021-11-15 at 16h11 · [[Productivity]]

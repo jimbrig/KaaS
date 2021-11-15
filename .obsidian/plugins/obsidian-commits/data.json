@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 5534,
       "tags": 0,
-      "links": 108
+      "links": 109
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -573,14 +573,19 @@
       "size": 0,
       "tags": 1,
       "links": 2
+    },
+    "Slipbox/GTD Mindsweep.md": {
+      "size": 4215,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 68,
-      "Create": 105,
-      "Link": 234,
-      "Expand": 32
+      "Refactor": 69,
+      "Create": 106,
+      "Link": 237,
+      "Expand": 33
     }
   },
   "dailyCommits": {
@@ -601,7 +606,7 @@
       "13": 34,
       "14": 8,
       "15": 10,
-      "16": 40,
+      "16": 46,
       "17": 77,
       "18": 0,
       "19": 0,
@@ -613,7 +618,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 166,
+      "Mon": 172,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -656,9 +661,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
@@ -708,10 +715,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
@@ -761,10 +768,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
@@ -814,8 +821,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"Templates/Initiative-Template.md\"> Initiative-Template </a>"
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -828,6 +834,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
@@ -876,9 +884,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>"
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

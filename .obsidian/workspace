@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Getting Things Done.md",
+            "file": "Slipbox/GTD Mindsweep.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Getting Things Done.md"
+                "file": "Slipbox/GTD Mindsweep.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Getting Things Done.md",
+                "file": "Slipbox/GTD Mindsweep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Getting Things Done.md",
+                "file": "Slipbox/GTD Mindsweep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Getting Things Done.md",
+                "file": "Slipbox/GTD Mindsweep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,6 +195,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/GTD Mindsweep.md",
     "Slipbox/Getting Things Done.md",
     "MOCs/Productivity.md",
     "MOCs/Personal Knowledge Management.md",
@@ -203,7 +204,6 @@
     "Slipbox/Linux Commands - visudo.md",
     "Slipbox/How to create a passwordless sudoer on Linux.md",
     "Daily-Notes/2021-11-15.md",
-    "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
-    "MOCs/Actuarial Science.md"
+    "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
   ]
 }

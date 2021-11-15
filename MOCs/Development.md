@@ -17,6 +17,11 @@ Alias: "Development"
 - [[Python]]
 - [[Databases]]
 
+## Tools
+
+- [[zsh]] with [[oh-my-zsh]] and various [[oh-my-zsh plugins and themes]]
+- 
+
 ## Conceptual Topics
 
 - [[Unified Architecture Framework]] | [[Unified Architecture Framework|Model Based Systems Engineering]]

@@ -1,3 +1,5 @@
+- 2021-11-15 at 12h02 · [[zsh]]
+- 2021-11-15 at 12h02 · [[Development]]
 - 2021-11-15 at 12h00 · [[API Architecture - Performance Best Practices]]
 - 2021-11-15 at 11h51 · [[Web Development]]
 - 2021-11-15 at 11h45 · [[REST API Best Practices]]
@@ -54,7 +56,6 @@
 - 2021-11-12 at 12h17 · [[_README]]
 - 2021-11-12 at 12h17 · [[_README]]
 - 2021-11-12 at 12h15 · [[Business Process Model and Notation]]
-- 2021-11-12 at 12h12 · [[Development]]
 - 2021-11-12 at 12h10 · [[Unified Architecture Framework]]
 - 2021-11-12 at 12h05 · [[Actuarial Rate Indications Automation]]
 - 2021-11-12 at 12h03 · [[Miniature Insurance Economic Simulator]]

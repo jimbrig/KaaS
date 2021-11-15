@@ -15,9 +15,9 @@
       "links": 0
     },
     "Changelog.md": {
-      "size": 4779,
+      "size": 5534,
       "tags": 0,
-      "links": 97
+      "links": 98
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -518,14 +518,19 @@
       "size": 0,
       "tags": 1,
       "links": 5
+    },
+    "Slipbox/REST API Best Practices.md": {
+      "size": 14162,
+      "tags": 2,
+      "links": 15
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
-      "Create": 94,
-      "Link": 197,
-      "Expand": 24
+      "Create": 95,
+      "Link": 200,
+      "Expand": 26
     }
   },
   "dailyCommits": {
@@ -541,7 +546,7 @@
       "8": 0,
       "9": 0,
       "10": 20,
-      "11": 89,
+      "11": 95,
       "12": 126,
       "13": 34,
       "14": 8,
@@ -558,7 +563,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 108,
+      "Mon": 114,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -593,9 +598,12 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
@@ -641,7 +649,6 @@
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
@@ -702,6 +709,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
@@ -751,8 +759,7 @@
         "<a class=\"internal-link\" href=\"Templates/MOC-Template.md\"> MOC-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Personal/Person-Template.md\"> Person-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -765,6 +772,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -813,9 +822,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

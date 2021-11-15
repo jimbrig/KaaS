@@ -1,5 +1,6 @@
+- 2021-11-15 at 11h55 · [[API Architecture - Performance Best Practices]]
+- 2021-11-15 at 11h51 · [[Web Development]]
 - 2021-11-15 at 11h45 · [[REST API Best Practices]]
-- 2021-11-15 at 11h44 · [[Web Development]]
 - 2021-11-15 at 11h40 · [[2021-11-15]]
 - 2021-11-12 at 14h14 · [[Loss Triangles]]
 - 2021-11-12 at 13h59 · [[Actuarial Science]]

@@ -1,5 +1,5 @@
-- 2021-11-15 at 15h59 · [[Linux - visudo]]
-- 2021-11-15 at 15h58 · [[How to create a passwordless sudoer on Linux]]
+- 2021-11-15 at 16h03 · [[Linux Commands - visudo]]
+- 2021-11-15 at 16h03 · [[How to create a passwordless sudoer on Linux]]
 - 2021-11-15 at 15h55 · [[2021-11-15]]
 - 2021-11-15 at 15h53 · [[Interpolation of Cumulative Loss Development Factors]]
 - 2021-11-15 at 15h53 · [[Workbench]]

@@ -549,18 +549,18 @@
       "tags": 2,
       "links": 1
     },
-    "Slipbox/Linux - visudo.md": {
-      "size": 0,
+    "Slipbox/Linux Commands - visudo.md": {
+      "size": 6022,
       "tags": 2,
-      "links": 0
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 66,
+      "Refactor": 67,
       "Create": 101,
-      "Link": 224,
-      "Expand": 31
+      "Link": 225,
+      "Expand": 32
     }
   },
   "dailyCommits": {
@@ -581,7 +581,7 @@
       "13": 34,
       "14": 8,
       "15": 10,
-      "16": 23,
+      "16": 26,
       "17": 77,
       "18": 0,
       "19": 0,
@@ -593,7 +593,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 149,
+      "Mon": 152,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -635,7 +635,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
@@ -691,6 +692,7 @@
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
         "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
@@ -740,8 +742,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/_README.md\"> _README </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
@@ -807,6 +808,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
@@ -856,8 +858,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

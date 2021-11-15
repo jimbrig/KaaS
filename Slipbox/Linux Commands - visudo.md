@@ -2,7 +2,7 @@
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: ["visudo", "Linux - visudo", "visudo command"]
+Alias: ["visudo", "Linux Commands - visudo", "visudo command"]
 ---
 
 # Linux - visudo command
@@ -103,8 +103,17 @@ Once your text editor session finishes, the control will be back to visudo which
 
 These are the basics of using visudo and editing the sudoers file with it. We recommend you check out the manual pages if you ever need more detailed reference, like man visudo and man sudoers. You can also see a sample sudoers file with many examples at its web site.
 
+***
+
+#### Appendix - Links:
+
 *Backlinks:*
 
-```dataview
-list from [[Linux - visudo]] AND -"Changelog"
-```
+- [[How to create a passwordless sudoer on Linux]]
+
+##### Dataview
+
+
+	```dataview
+	list from [[Linux - visudo]] AND -"Changelog"
+	```

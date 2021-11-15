@@ -542,14 +542,14 @@
     "Slipbox/WSL Terminal and Shell Setup Guide.md": {
       "size": 0,
       "tags": 2,
-      "links": 5
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
       "Create": 99,
-      "Link": 217,
+      "Link": 218,
       "Expand": 27
     }
   },
@@ -567,7 +567,7 @@
       "9": 0,
       "10": 20,
       "11": 99,
-      "12": 144,
+      "12": 145,
       "13": 34,
       "14": 8,
       "15": 0,
@@ -583,7 +583,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 136,
+      "Mon": 137,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -793,6 +793,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
@@ -842,8 +843,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

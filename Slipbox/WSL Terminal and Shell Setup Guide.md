@@ -22,13 +22,38 @@ when prompted, select `0` to create config file and prevent message from showing
 
 ## Install oh-my-zsh
 
-```bash
+Before running the installation script, may be helpful to setup [[Git]] first:
 
+```bash
+sudo apt-get -y install git
+git config --global user.name "Jimmy Briggs"
+git config --global user.name "jimmy.briggs@jimbrig.com"
 ```
 
+Then install oh-my-zsh:
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+This will clone the repo and replace the existing `~/.zshrc` with a template from `oh-my-zsh`. When prompted, set zsh as default shell.
+
+![[Pasted image 20211115122342.png]]
+## Install Powerline
+
+First, need Nerdfonts:
+
+```bash
+git clone https://github.com/powerline/fonts.git
+```
+
+### Configure Zsh and oh-my-zsh
+
+- Edit `~/.zshrc`
+	- Set `ZSH_THEME="agnoster"`
+	- 
 
 *Backlinks:*
 
 ```dataview
-list from [[WSL Terminal and Shell Setup Guide]] AND -"Changelog"
-```
+list from [[WSL Termi

@@ -1,4 +1,4 @@
-- 2021-11-15 at 12h25 · [[WSL Terminal and Shell Setup Guide]]
+- 2021-11-15 at 12h29 · [[WSL Terminal and Shell Setup Guide]]
 - 2021-11-15 at 12h18 · [[zsh]]
 - 2021-11-15 at 12h13 · [[Productivity Apps]]
 - 2021-11-15 at 12h02 · [[Development]]

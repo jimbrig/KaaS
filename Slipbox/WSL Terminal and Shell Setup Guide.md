@@ -41,11 +41,31 @@ This will clone the repo and replace the existing `~/.zshrc` with a template fro
 ![[Pasted image 20211115122342.png]]
 ## Install Powerline
 
-First, need Nerdfonts:
+First, need Nerdfonts; From a Windows Terminal (i.e. [[PowerShell]]):
+
+```PowerShell
+git clone https://github.com/powerline/fonts.git
+cd fonts
+.\install.ps1
+```
+
+This will install all the fonts on your Windows. You might get an error from PowerShell blocking you from running the script. Check [this out](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system) if it happens with you. Make sure to reverse the policy after.
+
+### Change Directory Colors
+
+The directory colors for zsh is awful. If you followed along, by now you should have an ugly yellow or dark blue background on folders when `ls/ll`. Luckily, we can change that by installing a Solarized Color Theme from [here](https://github.com/seebi/dircolors-solarized).
 
 ```bash
-git clone https://github.com/powerline/fonts.git
+curl https://raw.githubusercontent.com/seebi/dircolors-solarized/master/dircolors.ansi-dark --output ~/.dircolors
 ```
+
+Edit your `~/.zshrc`:
+
+```bash
+## set colors for LS_COLORS
+eval `dircolors ~/.dircolors`
+```
+
 
 ### Configure Zsh and oh-my-zsh
 
@@ -56,4 +76,5 @@ git clone https://github.com/powerline/fonts.git
 *Backlinks:*
 
 ```dataview
-list from [[WSL Termi
+list from [[WSL Terminal and Shell Setup Guide]] AND -"Changelog"
+```

@@ -540,17 +540,17 @@
       "links": 8
     },
     "Slipbox/WSL Terminal and Shell Setup Guide.md": {
-      "size": 0,
+      "size": 2318,
       "tags": 2,
-      "links": 7
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
       "Create": 99,
-      "Link": 218,
-      "Expand": 27
+      "Link": 219,
+      "Expand": 28
     }
   },
   "dailyCommits": {
@@ -567,7 +567,7 @@
       "9": 0,
       "10": 20,
       "11": 99,
-      "12": 145,
+      "12": 147,
       "13": 34,
       "14": 8,
       "15": 0,
@@ -583,7 +583,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 137,
+      "Mon": 139,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -621,7 +621,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -794,6 +795,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
@@ -842,8 +844,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

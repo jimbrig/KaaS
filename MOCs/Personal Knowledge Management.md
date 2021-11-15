@@ -1,0 +1,31 @@
+---
+Date: 2021-11-15
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/MOC"]
+Alias: "Personal Knowledge Management"
+---
+
+# Personal Knowledge Management
+
+*Personal Knowledge Management* Map of Content houses all notes related to Personal Knowledge Management in general.
+
+## Notes
+
+## Related
+
+- [[Productivity]]
+- [[Tools#Obsidian]]
+
+## Dataviews
+
+### Tagged as *Category/Personal Knowledge Management*
+
+```dataview
+list from #Category/Personal Knowledge Management AND -"Templates" AND -"MOCs" AND -"Changelog"
+```
+
+### Links to this File
+
+```dataview
+list from [[Personal Knowledge Management]] AND -"Changelog"
+```

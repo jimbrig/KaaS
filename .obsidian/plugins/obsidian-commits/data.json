@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 5534,
       "tags": 0,
-      "links": 104
+      "links": 108
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -553,13 +553,33 @@
       "size": 6022,
       "tags": 2,
       "links": 1
+    },
+    "MOCs/Productivity.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "MOCs/Personal Knowledge Management.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Slipbox/Tools.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Slipbox/Getting Things Done.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 67,
-      "Create": 101,
-      "Link": 225,
+      "Refactor": 68,
+      "Create": 105,
+      "Link": 234,
       "Expand": 32
     }
   },
@@ -581,7 +601,7 @@
       "13": 34,
       "14": 8,
       "15": 10,
-      "16": 26,
+      "16": 40,
       "17": 77,
       "18": 0,
       "19": 0,
@@ -593,7 +613,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 152,
+      "Mon": 166,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -639,6 +659,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -685,13 +709,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
@@ -741,10 +762,13 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
@@ -791,11 +815,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"Templates/Initiative-Template.md\"> Initiative-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/List-Template.md\"> List-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Initiative-Template.md\"> Initiative-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -808,6 +828,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
@@ -853,12 +878,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

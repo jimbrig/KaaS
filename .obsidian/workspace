@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/_README.md",
-            "mode": "preview"
+            "file": "Slipbox/Getting Things Done.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/_README.md"
+                "file": "Slipbox/Getting Things Done.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Slipbox/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Slipbox/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/_README.md",
+                "file": "Slipbox/Getting Things Done.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,15 +195,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Getting Things Done.md",
+    "MOCs/Productivity.md",
+    "MOCs/Personal Knowledge Management.md",
+    "Slipbox/Tools.md",
     "Reference/_README.md",
     "Slipbox/Linux Commands - visudo.md",
     "Slipbox/How to create a passwordless sudoer on Linux.md",
     "Daily-Notes/2021-11-15.md",
     "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
-    "MOCs/Actuarial Science.md",
-    "Slipbox/Property Casualty Data Model.md",
-    "Slipbox/Actuarial Development Master Resource List.md",
-    "Slipbox/WSL Terminal and Shell Setup Guide.md",
-    "Slipbox/zsh.md"
+    "MOCs/Actuarial Science.md"
   ]
 }

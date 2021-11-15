@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 4779,
       "tags": 0,
-      "links": 95
+      "links": 97
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -508,13 +508,23 @@
       "size": 7428,
       "tags": 3,
       "links": 4
+    },
+    "Daily-Notes/2021-11-15.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "MOCs/Web Development.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 65,
-      "Create": 92,
-      "Link": 192,
+      "Refactor": 66,
+      "Create": 94,
+      "Link": 197,
       "Expand": 24
     }
   },
@@ -531,7 +541,7 @@
       "8": 0,
       "9": 0,
       "10": 20,
-      "11": 81,
+      "11": 89,
       "12": 126,
       "13": 34,
       "14": 8,
@@ -548,7 +558,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 100,
+      "Mon": 108,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -586,6 +596,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Web Development.md\"> Web Development </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
@@ -634,11 +646,10 @@
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
         "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
         "<a class=\"internal-link\" href=\"MOCs/Finance.md\"> Finance </a>",
@@ -688,10 +699,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"HOME.md\"> HOME </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
@@ -740,9 +752,7 @@
         "<a class=\"internal-link\" href=\"Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Person-Template.md\"> Person-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Kanban-Template.md\"> Kanban-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Personal/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Personal/Person-Template.md\"> Person-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -755,6 +765,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
@@ -802,10 +815,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - raw.md\"> R Package - raw </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

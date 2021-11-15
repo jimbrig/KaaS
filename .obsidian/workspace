@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Loss Triangles.md",
-            "mode": "preview"
+            "file": "Slipbox/Web Development.md",
+            "mode": "source"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Loss Triangles.md"
+                "file": "Slipbox/Web Development.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Loss Triangles.md",
+                "file": "Slipbox/Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Loss Triangles.md",
+                "file": "Slipbox/Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Loss Triangles.md",
+                "file": "Slipbox/Web Development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,15 +194,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Web Development.md",
+    "MOCs/Development.md",
+    "Daily-Notes/2021-11-15.md",
     "Slipbox/Loss Triangles.md",
     "MOCs/Actuarial Science.md",
     "Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md",
     "Changelog.md",
     "MOCs/_README.md",
     "Daily-Notes/2021-11-12.md",
-    "Workbench.md",
-    "README.md",
-    "Slipbox/R Package - conjuror.md",
-    "Slipbox/R Package - simulationmachine.md"
+    "Workbench.md"
   ]
 }

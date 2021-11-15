@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
-            "mode": "preview"
+            "file": "Daily-Notes/2021-11-15.md",
+            "mode": "source"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "b0a5a272d6505eb1",
+            "id": "765ea1797f551bbc",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -95,24 +95,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
+                "file": "Daily-Notes/2021-11-15.md"
               }
-            }
-          },
-          {
-            "id": "f23069879d02d697",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "54e6b62b1c254acb",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
             }
           },
           {
@@ -121,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
+                "file": "Daily-Notes/2021-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,22 +122,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
+                "file": "Daily-Notes/2021-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dfd637e612f618c8",
+            "id": "e831584dd17f895a",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3249333dcf6ac5f0",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -165,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
+                "file": "Daily-Notes/2021-11-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +194,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-15.md",
     "Slipbox/Interpolation of Cumulative Loss Development Factors.md",
     "MOCs/Actuarial Science.md",
     "Slipbox/Property Casualty Data Model.md",
@@ -210,7 +203,6 @@
     "Slipbox/zsh.md",
     "Slipbox/Productivity Apps.md",
     "MOCs/Development.md",
-    "Slipbox/API Architecture - Performance Best Practices.md",
-    "MOCs/Web Development.md"
+    "Slipbox/API Architecture - Performance Best Practices.md"
   ]
 }

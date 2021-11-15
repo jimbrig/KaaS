@@ -15,6 +15,10 @@ Alias: "Productivity"
 - [[Getting Things Done]]
 - [[Tools]]
 
+## Notes
+
+- [[GTD Mindsweep]]
+
 ## Dataviews
 
 ### Tagged as *Category/Productivity*

@@ -12,7 +12,10 @@ Alias: "GTD Mindsweep"
 ## Contents
 
 - [[#How To Do A Mind Sweep|How To Do A Mind Sweep]]
-		- [[#Related|Related]]
+- [[#Appendix: Links|Appendix: Links]]
+	- [[#Related|Related]]
+	- [[#External Resources|External Resources]]
+
 
 
 ## How To Do A Mind Sweep
@@ -36,9 +39,14 @@ Once you’ve collected things in your in-tray, you can figure out how to action
 
 ***
 
-### Appendix: Links
+## Appendix: Links
 
 ### Related
+
+- [[Getting Things Done]]
+- [[How to Get and Remain Organized During Chaotic Times]]
+
+### External Resources
 
 - [What Is A Mind Sweep? GTD David Allen Methodology (hive.com)](https://hive.com/blog/mind-sweep/)
 - [Episode #27: GTD Keys to Clarifying (gettingthingsdone.com)](https://gettingthingsdone.com/2017/02/episode-27-gtd-keys-to-clarifying/)
@@ -48,18 +56,12 @@ Once you’ve collected things in your in-tray, you can figure out how to action
 - [How to Do a GTD® Mind Sweep. A step-by-step guide to getting a grip… | by David Allen | Better Humans](https://betterhumans.pub/how-to-do-a-gtd-mind-sweep-b314223ba108)
 - [GTD Mindsweep list (github.com)](https://gist.github.com/jimbrig/96afec72827e869cf5b0d4bcf3fe63b3)
 - [BACK ON THE GTD WAGON | Michael Weening: a few pictures](https://michaelweening.com/2011/01/14/back-on-the-gtd-wagon/)
-   
--   [The Secret To Getting Things Done | Zappos.com Blog](https://www.zappos.com/beyondthebox/everyday-living/getting-things-done)
-    
--   [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done (hamberg.no)](https://hamberg.no/gtd/)
+- [The Secret To Getting Things Done | Zappos.com Blog](https://www.zappos.com/beyondthebox/everyday-living/getting-things-done)
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done (hamberg.no)](https://hamberg.no/gtd/)
 
 ***
 
-#### Related
-
-- [[Development]]
-
-*Backlinks:*
+*Dataview:*
 
 ```dataview
 list from [[GTD Mindsweep]] AND -"Changelog"

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/GTD Mindsweep.md",
+            "file": "MOCs/Productivity.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/GTD Mindsweep.md"
+                "file": "MOCs/Productivity.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/GTD Mindsweep.md",
+                "file": "MOCs/Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/GTD Mindsweep.md",
+                "file": "MOCs/Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/GTD Mindsweep.md",
+                "file": "MOCs/Productivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,9 +195,9 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "MOCs/Productivity.md",
     "Slipbox/GTD Mindsweep.md",
     "Slipbox/Getting Things Done.md",
-    "MOCs/Productivity.md",
     "MOCs/Personal Knowledge Management.md",
     "Slipbox/Tools.md",
     "Reference/_README.md",

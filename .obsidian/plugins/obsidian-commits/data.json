@@ -557,7 +557,7 @@
     "MOCs/Productivity.md": {
       "size": 0,
       "tags": 1,
-      "links": 3
+      "links": 4
     },
     "MOCs/Personal Knowledge Management.md": {
       "size": 0,
@@ -577,14 +577,14 @@
     "Slipbox/GTD Mindsweep.md": {
       "size": 4215,
       "tags": 1,
-      "links": 3
+      "links": 6
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 69,
       "Create": 106,
-      "Link": 237,
+      "Link": 239,
       "Expand": 33
     }
   },
@@ -606,7 +606,7 @@
       "13": 34,
       "14": 8,
       "15": 10,
-      "16": 46,
+      "16": 48,
       "17": 77,
       "18": 0,
       "19": 0,
@@ -618,7 +618,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 172,
+      "Mon": 174,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -834,6 +834,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -882,9 +884,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 5534,
       "tags": 0,
-      "links": 100
+      "links": 101
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -533,13 +533,18 @@
       "size": 0,
       "tags": 2,
       "links": 1
+    },
+    "Slipbox/Productivity Apps.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
-      "Create": 97,
-      "Link": 208,
+      "Create": 98,
+      "Link": 211,
       "Expand": 27
     }
   },
@@ -557,7 +562,7 @@
       "9": 0,
       "10": 20,
       "11": 99,
-      "12": 133,
+      "12": 137,
       "13": 34,
       "14": 8,
       "15": 0,
@@ -573,7 +578,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 125,
+      "Mon": 129,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -614,6 +619,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
@@ -662,7 +668,6 @@
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>"
       ],
@@ -720,6 +725,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
@@ -769,8 +775,7 @@
         "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Readme-Template.md\"> Readme-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/MOC-Template.md\"> MOC-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/MOC-Template.md\"> MOC-Template </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -783,6 +788,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -831,9 +838,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

@@ -532,7 +532,7 @@
     "Slipbox/zsh.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 5
     },
     "Slipbox/Productivity Apps.md": {
       "size": 0,
@@ -542,14 +542,14 @@
     "Slipbox/WSL Terminal and Shell Setup Guide.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 66,
       "Create": 99,
-      "Link": 215,
+      "Link": 217,
       "Expand": 27
     }
   },
@@ -567,7 +567,7 @@
       "9": 0,
       "10": 20,
       "11": 99,
-      "12": 142,
+      "12": 144,
       "13": 34,
       "14": 8,
       "15": 0,
@@ -583,7 +583,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 134,
+      "Mon": 136,
       "Tue": 0,
       "Wed": 4,
       "Thu": 0,
@@ -795,6 +795,8 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -841,9 +843,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/CAS - Casualty Actuarial Society.md\"> CAS - Casualty Actuarial Society </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

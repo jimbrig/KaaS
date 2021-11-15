@@ -8,7 +8,10 @@ Alias: "zsh"
 # zsh
 
 - zsh is an awesome shell that is nearly identical to [[bash]] (Bourne-again Shell), but allows for much more customization options.
-- [[oh-my-zsh]] - collection of plugins from t
+- [[oh-my-zsh]] - collection of plugins from the zsh community to help manage your shell configuration and speed up workflows.
+- [[powerlevel10k]] - theme + a necessary [[Nerdfont]]
+- [[ruby]]
+
 
 
 *Backlinks:*

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/zsh.md",
+            "file": "Slipbox/WSL Terminal and Shell Setup Guide.md",
             "mode": "source"
           }
         }
@@ -55,6 +55,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b0a5a272d6505eb1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/zsh.md"
+                "file": "Slipbox/WSL Terminal and Shell Setup Guide.md"
               }
             }
           },
@@ -113,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/zsh.md",
+                "file": "Slipbox/WSL Terminal and Shell Setup Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/zsh.md",
+                "file": "Slipbox/WSL Terminal and Shell Setup Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/zsh.md",
+                "file": "Slipbox/WSL Terminal and Shell Setup Guide.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,8 +202,8 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
-    "Slipbox/zsh.md",
     "Slipbox/WSL Terminal and Shell Setup Guide.md",
+    "Slipbox/zsh.md",
     "Slipbox/Productivity Apps.md",
     "MOCs/Development.md",
     "Slipbox/API Architecture - Performance Best Practices.md",

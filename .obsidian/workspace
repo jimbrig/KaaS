@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/R.md",
-            "mode": "source"
+            "file": "MOCs/_README.md",
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/R.md"
+                "file": "MOCs/_README.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/R.md",
+                "file": "MOCs/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/R.md",
+                "file": "MOCs/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/R.md",
+                "file": "MOCs/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,15 +195,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "MOCs/_README.md",
+    "MOCs/Web Development.md",
+    "MOCs/Software Development.md",
     "MOCs/R.md",
     "MOCs/Development.md",
     "MOCs/Actuarial Science.md",
     "Slipbox/Loss Triangles.md",
     "Slipbox/_README.md",
     "Reference/_README.md",
-    "Daily-Notes/2021-11-16.md",
-    "README.md",
-    "MOCs/Productivity.md",
-    "Slipbox/GTD Mindsweep.md"
+    "Daily-Notes/2021-11-16.md"
   ]
 }

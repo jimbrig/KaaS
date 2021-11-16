@@ -13,6 +13,10 @@ Alias: "R"
 
 -   [[Simulating Actuarial Claims Data with R]]
 -   [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
+<br>
+-   [[KasaAI GitHub Organization]]
+-   [[CAS - Casualty Actuarial Society]]
+<br>
 -   [[R Packge - deeptriangle]]
 -   [[R Package - simulationmachine]]
 -   [[R Package - rsvr]]
@@ -25,18 +29,21 @@ Alias: "R"
 -   [[R Package - casdata]]
 -   [[R Package - cascsim]]
 -   [[R Package - actuar]]
--   [[KasaAI GitHub Organization]]
--   [[CAS - Casualty Actuarial Society]]
 
 
 ## Related MOCs
+
+-   [[Web Development]]
+-   [[Development]]
+-   [[Actuarial Science]]
+-   [[Data Science]]
 
 ## Dataviews
 
 ### Tagged as *Category/R*
 
 ```dataview
-list from #Category/R AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/Dev/R AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

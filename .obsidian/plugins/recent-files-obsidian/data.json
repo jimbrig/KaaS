@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "MOCs/_README.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "MOCs/Web Development.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "MOCs/Software Development.md"
+    },
+    {
       "basename": "R",
       "path": "MOCs/R.md"
     },

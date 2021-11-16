@@ -5,7 +5,7 @@ Tags: ["#Type/Readme"]
 Alias: MOCs
 ---
 
-# MOCs
+# Maps of Content
 
 *Contents*
 

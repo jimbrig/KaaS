@@ -15,10 +15,10 @@ Alias: "Software Development"
 
 ## Dataviews
 
-### Tagged as *Category/Software Development*
+### Tagged as *Topic/Dev*
 
 ```dataview
-list from #Category/Software Development AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/Dev AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

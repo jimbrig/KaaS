@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 154
+      "links": 155
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -545,7 +545,7 @@
       "links": 8
     },
     "Slipbox/How to create a passwordless sudoer on Linux.md": {
-      "size": 0,
+      "size": 2051,
       "tags": 2,
       "links": 1
     },
@@ -803,14 +803,19 @@
       "size": 6806,
       "tags": 2,
       "links": 0
+    },
+    "Slipbox/WSL Initial Setup Notes.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 74,
-      "Create": 153,
-      "Link": 308,
-      "Expand": 52
+      "Create": 154,
+      "Link": 311,
+      "Expand": 53
     }
   },
   "dailyCommits": {
@@ -831,7 +836,7 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 48,
+      "16": 53,
       "17": 77,
       "18": 1,
       "19": 0,
@@ -844,7 +849,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 139,
+      "Tue": 144,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -855,6 +860,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -904,10 +910,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
@@ -957,8 +963,7 @@
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Personal Knowledge Management.md\"> Personal Knowledge Management </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
@@ -1014,6 +1019,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure MLOps.md\"> Azure MLOps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
@@ -1063,8 +1069,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
@@ -1081,6 +1086,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
@@ -1129,9 +1136,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

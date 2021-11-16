@@ -7,7 +7,7 @@
     "Workbench.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 3
     },
     "README.md": {
       "size": 0,
@@ -217,7 +217,7 @@
     "MOCs/R.md": {
       "size": 2191,
       "tags": 1,
-      "links": 0
+      "links": 20
     },
     "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md": {
       "size": 3522,
@@ -589,14 +589,14 @@
     "/": {
       "Refactor": 70,
       "Create": 107,
-      "Link": 243,
+      "Link": 245,
       "Expand": 34
     }
   },
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 5,
+      "1": 7,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -624,7 +624,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 6,
+      "Tue": 8,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -840,6 +840,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
+        "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
@@ -888,9 +890,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

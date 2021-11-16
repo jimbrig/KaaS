@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Changelog.md",
-            "mode": "preview"
+            "file": "MOCs/Data Science.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog.md"
+                "file": "MOCs/Data Science.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changelog.md",
+                "file": "MOCs/Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +123,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Changelog.md",
+                "file": "MOCs/Data Science.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -157,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Changelog.md",
+                "file": "MOCs/Data Science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,30 +181,38 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792593,
+                  "scale": 0.36288736930121207,
                   "close": false
                 }
               }
             }
+          },
+          {
+            "id": "9bc445d835a9265e",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 359,
-    "collapsed": true
+    "width": 359
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "MOCs/Data Science.md",
+    "MOCs/Actuarial Science.md",
+    "Slipbox/Simulating Actuarial Claims Data with R.md",
+    "MOCs/R.md",
+    "Daily-Notes/2021-11-16.md",
+    "Slipbox/SQLite.md",
     "Changelog.md",
     "MOCs/_README.md",
     "MOCs/Web Development.md",
-    "MOCs/Software Development.md",
-    "MOCs/R.md",
-    "MOCs/Development.md",
-    "MOCs/Actuarial Science.md",
-    "Slipbox/Loss Triangles.md",
-    "Slipbox/_README.md",
-    "Reference/_README.md"
+    "MOCs/Software Development.md"
   ]
 }

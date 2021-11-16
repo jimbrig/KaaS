@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Science",
+      "path": "MOCs/Data Science.md"
+    },
+    {
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
+      "basename": "Simulating Actuarial Claims Data with R",
+      "path": "Slipbox/Simulating Actuarial Claims Data with R.md"
+    },
+    {
+      "basename": "R",
+      "path": "MOCs/R.md"
+    },
+    {
+      "basename": "2021-11-16",
+      "path": "Daily-Notes/2021-11-16.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "Slipbox/SQLite.md"
+    },
+    {
       "basename": "Changelog",
       "path": "Changelog.md"
     },
@@ -17,16 +41,8 @@
       "path": "MOCs/Software Development.md"
     },
     {
-      "basename": "R",
-      "path": "MOCs/R.md"
-    },
-    {
       "basename": "Development",
       "path": "MOCs/Development.md"
-    },
-    {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
     },
     {
       "basename": "Loss Triangles",
@@ -39,10 +55,6 @@
     {
       "basename": "_README",
       "path": "Reference/_README.md"
-    },
-    {
-      "basename": "2021-11-16",
-      "path": "Daily-Notes/2021-11-16.md"
     },
     {
       "basename": "README",

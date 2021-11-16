@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Database Connection Pooling",
+      "path": "Slipbox/Database Connection Pooling.md"
+    },
+    {
+      "basename": "System Design",
+      "path": "Slipbox/System Design.md"
+    },
+    {
+      "basename": "Python Package - Flask",
+      "path": "Slipbox/Python Package - Flask.md"
+    },
+    {
+      "basename": "Reproducible Data Science with Azure Machine Learning",
+      "path": "Slipbox/Reproducible Data Science with Azure Machine Learning.md"
+    },
+    {
       "basename": "Azure MLOps",
       "path": "Slipbox/Azure MLOps.md"
+    },
+    {
+      "basename": "SQLAlchemy ORM",
+      "path": "Slipbox/SQLAlchemy ORM.md"
+    },
+    {
+      "basename": "Pasted image 20211115122342",
+      "path": "Slipbox/_assets/Pasted image 20211115122342.png"
+    },
+    {
+      "basename": "Database-Pooling",
+      "path": "Slipbox/_assets/Database-Pooling.png"
+    },
+    {
+      "basename": "Git",
+      "path": "Slipbox/Git.md"
+    },
+    {
+      "basename": "Developer Notebooks",
+      "path": "Slipbox/Developer Notebooks.md"
+    },
+    {
+      "basename": "Azure ML Compute Instances",
+      "path": "Slipbox/Azure ML Compute Instances.md"
+    },
+    {
+      "basename": "modern notebook environments",
+      "path": "Slipbox/modern notebook environments.md"
+    },
+    {
+      "basename": "Deployment",
+      "path": "Slipbox/Deployment.md"
+    },
+    {
+      "basename": "Reproducible Research",
+      "path": "Slipbox/Reproducible Research.md"
     },
     {
       "basename": "Azure Data Studio",
@@ -147,58 +199,6 @@
     {
       "basename": "CAS - Casualty Actuarial Society",
       "path": "Slipbox/CAS - Casualty Actuarial Society.md"
-    },
-    {
-      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
-      "path": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
-    },
-    {
-      "basename": "Simulating Actuarial Claims Data with R",
-      "path": "Slipbox/Simulating Actuarial Claims Data with R.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "MOCs/Web Development.md"
-    },
-    {
-      "basename": "Software Development",
-      "path": "MOCs/Software Development.md"
-    },
-    {
-      "basename": "Development",
-      "path": "MOCs/Development.md"
-    },
-    {
-      "basename": "2021-11-16",
-      "path": "Daily-Notes/2021-11-16.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "MOCs/Data Science.md"
-    },
-    {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
-    },
-    {
-      "basename": "R",
-      "path": "MOCs/R.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "Slipbox/SQLite.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
-    },
-    {
-      "basename": "_README",
-      "path": "MOCs/_README.md"
-    },
-    {
-      "basename": "Loss Triangles",
-      "path": "Slipbox/Loss Triangles.md"
     }
   ],
   "omittedPaths": [],

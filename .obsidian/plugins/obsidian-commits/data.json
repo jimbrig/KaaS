@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 142
+      "links": 153
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -741,16 +741,71 @@
     },
     "Slipbox/Azure MLOps.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Reproducible Data Science with Azure Machine Learning.md": {
+      "size": 2128,
+      "tags": 2,
+      "links": 8
+    },
+    "Slipbox/Reproducible Research.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Deployment.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/modern notebook environments.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure ML Compute Instances.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Developer Notebooks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Git.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Database Connection Pooling.md": {
+      "size": 2925,
+      "tags": 2,
+      "links": 6
+    },
+    "Slipbox/SQLAlchemy ORM.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Python Package - Flask.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/System Design.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 73,
-      "Create": 140,
-      "Link": 289,
-      "Expand": 49
+      "Refactor": 74,
+      "Create": 152,
+      "Link": 306,
+      "Expand": 51
     }
   },
   "dailyCommits": {
@@ -770,7 +825,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 105,
+      "15": 137,
       "16": 48,
       "17": 77,
       "18": 1,
@@ -784,7 +839,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 103,
+      "Tue": 135,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -843,9 +898,23 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Git.md\"> Git </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/modern notebook environments.md\"> modern notebook environments </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Deployment.md\"> Deployment </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Research.md\"> Reproducible Research </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Visual Studio Code.md\"> Visual Studio Code </a>",
         "<a class=\"internal-link\" href=\"Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
@@ -884,19 +953,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
@@ -952,6 +1009,18 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Azure MLOps.md\"> Azure MLOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Research.md\"> Reproducible Research </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Deployment.md\"> Deployment </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/modern notebook environments.md\"> modern notebook environments </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Git.md\"> Git </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
@@ -990,19 +1059,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
@@ -1015,9 +1072,15 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
@@ -1063,12 +1126,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

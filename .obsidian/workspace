@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Azure MLOps.md",
-            "mode": "source"
+            "file": "Slipbox/Database Connection Pooling.md",
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Azure MLOps.md"
+                "file": "Slipbox/Database Connection Pooling.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Azure MLOps.md",
+                "file": "Slipbox/Database Connection Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Azure MLOps.md",
+                "file": "Slipbox/Database Connection Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,9 +143,17 @@
               "type": "toggl-report",
               "state": {}
             }
+          },
+          {
+            "id": "319baee1cd49cf8b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -157,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Azure MLOps.md",
+                "file": "Slipbox/Database Connection Pooling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,15 +202,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Database Connection Pooling.md",
+    "Slipbox/System Design.md",
+    "Slipbox/Python Package - Flask.md",
+    "Slipbox/Reproducible Data Science with Azure Machine Learning.md",
     "Slipbox/Azure MLOps.md",
-    "Slipbox/Azure Data Studio.md",
-    "Slipbox/Azure DevOps Pipelines.md",
-    "Slipbox/Visual Studio Code.md",
-    "Slipbox/SQL Server Management Studio.md",
-    "Slipbox/Azure DevOps.md",
-    "Slipbox/Azure SQL Databases.md",
-    "Slipbox/DotNet.md",
-    "Slipbox/Azure Machine Learning.md",
-    "Slipbox/PowerShell.md"
+    "Slipbox/Python SQLAlchemy.md",
+    "Slipbox/SQLAlchemy ORM.md",
+    "Slipbox/_assets/Pasted image 20211115122342.png",
+    "Slipbox/_assets/Database-Pooling.png",
+    "Slipbox/Git.md"
   ]
 }

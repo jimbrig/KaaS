@@ -5,7 +5,7 @@ Tags: ["#Type/Slipbox", "#Topic/Dev"]
 Alias: "Azure MLOps"
 ---
 
-# Azure MLOps
+# Azure MLOps: DevOps for Machine Learning
 
 DevOps for machine learning models, often called `MLOps`, is a process for developing models for production. 
 

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "AWS Athena",
-      "path": "Slipbox/AWS Athena.md"
+      "basename": "REST API Methods",
+      "path": "Slipbox/REST API Methods.md"
+    },
+    {
+      "basename": "REST API Idempotence",
+      "path": "Slipbox/REST API Idempotence.md"
+    },
+    {
+      "basename": "API Design",
+      "path": "Slipbox/API Design.md"
+    },
+    {
+      "basename": "API Authentication",
+      "path": "Slipbox/API Authentication.md"
+    },
+    {
+      "basename": "Team Data Science Process",
+      "path": "Slipbox/Team Data Science Process.md"
     },
     {
       "basename": "Data Warehouse",
@@ -11,6 +27,14 @@
     {
       "basename": "AWS Glue",
       "path": "Slipbox/AWS Glue.md"
+    },
+    {
+      "basename": "AWS QuickSight",
+      "path": "Slipbox/AWS QuickSight.md"
+    },
+    {
+      "basename": "AWS Athena",
+      "path": "Slipbox/AWS Athena.md"
     },
     {
       "basename": "AWS Redshift",

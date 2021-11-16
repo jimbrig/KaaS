@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 6695,
       "tags": 0,
-      "links": 121
+      "links": 129
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -638,14 +638,59 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "Slipbox/AWS Redshift.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/AWS Glue.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/AWS Athena.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/AWS QuickSight.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/Team Data Science Process.md": {
+      "size": 7911,
+      "tags": 1,
+      "links": 6
+    },
+    "Slipbox/API Authentication.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/API Design.md": {
+      "size": 5337,
+      "tags": 3,
+      "links": 1
+    },
+    "Slipbox/REST API Idempotence.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 71,
-      "Create": 118,
-      "Link": 264,
-      "Expand": 39
+      "Refactor": 72,
+      "Create": 128,
+      "Link": 271,
+      "Expand": 41
     }
   },
   "dailyCommits": {
@@ -665,7 +710,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 46,
+      "15": 66,
       "16": 48,
       "17": 77,
       "18": 1,
@@ -679,7 +724,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 44,
+      "Tue": 64,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -728,9 +773,21 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Athena.md\"> AWS Athena </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -771,17 +828,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
@@ -837,6 +884,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Idempotence.md\"> REST API Idempotence </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
@@ -883,11 +934,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
@@ -899,9 +946,13 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
@@ -949,10 +1000,7 @@
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

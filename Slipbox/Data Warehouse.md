@@ -98,7 +98,6 @@ A data mart is a data warehouse that serves the needs of a specific team or busi
 - [[Data Mart]]
 - [[Databases]]
 - [[AWS Redshift]]
-- [[AWS Glue]]
 - [[AWS Athena]]
 - [[AWS QuickSight]]
 - [[AWS Glue]]

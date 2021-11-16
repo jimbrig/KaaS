@@ -2,13 +2,13 @@
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "AWS Glue"
+Alias: "REST API Methods"
 ---
 
-# AWS Glue
+# REST API Methods
 
 *Backlinks:*
 
 ```dataview
-list from [[AWS Glue]] AND -"Changelog"
+list from [[REST API Methods]] AND -"Changelog"
 ```

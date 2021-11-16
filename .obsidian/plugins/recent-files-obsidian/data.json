@@ -1,36 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Science",
-      "path": "MOCs/Data Science.md"
+      "basename": "Prophet Actuarial Tool",
+      "path": "Slipbox/Prophet Actuarial Tool.md"
     },
     {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
+      "basename": "Loss Data Analytics",
+      "path": "Slipbox/Loss Data Analytics.md"
+    },
+    {
+      "basename": "KasaAI GitHub Organization",
+      "path": "Slipbox/KasaAI GitHub Organization.md"
+    },
+    {
+      "basename": "Actuarial Development Master Resource List",
+      "path": "Slipbox/Actuarial Development Master Resource List.md"
+    },
+    {
+      "basename": "CAS - Casualty Actuarial Society",
+      "path": "Slipbox/CAS - Casualty Actuarial Society.md"
+    },
+    {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
     },
     {
       "basename": "Simulating Actuarial Claims Data with R",
       "path": "Slipbox/Simulating Actuarial Claims Data with R.md"
-    },
-    {
-      "basename": "R",
-      "path": "MOCs/R.md"
-    },
-    {
-      "basename": "2021-11-16",
-      "path": "Daily-Notes/2021-11-16.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "Slipbox/SQLite.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
-    },
-    {
-      "basename": "_README",
-      "path": "MOCs/_README.md"
     },
     {
       "basename": "Web Development",
@@ -43,6 +39,34 @@
     {
       "basename": "Development",
       "path": "MOCs/Development.md"
+    },
+    {
+      "basename": "2021-11-16",
+      "path": "Daily-Notes/2021-11-16.md"
+    },
+    {
+      "basename": "Data Science",
+      "path": "MOCs/Data Science.md"
+    },
+    {
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
+      "basename": "R",
+      "path": "MOCs/R.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "Slipbox/SQLite.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "basename": "_README",
+      "path": "MOCs/_README.md"
     },
     {
       "basename": "Loss Triangles",
@@ -95,10 +119,6 @@
     {
       "basename": "Property Casualty Data Model",
       "path": "Slipbox/Property Casualty Data Model.md"
-    },
-    {
-      "basename": "Actuarial Development Master Resource List",
-      "path": "Slipbox/Actuarial Development Master Resource List.md"
     },
     {
       "basename": "WSL Terminal and Shell Setup Guide",

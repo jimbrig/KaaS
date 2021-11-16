@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 5534,
       "tags": 0,
-      "links": 110
+      "links": 111
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -225,9 +225,9 @@
       "links": 5
     },
     "Slipbox/Actuarial Development Master Resource List.md": {
-      "size": 11472,
+      "size": 22997,
       "tags": 1,
-      "links": 1
+      "links": 8
     },
     "Slipbox/Actuarial Experience Studies.md": {
       "size": 2030,
@@ -265,9 +265,9 @@
       "links": 4
     },
     "Slipbox/Loss Data Analytics.md": {
-      "size": 5115,
+      "size": 4192,
       "tags": 1,
-      "links": 7
+      "links": 8
     },
     "Slipbox/Property Casualty Data Model.md": {
       "size": 7496,
@@ -583,14 +583,19 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "Slipbox/Prophet Actuarial Tool.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 70,
-      "Create": 107,
-      "Link": 245,
-      "Expand": 34
+      "Refactor": 71,
+      "Create": 108,
+      "Link": 250,
+      "Expand": 35
     }
   },
   "dailyCommits": {
@@ -610,7 +615,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 10,
+      "15": 18,
       "16": 48,
       "17": 77,
       "18": 1,
@@ -624,7 +629,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 8,
+      "Tue": 16,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -668,9 +673,11 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>"
+        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
@@ -720,8 +727,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
@@ -777,6 +783,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
@@ -826,10 +833,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>"
       ],
-      "Refactored": [],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
+      ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/Obsidian.md\"> Obsidian </a>",
@@ -840,6 +848,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -886,11 +898,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

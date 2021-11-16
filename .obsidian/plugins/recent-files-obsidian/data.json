@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Azure MLOps",
+      "path": "Slipbox/Azure MLOps.md"
+    },
+    {
+      "basename": "Azure Data Studio",
+      "path": "Slipbox/Azure Data Studio.md"
+    },
+    {
+      "basename": "Azure DevOps Pipelines",
+      "path": "Slipbox/Azure DevOps Pipelines.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Slipbox/Visual Studio Code.md"
+    },
+    {
+      "basename": "SQL Server Management Studio",
+      "path": "Slipbox/SQL Server Management Studio.md"
+    },
+    {
+      "basename": "Azure DevOps",
+      "path": "Slipbox/Azure DevOps.md"
+    },
+    {
+      "basename": "Azure SQL Databases",
+      "path": "Slipbox/Azure SQL Databases.md"
+    },
+    {
+      "basename": "DotNet",
+      "path": "Slipbox/DotNet.md"
+    },
+    {
+      "basename": "Azure Machine Learning",
+      "path": "Slipbox/Azure Machine Learning.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "Slipbox/PowerShell.md"
+    },
+    {
+      "basename": "Developer Productivity and Collaboration with Azure Machine Learning",
+      "path": "Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md"
+    },
+    {
+      "basename": "REST API Resources List",
+      "path": "Slipbox/REST API Resources List.md"
+    },
+    {
+      "basename": "REST API Resource Naming",
+      "path": "Slipbox/REST API Resource Naming.md"
+    },
+    {
       "basename": "REST API Methods",
       "path": "Slipbox/REST API Methods.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Loss Triangles",
       "path": "Slipbox/Loss Triangles.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Slipbox/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Productivity",
-      "path": "MOCs/Productivity.md"
-    },
-    {
-      "basename": "GTD Mindsweep",
-      "path": "Slipbox/GTD Mindsweep.md"
-    },
-    {
-      "basename": "Getting Things Done",
-      "path": "Slipbox/Getting Things Done.md"
-    },
-    {
-      "basename": "Personal Knowledge Management",
-      "path": "MOCs/Personal Knowledge Management.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Slipbox/Tools.md"
-    },
-    {
-      "basename": "Linux Commands - visudo",
-      "path": "Slipbox/Linux Commands - visudo.md"
-    },
-    {
-      "basename": "How to create a passwordless sudoer on Linux",
-      "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
-    },
-    {
-      "basename": "Interpolation of Cumulative Loss Development Factors",
-      "path": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
-    },
-    {
-      "basename": "Property Casualty Data Model",
-      "path": "Slipbox/Property Casualty Data Model.md"
-    },
-    {
-      "basename": "WSL Terminal and Shell Setup Guide",
-      "path": "Slipbox/WSL Terminal and Shell Setup Guide.md"
     }
   ],
   "omittedPaths": [],

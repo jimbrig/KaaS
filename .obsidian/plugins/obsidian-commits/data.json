@@ -15,9 +15,9 @@
       "links": 15
     },
     "Changelog.md": {
-      "size": 6695,
+      "size": 7716,
       "tags": 0,
-      "links": 129
+      "links": 142
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -385,9 +385,9 @@
       "links": 0
     },
     "Slipbox/Azure Machine Learning.md": {
-      "size": 0,
+      "size": 10006,
       "tags": 2,
-      "links": 0
+      "links": 28
     },
     "MOCs/Finance.md": {
       "size": 0,
@@ -679,7 +679,67 @@
       "tags": 2,
       "links": 0
     },
-    "Slipbox/Untitled.md": {
+    "Slipbox/REST API Methods.md": {
+      "size": 9626,
+      "tags": 2,
+      "links": 7
+    },
+    "Slipbox/REST API Resource Naming.md": {
+      "size": 10255,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/REST API Resources List.md": {
+      "size": 2469,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md": {
+      "size": 3741,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/PowerShell.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/DotNet.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure DevOps Pipelines.md": {
+      "size": 3060,
+      "tags": 3,
+      "links": 9
+    },
+    "Slipbox/Azure SQL Databases.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure DevOps.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure Data Studio.md": {
+      "size": 6911,
+      "tags": 2,
+      "links": 16
+    },
+    "Slipbox/SQL Server Management Studio.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Visual Studio Code.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure MLOps.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -687,10 +747,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 72,
-      "Create": 128,
-      "Link": 271,
-      "Expand": 41
+      "Refactor": 73,
+      "Create": 140,
+      "Link": 289,
+      "Expand": 49
     }
   },
   "dailyCommits": {
@@ -710,7 +770,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 66,
+      "15": 105,
       "16": 48,
       "17": 77,
       "18": 1,
@@ -724,7 +784,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 64,
+      "Tue": 103,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -775,9 +835,29 @@
         "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps.md\"> Azure DevOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure SQL Databases.md\"> Azure SQL Databases </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Notes/Windows/DotNet.md\"> DotNet </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
@@ -816,21 +896,10 @@
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
@@ -880,10 +949,21 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure SQL Databases.md\"> Azure SQL Databases </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps.md\"> Azure DevOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Visual Studio Code.md\"> Visual Studio Code </a>",
         "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
@@ -922,19 +1002,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
@@ -950,6 +1018,12 @@
         "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -994,13 +1068,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
         "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

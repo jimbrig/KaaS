@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/REST API Methods.md",
+            "file": "Slipbox/Azure MLOps.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/REST API Methods.md"
+                "file": "Slipbox/Azure MLOps.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/REST API Methods.md",
+                "file": "Slipbox/Azure MLOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/REST API Methods.md",
+                "file": "Slipbox/Azure MLOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/REST API Methods.md",
+                "file": "Slipbox/Azure MLOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,15 +194,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
-    "Slipbox/REST API Methods.md",
-    "Slipbox/REST API Idempotence.md",
-    "Slipbox/API Design.md",
-    "Slipbox/Azure_API-Design_Guide_eBook.pdf.md",
-    "Slipbox/API Authentication.md",
-    "Slipbox/Team Data Science Process.md",
-    "Slipbox/Data Warehouse.md",
-    "Slipbox/AWS Glue.md",
-    "Slipbox/AWS QuickSight.md",
-    "Slipbox/AWS Athena.md"
+    "Slipbox/Azure MLOps.md",
+    "Slipbox/Azure Data Studio.md",
+    "Slipbox/Azure DevOps Pipelines.md",
+    "Slipbox/Visual Studio Code.md",
+    "Slipbox/SQL Server Management Studio.md",
+    "Slipbox/Azure DevOps.md",
+    "Slipbox/Azure SQL Databases.md",
+    "Slipbox/DotNet.md",
+    "Slipbox/Azure Machine Learning.md",
+    "Slipbox/PowerShell.md"
   ]
 }

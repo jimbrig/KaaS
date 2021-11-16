@@ -805,7 +805,7 @@
       "links": 0
     },
     "Slipbox/WSL Initial Setup Notes.md": {
-      "size": 0,
+      "size": 49190,
       "tags": 2,
       "links": 1
     }
@@ -815,7 +815,7 @@
       "Refactor": 74,
       "Create": 154,
       "Link": 311,
-      "Expand": 53
+      "Expand": 54
     }
   },
   "dailyCommits": {
@@ -836,7 +836,7 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 53,
+      "16": 54,
       "17": 77,
       "18": 1,
       "19": 0,
@@ -849,7 +849,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 144,
+      "Tue": 145,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -860,6 +860,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -909,8 +910,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",

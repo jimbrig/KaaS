@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/_README.md",
+            "file": "Changelog.md",
             "mode": "preview"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/_README.md"
+                "file": "Changelog.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "Changelog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/_README.md",
+                "file": "Changelog.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,6 +195,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Changelog.md",
     "MOCs/_README.md",
     "MOCs/Web Development.md",
     "MOCs/Software Development.md",
@@ -203,7 +204,6 @@
     "MOCs/Actuarial Science.md",
     "Slipbox/Loss Triangles.md",
     "Slipbox/_README.md",
-    "Reference/_README.md",
-    "Daily-Notes/2021-11-16.md"
+    "Reference/_README.md"
   ]
 }

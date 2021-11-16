@@ -805,14 +805,14 @@
       "links": 0
     },
     "Slipbox/WSL Initial Setup Notes.md": {
-      "size": 49190,
+      "size": 12406,
       "tags": 2,
       "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 74,
+      "Refactor": 75,
       "Create": 154,
       "Link": 311,
       "Expand": 54
@@ -836,7 +836,7 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 54,
+      "16": 55,
       "17": 77,
       "18": 1,
       "19": 0,
@@ -849,7 +849,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 145,
+      "Tue": 146,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -1072,7 +1072,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>"
       ],
       "Refactored": [
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Untitled.md\"> Untitled </a>",

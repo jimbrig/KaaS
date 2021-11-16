@@ -15,9 +15,9 @@
       "links": 15
     },
     "Changelog.md": {
-      "size": 5534,
+      "size": 6695,
       "tags": 0,
-      "links": 111
+      "links": 121
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -588,14 +588,64 @@
       "size": 0,
       "tags": 3,
       "links": 2
+    },
+    "Slipbox/Problems with No-Code and Low-Code Tools.md": {
+      "size": 8178,
+      "tags": 2,
+      "links": 9
+    },
+    "Slipbox/Alteryx.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Caching.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Geospatial.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Memoization.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/No-Code and Low-Code.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Data Lake.md": {
+      "size": 6096,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Data Warehouse.md": {
+      "size": 11212,
+      "tags": 2,
+      "links": 7
+    },
+    "Slipbox/Data Mart.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 71,
-      "Create": 108,
-      "Link": 250,
-      "Expand": 35
+      "Create": 118,
+      "Link": 264,
+      "Expand": 39
     }
   },
   "dailyCommits": {
@@ -615,7 +665,7 @@
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 18,
+      "15": 46,
       "16": 48,
       "17": 77,
       "18": 1,
@@ -629,7 +679,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 16,
+      "Tue": 44,
       "Wed": 4,
       "Thu": 0,
       "Fri": 269,
@@ -674,9 +724,23 @@
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
@@ -717,17 +781,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Software Development.md\"> Software Development </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
@@ -783,6 +837,16 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md\"> Logical Architecture of Modern Data Lake Centric Analytics Platforms </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
@@ -823,17 +887,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>"
@@ -848,6 +902,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -893,10 +951,6 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Prophet Actuarial Tool.md",
-            "mode": "source"
+            "file": "Slipbox/Data Warehouse.md",
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Prophet Actuarial Tool.md"
+                "file": "Slipbox/Data Warehouse.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Prophet Actuarial Tool.md",
+                "file": "Slipbox/Data Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Prophet Actuarial Tool.md",
+                "file": "Slipbox/Data Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Prophet Actuarial Tool.md",
+                "file": "Slipbox/Data Warehouse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,15 +194,15 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Data Warehouse.md",
+    "Slipbox/AWS Glue.md",
+    "Slipbox/AWS Redshift.md",
+    "Slipbox/Data Mart.md",
+    "Slipbox/Data Lake.md",
+    "Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md",
+    "Slipbox/Problems with No-Code and Low-Code Tools.md",
+    "Slipbox/No-Code and Low-Code.md",
     "Slipbox/Prophet Actuarial Tool.md",
-    "Slipbox/Loss Data Analytics.md",
-    "Slipbox/KasaAI GitHub Organization.md",
-    "Slipbox/Actuarial Development Master Resource List.md",
-    "Slipbox/CAS - Casualty Actuarial Society.md",
-    "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
-    "Slipbox/Simulating Actuarial Claims Data with R.md",
-    "MOCs/Web Development.md",
-    "MOCs/Software Development.md",
-    "MOCs/Development.md"
+    "Slipbox/Memoization.md"
   ]
 }

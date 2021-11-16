@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "AWS Athena",
+      "path": "Slipbox/AWS Athena.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Slipbox/Data Warehouse.md"
+    },
+    {
+      "basename": "AWS Glue",
+      "path": "Slipbox/AWS Glue.md"
+    },
+    {
+      "basename": "AWS Redshift",
+      "path": "Slipbox/AWS Redshift.md"
+    },
+    {
+      "basename": "Data Mart",
+      "path": "Slipbox/Data Mart.md"
+    },
+    {
+      "basename": "Data Lake",
+      "path": "Slipbox/Data Lake.md"
+    },
+    {
+      "basename": "Logical Architecture of Modern Data Lake Centric Analytics Platforms",
+      "path": "Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md"
+    },
+    {
+      "basename": "Problems with No-Code and Low-Code Tools",
+      "path": "Slipbox/Problems with No-Code and Low-Code Tools.md"
+    },
+    {
+      "basename": "No-Code and Low-Code",
+      "path": "Slipbox/No-Code and Low-Code.md"
+    },
+    {
       "basename": "Prophet Actuarial Tool",
       "path": "Slipbox/Prophet Actuarial Tool.md"
+    },
+    {
+      "basename": "Memoization",
+      "path": "Slipbox/Memoization.md"
+    },
+    {
+      "basename": "Geospatial",
+      "path": "Slipbox/Geospatial.md"
+    },
+    {
+      "basename": "Caching",
+      "path": "Slipbox/Caching.md"
+    },
+    {
+      "basename": "Alteryx",
+      "path": "Slipbox/Alteryx.md"
     },
     {
       "basename": "Loss Data Analytics",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/WSL Initial Setup Notes.md",
+            "file": "Daily-Notes/2021-11-16.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/WSL Initial Setup Notes.md"
+                "file": "Daily-Notes/2021-11-16.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/WSL Initial Setup Notes.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/WSL Initial Setup Notes.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/WSL Initial Setup Notes.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,9 +202,9 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-16.md",
     "Slipbox/WSL Initial Setup Notes.md",
     "Slipbox/How to create a passwordless sudoer on Linux.md",
-    "Daily-Notes/2021-11-16.md",
     "Daily-Notes/2021-11-15.md",
     "Slipbox/Stored Procedures - SQL Server.md",
     "Slipbox/Database Connection Pooling.md",

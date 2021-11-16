@@ -25,9 +25,7 @@ sudo apt -y install build-essential gcc git-core cowsay tree neofetch dos2unix g
 jimmy@USQ2BZYWHI:~$ dpkg --get-selections | grep -v deinstall | awk '{print $1}'
 ```
 
-<details><summary>View</summary><p>
-
-</p></details>
+<details><summary>View Output</summary><p>
 
 ```bash
 accountsservice
@@ -769,6 +767,10 @@ xz-utils
 zerofree
 zlib1g:amd64
 ```
+
+</p></details>
+
+
 
 ### Setup and Configure Git, SSH, and GPG
 

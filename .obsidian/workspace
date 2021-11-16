@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Database Connection Pooling.md",
+            "file": "Slipbox/Stored Procedures - SQL Server.md",
             "mode": "preview"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Database Connection Pooling.md"
+                "file": "Slipbox/Stored Procedures - SQL Server.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Database Connection Pooling.md",
+                "file": "Slipbox/Stored Procedures - SQL Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Database Connection Pooling.md",
+                "file": "Slipbox/Stored Procedures - SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Database Connection Pooling.md",
+                "file": "Slipbox/Stored Procedures - SQL Server.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +202,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Stored Procedures - SQL Server.md",
     "Slipbox/Database Connection Pooling.md",
     "Slipbox/System Design.md",
     "Slipbox/Python Package - Flask.md",
@@ -210,7 +211,6 @@
     "Slipbox/Python SQLAlchemy.md",
     "Slipbox/SQLAlchemy ORM.md",
     "Slipbox/_assets/Pasted image 20211115122342.png",
-    "Slipbox/_assets/Database-Pooling.png",
-    "Slipbox/Git.md"
+    "Slipbox/_assets/Database-Pooling.png"
   ]
 }

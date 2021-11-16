@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stored Procedures - SQL Server",
+      "path": "Slipbox/Stored Procedures - SQL Server.md"
+    },
+    {
       "basename": "Database Connection Pooling",
       "path": "Slipbox/Database Connection Pooling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actuarial Development Master Resource List",
       "path": "Slipbox/Actuarial Development Master Resource List.md"
-    },
-    {
-      "basename": "CAS - Casualty Actuarial Society",
-      "path": "Slipbox/CAS - Casualty Actuarial Society.md"
     }
   ],
   "omittedPaths": [],

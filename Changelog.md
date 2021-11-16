@@ -1,3 +1,4 @@
+- 2021-11-16 at 15h38 · [[Stored Procedures - SQL Server]]
 - 2021-11-16 at 15h36 · [[System Design]]
 - 2021-11-16 at 15h36 · [[Database Connection Pooling]]
 - 2021-11-16 at 15h36 · [[Python Package - Flask]]

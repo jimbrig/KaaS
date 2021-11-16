@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Stored Procedures - SQL Server.md",
+            "file": "Slipbox/How to create a passwordless sudoer on Linux.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kasa",
+                "query": "sudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Stored Procedures - SQL Server.md"
+                "file": "Slipbox/How to create a passwordless sudoer on Linux.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Stored Procedures - SQL Server.md",
+                "file": "Slipbox/How to create a passwordless sudoer on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Stored Procedures - SQL Server.md",
+                "file": "Slipbox/How to create a passwordless sudoer on Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Stored Procedures - SQL Server.md",
+                "file": "Slipbox/How to create a passwordless sudoer on Linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +203,8 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/How to create a passwordless sudoer on Linux.md",
+    "Daily-Notes/2021-11-15.md",
     "Slipbox/Stored Procedures - SQL Server.md",
     "Slipbox/Database Connection Pooling.md",
     "Slipbox/System Design.md",
@@ -209,8 +212,6 @@
     "Slipbox/Reproducible Data Science with Azure Machine Learning.md",
     "Slipbox/Azure MLOps.md",
     "Slipbox/Python SQLAlchemy.md",
-    "Slipbox/SQLAlchemy ORM.md",
-    "Slipbox/_assets/Pasted image 20211115122342.png",
-    "Slipbox/_assets/Database-Pooling.png"
+    "Slipbox/SQLAlchemy ORM.md"
   ]
 }

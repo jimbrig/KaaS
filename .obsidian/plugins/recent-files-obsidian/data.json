@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "How to create a passwordless sudoer on Linux",
+      "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
+    },
+    {
+      "basename": "2021-11-15",
+      "path": "Daily-Notes/2021-11-15.md"
+    },
+    {
       "basename": "Stored Procedures - SQL Server",
       "path": "Slipbox/Stored Procedures - SQL Server.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Loss Data Analytics",
       "path": "Slipbox/Loss Data Analytics.md"
-    },
-    {
-      "basename": "KasaAI GitHub Organization",
-      "path": "Slipbox/KasaAI GitHub Organization.md"
-    },
-    {
-      "basename": "Actuarial Development Master Resource List",
-      "path": "Slipbox/Actuarial Development Master Resource List.md"
     }
   ],
   "omittedPaths": [],

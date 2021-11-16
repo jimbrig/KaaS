@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "R",
+      "path": "MOCs/R.md"
+    },
+    {
+      "basename": "Development",
+      "path": "MOCs/Development.md"
+    },
+    {
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
+      "basename": "Loss Triangles",
+      "path": "Slipbox/Loss Triangles.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Slipbox/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/_README.md"
+    },
+    {
       "basename": "2021-11-16",
       "path": "Daily-Notes/2021-11-16.md"
     },
@@ -29,10 +53,6 @@
       "path": "Slipbox/Tools.md"
     },
     {
-      "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
       "basename": "Linux Commands - visudo",
       "path": "Slipbox/Linux Commands - visudo.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "Interpolation of Cumulative Loss Development Factors",
       "path": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
-    },
-    {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
     },
     {
       "basename": "Property Casualty Data Model",

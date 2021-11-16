@@ -38,5 +38,12 @@
   "obsidian-git",
   "hotkey-helper",
   "obsidian-dangling-links",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "buttons",
+  "wikilinks-to-mdlinks-obsidian",
+  "mrj-crosslink-between-notes",
+  "obsidian-vault-statistics-plugin",
+  "obsidian-copy-block-link",
+  "obsidian-rich-links",
+  "obsidian-link-converter"
 ]

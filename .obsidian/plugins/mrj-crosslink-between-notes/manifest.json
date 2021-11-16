@@ -1,0 +1,9 @@
+{
+  "id": "mrj-crosslink-between-notes",
+  "name": "Add links to current note",
+  "version": "0.0.9",
+  "description": "This plugin adds a command which allows to add a link to the current note at the bottom of selected notes",
+  "author": "MrJackphil",
+  "authorUrl": "https://mrjackphil.com",
+  "isDesktopOnly": false
+}

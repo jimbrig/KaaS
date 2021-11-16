@@ -17,10 +17,14 @@ Alias: "Development"
 - [[Python]]
 - [[Databases]]
 
+## R Development
+
+- [[R]]
+
+
 ## Tools
 
-- [[zsh]] with [[oh-my-zsh]] and various [[oh-my-zsh plugins and themes]]
-- 
+- [[zsh]]
 
 ## Conceptual Topics
 

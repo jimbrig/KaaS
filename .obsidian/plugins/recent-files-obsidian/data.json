@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL Initial Setup Notes",
+      "path": "Slipbox/WSL Initial Setup Notes.md"
+    },
+    {
       "basename": "How to create a passwordless sudoer on Linux",
       "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
+    },
+    {
+      "basename": "2021-11-16",
+      "path": "Daily-Notes/2021-11-16.md"
     },
     {
       "basename": "2021-11-15",
@@ -191,14 +199,6 @@
     {
       "basename": "Caching",
       "path": "Slipbox/Caching.md"
-    },
-    {
-      "basename": "Alteryx",
-      "path": "Slipbox/Alteryx.md"
-    },
-    {
-      "basename": "Loss Data Analytics",
-      "path": "Slipbox/Loss Data Analytics.md"
     }
   ],
   "omittedPaths": [],

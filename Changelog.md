@@ -1,3 +1,5 @@
+- 2021-11-16 at 16h17 · [[WSL Initial Setup Notes]]
+- 2021-11-16 at 16h16 · [[How to create a passwordless sudoer on Linux]]
 - 2021-11-16 at 15h38 · [[Stored Procedures - SQL Server]]
 - 2021-11-16 at 15h36 · [[System Design]]
 - 2021-11-16 at 15h36 · [[Database Connection Pooling]]
@@ -112,7 +114,6 @@
 - 2021-11-16 at 15h10 · [[Linux Commands - visudo]]
 - 2021-11-16 at 15h10 · [[Interpolation of Cumulative Loss Development Factors]]
 - 2021-11-16 at 15h10 · [[Interest Rate Theory]]
-- 2021-11-16 at 15h10 · [[How to create a passwordless sudoer on Linux]]
 - 2021-11-16 at 15h10 · [[Getting Things Done]]
 - 2021-11-16 at 15h10 · [[Generalized Linear Models]]
 - 2021-11-16 at 15h10 · [[Generalized Additive Models]]

@@ -14,6 +14,28 @@ Edit the `etc/sudoers.tmp` file:
 Using the [[Linux Commands - visudo|visudo]] command:
 
 ```bash
+sudo visudo -f /etc/sudoers.d/vips
+```
+
+Then, edit the opened file with the nano editor, adding:
+
+```bash
+[your-username] ALL=(ALL) NOPASSWD:ALL
+```
+
+mine looks like:
+
+```bash
+jimmy ALL=(ALL) NOPASSWD:ALL
+```
+
+to exit, `Ctrl+X` > `Enter`.
+
+***
+
+Old Method:
+
+```bash
 # Edit the sudoers with the visudo command
 sudo visudo
 

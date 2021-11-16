@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Daily-Notes/2021-11-16.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily-Notes/2021-11-16.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,6 +195,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-16.md",
     "README.md",
     "MOCs/Productivity.md",
     "Slipbox/GTD Mindsweep.md",
@@ -203,7 +204,6 @@
     "Slipbox/Tools.md",
     "Reference/_README.md",
     "Slipbox/Linux Commands - visudo.md",
-    "Slipbox/How to create a passwordless sudoer on Linux.md",
-    "Daily-Notes/2021-11-15.md"
+    "Slipbox/How to create a passwordless sudoer on Linux.md"
   ]
 }

@@ -32,12 +32,27 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ### Note Types
 
 - [[Daily-Notes/_README|Daily Notes]]: Daily notes for journaling and reflection
-- [[Meta/_README|Meta]]
-- [[Literary Notes/README]]: Notes representing external ideas and knowledge that I have captured.
-- [[Permanent Notes/README]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated.
-- [[Concept Notes]]: Notes that are just describing or defining a concept or idea.
-- [[Placeholders/README|Structural Notes or Placeholders]]: Structure notes are notes that organize other notes
-- Source Notes: similar to Literary Notes, but denote a structure specific to a type of input/source:
+- [[Meta/_README|Meta]]: Houses meta-information about the vault itself and its setup (i.e. this note is a meta note!)
+- [[MOCs/_README|Maps of Content (MOCs)]]: Index notes that form the backbone structure of the vault around common topics.
+- [[Projects/_README|Projects]]: Project based notes split between Personal and Professional.
+- [[Reference/_README|Reference]]: General Reference notes (i.e. Citations, Sources, and Work Reference Materials)
+- [[Resources/_README|Resources]]: Resourceful notes such as embedded websites, highlights from Readwise, etc.
+- [[Slipbox/_README|Slipbox]]: The main folder of the vault. Houses all of my notes in a Zettelkasten manner. 
+	- Notes representing external ideas and knowledge that I have captured.
+	- Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated
+	- Notes that are just describing or defining a concept or idea.
+	- Structure notes are notes that organize other notes
+	- Source Notes: similar to Literary Notes, but denote a structure specific to a
+- [[Templates/_README|Templates]]: Templates for various types of notes and situations
+
+
+
+- [[Literary Notes/README]]: 
+- [[Permanent Notes/README]]: .
+- [[Concept Notes]]: 
+- [[Placeholders/README|Structural Notes or Placeholders]]: 
+- 
+
 
 - Article
 

@@ -827,9 +827,14 @@
     "Meta/About.md": {
       "size": 2357,
       "tags": 1,
-      "links": 25
+      "links": 27
     },
     "Templates/Meta-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Daily-Notes/_README.md": {
       "size": 0,
       "tags": 1,
       "links": 0
@@ -838,8 +843,8 @@
   "commitTypes": {
     "/": {
       "Refactor": 79,
-      "Create": 161,
-      "Link": 325,
+      "Create": 162,
+      "Link": 327,
       "Expand": 56
     }
   },
@@ -862,7 +867,7 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 93,
+      "17": 96,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -875,7 +880,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 31,
+      "Wed": 34,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -938,6 +943,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
@@ -987,8 +993,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1044,6 +1049,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Templates/Meta-Template.md\"> Meta-Template </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Resources/Embeds/_README.md\"> _README </a>",
@@ -1093,8 +1099,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -1114,6 +1119,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1163,8 +1169,7 @@
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

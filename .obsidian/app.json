@@ -33,7 +33,8 @@
     "Roadmap",
     "KaaS",
     "Alteryx",
-    "analytics"
+    "analytics",
+    "journaling"
   ],
   "livePreview": false
 }

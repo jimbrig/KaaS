@@ -8,36 +8,35 @@ Alias: "About"
 # About
   
 
-`KaaS` (Knowledge as a Service) is an [[Obsidian]] Vault composed of a multitude of notes, written in [[Markdown]], tracked in [[Version Control]] with [[Git]] and [[GitHub]], published online using [[GitHub Actions]] and [[MkDocs]] as well as [[Obsidian Publish]], synced and hosted on my personal domain *jimbrig.com*.
-
-  
+`KaaS` (Knowledge as a Service) is an [[Obsidian]] Vault composed of a multitude of notes on a variety of topics that interest me.
 
 Inside is my personal, customized, digital knowledge notebase structured loosely as a [[Zettelkasten]], a collection of interlinked [[Atomic Notes]] about anything that interests me.
 
-  
-
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
-  
+## Features
+
+- Notes are stored locally and are written in [[Markdown]]
+- Notes are versioned and tracked in [[Version Control]] with [[Git]] and [[GitHub]]
+- Notes are published in two separate manners: 
+	- Open Source Method: Uses [[GitHub Actions]] and [[MkDocs]] 
+	- [[Obsidian Publish]]
+- Hosted on my personal domain *jimbrig.com*
+- Synced via [[Obsidian Sync]] between machines and for use on mobile devices and tablets  
 
 ## Structure
+
 
   
 
 ### Note Types
 
-  
-
-- [[Daily/README]]: Daily notes for journaling and reflection
-
+- [[Daily-Notes/_README|Daily Notes]]: Daily notes for journaling and reflection
+- [[Meta/_README|Meta]]
 - [[Literary Notes/README]]: Notes representing external ideas and knowledge that I have captured.
-
 - [[Permanent Notes/README]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated.
-
 - [[Concept Notes]]: Notes that are just describing or defining a concept or idea.
-
 - [[Placeholders/README|Structural Notes or Placeholders]]: Structure notes are notes that organize other notes
-
 - Source Notes: similar to Literary Notes, but denote a structure specific to a type of input/source:
 
 - Article

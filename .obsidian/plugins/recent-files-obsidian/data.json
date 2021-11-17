@@ -5,6 +5,10 @@
       "path": "Meta/About.md"
     },
     {
+      "basename": "_README",
+      "path": "Daily-Notes/_README.md"
+    },
+    {
       "basename": "Meta-Template",
       "path": "Templates/Meta-Template.md"
     },

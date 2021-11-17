@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Structure.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Structure.md"
+                "file": "README.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Structure.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Structure.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,8 +143,17 @@
               "type": "toggl-report",
               "state": {}
             }
+          },
+          {
+            "id": "8fb02e84aaad68ba",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -156,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meta/Structure.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,15 +202,15 @@
   },
   "active": "11487e0ffdac5092",
   "lastOpenFiles": [
+    "README.md",
+    "Slipbox/Zettelkasten.md",
+    "Slipbox/Atomic Notes.md",
+    "Reference/Dictionary/Synapse.md",
+    "Slipbox/Building a Second Brain.md",
+    "Meta/Publish Workflow.md",
     "Meta/Structure.md",
     "Meta/About.md",
     "Agendas/_README.md",
-    "People/_README.md",
-    "Templates/_README.md",
-    "Projects/_README.md",
-    "Meta/_README.md",
-    "Daily-Notes/_README.md",
-    "Templates/Meta-Template.md",
-    "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
+    "People/_README.md"
   ]
 }

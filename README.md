@@ -17,14 +17,12 @@ Check out the `Meta/` Folder for details about this Vault and its setup:
 -   [[About]]
 -   [[Publish Workflow]] _(MkDocs version only, not Obsidian Publish)_
 -   [[Structure]]
--   [[Plugins]]
--   [[Tags]]
 
 The [[Changelog]] is also a good _Meta_ resource.
 
 ### Maps of Content
 
-If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
+If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
 
 In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
 
@@ -36,4 +34,4 @@ Some Maps of Content to consider are:
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
-Note: Launch this vault directly via the [[Obsidian URI Schemas]]: `obsidian://open?vault=KaaS`.
+Note: Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.

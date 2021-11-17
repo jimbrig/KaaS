@@ -12,12 +12,12 @@
     "README.md": {
       "size": 0,
       "tags": 0,
-      "links": 15
+      "links": 13
     },
     "Changelog.md": {
-      "size": 7716,
+      "size": 8955,
       "tags": 0,
-      "links": 159
+      "links": 162
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -827,7 +827,7 @@
     "Meta/About.md": {
       "size": 4112,
       "tags": 1,
-      "links": 35
+      "links": 33
     },
     "Templates/Meta-Template.md": {
       "size": 0,
@@ -853,14 +853,39 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "People/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Agendas/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Meta/Structure.md": {
+      "size": 6844,
+      "tags": 1,
+      "links": 0
+    },
+    "Meta/Publish Workflow.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Building a Second Brain.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 79,
-      "Create": 165,
-      "Link": 333,
-      "Expand": 58
+      "Refactor": 81,
+      "Create": 170,
+      "Link": 340,
+      "Expand": 60
     }
   },
   "dailyCommits": {
@@ -882,7 +907,7 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 107,
+      "17": 123,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -895,7 +920,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 45,
+      "Wed": 61,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -905,6 +930,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -953,11 +980,14 @@
         "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
+        "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Agendas/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"People/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Projects/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
@@ -1003,12 +1033,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
         "<a class=\"internal-link\" href=\"Slipbox/AWS Athena.md\"> AWS Athena </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1064,6 +1089,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
+        "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>",
+        "<a class=\"internal-link\" href=\"Meta/Publish Workflow.md\"> Publish Workflow </a>",
+        "<a class=\"internal-link\" href=\"Agendas/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"People/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Projects/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Templates/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Meta/_README.md\"> _README </a>",
@@ -1109,12 +1139,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
         "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md\"> Logical Architecture of Modern Data Lake Centric Analytics Platforms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -1134,6 +1159,8 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1182,14 +1209,14 @@
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ]
     }
   },

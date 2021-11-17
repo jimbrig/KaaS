@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Slipbox/Zettelkasten.md"
+    },
+    {
+      "basename": "Atomic Notes",
+      "path": "Slipbox/Atomic Notes.md"
+    },
+    {
+      "basename": "Synapse",
+      "path": "Reference/Dictionary/Synapse.md"
+    },
+    {
+      "basename": "Building a Second Brain",
+      "path": "Slipbox/Building a Second Brain.md"
+    },
+    {
+      "basename": "Publish Workflow",
+      "path": "Meta/Publish Workflow.md"
+    },
+    {
       "basename": "Structure",
       "path": "Meta/Structure.md"
     },
@@ -39,10 +63,6 @@
     {
       "basename": "Slipbox-Default-Template",
       "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Workbench",

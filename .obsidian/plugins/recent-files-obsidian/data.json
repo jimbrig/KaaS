@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Warehouse",
+      "path": "Slipbox/Data Warehouse.md"
+    },
+    {
+      "basename": "Data Mart",
+      "path": "Slipbox/Data Mart.md"
+    },
+    {
+      "basename": "Data Lake",
+      "path": "Slipbox/Data Lake.md"
+    },
+    {
       "basename": "2021-11-17",
       "path": "Daily-Notes/2021-11-17.md"
     },
@@ -153,10 +165,6 @@
       "path": "Slipbox/Team Data Science Process.md"
     },
     {
-      "basename": "Data Warehouse",
-      "path": "Slipbox/Data Warehouse.md"
-    },
-    {
       "basename": "AWS Glue",
       "path": "Slipbox/AWS Glue.md"
     },
@@ -171,14 +179,6 @@
     {
       "basename": "AWS Redshift",
       "path": "Slipbox/AWS Redshift.md"
-    },
-    {
-      "basename": "Data Mart",
-      "path": "Slipbox/Data Mart.md"
-    },
-    {
-      "basename": "Data Lake",
-      "path": "Slipbox/Data Lake.md"
     },
     {
       "basename": "Logical Architecture of Modern Data Lake Centric Analytics Platforms",

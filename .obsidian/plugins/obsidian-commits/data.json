@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 155
+      "links": 156
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -808,13 +808,18 @@
       "size": 12406,
       "tags": 2,
       "links": 1
+    },
+    "Daily-Notes/2021-11-17.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 75,
-      "Create": 154,
-      "Link": 311,
+      "Create": 155,
+      "Link": 314,
       "Expand": 54
     }
   },
@@ -829,7 +834,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 0,
+      "9": 4,
       "10": 20,
       "11": 99,
       "12": 147,
@@ -850,7 +855,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 4,
+      "Wed": 8,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -913,6 +918,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
@@ -962,8 +968,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
@@ -1019,6 +1024,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure MLOps.md\"> Azure MLOps </a>",
@@ -1068,8 +1074,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -1087,6 +1092,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -1135,9 +1142,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

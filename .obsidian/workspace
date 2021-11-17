@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Data Warehouse.md",
+            "file": "Slipbox/Property Casualty Data Model.md",
             "mode": "preview"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo",
+                "query": "data model",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Data Warehouse.md"
+                "file": "Slipbox/Property Casualty Data Model.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Data Warehouse.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Data Warehouse.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Data Warehouse.md",
+                "file": "Slipbox/Property Casualty Data Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +203,8 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Slipbox/Property Casualty Data Model.md",
+    "Slipbox/API Architecture - Performance Best Practices.md",
     "Slipbox/Data Warehouse.md",
     "Slipbox/Data Mart.md",
     "Slipbox/Data Lake.md",
@@ -209,8 +212,6 @@
     "README.md",
     "Daily-Notes/2021-11-16.md",
     "Slipbox/WSL Initial Setup Notes.md",
-    "Slipbox/How to create a passwordless sudoer on Linux.md",
-    "Daily-Notes/2021-11-15.md",
-    "Slipbox/Stored Procedures - SQL Server.md"
+    "Slipbox/How to create a passwordless sudoer on Linux.md"
   ]
 }

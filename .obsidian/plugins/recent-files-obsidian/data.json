@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Property Casualty Data Model",
+      "path": "Slipbox/Property Casualty Data Model.md"
+    },
+    {
+      "basename": "API Architecture - Performance Best Practices",
+      "path": "Slipbox/API Architecture - Performance Best Practices.md"
+    },
+    {
       "basename": "Data Warehouse",
       "path": "Slipbox/Data Warehouse.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "No-Code and Low-Code",
       "path": "Slipbox/No-Code and Low-Code.md"
-    },
-    {
-      "basename": "Prophet Actuarial Tool",
-      "path": "Slipbox/Prophet Actuarial Tool.md"
-    },
-    {
-      "basename": "Memoization",
-      "path": "Slipbox/Memoization.md"
     }
   ],
   "omittedPaths": [],

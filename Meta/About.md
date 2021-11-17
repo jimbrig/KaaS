@@ -24,12 +24,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 - Hosted on my personal domain *jimbrig.com*
 - Synced via [[Obsidian Sync]] between machines and for use on mobile devices and tablets  
 
-## Structure
-
-
-  
-
-### Note Types
+## Note Types
 
 - [[Daily-Notes/_README|Daily Notes]]: Daily notes for journaling and reflection
 - [[Meta/_README|Meta]]: Houses meta-information about the vault itself and its setup (i.e. this note is a meta note!)
@@ -38,62 +33,52 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 - [[Reference/_README|Reference]]: General Reference notes (i.e. Citations, Sources, and Work Reference Materials)
 - [[Resources/_README|Resources]]: Resourceful notes such as embedded websites, highlights from Readwise, etc.
 - [[Slipbox/_README|Slipbox]]: The main folder of the vault. Houses all of my notes in a Zettelkasten manner. 
-	- Notes representing external ideas and knowledge that I have captured.
-	- Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated
-	- Notes that are just describing or defining a concept or idea.
-	- Structure notes are notes that organize other notes
-	- Source Notes: similar to Literary Notes, but denote a structure specific to a
+	- [[Fleeting Notes]]: Notes that are pre-mature and ephemeral
+	- [[Literary Notes]]: Notes representing external ideas and knowledge that I have captured.
+	- [[Permanent Notes]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated
+	- [[Concept Notes]]: Notes that are just describing or defining a concept or idea.
+	- [[Structural Notes]]: Structure notes are notes that organize other notes
+	- [[Source Notes]]: similar to Literary Notes, but denote a structure specific to a certain source type (i.e. podcast, book, video, course, etc.)
 - [[Templates/_README|Templates]]: Templates for various types of notes and situations
 
 
+### Common Note Sources
 
-- [[Literary Notes/README]]: 
-- [[Permanent Notes/README]]: .
-- [[Concept Notes]]: 
-- [[Placeholders/README|Structural Notes or Placeholders]]: 
-- 
+- Online Articles and Blog Posts
+- Videos
+- Podcasts
+- Mindsweeps
+- Code Snippets
+- Repositories
+- Agendas
+- Projects
+- Ideas
 
+## Tags
 
-- Article
+### Types
 
-- Post
+Source types are maintained using Obsidian's Tagging feature and currently I have the following nested tags under root tag `#Type/`:
 
-- Video
-
-- Podcast
-
-- Mindsweep
-
-- Code Snippet
-
-- Repository
-
-  
-
-These sources are maintained using Obsidian's Tagging feature and currently I have the following nested tags under root tag `#Type/`:
-
+- `#Type/Slipbox`
+- `#Type/MOC`
+- `#Type/Highlights`
+	- `#Type/Highlights/Article`
+	- `#Type/Highlights/Book`
+	- `#Type/Highlights/Medium`
+	- `#Type/Highlights/Podcast`
+- ``
 - `#Type/Article`
-
 - `#Type/Book`
-
 - `#Type/Video`
-
 - `#Type/Podcast`
-
 - `#Type/Idea`
-
 - `#Type/Project`
-
 - `#Type/Mindsweep`
-
 - `#Type/Code`
-
 - `#Type/WriteUp`
-
 - `#Type/Diagram`
-
   
-
 Other types that aren't necessarily *sources*:
 
   

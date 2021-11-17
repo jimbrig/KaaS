@@ -6,6 +6,18 @@
     },
     {
       "basename": "_README",
+      "path": "Templates/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Projects/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Meta/_README.md"
+    },
+    {
+      "basename": "_README",
       "path": "Daily-Notes/_README.md"
     },
     {

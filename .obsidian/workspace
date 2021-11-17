@@ -194,14 +194,14 @@
   "active": "11487e0ffdac5092",
   "lastOpenFiles": [
     "Meta/About.md",
+    "Templates/_README.md",
+    "Projects/_README.md",
+    "Meta/_README.md",
     "Daily-Notes/_README.md",
     "Templates/Meta-Template.md",
     "Templates/Slipbox-Templates/Slipbox-Default-Template.md",
     "README.md",
     "Workbench.md",
-    "Changelog.md",
-    "Resources/_README.md",
-    "Resources/Embeds/_README.md",
-    "MOCs/_README.md"
+    "Changelog.md"
   ]
 }

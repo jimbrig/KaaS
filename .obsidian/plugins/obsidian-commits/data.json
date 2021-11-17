@@ -825,9 +825,9 @@
       "links": 0
     },
     "Meta/About.md": {
-      "size": 2357,
+      "size": 3479,
       "tags": 1,
-      "links": 27
+      "links": 32
     },
     "Templates/Meta-Template.md": {
       "size": 0,
@@ -844,8 +844,8 @@
     "/": {
       "Refactor": 79,
       "Create": 162,
-      "Link": 327,
-      "Expand": 56
+      "Link": 328,
+      "Expand": 57
     }
   },
   "dailyCommits": {
@@ -867,7 +867,7 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 96,
+      "17": 98,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -880,7 +880,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 34,
+      "Wed": 36,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -890,6 +890,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
@@ -939,8 +940,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Daily-Notes/Untitled.md\"> Untitled </a>",
@@ -1120,6 +1120,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1168,8 +1169,7 @@
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

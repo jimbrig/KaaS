@@ -1,3 +1,5 @@
+- 2021-11-17 at 09h10 · [[2021-11-17]]
+- 2021-11-17 at 09h10 · [[README]]
 - 2021-11-16 at 16h28 · [[WSL Initial Setup Notes]]
 - 2021-11-16 at 16h16 · [[How to create a passwordless sudoer on Linux]]
 - 2021-11-16 at 15h38 · [[Stored Procedures - SQL Server]]
@@ -144,7 +146,6 @@
 - 2021-11-16 at 15h10 · [[How to Get Through a Paper and Digital Backlog – Gigaom]]
 - 2021-11-16 at 15h10 · [[Todoist-Embed]]
 - 2021-11-16 at 15h10 · [[_README]]
-- 2021-11-16 at 15h10 · [[README]]
 - 2021-11-16 at 15h10 · [[_README]]
 - 2021-11-16 at 15h10 · [[R]]
 - 2021-11-16 at 15h10 · [[Python]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Daily-Notes/2021-11-17.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily-Notes/2021-11-17.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +203,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-17.md",
     "README.md",
     "Daily-Notes/2021-11-16.md",
     "Slipbox/WSL Initial Setup Notes.md",
@@ -210,7 +212,6 @@
     "Slipbox/Stored Procedures - SQL Server.md",
     "Slipbox/Database Connection Pooling.md",
     "Slipbox/System Design.md",
-    "Slipbox/Python Package - Flask.md",
-    "Slipbox/Reproducible Data Science with Azure Machine Learning.md"
+    "Slipbox/Python Package - Flask.md"
   ]
 }

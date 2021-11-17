@@ -597,7 +597,7 @@
     "Slipbox/Alteryx.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 1
     },
     "Slipbox/Caching.md": {
       "size": 0,
@@ -827,7 +827,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 75,
+      "Refactor": 76,
       "Create": 157,
       "Link": 320,
       "Expand": 55
@@ -851,7 +851,7 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 58,
+      "16": 59,
       "17": 77,
       "18": 1,
       "19": 0,
@@ -865,7 +865,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 17,
+      "Wed": 18,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -1156,7 +1156,8 @@
       ],
       "Removed Tags from": [],
       "Removed Links from": [
-        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>"
       ]
     }
   },

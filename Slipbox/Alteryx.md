@@ -9,13 +9,30 @@ Alias: "Alteryx"
 
 *Source: [Self-Service Analytics, Data Science & Automation | Alteryx](https://www.alteryx.com/)*
 
-[Alteryx](https://www.alteryx.com/) is an American [computer software](https://en.wikipedia.org/wiki/Computer_software "Computer software") company with a development center in [Broomfield, Colorado](https://en.wikipedia.org/wiki/Broomfield,_Colorado "Broomfield, Colorado").[[4]](https://en.wikipedia.org/wiki/Alteryx#cite_note-4)[[5]](https://en.wikipedia.org/wiki/Alteryx#cite_note-BizWest-5) The company's products are used for [data science](https://en.wikipedia.org/wiki/Data_science "Data science") and [analytics](https://en.wikipedia.org/wiki/Analytics "Analytics").[[6]](https://en.wikipedia.org/wiki/Alteryx#cite_note-FortuneRoundB-6)[[7]](https://en.wikipedia.org/wiki/Alteryx#cite_note-DailyCameraRoundB-7) The software is designed to make advanced analytics accessible to any data worker.[[8]](https://en.wikipedia.org/wiki/Alteryx#cite_note-8)
+[Alteryx](https://www.alteryx.com/) is an American [computer software](https://en.wikipedia.org/wiki/Computer_software "Computer software") company whose products are used for [[Data Science|data science]] and [analytics](https://en.wikipedia.org/wiki/Analytics "Analytics").
 
-![](https://th.bing.com/th/id/OIP.nQtYtX1OugdBlT0axV611wHaEK?pid=ImgDet&rs=1)
+The software is designed to make advanced analytics accessible to any data worker.
 
+![](https://i.imgur.com/NCe93su.png)
 
+## Products
 
-![](https://th.bing.com/th/id/OIP.i5-oHZWtC_HXI_b1R-rz9AHaDt?pid=ImgDet&rs=1)
+- Alteryx Connect
+- Alteryx Designer
+- Alteryx Promote
+- Alteryx Server
+- Analytics Hub
+- Alteryx Intelligence Suite
+
+Alteryx also hosts a cloud-based website known as the Alteryx Analytics Gallery.
+
+## Open Source
+
+*Source: [Open Source Machine Learning | Alteryx](https://www.alteryx.com/open-source)*
+
+![](https://i.imgur.com/owAQiSP.png)
+
+Our mission is to turbo-charge machine learning and data science efforts by creating open source projects that form the foundation of ML capability within the Alteryx Platform.
 
 
 

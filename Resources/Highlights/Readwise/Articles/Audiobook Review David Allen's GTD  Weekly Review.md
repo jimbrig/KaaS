@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Audiobook Review: David Allen's "GTD > Weekly Review"
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Audiobook Review: David Allen's "GTD > Weekly Review"
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
 
 ## Highlights

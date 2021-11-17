@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Home - How to Write a Good Documentation - Library Guides at UC Berkeley
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Research Data Management]]
 - Full Title: Home - How to Write a Good Documentation - Library Guides at UC Berkeley
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
 
 ## Highlights

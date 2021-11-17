@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 113 —  ADHD and Cognitive Science, with Brittany Smith
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Focused]]
 - Full Title: 113 —  ADHD and Cognitive Science, with Brittany Smith
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How to Form Strong Habits

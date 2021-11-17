@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/the-case-for-digital-notes/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Case for Digital Notes - Forte Labs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Case for Digital Notes - Forte Labs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/the-case-for-digital-notes/
 
 ## Highlights

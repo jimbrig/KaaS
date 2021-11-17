@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Can Figure Control Productivity?

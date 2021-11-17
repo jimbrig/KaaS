@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.r-hub.io/2020/05/29/distribute-data/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Distribute Data With Your R Package - R-Hub Blog
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Distribute Data With Your R Package - R-Hub Blog
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.r-hub.io/2020/05/29/distribute-data/
 
 ## Highlights

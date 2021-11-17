@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Laurie Santos, PhD | Simple Ways to Live a Happier Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[TRAINED]]
 - Full Title: Laurie Santos, PhD | Simple Ways to Live a Happier Life
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
 
 ## Highlights

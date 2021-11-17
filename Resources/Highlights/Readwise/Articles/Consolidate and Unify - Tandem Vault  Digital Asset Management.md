@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://tandemvault.com/consolidate-and-unify/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Consolidate and Unify - Tandem Vault | Digital Asset Management
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Consolidate and Unify - Tandem Vault | Digital Asset Management
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://tandemvault.com/consolidate-and-unify/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d2a51d80a9d9
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jaleel & Nicole]]
 - Full Title: 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d2a51d80a9d9
 
 ## Highlights

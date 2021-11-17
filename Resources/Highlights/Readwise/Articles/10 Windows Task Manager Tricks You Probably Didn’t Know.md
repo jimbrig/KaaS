@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 10 Windows Task Manager Tricks You Probably Didn’t Know
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 10 Windows Task Manager Tricks You Probably Didn’t Know
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/
 
 ## Highlights

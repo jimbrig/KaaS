@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A Workflow for R
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[David Smith]]
 - Full Title: A Workflow for R
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html
 
 ## Highlights

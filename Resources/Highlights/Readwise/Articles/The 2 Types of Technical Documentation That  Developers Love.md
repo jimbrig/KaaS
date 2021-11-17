@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/c07db236b367
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The 2 Types of Technical Documentation That  Developers Love
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dmytro Khmelenko]]
 - Full Title: The 2 Types of Technical Documentation That  Developers Love
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/c07db236b367
 
 ## Highlights

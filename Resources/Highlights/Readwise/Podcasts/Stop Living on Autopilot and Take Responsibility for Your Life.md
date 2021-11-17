@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/6005c79683ecdb50f8bb8426
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Stop Living on Autopilot and Take Responsibility for Your Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Art of Manliness]]
 - Full Title: Stop Living on Autopilot and Take Responsibility for Your Life
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/6005c79683ecdb50f8bb8426
 
 ## Highlights

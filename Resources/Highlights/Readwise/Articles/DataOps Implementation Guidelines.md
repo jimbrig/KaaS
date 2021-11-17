@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/33b3206654fa
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # DataOps Implementation Guidelines
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kiran Mainali]]
 - Full Title: DataOps Implementation Guidelines
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/33b3206654fa
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f8440e3a264773e06433dc6
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Competitiveness and Mimetic Traps
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: Competitiveness and Mimetic Traps
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f8440e3a264773e06433dc6
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Zen and the Art of File and Folder Organization
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Virtue]]
 - Full Title: Zen and the Art of File and Folder Organization
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://niklasblog.com/?p=25043
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Obsidian: My New Knowledge Base or Base for Knowledge
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[niklasblog.com]]
 - Full Title: Obsidian: My New Knowledge Base or Base for Knowledge
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://niklasblog.com/?p=25043
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/111b818c3d1b
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Data Ecosystem
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Gerrishon Sirere]]
 - Full Title: Data Ecosystem
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/111b818c3d1b
 
 ## Highlights

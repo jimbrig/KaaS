@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/anonyda/how-the-web-works-for-front-end-devs-2g6c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How the Web Works
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: How the Web Works
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/anonyda/how-the-web-works-for-front-end-devs-2g6c
 
 ## Highlights

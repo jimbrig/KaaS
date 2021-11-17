@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is There A World Without Emale?

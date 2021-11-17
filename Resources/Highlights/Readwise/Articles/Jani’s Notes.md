@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://jevakallio.github.io/notes/foam-one-month-in.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Jani’s Notes
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[jevakallio.github.io]]
 - Full Title: Jani’s Notes
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://jevakallio.github.io/notes/foam-one-month-in.html
 
 ## Highlights

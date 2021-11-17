@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.calnewport.com/blog/2020/05/14/the-deep-reset/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Deep Reset - Study Hacks - Cal Newport
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: The Deep Reset - Study Hacks - Cal Newport
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2020/05/14/the-deep-reset/
 
 ## Highlights

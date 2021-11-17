@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/p-a-r-a-viii-core-principles/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # PARA Part 8: Core Principles of Digital Organization - Forte Labs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: PARA Part 8: Core Principles of Digital Organization - Forte Labs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/p-a-r-a-viii-core-principles/
 
 ## Highlights

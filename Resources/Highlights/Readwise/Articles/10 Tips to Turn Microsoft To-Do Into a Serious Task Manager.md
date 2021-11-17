@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/microsoft-todo-task-manager/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dan Price]]
 - Full Title: 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/microsoft-todo-task-manager/
 
 ## Highlights

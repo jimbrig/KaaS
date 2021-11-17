@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cminds.com/3-uses-curated-lists-manager/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 3 Smart Uses of Curated Lists and How to Create Them
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Courtney Jones]]
 - Full Title: 3 Smart Uses of Curated Lists and How to Create Them
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.cminds.com/3-uses-curated-lists-manager/
 
 ## Highlights

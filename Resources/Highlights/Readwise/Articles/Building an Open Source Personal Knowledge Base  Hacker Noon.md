@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Building an Open Source Personal Knowledge Base | Hacker Noon
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Originally Published]]
 - Full Title: Building an Open Source Personal Knowledge Base | Hacker Noon
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
 
 ## Highlights

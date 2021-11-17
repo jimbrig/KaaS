@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://ferd.ca/complexity-has-to-live-somewhere.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Complexity Has to Live Somewhere
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[ferd.ca]]
 - Full Title: Complexity Has to Live Somewhere
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://ferd.ca/complexity-has-to-live-somewhere.html
 
 ## Highlights

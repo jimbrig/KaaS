@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/strategically-constrained-how-to-turn-limitations-into-opportunities/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Strategically Constrained: How to Turn Limitations Into Opportunities - Forte Labs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Strategically Constrained: How to Turn Limitations Into Opportunities - Forte Labs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/strategically-constrained-how-to-turn-limitations-into-opportunities/
 
 ## Highlights

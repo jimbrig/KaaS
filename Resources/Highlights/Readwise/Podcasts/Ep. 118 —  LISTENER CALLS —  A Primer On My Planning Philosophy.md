@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Anatomy Lab, World Without Emale

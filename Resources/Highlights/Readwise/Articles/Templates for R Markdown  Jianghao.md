@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://jianghao.wang/post/2017-12-08-rmarkdown-templates/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Templates for R Markdown | Jianghao
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jianghao Wang]]
 - Full Title: Templates for R Markdown | Jianghao
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://jianghao.wang/post/2017-12-08-rmarkdown-templates/
 
 ## Highlights

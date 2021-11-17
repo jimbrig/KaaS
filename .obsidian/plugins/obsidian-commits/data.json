@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 494
+      "links": 493
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -121,62 +121,62 @@
     },
     "Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md": {
       "size": 9908,
-      "tags": 2,
+      "tags": 1,
       "links": 2
     },
     "Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md": {
       "size": 5404,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md": {
       "size": 4550,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md": {
       "size": 4960,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md": {
       "size": 5941,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md": {
       "size": 5515,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md": {
       "size": 2098,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md": {
       "size": 535,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md": {
       "size": 5408,
-      "tags": 2,
+      "tags": 1,
       "links": 2
     },
     "Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md": {
       "size": 2682,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md": {
       "size": 5973,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md": {
       "size": 10890,
-      "tags": 2,
+      "tags": 1,
       "links": 2
     },
     "Resources/Highlights/_README.md": {
@@ -976,7 +976,7 @@
     },
     "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md": {
       "size": 1158,
-      "tags": 3,
+      "tags": 2,
       "links": 0
     },
     "Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md": {
@@ -3017,7 +3017,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 82,
+      "Refactor": 96,
       "Create": 597,
       "Link": 1124,
       "Expand": 72
@@ -3043,7 +3043,7 @@
       "15": 141,
       "16": 56,
       "17": 126,
-      "18": 1222,
+      "18": 1236,
       "19": 0,
       "20": 4,
       "21": 0,
@@ -3055,7 +3055,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1285,
+      "Wed": 1299,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3346,13 +3346,28 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Project Management With RStudio and Github  Yujun Zhou's Website.md\"> Project Management With RStudio and Github  Yujun Zhou's Website </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Planning a Lot  Yujun Zhou's Website.md\"> Planning a Lot  Yujun Zhou's Website </a>"
       ],
-      "Removed Tags from": [],
+      "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>"
+      ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

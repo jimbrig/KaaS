@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/393ccba958b9
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Completing Tasks — 10 Steps to Finishing What You Start
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Eleanor McKenna]]
 - Full Title: Completing Tasks — 10 Steps to Finishing What You Start
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/393ccba958b9
 
 ## Highlights

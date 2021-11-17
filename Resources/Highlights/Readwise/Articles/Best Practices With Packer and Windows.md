@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://hodgkins.io/best-practices-with-packer-and-windows
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Best Practices With Packer and Windows
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Matthew Hodgkins]]
 - Full Title: Best Practices With Packer and Windows
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://hodgkins.io/best-practices-with-packer-and-windows
 
 ## Highlights

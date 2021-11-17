@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://doist.com/blog/integrate-todoist-apps/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Centralize Your Tasks When You’re Using Too Many Apps
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Denise Rebollido]]
 - Full Title: How to Centralize Your Tasks When You’re Using Too Many Apps
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://doist.com/blog/integrate-todoist-apps/
 
 ## Highlights

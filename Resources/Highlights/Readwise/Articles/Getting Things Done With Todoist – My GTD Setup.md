@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://nebulous.wordpress.com/2014/12/11/getting-things-done-with-todoist/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Getting Things Done With Todoist – My GTD Setup
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done With Todoist – My GTD Setup
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://nebulous.wordpress.com/2014/12/11/getting-things-done-with-todoist/
 
 ## Highlights

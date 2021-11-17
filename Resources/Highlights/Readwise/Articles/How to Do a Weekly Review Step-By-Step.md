@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://becomeawritertoday.com/weekly-review/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Do a Weekly Review: Step-By-Step
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[becomeawritertoday.com]]
 - Full Title: How to Do a Weekly Review: Step-By-Step
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://becomeawritertoday.com/weekly-review/
 
 ## Highlights

@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: kindle
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Design Your Work
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tiago Forte]]
 - Full Title: Design Your Work
-- Category: #Type/Highlights/Readwise/Books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - My blog became my R&D lab: a place to ramble, rant, play, test, dissect, entertain, summarize, explain, argue, advocate, theorize, and generally way overthink all the ideas I was encountering in my work and my life. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=50))

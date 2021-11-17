@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Organize Your Files for Maximum Productivity
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Giorgos Petkakis]]
 - Full Title: How to Organize Your Files for Maximum Productivity
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/6ecbb83f43e3
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Why Programmers Should Write Tutorials
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Fernando Souza]]
 - Full Title: Why Programmers Should Write Tutorials
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/6ecbb83f43e3
 
 ## Highlights

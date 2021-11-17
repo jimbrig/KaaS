@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.thespruce.com/6-quick-tips-to-control-clutter-and-stop-hoarding-2648657
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 7 Quick Tips to Control Clutter and Stop Hoarding
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[thespruce.com]]
 - Full Title: 7 Quick Tips to Control Clutter and Stop Hoarding
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.thespruce.com/6-quick-tips-to-control-clutter-and-stop-hoarding-2648657
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/472fc23ed9bc
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # What’s on Your Programming Reading List?
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Amy M Haddad]]
 - Full Title: What’s on Your Programming Reading List?
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/472fc23ed9bc
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A New Year Is a Beautiful Fresh Start
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[zenhabits]]
 - Full Title: A New Year Is a Beautiful Fresh Start
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
 
 ## Highlights

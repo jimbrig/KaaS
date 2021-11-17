@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The 13-Step Digital Declutter
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Darien Graham-Smith]]
 - Full Title: The 13-Step Digital Declutter
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
 
 ## Highlights

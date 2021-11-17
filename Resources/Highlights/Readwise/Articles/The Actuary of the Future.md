@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/cf1c88c26ae6
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Actuary of the Future
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Nazareno Junior]]
 - Full Title: The Actuary of the Future
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/cf1c88c26ae6
 
 ## Highlights

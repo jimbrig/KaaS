@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Jaime Masters on Focus, Flow, Time Tracking and Nootropics
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Jaime Masters on Focus, Flow, Time Tracking and Nootropics
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do You Have a Time Audit?

@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: manual
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Tribe of Mentors
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Timothy Ferriss]]
 - Full Title: Tribe of Mentors
-- Category: #Type/Highlights/Readwise/Books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - When you feel overwhelmed or unfocused, what do you do?

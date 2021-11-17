@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # R Treasures: modifyList() › Petermeissner
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Peter Meissner]]
 - Full Title: R Treasures: modifyList() › Petermeissner
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
 
 ## Highlights

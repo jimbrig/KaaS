@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.mikenikles.com/blog/why-i-use-a-cloud-based-development-environment-and-how-you-can-too
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Why I Use a Cloud-Based Development Environment and How You Can Too
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[mikenikles.com]]
 - Full Title: Why I Use a Cloud-Based Development Environment and How You Can Too
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.mikenikles.com/blog/why-i-use-a-cloud-based-development-environment-and-how-you-can-too
 
 ## Highlights

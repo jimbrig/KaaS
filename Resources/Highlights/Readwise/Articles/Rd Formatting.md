@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://roxygen2.r-lib.org/articles/rd-formatting.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Rd Formatting
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[roxygen2.r-lib.org]]
 - Full Title: Rd Formatting
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://roxygen2.r-lib.org/articles/rd-formatting.html
 
 ## Highlights

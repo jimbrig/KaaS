@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/7e47c485edbf
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Services in Systemd: In-Depth Tutorial
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Michael Krasnov]]
 - Full Title: Services in Systemd: In-Depth Tutorial
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7e47c485edbf
 
 ## Highlights

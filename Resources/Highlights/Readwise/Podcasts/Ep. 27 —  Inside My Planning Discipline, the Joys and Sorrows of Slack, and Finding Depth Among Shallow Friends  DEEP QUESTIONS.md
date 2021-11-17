@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Time Blocking - Is it a Good Idea?

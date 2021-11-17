@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://tomcritchlow.com/2019/02/17/building-digital-garden/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Building a Digital Garden
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[tomcritchlow.com]]
 - Full Title: Building a Digital Garden
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://tomcritchlow.com/2019/02/17/building-digital-garden/
 
 ## Highlights

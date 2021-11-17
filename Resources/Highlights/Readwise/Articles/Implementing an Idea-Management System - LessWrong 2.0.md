@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lesswrong.com/posts/BHp82PvqCDayFpefg/implementing-an-idea-management-system
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Implementing an Idea-Management System - LessWrong 2.0
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lesswrong.com]]
 - Full Title: Implementing an Idea-Management System - LessWrong 2.0
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lesswrong.com/posts/BHp82PvqCDayFpefg/implementing-an-idea-management-system
 
 ## Highlights

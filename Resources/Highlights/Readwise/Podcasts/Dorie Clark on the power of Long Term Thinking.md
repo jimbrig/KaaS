@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Dorie Clark on the power of Long Term Thinking
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Dorie Clark on the power of Long Term Thinking
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Long Term Thinking During the Pandemic

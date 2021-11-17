@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How To Recover From A Bad Day (TPS374)
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Productivity Show: Time Management | GTD | Smart Personal Development | Business | Mac]]
 - Full Title: How To Recover From A Bad Day (TPS374)
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Thinking Time

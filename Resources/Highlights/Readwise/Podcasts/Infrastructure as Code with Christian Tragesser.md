@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Infrastructure as Code with Christian Tragesser
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Software Engineering Daily]]
 - Full Title: Infrastructure as Code with Christian Tragesser
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Cloud

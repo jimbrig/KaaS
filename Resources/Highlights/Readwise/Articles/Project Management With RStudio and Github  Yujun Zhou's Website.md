@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.yujun.org/post/project/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Project Management With RStudio and Github | Yujun Zhou's Website
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Project Management With RStudio and Github | Yujun Zhou's Website
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.yujun.org/post/project/
 
 ## Highlights

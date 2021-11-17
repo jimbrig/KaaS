@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
 
 ## Highlights

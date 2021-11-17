@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # #110 —  How to Clear Your Calendar in Your Busiest Seasons
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Focus on This]]
 - Full Title: #110 —  How to Clear Your Calendar in Your Busiest Seasons
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - What's the Key Outcome to Have This Week?

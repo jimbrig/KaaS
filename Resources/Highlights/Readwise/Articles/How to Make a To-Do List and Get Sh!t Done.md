@@ -9,7 +9,7 @@ Link: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
 ## Metadata
 - Author: [[Shana Lebowitz]]
 - Full Title: How to Make a To-Do List and Get Sh!t Done
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
 
 ## Highlights
@@ -54,7 +54,7 @@ Aliases: []
 ## Metadata
 - Author: [[Shana Lebowitz]]
 - Full Title: How to Make a To-Do List and Get Sh!t Done
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
 
 ## Highlights

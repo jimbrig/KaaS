@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://nebulous.wordpress.com/2014/12/04/gtd_evernote_todoist/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Evernote and Todoist: REALLY Getting Things Done
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Evernote and Todoist: REALLY Getting Things Done
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://nebulous.wordpress.com/2014/12/04/gtd_evernote_todoist/
 
 ## Highlights

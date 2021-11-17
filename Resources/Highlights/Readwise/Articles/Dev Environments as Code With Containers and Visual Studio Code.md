@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/690897a2be59
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Dev Environments as Code With Containers and Visual Studio Code
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ari]]
 - Full Title: Dev Environments as Code With Containers and Visual Studio Code
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/690897a2be59
 
 ## Highlights

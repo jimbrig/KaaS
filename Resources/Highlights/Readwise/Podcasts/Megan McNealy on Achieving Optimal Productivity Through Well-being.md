@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Megan McNealy on Achieving Optimal Productivity Through Well-being
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Megan McNealy on Achieving Optimal Productivity Through Well-being
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Body, Mind and Spirit - 18 spokes

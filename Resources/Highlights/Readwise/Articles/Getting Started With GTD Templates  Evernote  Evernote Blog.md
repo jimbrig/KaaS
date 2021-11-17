@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://evernote.com/blog/getting-started-with-gtd-templates/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Getting Started With GTD Templates | Evernote | Evernote Blog
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Getting Started With GTD Templates | Evernote | Evernote Blog
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://evernote.com/blog/getting-started-with-gtd-templates/
 
 ## Highlights

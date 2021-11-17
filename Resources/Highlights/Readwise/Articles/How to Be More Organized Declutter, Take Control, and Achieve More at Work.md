@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.mindtools.com/pages/article/newHTE_76.htm
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Be More Organized: Declutter, Take Control, and Achieve More at Work
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Be More Organized: Declutter, Take Control, and Achieve More at Work
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://www.mindtools.com/pages/article/newHTE_76.htm
 
 ## Highlights

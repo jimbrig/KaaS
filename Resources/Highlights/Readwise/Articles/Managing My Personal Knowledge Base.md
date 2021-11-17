@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://tkainrad.dev/posts/managing-my-personal-knowledge-base/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Managing My Personal Knowledge Base
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Thomas Kainrad]]
 - Full Title: Managing My Personal Knowledge Base
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://tkainrad.dev/posts/managing-my-personal-knowledge-base/
 
 ## Highlights

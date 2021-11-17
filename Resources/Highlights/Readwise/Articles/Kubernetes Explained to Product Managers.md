@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Kubernetes Explained to Product Managers
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: Kubernetes Explained to Product Managers
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
 
 ## Highlights

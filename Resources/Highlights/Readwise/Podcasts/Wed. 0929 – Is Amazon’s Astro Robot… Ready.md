@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Techmeme Ride Home]]
 - Full Title: Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Microsopt to Bring Amazon and Epic Games to the Microso Store

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/286d6e329b4f
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Build the Ultimate Productivity System
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Chris Kyle]]
 - Full Title: How to Build the Ultimate Productivity System
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/286d6e329b4f
 
 ## Highlights

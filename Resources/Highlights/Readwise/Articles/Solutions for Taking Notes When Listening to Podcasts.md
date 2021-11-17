@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Solutions for Taking Notes When Listening to Podcasts
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Joshua Dance]]
 - Full Title: Solutions for Taking Notes When Listening to Podcasts
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
 
 ## Highlights

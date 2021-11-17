@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Usethis Workflow for Package Development | Emil Hvitfeldt
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Usethis Workflow for Package Development | Emil Hvitfeldt
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
 
 ## Highlights

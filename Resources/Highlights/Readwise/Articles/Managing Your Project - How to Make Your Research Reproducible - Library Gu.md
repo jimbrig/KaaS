@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Managing Your Project - How to Make Your Research Reproducible - Library Gu
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Anna Sackmann]]
 - Full Title: Managing Your Project - How to Make Your Research Reproducible - Library Gu
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
 
 ## Highlights

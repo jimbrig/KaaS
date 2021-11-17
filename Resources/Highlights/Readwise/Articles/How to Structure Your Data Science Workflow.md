@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b06748b7761a
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Structure Your Data Science Workflow
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mikhail Klassen]]
 - Full Title: How to Structure Your Data Science Workflow
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/b06748b7761a
 
 ## Highlights

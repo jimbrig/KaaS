@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://craigsturgis.com/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Craig Sturgis Dot Com
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[craigsturgis.com]]
 - Full Title: Craig Sturgis Dot Com
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://craigsturgis.com/
 
 ## Highlights

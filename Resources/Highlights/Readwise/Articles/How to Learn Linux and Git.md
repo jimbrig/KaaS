@@ -9,7 +9,7 @@ Link: https://medium.com/p/25b18a815778
 ## Metadata
 - Author: [[Syed Mujtaba Jafri]]
 - Full Title: How to Learn Linux and Git
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/25b18a815778
 
 ## Highlights
@@ -27,7 +27,7 @@ Aliases: []
 ## Metadata
 - Author: [[Syed Mujtaba Jafri]]
 - Full Title: How to Learn Linux and Git
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/25b18a815778
 
 ## Highlights

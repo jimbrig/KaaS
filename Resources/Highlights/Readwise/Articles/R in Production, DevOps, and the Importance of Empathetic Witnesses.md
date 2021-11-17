@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/78ecf4430e36
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # R in Production, DevOps, and the Importance of Empathetic Witnesses
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kelly O'Briant]]
 - Full Title: R in Production, DevOps, and the Importance of Empathetic Witnesses
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/78ecf4430e36
 
 ## Highlights

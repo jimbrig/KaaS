@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.joshkel.com/2018/01/18/symlinks-in-windows/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[joshkel.com]]
 - Full Title: Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.joshkel.com/2018/01/18/symlinks-in-windows/
 
 ## Highlights

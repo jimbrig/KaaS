@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.hurryupandwait.io/blog/creating-windows-base-images-for-virtualbox-and-hyper-v-using-packer-boxstarter-and-vagrant
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Matt Wrock]]
 - Full Title: Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: http://www.hurryupandwait.io/blog/creating-windows-base-images-for-virtualbox-and-hyper-v-using-packer-boxstarter-and-vagrant
 

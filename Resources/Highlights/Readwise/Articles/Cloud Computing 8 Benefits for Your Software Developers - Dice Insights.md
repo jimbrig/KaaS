@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://insights.dice.com/employer-resource-center/cloud-computing-benefits-developers/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Cloud Computing: 8 Benefits for Your Software Developers - Dice Insights
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dice Guest]]
 - Full Title: Cloud Computing: 8 Benefits for Your Software Developers - Dice Insights
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://insights.dice.com/employer-resource-center/cloud-computing-benefits-developers/
 
 ## Highlights

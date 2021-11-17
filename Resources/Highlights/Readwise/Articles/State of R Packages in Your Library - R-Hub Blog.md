@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.r-hub.io/2020/09/03/keep.source/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # State of R Packages in Your Library - R-Hub Blog
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[blog.r-hub.io]]
 - Full Title: State of R Packages in Your Library - R-Hub Blog
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.r-hub.io/2020/09/03/keep.source/
 
 ## Highlights

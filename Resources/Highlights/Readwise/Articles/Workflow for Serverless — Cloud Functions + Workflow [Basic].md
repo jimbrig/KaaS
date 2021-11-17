@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/eb755048c982
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Workflow for Serverless — Cloud Functions + Workflow [Basic]
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Johanes Glenn]]
 - Full Title: Workflow for Serverless — Cloud Functions + Workflow [Basic]
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/eb755048c982
 
 ## Highlights

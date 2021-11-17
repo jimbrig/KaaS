@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://joebuhlig.com/getting-things-done-clarify/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Getting Things Done: Clarify
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[joebuhlig.com]]
 - Full Title: Getting Things Done: Clarify
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://joebuhlig.com/getting-things-done-clarify/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/44e5880ef997
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A Builder’s Guide to Note-Taking
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tim Connors]]
 - Full Title: A Builder’s Guide to Note-Taking
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/44e5880ef997
 
 ## Highlights

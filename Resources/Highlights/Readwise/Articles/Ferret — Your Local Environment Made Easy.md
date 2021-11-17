@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9f2667efbe43
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ferret — Your Local Environment Made Easy
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Avia Tam]]
 - Full Title: Ferret — Your Local Environment Made Easy
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9f2667efbe43
 
 ## Highlights

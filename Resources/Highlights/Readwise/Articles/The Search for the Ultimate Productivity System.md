@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/18ff42015e11
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Search for the Ultimate Productivity System
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jack Heimbigner]]
 - Full Title: The Search for the Ultimate Productivity System
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/18ff42015e11
 
 ## Highlights

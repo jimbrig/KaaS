@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d64fbc73291c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Productivity System You Use Doesn’t Matter
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Megan Holstein]]
 - Full Title: The Productivity System You Use Doesn’t Matter
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d64fbc73291c
 
 ## Highlights

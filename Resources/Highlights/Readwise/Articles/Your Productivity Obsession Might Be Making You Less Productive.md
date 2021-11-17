@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.fastcompany.com/90389932/why-you-should-stop-focusing-on-productivity
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Your Productivity Obsession Might Be Making You Less Productive
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Your Productivity Obsession Might Be Making You Less Productive
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.fastcompany.com/90389932/why-you-should-stop-focusing-on-productivity
 
 ## Highlights

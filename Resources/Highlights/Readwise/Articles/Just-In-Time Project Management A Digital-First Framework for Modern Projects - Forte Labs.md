@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/just-in-time-project-management-a-digital-first-framework-for-modern-projects/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Just-In-Time Project Management: A Digital-First Framework for Modern Projects - Forte Labs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: Just-In-Time Project Management: A Digital-First Framework for Modern Projects - Forte Labs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/just-in-time-project-management-a-digital-first-framework-for-modern-projects/
 
 ## Highlights

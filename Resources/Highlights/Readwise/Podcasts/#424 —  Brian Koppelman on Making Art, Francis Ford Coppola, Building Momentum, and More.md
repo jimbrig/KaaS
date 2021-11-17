@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Transcendental Meditation - Is There Something You Say to Get Off the Phone So You Can Buy Time and a Clean Exit?

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # {yHat} - Reproducible Work in R
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[rsangole.netlify.app]]
 - Full Title: {yHat} - Reproducible Work in R
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
 
 ## Highlights

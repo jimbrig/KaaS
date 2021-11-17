@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 132 —  Willpower and Your Environment
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Focused]]
 - Full Title: 132 —  Willpower and Your Environment
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Timing - The Intelligent Time Tracking Ap That You Can Trust

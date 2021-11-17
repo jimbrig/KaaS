@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://r-addict.com/archivist.github/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Archivist and GitHub Integration: Archivist.github
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Marcin Kosiński]]
 - Full Title: Archivist and GitHub Integration: Archivist.github
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://r-addict.com/archivist.github/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/164762343af3
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 6 YAML Features Most Programmers Don’t Know
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Martin Thoma]]
 - Full Title: 6 YAML Features Most Programmers Don’t Know
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/164762343af3
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f11eac050033468655fd9f2
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # #447: Books I've Loved — Ann Miura-Ko
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #447: Books I've Loved — Ann Miura-Ko
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f11eac050033468655fd9f2
 
 ## Highlights

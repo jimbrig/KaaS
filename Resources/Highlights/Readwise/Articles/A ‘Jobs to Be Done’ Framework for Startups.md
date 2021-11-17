@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A ‘Jobs to Be Done’ Framework for Startups
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[firstround.com]]
 - Full Title: A ‘Jobs to Be Done’ Framework for Startups
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/
 
 ## Highlights

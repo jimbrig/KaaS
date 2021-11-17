@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/5974fe5db597
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How a Single Freelancer Outperforms a Whole Team
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jovan Cicmil]]
 - Full Title: How a Single Freelancer Outperforms a Whole Team
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/5974fe5db597
 
 ## Highlights

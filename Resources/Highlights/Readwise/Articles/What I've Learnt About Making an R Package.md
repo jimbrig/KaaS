@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # What I've Learnt About Making an R Package
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: What I've Learnt About Making an R Package
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Basics of the Unix Philosophy
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Basics of the Unix Philosophy
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 
 ## Highlights

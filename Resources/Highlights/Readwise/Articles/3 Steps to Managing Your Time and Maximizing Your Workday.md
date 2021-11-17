@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://addicted2success.com/success-advice/3-steps-to-managing-your-time-and-maximizing-your-workday/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 3 Steps to Managing Your Time and Maximizing Your Workday
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[John Furneaux]]
 - Full Title: 3 Steps to Managing Your Time and Maximizing Your Workday
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://addicted2success.com/success-advice/3-steps-to-managing-your-time-and-maximizing-your-workday/
 
 ## Highlights

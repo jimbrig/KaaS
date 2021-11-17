@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Best Way to Organize Your To-Dos
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tamara Kerr]]
 - Full Title: The Best Way to Organize Your To-Dos
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
 
 ## Highlights

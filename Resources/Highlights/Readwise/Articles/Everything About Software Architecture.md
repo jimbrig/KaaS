@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/dfd2b9351ef4
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Everything About Software Architecture
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mohit Malhotra]]
 - Full Title: Everything About Software Architecture
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/dfd2b9351ef4
 
 ## Highlights

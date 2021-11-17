@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cloudwards.net/backup-storage-strategy-2017/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Cloudwards.net's Backup and Storage Strategy 2017
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mauricio Prinzlau]]
 - Full Title: Cloudwards.net's Backup and Storage Strategy 2017
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.cloudwards.net/backup-storage-strategy-2017/
 
 ## Highlights

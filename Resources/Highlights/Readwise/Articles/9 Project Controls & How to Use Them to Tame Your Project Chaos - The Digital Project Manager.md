@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://thedigitalprojectmanager.com/project-controls-simplified/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://thedigitalprojectmanager.com/project-controls-simplified/
 
 ## Highlights

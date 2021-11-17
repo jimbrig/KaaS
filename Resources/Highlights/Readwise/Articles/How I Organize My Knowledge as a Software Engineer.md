@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How I Organize My Knowledge as a Software Engineer
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Bruno Paz]]
 - Full Title: How I Organize My Knowledge as a Software Engineer
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ## Highlights

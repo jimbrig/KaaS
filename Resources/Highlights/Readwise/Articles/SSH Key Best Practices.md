@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/paulmicheli/ssh-key-best-practices-2cb7
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # SSH Key Best Practices
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: SSH Key Best Practices
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/paulmicheli/ssh-key-best-practices-2cb7
 
 ## Highlights

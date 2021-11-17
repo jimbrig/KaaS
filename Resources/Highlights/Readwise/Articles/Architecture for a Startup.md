@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/86651962bc99
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Architecture for a Startup
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mitesh]]
 - Full Title: Architecture for a Startup
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/86651962bc99
 
 ## Highlights

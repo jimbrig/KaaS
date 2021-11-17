@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # This Is How You Become Confident and Transform Your Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ben Hardy]]
 - Full Title: This Is How You Become Confident and Transform Your Life
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
 
 ## Highlights

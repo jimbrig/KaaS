@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://doubleyourfreelancing.com/guide-to-writing-client-emails/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[doubleyourfreelancing.com]]
 - Full Title: The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://doubleyourfreelancing.com/guide-to-writing-client-emails/
 
 ## Highlights

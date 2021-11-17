@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.open-meta.org/technology/one-observer-for-all-buttons-in-shiny-using-javascriptjquery/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # One Observer for All Buttons in Shiny Using JavaScript / jQuery
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: One Observer for All Buttons in Shiny Using JavaScript / jQuery
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://www.open-meta.org/technology/one-observer-for-all-buttons-in-shiny-using-javascriptjquery/
 
 ## Highlights

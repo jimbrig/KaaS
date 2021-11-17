@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/3f1421d75d09
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # I Built Docker Like Executable .Exe for RShiny!
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Pulkit Saraf]]
 - Full Title: I Built Docker Like Executable .Exe for RShiny!
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/3f1421d75d09
 
 ## Highlights

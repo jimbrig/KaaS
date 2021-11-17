@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.redeemingproductivity.com/markdown/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Organize Your Writing With Markdown - Redeeming Productivity
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[redeemingproductivity.com]]
 - Full Title: How to Organize Your Writing With Markdown - Redeeming Productivity
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.redeemingproductivity.com/markdown/
 
 ## Highlights

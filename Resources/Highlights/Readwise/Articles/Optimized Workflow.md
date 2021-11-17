@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/bde3011b604a
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Optimized Workflow
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Lucas Soares]]
 - Full Title: Optimized Workflow
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/bde3011b604a
 
 ## Highlights

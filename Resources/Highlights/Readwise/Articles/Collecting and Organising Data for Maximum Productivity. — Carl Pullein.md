@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.carlpullein.com/blog/collecting-and-organising-data-for-maximum-productivity/8/7/2020
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Collecting and Organising Data for Maximum Productivity. — Carl Pullein
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Carl Pullein]]
 - Full Title: Collecting and Organising Data for Maximum Productivity. — Carl Pullein
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.carlpullein.com/blog/collecting-and-organising-data-for-maximum-productivity/8/7/2020
 
 ## Highlights

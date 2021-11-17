@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/make-time/the-burner-list-my-simple-paper-based-system-for-focused-to-dos-95497321cf14
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The “Burner List”—My Simple, Paper-Based System for Focused To-Dos
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jake Knapp]]
 - Full Title: The “Burner List”—My Simple, Paper-Based System for Focused To-Dos
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/make-time/the-burner-list-my-simple-paper-based-system-for-focused-to-dos-95497321cf14
 
 ## Highlights

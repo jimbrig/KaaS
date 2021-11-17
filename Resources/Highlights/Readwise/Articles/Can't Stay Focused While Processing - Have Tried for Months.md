@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Can't Stay Focused While Processing - Have Tried for Months
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[forum.gettingthingsdone.com]]
 - Full Title: Can't Stay Focused While Processing - Have Tried for Months
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/
 
 ## Highlights

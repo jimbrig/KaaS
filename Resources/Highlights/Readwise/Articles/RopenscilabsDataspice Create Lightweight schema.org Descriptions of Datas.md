@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://github.com/ropenscilabs/dataspice
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ropenscilabs/Dataspice: Create Lightweight schema.org Descriptions of Datas
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Ropenscilabs/Dataspice: Create Lightweight schema.org Descriptions of Datas
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://github.com/ropenscilabs/dataspice
 
 ## Highlights

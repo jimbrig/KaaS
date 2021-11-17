@@ -9,7 +9,7 @@ Link: http://forum.wisecleaner.com/index.php?/topic/3084-how-to-improve-the-perf
 ## Metadata
 - Author: 
 - Full Title: How to Improve the Performance of Your Windows Computer Fundamentally?
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: http://forum.wisecleaner.com/index.php?/topic/3084-how-to-improve-the-performance-of-your-windows-computer-fundamentally-part-one/
 
 ## Highlights
@@ -33,7 +33,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Improve the Performance of Your Windows Computer Fundamentally?
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://forum.wisecleaner.com/index.php?/topic/3084-how-to-improve-the-performance-of-your-windows-computer-fundamentally-part-one/
 
 ## Highlights

@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work | DEEP QUESTIONS
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Getting Things Done - Organize, Clarify

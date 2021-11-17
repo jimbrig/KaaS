@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/631e1138f6b3
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Role of Data Scientist: A Back-Of-The-Envelope Model
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ron Sielinski]]
 - Full Title: The Role of Data Scientist: A Back-Of-The-Envelope Model
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/631e1138f6b3
 
 ## Highlights

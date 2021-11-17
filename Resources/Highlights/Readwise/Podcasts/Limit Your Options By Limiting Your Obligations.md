@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Limit Your Options By Limiting Your Obligations
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Developer Tea]]
 - Full Title: Limit Your Options By Limiting Your Obligations
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Taking Control of Your Calendar

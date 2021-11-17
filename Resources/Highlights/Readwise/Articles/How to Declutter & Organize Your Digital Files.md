@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://theblissfulmind.com/organize-your-digital-files/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Declutter & Organize Your Digital Files
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[theblissfulmind.com]]
 - Full Title: How to Declutter & Organize Your Digital Files
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://theblissfulmind.com/organize-your-digital-files/
 
 ## Highlights

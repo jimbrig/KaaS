@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/e57a25ab2f0a
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # System Design Paradigm: Caching
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Abracadabra]]
 - Full Title: System Design Paradigm: Caching
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/e57a25ab2f0a
 
 ## Highlights

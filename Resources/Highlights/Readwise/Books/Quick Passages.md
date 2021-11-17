@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: manual
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Quick Passages
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Quick Passages
-- Category: #Type/Highlights/Readwise/Books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - If you could have a gigantic billboard anywhere with anything on it, what would it say and why?

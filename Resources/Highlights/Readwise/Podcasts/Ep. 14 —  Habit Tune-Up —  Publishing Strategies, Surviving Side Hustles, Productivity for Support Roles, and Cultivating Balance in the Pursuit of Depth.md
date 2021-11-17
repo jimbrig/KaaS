@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Ticketing Systems Are a Revolution in Productivity

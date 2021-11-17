@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/f6f7842c9865
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Data Science Landscape
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dr. Stefan Karenfort]]
 - Full Title: The Data Science Landscape
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/f6f7842c9865
 
 ## Highlights

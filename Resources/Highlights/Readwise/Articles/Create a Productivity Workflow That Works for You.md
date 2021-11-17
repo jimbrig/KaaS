@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://hbr.org/2020/01/create-a-productivity-workflow-that-works-for-you
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Create a Productivity Workflow That Works for You
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Create a Productivity Workflow That Works for You
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://hbr.org/2020/01/create-a-productivity-workflow-that-works-for-you
 
 ## Highlights

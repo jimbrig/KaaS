@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/c5026d5a19da
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Five Tidyverse Tricks You May Not Know About
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Keith McNulty]]
 - Full Title: Five Tidyverse Tricks You May Not Know About
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/c5026d5a19da
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/2-effective-tools-that-can-increase-your-hard-drive-performance-windows/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 7 Effective Tools to Increase Your Hard Drive Performance on Windows
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 7 Effective Tools to Increase Your Hard Drive Performance on Windows
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/2-effective-tools-that-can-increase-your-hard-drive-performance-windows/
 
 ## Highlights

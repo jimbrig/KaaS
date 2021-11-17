@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # FW: Managing Outcomes in a Remote Environment
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: FW: Managing Outcomes in a Remote Environment
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 
 ## Highlights
 - Manage Outcomes, Not Activities

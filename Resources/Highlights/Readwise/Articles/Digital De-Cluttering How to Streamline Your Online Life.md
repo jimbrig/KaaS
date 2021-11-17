@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.themuse.com/advice/digital-decluttering-how-to-streamline-your-online-life
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Digital De-Cluttering: How to Streamline Your Online Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[themuse.com]]
 - Full Title: Digital De-Cluttering: How to Streamline Your Online Life
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.themuse.com/advice/digital-decluttering-how-to-streamline-your-online-life
 
 ## Highlights

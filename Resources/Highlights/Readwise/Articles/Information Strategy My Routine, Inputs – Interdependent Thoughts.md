@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.zylstra.org/blog/2005/10/information_str_2/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Information Strategy: My Routine, Inputs – Interdependent Thoughts
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Information Strategy: My Routine, Inputs – Interdependent Thoughts
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.zylstra.org/blog/2005/10/information_str_2/
 
 ## Highlights

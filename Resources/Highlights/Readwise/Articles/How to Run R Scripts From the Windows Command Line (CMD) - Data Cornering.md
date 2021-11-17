@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://datacornering.com/how-to-run-r-scripts-from-the-windows-command-line-cmd/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://datacornering.com/how-to-run-r-scripts-from-the-windows-command-line-cmd/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/833077/daily-checklist
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 13 Things to Put on Your Daily Checklist for Boosted Productivity
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: 13 Things to Put on Your Daily Checklist for Boosted Productivity
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.lifehack.org/833077/daily-checklist
 

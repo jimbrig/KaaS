@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do I Integrated Life Admen Into My Workday?

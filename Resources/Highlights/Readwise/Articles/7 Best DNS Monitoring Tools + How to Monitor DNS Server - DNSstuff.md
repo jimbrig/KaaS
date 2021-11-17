@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.dnsstuff.com/dns-monitoring-software
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dnsstuff.com]]
 - Full Title: 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.dnsstuff.com/dns-monitoring-software
 
 ## Highlights

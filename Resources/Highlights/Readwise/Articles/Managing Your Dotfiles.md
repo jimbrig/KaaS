@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Managing Your Dotfiles
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[anishathalye.com]]
 - Full Title: Managing Your Dotfiles
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 
 ## Highlights

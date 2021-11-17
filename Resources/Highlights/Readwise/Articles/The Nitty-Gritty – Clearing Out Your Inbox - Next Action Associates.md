@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Edward Lamont]]
 - Full Title: The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
 

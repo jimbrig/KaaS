@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Using Redo to Manage R Data Analysis Workflow
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[karolis.koncevicius.lt]]
 - Full Title: Using Redo to Manage R Data Analysis Workflow
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/
 
 ## Highlights

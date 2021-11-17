@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://mobydiction.ca/blog/my-personal-knowledge-management-system
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # My Personal Knowledge Management System — Moby Diction
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[mobydiction.ca]]
 - Full Title: My Personal Knowledge Management System — Moby Diction
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://mobydiction.ca/blog/my-personal-knowledge-management-system
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2c03ea4873b2
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 9 Tricks for Boosting SQL Query Performance
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Anisuzzaman Babla]]
 - Full Title: 9 Tricks for Boosting SQL Query Performance
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/2c03ea4873b2
 
 ## Highlights

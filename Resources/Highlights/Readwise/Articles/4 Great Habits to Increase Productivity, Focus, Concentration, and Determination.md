@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/55b7d687498b
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Michał Stawicki]]
 - Full Title: 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/55b7d687498b
 
 ## Highlights

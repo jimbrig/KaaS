@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.mindtools.com/blog/reflect-recover-reset-life-plan-2021/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Reflect, Recover, Reset – Your Life Plan 2021
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Claire Minnis]]
 - Full Title: Reflect, Recover, Reset – Your Life Plan 2021
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.mindtools.com/blog/reflect-recover-reset-life-plan-2021/
 
 ## Highlights

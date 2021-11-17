@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: kindle
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Reproducible Research With R and RStudio
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Christopher Gandrud]]
 - Full Title: Reproducible Research With R and RStudio
-- Category: #Type/Highlights/Readwise/Books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - the data and code used to make a fnding are available and they are suÿcient for an independent researcher to recreate the fnding. ([Location 11798](https://readwise.io/to_kindle?action=open&asin=B08528HRYZ&location=11798))

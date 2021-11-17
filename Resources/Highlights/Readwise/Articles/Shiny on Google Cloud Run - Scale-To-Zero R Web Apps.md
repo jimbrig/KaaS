@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://code.markedmondson.me/shiny-cloudrun/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Shiny on Google Cloud Run - Scale-To-Zero R Web Apps
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Edmondson]]
 - Full Title: Shiny on Google Cloud Run - Scale-To-Zero R Web Apps
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://code.markedmondson.me/shiny-cloudrun/
 
 ## Highlights

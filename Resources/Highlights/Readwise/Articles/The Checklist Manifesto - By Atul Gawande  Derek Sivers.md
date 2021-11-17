@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://sivers.org/book/ChecklistManifesto
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Checklist Manifesto - By Atul Gawande | Derek Sivers
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[sivers.org]]
 - Full Title: The Checklist Manifesto - By Atul Gawande | Derek Sivers
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://sivers.org/book/ChecklistManifesto
 
 ## Highlights

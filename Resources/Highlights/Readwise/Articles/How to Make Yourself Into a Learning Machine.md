@@ -9,7 +9,7 @@ Link: https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 ## Metadata
 - Author: [[Dan Shipper]]
 - Full Title: How to Make Yourself Into a Learning Machine
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
 ## Highlights
@@ -59,7 +59,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dan Shipper]]
 - Full Title: How to Make Yourself Into a Learning Machine
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
 ## Highlights

@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Oh my! Zsh.
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Changelog: Software Development, Open Source]]
 - Full Title: Oh my! Zsh.
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - You Can Make Money From Open Source

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # R at Scale on the Google Cloud Platform
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Edmondson]]
 - Full Title: R at Scale on the Google Cloud Platform
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
 
 ## Highlights

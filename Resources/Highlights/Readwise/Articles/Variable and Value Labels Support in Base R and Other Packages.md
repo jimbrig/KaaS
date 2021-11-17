@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://cran.r-project.org/web/packages/expss/vignettes/labels-support.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Variable and Value Labels Support in Base R and Other Packages
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Variable and Value Labels Support in Base R and Other Packages
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://cran.r-project.org/web/packages/expss/vignettes/labels-support.html
 
 ## Highlights

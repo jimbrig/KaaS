@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b32d56b24f03
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Scaling R Shiny Applications:
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Siva Anne]]
 - Full Title: Scaling R Shiny Applications:
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/b32d56b24f03
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.home-storage-solutions-101.com/organize-computer-files.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Organize Computer Files on Your Home Computer
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[home-storage-solutions-101.com]]
 - Full Title: How to Organize Computer Files on Your Home Computer
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.home-storage-solutions-101.com/organize-computer-files.html
 
 ## Highlights

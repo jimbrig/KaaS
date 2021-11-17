@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://primeyourpump.com/2019/05/16/digital-declutter/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Digital Declutter: This Is How to Reset Your Digital Life - Prime Your Pump
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Rick Melnyck]]
 - Full Title: Digital Declutter: This Is How to Reset Your Digital Life - Prime Your Pump
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://primeyourpump.com/2019/05/16/digital-declutter/
 
 ## Highlights

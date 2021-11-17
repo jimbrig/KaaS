@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f319072f3a8e12e79e0f4e8
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # #634: How to Design Conversations That Matter
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Art of Manliness]]
 - Full Title: #634: How to Design Conversations That Matter
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f319072f3a8e12e79e0f4e8
 
 ## Highlights

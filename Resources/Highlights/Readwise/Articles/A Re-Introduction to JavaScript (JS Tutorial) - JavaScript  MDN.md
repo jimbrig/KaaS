@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[developer.mozilla.org]]
 - Full Title: A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 ## Highlights

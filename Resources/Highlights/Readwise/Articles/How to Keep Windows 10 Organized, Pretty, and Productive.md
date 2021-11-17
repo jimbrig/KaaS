@@ -9,7 +9,7 @@ Link: https://lifehacker.com/how-to-keep-windows-10-organized-pretty-and-product
 ## Metadata
 - Author: 
 - Full Title: How to Keep Windows 10 Organized, Pretty, and Productive
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://lifehacker.com/how-to-keep-windows-10-organized-pretty-and-productiv-1825213309
 
 ## Highlights
@@ -29,7 +29,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Keep Windows 10 Organized, Pretty, and Productive
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://lifehacker.com/how-to-keep-windows-10-organized-pretty-and-productiv-1825213309
 
 ## Highlights

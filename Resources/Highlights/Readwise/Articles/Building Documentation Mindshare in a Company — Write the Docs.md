@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.writethedocs.org/guide/writing/mindshare/#build-a-taxonomy
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Building Documentation Mindshare in a Company — Write the Docs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[writethedocs.org]]
 - Full Title: Building Documentation Mindshare in a Company — Write the Docs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.writethedocs.org/guide/writing/mindshare/#build-a-taxonomy
 
 ## Highlights

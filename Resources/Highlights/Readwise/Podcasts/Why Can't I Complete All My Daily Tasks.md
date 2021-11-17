@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Why Can't I Complete All My Daily Tasks?
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Working With... Podcast]]
 - Full Title: Why Can't I Complete All My Daily Tasks?
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do You Get All Your Work Done Every Day?

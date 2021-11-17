@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.techradar.com/news/best-dns-server
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mike Williams]]
 - Full Title: Best Free, Public DNS Servers in 2021: Boost Your Internet Speed With These Services
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.techradar.com/news/best-dns-server
 
 ## Highlights

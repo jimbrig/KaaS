@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/how-to-use-evernote-for-your-creative-workflow/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Use Evernote for Your Creative Workflow - Forte Labs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: How to Use Evernote for Your Creative Workflow - Forte Labs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/how-to-use-evernote-for-your-creative-workflow/
 
 ## Highlights

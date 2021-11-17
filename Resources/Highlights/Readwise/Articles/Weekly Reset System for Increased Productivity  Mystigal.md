@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://mystigal.com/weekly-reset-system-for-increased-productivity/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Weekly Reset System for Increased Productivity | Mystigal
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Weekly Reset System for Increased Productivity | Mystigal
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://mystigal.com/weekly-reset-system-for-increased-productivity/
 
 ## Highlights

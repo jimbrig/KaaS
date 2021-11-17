@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Deep Habits: WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: Deep Habits: WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/
 
 ## Highlights

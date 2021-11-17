@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://personaldevelopmentideas.com/tag/get-organized-2/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Get Organized – Personal Development Ideas
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[personaldevelopmentideas.com]]
 - Full Title: Get Organized – Personal Development Ideas
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://personaldevelopmentideas.com/tag/get-organized-2/
 
 ## Highlights

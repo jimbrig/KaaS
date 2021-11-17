@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2f2c9f9fcdbf
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # RESTful API Design — Step by Step Guide
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tanmay Deshpande]]
 - Full Title: RESTful API Design — Step by Step Guide
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/2f2c9f9fcdbf
 
 ## Highlights

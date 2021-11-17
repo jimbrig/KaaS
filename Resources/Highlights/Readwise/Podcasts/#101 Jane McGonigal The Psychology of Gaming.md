@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/6006b12697881f08a112da92
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # #101 Jane McGonigal: The Psychology of Gaming
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Knowledge Project with Shane Parrish]]
 - Full Title: #101 Jane McGonigal: The Psychology of Gaming
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/6006b12697881f08a112da92
 
 ## Highlights

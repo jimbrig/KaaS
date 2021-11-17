@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/c3208308d4b2
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Event-Driven APIs — Understanding the Principles
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dunith Dhanushka]]
 - Full Title: Event-Driven APIs — Understanding the Principles
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/c3208308d4b2
 
 ## Highlights

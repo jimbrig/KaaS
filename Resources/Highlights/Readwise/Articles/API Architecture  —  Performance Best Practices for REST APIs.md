@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/1d4a5922dae1
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # API Architecture  —  Performance Best Practices for REST APIs
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Abdul Wahab]]
 - Full Title: API Architecture  —  Performance Best Practices for REST APIs
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/1d4a5922dae1
 
 ## Highlights

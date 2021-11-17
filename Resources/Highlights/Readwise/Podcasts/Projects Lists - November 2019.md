@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/60177110dd6600f5640c1865
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Projects Lists - November 2019
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[GTD|Connect Members-Only Podcasts]]
 - Full Title: Projects Lists - November 2019
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/60177110dd6600f5640c1865
 
 ## Highlights

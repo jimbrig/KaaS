@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9537b2a7cd72
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Paperless: The One Notebook and Pen I’m Never Giving Up
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ellane W]]
 - Full Title: Paperless: The One Notebook and Pen I’m Never Giving Up
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9537b2a7cd72
 
 ## Highlights

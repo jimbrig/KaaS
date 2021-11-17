@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # An Iterative Approach to Notes
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: An Iterative Approach to Notes
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
 
 ## Highlights

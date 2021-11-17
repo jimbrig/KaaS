@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 677 - The Art of Impossible With Steven Kotler!
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The James Altucher Show]]
 - Full Title: 677 - The Art of Impossible With Steven Kotler!
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
 
 ## Highlights

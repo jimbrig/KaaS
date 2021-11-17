@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.zettlr.com/post/what-is-a-zettelkasten
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # "Wtf Is a Zettelkasten?" | Zettlr
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: "Wtf Is a Zettelkasten?" | Zettlr
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.zettlr.com/post/what-is-a-zettelkasten
 
 ## Highlights

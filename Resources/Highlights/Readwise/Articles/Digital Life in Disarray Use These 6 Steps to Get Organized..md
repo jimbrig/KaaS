@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dallisonlee.com/organize-your-digital-life/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Digital Life in Disarray? Use These 6 Steps to Get Organized.
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deb Lee]]
 - Full Title: Digital Life in Disarray? Use These 6 Steps to Get Organized.
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://dallisonlee.com/organize-your-digital-life/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://updater.com/moving-tips/last-minute-moving-tips/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Last-Minute Moving Tips: How to Pack in a Pinch - Updater
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[updater.com]]
 - Full Title: Last-Minute Moving Tips: How to Pack in a Pinch - Updater
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://updater.com/moving-tips/last-minute-moving-tips/
 

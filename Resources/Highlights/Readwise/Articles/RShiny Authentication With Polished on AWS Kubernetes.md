@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/358baff9a61c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # RShiny Authentication With Polished on AWS Kubernetes
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jillian Rowe]]
 - Full Title: RShiny Authentication With Polished on AWS Kubernetes
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/358baff9a61c
 
 ## Highlights

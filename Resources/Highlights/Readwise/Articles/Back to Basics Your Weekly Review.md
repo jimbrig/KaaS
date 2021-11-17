@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-review.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Back to Basics: Your Weekly Review
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Back to Basics: Your Weekly Review
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-review.html
 
 ## Highlights

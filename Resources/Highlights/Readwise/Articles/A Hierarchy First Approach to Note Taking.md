@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9d4b176bd5ec
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # A Hierarchy First Approach to Note Taking
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kevin Lin]]
 - Full Title: A Hierarchy First Approach to Note Taking
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9d4b176bd5ec
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.indiehackers.com/post/building-a-community-digital-garden-7e941d107c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # The Future of Communities Is Increasingly More About Digital Community Gardening
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[indiehackers.com]]
 - Full Title: The Future of Communities Is Increasingly More About Digital Community Gardening
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.indiehackers.com/post/building-a-community-digital-garden-7e941d107c
 
 ## Highlights

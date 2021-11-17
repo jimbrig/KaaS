@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.harmonenterprises.com/blog/naming-conventions-order-evernote-notebooks
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Gaming the Naming: The ABC's of Organizing Your Evernote Notebooks
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Stacey Harmon]]
 - Full Title: Gaming the Naming: The ABC's of Organizing Your Evernote Notebooks
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.harmonenterprises.com/blog/naming-conventions-order-evernote-notebooks
 
 ## Highlights

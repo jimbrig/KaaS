@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://statnmap.com/2017-11-13-enable-code-folding-in-bookdown-and-blogdown/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Enable Code Folding in Bookdown and Blogdown · StatnMap
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Sébastien Rochette]]
 - Full Title: Enable Code Folding in Bookdown and Blogdown · StatnMap
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://statnmap.com/2017-11-13-enable-code-folding-in-bookdown-and-blogdown/
 
 ## Highlights

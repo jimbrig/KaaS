@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/26bbee5b674
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tony Munton]]
 - Full Title: Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/26bbee5b674
 
 ## Highlights

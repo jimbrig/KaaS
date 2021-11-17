@@ -9,7 +9,7 @@ Link: https://www.lifehack.org/893609/efficiency-at-work
 ## Metadata
 - Author: [[Adrian Shepherd]]
 - Full Title: How to Increase Your Efficiency at Work
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/893609/efficiency-at-work
 
 ## Highlights
@@ -40,7 +40,7 @@ Aliases: []
 ## Metadata
 - Author: [[Adrian Shepherd]]
 - Full Title: How to Increase Your Efficiency at Work
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/893609/efficiency-at-work
 
 ## Highlights

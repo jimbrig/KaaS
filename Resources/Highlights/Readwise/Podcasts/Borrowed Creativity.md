@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5e8265e24cc59f3b892e9c0d
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Borrowed Creativity
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Building a Second Brain Podcast]]
 - Full Title: Borrowed Creativity
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5e8265e24cc59f3b892e9c0d
 
 ## Highlights

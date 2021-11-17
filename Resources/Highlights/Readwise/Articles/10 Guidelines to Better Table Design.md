@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://paulvanderlaken.com/2020/09/01/10-guidelines-to-better-table-design/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 10 Guidelines to Better Table Design
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[paulvanderlaken.com]]
 - Full Title: 10 Guidelines to Better Table Design
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://paulvanderlaken.com/2020/09/01/10-guidelines-to-better-table-design/
 
 ## Highlights

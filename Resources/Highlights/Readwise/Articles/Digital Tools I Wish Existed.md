@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://jon.bo/posts/digital-tools/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Digital Tools I Wish Existed
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[jon.bo]]
 - Full Title: Digital Tools I Wish Existed
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://jon.bo/posts/digital-tools/
 
 ## Highlights

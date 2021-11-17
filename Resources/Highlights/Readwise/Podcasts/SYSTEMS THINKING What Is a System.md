@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # SYSTEMS THINKING: What Is a System?
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Systems Thinking]]
 - Full Title: SYSTEMS THINKING: What Is a System?
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
 
 ## Highlights

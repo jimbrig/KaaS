@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Struggling To See The Big Picture As You Work? The Horizons Of Focus Model Is For You # 53
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Change Your Game with GTD®]]
 - Full Title: Struggling To See The Big Picture As You Work? The Horizons Of Focus Model Is For You # 53
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Horizons of Focus and Responsibility

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fd21fa7c5e8436a9eda66d3
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Personal Knowledge Management Reprised
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Teaching in Higher Ed]]
 - Full Title: Personal Knowledge Management Reprised
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fd21fa7c5e8436a9eda66d3
 
 ## Highlights

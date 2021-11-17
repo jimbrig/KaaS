@@ -9,7 +9,7 @@ Link: https://gigaom.com/2007/10/04/how-to-get-through-a-paper-and-digital-backl
 ## Metadata
 - Author: [[gigaom.com]]
 - Full Title: How to Get Through a Paper and Digital Backlog – Gigaom
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://gigaom.com/2007/10/04/how-to-get-through-a-paper-and-digital-backlog/
 
 ## Highlights
@@ -43,7 +43,7 @@ Aliases: []
 ## Metadata
 - Author: [[gigaom.com]]
 - Full Title: How to Get Through a Paper and Digital Backlog – Gigaom
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://gigaom.com/2007/10/04/how-to-get-through-a-paper-and-digital-backlog/
 
 ## Highlights

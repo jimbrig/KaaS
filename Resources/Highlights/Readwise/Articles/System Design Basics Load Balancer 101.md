@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/adc4f602d08f
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # System Design Basics: Load Balancer 101
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ashis Chakraborty]]
 - Full Title: System Design Basics: Load Balancer 101
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/adc4f602d08f
 
 ## Highlights

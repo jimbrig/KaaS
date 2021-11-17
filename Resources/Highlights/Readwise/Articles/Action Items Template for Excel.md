@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Action Items Template for Excel
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[techno-pm.com]]
 - Full Title: Action Items Template for Excel
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
 
 ## Highlights

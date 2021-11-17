@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://helpercode.com/2009/06/21/developer-gtd/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Developer GTD
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dror Helper]]
 - Full Title: Developer GTD
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://helpercode.com/2009/06/21/developer-gtd/
 
 ## Highlights

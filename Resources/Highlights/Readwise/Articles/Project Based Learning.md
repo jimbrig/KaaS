@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Project Based Learning
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Nikita Voloboev]]
 - Full Title: Project Based Learning
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca
 
 ## Highlights

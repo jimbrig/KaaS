@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://emilyriederer.netlify.app/post/projmgr/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Emily Riederer]]
 - Full Title: Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://emilyriederer.netlify.app/post/projmgr/
 
 ## Highlights

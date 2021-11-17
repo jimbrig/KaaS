@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/60016bcbb457c03c15be5323
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # This Is How We Change the World
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Mindset Mentor]]
 - Full Title: This Is How We Change the World
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/60016bcbb457c03c15be5323
 
 ## Highlights

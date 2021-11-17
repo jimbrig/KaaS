@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://jamesstuber.com/overwhelm/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Productivity Overwhelm
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[James Stuber]]
 - Full Title: Productivity Overwhelm
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://jamesstuber.com/overwhelm/
 
 ## Highlights

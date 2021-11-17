@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 68 Bits of Unsolicited Advice
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: 68 Bits of Unsolicited Advice
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
 
 ## Highlights

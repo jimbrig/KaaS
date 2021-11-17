@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://facilethings.com/blog/en/first-step.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Take the First Step
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Francisco Sáez]]
 - Full Title: Take the First Step
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://facilethings.com/blog/en/first-step.html
 
 ## Highlights

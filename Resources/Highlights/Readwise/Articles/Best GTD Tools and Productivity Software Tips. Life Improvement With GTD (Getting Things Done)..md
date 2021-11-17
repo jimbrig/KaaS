@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://gtd-tools.com/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://gtd-tools.com/
 
 ## Highlights

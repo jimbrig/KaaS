@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.fastcompany.com/40557798/27-incredibly-useful-things-you-didnt-know-chrome-could-do
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[JR Raphael]]
 - Full Title: 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.fastcompany.com/40557798/27-incredibly-useful-things-you-didnt-know-chrome-could-do
 
 ## Highlights

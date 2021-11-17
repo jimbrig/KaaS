@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://hbr.org/2011/05/managing-yourself-extreme-productivity
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Managing Yourself: Extreme Productivity
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Managing Yourself: Extreme Productivity
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://hbr.org/2011/05/managing-yourself-extreme-productivity
 
 ## Highlights

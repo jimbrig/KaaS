@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/daily-goals/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Achieve Your Daily Goals
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Achieve Your Daily Goals
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/daily-goals/
 
 ## Highlights

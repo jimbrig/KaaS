@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.asianefficiency.com/productivity/common-gtd-mistake/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Are You Making This GTD Mistake? - Asian Efficiency
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Thanh Pham]]
 - Full Title: Are You Making This GTD Mistake? - Asian Efficiency
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.asianefficiency.com/productivity/common-gtd-mistake/
 
 ## Highlights

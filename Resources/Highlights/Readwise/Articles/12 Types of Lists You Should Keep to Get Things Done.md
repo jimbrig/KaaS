@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.dandywithlens.com/types-of-lists-you-should-keep-to-get-things-done/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 12 Types of Lists You Should Keep to Get Things Done
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 12 Types of Lists You Should Keep to Get Things Done
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.dandywithlens.com/types-of-lists-you-should-keep-to-get-things-done/
 
 ## Highlights

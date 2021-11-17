@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.r-bloggers.com/r-rstudio-the-interoperability-environment-for-data-analytics/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # R & RStudio – The Interoperability Environment for Data Analytics
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: R & RStudio – The Interoperability Environment for Data Analytics
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.r-bloggers.com/r-rstudio-the-interoperability-environment-for-data-analytics/
 
 ## Highlights

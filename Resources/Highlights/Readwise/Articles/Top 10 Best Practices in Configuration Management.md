@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-management
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Top 10 Best Practices in Configuration Management
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[cmcrossroads.com]]
 - Full Title: Top 10 Best Practices in Configuration Management
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.cmcrossroads.com/article/top-10-best-practices-configuration-management
 
 ## Highlights

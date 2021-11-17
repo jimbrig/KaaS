@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.developgoodhabits.com/todoist-tutorial/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Use Todoist Tutorial
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[developgoodhabits.com]]
 - Full Title: How to Use Todoist Tutorial
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.developgoodhabits.com/todoist-tutorial/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Ultimate Personal Management Systems - The Startup - Medium
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dan Silvestre]]
 - Full Title: Ultimate Personal Management Systems - The Startup - Medium
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
 
 ## Highlights

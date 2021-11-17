@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://levelup.gitconnected.com/whats-on-your-programming-reading-list-472fc23ed9bc
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # What’s on Your Programming Reading List?
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[levelup.gitconnected.com]]
 - Full Title: What’s on Your Programming Reading List?
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://levelup.gitconnected.com/whats-on-your-programming-reading-list-472fc23ed9bc
 
 ## Highlights

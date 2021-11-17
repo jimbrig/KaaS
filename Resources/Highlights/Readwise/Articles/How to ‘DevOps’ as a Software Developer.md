@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d428821ae681
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to ‘DevOps’ as a Software Developer
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Komal Venkatesh Ganesan]]
 - Full Title: How to ‘DevOps’ as a Software Developer
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d428821ae681
 
 ## Highlights

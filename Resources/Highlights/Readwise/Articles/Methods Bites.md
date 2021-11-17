@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.mzes.uni-mannheim.de/socialsciencedatalab
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Methods Bites
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mzes Social Science Data Lab]]
 - Full Title: Methods Bites
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.mzes.uni-mannheim.de/socialsciencedatalab
 
 ## Highlights

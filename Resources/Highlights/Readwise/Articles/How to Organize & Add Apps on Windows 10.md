@@ -9,7 +9,7 @@ Link: https://myitmaster.com/organize-add-shortcuts-apps-list-windows-10/
 ## Metadata
 - Author: 
 - Full Title: How to Organize & Add Apps on Windows 10
-- Category: #Type/Highlights/Article
+- Category: #Type/Highlight/Article
 - URL: https://myitmaster.com/organize-add-shortcuts-apps-list-windows-10/
 
 ## Highlights
@@ -33,7 +33,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Organize & Add Apps on Windows 10
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://myitmaster.com/organize-add-shortcuts-apps-list-windows-10/
 
 ## Highlights

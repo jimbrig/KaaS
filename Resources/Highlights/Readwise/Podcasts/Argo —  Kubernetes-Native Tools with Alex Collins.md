@@ -2,8 +2,8 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: 
-Tags: ["#Type/Highlights/Readwise"]
+Link: null
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Argo —  Kubernetes-Native Tools with Alex Collins
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Software Engineering Daily]]
 - Full Title: Argo —  Kubernetes-Native Tools with Alex Collins
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How Do You Think Kubernetes Has Changed the Development of Saftware?

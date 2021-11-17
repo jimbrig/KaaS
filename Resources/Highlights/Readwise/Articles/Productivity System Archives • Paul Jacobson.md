@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://pauljacobson.me/tag/productivity-system/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Productivity System Archives • Paul Jacobson
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[pauljacobson.me]]
 - Full Title: Productivity System Archives • Paul Jacobson
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://pauljacobson.me/tag/productivity-system/
 
 ## Highlights

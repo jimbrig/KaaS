@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d51e2dcdfa57
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Use Your Calendar to Make Every Day Your Ideal Day
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[John Zeratsky]]
 - Full Title: How to Use Your Calendar to Make Every Day Your Ideal Day
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d51e2dcdfa57
 
 ## Highlights

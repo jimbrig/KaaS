@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/34a1e8b1b724
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Writing Well: A Must-Have Skill That No One Teaches Data Scientists
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Nityesh Agarwal]]
 - Full Title: Writing Well: A Must-Have Skill That No One Teaches Data Scientists
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/34a1e8b1b724
 
 ## Highlights

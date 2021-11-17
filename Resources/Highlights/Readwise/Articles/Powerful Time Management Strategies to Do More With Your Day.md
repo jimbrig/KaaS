@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/essential-time-management-strategies/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Powerful Time Management Strategies to Do More With Your Day
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Powerful Time Management Strategies to Do More With Your Day
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/essential-time-management-strategies/
 
 ## Highlights

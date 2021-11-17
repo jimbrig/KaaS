@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://petermeissner.de/blog/2018/04/27/re-exporting-the-pipe/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Re-Exporting the Magrittr Pipe Operator › Petermeissner
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Peter Meissner]]
 - Full Title: Re-Exporting the Magrittr Pipe Operator › Petermeissner
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://petermeissner.de/blog/2018/04/27/re-exporting-the-pipe/
 
 ## Highlights

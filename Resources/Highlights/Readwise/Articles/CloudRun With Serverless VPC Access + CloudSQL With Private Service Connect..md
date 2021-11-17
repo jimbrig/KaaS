@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9432a749ff7b
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Johanes Glenn]]
 - Full Title: CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9432a749ff7b
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://facilethings.com/blog/en/the-mind-sweep
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Want to Get Organized? Start With the Mind Sweep
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Francisco Sáez]]
 - Full Title: Want to Get Organized? Start With the Mind Sweep
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://facilethings.com/blog/en/the-mind-sweep
 
 ## Highlights

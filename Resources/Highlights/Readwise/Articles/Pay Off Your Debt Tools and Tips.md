@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.nerdwallet.com/blog/pay-off-debt/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Pay Off Your Debt: Tools and Tips
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[nerdwallet.com]]
 - Full Title: Pay Off Your Debt: Tools and Tips
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.nerdwallet.com/blog/pay-off-debt/
 

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://howtogyst.com/digital-decluttering/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[howtogyst.com]]
 - Full Title: Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://howtogyst.com/digital-decluttering/
 
 ## Highlights

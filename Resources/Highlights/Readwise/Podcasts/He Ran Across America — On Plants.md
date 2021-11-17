@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5dd2651612887dcb57a86ef4
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # He Ran Across America — On Plants
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Rich Roll Podcast]]
 - Full Title: He Ran Across America — On Plants
-- Category: #Type/Highlights/Readwise/Podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5dd2651612887dcb57a86ef4
 
 ## Highlights

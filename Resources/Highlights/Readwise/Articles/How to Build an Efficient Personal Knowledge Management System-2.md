@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/355332ae5991
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Build an Efficient Personal Knowledge Management System
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Axton]]
 - Full Title: How to Build an Efficient Personal Knowledge Management System
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/355332ae5991
 
 ## Highlights

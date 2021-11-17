@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Powershell - Scripting - Tutorialspoint
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[tutorialspoint.com]]
 - Full Title: Powershell - Scripting - Tutorialspoint
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
 
 ## Highlights

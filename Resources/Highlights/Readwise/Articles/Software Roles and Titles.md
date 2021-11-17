@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/e3f0b69c410c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Software Roles and Titles
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Eric Elliott]]
 - Full Title: Software Roles and Titles
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/e3f0b69c410c
 
 ## Highlights

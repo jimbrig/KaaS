@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/7f70b729fa55
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jari Roomer]]
 - Full Title: Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7f70b729fa55
 
 ## Highlights

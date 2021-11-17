@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/productivity-plan/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Create an Effective Productivity Plan - Optimize Time
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Create an Effective Productivity Plan - Optimize Time
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/productivity-plan/
 
 ## Highlights

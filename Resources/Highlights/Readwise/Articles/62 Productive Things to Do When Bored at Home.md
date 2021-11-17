@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/productive-things-to-do-when-bored/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # 62 Productive Things to Do When Bored at Home
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: 62 Productive Things to Do When Bored at Home
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/productive-things-to-do-when-bored/
 
 ## Highlights

@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/fdae68e0dbc
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Clean Up Your Productivity System to Be More Productive
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Darryl Brooks]]
 - Full Title: Clean Up Your Productivity System to Be More Productive
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/fdae68e0dbc
 
 ## Highlights

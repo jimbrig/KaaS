@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/4405154f0ae7
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # One Productivity System to Rule Them All
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Arturo Ríos]]
 - Full Title: One Productivity System to Rule Them All
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/4405154f0ae7
 
 ## Highlights

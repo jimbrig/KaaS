@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/161189cd32b4
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Git Process for Small Organizations to Begin With
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Zamil]]
 - Full Title: Git Process for Small Organizations to Begin With
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/161189cd32b4
 
 ## Highlights

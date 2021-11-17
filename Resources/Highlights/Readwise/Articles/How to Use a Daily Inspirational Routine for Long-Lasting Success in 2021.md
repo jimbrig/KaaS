@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/91a5945b3644
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Christopher D. Connors]]
 - Full Title: How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/91a5945b3644
 
 ## Highlights

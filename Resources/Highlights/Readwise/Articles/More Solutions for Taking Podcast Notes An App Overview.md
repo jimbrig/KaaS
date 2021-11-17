@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://mentalpivot.com/more-solutions-for-taking-podcast-notes-a-survey-of-the-apps/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # More Solutions for Taking Podcast Notes: An App Overview
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: More Solutions for Taking Podcast Notes: An App Overview
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://mentalpivot.com/more-solutions-for-taking-podcast-notes-a-survey-of-the-apps/
 
 ## Highlights

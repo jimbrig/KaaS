@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/things-sunday/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Genius Things to Do on a Sunday to Have a Productive Week
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Genius Things to Do on a Sunday to Have a Productive Week
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/things-sunday/
 
 ## Highlights

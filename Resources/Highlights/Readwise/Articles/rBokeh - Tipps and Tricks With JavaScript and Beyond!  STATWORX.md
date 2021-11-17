@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.statworx.com/de/blog/rbokeh-tipps-and-tricks-with-javascript-and-beyond/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # rBokeh - Tipps and Tricks With JavaScript and Beyond! | STATWORX
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: rBokeh - Tipps and Tricks With JavaScript and Beyond! | STATWORX
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.statworx.com/de/blog/rbokeh-tipps-and-tricks-with-javascript-and-beyond/
 
 ## Highlights

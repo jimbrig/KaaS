@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.markwk.com/article-tracking-with-instapaper.html
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Koester]]
 - Full Title: Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: http://www.markwk.com/article-tracking-with-instapaper.html
 
 ## Highlights

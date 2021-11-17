@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://stackoverflow.com/questions/53373290/auto-documentation-system-for-r-shiny
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # Auto Documentation System for R Shiny - Stack Overflow
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Auto Documentation System for R Shiny - Stack Overflow
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://stackoverflow.com/questions/53373290/auto-documentation-system-for-r-shiny
 
 ## Highlights

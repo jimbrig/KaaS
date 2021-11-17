@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Resources/_README.md"
+    },
+    {
+      "basename": "Readwise Syncs",
+      "path": "Resources/Highlights/Readwise/Readwise Syncs.md"
+    },
+    {
+      "basename": "How to Get and Remain Organized During Chaotic Times",
+      "path": "Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md"
+    },
+    {
+      "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
+      "path": "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
+    },
+    {
       "basename": "Persistent Config and Data for R Packages - R-Hub Blog",
       "path": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
     },
@@ -89,16 +109,8 @@
       "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     },
     {
-      "basename": "Workbench",
-      "path": "Workbench.md"
-    },
-    {
       "basename": "Changelog",
       "path": "Changelog.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Resources/_README.md"
     },
     {
       "basename": "_README",
@@ -187,18 +199,6 @@
     {
       "basename": "Interpolation of Cumulative Loss Development Factors",
       "path": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
-    },
-    {
-      "basename": "Property Casualty Data Model",
-      "path": "Slipbox/Property Casualty Data Model.md"
-    },
-    {
-      "basename": "Actuarial Development Master Resource List",
-      "path": "Slipbox/Actuarial Development Master Resource List.md"
-    },
-    {
-      "basename": "WSL Terminal and Shell Setup Guide",
-      "path": "Slipbox/WSL Terminal and Shell Setup Guide.md"
     }
   ],
   "omittedPaths": [],

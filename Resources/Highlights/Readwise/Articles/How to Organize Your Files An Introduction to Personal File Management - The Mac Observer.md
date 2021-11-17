@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.macobserver.com/tips/deep-dive/intro-to-pim/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Andrew Orr]]
 - Full Title: How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.macobserver.com/tips/deep-dive/intro-to-pim/
 
 ## Highlights

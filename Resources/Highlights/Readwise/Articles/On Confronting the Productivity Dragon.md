@@ -3,7 +3,7 @@ Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity-dragon-take-2/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight" ]
 Aliases: []
 ---
 # On Confronting the Productivity Dragon
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: On Confronting the Productivity Dragon
-- Category: #Type/Highlights/Readwise/Articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity-dragon-take-2/
 
 ## Highlights

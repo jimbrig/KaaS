@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 158
+      "links": 156
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -597,7 +597,7 @@
     "Slipbox/Alteryx.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 0
     },
     "Slipbox/Caching.md": {
       "size": 0,
@@ -823,12 +823,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Meta/About.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 76,
-      "Create": 157,
+      "Refactor": 79,
+      "Create": 160,
       "Link": 320,
       "Expand": 55
     }
@@ -851,8 +856,8 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 59,
-      "17": 77,
+      "16": 56,
+      "17": 86,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -865,7 +870,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 18,
+      "Wed": 24,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -928,7 +933,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -975,12 +983,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
@@ -1030,8 +1036,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Resources/Embeds/_README.md\"> _README </a>",
@@ -1100,11 +1105,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>",
-        "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>"
+        "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -1153,12 +1158,13 @@
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

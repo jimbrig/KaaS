@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f14d56e31c1b401a",
+        "id": "11487e0ffdac5092",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Alteryx.md",
-            "mode": "preview"
+            "file": "Meta/About.md",
+            "mode": "source"
           }
         }
       }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Reference/Citations/Actuarial Science/files\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "3971c79178a7e1df",
+            "id": "e48dbd86b8041049",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -95,25 +95,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Alteryx.md"
+                "file": "Meta/About.md"
               }
             }
           },
           {
-            "id": "e831584dd17f895a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f18a5525eb0bd88",
+            "id": "830219bf551ff804",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Alteryx.md",
+                "file": "Meta/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,27 +117,34 @@
             }
           },
           {
-            "id": "fbe85aa6ca246c1c",
+            "id": "e02ec4ca0518aea8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Alteryx.md",
+                "file": "Meta/About.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "baa5d43b6813ba23",
+            "id": "fded75bac8fcd65d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4331ec19ca3f58d8",
             "type": "leaf",
             "state": {
               "type": "toggl-report",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -157,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Alteryx.md",
+                "file": "Meta/About.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +179,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.258838656218163,
+                  "scale": 0.36288736930121207,
                   "close": false
                 }
               }
@@ -192,17 +191,17 @@
     "direction": "horizontal",
     "width": 359
   },
-  "active": "f14d56e31c1b401a",
+  "active": "11487e0ffdac5092",
   "lastOpenFiles": [
-    "Slipbox/Alteryx.md",
-    "Slipbox/Alteryx vs Code.md",
-    "Daily-Notes/2021-11-17.md",
-    "MOCs/Actuarial Science.md",
-    "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md",
-    "Slipbox/Property Casualty Data Model.md",
-    "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf",
-    "Reference/@barnett_best_nodate.md",
-    "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf",
-    "Reference/_README.md"
+    "Meta/About.md",
+    "Templates/Meta-Template.md",
+    "Templates/Slipbox-Templates/Slipbox-Default-Template.md",
+    "README.md",
+    "Workbench.md",
+    "Changelog.md",
+    "Resources/_README.md",
+    "Resources/Embeds/_README.md",
+    "MOCs/_README.md",
+    "Daily-Notes/2021-11-17.md"
   ]
 }

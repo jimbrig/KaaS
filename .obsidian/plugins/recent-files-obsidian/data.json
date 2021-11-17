@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Alteryx",
-      "path": "Slipbox/Alteryx.md"
+      "basename": "About",
+      "path": "Meta/About.md"
     },
     {
-      "basename": "Alteryx vs Code",
-      "path": "Slipbox/Alteryx vs Code.md"
+      "basename": "Meta-Template",
+      "path": "Templates/Meta-Template.md"
+    },
+    {
+      "basename": "Slipbox-Default-Template",
+      "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Resources/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Resources/Embeds/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "MOCs/_README.md"
     },
     {
       "basename": "2021-11-17",
@@ -17,188 +45,92 @@
       "path": "MOCs/Actuarial Science.md"
     },
     {
-      "basename": "R Shiny - The Big Long - An Interactive Actuarial Simulation",
-      "path": "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md"
-    },
-    {
-      "basename": "Property Casualty Data Model",
-      "path": "Slipbox/Property Casualty Data Model.md"
-    },
-    {
-      "basename": "Parodi - 2014 - Triangle-free reserving A non-traditional framewor",
-      "path": "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf"
-    },
-    {
-      "basename": "@barnett_best_nodate",
-      "path": "Reference/@barnett_best_nodate.md"
-    },
-    {
-      "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
-      "path": "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf"
-    },
-    {
       "basename": "_README",
       "path": "Reference/_README.md"
     },
     {
-      "basename": "API Architecture - Performance Best Practices",
-      "path": "Slipbox/API Architecture - Performance Best Practices.md"
+      "basename": "Data Science",
+      "path": "MOCs/Data Science.md"
     },
     {
-      "basename": "Data Warehouse",
-      "path": "Slipbox/Data Warehouse.md"
+      "basename": "Simulating Actuarial Claims Data with R",
+      "path": "Slipbox/Simulating Actuarial Claims Data with R.md"
     },
     {
-      "basename": "Data Mart",
-      "path": "Slipbox/Data Mart.md"
-    },
-    {
-      "basename": "Data Lake",
-      "path": "Slipbox/Data Lake.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "R",
+      "path": "MOCs/R.md"
     },
     {
       "basename": "2021-11-16",
       "path": "Daily-Notes/2021-11-16.md"
     },
     {
-      "basename": "WSL Initial Setup Notes",
-      "path": "Slipbox/WSL Initial Setup Notes.md"
+      "basename": "SQLite",
+      "path": "Slipbox/SQLite.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "MOCs/Web Development.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "MOCs/Software Development.md"
+    },
+    {
+      "basename": "Development",
+      "path": "MOCs/Development.md"
+    },
+    {
+      "basename": "Loss Triangles",
+      "path": "Slipbox/Loss Triangles.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Slipbox/_README.md"
+    },
+    {
+      "basename": "Productivity",
+      "path": "MOCs/Productivity.md"
+    },
+    {
+      "basename": "GTD Mindsweep",
+      "path": "Slipbox/GTD Mindsweep.md"
+    },
+    {
+      "basename": "Getting Things Done",
+      "path": "Slipbox/Getting Things Done.md"
+    },
+    {
+      "basename": "Personal Knowledge Management",
+      "path": "MOCs/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Slipbox/Tools.md"
+    },
+    {
+      "basename": "Linux Commands - visudo",
+      "path": "Slipbox/Linux Commands - visudo.md"
     },
     {
       "basename": "How to create a passwordless sudoer on Linux",
       "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
     },
     {
-      "basename": "2021-11-15",
-      "path": "Daily-Notes/2021-11-15.md"
+      "basename": "Interpolation of Cumulative Loss Development Factors",
+      "path": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
     },
     {
-      "basename": "Stored Procedures - SQL Server",
-      "path": "Slipbox/Stored Procedures - SQL Server.md"
+      "basename": "Property Casualty Data Model",
+      "path": "Slipbox/Property Casualty Data Model.md"
     },
     {
-      "basename": "Database Connection Pooling",
-      "path": "Slipbox/Database Connection Pooling.md"
+      "basename": "Actuarial Development Master Resource List",
+      "path": "Slipbox/Actuarial Development Master Resource List.md"
     },
     {
-      "basename": "System Design",
-      "path": "Slipbox/System Design.md"
-    },
-    {
-      "basename": "Python Package - Flask",
-      "path": "Slipbox/Python Package - Flask.md"
-    },
-    {
-      "basename": "Reproducible Data Science with Azure Machine Learning",
-      "path": "Slipbox/Reproducible Data Science with Azure Machine Learning.md"
-    },
-    {
-      "basename": "Azure MLOps",
-      "path": "Slipbox/Azure MLOps.md"
-    },
-    {
-      "basename": "SQLAlchemy ORM",
-      "path": "Slipbox/SQLAlchemy ORM.md"
-    },
-    {
-      "basename": "Pasted image 20211115122342",
-      "path": "Slipbox/_assets/Pasted image 20211115122342.png"
-    },
-    {
-      "basename": "Database-Pooling",
-      "path": "Slipbox/_assets/Database-Pooling.png"
-    },
-    {
-      "basename": "Git",
-      "path": "Slipbox/Git.md"
-    },
-    {
-      "basename": "Developer Notebooks",
-      "path": "Slipbox/Developer Notebooks.md"
-    },
-    {
-      "basename": "Azure ML Compute Instances",
-      "path": "Slipbox/Azure ML Compute Instances.md"
-    },
-    {
-      "basename": "modern notebook environments",
-      "path": "Slipbox/modern notebook environments.md"
-    },
-    {
-      "basename": "Deployment",
-      "path": "Slipbox/Deployment.md"
-    },
-    {
-      "basename": "Reproducible Research",
-      "path": "Slipbox/Reproducible Research.md"
-    },
-    {
-      "basename": "Azure Data Studio",
-      "path": "Slipbox/Azure Data Studio.md"
-    },
-    {
-      "basename": "Azure DevOps Pipelines",
-      "path": "Slipbox/Azure DevOps Pipelines.md"
-    },
-    {
-      "basename": "Visual Studio Code",
-      "path": "Slipbox/Visual Studio Code.md"
-    },
-    {
-      "basename": "SQL Server Management Studio",
-      "path": "Slipbox/SQL Server Management Studio.md"
-    },
-    {
-      "basename": "Azure DevOps",
-      "path": "Slipbox/Azure DevOps.md"
-    },
-    {
-      "basename": "Azure SQL Databases",
-      "path": "Slipbox/Azure SQL Databases.md"
-    },
-    {
-      "basename": "DotNet",
-      "path": "Slipbox/DotNet.md"
-    },
-    {
-      "basename": "Azure Machine Learning",
-      "path": "Slipbox/Azure Machine Learning.md"
-    },
-    {
-      "basename": "PowerShell",
-      "path": "Slipbox/PowerShell.md"
-    },
-    {
-      "basename": "Developer Productivity and Collaboration with Azure Machine Learning",
-      "path": "Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md"
-    },
-    {
-      "basename": "REST API Resources List",
-      "path": "Slipbox/REST API Resources List.md"
-    },
-    {
-      "basename": "REST API Resource Naming",
-      "path": "Slipbox/REST API Resource Naming.md"
-    },
-    {
-      "basename": "REST API Methods",
-      "path": "Slipbox/REST API Methods.md"
-    },
-    {
-      "basename": "REST API Idempotence",
-      "path": "Slipbox/REST API Idempotence.md"
-    },
-    {
-      "basename": "API Design",
-      "path": "Slipbox/API Design.md"
-    },
-    {
-      "basename": "API Authentication",
-      "path": "Slipbox/API Authentication.md"
+      "basename": "WSL Terminal and Shell Setup Guide",
+      "path": "Slipbox/WSL Terminal and Shell Setup Guide.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily-Notes/2021-11-17.md",
+            "file": "Slipbox/Alteryx.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md"
+                "file": "Slipbox/Alteryx.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Slipbox/Alteryx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Slipbox/Alteryx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Slipbox/Alteryx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,6 +194,8 @@
   },
   "active": "f14d56e31c1b401a",
   "lastOpenFiles": [
+    "Slipbox/Alteryx.md",
+    "Slipbox/Alteryx vs Code.md",
     "Daily-Notes/2021-11-17.md",
     "MOCs/Actuarial Science.md",
     "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md",
@@ -201,8 +203,6 @@
     "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf",
     "Reference/@barnett_best_nodate.md",
     "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf",
-    "Reference/_README.md",
-    "Slipbox/API Architecture - Performance Best Practices.md",
-    "Slipbox/Data Warehouse.md"
+    "Reference/_README.md"
   ]
 }

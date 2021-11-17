@@ -1,3 +1,5 @@
+- 2021-11-17 at 16h40 · [[Alteryx]]
+- 2021-11-17 at 16h36 · [[Alteryx vs Code]]
 - 2021-11-17 at 11h40 · [[Actuarial Science]]
 - 2021-11-17 at 11h40 · [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 - 2021-11-17 at 11h22 · [[@barnett_best_nodate]]
@@ -50,7 +52,6 @@
 - 2021-11-16 at 15h19 · [[Memoization]]
 - 2021-11-16 at 15h19 · [[Geospatial]]
 - 2021-11-16 at 15h19 · [[Caching]]
-- 2021-11-16 at 15h18 · [[Alteryx]]
 - 2021-11-16 at 15h17 · [[Prophet Actuarial Tool]]
 - 2021-11-16 at 15h16 · [[Loss Data Analytics]]
 - 2021-11-16 at 15h15 · [[KasaAI GitHub Organization]]

@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 157
+      "links": 158
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -597,7 +597,7 @@
     "Slipbox/Alteryx.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
+      "links": 4
     },
     "Slipbox/Caching.md": {
       "size": 0,
@@ -818,13 +818,18 @@
       "size": 88,
       "tags": 0,
       "links": 0
+    },
+    "Slipbox/Alteryx vs Code.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 75,
-      "Create": 156,
-      "Link": 318,
+      "Create": 157,
+      "Link": 320,
       "Expand": 55
     }
   },
@@ -846,7 +851,7 @@
       "13": 34,
       "14": 8,
       "15": 141,
-      "16": 55,
+      "16": 58,
       "17": 77,
       "18": 1,
       "19": 0,
@@ -860,7 +865,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 14,
+      "Wed": 17,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -923,6 +928,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -972,8 +978,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>"
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
@@ -1097,6 +1102,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -1145,9 +1152,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

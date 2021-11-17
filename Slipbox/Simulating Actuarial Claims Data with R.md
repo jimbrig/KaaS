@@ -7,10 +7,6 @@ Alias: "Simulating Actuarial Claims Data with R"
 
 # Simulating Actuarial Claims Data with R
 
-***
-
-# Actuarial Claims Data
-
 ## Simulation Script (Transactional)
 
 - Source: https://gist.github.com/jimbrig/30262ae72e1ba20d0235fdedcc435150

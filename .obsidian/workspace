@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8d5a2eeea000c8",
+        "id": "f14d56e31c1b401a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily-Notes/2021-11-17.md",
-            "mode": "source"
+            "file": "MOCs/Actuarial Science.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Topic",
+                "query": "path:\"Reference/Citations/Actuarial Science/files\"",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "765ea1797f551bbc",
+            "id": "3971c79178a7e1df",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -96,36 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md"
-              }
-            }
-          },
-          {
-            "id": "830219bf551ff804",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily-Notes/2021-11-17.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e02ec4ca0518aea8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily-Notes/2021-11-17.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "MOCs/Actuarial Science.md"
               }
             }
           },
@@ -136,17 +107,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "3249333dcf6ac5f0",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -158,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "MOCs/Actuarial Science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,38 +144,29 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121207,
+                  "scale": 0.258838656218163,
                   "close": false
                 }
               }
             }
-          },
-          {
-            "id": "9bc445d835a9265e",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 359
   },
-  "active": "fa8d5a2eeea000c8",
+  "active": "f14d56e31c1b401a",
   "lastOpenFiles": [
-    "Daily-Notes/2021-11-17.md",
-    "MOCs/Data Science.md",
     "MOCs/Actuarial Science.md",
-    "Slipbox/Simulating Actuarial Claims Data with R.md",
-    "MOCs/R.md",
-    "Daily-Notes/2021-11-16.md",
-    "Slipbox/SQLite.md",
-    "Changelog.md",
-    "MOCs/_README.md",
-    "MOCs/Web Development.md"
+    "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md",
+    "Slipbox/Property Casualty Data Model.md",
+    "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf",
+    "Reference/@barnett_best_nodate.md",
+    "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf",
+    "Reference/_README.md",
+    "Slipbox/API Architecture - Performance Best Practices.md",
+    "Slipbox/Data Warehouse.md",
+    "Slipbox/Data Mart.md"
   ]
 }

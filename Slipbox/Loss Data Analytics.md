@@ -57,26 +57,8 @@ Alias: "Loss Data Analytics"
 *   Translate content into Spanish, ...?
 *   Many other things (exercises, ....)
 
-### Learning Objectives
-
-See our proposed [Table of Contents](https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/structure-and-scope/table-of-contents) for thoughts.  
-
-### Style of Chapters - see our [supporting page](https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/structure-and-scope/chapter-structure)  
-
-Consider things such as:  
-
-*   How many historical references to include and where?
-*   How long/how to organize sub-pages/sidebars. Boxes for equations?
-*   How much data and other interactive feature
-*   Writing style - use of active language, brevity, and so forth.
-*   [Notation](https://sites.google.com/a/wisc.edu/loss-data-analytics/system/errors/NodeNotFound?suri=wuid:gx:60f2d9fcc1e26a4) that is common to all chapters  
-
-### Version Control
-
-See our [supporting page](https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/structure-and-scope/version-control-1).
-
 ***
-Links: 
+
 Source: https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/structure-and-scope
 
 ***
@@ -84,6 +66,7 @@ Source: https://sites.google.com/a/wisc.edu/loss-data-analytics/project-files/st
 #### Related
 
 - [[Development]]
+- [[Actuarial Science]]
 
 *Backlinks:*
 

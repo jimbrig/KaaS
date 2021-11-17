@@ -15,9 +15,9 @@
       "links": 15
     },
     "Changelog.md": {
-      "size": 5534,
+      "size": 7716,
       "tags": 0,
-      "links": 110
+      "links": 156
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -185,9 +185,9 @@
       "links": 0
     },
     "MOCs/Actuarial Science.md": {
-      "size": 2998,
+      "size": 4353,
       "tags": 1,
-      "links": 61
+      "links": 80
     },
     "Slipbox/_README.md": {
       "size": 0,
@@ -225,9 +225,9 @@
       "links": 5
     },
     "Slipbox/Actuarial Development Master Resource List.md": {
-      "size": 11472,
+      "size": 22997,
       "tags": 1,
-      "links": 1
+      "links": 8
     },
     "Slipbox/Actuarial Experience Studies.md": {
       "size": 2030,
@@ -265,9 +265,9 @@
       "links": 4
     },
     "Slipbox/Loss Data Analytics.md": {
-      "size": 5115,
+      "size": 4192,
       "tags": 1,
-      "links": 7
+      "links": 8
     },
     "Slipbox/Property Casualty Data Model.md": {
       "size": 7496,
@@ -385,9 +385,9 @@
       "links": 0
     },
     "Slipbox/Azure Machine Learning.md": {
-      "size": 0,
+      "size": 10006,
       "tags": 2,
-      "links": 0
+      "links": 28
     },
     "MOCs/Finance.md": {
       "size": 0,
@@ -545,7 +545,7 @@
       "links": 8
     },
     "Slipbox/How to create a passwordless sudoer on Linux.md": {
-      "size": 0,
+      "size": 2051,
       "tags": 2,
       "links": 1
     },
@@ -583,14 +583,249 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "Slipbox/Prophet Actuarial Tool.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 2
+    },
+    "Slipbox/Problems with No-Code and Low-Code Tools.md": {
+      "size": 8178,
+      "tags": 2,
+      "links": 9
+    },
+    "Slipbox/Alteryx.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Caching.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Geospatial.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Memoization.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/No-Code and Low-Code.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Data Lake.md": {
+      "size": 6096,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Data Warehouse.md": {
+      "size": 11212,
+      "tags": 2,
+      "links": 7
+    },
+    "Slipbox/Data Mart.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/AWS Redshift.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/AWS Glue.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/AWS Athena.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/AWS QuickSight.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/Team Data Science Process.md": {
+      "size": 7911,
+      "tags": 1,
+      "links": 6
+    },
+    "Slipbox/API Authentication.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/API Design.md": {
+      "size": 5337,
+      "tags": 3,
+      "links": 1
+    },
+    "Slipbox/REST API Idempotence.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/REST API Methods.md": {
+      "size": 9626,
+      "tags": 2,
+      "links": 7
+    },
+    "Slipbox/REST API Resource Naming.md": {
+      "size": 10255,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/REST API Resources List.md": {
+      "size": 2469,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md": {
+      "size": 3741,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/PowerShell.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/DotNet.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure DevOps Pipelines.md": {
+      "size": 3060,
+      "tags": 3,
+      "links": 9
+    },
+    "Slipbox/Azure SQL Databases.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure DevOps.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure Data Studio.md": {
+      "size": 6911,
+      "tags": 2,
+      "links": 16
+    },
+    "Slipbox/SQL Server Management Studio.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Visual Studio Code.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure MLOps.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Reproducible Data Science with Azure Machine Learning.md": {
+      "size": 2128,
+      "tags": 2,
+      "links": 8
+    },
+    "Slipbox/Reproducible Research.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Deployment.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/modern notebook environments.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Azure ML Compute Instances.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Developer Notebooks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Git.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Database Connection Pooling.md": {
+      "size": 2925,
+      "tags": 2,
+      "links": 6
+    },
+    "Slipbox/SQLAlchemy ORM.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/Python Package - Flask.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "Slipbox/System Design.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/Stored Procedures - SQL Server.md": {
+      "size": 6806,
+      "tags": 2,
+      "links": 0
+    },
+    "Slipbox/WSL Initial Setup Notes.md": {
+      "size": 12406,
+      "tags": 2,
+      "links": 1
+    },
+    "Daily-Notes/2021-11-17.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Resources/Embeds/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 70,
-      "Create": 107,
-      "Link": 245,
-      "Expand": 34
+      "Refactor": 77,
+      "Create": 157,
+      "Link": 320,
+      "Expand": 55
     }
   },
   "dailyCommits": {
@@ -604,15 +839,15 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 0,
+      "9": 4,
       "10": 20,
-      "11": 99,
+      "11": 105,
       "12": 147,
       "13": 34,
       "14": 8,
-      "15": 10,
-      "16": 48,
-      "17": 77,
+      "15": 141,
+      "16": 56,
+      "17": 81,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -624,8 +859,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 8,
-      "Wed": 4,
+      "Tue": 146,
+      "Wed": 19,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -635,6 +870,10 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -668,62 +907,76 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>"
+        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
+        "<a class=\"internal-link\" href=\"Resources/Embeds/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdown.md\"> R Package - casdown </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Git.md\"> Git </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/modern notebook environments.md\"> modern notebook environments </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Deployment.md\"> Deployment </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Research.md\"> Reproducible Research </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps.md\"> Azure DevOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure SQL Databases.md\"> Azure SQL Databases </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Notes/Windows/DotNet.md\"> DotNet </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Athena.md\"> AWS Athena </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Linux Commands - visudo.md\"> Linux Commands - visudo </a>",
@@ -773,10 +1026,52 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Embeds/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure MLOps.md\"> Azure MLOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Research.md\"> Reproducible Research </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Deployment.md\"> Deployment </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/modern notebook environments.md\"> modern notebook environments </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Git.md\"> Git </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/System Design.md\"> System Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure SQL Databases.md\"> Azure SQL Databases </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps.md\"> Azure DevOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Visual Studio Code.md\"> Visual Studio Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Idempotence.md\"> REST API Idempotence </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md\"> Logical Architecture of Modern Data Lake Centric Analytics Platforms </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
@@ -784,52 +1079,12 @@
         "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"MOCs/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - actuar.md\"> R Package - actuar </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - insurancerating.md\"> R Package - insurancerating </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - rsvr.md\"> R Package - rsvr </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - casdata.md\"> R Package - casdata </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interest Rate Theory.md\"> Interest Rate Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Exams.md\"> Actuarial Exams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Interpolation of Cumulative Loss Development Factors.md\"> Interpolation of Cumulative Loss Development Factors </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Probability Theory.md\"> Probability Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Bayesian Statistics.md\"> Bayesian Statistics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Credibility Theory.md\"> Credibility Theory </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Cloud Computing.md\"> Cloud Computing </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Machine Learning.md\"> Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Loss Reserving Methodologies.md\"> Property Casualty Loss Reserving Methodologies </a>",
-        "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - imaginator.md\"> R Package - imaginator </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - cascsim.md\"> R Package - cascsim </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - ChainLadder.md\"> R Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Linux - visudo.md\"> Linux - visudo </a>"
       ],
-      "Refactored": [],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
+      ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/Obsidian.md\"> Obsidian </a>",
@@ -837,9 +1092,44 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Model Based Systems Engineering.md\"> Model Based Systems Engineering </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/CAS Research Papers.md\"> CAS Research Papers </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>",
+        "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Reproducible Data Science with Azure Machine Learning.md\"> Reproducible Data Science with Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Database Connection Pooling.md\"> Database Connection Pooling </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/SQLAlchemy ORM.md\"> SQLAlchemy ORM </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - Flask.md\"> Python Package - Flask </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Machine Learning.md\"> Azure Machine Learning </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/API Design.md\"> API Design </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Problems with No-Code and Low-Code Tools.md\"> Problems with No-Code and Low-Code Tools </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/R.md\"> R </a>",
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -858,43 +1148,12 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - simulationmachine.md\"> R Package - simulationmachine </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Package - conjuror.md\"> R Package - conjuror </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Linear Models.md\"> Generalized Linear Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Generalized Additive Models.md\"> Generalized Additive Models </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Neural Networks.md\"> Neural Networks </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Random Forest Algorithms.md\"> Random Forest Algorithms </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
-        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

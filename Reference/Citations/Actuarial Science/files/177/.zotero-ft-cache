@@ -1,0 +1,291 @@
+
+Type to search
+
+    Loss Data Analytics
+    Preface
+        Acknowledgements
+        Contributors
+        Reviewers
+        Version
+        For our Readers
+    1 Introduction to Loss Data Analytics
+        1.1 Relevance of Analytics to Insurance Activities
+        1.2 Insurance Company Operations
+        1.3 Case Study: Wisconsin Property Fund
+        1.4 Further Resources and Contributors
+    2 Frequency Modeling
+        2.1 Frequency Distributions
+        2.2 Basic Frequency Distributions
+        2.3 The ( a , b , 0) Class
+        2.4 Estimating Frequency Distributions
+        2.5 Other Frequency Distributions
+        2.6 Mixture Distributions
+        2.7 Goodness of Fit
+        2.8 Exercises
+        2.9 Further Resources and Contributors
+    3 Modeling Loss Severity
+        3.1 Basic Distributional Quantities
+        3.2 Continuous Distributions for Modeling Loss Severity
+        3.3 Methods of Creating New Distributions
+        3.4 Coverage Modifications
+        3.5 Maximum Likelihood Estimation
+        3.6 Further Resources and Contributors
+    4 Model Selection and Estimation
+        4.1 Nonparametric Inference
+        4.2 Model Selection
+        4.3 Estimation using Modified Data
+        4.4 Bayesian Inference
+        4.5 Further Resources and Contributors
+    5 Aggregate Loss Models
+        5.1 Introduction
+        5.2 Individual Risk Model
+        5.3 Collective Risk Model
+        5.4 Computing the Aggregate Claims Distribution
+        5.5 Effects of Coverage Modifications
+        5.6 Further Resources and Contributors
+            TS 5.A.2. Relationship Between Probability Generating Functions of and
+            TS 5.A.3. Example 5.3.8 Moment Generating Function of Aggregate Loss
+    6 Simulation and Resampling
+        6.1 Simulation Fundamentals
+        6.2 Bootstrapping and Resampling
+        6.3 Cross-Validation
+        6.4 Importance Sampling
+        6.5 Monte Carlo Markov Chain (MCMC)
+        6.6 Further Resources and Contributors
+    7 Premium Foundations
+        7.1 Introduction to Ratemaking
+        7.2 Aggregate Ratemaking Methods
+        7.3 Pricing Principles
+        7.4 Heterogeneous Risks
+        7.5 Development and Trending
+        7.6 Selecting a Premium
+        7.7 Further Resources and Contributors
+    8 Risk Classification
+        8.1 Introduction
+        8.2 Poisson Regression Model
+        8.3 Categorical Variables and Multiplicative Tariff
+        8.4 Further Resources and Contributors
+    9 Experience Rating Using Credibility Theory
+        9.1 Introduction to Applications of Credibility Theory
+        9.2 Limited Fluctuation Credibility
+        9.3 Bühlmann Credibility
+        9.4 Bühlmann-Straub Credibility
+        9.5 Bayesian Inference and Bühlmann Credibility
+        9.6 Estimating Credibility Parameters
+        9.7 Further Resources and Contributors
+    10 Insurance Portfolio Management including Reinsurance
+        10.1 Introduction to Insurance Portfolios
+        10.2 Tails of Distributions
+        10.3 Risk Measures
+        10.4 Reinsurance
+        10.5 Further Resources and Contributors
+    11 Loss Reserving
+        11.1 Motivation
+        11.2 Loss Reserve Data
+        11.3 The Chain-Ladder Method
+        11.4 GLMs and Bootstrap for Loss Reserves
+        11.5 Further Resources and Contributors
+    12 Experience Rating using Bonus-Malus
+        12.1 Introduction
+        12.2 NCD System in Several Countries
+        12.3 BMS and Markov Chain Model
+        12.4 BMS and Stationary Distribution
+        12.5 BMS and Premium Rating
+    13 Data and Systems
+        13.1 Data
+        13.2 Data Analysis Preliminaries
+        13.3 Data Analysis Techniques
+        13.4 Some R Functions
+        13.5 Summary
+        13.6 Further Resources and Contributors
+    14 Dependence Modeling
+        14.1 Variable Types
+        14.2 Classic Measures of Scalar Associations
+        14.3 Introduction to Copulas
+        14.4 Application Using Copulas
+        14.5 Types of Copulas
+        14.6 Why is Dependence Modeling Important?
+        14.7 Further Resources and Contributors
+    15 Appendix A: Review of Statistical Inference
+        15.1 Basic Concepts
+        15.2 Point Estimation and Properties
+        15.3 Interval Estimation
+        15.4 Hypothesis Testing
+    16 Appendix B: Iterated Expectations
+        16.1 Conditional Distribution and Conditional Expectation
+        16.2 Iterated Expectations and Total Variance
+        16.3 Conjugate Distributions
+    17 Appendix C: Maximum Likelihood Theory
+        17.1 Likelihood Function
+        17.2 Maximum Likelihood Estimators
+        17.3 Statistical Inference Based on Maximum Likelihood Estimation
+    18 Appendix D: Summary of Distributions
+        18.1 Discrete Distributions
+        18.2 Continuous Distributions
+        18.3 Limited Expected Values
+    19 Appendix E: Conventions for Notation
+        19.1 General Conventions
+        19.2 Abbreviations
+        19.3 Common Statistical Symbols and Operators
+        19.4 Common Mathematical Symbols and Functions
+        19.5 Further Readings
+    Bibliography
+    Loss Data Analytics on GitHub
+
+Loss Data Analytics
+Loss Data Analytics
+
+An open text authored by the Actuarial Community
+Preface
+
+Date: 23 August 2020
+Book Description
+
+Loss Data Analytics is an interactive, online, freely available text.
+
+    The online version contains many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning .
+    A subset of the book is available for offline reading in pdf and EPUB formats.
+    The online text will be available in multiple languages to promote access to a worldwide audience .
+
+What will success look like?
+
+The online text will be freely available to a worldwide audience. The online version will contain many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning. Moreover, a subset of the book will be available in pdf format for low-cost printing. The online text will be available in multiple languages to promote access to a worldwide audience.
+How will the text be used?
+
+This book will be useful in actuarial curricula worldwide. It will cover the loss data learning objectives of the major actuarial organizations. Thus, it will be suitable for classroom use at universities as well as for use by independent learners seeking to pass professional actuarial examinations. Moreover, the text will also be useful for the continuing professional development of actuaries and other professionals in insurance and related financial risk management industries.
+Why is this good for the profession?
+
+An online text is a type of open educational resource (OER). One important benefit of an OER is that it equalizes access to knowledge, thus permitting a broader community to learn about the actuarial profession. Moreover, it has the capacity to engage viewers through active learning that deepens the learning process, producing analysts more capable of solid actuarial work.
+
+Why is this good for students and teachers and others involved in the learning process? Cost is often cited as an important factor for students and teachers in textbook selection (see a recent post on the $400 textbook ). Students will also appreciate the ability to “carry the book around” on their mobile devices.
+Why loss data analytics?
+
+The intent is that this type of resource will eventually permeate throughout the actuarial curriculum. Given the dramatic changes in the way that actuaries treat data, loss data seems like a natural place to start. The idea behind the name loss data analytics is to integrate classical loss data models from applied probability with modern analytic tools. In particular, we recognize that big data (including social media and usage based insurance) are here to stay and that high speed computation is readily available.
+Project Goal
+
+The project goal is to have the actuarial community author our textbooks in a collaborative fashion. To get involved, please visit our Open Actuarial Textbooks Project Site .
+Acknowledgements
+
+Edward Frees acknowledges the John and Anne Oros Distinguished Chair for Inspired Learning in Business which provided seed money to support the project. Frees and his Wisconsin colleagues also acknowledge a Society of Actuaries Center of Excellence Grant that provided funding to support work in dependence modeling and health initiatives. Wisconsin also provided an education innovation grant that provided partial support for the many students who have worked on this project.
+
+We acknowledge the Society of Actuaries for permission to use problems from their examinations.
+
+We thank Rob Hyndman, Monash University, for allowing us to use his excellent style files to produce the online version of the book.
+
+We thank Yihui Xie and his colleagues at Rstudio for the R bookdown package that allows us to produce this book.
+
+We also wish to acknowledge the support and sponsorship of the International Association of Black Actuaries in our joint efforts to provide actuarial educational content to all.
+Contributors
+
+The project goal is to have the actuarial community author our textbooks in a collaborative fashion. The following contributors have taken a leadership role in developing Loss Data Analytics .
+
+    Zeinab Amin is a Professor at the Department of Mathematics and Actuarial Science and Associate Provost for Assessment and Accreditation at the American University in Cairo (AUC). Amin holds a PhD in Statistics and is an Associate of the Society of Actuaries. Amin is the recipient of the 2016 Excellence in Academic Service Award and the 2009 Excellence in Teaching Award from AUC. Amin has designed and taught a variety of statistics and actuarial science courses. Amin’s current area of research includes quantitative risk assessment, reliability assessment, general statistical modelling, and Bayesian statistics.
+
+    Katrien Antonio , KU Leuven
+
+    Jan Beirlant , KU Leuven
+
+    Arthur Charpentier is a professor in the Department of Mathematics at the Université du Québec á Montréal. Prior to that, he worked at a large general insurance company in Hong Kong, China, and the French Federation of Insurers in Paris, France. He received a MS on mathematical economics at Université Paris Dauphine and a MS in actuarial science at ENSAE (National School of Statistics) in Paris, and a PhD degree from KU Leuven, Belgium. His research interests include econometrics, applied probability and actuarial science. He has published several books (the most recent one on Computational Actuarial Science with R , CRC) and papers on a variety of topics. He is a Fellow of the French Institute of Actuaries, and was in charge of the ‘Data Science for Actuaries’ program from 2015 to 2018.
+
+    Curtis Gary Dean is the Lincoln Financial Distinguished Professor of Actuarial Science at Ball State University. He is a Fellow of the Casualty Actuarial Society and a CFA charterholder. He has extensive practical experience as an actuary at American States Insurance, SAFECO, and Travelers. He has served the CAS and actuarial profession as chair of the Examination Committee, first editor-in-chief for Variance: Advancing the Science of Risk , and as a member of the Board of Directors and the Executive Council. He contributed a chapter to Predictive Modeling Applications in Actuarial Science published by Cambridge University Press.
+
+    Edward W. (Jed) Frees is an emeritus professor, formerly the Hickman-Larson Chair of Actuarial Science at the University of Wisconsin-Madison. He is a Fellow of both the Society of Actuaries and the American Statistical Association. He has published extensively (a four-time winner of the Halmstad and Prize for best paper published in the actuarial literature) and has written three books. He also is a co-editor of the two-volume series Predictive Modeling Applications in Actuarial Science published by Cambridge University Press.
+
+    Guojun Gan is an associate professor in the Department of Mathematics at the University of Connecticut, where he has been since August 2014. Prior to that, he worked at a large life insurance company in Toronto, Canada for six years. He received a BS degree from Jilin University, Changchun, China, in 2001 and MS and PhD degrees from York University, Toronto, Canada, in 2003 and 2007, respectively. His research interests include data mining and actuarial science. He has published several books and papers on a variety of topics, including data clustering, variable annuity, mathematical finance, applied statistics, and VBA programming.
+
+    Lisa Gao is a PhD candidate in the Risk and Insurance department at the University of Wisconsin-Madison. She holds a BMath in Actuarial Science and Statistics from the University of Waterloo and is an Associate of the Society of Actuaries.
+
+
+    José Garrido , Concordia University
+
+
+    Lei (Larry) Hua is an Associate Professor of Actuarial Science at Northern Illinois University. He earned a PhD degree in Statistics from the University of British Columbia. He is an Associate of the Society of Actuaries. His research work focuses on multivariate dependence modeling for non-Gaussian phenomena and innovative applications for financial and insurance industries.
+
+
+    Noriszura Ismail is a Professor and Head of Actuarial Science Program, Universiti Kebangsaan Malaysia (UKM). She specializes in Risk Modelling and Applied Statistics. She obtained her BSc and MSc (Actuarial Science) in 1991 and 1993 from University of Iowa, and her PhD (Statistics) in 2007 from UKM. She also passed several papers from Society of Actuaries in 1994. She has received several research grants from Ministry of Higher Education Malaysia (MOHE) and UKM, totaling about MYR1.8 million. She has successfully supervised and co-supervised several PhD students (13 completed and 11 on-going). She currently has about 180 publications, consisting of 88 journals and 95 proceedings.
+
+    Joseph H.T. Kim , Ph.D., FSA, CERA, is Associate Professor of Applied Statistics at Yonsei University, Seoul, Korea. He holds a Ph.D. degree in Actuarial Science from the University of Waterloo, at which he taught as Assistant Professor. He also worked in the life insurance industry. He has published papers in Insurance Mathematics and Economics , Journal of Risk and Insurance , Journal of Banking and Finance , ASTIN Bulletin , and North American Actuarial Journal , among others.
+
+    Nii-Armah Okine is an assistant professor at the Mathematical Sciences Department at Appalachian State University. He holds a Ph.D. in Business (Actuarial Science) from the University of Wisconsin - Madison and obtained his master’s degree in Actuarial science from Illinois State University. His research interest includes micro-level reserving, joint longitudinal-survival modeling, dependence modeling, micro-insurance, and machine learning.
+
+    Emine Selin Sarıdaş is a doctoral candidate in the Statistics department of Mimar Sinan University. She holds a bachelor degree in Actuarial Science with a minor in Economics and a master degree in Actuarial Science from Hacettepe University. Her research interest includes dependence modeling, regression, loss models and life contingencies.
+
+
+    Peng Shi is an associate professor in the Risk and Insurance Department at the Wisconsin School of Business. He is also the Charles & Laura Albright Professor in Business and Finance. Professor Shi is an Associate of the Casualty Actuarial Society (ACAS) and a Fellow of the Society of Actuaries (FSA). He received a Ph.D. in actuarial science from the University of Wisconsin-Madison. His research interests are problems at the intersection of insurance and statistics. He has won several research awards, including the Charles A. Hachemeister Prize, the Ronald Bornhuetter Loss Reserve Prize, and the American Risk and Insurance Association Prize.
+
+    Nariankadu D. Shyamalkumar (Shyamal) is an associate professor in the Department of Statistics and Actuarial Science at The University of Iowa. He is an Associate of the Society of Actuaries, and has volunteered in various elected and non-elected roles within the SoA. Having a broad theoretical interest as well as interest in computing, he has published in prominent actuarial, computer science, probability theory, and statistical journals. Moreover, he has worked in the financial industry, and since then served as an independent consultant to the insurance industry. He has experience educating actuaries in both Mexico and the US, serving in the roles of directing an undergraduate program, and as a graduate adviser for both masters and doctoral students.
+
+    Jianxi Su is an Assistant Professor at the Department of Statistics at Purdue University. He is the Associate Director of Purdue’s Actuarial Science. Prior to joining Purdue in 2016, he completed the PhD at York University (2012-2015). He obtained the Fellow of the Society of Actuaries (FSA) in 2017. His research expertise are in dependence modelling, risk management, and pricing. During the PhD candidature, Jianxi also worked as a research associate at the Model Validation and ORSA Implementation team of Sun Life Financial (Toronto office).
+
+    Tim Verdonck is associate professor at the University of Antwerp. He has a degree in Mathematics and a PhD in Science: Mathematics, obtained at the University of Antwerp. During his PhD he successfully took the Master in Insurance and the Master in Financial and Actuarial Engineering, both at KU Leuven. His research focuses on the adaptation and application of robust statistical methods for insurance and finance data.
+
+
+    Krupa Viswanathan is an Associate Professor in the Risk, Insurance and Healthcare Management Department in the Fox School of Business, Temple University. She is an Associate of the Society of Actuaries. She teaches courses in Actuarial Science and Risk Management at the undergraduate and graduate levels. Her research interests include corporate governance of insurance companies, capital management, and sentiment analysis. She received her Ph.D. from The Wharton School of the University of Pennsylvania.
+
+Reviewers
+
+Our goal is to have the actuarial community author our textbooks in a collaborative fashion. Part of the writing process involves many reviewers who generously donated their time to help make this book better. They are:
+
+    Yair Babab
+    Chunsheng Ban, Ohio State University
+    Vytaras Brazauskas, University of Wisconsin - Milwaukee
+    Yvonne Chueh, Central Washington University
+    Chun Yong Chew, Universiti Tunku Abdul Rahman (UTAR)
+    Eren Dodd, University of Southampton
+    Gordon Enderle, University of Wisconsin - Madison
+    Rob Erhardt, Wake Forest University
+    Runhun Feng, University of Illinois
+    Brian Hartman, Brigham Young University
+    Liang (Jason) Hong, University of Texas at Dallas
+    Fei Huang, Australian National University
+    Hirokazu (Iwahiro) Iwasawa
+    Himchan Jeong, University of Connecticut
+    Min Ji, Towson University
+    Paul Herbert Johnson, University of Wisconsin - Madison
+    Dalia Khalil, Cairo University
+    Samuel Kolins, Lebonan Valley College
+    Andrew Kwon-Nakamura, Zurich North America
+    Ambrose Lo, University of Iowa
+    Mark Maxwell, University of Texas at Austin
+    Tatjana Miljkovic, Miami University
+    Bell Ouelega, American University in Cairo
+    Zhiyu (Frank) Quan, University of Connecticut
+    Jiandong Ren, Western University
+    Rajesh V. Sahasrabuddhe, Oliver Wyman
+    Sherly Paola Alfonso Sanchez, Universidad Nacional de Colombia
+    Ranee Thiagarajah, Illinois State University
+    Ping Wang, Saint Johns University
+    Chengguo Weng, University of Waterloo
+    Toby White, Drake University
+    Michelle Xia, Northern Illinois University
+    Di (Cindy) Xu, University of Nebraska - Lincoln
+    Lina Xu, Columbia University
+    Lu Yang, University of Amsterdam
+    Jorge Yslas, University of Copenhagen
+    Jeffrey Zheng, Temple University
+    Hongjuan Zhou, Arizona State University
+
+Other Collaborators
+
+    Alyaa Nuval Binti Othman, Aisha Nuval Binti Othman, and Khairina (Rina) Binti Ibraham were three of many students at the Univeristy of Wiscinson-Madison that helped with the text over the years.
+    Maggie Lee, Macquarie University, and Anh Vu (then at University of New South Wales) contributed the end of the section quizzes.
+    Jeffrey Zheng, Temple University, Lu Yang (University of Amsterdam), and Paul Johnson, University of Wisconsin-Madison, led the work on the glossary.
+
+Version
+
+    This is Version 1.1 , August 2020. Edited by Edward (Jed) Frees and Paul Johnson.
+    Version 1.0, January 2020, was edited by Edward (Jed) Frees.
+
+You can also access pdf and epub (current and older) versions of the text in our Offline versions of the text .
+For our Readers
+
+We hope that you find this book worthwhile and even enjoyable. For your convenience, at our Github Landing site ( https://openacttexts.github.io/ ), you will find links to the book that you can (freely) download for offline reading, including a pdf version (for Adobe Acrobat) and an EPUB version suitable for mobile devices. Data for running our examples are available at the same site.
+
+In developing this book, we are emphasizing the online version that has lots of great features such as a glossary, code and solutions to examples that you can be revealed interactively. For example, you will find that the statistical code is hidden and can only be seen by clicking on terms such as
+R Code for Frequency Table
+
+We hide the code because we don’t want to insist that you use the R statistical software (although we like it). Still, we encourage you to try some statistical code as you read the book – we have opted to make it easy to learn R as you go. We have set up a separate R Code for Loss Data Analytics site to explain more of the details of the code.
+
+Like any book, we have a set of notations and conventions. It will probably save you time if you regularly visit our Appendix Chapter 19 to get used to ours.
+
+Freely available, interactive textbooks represent a new venture in actuarial education and we need your input. Although a lot of effort has gone into the development, we expect hiccoughs. Please let your instructor know about opportunities for improvement, write us through our project site, or contact chapter contributors directly with suggested improvements.

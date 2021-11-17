@@ -22,12 +22,6 @@ Alias: "Data Science"
 
 ## Dataviews
 
-### Tagged as *Category/Data Science*
-
-```dataview
-list from #Category/Data Science AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
-
 ### Links to this File
 
 ```dataview

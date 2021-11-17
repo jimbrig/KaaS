@@ -113,10 +113,23 @@ Alias: "Actuarial Science"
 ## References and Academic Papers
 
 - [[Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf]]
-
-```dataview
-list from "*.pdf"
-```
+- [[Adesina et al. - 2018 - USING R FOR ACTUARIAL ANALYSIS IN VALUATION AND RE.pdf]]
+- [[Barnett and Zehnwirth - Best Estimates for Reserves.pdf]]
+- [[Carrato et al. - Claims reserving with R ChainLadder-0.2.5 Package.pdf]]
+- [[Dutang and Goulet - Simulation of insurance data with actuar.pdf]]
+- [[Reference/Citations/Actuarial Science/files/154/Gabrielli and Wüthrich - Individual Claims Simulation Machine Description .pdf]]
+- [[Goldburd et al. - GENERALIZED LINEAR MODELS FOR INSURANCE RATING Sec.pdf]]
+- [[Gross - Individual Claim Development Models and Detailed A.pdf]]
+- [[Jong and Heller - GENERALIZED LINEAR MODELS FOR INSURANCE DATA.pdf]]
+- [[Koissi - 2019 - Emerging Data Analytics Techniques with Actuarial .pdf]]
+- [[Krumenaker and Bukhbinder - 111-29 Developing Data Marts and Web-Enabled OLAP.pdf]]
+- [[Kuo - 2019 - DeepTriangle A Deep Learning Approach to Loss Res.pdf]]
+- [[Lekhak - Relational Database Design with an Auto Insurance .pdf]]
+- [[Murphy - Unbiased Loss Development Factors.pdf]]
+- [[Narayan - 2010 - Anatomy of Actuarial Methods of Loss Reserving.pdf]]
+- [[Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf]]
+- [[Pentikainen and Rantala - A SIMULATION PROCEDURE FOR COMPARING DIFFERENT CLA.pdf]]
+- [[Pettifer and Pettifer - A Practical Guide to Commercial Insurance Pricing.pdf]]
 
 ## Appendix: Dataviews
 

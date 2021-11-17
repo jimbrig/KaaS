@@ -185,9 +185,9 @@
       "links": 0
     },
     "MOCs/Actuarial Science.md": {
-      "size": 2998,
+      "size": 4353,
       "tags": 1,
-      "links": 62
+      "links": 79
     },
     "Slipbox/_README.md": {
       "size": 0,
@@ -824,8 +824,8 @@
     "/": {
       "Refactor": 75,
       "Create": 156,
-      "Link": 316,
-      "Expand": 54
+      "Link": 317,
+      "Expand": 55
     }
   },
   "dailyCommits": {
@@ -841,7 +841,7 @@
       "8": 0,
       "9": 4,
       "10": 20,
-      "11": 102,
+      "11": 104,
       "12": 147,
       "13": 34,
       "14": 8,
@@ -860,7 +860,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 11,
+      "Wed": 13,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -870,6 +870,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
@@ -919,8 +920,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Resources List.md\"> REST API Resources List </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Resource Naming.md\"> REST API Resource Naming </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
@@ -1098,6 +1098,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -1146,8 +1147,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

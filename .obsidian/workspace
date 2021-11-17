@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "MOCs/Actuarial Science.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Reference/Citations/",
+                "query": "path:\"Reference/Citations/Actuarial Science/files\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,

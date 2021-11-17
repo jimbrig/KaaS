@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "11487e0ffdac5092",
+        "id": "da1898ad3fcfaf7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/Development.md",
-            "mode": "preview"
+            "file": "Slipbox/Zettelkasten.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,67 +96,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Development.md"
+                "file": "Slipbox/Zettelkasten.md"
               }
-            }
-          },
-          {
-            "id": "830219bf551ff804",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MOCs/Development.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e02ec4ca0518aea8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MOCs/Development.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "fded75bac8fcd65d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4331ec19ca3f58d8",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
-          },
-          {
-            "id": "8fb02e84aaad68ba",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "9cd97e0871ce41c7",
+        "id": "52ba14792bc13335",
         "type": "tabs",
         "children": [
           {
@@ -164,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Development.md",
+                "file": "Slipbox/Zettelkasten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,24 +141,41 @@
                 }
               }
             }
+          },
+          {
+            "id": "8fb02e84aaad68ba",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb25f0ab319898a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 359
+    "width": 359,
+    "collapsed": true
   },
-  "active": "11487e0ffdac5092",
+  "active": "da1898ad3fcfaf7d",
   "lastOpenFiles": [
-    "MOCs/Development.md",
-    "README.md",
-    "Resources/Highlights/Readwise/Readwise Syncs.md",
-    "Resources/Highlights/_README.md",
-    "Resources/_README.md",
+    "Slipbox/Zettelkasten.md",
+    "Slipbox/zsh.md",
+    "Slipbox/Ruby.md",
+    "Slipbox/Nerdfont.md",
+    "Slipbox/powerlevel10k.md",
+    "Slipbox/oh-my-zsh.md",
+    "Slipbox/Bash.md",
     "Workbench.md",
-    "Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md",
-    "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md",
-    "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
-    "Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
+    "Changelog.md",
+    "MOCs/Development.md"
   ]
 }

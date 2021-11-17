@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten",
+      "path": "Slipbox/Zettelkasten.md"
+    },
+    {
+      "basename": "zsh",
+      "path": "Slipbox/zsh.md"
+    },
+    {
+      "basename": "Ruby",
+      "path": "Slipbox/Ruby.md"
+    },
+    {
+      "basename": "Nerdfont",
+      "path": "Slipbox/Nerdfont.md"
+    },
+    {
+      "basename": "powerlevel10k",
+      "path": "Slipbox/powerlevel10k.md"
+    },
+    {
+      "basename": "oh-my-zsh",
+      "path": "Slipbox/oh-my-zsh.md"
+    },
+    {
+      "basename": "Bash",
+      "path": "Slipbox/Bash.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
       "basename": "Development",
       "path": "MOCs/Development.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "_README",
       "path": "Resources/_README.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     },
     {
       "basename": "How to Get and Remain Organized During Chaotic Times",
@@ -55,10 +87,6 @@
     {
       "basename": "2021-11-17",
       "path": "Daily-Notes/2021-11-17.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Slipbox/Zettelkasten.md"
     },
     {
       "basename": "Atomic Notes",
@@ -117,10 +145,6 @@
       "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     },
     {
-      "basename": "Changelog",
-      "path": "Changelog.md"
-    },
-    {
       "basename": "_README",
       "path": "Resources/Embeds/_README.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Productivity",
       "path": "MOCs/Productivity.md"
-    },
-    {
-      "basename": "GTD Mindsweep",
-      "path": "Slipbox/GTD Mindsweep.md"
-    },
-    {
-      "basename": "Getting Things Done",
-      "path": "Slipbox/Getting Things Done.md"
-    },
-    {
-      "basename": "Personal Knowledge Management",
-      "path": "MOCs/Personal Knowledge Management.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Slipbox/Tools.md"
-    },
-    {
-      "basename": "Linux Commands - visudo",
-      "path": "Slipbox/Linux Commands - visudo.md"
-    },
-    {
-      "basename": "How to create a passwordless sudoer on Linux",
-      "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
     }
   ],
   "omittedPaths": [],

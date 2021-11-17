@@ -16,7 +16,7 @@ Alias: "Development"
 - [[#Tools|Tools]]
 - [[#Conceptual Topics|Conceptual Topics]]
 - [[#Dataviews|Dataviews]]
-	- [[#Tagged as *Topic/Dev*|Tagged as *Topic/Dev*]]
+	- [[#Tagged as *Topic/Dev*|Tagged as Topic/Dev]]
 	- [[#Links to this File|Links to this File]]
 
 

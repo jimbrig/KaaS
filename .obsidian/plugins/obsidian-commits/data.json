@@ -7,7 +7,7 @@
     "Workbench.md": {
       "size": 0,
       "tags": 0,
-      "links": 3
+      "links": 0
     },
     "README.md": {
       "size": 0,
@@ -212,7 +212,7 @@
     "MOCs/Development.md": {
       "size": 0,
       "tags": 1,
-      "links": 8
+      "links": 15
     },
     "MOCs/R.md": {
       "size": 2191,
@@ -3013,13 +3013,38 @@
       "size": 35163,
       "tags": 0,
       "links": 1
+    },
+    "Slipbox/Bash.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/oh-my-zsh.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/powerlevel10k.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/Nerdfont.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/Ruby.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 97,
-      "Create": 597,
-      "Link": 1127,
+      "Refactor": 100,
+      "Create": 602,
+      "Link": 1138,
       "Expand": 72
     }
   },
@@ -3043,7 +3068,7 @@
       "15": 141,
       "16": 56,
       "17": 126,
-      "18": 1240,
+      "18": 1259,
       "19": 0,
       "20": 4,
       "21": 0,
@@ -3055,7 +3080,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1303,
+      "Wed": 1322,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3118,6 +3143,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/ruby.md\"> ruby </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Nerdfont.md\"> Nerdfont </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/powerlevel10k.md\"> powerlevel10k </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/bash.md\"> bash </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Can't Stay Focused While Processing - Have Tried for Months.md\"> Can't Stay Focused While Processing - Have Tried for Months </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/DataOps Implementation Guidelines.md\"> DataOps Implementation Guidelines </a>",
@@ -3163,14 +3193,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md\"> Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/Ruby.md\"> Ruby </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
@@ -3219,11 +3246,14 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/powerlevel10k.md\"> powerlevel10k </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Nerdfont.md\"> Nerdfont </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Ruby.md\"> Ruby </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
@@ -3269,12 +3299,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain in Emacs and Org-Mode - Forte Labs.md\"> Building a Second Brain in Emacs and Org-Mode - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md\"> PARA Part 8 Core Principles of Digital Organization - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Supersizing the Mind The Science of Cognitive Extension - Forte Labs.md\"> Supersizing the Mind The Science of Cognitive Extension - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Be Mentally Strong - James Altucher.md\"> How to Be Mentally Strong - James Altucher </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Programming Productivity - Wikipedia.md\"> Programming Productivity - Wikipedia </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3294,6 +3319,12 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/powerlevel10k.md\"> powerlevel10k </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Nerdfont.md\"> Nerdfont </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Ruby.md\"> Ruby </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -3338,13 +3369,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Declutter Your Data With No Regrets.md\"> How to Declutter Your Data With No Regrets </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/4 Solid Ways to Get the Best of the Web.md\"> 4 Solid Ways to Get the Best of the Web </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain An Overview - Forte Labs.md\"> Building a Second Brain An Overview - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Centralize Your Tasks When You’re Using Too Many Apps.md\"> How to Centralize Your Tasks When You’re Using Too Many Apps </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Distribute Data With Your R Package - R-Hub Blog.md\"> How to Distribute Data With Your R Package - R-Hub Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow.md\"> Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Data From PDFs the Easy Way With R - Open Source Automation.md\"> Getting Data From PDFs the Easy Way With R - Open Source Automation </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Enable Code Folding in Bookdown and Blogdown · StatnMap.md\"> Enable Code Folding in Bookdown and Blogdown · StatnMap </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Shiny Load Testing and Horizontal Scaling.md\"> Shiny Load Testing and Horizontal Scaling </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System.md\"> How to Build an Efficient Personal Knowledge Management System </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Centralize Your Tasks When You’re Using Too Many Apps.md\"> How to Centralize Your Tasks When You’re Using Too Many Apps </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3368,7 +3393,8 @@
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ]
     }
   },

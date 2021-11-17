@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 7716,
       "tags": 0,
-      "links": 156
+      "links": 157
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -187,7 +187,7 @@
     "MOCs/Actuarial Science.md": {
       "size": 2998,
       "tags": 1,
-      "links": 61
+      "links": 62
     },
     "Slipbox/_README.md": {
       "size": 0,
@@ -813,13 +813,18 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "Reference/@barnett_best_nodate.md": {
+      "size": 88,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 75,
-      "Create": 155,
-      "Link": 314,
+      "Create": 156,
+      "Link": 316,
       "Expand": 54
     }
   },
@@ -836,7 +841,7 @@
       "8": 0,
       "9": 4,
       "10": 20,
-      "11": 99,
+      "11": 102,
       "12": 147,
       "13": 34,
       "14": 8,
@@ -855,7 +860,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 8,
+      "Wed": 11,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -918,6 +923,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Methods.md\"> REST API Methods </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -967,8 +973,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/The GTD Mindsweep.md\"> The GTD Mindsweep </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Slipbox/DotNet.md\"> DotNet </a>",
@@ -1092,6 +1097,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
@@ -1138,8 +1145,6 @@
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
         "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"

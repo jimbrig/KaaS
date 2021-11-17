@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "MOCs/Actuarial Science.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mindmap",
+                "query": "path:Reference/Citations/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,14 +159,14 @@
   "active": "f14d56e31c1b401a",
   "lastOpenFiles": [
     "MOCs/Actuarial Science.md",
+    "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf",
+    "Reference/@barnett_best_nodate.md",
+    "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf",
     "Slipbox/Property Casualty Data Model.md",
+    "Reference/_README.md",
     "Slipbox/API Architecture - Performance Best Practices.md",
     "Slipbox/Data Warehouse.md",
     "Slipbox/Data Mart.md",
-    "Slipbox/Data Lake.md",
-    "Daily-Notes/2021-11-17.md",
-    "README.md",
-    "Daily-Notes/2021-11-16.md",
-    "Slipbox/WSL Initial Setup Notes.md"
+    "Slipbox/Data Lake.md"
   ]
 }

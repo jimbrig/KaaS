@@ -112,7 +112,11 @@ Alias: "Actuarial Science"
 
 ## References and Academic Papers
 
+- [[Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf]]
 
+```dataview
+list from "*.pdf"
+```
 
 ## Appendix: Dataviews
 

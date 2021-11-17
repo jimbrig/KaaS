@@ -1,9 +1,9 @@
 {
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Slipbox",
+  "literatureNoteFolder": "Reference",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "Reference/Citations/Actuarial Science.rtf"
+  "citationExportPath": "Reference/Citations/Actuarial Science/Actuarial Science.bib"
 }

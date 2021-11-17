@@ -5,8 +5,24 @@
       "path": "MOCs/Actuarial Science.md"
     },
     {
+      "basename": "Parodi - 2014 - Triangle-free reserving A non-traditional framewor",
+      "path": "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf"
+    },
+    {
+      "basename": "@barnett_best_nodate",
+      "path": "Reference/@barnett_best_nodate.md"
+    },
+    {
+      "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
+      "path": "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf"
+    },
+    {
       "basename": "Property Casualty Data Model",
       "path": "Slipbox/Property Casualty Data Model.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/_README.md"
     },
     {
       "basename": "API Architecture - Performance Best Practices",
@@ -183,22 +199,6 @@
     {
       "basename": "AWS QuickSight",
       "path": "Slipbox/AWS QuickSight.md"
-    },
-    {
-      "basename": "AWS Athena",
-      "path": "Slipbox/AWS Athena.md"
-    },
-    {
-      "basename": "AWS Redshift",
-      "path": "Slipbox/AWS Redshift.md"
-    },
-    {
-      "basename": "Logical Architecture of Modern Data Lake Centric Analytics Platforms",
-      "path": "Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md"
-    },
-    {
-      "basename": "Problems with No-Code and Low-Code Tools",
-      "path": "Slipbox/Problems with No-Code and Low-Code Tools.md"
     }
   ],
   "omittedPaths": [],

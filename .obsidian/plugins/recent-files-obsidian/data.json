@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Alteryx",
+      "path": "Slipbox/Alteryx.md"
+    },
+    {
+      "basename": "Alteryx vs Code",
+      "path": "Slipbox/Alteryx vs Code.md"
+    },
+    {
+      "basename": "2021-11-17",
+      "path": "Daily-Notes/2021-11-17.md"
+    },
+    {
       "basename": "Actuarial Science",
       "path": "MOCs/Actuarial Science.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Data Lake",
       "path": "Slipbox/Data Lake.md"
-    },
-    {
-      "basename": "2021-11-17",
-      "path": "Daily-Notes/2021-11-17.md"
     },
     {
       "basename": "README",
@@ -191,14 +199,6 @@
     {
       "basename": "API Authentication",
       "path": "Slipbox/API Authentication.md"
-    },
-    {
-      "basename": "Team Data Science Process",
-      "path": "Slipbox/Team Data Science Process.md"
-    },
-    {
-      "basename": "AWS Glue",
-      "path": "Slipbox/AWS Glue.md"
     }
   ],
   "omittedPaths": [],

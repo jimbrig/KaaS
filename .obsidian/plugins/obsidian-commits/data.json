@@ -12,12 +12,12 @@
     "README.md": {
       "size": 0,
       "tags": 0,
-      "links": 13
+      "links": 12
     },
     "Changelog.md": {
       "size": 8955,
       "tags": 0,
-      "links": 162
+      "links": 165
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -877,14 +877,29 @@
     "Slipbox/Building a Second Brain.md": {
       "size": 0,
       "tags": 1,
-      "links": 1
+      "links": 6
+    },
+    "Reference/Dictionary/Synapse.md": {
+      "size": 597,
+      "tags": 1,
+      "links": 0
+    },
+    "Slipbox/Atomic Notes.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Slipbox/Zettelkasten.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 81,
-      "Create": 170,
-      "Link": 340,
+      "Refactor": 82,
+      "Create": 173,
+      "Link": 347,
       "Expand": 60
     }
   },
@@ -907,8 +922,8 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 123,
-      "18": 1,
+      "17": 126,
+      "18": 9,
       "19": 0,
       "20": 4,
       "21": 0,
@@ -920,7 +935,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 61,
+      "Wed": 72,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -983,6 +998,9 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Zettelkasten.md\"> Zettelkasten </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Atomic Notes.md\"> Atomic Notes </a>",
+        "<a class=\"internal-link\" href=\"Reference/Dictionary/Synapse.md\"> Synapse </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
         "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
@@ -1030,10 +1048,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/AWS Athena.md\"> AWS Athena </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/AWS Glue.md\"> AWS Glue </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1089,6 +1104,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Reference/Dictionary/Synapse.md\"> Synapse </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Atomic Notes.md\"> Atomic Notes </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Zettelkasten.md\"> Zettelkasten </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
         "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>",
         "<a class=\"internal-link\" href=\"Meta/Publish Workflow.md\"> Publish Workflow </a>",
@@ -1136,10 +1154,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Caching.md\"> Caching </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Logical Architecture of Modern Data Lake Centric Analytics Platforms.md\"> Logical Architecture of Modern Data Lake Centric Analytics Platforms </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Data Lake.md\"> Data Lake </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -1159,6 +1174,10 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Atomic Notes.md\"> Atomic Notes </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Zettelkasten.md\"> Zettelkasten </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Building a Second Brain.md\"> Building a Second Brain </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1205,17 +1224,14 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ]
     }

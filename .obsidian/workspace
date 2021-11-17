@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Property Casualty Data Model.md",
+            "file": "MOCs/Actuarial Science.md",
             "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "5137cbcee75cb34f",
+        "type": "leaf",
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
@@ -64,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,36 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Property Casualty Data Model.md"
-              }
-            }
-          },
-          {
-            "id": "830219bf551ff804",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Slipbox/Property Casualty Data Model.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e02ec4ca0518aea8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Slipbox/Property Casualty Data Model.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "MOCs/Actuarial Science.md"
               }
             }
           },
@@ -136,25 +114,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "8343240f807afb08",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
-          },
-          {
-            "id": "319baee1cd49cf8b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -166,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Property Casualty Data Model.md",
+                "file": "MOCs/Actuarial Science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,6 +165,7 @@
   },
   "active": "fa8d5a2eeea000c8",
   "lastOpenFiles": [
+    "MOCs/Actuarial Science.md",
     "Slipbox/Property Casualty Data Model.md",
     "Slipbox/API Architecture - Performance Best Practices.md",
     "Slipbox/Data Warehouse.md",
@@ -211,7 +174,6 @@
     "Daily-Notes/2021-11-17.md",
     "README.md",
     "Daily-Notes/2021-11-16.md",
-    "Slipbox/WSL Initial Setup Notes.md",
-    "Slipbox/How to create a passwordless sudoer on Linux.md"
+    "Slipbox/WSL Initial Setup Notes.md"
   ]
 }

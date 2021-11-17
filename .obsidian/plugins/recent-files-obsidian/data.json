@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
       "basename": "Property Casualty Data Model",
       "path": "Slipbox/Property Casualty Data Model.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Problems with No-Code and Low-Code Tools",
       "path": "Slipbox/Problems with No-Code and Low-Code Tools.md"
-    },
-    {
-      "basename": "No-Code and Low-Code",
-      "path": "Slipbox/No-Code and Low-Code.md"
     }
   ],
   "omittedPaths": [],

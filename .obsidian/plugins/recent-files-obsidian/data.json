@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2021-11-16",
       "path": "Daily-Notes/2021-11-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Geospatial",
       "path": "Slipbox/Geospatial.md"
-    },
-    {
-      "basename": "Caching",
-      "path": "Slipbox/Caching.md"
     }
   ],
   "omittedPaths": [],

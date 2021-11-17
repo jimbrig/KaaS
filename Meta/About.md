@@ -10,7 +10,7 @@ Alias: "About"
 
 `KaaS` (Knowledge as a Service) is an [[Obsidian]] Vault composed of a multitude of notes on a variety of topics that interest me.
 
-Inside is my personal, customized, digital knowledge notebase structured loosely as a [[Zettelkasten]], a collection of interlinked [[Atomic Notes]] about anything that interests me.
+Inside is my personal, customized, digital knowledge note-base structured loosely as a [[Zettelkasten]], a collection of interlinked [[Atomic Notes]] about anything that interests me.
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
@@ -95,10 +95,12 @@ Sources:
 - `#Type/Code`
 - `#Type/WriteUp`
 - `#Type/Diagram`
+- `#Type/Framework`
 
 ### Topics
 
 - `#Topic/Dev`
+	- `#Topic/Dev/APIs`
 	- `#Topic/Dev/R`
 	- `#Topic/Dev/Python`
 	- `#Topic/Dev/Azure`
@@ -120,48 +122,19 @@ Sources:
 - `#Status/Question`
 
 
-	
-  
-Other types that aren't necessarily *sources*:
+## Utility Notes
 
-  
-
-- `#Type/MOC`
-
-- `#Type/Daily`
-
-- `#Type/Meta`
-
-- `#Type/Framework`
-
--
-
-### Utility Notes
-
+- [[Workbench]]
+- [[Changelog]]
+- [[Unlinked Files]]
+- [[Unresolved Links]]
+- [[Dictionary]]
+- [[Highlights]]
   
 
-- [[Maps of Content/README]]
-
-- [[Person Notes]]
-
-- [[Project Notes]]
-
-- [[Templates]]
-
-- [[Agenda Notes]]
-
-- [[List Notes]]
-
-- [[Code Snippets]]
-
-  
-
-Plus,
-
-  
+Plus,  
 
 - [[Frameworks]]: Frameworks that I use or find interesting
-
 - [[Workflows]]: Workflows for processing information
 
 ***

@@ -825,9 +825,9 @@
       "links": 0
     },
     "Meta/About.md": {
-      "size": 3479,
+      "size": 4112,
       "tags": 1,
-      "links": 34
+      "links": 35
     },
     "Templates/Meta-Template.md": {
       "size": 0,
@@ -859,8 +859,8 @@
     "/": {
       "Refactor": 79,
       "Create": 165,
-      "Link": 332,
-      "Expand": 57
+      "Link": 333,
+      "Expand": 58
     }
   },
   "dailyCommits": {
@@ -882,7 +882,7 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 105,
+      "17": 107,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -895,7 +895,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 43,
+      "Wed": 45,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -905,6 +905,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
@@ -954,8 +955,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Azure Data Studio.md\"> Azure Data Studio </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
@@ -1137,6 +1137,7 @@
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1183,8 +1184,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

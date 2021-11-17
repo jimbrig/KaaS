@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "Daily-Notes/2021-11-17.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily-Notes/2021-11-17.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Daily-Notes/2021-11-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,6 +202,7 @@
   },
   "active": "11487e0ffdac5092",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-17.md",
     "README.md",
     "Slipbox/Zettelkasten.md",
     "Slipbox/Atomic Notes.md",
@@ -210,7 +211,6 @@
     "Meta/Publish Workflow.md",
     "Meta/Structure.md",
     "Meta/About.md",
-    "Agendas/_README.md",
-    "People/_README.md"
+    "Agendas/_README.md"
   ]
 }

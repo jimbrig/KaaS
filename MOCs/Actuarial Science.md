@@ -71,6 +71,8 @@ Alias: "Actuarial Science"
 - [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
 - [[Actuarial Rate Indications Automation]]
 - [[Miniature Insurance Economic Simulator]]
+- [[Property Casualty Data Model]]
+- [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 
 #### Libraries
 
@@ -144,3 +146,4 @@ list from #Topic/Actuarial AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```dataview
 list from [[Actuarial Science]] AND -"Changelog" AND -"Actuarial Science"
 ```
+[[R Shiny - The Big Long - An Interactive Actuarial Simulation]]

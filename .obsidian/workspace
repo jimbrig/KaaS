@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,14 +159,14 @@
   "active": "f14d56e31c1b401a",
   "lastOpenFiles": [
     "MOCs/Actuarial Science.md",
+    "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md",
+    "Slipbox/Property Casualty Data Model.md",
     "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf",
     "Reference/@barnett_best_nodate.md",
     "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf",
-    "Slipbox/Property Casualty Data Model.md",
     "Reference/_README.md",
     "Slipbox/API Architecture - Performance Best Practices.md",
     "Slipbox/Data Warehouse.md",
-    "Slipbox/Data Mart.md",
-    "Slipbox/Data Lake.md"
+    "Slipbox/Data Mart.md"
   ]
 }

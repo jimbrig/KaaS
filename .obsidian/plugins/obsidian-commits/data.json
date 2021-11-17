@@ -187,7 +187,7 @@
     "MOCs/Actuarial Science.md": {
       "size": 4353,
       "tags": 1,
-      "links": 79
+      "links": 80
     },
     "Slipbox/_README.md": {
       "size": 0,
@@ -824,7 +824,7 @@
     "/": {
       "Refactor": 75,
       "Create": 156,
-      "Link": 317,
+      "Link": 318,
       "Expand": 55
     }
   },
@@ -841,7 +841,7 @@
       "8": 0,
       "9": 4,
       "10": 20,
-      "11": 104,
+      "11": 105,
       "12": 147,
       "13": 34,
       "14": 8,
@@ -860,7 +860,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 13,
+      "Wed": 14,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -1099,6 +1099,7 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -1146,8 +1147,7 @@
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/zsh.md\"> zsh </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

@@ -5,6 +5,14 @@
       "path": "MOCs/Actuarial Science.md"
     },
     {
+      "basename": "R Shiny - The Big Long - An Interactive Actuarial Simulation",
+      "path": "Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md"
+    },
+    {
+      "basename": "Property Casualty Data Model",
+      "path": "Slipbox/Property Casualty Data Model.md"
+    },
+    {
       "basename": "Parodi - 2014 - Triangle-free reserving A non-traditional framewor",
       "path": "Reference/Citations/Actuarial Science/files/87/Parodi - 2014 - Triangle-free reserving A non-traditional framewor.pdf"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
       "path": "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf"
-    },
-    {
-      "basename": "Property Casualty Data Model",
-      "path": "Slipbox/Property Casualty Data Model.md"
     },
     {
       "basename": "_README",
@@ -195,10 +199,6 @@
     {
       "basename": "AWS Glue",
       "path": "Slipbox/AWS Glue.md"
-    },
-    {
-      "basename": "AWS QuickSight",
-      "path": "Slipbox/AWS QuickSight.md"
     }
   ],
   "omittedPaths": [],

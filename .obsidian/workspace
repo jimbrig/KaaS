@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily-Notes/2021-11-17.md",
+            "file": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md"
+                "file": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "9cd97e0871ce41c7",
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily-Notes/2021-11-17.md",
+                "file": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,15 +202,15 @@
   },
   "active": "11487e0ffdac5092",
   "lastOpenFiles": [
+    "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md",
+    "Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md",
+    "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md",
+    "Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md",
+    "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md",
     "Daily-Notes/2021-11-17.md",
     "README.md",
     "Slipbox/Zettelkasten.md",
     "Slipbox/Atomic Notes.md",
-    "Reference/Dictionary/Synapse.md",
-    "Slipbox/Building a Second Brain.md",
-    "Meta/Publish Workflow.md",
-    "Meta/Structure.md",
-    "Meta/About.md",
-    "Agendas/_README.md"
+    "Reference/Dictionary/Synapse.md"
   ]
 }

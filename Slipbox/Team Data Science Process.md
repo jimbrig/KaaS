@@ -1,7 +1,7 @@
 ---
 Date: 2021-10-25
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: [ "#Topic/Development" ]
+Tags: [ "#Topic/Dev" ]
 Alias: "Team Data Science Process"
 ---
 

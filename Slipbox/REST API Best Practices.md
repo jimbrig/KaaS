@@ -1,7 +1,7 @@
 ---
 Date: 2021-10-27
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Note", "#Category/Development/APIs"]
+Tags: [ "#Type/Note", "#Topic/Dev/APIs" ]
 Alias: "REST APIs"
 ---
 

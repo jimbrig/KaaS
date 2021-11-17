@@ -827,7 +827,7 @@
     "Meta/About.md": {
       "size": 3479,
       "tags": 1,
-      "links": 32
+      "links": 34
     },
     "Templates/Meta-Template.md": {
       "size": 0,
@@ -838,13 +838,28 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "Meta/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Projects/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 79,
-      "Create": 162,
-      "Link": 328,
+      "Create": 165,
+      "Link": 332,
       "Expand": 57
     }
   },
@@ -867,7 +882,7 @@
       "14": 8,
       "15": 141,
       "16": 56,
-      "17": 98,
+      "17": 105,
       "18": 1,
       "19": 0,
       "20": 4,
@@ -880,7 +895,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 36,
+      "Wed": 43,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -943,6 +958,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md\"> Developer Productivity and Collaboration with Azure Machine Learning </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Projects/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Meta/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/About.md\"> About </a>",
@@ -990,10 +1008,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/No-Code and Low-Code.md\"> No-Code and Low-Code </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Memoization.md\"> Memoization </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Geospatial.md\"> Geospatial </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1049,6 +1064,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Projects/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Templates/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Meta/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Templates/Meta-Template.md\"> Meta-Template </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -1096,10 +1114,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Data Mart.md\"> Data Mart </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/GTD Mindsweep.md\"> GTD Mindsweep </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -1119,6 +1134,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -1168,8 +1184,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Productivity.md\"> Productivity </a>",
         "<a class=\"internal-link\" href=\"MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Getting Things Done.md\"> Getting Things Done </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Tools.md\"> Tools </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

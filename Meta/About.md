@@ -67,7 +67,24 @@ Source types are maintained using Obsidian's Tagging feature and currently I hav
 	- `#Type/Highlights/Book`
 	- `#Type/Highlights/Medium`
 	- `#Type/Highlights/Podcast`
-- ``
+- `#Type/Readme`
+- `#Type/Daily`
+- `#Type/List`
+- `#Type/Code`
+- `#Type/Meta`
+- `#Type/Person`
+- `#Type/Agenda`
+- `#Type/Book`
+- `#Type/Documentation`
+- `#Type/GitHub`
+- `#Type/Guide`
+- `#Type/Initiative`
+- `#Type/Mindsweep`
+- `#Type/Note`
+- `#Type/Project`
+
+Sources:
+
 - `#Type/Article`
 - `#Type/Book`
 - `#Type/Video`
@@ -78,6 +95,32 @@ Source types are maintained using Obsidian's Tagging feature and currently I hav
 - `#Type/Code`
 - `#Type/WriteUp`
 - `#Type/Diagram`
+
+### Topics
+
+- `#Topic/Dev`
+	- `#Topic/Dev/R`
+	- `#Topic/Dev/Python`
+	- `#Topic/Dev/Azure`
+	- `#Topic/Dev/GitHub`
+	- `#Topic/Dev/Data`
+
+- `#Topic/Actuarial`
+- `#Topic/Math`
+- `#Topic/Finance`
+- `#Topic/PwC`
+- `#Topic/Productivity`
+
+### Statuses
+
+- `#Status/Todo`
+- `#Status/WIP`
+- `#Status/Permanent`
+- `#Status/Fleeting`
+- `#Status/Question`
+
+
+	
   
 Other types that aren't necessarily *sources*:
 

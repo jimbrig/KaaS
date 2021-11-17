@@ -1,7 +1,14 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial", "#Topic/Math", "#Topic/DataScience"]
+Tags:
+  [
+    "#Type/Slipbox",
+    "#Topic/Dev",
+    "#Topic/Actuarial",
+    "#Topic/Math",
+    "#Topic/Dev/Data"
+  ]
 Alias: "Neural Networks"
 ---
 

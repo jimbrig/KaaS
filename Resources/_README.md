@@ -7,15 +7,12 @@ Alias: Resources
 
 # Resources
 
-*Contents*
-
-```dataview
-list from "Resources" AND !#Type/Readme
-```
+- [[Resources/Highlights/_README|Highlights]]
+- [[Resources/Embeds/_README|Embeds]]
 
 ***
 
-*Backlinks*
+## Backlinks
 
 ```dataview
 list from [[_README]] AND -"Changelog"

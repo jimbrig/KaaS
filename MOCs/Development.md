@@ -9,6 +9,17 @@ Alias: "Development"
 
 *Development* Map of Content houses all notes related to Development in general.
 
+## Contents
+
+- [[#Related MOCs|Related MOCs]]
+- [[#R Development|R Development]]
+- [[#Tools|Tools]]
+- [[#Conceptual Topics|Conceptual Topics]]
+- [[#Dataviews|Dataviews]]
+	- [[#Tagged as *Topic/Dev*|Tagged as *Topic/Dev*]]
+	- [[#Links to this File|Links to this File]]
+
+
 ## Related MOCs
 
 - [[Data Science]]
@@ -34,10 +45,10 @@ Alias: "Development"
 
 ## Dataviews
 
-### Tagged as *Category/Development*
+### Tagged as *Topic/Dev*
 
 ```dataview
-list from #Category/Development AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/Dev AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 493
+      "links": 492
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -107,7 +107,7 @@
     "Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 2
     },
     "Reference/_README.md": {
       "size": 0,
@@ -181,8 +181,8 @@
     },
     "Resources/Highlights/_README.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "MOCs/Actuarial Science.md": {
       "size": 4353,
@@ -3017,9 +3017,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 96,
+      "Refactor": 97,
       "Create": 597,
-      "Link": 1124,
+      "Link": 1127,
       "Expand": 72
     }
   },
@@ -3043,7 +3043,7 @@
       "15": 141,
       "16": 56,
       "17": 126,
-      "18": 1236,
+      "18": 1240,
       "19": 0,
       "20": 4,
       "21": 0,
@@ -3055,7 +3055,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1299,
+      "Wed": 1303,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3224,6 +3224,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>",
@@ -3273,8 +3274,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Supersizing the Mind The Science of Cognitive Extension - Forte Labs.md\"> Supersizing the Mind The Science of Cognitive Extension - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Be Mentally Strong - James Altucher.md\"> How to Be Mentally Strong - James Altucher </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Programming Productivity - Wikipedia.md\"> Programming Productivity - Wikipedia </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs.md\"> The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3294,6 +3294,8 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md\"> Why Organising Your To-Dos by Project Does Not Work. </a>",
@@ -3342,9 +3344,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Data From PDFs the Easy Way With R - Open Source Automation.md\"> Getting Data From PDFs the Easy Way With R - Open Source Automation </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Enable Code Folding in Bookdown and Blogdown · StatnMap.md\"> Enable Code Folding in Bookdown and Blogdown · StatnMap </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Shiny Load Testing and Horizontal Scaling.md\"> Shiny Load Testing and Horizontal Scaling </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System.md\"> How to Build an Efficient Personal Knowledge Management System </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Project Management With RStudio and Github  Yujun Zhou's Website.md\"> Project Management With RStudio and Github  Yujun Zhou's Website </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Planning a Lot  Yujun Zhou's Website.md\"> Planning a Lot  Yujun Zhou's Website </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Build an Efficient Personal Knowledge Management System.md\"> How to Build an Efficient Personal Knowledge Management System </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3367,6 +3367,7 @@
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

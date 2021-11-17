@@ -1,4 +1,6 @@
-- 2021-11-17 at 18h44 · [[_README]]
+- 2021-11-17 at 18h51 · [[Development]]
+- 2021-11-17 at 18h50 · [[_README]]
+- 2021-11-17 at 18h49 · [[_README]]
 - 2021-11-17 at 18h44 · [[How to Get and Remain Organized During Chaotic Times]]
 - 2021-11-17 at 18h43 · [[Can't Stay Focused While Processing - Have Tried for Months]]
 - 2021-11-17 at 18h43 · [[DataOps Implementation Guidelines]]
@@ -496,5 +498,3 @@
 - 2021-11-17 at 16h17 · [[Data Lake]]
 - 2021-11-17 at 16h17 · [[Data Mart]]
 - 2021-11-17 at 16h17 · [[Azure SQL Databases]]
-- 2021-11-17 at 16h17 · [[Caching]]
-- 2021-11-17 at 16h17 · [[Azure Machine Learning]]

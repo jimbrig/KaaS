@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Workbench",
-      "path": "Workbench.md"
+      "basename": "Development",
+      "path": "MOCs/Development.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Readwise Syncs",
+      "path": "Resources/Highlights/Readwise/Readwise Syncs.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Resources/Highlights/_README.md"
     },
     {
       "basename": "_README",
       "path": "Resources/_README.md"
     },
     {
-      "basename": "Readwise Syncs",
-      "path": "Resources/Highlights/Readwise/Readwise Syncs.md"
+      "basename": "Workbench",
+      "path": "Workbench.md"
     },
     {
       "basename": "How to Get and Remain Organized During Chaotic Times",
@@ -43,10 +55,6 @@
     {
       "basename": "2021-11-17",
       "path": "Daily-Notes/2021-11-17.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Zettelkasten",
@@ -157,10 +165,6 @@
       "path": "MOCs/Software Development.md"
     },
     {
-      "basename": "Development",
-      "path": "MOCs/Development.md"
-    },
-    {
       "basename": "Loss Triangles",
       "path": "Slipbox/Loss Triangles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to create a passwordless sudoer on Linux",
       "path": "Slipbox/How to create a passwordless sudoer on Linux.md"
-    },
-    {
-      "basename": "Interpolation of Cumulative Loss Development Factors",
-      "path": "Slipbox/Interpolation of Cumulative Loss Development Factors.md"
     }
   ],
   "omittedPaths": [],

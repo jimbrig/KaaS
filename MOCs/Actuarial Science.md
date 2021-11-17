@@ -106,6 +106,10 @@ Alias: "Actuarial Science"
 - [[Actuarial Voodoo]]
 
 
+## Mindmap View
+
+![](https://i.imgur.com/pcwm2La.png)
+
 ## References and Academic Papers
 
 

@@ -1,3 +1,4 @@
+- 2021-11-17 at 11h14 · [[Actuarial Science]]
 - 2021-11-17 at 09h10 · [[2021-11-17]]
 - 2021-11-17 at 09h10 · [[README]]
 - 2021-11-16 at 16h28 · [[WSL Initial Setup Notes]]
@@ -154,7 +155,6 @@
 - 2021-11-16 at 15h10 · [[Mathematics and Statistics]]
 - 2021-11-16 at 15h10 · [[Finance]]
 - 2021-11-16 at 15h10 · [[Databases]]
-- 2021-11-16 at 15h10 · [[Actuarial Science]]
 - 2021-11-16 at 15h10 · [[2021-11-15]]
 - 2021-11-16 at 15h10 · [[2021-11-12]]
 - 2021-11-16 at 15h10 · [[2021-11-10]]

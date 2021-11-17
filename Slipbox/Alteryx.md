@@ -34,6 +34,9 @@ Alteryx also hosts a cloud-based website known as the Alteryx Analytics Gallery.
 
 Our mission is to turbo-charge machine learning and data science efforts by creating open source projects that form the foundation of ML capability within the Alteryx Platform.
 
+- GitHub Organization *Featuretools*: https://github.com/featuretools
+
+<div style="display: block; position: relative; width: 100%; height: 0px; --aspect-ratio:9/16; padding-bottom: calc(var(--aspect-ratio) * 100%);"><iframe src="https://www.featurelabs.com/open/" allow="fullscreen" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;"></iframe></div>
 
 
 *Backlinks:*

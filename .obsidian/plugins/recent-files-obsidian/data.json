@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Niklas Luhmann",
+      "path": "People/Niklas Luhmann.md"
+    },
+    {
+      "basename": "Person-Template",
+      "path": "Templates/Personal-Templates/Person-Template.md"
+    },
+    {
       "basename": "Zettelkasten",
       "path": "Slipbox/Zettelkasten.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Loss Triangles",
       "path": "Slipbox/Loss Triangles.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Slipbox/_README.md"
-    },
-    {
-      "basename": "Productivity",
-      "path": "MOCs/Productivity.md"
     }
   ],
   "omittedPaths": [],

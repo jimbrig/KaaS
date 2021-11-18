@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Zettelkasten.md",
+            "file": "People/Niklas Luhmann.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Zettelkasten.md"
+                "file": "People/Niklas Luhmann.md"
               }
             }
           }
@@ -113,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Zettelkasten.md",
+                "file": "People/Niklas Luhmann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,6 +166,8 @@
   },
   "active": "da1898ad3fcfaf7d",
   "lastOpenFiles": [
+    "People/Niklas Luhmann.md",
+    "Templates/Personal-Templates/Person-Template.md",
     "Slipbox/Zettelkasten.md",
     "Slipbox/zsh.md",
     "Slipbox/Ruby.md",
@@ -174,8 +175,6 @@
     "Slipbox/powerlevel10k.md",
     "Slipbox/oh-my-zsh.md",
     "Slipbox/Bash.md",
-    "Workbench.md",
-    "Changelog.md",
-    "MOCs/Development.md"
+    "Workbench.md"
   ]
 }

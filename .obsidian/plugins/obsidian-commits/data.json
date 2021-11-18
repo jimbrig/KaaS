@@ -84,11 +84,6 @@
       "tags": 1,
       "links": 0
     },
-    "Templates/Work-Templates/Person-Template.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "Templates/Slipbox-Templates/Slipbox-Default-Template.md": {
       "size": 0,
       "tags": 1,
@@ -3038,13 +3033,23 @@
       "size": 0,
       "tags": 1,
       "links": 1
+    },
+    "People/Niklas Luhmann.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Work-Templates/Colleage-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 100,
-      "Create": 602,
-      "Link": 1138,
+      "Refactor": 102,
+      "Create": 603,
+      "Link": 1139,
       "Expand": 72
     }
   },
@@ -3068,8 +3073,8 @@
       "15": 141,
       "16": 56,
       "17": 126,
-      "18": 1259,
-      "19": 0,
+      "18": 1262,
+      "19": 1,
       "20": 4,
       "21": 0,
       "22": 0,
@@ -3080,7 +3085,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1322,
+      "Wed": 1326,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3143,6 +3148,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/ruby.md\"> ruby </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Nerdfont.md\"> Nerdfont </a>",
         "<a class=\"internal-link\" href=\"Slipbox/powerlevel10k.md\"> powerlevel10k </a>",
@@ -3192,10 +3198,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Colleage-Template.md\"> Colleage-Template </a>",
+        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Ruby.md\"> Ruby </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
@@ -3244,11 +3251,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Learn Linux and Git.md\"> How to Learn Linux and Git </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
         "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
         "<a class=\"internal-link\" href=\"Slipbox/powerlevel10k.md\"> powerlevel10k </a>",
@@ -3298,8 +3304,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain in Emacs and Org-Mode - Forte Labs.md\"> Building a Second Brain in Emacs and Org-Mode - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

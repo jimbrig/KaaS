@@ -12,7 +12,7 @@ Alias: "Zettelkasten"
 #### Related
 
 - [[Personal Knowledge Management]]
-- [[Niklas Luhman]]
+- [[Niklas Luhmann]]
 - [[Collectors Fallacy]]
 
 *Backlinks:*

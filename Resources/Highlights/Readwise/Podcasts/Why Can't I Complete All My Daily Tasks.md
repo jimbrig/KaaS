@@ -9,7 +9,7 @@ Aliases: []
 # Why Can't I Complete All My Daily Tasks?
 
 ## Metadata
-- Author: [[The Working With... Podcast]]
+- Author: **The Working With... Podcast**
 - Full Title: Why Can't I Complete All My Daily Tasks?
 - Category: #Type/Highlight/Podcast
 

@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Tiago Forte",
-      "path": "People/Tiago Forte.md"
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
+      "basename": "R",
+      "path": "MOCs/R.md"
+    },
+    {
+      "basename": "Why Can't I Complete All My Daily Tasks",
+      "path": "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md"
+    },
+    {
+      "basename": "Azure Machine Learning",
+      "path": "Slipbox/Azure Machine Learning.md"
+    },
+    {
+      "basename": "MLOps",
+      "path": "Slipbox/MLOps.md"
     },
     {
       "basename": "Building a Second Brain",
       "path": "Slipbox/Building a Second Brain.md"
+    },
+    {
+      "basename": "Digital Garden",
+      "path": "Slipbox/Digital Garden.md"
+    },
+    {
+      "basename": "Tiago Forte",
+      "path": "People/Tiago Forte.md"
+    },
+    {
+      "basename": "Progressive Summarization",
+      "path": "Slipbox/Progressive Summarization.md"
+    },
+    {
+      "basename": "PARA Method",
+      "path": "Slipbox/PARA Method.md"
     },
     {
       "basename": "Productivity Apps",
@@ -167,38 +199,6 @@
     {
       "basename": "Publish Workflow",
       "path": "Meta/Publish Workflow.md"
-    },
-    {
-      "basename": "Structure",
-      "path": "Meta/Structure.md"
-    },
-    {
-      "basename": "About",
-      "path": "Meta/About.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Agendas/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "People/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Templates/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Projects/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Meta/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Daily-Notes/_README.md"
     }
   ],
   "omittedPaths": [],

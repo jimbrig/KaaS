@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-file:Changelog -path:Templates",
+  "search": "-file:Changelog -path:Templates -tag:Type/Highlight -path:Reference/Citations",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -25,7 +25,7 @@
       "query": "path:Slipbox",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14701276
       }
     },
     {
@@ -33,6 +33,27 @@
       "color": {
         "a": 1,
         "rgb": 5431504
+      }
+    },
+    {
+      "query": "path:Daily-Notes",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Meta",
+      "color": {
+        "a": 1,
+        "rgb": 13688914
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13168724279835417,
+  "scale": 0.26829056075941576,
   "close": false
 }

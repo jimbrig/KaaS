@@ -2862,7 +2862,7 @@
     "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md": {
       "size": 4120,
       "tags": 2,
-      "links": 1
+      "links": 0
     },
     "Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md": {
       "size": 609,
@@ -3082,14 +3082,34 @@
     "People/Tiago Forte.md": {
       "size": 0,
       "tags": 1,
+      "links": 3
+    },
+    "Slipbox/PARA Method.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Slipbox/Progressive Summarization.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Slipbox/Digital Garden.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Slipbox/MLOps.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 106,
-      "Create": 611,
-      "Link": 1155,
+      "Refactor": 107,
+      "Create": 615,
+      "Link": 1163,
       "Expand": 74
     }
   },
@@ -3114,7 +3134,7 @@
       "16": 56,
       "17": 126,
       "18": 1262,
-      "19": 31,
+      "19": 44,
       "20": 4,
       "21": 0,
       "22": 0,
@@ -3125,7 +3145,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1356,
+      "Wed": 1369,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3188,6 +3208,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/MLOps.md\"> MLOps </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Digital Garden.md\"> Digital Garden </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Progressive Summarization.md\"> Progressive Summarization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PARA Method.md\"> PARA Method </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Tiago Forte.md\"> Tiago Forte </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Package - plumber.md\"> R Package - plumber </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Todoist.md\"> Todoist </a>",
@@ -3234,11 +3258,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md\"> Limit Your Options By Limiting Your Obligations </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md\"> 54. Listener questions #7 —  Big projects vs sub-projects and where to store support material </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md\"> Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"People/Tiago Forte.md\"> Tiago Forte </a>",
@@ -3294,6 +3314,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/PARA Method.md\"> PARA Method </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Progressive Summarization.md\"> Progressive Summarization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Digital Garden.md\"> Digital Garden </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/MLOps.md\"> MLOps </a>",
         "<a class=\"internal-link\" href=\"People/Tiago Forte.md\"> Tiago Forte </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Microsoft Windows Terminal.md\"> Microsoft Windows Terminal </a>",
@@ -3340,11 +3364,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Organize.md\"> Getting Things Done Organize </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Using Todoist for GTD  GTD Method.md\"> Using Todoist for GTD  GTD Method </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3364,6 +3384,10 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"People/Tiago Forte.md\"> Tiago Forte </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/PARA Method.md\"> PARA Method </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Progressive Summarization.md\"> Progressive Summarization </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Digital Garden.md\"> Digital Garden </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Microsoft Windows Terminal.md\"> Microsoft Windows Terminal </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Obsidian.md\"> Obsidian </a>",
@@ -3410,11 +3434,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs.md\"> The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs.md\"> Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md\"> The Case for Digital Notes - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md\"> Getting Things Done With Todoist – My GTD Setup </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md\"> 10 Windows Task Manager Tricks You Probably Didn’t Know </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs.md\"> You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md\"> Persistent Config and Data for R Packages - R-Hub Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md\"> What I've Learnt About Making an R Package </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md\"> Getting Things Done With Todoist – My GTD Setup </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3441,7 +3461,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>"
       ]
     }
   },

@@ -3035,9 +3035,9 @@
       "links": 1
     },
     "People/Niklas Luhmann.md": {
-      "size": 3206,
+      "size": 5495,
       "tags": 1,
-      "links": 0
+      "links": 7
     },
     "Templates/Work-Templates/Colleage-Template.md": {
       "size": 0,
@@ -3048,14 +3048,29 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Slipbox/Collectors Fallacy.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "Slipbox/Microsoft Windows Terminal.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Tool-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 103,
-      "Create": 604,
-      "Link": 1139,
-      "Expand": 73
+      "Create": 607,
+      "Link": 1144,
+      "Expand": 74
     }
   },
   "dailyCommits": {
@@ -3079,7 +3094,7 @@
       "16": 56,
       "17": 126,
       "18": 1262,
-      "19": 4,
+      "19": 13,
       "20": 4,
       "21": 0,
       "22": 0,
@@ -3090,7 +3105,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1329,
+      "Wed": 1338,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3100,6 +3115,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
@@ -3149,10 +3165,12 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Microsoft Windows Terminal.md\"> Microsoft Windows Terminal </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
         "<a class=\"internal-link\" href=\"Resources/Clippings/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/ruby.md\"> ruby </a>",
@@ -3200,10 +3218,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md\"> Megan McNealy on Achieving Optimal Productivity Through Well-being </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Resources/Clippings/Obsidian-Clipper.md\"> Obsidian-Clipper </a>",
@@ -3259,6 +3274,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
+        "<a class=\"internal-link\" href=\"Templates/Tool-Template.md\"> Tool-Template </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
         "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
@@ -3307,9 +3324,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md\"> Gaming the Naming The ABC's of Organizing Your Evernote Notebooks </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain in Emacs and Org-Mode - Forte Labs.md\"> Building a Second Brain in Emacs and Org-Mode - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain in Emacs and Org-Mode - Forte Labs.md\"> Building a Second Brain in Emacs and Org-Mode - Forte Labs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3329,6 +3344,9 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
+        "<a class=\"internal-link\" href=\"Templates/Tool-Template.md\"> Tool-Template </a>",
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Bash.md\"> Bash </a>",
         "<a class=\"internal-link\" href=\"Slipbox/oh-my-zsh.md\"> oh-my-zsh </a>",
@@ -3376,10 +3394,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity.md\"> How to Organize Your Files for Maximum Productivity </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Zen and the Art of File and Folder Organization.md\"> Zen and the Art of File and Folder Organization </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Declutter Your Data With No Regrets.md\"> How to Declutter Your Data With No Regrets </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/4 Solid Ways to Get the Best of the Web.md\"> 4 Solid Ways to Get the Best of the Web </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Building a Second Brain An Overview - Forte Labs.md\"> Building a Second Brain An Overview - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Centralize Your Tasks When You’re Using Too Many Apps.md\"> How to Centralize Your Tasks When You’re Using Too Many Apps </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Declutter Your Data With No Regrets.md\"> How to Declutter Your Data With No Regrets </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

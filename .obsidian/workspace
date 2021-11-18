@@ -4,13 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da1898ad3fcfaf7d",
+        "id": "7a7132656e7eb11f",
+        "type": "leaf",
+        "state": {
+          "type": "dangling-links",
+          "state": {}
+        }
+      },
+      {
+        "id": "b3ac53abb51ba75a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Niklas Luhmann.md",
-            "mode": "preview"
+            "file": "Templates/Tool-Template.md",
+            "mode": "source"
           }
         }
       }
@@ -64,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Niklas Luhmann.md"
+                "file": "Templates/Tool-Template.md"
               }
             }
           },
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Niklas Luhmann.md",
+                "file": "Templates/Tool-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Niklas Luhmann.md",
+                "file": "Templates/Tool-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Niklas Luhmann.md",
+                "file": "Templates/Tool-Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,20 +206,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359,
-    "collapsed": true
+    "width": 359
   },
-  "active": "da1898ad3fcfaf7d",
+  "active": "b3ac53abb51ba75a",
   "lastOpenFiles": [
+    "Templates/Tool-Template.md",
+    "Slipbox/Microsoft Windows Terminal.md",
+    "Slipbox/WSL Terminal and Shell Setup Guide.md",
+    "Slipbox/Collectors Fallacy.md",
+    "Slipbox/Zettelkasten.md",
     "People/Niklas Luhmann.md",
     "Resources/Clippings/Obsidian-Clipper.md",
     "Changelog.md",
     "Daily-Notes/2021-11-17.md",
-    "Templates/Personal-Templates/Person-Template.md",
-    "Slipbox/Zettelkasten.md",
-    "Slipbox/zsh.md",
-    "Slipbox/Ruby.md",
-    "Slipbox/Nerdfont.md",
-    "Slipbox/powerlevel10k.md"
+    "Templates/Personal-Templates/Person-Template.md"
   ]
 }

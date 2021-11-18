@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Tool-Template",
+      "path": "Templates/Tool-Template.md"
+    },
+    {
+      "basename": "Microsoft Windows Terminal",
+      "path": "Slipbox/Microsoft Windows Terminal.md"
+    },
+    {
+      "basename": "WSL Terminal and Shell Setup Guide",
+      "path": "Slipbox/WSL Terminal and Shell Setup Guide.md"
+    },
+    {
+      "basename": "Collectors Fallacy",
+      "path": "Slipbox/Collectors Fallacy.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Slipbox/Zettelkasten.md"
+    },
+    {
       "basename": "Niklas Luhmann",
       "path": "People/Niklas Luhmann.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Person-Template",
       "path": "Templates/Personal-Templates/Person-Template.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Slipbox/Zettelkasten.md"
     },
     {
       "basename": "zsh",
@@ -183,22 +199,6 @@
     {
       "basename": "R",
       "path": "MOCs/R.md"
-    },
-    {
-      "basename": "2021-11-16",
-      "path": "Daily-Notes/2021-11-16.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "Slipbox/SQLite.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "MOCs/Web Development.md"
-    },
-    {
-      "basename": "Software Development",
-      "path": "MOCs/Software Development.md"
     }
   ],
   "omittedPaths": [],

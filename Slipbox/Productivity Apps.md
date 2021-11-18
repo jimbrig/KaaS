@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Productivity"]
+Tags: ["#Type/List", "#Topic/Productivity", "#Type/Tool"]
 ---
 
 # Productivity Apps
@@ -17,6 +17,9 @@ Tags: ["#Type/List", "#Topic/Productivity"]
 
 
 ***
+
+- [[Productivity]]
+- [[Tools]]
 
 *Backlinks:*
 

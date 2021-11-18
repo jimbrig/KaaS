@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7132656e7eb11f",
-        "type": "leaf",
-        "state": {
-          "type": "dangling-links",
-          "state": {}
-        }
-      },
-      {
-        "id": "b3ac53abb51ba75a",
+        "id": "eef82bd548870a05",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Tool-Template.md",
+            "file": "People/Tiago Forte.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "43d93a8371f86807",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slipbox/Productivity Apps.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tool-Template.md"
+                "file": "People/Tiago Forte.md"
               }
             }
           },
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tool-Template.md",
+                "file": "People/Tiago Forte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Tool-Template.md",
+                "file": "People/Tiago Forte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Tool-Template.md",
+                "file": "People/Tiago Forte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,17 +212,17 @@
     "direction": "horizontal",
     "width": 359
   },
-  "active": "b3ac53abb51ba75a",
+  "active": "eef82bd548870a05",
   "lastOpenFiles": [
-    "Templates/Tool-Template.md",
-    "Slipbox/Microsoft Windows Terminal.md",
-    "Slipbox/WSL Terminal and Shell Setup Guide.md",
-    "Slipbox/Collectors Fallacy.md",
-    "Slipbox/Zettelkasten.md",
-    "People/Niklas Luhmann.md",
-    "Resources/Clippings/Obsidian-Clipper.md",
-    "Changelog.md",
-    "Daily-Notes/2021-11-17.md",
-    "Templates/Personal-Templates/Person-Template.md"
+    "People/Tiago Forte.md",
+    "Slipbox/Building a Second Brain.md",
+    "Slipbox/Productivity Apps.md",
+    "Slipbox/REST API Best Practices.md",
+    "Slipbox/R Package - plumber.md",
+    "Slipbox/Team Data Science Process.md",
+    "Slipbox/Tools.md",
+    "Slipbox/Todoist.md",
+    "Slipbox/Obsidian.md",
+    "Slipbox/Microsoft Windows Terminal.md"
   ]
 }

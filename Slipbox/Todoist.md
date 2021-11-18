@@ -5,13 +5,14 @@ Tags: ["#Type/Tool"]
 Alias: []
 ---
 
-# Microsoft Windows Terminal
+# Todoist
 
 ***
 
 ## Appendix: Related
 
 - [[Tools]]
+- [[Productivity]]
 
 *Backlinks:*
 

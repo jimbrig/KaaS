@@ -126,10 +126,8 @@ At the very least, place links in the HTTP Link header as recommended in the spe
 
 Links:
 
-[[REST API Resources]]
 [[REST API Methods]]
-[[REST API HTTP Status Codes]]
 [[REST API Resource Naming]]
 [[REST API Idempotence]]
 [[R Package - plumber]]
-[[Python Flask]]
+[[Python Package - Flask]]

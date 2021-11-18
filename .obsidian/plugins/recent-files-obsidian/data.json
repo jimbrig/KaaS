@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Tool-Template",
-      "path": "Templates/Tool-Template.md"
+      "basename": "Tiago Forte",
+      "path": "People/Tiago Forte.md"
+    },
+    {
+      "basename": "Building a Second Brain",
+      "path": "Slipbox/Building a Second Brain.md"
+    },
+    {
+      "basename": "Productivity Apps",
+      "path": "Slipbox/Productivity Apps.md"
+    },
+    {
+      "basename": "REST API Best Practices",
+      "path": "Slipbox/REST API Best Practices.md"
+    },
+    {
+      "basename": "R Package - plumber",
+      "path": "Slipbox/R Package - plumber.md"
+    },
+    {
+      "basename": "Team Data Science Process",
+      "path": "Slipbox/Team Data Science Process.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Slipbox/Tools.md"
+    },
+    {
+      "basename": "Todoist",
+      "path": "Slipbox/Todoist.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Slipbox/Obsidian.md"
     },
     {
       "basename": "Microsoft Windows Terminal",
       "path": "Slipbox/Microsoft Windows Terminal.md"
+    },
+    {
+      "basename": "Tool-Template",
+      "path": "Templates/Tool-Template.md"
+    },
+    {
+      "basename": "Slipbox-Default-Template",
+      "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     },
     {
       "basename": "WSL Terminal and Shell Setup Guide",
@@ -125,10 +165,6 @@
       "path": "Reference/Dictionary/Synapse.md"
     },
     {
-      "basename": "Building a Second Brain",
-      "path": "Slipbox/Building a Second Brain.md"
-    },
-    {
       "basename": "Publish Workflow",
       "path": "Meta/Publish Workflow.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "_README",
       "path": "Daily-Notes/_README.md"
-    },
-    {
-      "basename": "Meta-Template",
-      "path": "Templates/Meta-Template.md"
-    },
-    {
-      "basename": "Slipbox-Default-Template",
-      "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Resources/Embeds/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "MOCs/_README.md"
-    },
-    {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "MOCs/Data Science.md"
-    },
-    {
-      "basename": "Simulating Actuarial Claims Data with R",
-      "path": "Slipbox/Simulating Actuarial Claims Data with R.md"
-    },
-    {
-      "basename": "R",
-      "path": "MOCs/R.md"
     }
   ],
   "omittedPaths": [],

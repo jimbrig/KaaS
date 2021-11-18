@@ -5,13 +5,16 @@ Tags: ["#Type/Tool"]
 Alias: []
 ---
 
-# Microsoft Windows Terminal
+# Obsidian
 
 ***
 
 ## Appendix: Related
 
 - [[Tools]]
+- [[Personal Knowledge Management]]
+- [[Zettelkasten]]
+- [[Meta/_README|Meta]]
 
 *Backlinks:*
 

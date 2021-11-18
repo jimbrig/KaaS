@@ -1,17 +1,17 @@
 ---
-Date: 2021-11-17
+Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: "Tool-Template"
+Alias: []
 ---
 
-# Tool-Template
+# <% tp.file.title %>
 
 ***
 
-#### Related
+## Appendix: Related
 
-- [[Development]]
+- [[Tools]]
 
 *Backlinks:*
 

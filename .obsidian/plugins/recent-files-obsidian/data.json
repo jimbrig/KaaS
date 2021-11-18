@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian Clipper",
-      "path": "Resources/Clippings/Obsidian Clipper.md"
-    },
-    {
       "basename": "Niklas Luhmann",
       "path": "People/Niklas Luhmann.md"
+    },
+    {
+      "basename": "Obsidian-Clipper",
+      "path": "Resources/Clippings/Obsidian-Clipper.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "basename": "2021-11-17",
+      "path": "Daily-Notes/2021-11-17.md"
     },
     {
       "basename": "Person-Template",
@@ -43,10 +51,6 @@
     {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
     },
     {
       "basename": "Development",
@@ -95,10 +99,6 @@
     {
       "basename": "A Builder’s Guide to Note-Taking",
       "path": "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
-    },
-    {
-      "basename": "2021-11-17",
-      "path": "Daily-Notes/2021-11-17.md"
     },
     {
       "basename": "Atomic Notes",

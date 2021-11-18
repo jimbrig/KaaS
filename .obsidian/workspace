@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Clippings/Obsidian Clipper.md",
-            "mode": "source"
+            "file": "People/Niklas Luhmann.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,8 +96,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Clippings/Obsidian Clipper.md"
+                "file": "People/Niklas Luhmann.md"
               }
+            }
+          },
+          {
+            "id": "ef5a6eb0b2c56bd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Niklas Luhmann.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8b3e9e67d047d10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Niklas Luhmann.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59c1008bdfabfbe0",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
             }
           }
         ],
@@ -112,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Clippings/Obsidian Clipper.md",
+                "file": "People/Niklas Luhmann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,15 +204,15 @@
   },
   "active": "da1898ad3fcfaf7d",
   "lastOpenFiles": [
-    "Resources/Clippings/Obsidian Clipper.md",
     "People/Niklas Luhmann.md",
+    "Resources/Clippings/Obsidian-Clipper.md",
+    "Changelog.md",
+    "Daily-Notes/2021-11-17.md",
     "Templates/Personal-Templates/Person-Template.md",
     "Slipbox/Zettelkasten.md",
     "Slipbox/zsh.md",
     "Slipbox/Ruby.md",
     "Slipbox/Nerdfont.md",
-    "Slipbox/powerlevel10k.md",
-    "Slipbox/oh-my-zsh.md",
-    "Slipbox/Bash.md"
+    "Slipbox/powerlevel10k.md"
   ]
 }

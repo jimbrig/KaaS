@@ -3035,7 +3035,7 @@
       "links": 1
     },
     "People/Niklas Luhmann.md": {
-      "size": 0,
+      "size": 3206,
       "tags": 1,
       "links": 0
     },
@@ -3044,7 +3044,7 @@
       "tags": 1,
       "links": 0
     },
-    "Resources/Clippings/Obsidian Clipper.md": {
+    "Resources/Clippings/Obsidian-Clipper.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -3052,10 +3052,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 102,
+      "Refactor": 103,
       "Create": 604,
       "Link": 1139,
-      "Expand": 72
+      "Expand": 73
     }
   },
   "dailyCommits": {
@@ -3079,7 +3079,7 @@
       "16": 56,
       "17": 126,
       "18": 1262,
-      "19": 2,
+      "19": 4,
       "20": 4,
       "21": 0,
       "22": 0,
@@ -3090,7 +3090,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1327,
+      "Wed": 1329,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3100,6 +3100,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
@@ -3149,8 +3150,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Resources/Clippings/Untitled.md\"> Untitled </a>",
@@ -3206,6 +3206,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Resources/Clippings/Obsidian-Clipper.md\"> Obsidian-Clipper </a>",
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Colleage-Template.md\"> Colleage-Template </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Ruby.md\"> Ruby </a>",
@@ -3255,8 +3256,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",

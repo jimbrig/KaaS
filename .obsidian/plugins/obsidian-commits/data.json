@@ -3043,12 +3043,17 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "Resources/Clippings/Obsidian Clipper.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 102,
-      "Create": 603,
+      "Create": 604,
       "Link": 1139,
       "Expand": 72
     }
@@ -3074,7 +3079,7 @@
       "16": 56,
       "17": 126,
       "18": 1262,
-      "19": 1,
+      "19": 2,
       "20": 4,
       "21": 0,
       "22": 0,
@@ -3085,7 +3090,7 @@
     "/": {
       "Mon": 175,
       "Tue": 146,
-      "Wed": 1326,
+      "Wed": 1327,
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
@@ -3148,6 +3153,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Experience Studies.md\"> Actuarial Experience Studies </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Resources/Clippings/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Slipbox/ruby.md\"> ruby </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Nerdfont.md\"> Nerdfont </a>",
@@ -3197,8 +3203,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Colleage-Template.md\"> Colleage-Template </a>",

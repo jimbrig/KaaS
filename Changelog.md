@@ -1,4 +1,5 @@
-- 2021-11-17 at 18h57 · [[Niklas Luhmann]]
+- 2021-11-17 at 19h06 · [[Obsidian Clipper]]
+- 2021-11-17 at 19h03 · [[Niklas Luhmann]]
 - 2021-11-17 at 18h57 · [[Person-Template]]
 - 2021-11-17 at 18h56 · [[Zettelkasten]]
 - 2021-11-17 at 18h55 · [[zsh]]
@@ -497,4 +498,3 @@
 - 2021-11-17 at 16h17 · [[Git]]
 - 2021-11-17 at 16h17 · [[How to create a passwordless sudoer on Linux]]
 - 2021-11-17 at 16h17 · [[Logical Architecture of Modern Data Lake Centric Analytics Platforms]]
-- 2021-11-17 at 16h17 · [[DotNet]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/Niklas Luhmann.md",
+            "file": "Resources/Clippings/Obsidian Clipper.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Niklas Luhmann.md"
+                "file": "Resources/Clippings/Obsidian Clipper.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Niklas Luhmann.md",
+                "file": "Resources/Clippings/Obsidian Clipper.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,6 +166,7 @@
   },
   "active": "da1898ad3fcfaf7d",
   "lastOpenFiles": [
+    "Resources/Clippings/Obsidian Clipper.md",
     "People/Niklas Luhmann.md",
     "Templates/Personal-Templates/Person-Template.md",
     "Slipbox/Zettelkasten.md",
@@ -174,7 +175,6 @@
     "Slipbox/Nerdfont.md",
     "Slipbox/powerlevel10k.md",
     "Slipbox/oh-my-zsh.md",
-    "Slipbox/Bash.md",
-    "Workbench.md"
+    "Slipbox/Bash.md"
   ]
 }

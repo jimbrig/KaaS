@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Clipper",
+      "path": "Resources/Clippings/Obsidian Clipper.md"
+    },
+    {
       "basename": "Niklas Luhmann",
       "path": "People/Niklas Luhmann.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Software Development",
       "path": "MOCs/Software Development.md"
-    },
-    {
-      "basename": "Loss Triangles",
-      "path": "Slipbox/Loss Triangles.md"
     }
   ],
   "omittedPaths": [],

@@ -57,7 +57,11 @@
     "Readwise",
     "readwise",
     "PDFs",
-    "io"
+    "io",
+    "MOCs",
+    "Dev",
+    "briggs",
+    "jimbrig"
   ],
   "livePreview": false
 }

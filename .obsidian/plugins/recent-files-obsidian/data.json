@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time",
+      "path": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md"
+    },
+    {
+      "basename": "Development",
+      "path": "MOCs/Development.md"
+    },
+    {
       "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
       "path": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Obsidian-Clipper",
       "path": "Resources/Clippings/Obsidian-Clipper.md"
-    },
-    {
-      "basename": "2021-11-17",
-      "path": "Daily-Notes/2021-11-17.md"
-    },
-    {
-      "basename": "Person-Template",
-      "path": "Templates/Personal-Templates/Person-Template.md"
     }
   ],
   "omittedPaths": [],

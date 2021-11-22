@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
-            "mode": "preview"
+            "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
+                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
+                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
+                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
+                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,6 +194,8 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
+    "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+    "MOCs/Development.md",
     "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
     "Slipbox/Cloud Computing.md",
     "Slipbox/Database Connection Pooling.md",
@@ -201,8 +203,6 @@
     "Slipbox/Weekly Review Musings.md",
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
     "Resources/_README.md",
-    "Resources/Clippings/_README.md",
-    "Resources/Tools/_README.md",
-    "Resources/Highlights/_README.md"
+    "Resources/Clippings/_README.md"
   ]
 }

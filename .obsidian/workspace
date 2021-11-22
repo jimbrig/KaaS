@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Slipbox/_assets/The Ultimate Guide to an Effective Weekly Review.pdf"
+            "file": "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf"
           }
         }
       },
@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Ultimate Guide to an Effective Weekly Review.md",
-            "mode": "source"
+            "file": "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ultimate Guide to an Effective Weekly Review.md"
+                "file": "Highlights for The Ultimate Guide to an Effective Weekly Review.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,15 +213,15 @@
   },
   "active": "6086c630ee143c2e",
   "lastOpenFiles": [
-    "The Ultimate Guide to an Effective Weekly Review.md",
-    "Slipbox/_assets/The Ultimate Guide to an Effective Weekly Review.pdf",
+    "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
+    "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
+    "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
+    "Slipbox/Ultimate Guide to an E!ective Weekly Review.md",
     "Slipbox/Weekly Review Musings.md",
     "Daily-Notes/2021-11-21.md",
     "Reference/_README.md",
     "Reference/Guidance/_README.md",
     "Resources/Tools/Online Developer Tools.md",
-    "People/Justin DiRose.md",
-    "MOCs/Personal Knowledge Management.md",
-    "Slipbox/Zettelkasten.md"
+    "People/Justin DiRose.md"
   ]
 }

@@ -3123,13 +3123,33 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "Slipbox/Weekly Review Musings.md": {
+      "size": 442,
+      "tags": 2,
+      "links": 5
+    },
+    "Highlights for The Ultimate Guide to an Effective Weekly Review.md": {
+      "size": 853,
+      "tags": 0,
+      "links": 14
+    },
+    "Slipbox/Ultimate Guide to an E!ective Weekly Review.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
+      "size": 33599,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 109,
-      "Create": 619,
-      "Link": 1172,
+      "Refactor": 112,
+      "Create": 623,
+      "Link": 1175,
       "Expand": 74
     }
   },
@@ -3157,7 +3177,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 0,
+      "22": 10,
       "23": 0
     }
   },
@@ -3169,7 +3189,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 15
+      "Sun": 25
     }
   },
   "recentCommits": {
@@ -3228,6 +3248,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Ultimate Guide to an E!ective Weekly Review.md\"> Ultimate Guide to an E!ective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Justin DiRose.md\"> Justin DiRose </a>",
@@ -3274,13 +3298,12 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Reference/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"People/Tiago Forte.md\"> Tiago Forte </a>",
         "<a class=\"internal-link\" href=\"Resources/Clippings/Obsidian-Clipper.md\"> Obsidian-Clipper </a>",
@@ -3328,12 +3351,10 @@
         "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>"
+        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
@@ -3383,8 +3404,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3404,6 +3424,8 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
+        "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
@@ -3452,9 +3474,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md\"> PARA Part 8 Core Principles of Digital Organization - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

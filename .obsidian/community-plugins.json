@@ -47,5 +47,8 @@
   "obsidian-rich-links",
   "obsidian-link-converter",
   "readwise-official",
-  "pdf-to-markdown-plugin"
+  "pdf-to-markdown-plugin",
+  "obsidian-extract-pdf-highlights",
+  "extract-highlights-plugin",
+  "obsidian-activity-history"
 ]

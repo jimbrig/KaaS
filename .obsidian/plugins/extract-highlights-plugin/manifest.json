@@ -1,0 +1,9 @@
+{
+  "id": "extract-highlights-plugin",
+  "name": "Extract Highlights",
+  "version": "0.0.18",
+  "description": "Create, extract and leverage your markdown highlights",
+  "author": "Alexis Rondeau",
+  "authorUrl": "https://publish.obsidian.md/alexisrondeau",
+  "js": "main.js"
+}

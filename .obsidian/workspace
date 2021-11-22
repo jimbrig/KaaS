@@ -7,8 +7,11 @@
         "id": "eef82bd548870a05",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MOCs/Personal Knowledge Management.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MOCs/Personal Knowledge Management.md"
+              }
             }
           },
           {
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOCs/Personal Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOCs/Personal Knowledge Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +144,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "022e8fb8be0bfbde",
+            "id": "8fb02e84aaad68ba",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb25f0ab319898a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8222353ba07bec2b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "MOCs/Personal Knowledge Management.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,29 +188,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121207,
-                  "close": false
+                  "scale": 0.5963258621008616,
+                  "close": true
                 }
               }
             }
-          },
-          {
-            "id": "8fb02e84aaad68ba",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb25f0ab319898a6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,15 +203,15 @@
   },
   "active": "eef82bd548870a05",
   "lastOpenFiles": [
+    "MOCs/Personal Knowledge Management.md",
+    "Slipbox/Zettelkasten.md",
+    "README.md",
     "MOCs/Actuarial Science.md",
     "MOCs/R.md",
     "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md",
     "Slipbox/Azure Machine Learning.md",
     "Slipbox/MLOps.md",
     "Slipbox/Building a Second Brain.md",
-    "Slipbox/Digital Garden.md",
-    "People/Tiago Forte.md",
-    "Slipbox/Progressive Summarization.md",
-    "Slipbox/PARA Method.md"
+    "Slipbox/Digital Garden.md"
   ]
 }

@@ -18,10 +18,10 @@ Alias: "Personal Knowledge Management"
 
 ## Dataviews
 
-### Tagged as *Category/Personal Knowledge Management*
+### Tagged as *Topic/PKM*
 
 ```dataview
-list from #Category/Personal Knowledge Management AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/PKM AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

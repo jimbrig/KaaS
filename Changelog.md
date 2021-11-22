@@ -1,3 +1,5 @@
+- 2021-11-21 at 21h36 · [[2021-11-21]]
+- 2021-11-17 at 19h28 · [[Personal Knowledge Management]]
 - 2021-11-17 at 19h26 · [[Actuarial Science]]
 - 2021-11-17 at 19h23 · [[Why Can't I Complete All My Daily Tasks]]
 - 2021-11-17 at 19h23 · [[MLOps]]
@@ -496,5 +498,3 @@
 - 2021-11-17 at 16h17 · [[SQL Server Management Studio]]
 - 2021-11-17 at 16h17 · [[Reproducible Research]]
 - 2021-11-17 at 16h17 · [[Reproducible Data Science with Azure Machine Learning]]
-- 2021-11-17 at 16h17 · [[AWS Glue]]
-- 2021-11-17 at 16h17 · [[API Design]]

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-21",
+      "path": "Daily-Notes/2021-11-21.md"
+    },
+    {
+      "basename": "Personal Knowledge Management",
+      "path": "MOCs/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Slipbox/Zettelkasten.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Actuarial Science",
       "path": "MOCs/Actuarial Science.md"
     },
@@ -89,10 +105,6 @@
       "path": "Slipbox/Collectors Fallacy.md"
     },
     {
-      "basename": "Zettelkasten",
-      "path": "Slipbox/Zettelkasten.md"
-    },
-    {
       "basename": "Niklas Luhmann",
       "path": "People/Niklas Luhmann.md"
     },
@@ -145,10 +157,6 @@
       "path": "MOCs/Development.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Readwise Syncs",
       "path": "Resources/Highlights/Readwise/Readwise Syncs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Atomic Notes",
       "path": "Slipbox/Atomic Notes.md"
-    },
-    {
-      "basename": "Synapse",
-      "path": "Reference/Dictionary/Synapse.md"
-    },
-    {
-      "basename": "Publish Workflow",
-      "path": "Meta/Publish Workflow.md"
     }
   ],
   "omittedPaths": [],

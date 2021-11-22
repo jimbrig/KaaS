@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 491
+      "links": 488
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -102,7 +102,7 @@
     "Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 2
+      "links": 4
     },
     "Reference/_README.md": {
       "size": 0,
@@ -3134,7 +3134,27 @@
       "tags": 0,
       "links": 5
     },
-    "Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md": {
+    "Resources/Highlights/Notes/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Readwise/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Tools/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Clippings/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md": {
       "size": 11005,
       "tags": 3,
       "links": 4
@@ -3142,9 +3162,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 122,
-      "Create": 628,
-      "Link": 1183,
+      "Refactor": 124,
+      "Create": 632,
+      "Link": 1188,
       "Expand": 75
     }
   },
@@ -3172,8 +3192,8 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 34,
-      "23": 0
+      "22": 44,
+      "23": 1
     }
   },
   "weeklyCommits": {
@@ -3184,7 +3204,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 49
+      "Sun": 60
     }
   },
   "recentCommits": {
@@ -3243,6 +3263,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Resources/Clippings/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Tools/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md\"> The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse... </a>",
@@ -3289,13 +3313,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md\"> The Ultimate Guide to an Effective Weekly Review- Highlights </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3345,10 +3366,13 @@
         "<a class=\"internal-link\" href=\"Templates/Project-Template.md\"> Project-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Clippings/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Resources/Tools/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
@@ -3395,11 +3419,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting More Done at Work With Evernote - Frank Buck Consulting.md\"> Getting More Done at Work With Evernote - Frank Buck Consulting </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Blog  Filterize.md\"> Blog  Filterize </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md\"> FW Managing Outcomes in a Remote Environment </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3426,6 +3446,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3475,8 +3496,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3506,7 +3526,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

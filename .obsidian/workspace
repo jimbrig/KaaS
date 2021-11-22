@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/_README.md",
-            "mode": "source"
+            "file": "Meta/About.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ultimate Guide Effective Weekly Review",
+                "query": "tag:#Topic/Dev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/_README.md"
+                "file": "Meta/About.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/_README.md",
+                "file": "Meta/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,18 +123,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/_README.md",
+                "file": "Meta/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "59c1008bdfabfbe0",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
             }
           }
         ],
@@ -165,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/_README.md",
+                "file": "Meta/About.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +181,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5963258621008616,
+                  "scale": 0.3033878700221113,
                   "close": true
                 }
               }
@@ -203,15 +196,15 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
+    "Meta/About.md",
+    "Slipbox/Weekly Review Musings.md",
+    "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
     "Resources/_README.md",
     "Resources/Clippings/_README.md",
     "Resources/Tools/_README.md",
     "Resources/Highlights/_README.md",
     "Resources/Highlights/Readwise/_README.md",
     "Resources/Highlights/Notes/_README.md",
-    "Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md",
-    "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
-    "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
-    "Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md"
+    "Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
   ]
 }

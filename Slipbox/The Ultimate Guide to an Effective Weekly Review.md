@@ -5,7 +5,7 @@
 ## The Ultimate Guide to an Effective 
 
 *Source: [[The Ultimate Guide to an Effective Weekly Review.pdf]]*
-*Highlights:* [[The Ultimate Guide to an Effective - Highlights]]
+*Highlights:* [[The Ultimate Guide to an Effective Weekly Review- Highlights]]
 
 ## Weekly Review
 

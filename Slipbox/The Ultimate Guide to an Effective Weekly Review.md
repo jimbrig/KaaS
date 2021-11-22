@@ -9,13 +9,15 @@
 > Written by [[Justin DiRose]], 
 > Brought to you by Effective Remote Work 
 
-==The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focused. It will help you get a clear head, see every commitment currently on your plate, and help you make decisions that ultimately lead you to be more intentional and focused over the upcoming week. ==
+==The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focused. It will help you get a clear head, see every commitment currently on your plate, and help you make decisions that ultimately lead you to be more intentional and focused over the upcoming week.==
 
 But if you’re like me, the weekly review hasn’t always been clear. What do I check in it? How do I review my projects? What does it even mean to review my calendar? Many of us productivity experts will tell you all of the high level things to do in a review, but sometimes we leave out the details. 
 
 Whether you’re new to productivity or a seasoned veteran, my hope for this guide is to leave you with the following outcomes: 
 
- a deeper understanding of what a review is, a foundation of core focuses in the review and what they mean, and tips to help you incorporate the weekly review into your routine. 
+- a deeper understanding of what a review is, 
+- a foundation of core focuses in the review and what they mean,
+- tips to help you incorporate the weekly review into your routine. 
 
 ---
 
@@ -25,42 +27,41 @@ We’ve briefly touched on this subject already, but essentially the weekly revi
 
 Essentially the review accomplishes two goals. 
 
-First, it keeps your system up to date. 
+==First, it keeps your system up to date.== 
 
 My main hope when first starting out in productivity systems was to be able to set it and forget it. Just enter in the tasks, keep working, and have the system just tell me what to work on next. Sounds like a great goal, right? 
 
-The thing is that, just like a garden, a productivity system needs regular tending to ensure its e!ectiveness. Think about it. If you let a garden go for weeks without tending to it, what’s the result? Weeds. Animals eating the growth. Dead plants. Regular tending to the garden aims to create a healthy ecosystem for plants to grow through regular weeding, watering, and ensuring the garden is properly fenced and protected. 
+==The thing is that, just like a garden, a productivity system needs regular tending to ensure its effectiveness. Think about it. If you let a garden go for weeks without tending to it, what’s the result? Weeds. Animals eating the growth. Dead plants. Regular tending to the garden aims to create a healthy ecosystem for plants to grow through regular weeding, watering, and ensuring the garden is properly fenced and protected.== 
 
-A weekly review serves a similar purpose. Productivity systems easily get out of date without regular reviewing. And when the system is not accurate, you wrong trust it. And if you can’t trust it, you won’t use it. 
+A weekly review serves a similar purpose. ==Productivity systems easily get out of date without regular reviewing. And when the system is not accurate, you wrong trust it. And if you can’t trust it, you won’t use it.== 
 
-Performing a weekly review on a consistent basis will help you make sure everything in your system is current so you can keep leaning on it to be e!ective for you. 
+Performing a weekly review on a consistent basis will help you make sure everything in your system is current so you can keep leaning on it to be effective for you. 
 
 ---
 
 Second, the review looks back on the previous week to help you prepare for the upcoming one. 
 
-When the system is current, you get a clear picture of the tasks, projects, commitments, and responsibilities on your plate at that exact moment in time. That clarity enables you to make better decisions on how to spend your time over the next week. 
+==When the system is current, you get a clear picture of the tasks, projects, commitments, and responsibilities on your plate at that exact moment in time. That clarity enables you to make better decisions on how to spend your time over the next week.== 
 
-I regularly use my productivity system to help me decide where to focus my resources in the upcoming seven days. Let’s face it – we have limited time, attention, and energy. It would be unfortunate for me to use those finite resources that I’m wholly in control of in a haphazard and unintentional manner, essentially wasting them. 
+==I regularly use my productivity system to help me decide where to focus my resources in the upcoming seven days. Let’s face it – we have limited time, attention, and energy. It would be unfortunate for me to use those finite resources that I’m wholly in control of in a haphazard and unintentional manner, essentially wasting them.== 
 
 In that order, the weekly review helps you see and set your priorities so you can make better choices to spend the finite resources of your life in the moments of the next week. 
 
 You could call this planning. I like to see it as preparation and making decisions in advance. So often planning gets associated with rigid schedules, inflexible action plans, and – here’s what always bites me – an uncanny ability to never happen as hoped. 
 
-That’s not to say “planning” isn’t valuable, but the value isn’t found in the plan produced. It’s found in the preparation. And the weekly review enables the level of preparation needed to e!ectively handle the upcoming week. 
+That’s not to say "planning" isn’t valuable, but the value isn’t found in the plan produced. It’s found in the preparation. And the weekly review enables the level of preparation needed to effectively handle the upcoming week. 
 
 ---
 
 #### ― What shouldn’t I do in my weekly review? ― 
 
-The weekly review is just that: weekly. It’s suited for particular types of tasks and focuses that help you review the week. There are some things to avoid doing in the weekly review because of that. 
+==The weekly review is just that: weekly. It’s suited for particular types of tasks and focuses that help you review the week. There are some things to avoid doing in the weekly review because of that.== 
 
-Don’t evaluate your long term plan e!ectiveness. You might have goals or a theme you’re pursuing for the next year or 12 weeks or whatever timespan it is. The weekly review is not the time to decide if that’s a good goal for you or not. 
+==Don’t evaluate your long term plan effectiveness. You might have goals or a theme you’re pursuing for the next year or 12 weeks or whatever timespan it is. The weekly review is not the time to decide if that’s a good goal for you or not.== 
 
-Longer term goals take time to meet. As a result, the week is often an ine!ective timescale to view progress in. Say your goal is to lose 10 pounds. You might weigh yourself weekly (which is good to do). The first week you weigh 200lbs. Next week 199lbs. The week after that 203lbs. There are two approaches to evaluating these datapoints. 
+Longer term goals take time to meet. As a result, the week is often an ineffective timescale to view progress in. Say your goal is to lose 10 pounds. You might weigh yourself weekly (which is good to do). The first week you weigh 200lbs. Next week 199lbs. The week after that 203lbs. There are two approaches to evaluating these datapoints. 
 
-1. You take the measurements, see negative change, and get     discouraged. 
-
+1. You take the measurements, see negative change, and get discouraged. 
 2. You take the measurements, and move on. 
 
 Option one is what I like to call a short term evaluation of a long term goal. It takes time to lose weight. But when you evaluate your progress based upon the week to week results, it’s super easy to get discouraged and decide it’s not worth it to pursue that goal. 
@@ -69,13 +70,13 @@ Instead, progress is best measured in months or even years. In that respect, the
 
 ---
 
-The weekly review is also not the best place to do work. This is your time to plan, refocus yourself, and ensure the accuracy of your system – don’t pollute that time with doing work! 
+==The weekly review is also not the best place to do work. This is your time to plan, refocus yourself, and ensure the accuracy of your system – don’t pollute that time with doing work!== 
 
-Obviously this is a best e!ort suggestion as there are times you will need to do something in the middle of your review. But the truth is that your brain likely doesn’t handle planning and acting in the same mode of thinking very well. I know mine doesn’t. 
+==Obviously this is a best effort suggestion as there are times you will need to do something in the middle of your review. But the truth is that your brain likely doesn’t handle planning and acting in the same mode of thinking very well. I know mine doesn’t.== 
 
-When I start my weekly review, I need to make sure I’m out of any inboxes that could distract me unless I’m ready to process them. Why? Inboxes are the place where work shows up. If I’m drawn into a new shiny piece of information to deal with when I’ve decided to be reviewing, I’ve just broken my focus on the task at hand and it’s going to take me a while to get back on track. 
+==When I start my weekly review, I need to make sure I’m out of any inboxes that could distract me unless I’m ready to process them. Why? Inboxes are the place where work shows up. If I’m drawn into a new shiny piece of information to deal with when I’ve decided to be reviewing, I’ve just broken my focus on the task at hand and it’s going to take me a while to get back on track.== 
 
-When I’m able to to shut o! all the distractions and possibly change my environment by going to a co!ee shop or park to do the review, it enables me to enter the administrative mode of thinking I require to make my regular review work. 
+When I’m able to to shut out all the distractions and possibly change my environment by going to a coffee shop or park to do the review, it enables me to enter the administrative mode of thinking I require to make my regular review work. 
 
 ---
 
@@ -93,7 +94,7 @@ Monday’s might be an okay time to do a review for you, but I’m generally not
 
 ---
 
-Something else to consider for your review timing is habit chaining. There are many habits you can perform on a weekly basis, like cleaning your desk, reconciling your checkbook, or weeding the garden. If you’re already performing a review weekly, why not chain another habit to it? 
+==Something else to consider for your review timing is habit chaining. There are many habits you can perform on a weekly basis, like cleaning your desk, reconciling your checkbook, or weeding the garden. If you’re already performing a review weekly, why not chain another habit to it?== 
 
 Habit chaining is just like it sounds – when you normally complete one habit, add another to complete right after. If you struggle to get out and weed the garden, chaining it to the weekly review could be a good way to encourage yourself to do it consistently. 
 
@@ -101,17 +102,14 @@ Habit chaining is just like it sounds – when you normally complete one habit, 
 
 #### ― The Foundational Components of the Review ― 
 
-The weekly review can be a highly flexible routine checklist that can shift and shape to your individual needs, and even the needs of the season you’re in. There are a million di!erent tasks you can focus on during the review, but in this guide we’re going to focus on the foundational building blocks to get you started. 
+The weekly review can be a highly flexible routine checklist that can shift and shape to your individual needs, and even the needs of the season you’re in. There are a million different tasks you can focus on during the review, but in this guide we’re going to focus on the foundational building blocks to get you started. 
 
 There are four main areas to focus on building into your weekly review. 
 
-1. **Clear the Decks** - neutralizing inboxes, capturing, and     mindsweeping 
-
-2. **Process and Review Open Loops** - ensuring all projects &     resources are up to date 
-
-3. **Reflect on the Past Week** - try to learn from what happened     previously 
-
-4. **Prepare for the Next Week** - review and prepare for your     upcoming commitments, intentions, and habits 
+1. **Clear the Decks** - neutralizing inboxes, capturing, and [[The GTD Mindsweep|mindsweeping]] 
+2. **Process and Review Open Loops** - ensuring all projects & resources are up to date
+3. **Reflect on the Past Week** - try to learn from what happened previously
+4. **Prepare for the Next Week** - review and prepare for your upcoming commitments, intentions, and habits 
 
 We’ll spend some time deep diving into each area. 
 

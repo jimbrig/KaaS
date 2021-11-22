@@ -3129,11 +3129,6 @@
       "tags": 2,
       "links": 5
     },
-    "Highlights for The Ultimate Guide to an Effective Weekly Review.md": {
-      "size": 853,
-      "tags": 0,
-      "links": 14
-    },
     "Slipbox/Ultimate Guide to an E!ective Weekly Review.md": {
       "size": 0,
       "tags": 0,
@@ -3142,14 +3137,19 @@
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
       "tags": 0,
-      "links": 0
+      "links": 1
+    },
+    "Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md": {
+      "size": 853,
+      "tags": 0,
+      "links": 14
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 112,
+      "Refactor": 113,
       "Create": 623,
-      "Link": 1175,
+      "Link": 1176,
       "Expand": 74
     }
   },
@@ -3177,7 +3177,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 10,
+      "22": 12,
       "23": 0
     }
   },
@@ -3189,7 +3189,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 25
+      "Sun": 27
     }
   },
   "recentCommits": {
@@ -3301,6 +3301,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3350,8 +3351,7 @@
         "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Person-Template.md\"> Person-Template </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
@@ -3424,6 +3424,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
@@ -3473,8 +3474,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md\"> Gaming the Naming The ABC's of Organizing Your Evernote Notebooks </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

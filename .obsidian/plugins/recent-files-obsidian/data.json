@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Justin DiRose",
-      "path": "People/Justin DiRose.md"
+      "basename": "The Ultimate Guide to an Effective Weekly Review",
+      "path": "The Ultimate Guide to an Effective Weekly Review.md"
     },
     {
-      "basename": "Online Developer Tools",
-      "path": "Resources/Tools/Online Developer Tools.md"
+      "basename": "The Ultimate Guide to an Effective Weekly Review",
+      "path": "Slipbox/_assets/The Ultimate Guide to an Effective Weekly Review.pdf"
+    },
+    {
+      "basename": "Weekly Review Musings",
+      "path": "Slipbox/Weekly Review Musings.md"
+    },
+    {
+      "basename": "2021-11-21",
+      "path": "Daily-Notes/2021-11-21.md"
+    },
+    {
+      "basename": "_README",
+      "path": "Reference/_README.md"
     },
     {
       "basename": "_README",
       "path": "Reference/Guidance/_README.md"
     },
     {
-      "basename": "2021-11-21",
-      "path": "Daily-Notes/2021-11-21.md"
+      "basename": "Online Developer Tools",
+      "path": "Resources/Tools/Online Developer Tools.md"
+    },
+    {
+      "basename": "Justin DiRose",
+      "path": "People/Justin DiRose.md"
     },
     {
       "basename": "Personal Knowledge Management",
@@ -183,22 +199,6 @@
     {
       "basename": "How to Get and Remain Organized During Chaotic Times",
       "path": "Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md"
-    },
-    {
-      "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
-      "path": "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
-    },
-    {
-      "basename": "Persistent Config and Data for R Packages - R-Hub Blog",
-      "path": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
-    },
-    {
-      "basename": "Reproducible Research With R and RStudio",
-      "path": "Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
-    },
-    {
-      "basename": "How to Make Yourself Into a Learning Machine",
-      "path": "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md"
     }
   ],
   "omittedPaths": [],

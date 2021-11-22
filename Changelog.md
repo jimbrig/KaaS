@@ -1,4 +1,6 @@
-- 2021-11-21 at 22h11 · [[Justin DiRose]]
+- 2021-11-21 at 22h17 · [[The Ultimate Guide to an Effective Weekly Review]]
+- 2021-11-21 at 22h14 · [[Weekly Review Musings]]
+- 2021-11-21 at 22h12 · [[Justin DiRose]]
 - 2021-11-21 at 21h54 · [[Online Developer Tools]]
 - 2021-11-21 at 21h50 · [[_README]]
 - 2021-11-21 at 21h38 · [[2021-11-21]]
@@ -496,5 +498,3 @@
 - 2021-11-17 at 16h17 · [[WSL Initial Setup Notes]]
 - 2021-11-17 at 16h17 · [[Visual Studio Code]]
 - 2021-11-17 at 16h17 · [[System Design]]
-- 2021-11-17 at 16h17 · [[Stored Procedures - SQL Server]]
-- 2021-11-17 at 16h17 · [[SQLAlchemy ORM]]

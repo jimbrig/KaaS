@@ -30,13 +30,13 @@ Justin is an advocate of [[Productivity]] and [[Personal Knowledge Management]] 
 	- [Effective Remote Work Helpful tips, strategies, and ideas for living and working effectively as a remote worker. YouTube](https://www.youtube.com/channel/UCkzyo69rqBoBJUyQ9jo53Bw)
 
 - PodCast:
-	- [Process - The Journey to Productivity and Effectiveness The Journey to Productivity and Effectiveness Process - The Journey to Productivity and Effectiveness Justin DiRose (effectiveremotework.com)](https://podcast.effectiveremotework.com/)
+	- [Process - The Journey to Productivity and Effectiveness (effectiveremotework.com)](https://podcast.effectiveremotework.com/)
 
 - Courses:
 	- [Obsidian Made Simple Course — Keep Productive Learn Obsidian in one easy course. Obsidian is a powerful note-taking application, an alternative to Roam Research but with no big price tag. Obsidian is developed by the folks at Dynalist. Keep Productive Courses](https://www.keepproductive.com/obsidian-made-simple)
 
 - Gear:
-	- [Remote Work Setup (justindirose.com)](https://justindirose.com/remote-work-gear/)
+	- [Remote Work Setup](https://justindirose.com/remote-work-gear/)
 	- 
 
 ### Related Notes

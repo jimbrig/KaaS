@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Justin DiRose",
+      "path": "People/Justin DiRose.md"
+    },
+    {
       "basename": "2021-11-21",
       "path": "Daily-Notes/2021-11-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Builder’s Guide to Note-Taking",
       "path": "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
-    },
-    {
-      "basename": "Atomic Notes",
-      "path": "Slipbox/Atomic Notes.md"
     }
   ],
   "omittedPaths": [],

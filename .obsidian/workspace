@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOCs/Personal Knowledge Management.md",
-            "mode": "preview"
+            "file": "People/Justin DiRose.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Personal Knowledge Management.md"
+                "file": "People/Justin DiRose.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/Personal Knowledge Management.md",
+                "file": "People/Justin DiRose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Personal Knowledge Management.md",
+                "file": "People/Justin DiRose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Personal Knowledge Management.md",
+                "file": "People/Justin DiRose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,6 +203,8 @@
   },
   "active": "eef82bd548870a05",
   "lastOpenFiles": [
+    "People/Justin DiRose.md",
+    "Daily-Notes/2021-11-21.md",
     "MOCs/Personal Knowledge Management.md",
     "Slipbox/Zettelkasten.md",
     "README.md",
@@ -210,8 +212,6 @@
     "MOCs/R.md",
     "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md",
     "Slipbox/Azure Machine Learning.md",
-    "Slipbox/MLOps.md",
-    "Slipbox/Building a Second Brain.md",
-    "Slipbox/Digital Garden.md"
+    "Slipbox/MLOps.md"
   ]
 }

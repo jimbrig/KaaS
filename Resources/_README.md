@@ -7,8 +7,11 @@ Alias: Resources
 
 # Resources
 
-- [[Resources/Highlights/_README|Highlights]]
+- [[Resources/Clippings/_README|Clippings]]
 - [[Resources/Embeds/_README|Embeds]]
+- [[Resources/Highlights/_README|Highlights]]
+- [[Resources/Tools/_README|Tools]]
+
 
 ***
 

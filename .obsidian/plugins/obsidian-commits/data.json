@@ -177,7 +177,7 @@
     "Resources/Highlights/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 2
+      "links": 4
     },
     "MOCs/Actuarial Science.md": {
       "size": 4353,
@@ -3132,19 +3132,19 @@
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
       "tags": 0,
-      "links": 3
+      "links": 5
     },
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md": {
       "size": 11005,
-      "tags": 1,
-      "links": 1
+      "tags": 3,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 122,
       "Create": 628,
-      "Link": 1179,
+      "Link": 1183,
       "Expand": 75
     }
   },
@@ -3172,7 +3172,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 30,
+      "22": 34,
       "23": 0
     }
   },
@@ -3184,7 +3184,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 45
+      "Sun": 49
     }
   },
   "recentCommits": {
@@ -3349,6 +3349,7 @@
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
@@ -3398,8 +3399,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md\"> FW Managing Outcomes in a Remote Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3426,6 +3426,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3473,10 +3476,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md\"> Gaming the Naming The ABC's of Organizing Your Evernote Notebooks </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

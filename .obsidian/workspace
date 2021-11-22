@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Highlights/_README.md",
+            "file": "Resources/_README.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Highlights/_README.md"
+                "file": "Resources/_README.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Highlights/_README.md",
+                "file": "Resources/_README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Highlights/_README.md",
+                "file": "Resources/_README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Highlights/_README.md",
+                "file": "Resources/_README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,15 +203,15 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
-    "Resources/Highlights/_README.md",
     "Resources/_README.md",
+    "Resources/Clippings/_README.md",
+    "Resources/Tools/_README.md",
+    "Resources/Highlights/_README.md",
+    "Resources/Highlights/Readwise/_README.md",
+    "Resources/Highlights/Notes/_README.md",
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md",
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
     "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
-    "Resources/Highlights/Notes/Untitled.md",
-    "Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md",
-    "Daily-Notes/2021-11-21.md",
-    "Slipbox/Ultimate Guide to an E!ective Weekly Review.md",
-    "Slipbox/Weekly Review Musings.md"
+    "Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md"
   ]
 }

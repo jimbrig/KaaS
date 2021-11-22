@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Tools/Online Developer Tools.md",
+            "file": "People/Justin DiRose.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tools/Online Developer Tools.md"
+                "file": "People/Justin DiRose.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tools/Online Developer Tools.md",
+                "file": "People/Justin DiRose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tools/Online Developer Tools.md",
+                "file": "People/Justin DiRose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Tools/Online Developer Tools.md",
+                "file": "People/Justin DiRose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,9 +204,9 @@
   },
   "active": "eef82bd548870a05",
   "lastOpenFiles": [
+    "People/Justin DiRose.md",
     "Resources/Tools/Online Developer Tools.md",
     "Reference/Guidance/_README.md",
-    "People/Justin DiRose.md",
     "Daily-Notes/2021-11-21.md",
     "MOCs/Personal Knowledge Management.md",
     "Slipbox/Zettelkasten.md",

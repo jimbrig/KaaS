@@ -1,3 +1,4 @@
+- 2021-11-21 at 21h54 · [[Online Developer Tools]]
 - 2021-11-21 at 21h50 · [[_README]]
 - 2021-11-21 at 21h46 · [[Justin DiRose]]
 - 2021-11-21 at 21h38 · [[2021-11-21]]
@@ -497,4 +498,3 @@
 - 2021-11-17 at 16h17 · [[System Design]]
 - 2021-11-17 at 16h17 · [[Stored Procedures - SQL Server]]
 - 2021-11-17 at 16h17 · [[SQLAlchemy ORM]]
-- 2021-11-17 at 16h17 · [[SQL Server Management Studio]]

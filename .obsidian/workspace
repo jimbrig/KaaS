@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/Guidance/_README.md",
+            "file": "Resources/Tools/Online Developer Tools.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Guidance/_README.md"
+                "file": "Resources/Tools/Online Developer Tools.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Guidance/_README.md",
+                "file": "Resources/Tools/Online Developer Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Guidance/_README.md",
+                "file": "Resources/Tools/Online Developer Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/Guidance/_README.md",
+                "file": "Resources/Tools/Online Developer Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,6 +203,7 @@
   },
   "active": "eef82bd548870a05",
   "lastOpenFiles": [
+    "Resources/Tools/Online Developer Tools.md",
     "Reference/Guidance/_README.md",
     "People/Justin DiRose.md",
     "Daily-Notes/2021-11-21.md",
@@ -211,7 +212,6 @@
     "README.md",
     "MOCs/Actuarial Science.md",
     "MOCs/R.md",
-    "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md",
-    "Slipbox/Azure Machine Learning.md"
+    "Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md"
   ]
 }

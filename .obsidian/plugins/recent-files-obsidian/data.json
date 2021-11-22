@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Online Developer Tools",
+      "path": "Resources/Tools/Online Developer Tools.md"
+    },
+    {
       "basename": "_README",
       "path": "Reference/Guidance/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to Make Yourself Into a Learning Machine",
       "path": "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md"
-    },
-    {
-      "basename": "First Principles of Workflow Design (A 2-Part Episode)  RadReads",
-      "path": "Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md"
     }
   ],
   "omittedPaths": [],

@@ -3118,13 +3118,18 @@
       "size": 0,
       "tags": 1,
       "links": 4
+    },
+    "Resources/Tools/Online Developer Tools.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 109,
-      "Create": 618,
-      "Link": 1171,
+      "Create": 619,
+      "Link": 1172,
       "Expand": 74
     }
   },
@@ -3151,7 +3156,7 @@
       "18": 1262,
       "19": 44,
       "20": 4,
-      "21": 13,
+      "21": 15,
       "22": 0,
       "23": 0
     }
@@ -3164,7 +3169,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 13
+      "Sun": 15
     }
   },
   "recentCommits": {
@@ -3223,6 +3228,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
@@ -3272,8 +3278,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
@@ -3329,6 +3334,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
@@ -3378,8 +3384,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

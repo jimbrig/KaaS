@@ -1,9 +1,18 @@
 ---
-
+Date: 2021-11-21
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Highlight", "#Topic/Productivity", "#topic/Productivity/GTD"]
+Alias: "The Ultimate Guide to an Effective - Highlights"
 ---
 
-## The Ultimate Guide to an Effective - Highlights
 
+# The Ultimate Guide to an Effective - Highlights
+
+*These are my personal highlights extracted from the original source PDF/converted markdown file for the guide on weekly reiew's by [[Justin DiRose]]:*
+- [[The Ultimate Guide to an Effective Weekly Review]] 
+- [[The Ultimate Guide to an Effective Weekly Review.pdf]]
+
+***
 
 ==The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focused. It will help you get a clear head, see every commitment currently on your plate, and help you make decisions that ultimately lead you to be more intentional and focused over the upcoming week.==
 
@@ -110,15 +119,11 @@ In my week plan, I’m sure to include:
 
 ==What If I Don’t Have Time for a Full Review?==
 
-There will be times you do not have time to complete a full review. That’s okay. That’s life. Don’t feel pressured. 
-
 If you have any time at all to complete one, focus on the following areas: 
 
- Performing a mindsweep Processing inboxes and tasks Reviewing any major/due projects and commitments 
+ ==Performing a mindsweep Processing inboxes and tasks Reviewing any major/due projects and commitments== 
 
-The rest of the system can likely wait until you have time to conduct a full review. If you focus on these areas first, you’ll have 80% of your bases covered for things that could bite you if you miss them. 
-
-That sums up the **Ultimate Guide to an Effective Weekly Review**. Thanks so much for reading! 
+==The rest of the system can likely wait until you have time to conduct a full review. If you focus on these areas first, you’ll have 80% of your bases covered for things that could bite you if you miss them.== 
 
 TLDR; 
 

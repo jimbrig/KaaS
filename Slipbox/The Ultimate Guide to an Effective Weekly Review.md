@@ -4,6 +4,9 @@
 
 ## The Ultimate Guide to an Effective 
 
+*Source: [[The Ultimate Guide to an Effective Weekly Review.pdf]]*
+*Highlights:* [[The Ultimate Guide to an Effective - Highlights]]
+
 ## Weekly Review
 
 > Written by [[Justin DiRose]], 

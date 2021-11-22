@@ -3134,17 +3134,17 @@
       "tags": 0,
       "links": 3
     },
-    "Slipbox/Untitled.md": {
-      "size": 31853,
-      "tags": 0,
-      "links": 2
+    "Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md": {
+      "size": 11005,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 119,
+      "Refactor": 122,
       "Create": 628,
-      "Link": 1178,
+      "Link": 1179,
       "Expand": 75
     }
   },
@@ -3172,7 +3172,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 26,
+      "22": 30,
       "23": 0
     }
   },
@@ -3184,7 +3184,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 41
+      "Sun": 45
     }
   },
   "recentCommits": {
@@ -3296,6 +3296,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3345,10 +3346,10 @@
         "<a class=\"internal-link\" href=\"Templates/Weekly-Review-Template.md\"> Weekly-Review-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Agenda-Template.md\"> Agenda-Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>",
-        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Person-Template.md\"> Person-Template </a>"
+        "<a class=\"internal-link\" href=\"Templates/Work-Templates/Initiative-Template.md\"> Initiative-Template </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
@@ -3398,12 +3399,12 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"Templates/Work-Templates/Untitled.md\"> Untitled </a>",
@@ -3504,7 +3505,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ]
     }
   },

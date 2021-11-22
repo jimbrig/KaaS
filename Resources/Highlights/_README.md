@@ -7,7 +7,12 @@ Alias: Highlights
 
 # Highlights
 
-Collection of highlights and annotations primarily from the [[Readwise]] sync integration with [[Obsidian]].
+Collection of highlights and annotations from:
+- The [[Readwise]] sync integration with [[Obsidian]]
+- Manual Extracted Highlights from long-form notes in this vault
+- Extracted Highlights from PDFs
+
+The [Notes]
 
 Take a gander at my [[Readwise]] Highlights Broadcast Site: [📚 James's Highlights (readwise.io)](https://readwise.io/@james688)
 

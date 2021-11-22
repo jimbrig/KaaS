@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
-            "mode": "preview"
+            "file": "Slipbox/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
+                "file": "Slipbox/Untitled.md"
               }
             }
           },
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Slipbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Slipbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
+                "file": "Slipbox/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,6 +204,7 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
+    "Slipbox/Untitled.md",
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
     "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
     "Resources/Highlights/Notes/Untitled.md",
@@ -211,7 +213,6 @@
     "Slipbox/Ultimate Guide to an E!ective Weekly Review.md",
     "Slipbox/Weekly Review Musings.md",
     "Resources/Highlights/Readwise/Readwise Syncs.md",
-    "People/Justin DiRose.md",
-    "Changelog.md"
+    "People/Justin DiRose.md"
   ]
 }

@@ -1,3 +1,4 @@
+- 2021-11-21 at 22h47 · [[Untitled]]
 - 2021-11-21 at 22h41 · [[The Ultimate Guide to an Effective Weekly Review]]
 - 2021-11-21 at 22h14 · [[Weekly Review Musings]]
 - 2021-11-21 at 22h12 · [[Justin DiRose]]
@@ -497,4 +498,3 @@
 - 2021-11-17 at 16h17 · [[modern notebook environments]]
 - 2021-11-17 at 16h17 · [[WSL Initial Setup Notes]]
 - 2021-11-17 at 16h17 · [[Visual Studio Code]]
-- 2021-11-17 at 16h17 · [[System Design]]

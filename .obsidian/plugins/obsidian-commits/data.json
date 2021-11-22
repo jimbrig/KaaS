@@ -3133,14 +3133,19 @@
       "size": 33599,
       "tags": 0,
       "links": 3
+    },
+    "Slipbox/Untitled.md": {
+      "size": 31853,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 119,
-      "Create": 627,
-      "Link": 1177,
-      "Expand": 74
+      "Create": 628,
+      "Link": 1178,
+      "Expand": 75
     }
   },
   "dailyCommits": {
@@ -3167,7 +3172,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 23,
+      "22": 26,
       "23": 0
     }
   },
@@ -3179,12 +3184,13 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 38
+      "Sun": 41
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -3234,10 +3240,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md\"> The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse... </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
@@ -3287,8 +3293,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3420,6 +3425,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
@@ -3469,8 +3475,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md\"> Gaming the Naming The ABC's of Organizing Your Evernote Notebooks </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

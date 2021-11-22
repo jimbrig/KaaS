@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6086c630ee143c2e",
+        "id": "d82b366bc7d5d2df",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type/Slipbox",
+                "query": "Ultimate Guide Effective Weekly Review",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,17 +202,17 @@
     "direction": "horizontal",
     "width": 359
   },
-  "active": "6086c630ee143c2e",
+  "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md",
-    "Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md",
-    "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
-    "Slipbox/Ultimate Guide to an E!ective Weekly Review.md",
     "Slipbox/Weekly Review Musings.md",
-    "Daily-Notes/2021-11-21.md",
-    "Reference/_README.md",
-    "Reference/Guidance/_README.md",
-    "Resources/Tools/Online Developer Tools.md",
-    "People/Justin DiRose.md"
+    "Resources/Highlights/Readwise/Readwise Syncs.md",
+    "People/Justin DiRose.md",
+    "Changelog.md",
+    "Slipbox/Ultimate Guide to an E!ective Weekly Review.md",
+    "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf",
+    "Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md",
+    "Highlights for The Ultimate Guide to an Effective Weekly Review.md",
+    "Daily-Notes/2021-11-21.md"
   ]
 }

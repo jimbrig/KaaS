@@ -1,11 +1,11 @@
 {
   "headlineText": "Highlights for $NOTE_TITLE",
   "addFootnotes": true,
-  "useBoldForHighlights": true,
-  "createLinks": true,
-  "autoCapitalize": true,
+  "useBoldForHighlights": false,
+  "createLinks": false,
+  "autoCapitalize": false,
   "createNewFile": true,
   "explodeIntoNotes": false,
   "openExplodedNotes": false,
-  "createContextualQuotes": false
+  "createContextualQuotes": true
 }

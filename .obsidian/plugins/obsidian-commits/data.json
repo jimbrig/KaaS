@@ -3138,17 +3138,12 @@
       "size": 33599,
       "tags": 0,
       "links": 3
-    },
-    "Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md": {
-      "size": 853,
-      "tags": 0,
-      "links": 14
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 113,
-      "Create": 623,
+      "Refactor": 115,
+      "Create": 624,
       "Link": 1177,
       "Expand": 74
     }
@@ -3177,7 +3172,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 13,
+      "22": 16,
       "23": 0
     }
   },
@@ -3189,7 +3184,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 28
+      "Sun": 31
     }
   },
   "recentCommits": {
@@ -3248,6 +3243,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Ultimate Guide to an E!ective Weekly Review.md\"> Ultimate Guide to an E!ective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3297,8 +3293,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
@@ -3421,7 +3416,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/Azure_API-Design_Guide_eBook.pdf.md\"> Azure_API-Design_Guide_eBook.pdf </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python SQLAlchemy.md\"> Python SQLAlchemy </a>",
         "<a class=\"internal-link\" href=\"Reference/@barnett_best_nodate.md\"> @barnett_best_nodate </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",

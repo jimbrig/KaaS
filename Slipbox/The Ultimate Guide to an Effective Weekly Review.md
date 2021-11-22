@@ -300,7 +300,7 @@ Take a look at your someday/maybe list. Add any details for projects/ideas that 
 
 If you have any new items, add those as projects to your task manager. 
 
-**TIP : If you don’t have a direct action plan for that project quite yet, be sure to create a next action to "Plan project regarding..." 
+**TIP : If you don’t have a direct action plan for that project quite yet, be sure to create a next action to "Plan project regarding..."** 
 
 ##### Review Journal 
 
@@ -309,8 +309,6 @@ Not everyone keeps a journal, but if you do, now may be a good time to review yo
 Oh, and keep that journal handy because we’re now onto the next section of the review. 
 
 ##### 3. Reflect on the Past Week 
-
----
 
 The meat and potatoes of the review is done. We’ve captured everything we can and have ensured our system is now up to date. That’s great! Most people stop there. Over time, however, I’ve learned that simply reviewing my tools is not enough. I need to take time to think and reflect on how my week actually went. 
 
@@ -324,11 +322,7 @@ I’ve heard many say that the essential components to a productivity system are
 
 Those components are: 
 
- Commitments These are your hard landscape items where if you don’t do them, something breaks. They can be appointments or set commitments with yourself, such as publishing a blog post every Friday. Intentions Anything deemed important enough to focus on today/this week but isn’t going to break the world if it’s not done is an intention. Habits Habits are recurring actions at set intervals that help you move the needle forward in areas of your life or assist in 
-
----
-
- maintaining something, such as your health. 
+ Commitments These are your hard landscape items where if you don’t do them, something breaks. They can be appointments or set commitments with yourself, such as publishing a blog post every Friday. Intentions Anything deemed important enough to focus on today/this week but isn’t going to break the world if it’s not done is an intention. Habits Habits are recurring actions at set intervals that help you move the needle forward in areas of your life or assist in maintaining something, such as your health. 
 
 Having these components in mind, let’s look at the review questions. 
 
@@ -342,11 +336,11 @@ Where commitments require follow-through, intentions can allow for some flexibil
 
 ##### How did my habits go? 
 
-Review your habit tracker (you should have one if you are intent on having habits). Did you miss more than one day in a row? Do those habits line up with your broader aims in this season of life? Are there any triggers you need to change for habits, such as chaining them with a di!erent action? 
+Review your habit tracker (you should have one if you are intent on having habits). Did you miss more than one day in a row? Do those habits line up with your broader aims in this season of life? Are there any triggers you need to change for habits, such as chaining them with a different action? 
 
 ##### Did I focus on the Most Important Things? 
 
-Everyone has Most Important Things in their lives. Your most important things are di!erent than mine. And no, we’re not talking most important tasks. These are the highest level areas of investment. For me, that’s my 
+Everyone has Most Important Things in their lives. Your most important things are different than mine. And no, we’re not talking most important tasks. These are the highest level areas of investment. For me, that’s my 
 
 ---
 
@@ -356,7 +350,7 @@ If this is falling o! the rails, I need to reframe everything else to get back o
 
 ##### Is there anything I want to try next week? 
 
-We productivity enthusiasts are always looking for something new to try, right? A new cool app, perspective idea in OmniFocus, or a new notetaking style. Of course, you can’t upend your system all at once for something that’s not proven. However, you can give yourself a little wiggle room to experiment, especially if there’s something not working for you now. 
+We productivity enthusiasts are always looking for something new to try, right? A new cool app, perspective idea in OmniFocus, or a new notetaking style. Of course, you can’t upend your system all at once for something that’s not proven. However, you can give yourself a little wiggle room to experiment, especially if there's something not working for you now. 
 
 If you identify anything you’d like to change or try, experiment with it for a week, then report back here. 
 
@@ -365,8 +359,6 @@ These journaling questions can really help give you clarity on how you’re deve
 ##### 4. Prepare for the Next Week 
 
 By this point in the review process, there’s usually a level of clarity that comes about what’s the most important to focus on for the next week. Of course, as with any plan, there’s only so much you can do because the future is a great unknown. 
-
----
 
 What you can do, however, is prepare yourself for what you’d ideally like your week to look like. And, lucky you, the review process you just went through makes this a whole lot easier. 
 
@@ -390,7 +382,7 @@ From there, the only thing left is to set up the plan for your week.
 
 ---
 
-I make my week plans in Notion (and I’ve made a video you can find on YouTube about that). Mainly, I note the following items down for each week. Having manually put a plan together helps me to keep the items for that week top of mind. When stu! is top of mind, I stay all the more intentional in advancing them. 
+I make my week plans in Notion (and I’ve made a video you can find on YouTube about that). Mainly, I note the following items down for each week. Having manually put a plan together helps me to keep the items for that week top of mind. When stuff is top of mind, I stay all the more intentional in advancing them. 
 
 In my week plan, I’m sure to include: 
 
@@ -410,15 +402,9 @@ If you have any time at all to complete one, focus on the following areas:
 
 The rest of the system can likely wait until you have time to conduct a full review. If you focus on these areas first, you’ll have 80% of your bases covered for things that could bite you if you miss them. 
 
-That sums up the **Ultimate Guide to an E!ective Weekly Review**. Thanks so much for reading! 
+That sums up the **Ultimate Guide to an Effective Weekly Review**. Thanks so much for reading! 
 
 TLDR; 
 
- The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, 
-
----
-
- and journal 
-
-Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits 
+ ==The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, and journal. Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits== 
 

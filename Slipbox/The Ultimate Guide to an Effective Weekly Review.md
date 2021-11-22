@@ -4,7 +4,7 @@
 
 ## The Ultimate Guide to an Effective 
 
-## Weekly Review 
+## Weekly Review
 
 > Written by [[Justin DiRose]], 
 > Brought to you by Effective Remote Work 

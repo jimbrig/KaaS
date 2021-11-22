@@ -1,6 +1,6 @@
 {
   "headlineText": "Highlights for $NOTE_TITLE",
-  "addFootnotes": true,
+  "addFootnotes": false,
   "useBoldForHighlights": false,
   "createLinks": false,
   "autoCapitalize": false,

@@ -5,6 +5,14 @@
       "path": "Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
     },
     {
+      "basename": "The Ultimate Guide to an Effective Weekly Review",
+      "path": "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf"
+    },
+    {
+      "basename": "2021-11-21",
+      "path": "Daily-Notes/2021-11-21.md"
+    },
+    {
       "basename": "Weekly Review Musings",
       "path": "Slipbox/Weekly Review Musings.md"
     },
@@ -19,18 +27,6 @@
     {
       "basename": "Changelog",
       "path": "Changelog.md"
-    },
-    {
-      "basename": "Ultimate Guide to an E!ective Weekly Review",
-      "path": "Slipbox/Ultimate Guide to an E!ective Weekly Review.md"
-    },
-    {
-      "basename": "The Ultimate Guide to an Effective Weekly Review",
-      "path": "Reference/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf"
-    },
-    {
-      "basename": "2021-11-21",
-      "path": "Daily-Notes/2021-11-21.md"
     },
     {
       "basename": "_README",

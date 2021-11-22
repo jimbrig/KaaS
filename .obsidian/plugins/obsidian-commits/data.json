@@ -3137,7 +3137,7 @@
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
       "tags": 0,
-      "links": 1
+      "links": 3
     },
     "Resources/Highlights/Notes/Highlights for The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 853,
@@ -3149,7 +3149,7 @@
     "/": {
       "Refactor": 113,
       "Create": 623,
-      "Link": 1176,
+      "Link": 1177,
       "Expand": 74
     }
   },
@@ -3177,7 +3177,7 @@
       "19": 44,
       "20": 4,
       "21": 15,
-      "22": 12,
+      "22": 13,
       "23": 0
     }
   },
@@ -3189,7 +3189,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 27
+      "Sun": 28
     }
   },
   "recentCommits": {
@@ -3425,6 +3425,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Highlights for The Ultimate Guide to an Effective Weekly Review.md\"> Highlights for The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
@@ -3473,8 +3474,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Gaming the Naming The ABC's of Organizing Your Evernote Notebooks.md\"> Gaming the Naming The ABC's of Organizing Your Evernote Notebooks </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The 25+ Best Productivity Apps in 2020.md\"> The 25+ Best Productivity Apps in 2020 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Digital Productivity Pyramid - Forte Labs.md\"> The Digital Productivity Pyramid - Forte Labs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

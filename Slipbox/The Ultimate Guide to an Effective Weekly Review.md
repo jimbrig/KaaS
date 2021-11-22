@@ -106,100 +106,89 @@ The weekly review can be a highly flexible routine checklist that can shift and 
 
 There are four main areas to focus on building into your weekly review. 
 
-1. **Clear the Decks** - neutralizing inboxes, capturing, and [[The GTD Mindsweep|mindsweeping]] 
-2. **Process and Review Open Loops** - ensuring all projects & resources are up to date
-3. **Reflect on the Past Week** - try to learn from what happened previously
-4. **Prepare for the Next Week** - review and prepare for your upcoming commitments, intentions, and habits 
+1. ==**Clear the Decks** - neutralizing inboxes, capturing, and [[The GTD Mindsweep|mindsweeping]]== 
+2. ==**Process and Review Open Loops** - ensuring all projects & resources are up to date==
+3. ==**Reflect on the Past Week** - try to learn from what happened previously==
+4. ==**Prepare for the Next Week** - review and prepare for your upcoming commitments, intentions, and habits== 
 
 We’ll spend some time deep diving into each area. 
 
 ##### 1. Clear the Decks 
 
-The very first thing to do when starting your weekly review is clear out your mind, inboxes, and physical space. When you clear it all out, organize it in one place, and mentally prepare to process and review, the whole process gets easier. 
+==The very first thing to do when starting your weekly review is clear out your mind, inboxes, and physical space. When you clear it all out, organize it in one place, and mentally prepare to process and review, the whole process gets easier.== 
 
 ##### Get Ready 
 
----
+Ages ago, I heard Merlin Mann talk about "doing it for two minutes". 
 
-Ages ago, I heard Merlin Mann talk about “doing it for two minutes”. 
+==This is the whole idea that your brain takes time to warm up and engage with the task on which you’re working. So, when you’re first starting, overcome the resistance to the task by simply doing it for two minutes. Once you get going, momentum kicks in and it’ll be easier to continue going.== 
 
-This is the whole idea that your brain takes time to warm up and engage with the task on which you’re working. So, when you’re first starting, overcome the resistance to the task by simply doing it for two minutes. Once you get going, momentum kicks in and it’ll be easier to continue going. 
+==Clearing the decks starts with getting ready like this, but it’s also important to keep the momentum. Protect the momentum, if you will. The last thing you want to be doing in a review of this sort is to get distracted. The review process is one of deep work, where you’re focusing intently on one thing for a longer period of time. This allows your brain to understand all the contexts and connections between projects, tasks, commitments, intentions, and the like while you’re working through the review. Staying focused will help you make better decisions about how to handle items in your system and what you’re committing to for the next week.== 
 
-Clearing the decks starts with getting ready like this, but it’s also important to keep the momentum. Protect the momentum, if you will. The last thing you want to be doing in a review of this sort is to get distracted. The review process is one of deep work, where you’re focusing intently on one thing for a longer period of time. This allows your brain to understand all the contexts and connections between projects, tasks, commitments, intentions, and the like while you’re working through the review. Staying focused will help you make better decisions about how to handle items in your system and what you’re committing to for the next week. 
+==When clearing the decks, get ready to dive in deep. Close out chat, set your phone to do not disturb, and go somewhere where you’re not going to get interrupted. If you work at home, maybe go to a coffee shop. If you can’t get out to a coffee shop, put on some noise canceling headphones. The key is minimize as many distractions as you can.== 
 
-When clearing the decks, get ready to dive in deep. Close out chat, set your phone to do not disturb, and go somewhere where you’re not going to get interrupted. If you work at home, maybe go to a co!ee shop. If you can’t get out to a co!ee shop, put on some noise cancelling headphones. The key is minimize as many distractions as you can. 
+I personally like to go to a coffee shop, put on my Bose QC35s, listen to some ambient music on repeat, and get going on my task list. If I have to stay at home, I have a separate desk where I’ll set up my laptop, turn on the music, and start digging in. 
 
-I personally like to go to a co!ee shop, put on my Bose QC35s, listen to some ambient music on repeat, and get going on my task list. If I have to stay at home, I have a separate desk where I’ll set up my laptop, turn on the music, and start digging in. 
+##### Mindsweep
 
-##### Mindsweep 
+*See Also: [[The GTD Mindsweep]]*
 
----
-
-One of the quickest ways to get clear of the items causing you stress in your head is a mindsweep, also a!ectionately known as a brain dump. Getting these “open loops” out of your head and onto a piece of paper or text file puts them in a place where you can properly review and process them later. 
+==One of the quickest ways to get clear of the items causing you stress in your head is a mindsweep, also known as a *brain dump*. Getting these "open loops" out of your head and onto a piece of paper or text file puts them in a place where you can properly review and process them later.== 
 
 Traditionally, most people see a mindsweep as capturing tasks, projects, ideas, and commitments that are stuck in your head. That’s the normal definition of an open loop. 
 
 I like to take things a bit further by taking Chris Bailey’s idea of scatterfocus from the book _Hyperfocus_ and using that as a mindsweep. Essentially, I sit down, let my mind start to unwind, then write down anything that comes up. This can be a task, project, or other traditional open loop idea, but it can also be a fear, a dream I had last night, an emotion I’m feeling in the moment, or _literally anything else_ that comes to mind. I’ll do this for 10–15 minutes until nothing else is coming up. 
 
-What additional advantages does capturing all these ancillary, nonactionable items give you? Well, for one, it gives an outlet to write down and process the items that are on your mind, whether or not they are tasks. Sometimes we carry an emotional or mental weight with us that we don’t realize because we’ve neglected taking time to process because we want to be “productive”. In weeks where I’ve been truly busy with a schedule full to the brim, I’ve seen many a negative emotion come up where I realized it was causing me undue stress. The mere fact of writing it down often brings a release which helps me stay more focused and intentional going forward. 
+What additional advantages does capturing all these ancillary, non-actionable items give you? Well, for one, it gives an outlet to write down and process the items that are on your mind, whether or not they are tasks. Sometimes we carry an emotional or mental weight with us that we don’t realize because we’ve neglected taking time to process because we want to be "productive”. In weeks where I’ve been truly busy with a schedule full to the brim, I’ve seen many a negative emotion come up where I realized it was causing me undue stress. The mere fact of writing it down often brings a release which helps me stay more focused and intentional going forward. 
 
-Additionally, these extra items can spawn action items you wouldn’t necessarily think of o!hand. For example, say you wrote down _I feel stressed about work today_. When you start processing that, you can ask yourself why you feel that way. Maybe you’ve been tasked with managing 
-
----
-
-a new team, and this ultimately results in an action item where you can chat with your boss about restructuring your responsibilities to better fit the new one added to your plate. 
+Additionally, these extra items can spawn action items you wouldn’t necessarily think of o!hand. For example, say you wrote down _I feel stressed about work today_. When you start processing that, you can ask yourself why you feel that way. Maybe you’ve been tasked with managing a new team, and this ultimately results in an action item where you can chat with your boss about restructuring your responsibilities to better fit the new one added to your plate. 
 
 One thing to keep in mind when performing a mindsweep is try to avoid processing, organizing, or filing items you capture while you capture them. Let your mind unwind by freely writing out what you’re thinking in the moment and evaluate it later. 
 
 There are many ways to perform a mindsweep, from writing in a text file to making an outline on paper Bullet Journal-style. However you approach it, I recommend avoiding doing this directly in your task manager’s inbox. Not everything you will write down is a task, and limiting yourself to your task management inbox may subtly impose restrictions on your brain about what can/can’t be added there, and may cause you to miss capturing other important items. 
 
-##### Process All Inboxes 
+##### ==Process All Inboxes== 
 
-Once you’ve completed the initial mindsweep, set that aside as we’ll process it later. From there, go through each and every major inbox you have where “things to do” accumulate, and start capturing any relevant tasks that may be lingering there. You can write this on your mindsweep list or capture it into your task manager, whichever works best for you. 
+Once you’ve completed the initial mindsweep, set that aside as we’ll process it later. From there, go through each and every major inbox you have where "things to do" accumulate, and start capturing any relevant tasks that may be lingering there. You can write this on your mindsweep list or capture it into your task manager, whichever works best for you. 
 
 Common inboxes include email, chat, text messages, social media accounts, forums, task management inbox, and a note software inbox. 
 
-Do keep in mind that when you’re clearing these inboxes you’re not going to do any extensive work. _Getting Things Done_ recommends to complete any task that takes two minutes or less. That’s a fine recommendation, but more broadly put – try to touch an item only once. If you’re not going to or cannot complete the task, then capture it for processing later. 
+Do keep in mind that when you’re clearing these inboxes you’re not going to do any extensive work. _[[Getting Things Done]]_ recommends to complete any task that takes two minutes or less. That’s a fine recommendation, but more broadly put – try to touch an item only once. If you’re not going to or cannot complete the task, then capture it for processing later. 
 
 ---
 
-When you’re processing email or other conversation you need to respond to, there are a few tricks you can use to make this process easier and generating fewer tasks. Most recommendations would say to clip an email to your task manager if you need to do something with it. I’m not a fan of that approach because it often creates unnecessary noise. Instead, evaluate what action needs to take place, then capture that specific action or set of actions. In other words, don’t capture “respond to email from Sam”; capture “research Arch Linux for Sam’s newsletter”. That’s much clearer and more actionable. 
+When you’re processing email or other conversation you need to respond to, there are a few tricks you can use to make this process easier and generating fewer tasks. Most recommendations would say to clip an email to your task manager if you need to do something with it. I’m not a fan of that approach because it often creates unnecessary noise. Instead, evaluate what action needs to take place, then capture that specific action or set of actions. In other words, don’t capture "respond to email from Sam”; capture "research Arch Linux for Sam’s newsletter”. That’s much clearer and more actionable. 
 
 Don’t forget to use the strengths of the tools at hand, too. Again looking at email, if you have access to snooze or archiving features, use them! I’m a huge fan of the two folder system for email: inbox and archive. Anything in the inbox needs handling yet, and anything in the archive is done or is waiting for a response. This does two things: 
 
-1. It keeps my inbox free from emails that are not currently     something I need to pay attention toward 
-
-2. Anything in the inbox then becomes something I need yet to     handle. 
+1. It keeps my inbox free from emails that are not currently something I need to pay attention toward
+2. Anything in the inbox then becomes something I need yet to handle. 
 
 With this clear but simple handling of email, I can more easily process my inbox and capture tasks at review time without having to slog through 17,000 newsletters that I may or may not have read at some point. 
 
-Oh and don’t be afraid to judiciously delete. 
+Oh and ==don’t be afraid to judiciously delete. ==
 
 ##### 2. Process and Review Open Loops 
 
-Here comes the section where I was tripped up for years as to what it meant: processing and reviewing. 
+Here comes the section where I was tripped up for years as to what it meant: processing and reviewing.
 
----
+When people talk about reviews, they say things like "I review my project list and calendar,” but rarely do they ever get into what that looks like. Let’s chat about that for a bit. 
 
-When people talk about reviews, they say things like “I review my project list and calendar,” but rarely do they ever get into what that looks like. Let’s chat about that for a bit. 
+##### ==What Does Process Mean?== 
 
-##### What Does Process Mean? 
-
-Processing means taking a thing you’ve captured, clarifying what it means, restarting the words if it’s not clear enough, and placing it in the appropriate location in your system. 
+==Processing means taking a thing you’ve captured, clarifying what it means, restarting the words if it’s not clear enough, and placing it in the appropriate location in your system.== 
 
 This will work best to show examples. 
 
 **Example 1: a link to a video on cats** 
 
- Clarify: this is a link to a video about cats I captured this week because I wanted to watch it later. Restate: because that’s not clear, I need to make this a task – “watch video about cats” File: Put this in the appropriate place in my task manager because I’m committed to watching it. 
+ Clarify: this is a link to a video about cats I captured this week because I wanted to watch it later. Restate: because that’s not clear, I need to make this a task – "watch video about cats” File: Put this in the appropriate place in my task manager because I’m committed to watching it. 
 
 This was clearly an action item with one step (watch the video), so I made sure the task started with an action verb (watch) so that future me knows what to do with it more readily. 
 
 **Example 2: fix the car battery** 
 
- Clarify: This is pretty clear as to the outcome to achieve but the path to get there is not. This is a project because it will take more than one action, so I need to define a next action for it. Restate: add a sub-task to “research causes of a dead battery” File: since this is now a project, I need to put it in the appropriate place such as the “Personal” folder in my task manager. 
-
----
+ Clarify: This is pretty clear as to the outcome to achieve but the path to get there is not. This is a project because it will take more than one action, so I need to define a next action for it. Restate: add a sub-task to "research causes of a dead battery” File: since this is now a project, I need to put it in the appropriate place such as the "Personal” folder in my task manager. 
 
 **Example 3: car battery can die from a parasitic drain (with link to an article)** 
 
@@ -221,8 +210,6 @@ Let’s look at each.
 
 **Is this up to date?** 
 
----
-
 Most often you are going to have parts of your system that are not reflecting your current reality. This can be canceled meetings, tasks needing to be checked o!, tags to be added to current tasks, missing next actions on projects, etc. 
 
 With every thing you review in your system, the main goal is to ensure it is correctly representing what’s going on now. 
@@ -233,15 +220,13 @@ Two outcomes result from asking this question – new actions to take, and dropp
 
 When reviewing your calendar, for example, look back on the last week and the upcoming 3–6 weeks. You’re looking for anything you need to do now resulting from previous meetings or to prepare for upcoming ones. Capture those actions. 
 
-The review is also the hard spot where you need to ask yourself, “am I truly committed to getting that project done or attending that meeting?” It’s not always easy to drop a project or cancel a meeting but not everything needs to be there. You only have a finite amount of time, attention, and energy, and it’s your responsibility to make sure you use it well. Kill those projects that will never get done. 
+The review is also the hard spot where you need to ask yourself, "am I truly committed to getting that project done or attending that meeting?” It’s not always easy to drop a project or cancel a meeting but not everything needs to be there. You only have a finite amount of time, attention, and energy, and it’s your responsibility to make sure you use it well. Kill those projects that will never get done. 
 
 **Is this in the right place?** 
 
-The easy part of this question is to answer if a task, project, oror note is actually in the right place in your system. If not, move it! 
+The easy part of this question is to answer if a task, project, or note is actually in the right place in your system. If not, move it! 
 
 Where this gets more complex is when something needs to change status. Sometimes tasks can become reference files, or projects need to go to a someday list. How do you choose what goes where? 
-
----
 
 I like to think of it this way: 
 
@@ -253,41 +238,37 @@ If all of a sudden I’m not going to do something, I’ll either drop the proje
 
 With all of these items now defined, let’s process and review. 
 
-##### Review a Trigger List 
+##### ==Review a Trigger List== 
 
-The first thing I like to do before doing _any_ reviewing is go through a typical GTD-style trigger list. A trigger list is a group of items, both personal and professional, that’s designed to surface anything that needs to be handled. 
+==The first thing I like to do before doing _any_ reviewing is go through a typical GTD-style trigger list. A trigger list is a group of items, both personal and professional, that’s designed to surface anything that needs to be handled.== 
 
-You can see a great example here: GTD Trigger List 
+You can see a great example here: [GTD Trigger List]() 
 
 Slowly read through the list and add any items that come to mind to your capture list for the review. 
 
-##### Process Captured Items/Mindsweep 
+##### ==Process Captured Items/Mindsweep== 
 
-From there, it’s time to capture. It’s okay if you don’t think you have it all quite out yet; more open loops will likely surface as soon as you start moving through the review process, especially looking at your project lists. 
-
----
+==From there, it’s time to capture. It’s okay if you don’t think you have it all quite out yet; more open loops will likely surface as soon as you start moving through the review process, especially looking at your project lists.== 
 
 Use the definitions we looked at above to help you process through your capture list to clarify, restate, and file the items on your list. 
 
-Keep in mind when filing that if you’re not _for sure_ committed to a task or project in the next six months it should live somewhere else, like a someday/maybe list. Storing projects and actions you’re not committed to in your task manager is a sure-fire way to have an overwhelmed response to an untrusted system that you then you won’t use until you clean it up. 
+Keep in mind when filing that if you’re not _for sure_ committed to a task or project in the next six months it should live somewhere else, like a someday/maybe list. Storing projects and actions you’re not committed to in your task manager is a sure-fire way to have an overwhelmed response to an un-trusted system that you then you won’t use until you clean it up. 
 
 Don’t rush this part of the process, either. If you try to quickly file everything you can without thinking about each item critically (even for a moment), you’ll only make work for yourself later. 
 
 **Be diligent now because it will save you future frustration!** 
 
-##### Review Projects List 
+##### ==Review Projects List== 
 
 Once you’ve processed your captured items, now it’s time to dig into the deeper review. I like to start with my projects list. 
 
 When I review my projects list, I’ll spend time looking over each project, and, using the review questions from before, make sure each project is as accurate as I can make it. 
 
-If you have projects that have no next actions but are not complete, make a next action, even if it’s “Figure out the next steps on project x”. 
+If you have projects that have no next actions but are not complete, make a next action, even if it’s "Figure out the next steps on project x”. 
 
 Sometimes this results in adding more tasks. 
 
 Sometimes I clarify the end goal. 
-
----
 
 Sometimes I realize I’m never going to realistically do this thing so I decide to drop it. 
 
@@ -309,8 +290,6 @@ If you don’t take notes, even simple ones, it’s important to start!
 
 ##### Review Any Special Views/Perspectives 
 
----
-
 If your task manager allows for custom views or perspectives, take a look at your most common ones you use. Ensure all the items on that list are accurate. If any are missing, add them, or, conversely, get rid of items that are no longer relevant. 
 
 ##### Review Incubation/Someday List 
@@ -321,13 +300,7 @@ Take a look at your someday/maybe list. Add any details for projects/ideas that 
 
 If you have any new items, add those as projects to your task manager. 
 
- ! 
-
-###### TIP : If you don’t have a direct action plan for that project 
-
-###### quite yet, be sure to create a next action to “Plan project 
-
-###### regarding...” 
+**TIP : If you don’t have a direct action plan for that project quite yet, be sure to create a next action to "Plan project regarding..." 
 
 ##### Review Journal 
 
@@ -407,7 +380,7 @@ Ideally these would be in your task manager already, but if not, add them now.
 
 J.D. Meier’s book _Getting Results the Agile Way_ shares a great concept that’s stuck with me over a number of years now: the rule of three. 
 
-The idea is to pick three main focuses for the week you intend to accomplish. These can be tasks and projects, but they can also be simple reminders, such as “Enjoy your lunch Thursday because it’s a busy day”. The number three is ideal because it’s easiest to manage and remember three things. 
+The idea is to pick three main focuses for the week you intend to accomplish. These can be tasks and projects, but they can also be simple reminders, such as "Enjoy your lunch Thursday because it’s a busy day”. The number three is ideal because it’s easiest to manage and remember three things. 
 
 A great way to frame your week is to pick three intentions, including projects you want to advance, tasks to complete, or anything else that will help you have the best week you possibly can. 
 

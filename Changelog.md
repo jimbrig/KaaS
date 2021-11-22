@@ -1,4 +1,4 @@
-- 2021-11-21 at 22h27 · [[The Ultimate Guide to an Effective Weekly Review]]
+- 2021-11-21 at 22h32 · [[The Ultimate Guide to an Effective Weekly Review]]
 - 2021-11-21 at 22h20 · [[Ultimate Guide to an E!ective Weekly Review]]
 - 2021-11-21 at 22h20 · [[Highlights for The Ultimate Guide to an Effective Weekly Review]]
 - 2021-11-21 at 22h14 · [[Weekly Review Musings]]

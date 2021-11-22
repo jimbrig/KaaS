@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/About.md",
+            "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
             "mode": "preview"
           }
         }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/About.md"
+                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
               }
             }
           },
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/About.md",
+                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,25 +122,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/About.md",
+                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "52ba14792bc13335",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8fb02e84aaad68ba",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
             }
           },
           {
@@ -153,12 +137,27 @@
             }
           },
           {
+            "id": "8fb02e84aaad68ba",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "52ba14792bc13335",
+        "type": "tabs",
+        "children": [
+          {
             "id": "8222353ba07bec2b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meta/About.md",
+                "file": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,15 +194,15 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
+    "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
+    "Slipbox/Cloud Computing.md",
+    "Slipbox/Database Connection Pooling.md",
     "Meta/About.md",
     "Slipbox/Weekly Review Musings.md",
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
     "Resources/_README.md",
     "Resources/Clippings/_README.md",
     "Resources/Tools/_README.md",
-    "Resources/Highlights/_README.md",
-    "Resources/Highlights/Readwise/_README.md",
-    "Resources/Highlights/Notes/_README.md",
-    "Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
+    "Resources/Highlights/_README.md"
   ]
 }

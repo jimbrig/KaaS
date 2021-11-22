@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
+    },
+    {
+      "basename": "Cloud Computing",
+      "path": "Slipbox/Cloud Computing.md"
+    },
+    {
+      "basename": "Database Connection Pooling",
+      "path": "Slipbox/Database Connection Pooling.md"
+    },
+    {
       "basename": "About",
       "path": "Meta/About.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Person-Template",
       "path": "Templates/Personal-Templates/Person-Template.md"
-    },
-    {
-      "basename": "zsh",
-      "path": "Slipbox/zsh.md"
-    },
-    {
-      "basename": "Ruby",
-      "path": "Slipbox/Ruby.md"
-    },
-    {
-      "basename": "Nerdfont",
-      "path": "Slipbox/Nerdfont.md"
     }
   ],
   "omittedPaths": [],

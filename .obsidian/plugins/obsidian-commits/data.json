@@ -3125,9 +3125,9 @@
       "links": 0
     },
     "Slipbox/Weekly Review Musings.md": {
-      "size": 442,
+      "size": 2115,
       "tags": 2,
-      "links": 5
+      "links": 6
     },
     "Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
@@ -3164,8 +3164,8 @@
     "/": {
       "Refactor": 124,
       "Create": 632,
-      "Link": 1188,
-      "Expand": 75
+      "Link": 1189,
+      "Expand": 76
     }
   },
   "dailyCommits": {
@@ -3193,7 +3193,7 @@
       "20": 4,
       "21": 15,
       "22": 44,
-      "23": 1
+      "23": 3
     }
   },
   "weeklyCommits": {
@@ -3204,12 +3204,13 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 60
+      "Sun": 62
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
@@ -3259,8 +3260,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/API Architecture - Performance Best Practices.md\"> API Architecture - Performance Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Resources/Clippings/_README.md\"> _README </a>",
@@ -3446,6 +3446,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/_README.md\"> _README </a>",
@@ -3495,8 +3496,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "Reference/Guidance/_README.md"
+    },
+    {
       "basename": "Justin DiRose",
       "path": "People/Justin DiRose.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "First Principles of Workflow Design (A 2-Part Episode)  RadReads",
       "path": "Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md"
-    },
-    {
-      "basename": "A Builder’s Guide to Note-Taking",
-      "path": "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
     }
   ],
   "omittedPaths": [],

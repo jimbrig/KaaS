@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 492
+      "links": 491
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3113,13 +3113,18 @@
       "size": 0,
       "tags": 1,
       "links": 5
+    },
+    "Reference/Guidance/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 108,
-      "Create": 617,
-      "Link": 1169,
+      "Refactor": 109,
+      "Create": 618,
+      "Link": 1171,
       "Expand": 74
     }
   },
@@ -3146,7 +3151,7 @@
       "18": 1262,
       "19": 44,
       "20": 4,
-      "21": 9,
+      "21": 13,
       "22": 0,
       "23": 0
     }
@@ -3159,7 +3164,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 9
+      "Sun": 13
     }
   },
   "recentCommits": {
@@ -3218,6 +3223,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Terminal and Shell Setup Guide.md\"> WSL Terminal and Shell Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Reference/Guidance/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/MLOps.md\"> MLOps </a>",
@@ -3267,8 +3273,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
@@ -3324,6 +3329,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Slipbox/PARA Method.md\"> PARA Method </a>",
@@ -3373,8 +3379,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Organize.md\"> Getting Things Done Organize </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3394,6 +3399,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Reference/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
@@ -3443,8 +3449,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md\"> PARA Part 8 Core Principles of Digital Organization - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md\"> PARA Part 8 Core Principles of Digital Organization - Forte Labs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3472,7 +3477,8 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
         "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

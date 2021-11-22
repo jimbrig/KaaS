@@ -3112,14 +3112,14 @@
     "People/Justin DiRose.md": {
       "size": 0,
       "tags": 1,
-      "links": 4
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 108,
       "Create": 617,
-      "Link": 1168,
+      "Link": 1169,
       "Expand": 74
     }
   },
@@ -3146,7 +3146,7 @@
       "18": 1262,
       "19": 44,
       "20": 4,
-      "21": 8,
+      "21": 9,
       "22": 0,
       "23": 0
     }
@@ -3159,7 +3159,7 @@
       "Thu": 0,
       "Fri": 269,
       "Sat": 0,
-      "Sun": 8
+      "Sun": 9
     }
   },
   "recentCommits": {
@@ -3394,6 +3394,7 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -3443,8 +3444,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs.md\"> Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote for Your Creative Workflow - Forte Labs.md\"> How to Use Evernote for Your Creative Workflow - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 8 Core Principles of Digital Organization - Forte Labs.md\"> PARA Part 8 Core Principles of Digital Organization - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs.md\"> The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Developer GTD.md\"> Developer GTD </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

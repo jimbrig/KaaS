@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-23",
+      "path": "Daily-Notes/2021-11-23.md"
+    },
+    {
       "basename": "Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time",
       "path": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Niklas Luhmann",
       "path": "People/Niklas Luhmann.md"
-    },
-    {
-      "basename": "Obsidian-Clipper",
-      "path": "Resources/Clippings/Obsidian-Clipper.md"
     }
   ],
   "omittedPaths": [],

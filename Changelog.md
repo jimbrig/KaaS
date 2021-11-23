@@ -1,3 +1,4 @@
+- 2021-11-23 at 01h23 · [[2021-11-23]]
 - 2021-11-21 at 23h00 · [[Weekly Review Musings]]
 - 2021-11-21 at 23h00 · [[The Ultimate Guide to an Effective Weekly Review]]
 - 2021-11-21 at 22h57 · [[_README]]
@@ -497,4 +498,3 @@
 - 2021-11-17 at 17h27 · [[Meta-Template]]
 - 2021-11-17 at 17h27 · [[Slipbox-Default-Template]]
 - 2021-11-17 at 17h23 · [[Alteryx]]
-- 2021-11-17 at 17h23 · [[Alteryx vs Code]]

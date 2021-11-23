@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+            "file": "Daily-Notes/2021-11-23.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md"
+                "file": "Daily-Notes/2021-11-23.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+                "file": "Daily-Notes/2021-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+                "file": "Daily-Notes/2021-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +143,14 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "7b37d2b704c9b6da",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -157,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
+                "file": "Daily-Notes/2021-11-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,6 +202,7 @@
   },
   "active": "d82b366bc7d5d2df",
   "lastOpenFiles": [
+    "Daily-Notes/2021-11-23.md",
     "Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md",
     "MOCs/Development.md",
     "Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md",
@@ -202,7 +211,6 @@
     "Meta/About.md",
     "Slipbox/Weekly Review Musings.md",
     "Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md",
-    "Resources/_README.md",
-    "Resources/Clippings/_README.md"
+    "Resources/_README.md"
   ]
 }

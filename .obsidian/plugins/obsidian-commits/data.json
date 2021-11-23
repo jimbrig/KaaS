@@ -220,7 +220,7 @@
       "links": 5
     },
     "Slipbox/Actuarial Development Master Resource List.md": {
-      "size": 22997,
+      "size": 30488,
       "tags": 1,
       "links": 8
     },
@@ -3170,7 +3170,7 @@
       "Refactor": 124,
       "Create": 633,
       "Link": 1192,
-      "Expand": 77
+      "Expand": 78
     }
   },
   "dailyCommits": {
@@ -3190,7 +3190,7 @@
       "12": 149,
       "13": 34,
       "14": 8,
-      "15": 141,
+      "15": 142,
       "16": 56,
       "17": 126,
       "18": 1262,
@@ -3204,7 +3204,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 151,
+      "Tue": 152,
       "Wed": 1369,
       "Thu": 0,
       "Fri": 269,
@@ -3215,6 +3215,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
@@ -3264,8 +3265,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",

@@ -34,4 +34,10 @@ Some Maps of Content to consider are:
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
-Note: Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+## Notes
+
+- Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+- This repository has two main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main) and [develop](https://github.com/jimbrig/KaaS-New/tree/develop). 
+	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub. 
+	- The [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch mirrors what you work with while inside the Obsidian application.
+	- Links are converted using the rust library [Obsidian-Export](https://github.com/zoni/obsidian-export).

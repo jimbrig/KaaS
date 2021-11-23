@@ -17,7 +17,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 495
+      "links": 498
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3169,7 +3169,7 @@
     "/": {
       "Refactor": 124,
       "Create": 633,
-      "Link": 1192,
+      "Link": 1193,
       "Expand": 78
     }
   },
@@ -3191,7 +3191,7 @@
       "13": 34,
       "14": 8,
       "15": 142,
-      "16": 56,
+      "16": 57,
       "17": 126,
       "18": 1262,
       "19": 44,
@@ -3204,7 +3204,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 152,
+      "Tue": 153,
       "Wed": 1369,
       "Thu": 0,
       "Fri": 269,
@@ -3452,6 +3452,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
@@ -3500,8 +3501,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

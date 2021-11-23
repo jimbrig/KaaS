@@ -1,7 +1,6 @@
 on: 
-  - workflow_dispatch
-  - push
-    - develop
+  push:
+    branches: [ develop ]
 
 name: Convert Links
 

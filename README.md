@@ -34,4 +34,8 @@ Some Maps of Content to consider are:
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
-Note: Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+## Notes
+
+- Note: Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+- Note: This repository has two main branches: [main]() and [develop](). The [main]() branch is a representation of the [develop]() branch, but with all obsidian wikilinks converted to GitHub markdown links for display on GitHub. The [develop]() branch mirrors what you work with while inside the Obsidian application.
+- Note: Links are converted using the rust library [Obsidian-Export](). 

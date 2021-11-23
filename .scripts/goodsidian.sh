@@ -125,10 +125,10 @@ cleantitle=$(echo "${title}" | sed -e 's/\///' -e 's/:/ –/' -e 's/#//')
 bookid: ${bookid}
 ---
 links: [[Books MOC]]
-#currently-reading
+#Status/Reading
 # ${title}
 ![b|150](${imglink})
-* Type: #book/
+* Type: #Type/Book
 * Universe/Series: ADD SERIES
 * Author: [[${author}]]
 * Year published: [[${pub}]]" >> "${vaultpath}/${cleantitle}.md"
@@ -140,7 +140,7 @@ links: [[Books MOC]]
 done
 
 ifbookid=$(find "${vaultpath}" -type f -print0 | xargs -0 grep -li "${cbookid}")
-ifcurrread=$(find "${vaultpath}" -type f -print0 | xargs -0 grep -li "#currently-reading")
+ifcurrread=$(find "${vaultpath}" -type f -print0 | xargs -0 grep -li "#Status/Reading")
 
 if find "${vaultpath}" -type f -print0 | xargs -0 grep -li "${cbookid}"
 then
@@ -150,7 +150,7 @@ then
   \* Year read: #read${year}" "$fname"
   sed -i '' "/Year read: #read${year}/ a\\
   \* Month read: [[${year}-${nummonth}-${month}|${month} ${year}]]" "$fname"
-  sed -i '' -e 's/#currently-reading/#read/' "$fname"
+  sed -i '' -e 's/#Status/Reading/#read/' "$fname"
 
   # Grab the name of the changed book
   fname=$(echo ${fname} | sed 's/^.*\///' | sed 's/\.[^.]*$//')
@@ -171,14 +171,14 @@ do
   # … set variable fname to that file
   fname=$(find "${vaultpath}" -not -path "*/\.*" -type f \( -iname "*.md" \) -print0 | xargs -0 grep -li "${cbookid}")
     # Check if it has tag "#currently-reading"
-      if grep "#currently-reading" "${fname}"
+      if grep "#Status/Reading" "${fname}"
       then
         # If yes, change the formatting, delete the "#currently-reading" tag
         sed -i '' "/Year published: \[\[[0-9][0-9][0-9][0-9]\]\]/ a\\
         \* Year read: #read${year}" "$fname"
         sed -i '' "/Year read: #read${year}/ a\\
         \* Month read: [[${year}-${nummonth}-${month}|${month} ${year}]]" "$fname"
-        sed -i '' -e 's/#currently-reading/#outline \/ #welcome/' "$fname"
+        sed -i '' -e 's/#Status/Reading/#outline \/ #welcome/' "$fname"
 
         # Grab the name of the changed book
         declare -i updatedbooks; updatedbooks+=1

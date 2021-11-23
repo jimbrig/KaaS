@@ -10,7 +10,21 @@ Tags: ["#Type/List"]
 
 See Also: [[Actuarial Science]]
 
-> Listing of various references and code repositories related to actuarial workflows in a development oriented framework. Mostly from GitHub and in R.
+*Sources:*
+- *[actuarialopensource/awesome-actuarial: An Awesome List of Actuarial Packages and Resources](https://github.com/actuarialopensource/awesome-actuarial)*
+- *[genedan/actuarial-foss: A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss)*
+
+***
+
+## Life Related Libraries and Packages
+
+| Package           | Language | Description         |
+| -- | -- | -- |
+| [pyliferisk](https://github.com/franciscogarate/pyliferisk)        | Python | Life Actuarial Maths |
+| [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
+| [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
+| [heavymodel](https://github.com/lewisfogden/heavymodel) | Python | Cashflow Modelling Framework |
+| [lifelib](https://github.com/fumitoh/lifelib)        | Python | Life Projection Models |
 
 ## Resources
 

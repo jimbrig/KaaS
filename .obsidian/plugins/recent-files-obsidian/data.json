@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Development Master Resource List",
+      "path": "Slipbox/Actuarial Development Master Resource List.md"
+    },
+    {
+      "basename": "Actuarial Science",
+      "path": "MOCs/Actuarial Science.md"
+    },
+    {
       "basename": "2021-11-23",
       "path": "Daily-Notes/2021-11-23.md"
     },
@@ -109,10 +117,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Actuarial Science",
-      "path": "MOCs/Actuarial Science.md"
-    },
-    {
       "basename": "R",
       "path": "MOCs/R.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Collectors Fallacy",
       "path": "Slipbox/Collectors Fallacy.md"
-    },
-    {
-      "basename": "Niklas Luhmann",
-      "path": "People/Niklas Luhmann.md"
     }
   ],
   "omittedPaths": [],

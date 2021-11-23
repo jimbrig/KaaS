@@ -1,3 +1,5 @@
+- 2021-11-23 at 15h25 · [[Actuarial Development Master Resource List]]
+- 2021-11-23 at 15h22 · [[Actuarial Science]]
 - 2021-11-23 at 12h09 · [[README]]
 - 2021-11-23 at 12h05 · [[2021-11-23]]
 - 2021-11-23 at 11h07 · [[Workbench]]
@@ -139,7 +141,6 @@
 - 2021-11-23 at 11h07 · [[Actuarial Rate Indications Automation]]
 - 2021-11-23 at 11h07 · [[Actuarial Experience Studies]]
 - 2021-11-23 at 11h07 · [[Actuarial Exams]]
-- 2021-11-23 at 11h07 · [[Actuarial Development Master Resource List]]
 - 2021-11-23 at 11h07 · [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
 - 2021-11-23 at 11h07 · [[AWS Redshift]]
 - 2021-11-23 at 11h07 · [[AWS QuickSight]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 11h07 · [[Digital Decluttering Cleaning Up Computer Files & Social Media Profiles]]
 - 2021-11-23 at 11h07 · [[Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump]]
 - 2021-11-23 at 11h07 · [[Digital De-Cluttering How to Streamline Your Online Life]]
-- 2021-11-23 at 11h07 · [[Developer GTD]]

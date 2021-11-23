@@ -34,7 +34,7 @@ Some Maps of Content to consider are:
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
-## Notes
+## Notes
 
 - Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
 - This repository has two main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main) and [develop](https://github.com/jimbrig/KaaS-New/tree/develop). 

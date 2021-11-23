@@ -10,14 +10,14 @@
       "links": 0
     },
     "README.md": {
-      "size": 0,
+      "size": 2282,
       "tags": 0,
       "links": 12
     },
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 488
+      "links": 495
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3169,8 +3169,8 @@
     "/": {
       "Refactor": 124,
       "Create": 633,
-      "Link": 1191,
-      "Expand": 76
+      "Link": 1192,
+      "Expand": 77
     }
   },
   "dailyCommits": {
@@ -3187,7 +3187,7 @@
       "9": 4,
       "10": 20,
       "11": 105,
-      "12": 147,
+      "12": 149,
       "13": 34,
       "14": 8,
       "15": 141,
@@ -3204,7 +3204,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 175,
-      "Tue": 149,
+      "Tue": 151,
       "Wed": 1369,
       "Thu": 0,
       "Fri": 269,
@@ -3215,6 +3215,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
@@ -3264,8 +3265,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/REST API Best Practices.md\"> REST API Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
@@ -3451,6 +3451,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
         "<a class=\"internal-link\" href=\"Resources/_README.md\"> _README </a>",
@@ -3500,8 +3501,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

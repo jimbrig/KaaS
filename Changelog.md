@@ -1,4 +1,4 @@
-- 2021-11-23 at 15h25 · [[Actuarial Development Master Resource List]]
+- 2021-11-23 at 15h29 · [[Actuarial Development Master Resource List]]
 - 2021-11-23 at 15h22 · [[Actuarial Science]]
 - 2021-11-23 at 12h09 · [[README]]
 - 2021-11-23 at 12h05 · [[2021-11-23]]

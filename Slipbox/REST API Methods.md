@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "REST API Methods"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+Alias: REST API Methods
 ---
 
 # REST API Methods
@@ -11,13 +13,13 @@ Alias: "REST API Methods"
 
 ## Contents
 
-- [[#Using HTTP Methods for RESTful Services|Using HTTP Methods for RESTful Services]]
-- [[#Methods in Detail|Methods in Detail]]
-	- [[#POST|POST]]
-	- [[#GET|GET]]
-	- [[#PUT|PUT]]
-	- [[#PATCH|PATCH]]
-	- [[#DELETE|DELETE]]
+* [Using HTTP Methods for RESTful Services](REST%20API%20Methods.md#using-http-methods-for-restful-services)
+* [Methods in Detail](REST%20API%20Methods.md#methods-in-detail)
+  * [POST](REST%20API%20Methods.md#post)
+  * [GET](REST%20API%20Methods.md#get)
+  * [PUT](REST%20API%20Methods.md#put)
+  * [PATCH](REST%20API%20Methods.md#patch)
+  * [DELETE](REST%20API%20Methods.md#delete)
 
 ## Using HTTP Methods for RESTful Services
 
@@ -25,15 +27,13 @@ The `HTTP` verbs comprise a major portion of our “uniform interface” constra
 
 Below is a table summarizing recommended return values of the primary `HTTP` methods in combination with the resource URIs:
 
-
-| HTTP Verb | CRUD           | Entire Collection (e.g. /customers)                                                                  | Specific Item (e.g. /customers/{id})                                       |
-| --------- | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| POST      | Create         | 201 (Created), 'Location' header with link to /customers/{id} containing new ID.                     | 404 (Not Found), 409 (Conflict) if resource already exists..               |
-| GET       | Read           | 200 (OK), list of customers. Use pagination, sorting and filtering to navigate big lists.            | 200 (OK), single customer. 404 (Not Found), if ID not found or invalid.    |
-| PUT       | Update/Replace | 405 (Method Not Allowed), unless you want to update/replace every resource in the entire collection. | 200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid. |
-| PATCH     | Update/Modify  | 405 (Method Not Allowed), unless you want to modify the collection itself.                           | 200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid. |
-| DELETE    | Delete         | 405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable.        | 200 (OK). 404 (Not Found), if ID not found or invalid.                     |
-
+|HTTP Verb|CRUD|Entire Collection (e.g. /customers)|Specific Item (e.g. /customers/{id})|
+|---------|----|-----------------------------------|------------------------------------|
+|POST|Create|201 (Created), 'Location' header with link to /customers/{id} containing new ID.|404 (Not Found), 409 (Conflict) if resource already exists..|
+|GET|Read|200 (OK), list of customers. Use pagination, sorting and filtering to navigate big lists.|200 (OK), single customer. 404 (Not Found), if ID not found or invalid.|
+|PUT|Update/Replace|405 (Method Not Allowed), unless you want to update/replace every resource in the entire collection.|200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
+|PATCH|Update/Modify|405 (Method Not Allowed), unless you want to modify the collection itself.|200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
+|DELETE|Delete|405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable.|200 (OK). 404 (Not Found), if ID not found or invalid.|
 
 ## Methods in Detail
 
@@ -47,8 +47,8 @@ POST is neither safe nor idempotent. It is therefore recommended for non-idempot
 
 **Examples:**
 
--   _POST http://www.example.com/customers_
--   _POST http://www.example.com/customers/12345/orders_
+* *POST http://www.example.com/customers*
+* *POST http://www.example.com/customers/12345/orders*
 
 ### GET
 
@@ -60,9 +60,9 @@ Do not expose unsafe operations via GET—it should never modify any resources o
 
 **Examples:**
 
--   _GET http://www.example.com/customers/12345_
--   _GET http://www.example.com/customers/12345/orders_
--   _GET http://www.example.com/buckets/sample_
+* *GET http://www.example.com/customers/12345*
+* *GET http://www.example.com/customers/12345/orders*
+* *GET http://www.example.com/buckets/sample*
 
 ### PUT
 
@@ -80,9 +80,9 @@ If, for instance, calling PUT on a resource increments a counter within the reso
 
 **Examples:**
 
--   _PUT http://www.example.com/customers/12345_
--   _PUT http://www.example.com/customers/12345/orders/98765_
--   _PUT http://www.example.com/buckets/secret_stuff_
+* *PUT http://www.example.com/customers/12345*
+* *PUT http://www.example.com/customers/12345/orders/98765*
+* *PUT http://www.example.com/buckets/secret_stuff*
 
 ### PATCH
 
@@ -94,9 +94,9 @@ PATCH is neither safe nor idempotent. However, a PATCH request can be issued in 
 
 **Examples:**
 
--   _PATCH http://www.example.com/customers/12345_
--   _PATCH http://www.example.com/customers/12345/orders/98765_
--   _PATCH http://www.example.com/buckets/secret_stuff_
+* *PATCH http://www.example.com/customers/12345*
+* *PATCH http://www.example.com/customers/12345/orders/98765*
+* *PATCH http://www.example.com/buckets/secret_stuff*
 
 ### DELETE
 
@@ -110,12 +110,12 @@ There is a caveat about DELETE idempotence, however. Calling DELETE on a resourc
 
 **Examples:**
 
--   _DELETE http://www.example.com/customers/12345_
--   _DELETE http://www.example.com/customers/12345/orders_
--   _DELETE http://www.example.com/bucket/sample_
+* *DELETE http://www.example.com/customers/12345*
+* *DELETE http://www.example.com/customers/12345/orders*
+* *DELETE http://www.example.com/bucket/sample*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[REST API Methods]] AND -"Changelog"
-```
+````

@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Software Development"
+Tags:
+  - "#Type/MOC"
+Alias: Software Development
 ---
 
 # Software Development
@@ -17,12 +18,12 @@ Alias: "Software Development"
 
 ### Tagged as *Topic/Dev*
 
-```dataview
+````dataview
 list from #Topic/Dev AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Software Development]] AND -"Changelog"
-```
+````

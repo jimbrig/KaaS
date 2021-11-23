@@ -1,35 +1,38 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Daily"]
+Tags:
+  - "#Type/Daily"
 ---
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+\<\< *\<% tp.date.now("YYYY-MM-DD", -1) %>* | *\<% tp.date.now("YYYY-MM-DD", 1) %>* >>
 
-# <% tp.date.now("dddd MMMM DD, YYYY") %>
+# \<% tp.date.now("dddd MMMM DD, YYYY") %>
 
 ## Day Planner
 
-- [ ] 
+* [ ] 
 
 ## Agendas
 
-- [ ] 
+* [ ] 
 
 ## Work
 
-- 
+* 
 
 ## Tasks
 
 ## Todoist
 
-![[Todoist-Embed]]
+# Todoist
 
-***
+<div style="display: block; position: relative; width: 100%; height: 800px; --aspect-ratio:9/16; padding-bottom: calc(var(--aspect-ratio) * 100%);"><iframe src="https://todoist.com/app/upcoming#" allow="fullscreen" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;"></iframe></div>
+
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

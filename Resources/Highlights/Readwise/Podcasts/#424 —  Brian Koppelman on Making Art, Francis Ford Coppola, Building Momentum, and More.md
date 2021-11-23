@@ -2,19 +2,23 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
+Link: ~
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
-# #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
+
+# \#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
 
 ## Metadata
-- Author: [[The Tim Ferriss Show]]
-- Full Title: #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Tim Ferriss Show*
+* Full Title: #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Transcendental Meditation - Is There Something You Say to Get Off the Phone So You Can Buy Time and a Clean Exit?
+
+* Transcendental Meditation - Is There Something You Say to Get Off the Phone So You Can Buy Time and a Clean Exit?
   Summary:
   "i've learned to know myself, probably through the netation, journaling," says Julia cameron. "A lot of success in interpersonal relationships involves understanding your own complicity in how the engagement is going to turn out", she adds. 'I can be a total ass whole if i'm not ahead a i'me prepared to have those conversations'...
   Transcript:

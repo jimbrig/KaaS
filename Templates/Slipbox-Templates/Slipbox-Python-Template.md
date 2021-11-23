@@ -1,22 +1,23 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/Python"
 Alias: "<% tp.file.title %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[Python]]
-
+* [Development](../../MOCs/Development.md)
+* [Python](../../MOCs/Python.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

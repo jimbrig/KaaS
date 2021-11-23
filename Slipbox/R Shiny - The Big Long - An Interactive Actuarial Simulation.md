@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: "R Shiny - The Big Long - An Interactive Actuarial Simulation"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/R"
+Alias: R Shiny - The Big Long - An Interactive Actuarial Simulation
 ---
 
 # The Big Long - An Interactive Actuarial Simulation R Shiny App
@@ -13,20 +15,20 @@ This is a game for N >= 2 players, which simulates an insurance marketplace. The
 
 * Each player submits rate changes for each class of business they write
 * Once all changes have been made, the simulation will:
-    * Determine which policyholders will consider lapsing
-    * For each policyholder which lapses, determine whether and which new carrier they purchase from
-    * Determine losses for each policyholder
+  * Determine which policyholders will consider lapsing
+  * For each policyholder which lapses, determine whether and which new carrier they purchase from
+  * Determine losses for each policyholder
 * The players view the results and make their decisions for the next round
 
-## The game 
+## The game
 
 The game has two states: 1) before, and 2) during 
 
 The admin can do the following things: 
 
 1. begin new game
-2. start game
-3. advance the round
+1. start game
+1. advance the round
 
 I'm not certain how to ensure one and only one proper admin. Easy solution: 1) first player in will administer.
 
@@ -50,19 +52,17 @@ We will assume no loss frequency trend.
 
 The lapse probability will vary by class. This may be randomly assigned using a beta distribution. If we want to get really fancy (and I might want to) we can establish beta parameters for each class. Then, each policyholder would get their own lapse parameters
 
-
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[R]]
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
-
+* [Development](../MOCs/Development.md)
+* [R](../MOCs/R.md)
+* [Actuarial Science](../MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Shiny - The Big Long - An Interactive Actuarial Simulation]] AND -"Changelog"
-```
+````

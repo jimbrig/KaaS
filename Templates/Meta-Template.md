@@ -1,16 +1,17 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
+Tags:
+  - "#Type/Meta"
 Alias: "<% tp.file.title %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

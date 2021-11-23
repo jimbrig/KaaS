@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Tools"
+Tags:
+  - "#Type/MOC"
+Alias: Tools
 ---
 
 # Tools
@@ -13,22 +14,22 @@ Alias: "Tools"
 
 ### Obsidian
 
-- [[Obsidian]]
+* [Obsidian](Obsidian.md)
 
 ### Todoist
 
-- [[Todoist]]
+* [Todoist](Todoist.md)
 
 ## Dataviews
 
 ### Tagged as *Category/Tools*
 
-```dataview
+````dataview
 list from #Category/Tools AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Tools]] AND -"Changelog"
-```
+````

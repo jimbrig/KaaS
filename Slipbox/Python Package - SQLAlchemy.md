@@ -1,22 +1,25 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
-Alias: ["SQLAlchemy", "sqlalchemy"]
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/Python"
+Alias:
+  - SQLAlchemy
+  - sqlalchemy
 ---
 
 # Python Package - SQLAlchemy
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[Python]]
-
+* [Development](../MOCs/Development.md)
+* [Python](../MOCs/Python.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Python Package - SQLAlchemy]] AND -"Changelog"
-```
+````

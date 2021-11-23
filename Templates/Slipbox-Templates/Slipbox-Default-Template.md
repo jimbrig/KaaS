@@ -1,20 +1,21 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
+Tags:
+  - "#Type/Slipbox"
 Alias: "<% tp.file.title %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

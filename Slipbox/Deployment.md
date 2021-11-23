@@ -1,14 +1,16 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Deployment"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+Alias: Deployment
 ---
 
 # Deployment
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Deployment]] AND -"Changelog"
-```
+````

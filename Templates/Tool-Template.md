@@ -1,20 +1,21 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
+Tags:
+  - "#Type/Tool"
 Alias: []
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../Slipbox/Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

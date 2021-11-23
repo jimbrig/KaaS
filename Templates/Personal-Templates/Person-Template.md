@@ -1,11 +1,13 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Person"]
-Aliases: ["<% tp.file.cursor() %>"]
+Tags:
+  - "#Type/Person"
+Aliases:
+  - "<% tp.file.cursor() %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
 ## Links
 
@@ -13,11 +15,10 @@ Aliases: ["<% tp.file.cursor() %>"]
 
 ## Links
 
-***
+---
 
 *Backlinks*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
-
+````

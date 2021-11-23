@@ -2,19 +2,23 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
+Link: ~
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
+
 # Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Ticketing Systems Are a Revolution in Productivity
+
+* Ticketing Systems Are a Revolution in Productivity
   Summary:
   Use a ticketing system to organize your work. A trello board can be used for different types of work or different work statuses. Introduce efficient work floes for regularly occurring tasks. The trick there is to present these as processes that's going to make their life easier, Alrigt says....
   Transcript:

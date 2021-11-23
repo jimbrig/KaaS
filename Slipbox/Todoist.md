@@ -1,21 +1,22 @@
 ---
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
+Tags:
+  - "#Type/Tool"
 Alias: []
 ---
 
 # Todoist
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
-- [[Productivity]]
+* [Tools](Tools.md)
+* [Productivity](../MOCs/Productivity.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

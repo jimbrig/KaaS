@@ -2,19 +2,23 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
+Link: ~
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
+
 # Argo —  Kubernetes-Native Tools with Alex Collins
 
 ## Metadata
-- Author: [[Software Engineering Daily]]
-- Full Title: Argo —  Kubernetes-Native Tools with Alex Collins
-- Category: #Type/Highlight/Podcast
+
+* Author: *Software Engineering Daily*
+* Full Title: Argo —  Kubernetes-Native Tools with Alex Collins
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- How Do You Think Kubernetes Has Changed the Development of Saftware?
+
+* How Do You Think Kubernetes Has Changed the Development of Saftware?
   Summary:
   There's a lot of ready clear delineation with cubenets that makes life easier. The biggest change is to beve gone from this, you know, building the bindary on your desk top machine,. You can largely out, language agnostic, andto a binery that could then run on any blinnox eunuch's host. I'm retty fascinated by technologyst like auto pilot from gugal.
   Transcript:
@@ -32,7 +36,7 @@ Aliases: []
   And i
   Speaker 1
   don't want to spend too much time an effort on that. And i think that's how we're ging to see it evolve overtime. And i think it'll become like a stable platform as well. I could see fewer cubinenies releases overtime. Because when an application is mature and stable ad it doesn't need too many new features. You don't actually often need musof releases of it. ([Time 0:23:24](https://share.snipd.com/snip/b02540e7-9f77-472a-9918-ab5d3f553bf4))
-- How Do You Think Cubenetis Has Changed the Development of Safor?
+* How Do You Think Cubenetis Has Changed the Development of Safor?
   Summary:
   There's a lot of ready clear delineation with cubenets that makes life easier. The biggest change is to beve gone from this, you know, building the bindary on your desk top machine,. You can largely out, language agnostic, andto a binery that could then run on any blinnox eunuch's host. I'm retty fascinated by technologyst like auto pilot from gugal.
   Transcript:

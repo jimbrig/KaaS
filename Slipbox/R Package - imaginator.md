@@ -1,8 +1,13 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Actuarial"]
-Alias: ["R Package - imaginator", "imaginator"] 
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/R"
+  - "#Topic/Actuarial"
+Alias:
+  - R Package - imaginator
+  - imaginator
 ---
 
 # R Package - imaginator
@@ -13,17 +18,17 @@ This is a package which will simulate a set of individual claims with random occ
 
 Future developments may include multiple payments per claim, simulated case reserves.
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[R]]
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
+* [Development](../MOCs/Development.md)
+* [R](../MOCs/R.md)
+* [Actuarial Science](../MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - imaginator]] AND -"Changelog"
-```
+````

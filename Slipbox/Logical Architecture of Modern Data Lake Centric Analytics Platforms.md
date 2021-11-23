@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Logical Architecture of Modern Data Lake Centric Analytics Platforms"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+Alias: Logical Architecture of Modern Data Lake Centric Analytics Platforms
 ---
 
 # Logical Architecture of Modern Data Lake Centric Analytics Platforms
@@ -11,6 +13,6 @@ Alias: "Logical Architecture of Modern Data Lake Centric Analytics Platforms"
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Logical Architecture of Modern Data Lake Centric Analytics Platforms]] AND -"Changelog"
-```
+````

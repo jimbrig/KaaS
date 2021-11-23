@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Personal Knowledge Management"
+Tags:
+  - "#Type/MOC"
+Alias: Personal Knowledge Management
 ---
 
 # Personal Knowledge Management
@@ -13,19 +14,19 @@ Alias: "Personal Knowledge Management"
 
 ## Related
 
-- [[Productivity]]
-- [[Tools#Obsidian]]
+* [Productivity](Productivity.md)
+* [Tools > Obsidian](../Slipbox/Tools.md#obsidian)
 
 ## Dataviews
 
 ### Tagged as *Topic/PKM*
 
-```dataview
+````dataview
 list from #Topic/PKM AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Personal Knowledge Management]] AND -"Changelog"
-```
+````

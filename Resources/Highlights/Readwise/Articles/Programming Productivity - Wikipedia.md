@@ -2,21 +2,25 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
-Link: https://en.wikipedia.org/wiki/Programming_productivity
-Tags: [ "#Type/Highlight" ]
+Link: "https://en.wikipedia.org/wiki/Programming_productivity"
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
+
 # Programming Productivity - Wikipedia
 
 ## Metadata
-- Author: 
-- Full Title: Programming Productivity - Wikipedia
-- Category: #Type/Highlight/Article
-- URL: https://en.wikipedia.org/wiki/Programming_productivity
+
+* Author: 
+* Full Title: Programming Productivity - Wikipedia
+* Category: #Type/Highlight/Article
+* URL: https://en.wikipedia.org/wiki/Programming_productivity
 
 ## Highlights
-- Productivity = Output / Input
-- The 20 factors whose quantified impacts on software projects have been determined from historical data are the following:
+
+* Productivity = Output / Input
+* The 20 factors whose quantified impacts on software projects have been determined from historical data are the following:
   Programming language used
   Program size
   The experience of programmers and design personnel

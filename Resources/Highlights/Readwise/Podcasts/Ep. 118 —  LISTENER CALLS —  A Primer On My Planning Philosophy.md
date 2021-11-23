@@ -2,19 +2,23 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
+Link: ~
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
+
 # Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Anatomy Lab, World Without Emale
+
+* Anatomy Lab, World Without Emale
   Summary:
   Blakewell: People are generally very generous and one on one inter personal conversations. He says when everyone getting emales from that personal address, they conceptualize this like you're there in the room telling them something. Blakewell: We have to break that connection. It's one of the unfortunate side effects of this sort of arbitrary decision that emale addresses should be largely attached to names.
   Transcript:

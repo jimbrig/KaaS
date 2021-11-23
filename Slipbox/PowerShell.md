@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "PowerShell"
+Tags:
+  - "#Type/MOC"
+Alias: PowerShell
 ---
 
 # PowerShell
@@ -17,12 +18,12 @@ Alias: "PowerShell"
 
 ### Tagged as *Category/PowerShell*
 
-```dataview
+````dataview
 list from #Category/PowerShell AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[PowerShell]] AND -"Changelog"
-```
+````

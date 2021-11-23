@@ -1,26 +1,30 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Person"]
-Aliases: ["<% tp.file.cursor(8) %>"]
+Tags:
+  - "#Type/Person"
+Aliases:
+  - "<% tp.file.cursor(8) %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
 ## Work
 
-- I work with <% tp.file.title %> on:
+* I work with \<% tp.file.title %> on:
 
 ## Details
-- Job Title: <% tp.file.cursor(1) %>
-- Area: <% tp.file.cursor(2) %>
-- Company: **PwC**
-- Email: <% tp.file.cursor(3) %>
-- Phone: <% tp.file.cursor(4) %>
-- Location: <% tp.file.cursor(5) %>
-- Employee ID: <% tp.file.cursor(6) %>
+
+* Job Title: \<% tp.file.cursor(1) %>
+* Area: \<% tp.file.cursor(2) %>
+* Company: **PwC**
+* Email: \<% tp.file.cursor(3) %>
+* Phone: \<% tp.file.cursor(4) %>
+* Location: \<% tp.file.cursor(5) %>
+* Employee ID: \<% tp.file.cursor(6) %>
 
 ## Links
+
 FILL IN HREF BELOW
 
 <details>
@@ -37,11 +41,10 @@ FILL IN HREF BELOW
     </p>
 </details>
 
-***
+---
 
 *Backlinks*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Meta/Changelog"
-```
-
+````

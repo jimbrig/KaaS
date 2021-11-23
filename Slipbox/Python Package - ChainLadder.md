@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
-Alias: "Python Package - ChainLadder"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/Python"
+Alias: Python Package - ChainLadder
 ---
 
 # Python Package - ChainLadder
@@ -25,28 +27,28 @@ Please visit the [Documentation](https://chainladder-python.readthedocs.io/en/la
 
 ## Available Estimators
 
-| Loss Development                                                                                                | Tails Factors                                                                               | IBNR Models                                                                                                  | Adjustments                                                                                                   | Workflow                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [Development](https://chainladder-python.readthedocs.io/en/latest/development.html#development)                 | [TailCurve](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailcurve)       | [Chainladder](https://chainladder-python.readthedocs.io/en/latest/methods.html#chainladder)                  | [BootstrapODPSample](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#bootstrapodpsample) | [VotingChainladder](https://chainladder-python.readthedocs.io/en/latest/workflow.html#votingchainladder) |
-| [DevelopmentConstant](https://chainladder-python.readthedocs.io/en/latest/development.html#developmentconstant) | [TailConstant](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailconstant) | [MackChainladder](https://chainladder-python.readthedocs.io/en/latest/methods.html#mackchainladder)          | [BerquistSherman](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#berquistsherman)       | [Pipeline](https://chainladder-python.readthedocs.io/en/latest/workflow.html#pipeline)                   |
-| [MunichAdjustment](https://chainladder-python.readthedocs.io/en/latest/development.html#munichadjustment)       | [TailBondy](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailbondy)       | [BornhuettterFerguson](https://chainladder-python.readthedocs.io/en/latest/methods.html#bornhuetterferguson) | [ParallelogramOLF](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#parallelogramolf)     | [GridSearch](https://chainladder-python.readthedocs.io/en/latest/workflow.html#gridsearch)               |
-| [ClarkLDF](https://chainladder-python.readthedocs.io/en/latest/development.html#clarkldf)                       | [TailClark](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailclark)       | [Benktander](https://chainladder-python.readthedocs.io/en/latest/methods.html#benktander)                    | [Trend](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#trend)                           |                                                                                                          |
-| [IncrementalAdditive](https://chainladder-python.readthedocs.io/en/latest/development.html#incrementaladditive) |                                                                                             | [CapeCod](https://chainladder-python.readthedocs.io/en/latest/methods.html#capecod)                          |                                                                                                               |                                                                                                          |
-| [CaseOutstanding](https://chainladder-python.readthedocs.io/en/latest/development.html#caseoutstanding)         |                                                                                             |                                                                                                              |                                                                                                               |                                                                                                          |
-| [TweedieGLM](https://chainladder-python.readthedocs.io/en/latest/development.html#tweedieglm)                   |                                                                                             |                                                                                                              |                                                                                                               |                                                                                                          |
-| [DevelopmentML](https://chainladder-python.readthedocs.io/en/latest/development.html#developmentml)             |                                                                                             |                                                                                                              |                                                                                                               |                                                                                                          |
-| [BarnettZehnwirth](https://chainladder-python.readthedocs.io/en/latest/development.html#barnettzehnwirth)       |                                                                                             |                                                                                                              |                                                                                                               |                                                                                                          |
+|Loss Development|Tails Factors|IBNR Models|Adjustments|Workflow|
+|----------------|-------------|-----------|-----------|--------|
+|[Development](https://chainladder-python.readthedocs.io/en/latest/development.html#development)|[TailCurve](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailcurve)|[Chainladder](https://chainladder-python.readthedocs.io/en/latest/methods.html#chainladder)|[BootstrapODPSample](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#bootstrapodpsample)|[VotingChainladder](https://chainladder-python.readthedocs.io/en/latest/workflow.html#votingchainladder)|
+|[DevelopmentConstant](https://chainladder-python.readthedocs.io/en/latest/development.html#developmentconstant)|[TailConstant](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailconstant)|[MackChainladder](https://chainladder-python.readthedocs.io/en/latest/methods.html#mackchainladder)|[BerquistSherman](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#berquistsherman)|[Pipeline](https://chainladder-python.readthedocs.io/en/latest/workflow.html#pipeline)|
+|[MunichAdjustment](https://chainladder-python.readthedocs.io/en/latest/development.html#munichadjustment)|[TailBondy](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailbondy)|[BornhuettterFerguson](https://chainladder-python.readthedocs.io/en/latest/methods.html#bornhuetterferguson)|[ParallelogramOLF](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#parallelogramolf)|[GridSearch](https://chainladder-python.readthedocs.io/en/latest/workflow.html#gridsearch)|
+|[ClarkLDF](https://chainladder-python.readthedocs.io/en/latest/development.html#clarkldf)|[TailClark](https://chainladder-python.readthedocs.io/en/latest/tails.html#tailclark)|[Benktander](https://chainladder-python.readthedocs.io/en/latest/methods.html#benktander)|[Trend](https://chainladder-python.readthedocs.io/en/latest/adjustments.html#trend)||
+|[IncrementalAdditive](https://chainladder-python.readthedocs.io/en/latest/development.html#incrementaladditive)||[CapeCod](https://chainladder-python.readthedocs.io/en/latest/methods.html#capecod)|||
+|[CaseOutstanding](https://chainladder-python.readthedocs.io/en/latest/development.html#caseoutstanding)|||||
+|[TweedieGLM](https://chainladder-python.readthedocs.io/en/latest/development.html#tweedieglm)|||||
+|[DevelopmentML](https://chainladder-python.readthedocs.io/en/latest/development.html#developmentml)|||||
+|[BarnettZehnwirth](https://chainladder-python.readthedocs.io/en/latest/development.html#barnettzehnwirth)|||||
 
 ## Getting Started Tutorials
 
 Tutorial notebooks are available for download [here](https://github.com/casact/chainladder-python/tree/latest/docs/tutorials).
 
--   [Working with Triangles](https://chainladder-python.readthedocs.io/en/latest/tutorials/triangle-tutorial.html)
--   [Selecting Development Patterns](https://chainladder-python.readthedocs.io/en/latest/tutorials/development-tutorial.html)
--   [Extending Development Patterns with Tails](https://chainladder-python.readthedocs.io/en/latest/tutorials/tail-tutorial.html)
--   [Applying Deterministic Methods](https://chainladder-python.readthedocs.io/en/latest/tutorials/deterministic-tutorial.html)
--   [Applying Stochastic Methods](https://chainladder-python.readthedocs.io/en/latest/tutorials/stochastic-tutorial.html)
--   [Large Datasets](https://chainladder-python.readthedocs.io/en/latest/tutorials/large-datasets.html)
+* [Working with Triangles](https://chainladder-python.readthedocs.io/en/latest/tutorials/triangle-tutorial.html)
+* [Selecting Development Patterns](https://chainladder-python.readthedocs.io/en/latest/tutorials/development-tutorial.html)
+* [Extending Development Patterns with Tails](https://chainladder-python.readthedocs.io/en/latest/tutorials/tail-tutorial.html)
+* [Applying Deterministic Methods](https://chainladder-python.readthedocs.io/en/latest/tutorials/deterministic-tutorial.html)
+* [Applying Stochastic Methods](https://chainladder-python.readthedocs.io/en/latest/tutorials/stochastic-tutorial.html)
+* [Large Datasets](https://chainladder-python.readthedocs.io/en/latest/tutorials/large-datasets.html)
 
 ## Installation
 
@@ -58,19 +60,18 @@ Alternatively for pre-release functionality, install directly from github: `pip 
 
 Note: This package requires Python>=3.5 pandas 0.23.0 and later, sparse 0.9 and later, scikit-learn 0.23.0 and later.
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[R Package - ChainLadder]]
-- [[Python]]
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
-
+* [Development](../MOCs/Development.md)
+* [R Package - ChainLadder](R%20Package%20-%20ChainLadder.md)
+* [Python](../MOCs/Python.md)
+* [Actuarial Science](../MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Python Package - ChainLadder]] AND -"Changelog"
-```
+````

@@ -4,9 +4,9 @@
 
 All Notes tagged with `#Status/Todo`:
 
-```dataview
+````dataview
 LIST FROM #Status/Todo 
-```
+````
 
 ## Projects
 

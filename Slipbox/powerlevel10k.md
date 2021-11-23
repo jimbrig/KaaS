@@ -1,20 +1,21 @@
 ---
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "powerlevel10k"
+Tags:
+  - "#Type/Slipbox"
+Alias: powerlevel10k
 ---
 
 # powerlevel10k
 
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[powerlevel10k]] AND -"Changelog"
-```
+````

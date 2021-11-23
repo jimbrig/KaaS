@@ -2,19 +2,23 @@
 Date: 2021-11-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
+Link: ~
+Tags:
+  - "#Type/Highlight"
 Aliases: []
 ---
+
 # Ep. 101 —  Does Productivity Impede the Deep Life?
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 101 —  Does Productivity Impede the Deep Life?
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 101 —  Does Productivity Impede the Deep Life?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- The Status Meeting - Is It Too Much?
+
+* The Status Meeting - Is It Too Much?
   Summary:
   The key thing here is that once you get above even a minimal num ber of commitments in your professional life, you got to get em out of generic communication channels. You don't wan to say, let's just have a frenzy and just be busy, and what'll happen? Ill happen. So externalize, externalize. Andrew, you're a case study for why the ideas in a world without emal really are critical....
   Transcript:

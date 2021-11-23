@@ -1,20 +1,21 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Actuarial Exams"
+Tags:
+  - "#Type/Slipbox"
+Alias: Actuarial Exams
 ---
 
 # Actuarial Exams
 
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Actuarial Exams]] AND -"Changelog"
-```
+````

@@ -1,36 +1,39 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List"]
+Tags:
+  - "#Type/List"
 ---
 
 # Actuarial Development Master Resource List
 
-> Listing of various references and code repositories related to actuarial workflows in a development oriented framework. Mostly from GitHub and in R.
+ > 
+ > Listing of various references and code repositories related to actuarial workflows in a development oriented framework. Mostly from GitHub and in R.
 
-See Also: [[Actuarial Science]]
+See Also: [Actuarial Science](../MOCs/Actuarial%20Science.md)
 
-> Listing of various references and code repositories related to actuarial workflows in a development oriented framework. Mostly from GitHub and in R.
+ > 
+ > Listing of various references and code repositories related to actuarial workflows in a development oriented framework. Mostly from GitHub and in R.
 
 ## Resources
 
-- [[Simulating Actuarial Claims Data with R]]
+* [Simulating Actuarial Claims Data with R](Simulating%20Actuarial%20Claims%20Data%20with%20R.md)
 
 ### Organizations
 
-- [[CAS - Casualty Actuarial Society|Casualty Actuarial Society]]
-- [[KasaAI GitHub Organization]]
+* [Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
+* [KasaAI GitHub Organization](KasaAI%20GitHub%20Organization.md)
 
 ### R Packages
 
-- [[R Package - actuar]]
-- [[R Package - ChainLadder]]
-- [[R Package - insurancerating]]
-- [[R Package - conjuror]]
+* [R Package - actuar](R%20Package%20-%20actuar.md)
+* [R Package - ChainLadder](R%20Package%20-%20ChainLadder.md)
+* [R Package - insurancerating](R%20Package%20-%20insurancerating.md)
+* [R Package - conjuror](R%20Package%20-%20conjuror.md)
 
 ### Other
 
-- [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
+* [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
 
 ## Full List
 
@@ -121,8 +124,7 @@ See Also: [[Actuarial Science]]
 * [veeranalytics/ReservingAutoInsuranceProducts: Reserving Model for Auto Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingAutoInsuranceProducts)
 * [veeranalytics/ReservingLifeInsurance: Reserving Model for Life Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingLifeInsurance)
 
-
-***
+---
 
 ## Links
 
@@ -212,12 +214,13 @@ See Also: [[Actuarial Science]]
 * [seanhardison1/vcrshiny: A shiny app for visualizing research data from the Virginia Coast Reserve LTER](https://github.com/seanhardison1/vcrshiny)
 * [veeranalytics/ReservingAutoInsuranceProducts: Reserving Model for Auto Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingAutoInsuranceProducts)
 * [veeranalytics/ReservingLifeInsurance: Reserving Model for Life Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingLifeInsurance)
-- [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
 
-***
+* [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
+
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Actuarial Development Master Resource List]] AND -"Changelog"
-```
+````

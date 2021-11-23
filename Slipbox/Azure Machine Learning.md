@@ -1,35 +1,36 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Azure"]
-Alias: "Azure Machine Learning"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/Azure"
+Alias: Azure Machine Learning
 ---
 
 # Azure Machine Learning
 
 ## Contents
 
-- [[#Who is Azure Machine Learning for?|Who is Azure Machine Learning for?]]
-	- [[#Collaboration for Machine Learning Teams|Collaboration for Machine Learning Teams]]
-	- [[#Tools for Developers|Tools for Developers]]
-	- [[#Studio UI|Studio UI]]
-- [[#Enterprise-Readiness and Security|Enterprise-Readiness and Security]]
-- [[#Azure Integrations for Complete Solutions|Azure Integrations for Complete Solutions]]
-- [[#Machine Learning Project Workflow|Machine Learning Project Workflow]]
-	- [[#Project Lifecycle|Project Lifecycle]]
-- [[#Train Models|Train Models]]
-	- [[#Open and Interoperable|Open and Interoperable]]
-	- [[#Automated Featurization and Algorithm Selection (AutoML)|Automated Featurization and Algorithm Selection (AutoML)]]
-	- [[#Hyperparameter Optimization|Hyperparameter Optimization]]
-	- [[#Multi-Node Distributed Training|Multi-Node Distributed Training]]
-	- [[#Embarrassingly Parallel Training|Embarrassingly Parallel Training]]
-- [[#Deploy Models|Deploy Models]]
-	- [[#Real-time and Batch Scoring (Inferencing)|Real-time and Batch Scoring (Inferencing)]]
-
+* [Who is Azure Machine Learning for?](Azure%20Machine%20Learning.md#who-is-azure-machine-learning-for)
+  * [Collaboration for Machine Learning Teams](Azure%20Machine%20Learning.md#collaboration-for-machine-learning-teams)
+  * [Tools for Developers](Azure%20Machine%20Learning.md#tools-for-developers)
+  * [Studio UI](Azure%20Machine%20Learning.md#studio-ui)
+* [Enterprise-Readiness and Security](Azure%20Machine%20Learning.md#enterprise-readiness-and-security)
+* [Azure Integrations for Complete Solutions](Azure%20Machine%20Learning.md#azure-integrations-for-complete-solutions)
+* [Machine Learning Project Workflow](Azure%20Machine%20Learning.md#machine-learning-project-workflow)
+  * [Project Lifecycle](Azure%20Machine%20Learning.md#project-lifecycle)
+* [Train Models](Azure%20Machine%20Learning.md#train-models)
+  * [Open and Interoperable](Azure%20Machine%20Learning.md#open-and-interoperable)
+  * [Automated Featurization and Algorithm Selection (AutoML)](Azure%20Machine%20Learning.md#automated-featurization-and-algorithm-selection-automl)
+  * [Hyperparameter Optimization](Azure%20Machine%20Learning.md#hyperparameter-optimization)
+  * [Multi-Node Distributed Training](Azure%20Machine%20Learning.md#multi-node-distributed-training)
+  * [Embarrassingly Parallel Training](Azure%20Machine%20Learning.md#embarrassingly-parallel-training)
+* [Deploy Models](Azure%20Machine%20Learning.md#deploy-models)
+  * [Real-time and Batch Scoring (Inferencing)](Azure%20Machine%20Learning.md#real-time-and-batch-scoring-inferencing)
 
 [Azure Machine Learning](https://azure.microsoft.com/en-us/free/machine-learning/search/) is a cloud service for accelerating and managing the machine learning project lifecycle. 
 
-Machine learning professionals, data scientists, and engineers can use it in their day-to-day workflows: Train and deploy models, and manage [[MLOps]].
+Machine learning professionals, data scientists, and engineers can use it in their day-to-day workflows: Train and deploy models, and manage [MLOps](MLOps.md).
 
 You can create a model in Azure Machine Learning or use a model built from an open-source platform, such as Pytorch, TensorFlow, or scikit-learn. 
 
@@ -49,17 +50,17 @@ Machine learning projects often require a team with varied skillsets to build an
 
 Azure Machine Learning has tools that help enable collaboration, such as:
 
--   Shared notebooks, compute resources, data, and environments
--   Tracking and auditability that shows who made changes and when
--   Asset versioning
+* Shared notebooks, compute resources, data, and environments
+* Tracking and auditability that shows who made changes and when
+* Asset versioning
 
 ### Tools for Developers
 
 Developers find familiar interfaces in Azure Machine Learning, such as:
 
--   [Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/)
--   [Azure Resource Manager REST APIs (preview)](https://docs.microsoft.com/en-us/rest/api/azureml/)
--   [CLI v2 (preview)](https://docs.microsoft.com/en-us/cli/azure/ml)
+* [Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/)
+* [Azure Resource Manager REST APIs (preview)](https://docs.microsoft.com/en-us/rest/api/azureml/)
+* [CLI v2 (preview)](https://docs.microsoft.com/en-us/cli/azure/ml)
 
 ### Studio UI
 
@@ -67,15 +68,15 @@ The [Azure Machine Learning Studio](https://ml.azure.com/) is a graphical user i
 
 In the studio, you can:
 
--   View runs, metrics, logs, outputs, and so on.
--   Author and edit notebooks and files.
--   Manage common assets, such as
-    -   Data credentials
-    -   Compute
-    -   Environments
--   Visualize run metrics, results, and reports.
--   Visualize pipelines authored through developer interfaces.
--   Author AutoML jobs.
+* View runs, metrics, logs, outputs, and so on.
+* Author and edit notebooks and files.
+* Manage common assets, such as
+  * Data credentials
+  * Compute
+  * Environments
+* Visualize run metrics, results, and reports.
+* Visualize pipelines authored through developer interfaces.
+* Author AutoML jobs.
 
 Plus, the designer has a drag-and-drop interface where you can train and deploy models.
 
@@ -85,9 +86,9 @@ Azure Machine Learning integrates with the Azure cloud platform to add security 
 
 Security integrations include:
 
--   Azure Virtual Networks (VNets) with network security groups
--   Azure Key Vault where you can save security secrets, such as access information for storage accounts
--   Azure Container Registry set up behind a VNet
+* Azure Virtual Networks (VNets) with network security groups
+* Azure Key Vault where you can save security secrets, such as access information for storage accounts
+* Azure Container Registry set up behind a VNet
 
 See [Tutorial: Set up a secure workspace](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-create-secure-workspace).
 
@@ -95,10 +96,10 @@ See [Tutorial: Set up a secure workspace](https://docs.microsoft.com/en-us/azure
 
 Other integrations with Azure services support a machine learning project from end-to-end. They include:
 
--   [[Azure Synapse Analytics]] to process and stream data with Spark
--   [[Azure Arc]], where you can run Azure services in a [[Kubernetes]] environment
--   Storage and database options, such as [[Azure SQL Database]], [[Azure Storage Blobs]], and so on
--   [[Azure App Service]] allowing you to deploy and manage ML-powered apps
+* *Azure Synapse Analytics* to process and stream data with Spark
+* *Azure Arc*, where you can run Azure services in a *Kubernetes* environment
+* Storage and database options, such as *Azure SQL Database*, *Azure Storage Blobs*, and so on
+* *Azure App Service* allowing you to deploy and manage ML-powered apps
 
 ## Machine Learning Project Workflow
 
@@ -126,18 +127,19 @@ In Azure Machine Learning, you can run your training script in the cloud or buil
 
 Data scientists can use models in Azure Machine Learning that they've created in common Python frameworks, such as:
 
--   PyTorch
--   TensorFlow
--   scikit-learn
--   XGBoost
--   LightGBM
+* PyTorch
+* TensorFlow
+* scikit-learn
+* XGBoost
+* LightGBM
 
 Other languages and frameworks are supported as well, including:
-- [[PowerShell]]
-- [[SQL]]
-- [[Python]]
-- [[R]]
-- [[DotNet|.NET]]
+
+* [PowerShell](PowerShell.md)
+* [SQL](SQL.md)
+* [Python](../MOCs/Python.md)
+* [R](../MOCs/R.md)
+* [.NET](DotNet.md)
 
 See [Open-source integration with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-open-source).
 
@@ -159,9 +161,9 @@ Efficiency of training for deep learning and sometimes classical machine learnin
 
 Supported via Azure Arc-attached Kubernetes (preview) and Azure ML compute clusters:
 
--   PyTorch
--   TensorFlow
--   MPI
+* PyTorch
+* TensorFlow
+* MPI
 
 The MPI distribution can be used for Horovod or custom multinode logic. Additionally, Apache Spark is supported via Azure Synapse Analytics Spark clusters (preview).
 
@@ -177,18 +179,17 @@ To bring a model into production, it is deployed. Azure Machine Learning's manag
 
 ### Real-time and Batch Scoring (Inferencing)
 
-_Batch scoring_, or _batch inferencing_, involves invoking an endpoint with a reference to data. The batch endpoint runs jobs asynchronously to process data in parallel on compute clusters and store the data for further analysis.
+*Batch scoring*, or *batch inferencing*, involves invoking an endpoint with a reference to data. The batch endpoint runs jobs asynchronously to process data in parallel on compute clusters and store the data for further analysis.
 
-_Real-time scoring_, or _online inferencing_, involves invoking an endpoint with one or more model deployments and receiving a response in near-real-time via HTTPs. Traffic can be split across multiple deployments, allowing for testing new model versions by diverting some amount of traffic initially and increasing once confidence in the new model is established.
+*Real-time scoring*, or *online inferencing*, involves invoking an endpoint with one or more model deployments and receiving a response in near-real-time via HTTPs. Traffic can be split across multiple deployments, allowing for testing new model versions by diverting some amount of traffic initially and increasing once confidence in the new model is established.
 
 See:
 
--   [Deploy a model with a real-time managed endpoint](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints)
--   [Use batch endpoints for scoring](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-endpoint)
-
+* [Deploy a model with a real-time managed endpoint](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-managed-online-endpoints)
+* [Use batch endpoints for scoring](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-endpoint)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Azure Machine Learning]] AND -"Changelog"
-```
+````

@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
-Alias: "Python Package - tryangle"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/Python"
+Alias: Python Package - tryangle
 ---
 
 # Python Package - tryangle
@@ -18,31 +20,27 @@ Tryangle is built on top of the [chainladder](https://chainladder-python.readthe
 
 ### Key Features
 
-
 Tryangle is flexible and modular in how it can be applied:
 
-- Optimizing loss development factors
-
-  - Use [sklearn's scikit](https://scikit-learn.org/) `GridSearchCV` or `RandomizedSearchCV` to
+* Optimizing loss development factors
+  
+  * Use [sklearn's scikit](https://scikit-learn.org/) `GridSearchCV` or `RandomizedSearchCV` to
     find the optimal method to calculate loss development factors
-
-- Choosing between multiple reserving methods
-
-  - Not sure if you should go with a basic chainladder, Bornhuetter-Ferguson, or Cape-Cod
+* Choosing between multiple reserving methods
+  
+  * Not sure if you should go with a basic chainladder, Bornhuetter-Ferguson, or Cape-Cod
     method? Let Tryangle decide.
-
-- Finding the optimal blend of reserving methods
-
-  - Or why not combine all three, and let Tryangle find the optimal blend.
-
-- Using advanced optimization methods
-
-  - Not satisfied with an exhaustive grid search? Tryangle can be used with
+* Finding the optimal blend of reserving methods
+  
+  * Or why not combine all three, and let Tryangle find the optimal blend.
+* Using advanced optimization methods
+  
+  * Not satisfied with an exhaustive grid search? Tryangle can be used with
     any optimization framework, but we recommend [Optuna](https://optuna.org/)
 
 ### Basic Example
 
-```python
+````python
 from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from tryangle import Development, CapeCod
@@ -67,35 +65,34 @@ model = GridSearchCV(
 )
 
 model.fit(X, X)
-```
+````
 
 ### Installation
 
 Tryangle is available at [the Python Package Index](https://pypi.org/project/tryangle/).
 
-```bash
+````bash
 pip install tryangle
-```
+````
 
 Tryangle supports Python 3.8 and 3.9.
 
 ### Reference
 
 Caesar Balona, Ronald Richman. 2021.
-The Actuary and IBNR Techniques: A Machine Learning Approach (SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256>).
+The Actuary and IBNR Techniques: A Machine Learning Approach (SSRN [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256)).
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[Python]]
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
-
+* [Development](../MOCs/Development.md)
+* [Python](../MOCs/Python.md)
+* [Actuarial Science](../MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Python Package - tryangle]] AND -"Changelog"
-```
+````

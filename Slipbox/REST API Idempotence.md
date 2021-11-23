@@ -1,8 +1,10 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "REST API Idempotence"
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+Alias: REST API Idempotence
 ---
 
 # REST API Idempotence
@@ -17,6 +19,6 @@ GET, HEAD, OPTIONS and TRACE methods are defined as safe, meaning they are only 
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[REST API Idempotence]] AND -"Changelog"
-```
+````

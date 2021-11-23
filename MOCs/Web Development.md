@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Web Development"
+Tags:
+  - "#Type/MOC"
+Alias: Web Development
 ---
 
 # Web Development
@@ -11,31 +12,28 @@ Alias: "Web Development"
 
 ## Related MOCs
 
-- [[Development]]
-- [[Data Science]]
-- [[Python]]
-- [[R]]
+* [Development](Development.md)
+* [Data Science](Data%20Science.md)
+* [Python](Python.md)
+* [R](R.md)
 
 ## Notes about Web Development
 
 ### APIs
 
-
-- [[API Architecture - Performance Best Practices]]
-- [[REST API Best Practices]]
-
-
+* [API Architecture - Performance Best Practices](../Slipbox/API%20Architecture%20-%20Performance%20Best%20Practices.md)
+* [REST API Best Practices](../Slipbox/REST%20API%20Best%20Practices.md)
 
 ## Dataviews
 
 ### Tagged as *Category/Web Development*
 
-```dataview
+````dataview
 list from #Category/Web Development AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Web Development]] AND -"Changelog"
-```
+````

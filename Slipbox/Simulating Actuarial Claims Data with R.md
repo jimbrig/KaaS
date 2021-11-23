@@ -1,27 +1,29 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Code", "#Topic/Dev/R"]
-Alias: "Simulating Actuarial Claims Data with R"
+Tags:
+  - "#Type/Code"
+  - "#Topic/Dev/R"
+Alias: Simulating Actuarial Claims Data with R
 ---
 
 # Simulating Actuarial Claims Data with R
 
 ## Simulation Script (Transactional)
 
-- Source: https://gist.github.com/jimbrig/30262ae72e1ba20d0235fdedcc435150
-- Carbon: https://carbon.now.sh/MDUZMTZI1ERkJTzBamSt
-- Imagur: https://imgur.com/k4Y16Zp
+* Source: https://gist.github.com/jimbrig/30262ae72e1ba20d0235fdedcc435150
+* Carbon: https://carbon.now.sh/MDUZMTZI1ERkJTzBamSt
+* Imagur: https://imgur.com/k4Y16Zp
 
 ### Gist
 
-```gist
+````gist
 jimbrig/30262ae72e1ba20d0235fdedcc435150
-```
+````
 
 ### Code
 
-```R
+````R
 # source: https://gist.github.com/jimbrig/30262ae72e1ba20d0235fdedcc435150
 
 # simulate transactions on insurance claims
@@ -126,21 +128,20 @@ trans <- trans %>%
            ungroup()
 
 saveRDS(trans, file = "trans.RDS")
-```
+````
 
 ### Related Work
 
-- [[R Package - simulationmachine|Simulation Machine]] by [[KasaAI GitHub Organization|KasaAI]]
-- [[R Package - rsvr|rsvr package]] by [[KasaAI GitHub Organization|KasaAI]] and it corresponding [Google Design Doc](https://docs.google.com/document/d/1x2Pi7tujWLAQlqd0chBXb0Ml0Ga2HK797OVJSaQQjv0/edit)
+* [Simulation Machine](R%20Package%20-%20simulationmachine.md) by [KasaAI](KasaAI%20GitHub%20Organization.md)
+* [rsvr package](R%20Package%20-%20rsvr.md) by [KasaAI](KasaAI%20GitHub%20Organization.md) and it corresponding [Google Design Doc](https://docs.google.com/document/d/1x2Pi7tujWLAQlqd0chBXb0Ml0Ga2HK797OVJSaQQjv0/edit)
 
 #### Related
 
-- [[Development]]
-- [[R]]
-
+* [Development](../MOCs/Development.md)
+* [R](../MOCs/R.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Simulating Actuarial Claims Data with R]] AND -"Changelog"
-```
+````

@@ -1,500 +1,500 @@
-- 2021-11-23 at 01h23 · [[2021-11-23]]
-- 2021-11-21 at 23h00 · [[Weekly Review Musings]]
-- 2021-11-21 at 23h00 · [[The Ultimate Guide to an Effective Weekly Review]]
-- 2021-11-21 at 22h57 · [[_README]]
-- 2021-11-21 at 22h57 · [[_README]]
-- 2021-11-21 at 22h57 · [[_README]]
-- 2021-11-21 at 22h56 · [[_README]]
-- 2021-11-21 at 22h56 · [[_README]]
-- 2021-11-21 at 22h55 · [[_README]]
-- 2021-11-21 at 22h50 · [[The Ultimate Guide to an Effective Weekly Review- Highlights]]
-- 2021-11-21 at 22h12 · [[Justin DiRose]]
-- 2021-11-21 at 21h54 · [[Online Developer Tools]]
-- 2021-11-21 at 21h50 · [[_README]]
-- 2021-11-21 at 21h38 · [[2021-11-21]]
-- 2021-11-21 at 21h37 · [[Readwise Syncs]]
-- 2021-11-17 at 19h28 · [[Personal Knowledge Management]]
-- 2021-11-17 at 19h26 · [[Actuarial Science]]
-- 2021-11-17 at 19h23 · [[Why Can't I Complete All My Daily Tasks]]
-- 2021-11-17 at 19h23 · [[MLOps]]
-- 2021-11-17 at 19h23 · [[Azure Machine Learning]]
-- 2021-11-17 at 19h23 · [[Digital Garden]]
-- 2021-11-17 at 19h22 · [[Progressive Summarization]]
-- 2021-11-17 at 19h22 · [[PARA Method]]
-- 2021-11-17 at 19h22 · [[Tiago Forte]]
-- 2021-11-17 at 19h21 · [[Productivity Apps]]
-- 2021-11-17 at 19h20 · [[REST API Best Practices]]
-- 2021-11-17 at 19h20 · [[R Package - plumber]]
-- 2021-11-17 at 19h20 · [[Team Data Science Process]]
-- 2021-11-17 at 19h19 · [[Todoist]]
-- 2021-11-17 at 19h19 · [[Obsidian]]
-- 2021-11-17 at 19h18 · [[Microsoft Windows Terminal]]
-- 2021-11-17 at 19h18 · [[Tool-Template]]
-- 2021-11-17 at 19h16 · [[WSL Terminal and Shell Setup Guide]]
-- 2021-11-17 at 19h16 · [[Collectors Fallacy]]
-- 2021-11-17 at 19h15 · [[Niklas Luhmann]]
-- 2021-11-17 at 19h08 · [[Obsidian-Clipper]]
-- 2021-11-17 at 18h57 · [[Person-Template]]
-- 2021-11-17 at 18h56 · [[Zettelkasten]]
-- 2021-11-17 at 18h55 · [[zsh]]
-- 2021-11-17 at 18h55 · [[Ruby]]
-- 2021-11-17 at 18h55 · [[Nerdfont]]
-- 2021-11-17 at 18h54 · [[powerlevel10k]]
-- 2021-11-17 at 18h54 · [[oh-my-zsh]]
-- 2021-11-17 at 18h54 · [[Bash]]
-- 2021-11-17 at 18h54 · [[Workbench]]
-- 2021-11-17 at 18h51 · [[Development]]
-- 2021-11-17 at 18h44 · [[How to Get and Remain Organized During Chaotic Times]]
-- 2021-11-17 at 18h43 · [[Can't Stay Focused While Processing - Have Tried for Months]]
-- 2021-11-17 at 18h43 · [[DataOps Implementation Guidelines]]
-- 2021-11-17 at 18h43 · [[The Actuary of the Future]]
-- 2021-11-17 at 18h43 · [[Ferret — Your Local Environment Made Easy]]
-- 2021-11-17 at 18h43 · [[API Architecture  —  Performance Best Practices for REST APIs]]
-- 2021-11-17 at 18h43 · [[Obsidian, Taming a Collective Consciousness - TrustedSec]]
-- 2021-11-17 at 18h43 · [[The Search for the Ultimate Productivity System-2]]
-- 2021-11-17 at 18h43 · [[Git Process for Small Organizations to Begin With]]
-- 2021-11-17 at 18h43 · [[Dev Environments as Code With Containers and Visual Studio Code]]
-- 2021-11-17 at 18h43 · [[13 Things to Put on Your Daily Checklist for Boosted Productivity]]
-- 2021-11-17 at 18h43 · [[Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…]]
-- 2021-11-17 at 18h43 · [[The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux]]
-- 2021-11-17 at 18h43 · [[A Preview of WSL in the Microsoft Store Is Now Available!]]
-- 2021-11-17 at 18h43 · [[Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services]]
-- 2021-11-17 at 18h43 · [[7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff]]
-- 2021-11-17 at 18h43 · [[A Builder’s Guide to Note-Taking]]
-- 2021-11-17 at 18h43 · [[The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates]]
-- 2021-11-17 at 18h43 · [[GTD Reference The Best Filing System for Busy Lives  Shortform Books]]
-- 2021-11-17 at 18h43 · [[SSH Key Best Practices]]
-- 2021-11-17 at 18h43 · [[How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File]]
-- 2021-11-17 at 18h43 · [[Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]]]
-- 2021-11-17 at 18h43 · [[The Impact of the Cloud on Software Development  Developer.com]]
-- 2021-11-17 at 18h43 · [[Cloud Computing 8 Benefits for Your Software Developers - Dice Insights]]
-- 2021-11-17 at 18h43 · [[A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN]]
-- 2021-11-17 at 18h43 · [[Pay Off Your Debt Tools and Tips]]
-- 2021-11-17 at 18h43 · [[Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!]]
-- 2021-11-17 at 18h43 · [[Best Practices With Packer and Windows]]
-- 2021-11-17 at 18h43 · [[5 Steps for Tracking Your Monthly Expenses - NerdWallet]]
-- 2021-11-17 at 18h43 · [[Optimized Workflow]]
-- 2021-11-17 at 18h43 · [[How to Build the Ultimate Productivity System]]
-- 2021-11-17 at 18h43 · [[Habits You Must Have to Be a Highly Effective Programmers]]
-- 2021-11-17 at 18h43 · [[Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating]]
-- 2021-11-17 at 18h43 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
-- 2021-11-17 at 18h43 · [[Clean Up Your Productivity System to Be More Productive]]
-- 2021-11-17 at 18h43 · [[How to Build an Efficient Personal Knowledge Management System-2]]
-- 2021-11-17 at 18h43 · [[Last-Minute Moving Tips How to Pack in a Pinch - Updater]]
-- 2021-11-17 at 18h43 · [[How to Use Your Calendar to Make Every Day Your Ideal Day]]
-- 2021-11-17 at 18h43 · [[Paperless The One Notebook and Pen I’m Never Giving Up]]
-- 2021-11-17 at 18h43 · [[How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS]]
-- 2021-11-17 at 18h43 · [[The Productivity System You Use Doesn’t Matter]]
-- 2021-11-17 at 18h43 · [[The Search for the Ultimate Productivity System]]
-- 2021-11-17 at 18h43 · [[One Productivity System to Rule Them All]]
-- 2021-11-17 at 18h43 · [[Zen to Done The Habit-Building Productivity System]]
-- 2021-11-17 at 18h43 · [[Software Roles and Titles]]
-- 2021-11-17 at 18h43 · [[System Design Paradigm Caching]]
-- 2021-11-17 at 18h43 · [[9 Tricks for Boosting SQL Query Performance]]
-- 2021-11-17 at 18h43 · [[Event-Driven APIs — Understanding the Principles]]
-- 2021-11-17 at 18h43 · [[The 2 Types of Technical Documentation That  Developers Love]]
-- 2021-11-17 at 18h43 · [[RESTful API Design — Step by Step Guide]]
-- 2021-11-17 at 18h43 · [[5 Useful Golang Modules Developers Should Know in 2021-2]]
-- 2021-11-17 at 18h43 · [[CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.]]
-- 2021-11-17 at 18h43 · [[Everything About Software Architecture]]
-- 2021-11-17 at 18h43 · [[Craig Sturgis Dot Com]]
-- 2021-11-17 at 18h43 · [[How to Do a Weekly Review Step-By-Step]]
-- 2021-11-17 at 18h43 · [[5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life]]
-- 2021-11-17 at 18h43 · [[Audiobook Review David Allen's GTD  Weekly Review]]
-- 2021-11-17 at 18h43 · [[Back to Basics Your Weekly Review]]
-- 2021-11-17 at 18h43 · [[GTD Refresh, Part 5 Building the Weekly Review Habit]]
-- 2021-11-17 at 18h43 · [[A New Year Is a Beautiful Fresh Start]]
-- 2021-11-17 at 18h43 · [[Completing Tasks — 10 Steps to Finishing What You Start]]
-- 2021-11-17 at 18h43 · [[How to Enhance Your Windows Batch Files by Adding GUI]]
-- 2021-11-17 at 18h43 · [[6 YAML Features Most Programmers Don’t Know]]
-- 2021-11-17 at 18h43 · [[How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021]]
-- 2021-11-17 at 18h43 · [[Finishing Strong Part 1 Run a Victory Lap]]
-- 2021-11-17 at 18h43 · [[Guest Post Using Todoist With MYN and 1MTD by Charles Olsen]]
-- 2021-11-17 at 18h43 · [[Data Ecosystem]]
-- 2021-11-17 at 18h43 · [[A ‘Jobs to Be Done’ Framework for Startups]]
-- 2021-11-17 at 18h43 · [[Reflect, Recover, Reset – Your Life Plan 2021]]
-- 2021-11-17 at 18h43 · [[Take the First Step]]
-- 2021-11-17 at 18h43 · [[How to Do a Weekly Planning Session.]]
-- 2021-11-17 at 18h43 · [[Workflow for Serverless — Cloud Functions + Workflow [Basic]]]
-- 2021-11-17 at 18h43 · [[How a Single Freelancer Outperforms a Whole Team]]
-- 2021-11-17 at 18h43 · [[Why Programmers Should Write Tutorials]]
-- 2021-11-17 at 18h43 · [[System Design Basics Load Balancer 101]]
-- 2021-11-17 at 18h43 · [[#5 8 Tips for a Production-Ready Shiny Application]]
-- 2021-11-17 at 18h43 · [[Services in Systemd In-Depth Tutorial]]
-- 2021-11-17 at 18h43 · [[5 Useful Golang Modules Developers Should Know in 2021]]
-- 2021-11-17 at 18h43 · [[How to ‘DevOps’ as a Software Developer]]
-- 2021-11-17 at 18h43 · [[It’s Not You - It’s Your Knowledge Base]]
-- 2021-11-17 at 18h43 · [[How to Organize Your Writing With Markdown - Redeeming Productivity]]
-- 2021-11-17 at 18h43 · [[Digital De-Cluttering How to Streamline Your Online Life]]
-- 2021-11-17 at 18h43 · [[Rd Formatting]]
-- 2021-11-17 at 18h43 · [[How to Structure Your Data Science Workflow]]
-- 2021-11-17 at 18h43 · [[The Data Science Landscape]]
-- 2021-11-17 at 18h43 · [[Five Tidyverse Tricks You May Not Know About]]
-- 2021-11-17 at 18h43 · [[Writing Well A Must-Have Skill That No One Teaches Data Scientists]]
-- 2021-11-17 at 18h43 · [[The Future of Communities Is Increasingly More About Digital Community Gardening]]
-- 2021-11-17 at 18h43 · [[Digital Tools I Wish Existed]]
-- 2021-11-17 at 18h43 · [[Architecture for a Startup-2]]
-- 2021-11-17 at 18h43 · [[Architecture for a Startup]]
-- 2021-11-17 at 18h43 · [[The Role of Data Scientist A Back-Of-The-Envelope Model]]
-- 2021-11-17 at 18h43 · [[A Hierarchy First Approach to Note Taking]]
-- 2021-11-17 at 18h43 · [[R in Production, DevOps, and the Importance of Empathetic Witnesses]]
-- 2021-11-17 at 18h43 · [[Scaling R Shiny Applications]]
-- 2021-11-17 at 18h43 · [[I Built Docker Like Executable .Exe for RShiny!]]
-- 2021-11-17 at 18h43 · [[RShiny Authentication With Polished on AWS Kubernetes]]
-- 2021-11-17 at 18h43 · [[Shiny on Google Cloud Run - Scale-To-Zero R Web Apps]]
-- 2021-11-17 at 18h43 · [[R at Scale on the Google Cloud Platform]]
-- 2021-11-17 at 18h43 · [[Become a Better Developer Through Blogging - Steve Gordon - Code With Steve]]
-- 2021-11-17 at 18h43 · [[Top 10 Best Practices in Configuration Management]]
-- 2021-11-17 at 18h43 · [[The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing]]
-- 2021-11-17 at 18h43 · [[What’s on Your Programming Reading List-2]]
-- 2021-11-17 at 18h43 · [[Taking Notes for Yourself Best Practices for the Personal Notebook]]
-- 2021-11-17 at 18h43 · [[Productivity System Archives • Paul Jacobson]]
-- 2021-11-17 at 18h43 · [[Obsidian My New Knowledge Base or Base for Knowledge]]
-- 2021-11-17 at 18h43 · [[How to Crush It at the Start of Your New Developer Job - Small Business Programming]]
-- 2021-11-17 at 18h43 · [[Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley]]
-- 2021-11-17 at 18h43 · [[{yHat} - Reproducible Work in R]]
-- 2021-11-17 at 18h43 · [[Get Organized – Personal Development Ideas]]
-- 2021-11-17 at 18h43 · [[Top 4 Tips to Get Organized for Efficient Software Development]]
-- 2021-11-17 at 18h43 · [[How to Declutter & Organize Your Digital Files]]
-- 2021-11-17 at 18h43 · [[Writing Is Thinking-2]]
-- 2021-11-17 at 18h43 · [[Writing Is Thinking]]
-- 2021-11-17 at 18h43 · [[How the Web Works]]
-- 2021-11-17 at 18h43 · [[Using Redo to Manage R Data Analysis Workflow]]
-- 2021-11-17 at 18h43 · [[Why I Use a Cloud-Based Development Environment and How You Can Too]]
-- 2021-11-17 at 18h43 · [[Building Documentation Mindshare in a Company — Write the Docs]]
-- 2021-11-17 at 18h43 · [[Kubernetes Explained to Product Managers]]
-- 2021-11-17 at 18h43 · [[What’s on Your Programming Reading List]]
-- 2021-11-17 at 18h43 · [[Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter]]
-- 2021-11-17 at 18h43 · [[Complexity Has to Live Somewhere]]
-- 2021-11-17 at 18h43 · [[Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog]]
-- 2021-11-17 at 18h43 · [[Digital Decluttering Cleaning Up Computer Files & Social Media Profiles]]
-- 2021-11-17 at 18h43 · [[Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump]]
-- 2021-11-17 at 18h43 · [[The 13-Step Digital Declutter]]
-- 2021-11-17 at 18h43 · [[Powershell - Scripting - Tutorialspoint]]
-- 2021-11-17 at 18h43 · [[Managing Your Dotfiles]]
-- 2021-11-17 at 18h43 · [[Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow]]
-- 2021-11-17 at 18h43 · [[How to Organize Your Files An Introduction to Personal File Management - The Mac Observer]]
-- 2021-11-17 at 18h43 · [[4 Steps to Organize Your Massive To-Do List]]
-- 2021-11-17 at 18h43 · [[Create a Productivity Workflow That Works for You]]
-- 2021-11-17 at 18h43 · [[Robert Myles McDonnell]]
-- 2021-11-17 at 18h43 · [[Genius Things to Do on a Sunday to Have a Productive Week]]
-- 2021-11-17 at 18h43 · [[Action Items Template for Excel]]
-- 2021-11-17 at 18h43 · [[How to Achieve Your Daily Goals]]
-- 2021-11-17 at 18h43 · [[How to Create an Effective Productivity Plan - Optimize Time]]
-- 2021-11-17 at 18h43 · [[Feeling Overwhelmed 33 Productivity Tips to Get You Unstuck]]
-- 2021-11-17 at 18h43 · [[List Making When Overwhelmed Turn Stress Into Productivity]]
-- 2021-11-17 at 18h43 · [[Powerful Time Management Strategies to Do More With Your Day]]
-- 2021-11-17 at 18h43 · [[62 Productive Things to Do When Bored at Home]]
-- 2021-11-17 at 18h43 · [[10 Guidelines to Better Table Design]]
-- 2021-11-17 at 18h43 · [[State of R Packages in Your Library - R-Hub Blog]]
-- 2021-11-17 at 18h43 · [[Re-Exporting the Magrittr Pipe Operator › Petermeissner]]
-- 2021-11-17 at 18h43 · [[R Treasures modifyList() › Petermeissner]]
-- 2021-11-17 at 18h43 · [[7 Quick Tips to Control Clutter and Stop Hoarding]]
-- 2021-11-17 at 18h43 · [[How to Build a Personal Knowledge Management System - Cultivated Management]]
-- 2021-11-17 at 18h43 · [[Structure and Automated Workflow for a Machine Learning Project — part 1]]
-- 2021-11-17 at 18h43 · [[The Data Science Workflow]]
-- 2021-11-17 at 18h43 · [[It's the Programming Environment, Not the Programming Language  thesephist.com]]
-- 2021-11-17 at 18h43 · [[27 Incredibly Useful Things You Didn’t Know Chrome Could Do]]
-- 2021-11-17 at 18h43 · [[4 Efficient Workflow  Efficient R Programming]]
-- 2021-11-17 at 18h43 · [[How to Automate Your Project and Github Repo Setup From the Command Line]]
-- 2021-11-17 at 18h43 · [[9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager]]
-- 2021-11-17 at 18h43 · [[How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering]]
-- 2021-11-17 at 18h43 · [[How I Use Evernote to Organize Client Projects]]
-- 2021-11-17 at 18h43 · [[You Should Make a Blog!]]
-- 2021-11-17 at 18h43 · [[Archivist and GitHub Integration Archivist.github]]
-- 2021-11-17 at 18h43 · [[R & RStudio – The Interoperability Environment for Data Analytics]]
-- 2021-11-17 at 18h43 · [[Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).]]
-- 2021-11-17 at 18h43 · [[RStudio  Open Source & Professional Software for Data Science Teams]]
-- 2021-11-17 at 18h43 · [[Productivity System The Definitive Guide (2020) - THEZEROED]]
-- 2021-11-17 at 18h43 · [[New Project Checklist]]
-- 2021-11-17 at 18h43 · [[LeaRning Path on R - Step by Step Guide to Learn Data Science on R]]
-- 2021-11-17 at 18h43 · [[Building Better Documentation  Atlassian]]
-- 2021-11-17 at 18h43 · [[Decent-Code]]
-- 2021-11-17 at 18h43 · [[#6 Practicing - Tips From the Clean Coder - DEV]]
-- 2021-11-17 at 18h43 · [[How to Create a GitHub Profile README]]
-- 2021-11-17 at 18h43 · [[Top GitHub Best Practices for Developers]]
-- 2021-11-17 at 18h43 · [[Get New IT Pros Up to Speed Fast With This Onboarding Checklist]]
-- 2021-11-17 at 18h43 · [[Onboarding New Developers]]
-- 2021-11-17 at 18h43 · [[7 Best Practices for Your Developer Onboarding Process]]
-- 2021-11-17 at 18h43 · [[3 Smart Uses of Curated Lists and How to Create Them]]
-- 2021-11-17 at 18h43 · [[The Best Productivity System There Is - Personal Excellence]]
-- 2021-11-17 at 18h43 · [[The Best PC Software for Your Windows Computer]]
-- 2021-11-17 at 18h43 · [[10 Tips to Turn Microsoft To-Do Into a Serious Task Manager]]
-- 2021-11-17 at 18h43 · [[Weekly Reset System for Increased Productivity  Mystigal]]
-- 2021-11-17 at 18h43 · [[More Solutions for Taking Podcast Notes An App Overview]]
-- 2021-11-17 at 18h43 · [[Solutions for Taking Notes When Listening to Podcasts]]
-- 2021-11-17 at 18h43 · [[An Iterative Approach to Notes]]
-- 2021-11-17 at 18h43 · [[Projmgr Managing the Human Dependencies of Your Projects  Emily Riederer]]
-- 2021-11-17 at 18h43 · [[The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Jani’s Notes]]
-- 2021-11-17 at 18h43 · [[My Personal Knowledge Management System — Moby Diction]]
-- 2021-11-17 at 18h43 · [[Methods Bites]]
-- 2021-11-17 at 18h43 · [[The Best Way to Organize Your To-Dos]]
-- 2021-11-17 at 18h43 · [[How to Be More Productive Build a System and 10x Your Output - The Monk Life]]
-- 2021-11-17 at 18h43 · [[Project Based Learning]]
-- 2021-11-17 at 18h43 · [[Information Strategy My Routine, Inputs – Interdependent Thoughts]]
-- 2021-11-17 at 18h43 · [[Building a Digital Garden]]
-- 2021-11-17 at 18h43 · [[How to Clean Your Windows Computer The Ultimate Checklist]]
-- 2021-11-17 at 18h43 · [[On Confronting the Productivity Dragon]]
-- 2021-11-17 at 18h43 · [[Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport]]
-- 2021-11-17 at 18h43 · [[Are You Making This GTD Mistake - Asian Efficiency]]
-- 2021-11-17 at 18h43 · [[The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport]]
-- 2021-11-17 at 18h43 · [[The Unsinkable Student Organization System - Study Hacks - Cal Newport]]
-- 2021-11-17 at 18h43 · [[My Focus-Centric Work Day - Study Hacks - Cal Newport]]
-- 2021-11-17 at 18h43 · [[The Deep Reset - Study Hacks - Cal Newport]]
-- 2021-11-17 at 18h43 · [[Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software]]
-- 2021-11-17 at 18h43 · [[The 'Weekly Review' Method Will Help You Get Things Done]]
-- 2021-11-17 at 18h43 · [[How to Check Your Windows Experience Score on Windows 10]]
-- 2021-11-17 at 18h43 · [[RDatascience - Career Tips From an Old Timer]]
-- 2021-11-17 at 18h43 · [[9 Tips to Get More Out of Your Calendar [PMP #177]]]
-- 2021-11-17 at 18h43 · [[Consolidate and Unify - Tandem Vault  Digital Asset Management]]
-- 2021-11-17 at 18h43 · [[How to Be More Organized Declutter, Take Control, and Achieve More at Work]]
-- 2021-11-17 at 18h43 · [[Delete These Windows Files and Folders to Free Up Disk Space]]
-- 2021-11-17 at 18h43 · [[7 Effective Tools to Increase Your Hard Drive Performance on Windows]]
-- 2021-11-17 at 18h43 · [[8 Ways to Free Up RAM on Your Windows Computer]]
-- 2021-11-17 at 18h43 · [[The Best Free Software of 2020]]
-- 2021-11-17 at 18h43 · [[The Best Microsoft Store Apps for Windows 10]]
-- 2021-11-17 at 18h43 · [[How to Do More With Windows 10 Using PowerToys]]
-- 2021-11-17 at 18h43 · [[Tipsandtricks - Windows10]]
-- 2021-11-17 at 18h43 · [[The 10 Best Free Antivirus Software]]
-- 2021-11-17 at 18h43 · [[A Better Way to Manage Your Github Personal Access Tokens]]
-- 2021-11-17 at 18h43 · [[How to Properly Organize Your Hard (Boot) Drive]]
-- 2021-11-17 at 18h43 · [[Collecting and Organising Data for Maximum Productivity. — Carl Pullein]]
-- 2021-11-17 at 18h43 · [[Cloudwards.net's Backup and Storage Strategy 2017]]
-- 2021-11-17 at 18h43 · [[How to Partition a Hard Drive in 2020]]
-- 2021-11-17 at 18h43 · [[Building an Open Source Personal Knowledge Base  Hacker Noon]]
-- 2021-11-17 at 18h43 · [[How I Organize My Knowledge as a Software Engineer]]
-- 2021-11-17 at 18h43 · [[Best Practices for Outlook]]
-- 2021-11-17 at 18h43 · [[The Ultimate Home Office Setup Guide 18 Must-Have Items]]
-- 2021-11-17 at 18h43 · [[Managing Yourself Extreme Productivity]]
-- 2021-11-17 at 18h43 · [[Inbox Master Get All Your Inboxes to Zero, and Have Fewer Inboxes  Zen Habits]]
-- 2021-11-17 at 18h43 · [[Grant Ammons - How to Efficiently Manage Your Dotfiles]]
-- 2021-11-17 at 18h43 · [[Managing My Personal Knowledge Base]]
-- 2021-11-17 at 18h43 · [[8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry]]
-- 2021-11-17 at 18h43 · [[The Checklist Manifesto - By Atul Gawande  Derek Sivers]]
-- 2021-11-17 at 18h43 · [[3 Steps to Designing a Powerful Project Workflow - ProjectManager.com]]
-- 2021-11-17 at 18h43 · [[6 Windows Apps That Automatically Organize Files for You]]
-- 2021-11-17 at 18h43 · [[Backup 101 Windows Files and Folders You Should Always Back Up]]
-- 2021-11-17 at 18h43 · [[Rebooting Your Productivity System]]
-- 2021-11-17 at 18h43 · [[Digital Life in Disarray Use These 6 Steps to Get Organized.]]
-- 2021-11-17 at 18h43 · [[How to Develop Your Digital Space for Peak Productivity]]
-- 2021-11-17 at 18h43 · [[The Notetaking Cold War]]
-- 2021-11-17 at 18h43 · [[How to Organize Computer Files on Your Home Computer]]
-- 2021-11-17 at 18h43 · [[5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later]]
-- 2021-11-17 at 18h43 · [[R Tips and Tricks – Utilities]]
-- 2021-11-17 at 18h43 · [[Getting Started With GTD Templates  Evernote  Evernote Blog]]
-- 2021-11-17 at 18h43 · [[Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali]]
-- 2021-11-17 at 18h43 · [[What's a Successful Shiny Application - Rtask]]
-- 2021-11-17 at 18h43 · [[Bioconductor - Package Guidelines]]
-- 2021-11-17 at 18h43 · [[10 Ways to Improve How You Manage Information]]
-- 2021-11-17 at 18h43 · [[Implementing an Idea-Management System - LessWrong 2.0]]
-- 2021-11-17 at 18h43 · [[Ultimate Personal Management Systems - The Startup - Medium]]
-- 2021-11-17 at 18h43 · [[Logging Events in Shiny Apps • shinyEventLogger]]
-- 2021-11-17 at 18h43 · [[Building a Data Pipeline From Scratch - The Data Experience - Medium]]
-- 2021-11-17 at 18h43 · [[Managing Your Project - How to Make Your Research Reproducible - Library Gu]]
-- 2021-11-17 at 18h43 · [[Home - How to Write a Good Documentation - Library Guides at UC Berkeley]]
-- 2021-11-17 at 18h43 · [[Templates for R Markdown  Jianghao]]
-- 2021-11-17 at 18h43 · [[A Workflow for R]]
-- 2021-11-17 at 18h43 · [[Planning a Lot  Yujun Zhou's Website]]
-- 2021-11-17 at 18h43 · [[Project Management With RStudio and Github  Yujun Zhou's Website]]
-- 2021-11-17 at 18h43 · [['Mustashe' Explained  Joshua Cook]]
-- 2021-11-17 at 18h43 · [[Re-Share Vtreat Data Preparation Documentation and Video – Win-Vector Blog]]
-- 2021-11-17 at 18h43 · [[The R Code Optimizer • Rco]]
-- 2021-11-17 at 18h43 · [[Auto Documentation System for R Shiny - Stack Overflow]]
-- 2021-11-17 at 18h43 · [[Knoco Stories What's Unique About Knowledge Management]]
-- 2021-11-17 at 18h43 · [[Seth Godin's 7-Point Guide to Bootstrap Your Personal Brand - Personal Bran]]
-- 2021-11-17 at 18h43 · [[How to Build an Efficient Personal Knowledge Management System]]
-- 2021-11-17 at 18h43 · [[Shiny Load Testing and Horizontal Scaling]]
-- 2021-11-17 at 18h43 · [[Enable Code Folding in Bookdown and Blogdown · StatnMap]]
-- 2021-11-17 at 18h43 · [[Getting Data From PDFs the Easy Way With R - Open Source Automation]]
-- 2021-11-17 at 18h43 · [[Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow]]
-- 2021-11-17 at 18h43 · [[How to Distribute Data With Your R Package - R-Hub Blog]]
-- 2021-11-17 at 18h43 · [[One Observer for All Buttons in Shiny Using JavaScript  jQuery]]
-- 2021-11-17 at 18h43 · [[The 35 Best Productivity Apps for 2020]]
-- 2021-11-17 at 18h43 · [[How to Centralize Your Tasks When You’re Using Too Many Apps]]
-- 2021-11-17 at 18h43 · [[Building a Second Brain An Overview - Forte Labs]]
-- 2021-11-17 at 18h43 · [[rBokeh - Tipps and Tricks With JavaScript and Beyond!  STATWORX]]
-- 2021-11-17 at 18h43 · [[Variable and Value Labels Support in Base R and Other Packages]]
-- 2021-11-17 at 18h43 · [[4 Solid Ways to Get the Best of the Web]]
-- 2021-11-17 at 18h43 · [[How to Declutter Your Data With No Regrets]]
-- 2021-11-17 at 18h43 · [[RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas]]
-- 2021-11-17 at 18h43 · [[Writing Technical Design Docs, Revisited - Machine Words - Medium]]
-- 2021-11-17 at 18h43 · [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]
-- 2021-11-17 at 18h43 · [[Wtf Is a Zettelkasten  Zettlr]]
-- 2021-11-17 at 18h43 · [[How to Export Evernote to Google Drive]]
-- 2021-11-17 at 18h43 · [[Your Productivity Obsession Might Be Making You Less Productive]]
-- 2021-11-17 at 18h43 · [[Zen and the Art of File and Folder Organization]]
-- 2021-11-17 at 18h43 · [[How to Organize Your Files for Maximum Productivity]]
-- 2021-11-17 at 18h43 · [[Why Ongoing Is the Worst Word in the History of Project Management]]
-- 2021-11-17 at 18h43 · [[What I've Learnt About Making an R Package]]
-- 2021-11-17 at 18h43 · [[Persistent Config and Data for R Packages - R-Hub Blog]]
-- 2021-11-17 at 18h43 · [[You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs]]
-- 2021-11-17 at 18h43 · [[10 Windows Task Manager Tricks You Probably Didn’t Know]]
-- 2021-11-17 at 18h43 · [[Getting Things Done With Todoist – My GTD Setup]]
-- 2021-11-17 at 18h43 · [[Evernote and Todoist REALLY Getting Things Done]]
-- 2021-11-17 at 18h43 · [[The Case for Digital Notes - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Strategically Constrained How to Turn Limitations Into Opportunities - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs]]
-- 2021-11-17 at 18h43 · [[The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Developer GTD]]
-- 2021-11-17 at 18h43 · [[Programming Productivity - Wikipedia]]
-- 2021-11-17 at 18h43 · [[How to Be Mentally Strong - James Altucher]]
-- 2021-11-17 at 18h43 · [[Supersizing the Mind The Science of Cognitive Extension - Forte Labs]]
-- 2021-11-17 at 18h43 · [[PARA Part 8 Core Principles of Digital Organization - Forte Labs]]
-- 2021-11-17 at 18h43 · [[How to Use Evernote for Your Creative Workflow - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Want to Get Organized Start With the Mind Sweep]]
-- 2021-11-17 at 18h43 · [[Building a Second Brain in Emacs and Org-Mode - Forte Labs]]
-- 2021-11-17 at 18h43 · [[The Digital Productivity Pyramid - Forte Labs]]
-- 2021-11-17 at 18h43 · [[The 25+ Best Productivity Apps in 2020]]
-- 2021-11-17 at 18h43 · [[Gaming the Naming The ABC's of Organizing Your Evernote Notebooks]]
-- 2021-11-17 at 18h43 · [[The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester]]
-- 2021-11-17 at 18h43 · [[Basics of the Unix Philosophy]]
-- 2021-11-17 at 18h43 · [[How to Use Evernote's Advanced Search Syntax]]
-- 2021-11-17 at 18h43 · [[How to Use Todoist Tutorial]]
-- 2021-11-17 at 18h43 · [[Using Todoist for GTD  GTD Method]]
-- 2021-11-17 at 18h43 · [[GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH]]
-- 2021-11-17 at 18h43 · [[GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH]]
-- 2021-11-17 at 18h43 · [[11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist]]
-- 2021-11-17 at 18h43 · [[Getting Things Done Organize]]
-- 2021-11-17 at 18h43 · [[Getting Things Done Clarify]]
-- 2021-11-17 at 18h43 · [[12 Types of Lists You Should Keep to Get Things Done]]
-- 2021-11-17 at 18h43 · [[The Official Guide to Using Todoist Build Your Perfect Productivity Workfl]]
-- 2021-11-17 at 18h43 · [[5 Pitfalls of Being an Information Hoarder  Foolishly Creative]]
-- 2021-11-17 at 18h43 · [[Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester]]
-- 2021-11-17 at 18h43 · [[The Importance of Systems]]
-- 2021-11-17 at 18h43 · [[Productivity Overwhelm]]
-- 2021-11-17 at 18h43 · [[FW Managing Outcomes in a Remote Environment]]
-- 2021-11-17 at 18h43 · [[One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Blog  Filterize]]
-- 2021-11-17 at 18h43 · [[First Principles of Workflow Design (A 2-Part Episode)  RadReads]]
-- 2021-11-17 at 18h43 · [[Getting More Done at Work With Evernote - Frank Buck Consulting]]
-- 2021-11-17 at 18h43 · [[PARA Part 5 The Project List Mindsweep - Forte Labs]]
-- 2021-11-17 at 18h43 · [[Usethis Workflow for Package Development  Emil Hvitfeldt]]
-- 2021-11-17 at 18h43 · [[This Is How You Become Confident and Transform Your Life]]
-- 2021-11-17 at 18h43 · [[3 Steps to Managing Your Time and Maximizing Your Workday]]
-- 2021-11-17 at 18h43 · [[Why Organising Your To-Dos by Project Does Not Work.]]
-- 2021-11-17 at 18h43 · [[How to Organize & Add Apps on Windows 10]]
-- 2021-11-17 at 18h43 · [[How to Make a To-Do List and Get Sh!t Done]]
-- 2021-11-17 at 18h43 · [[How to Make Yourself Into a Learning Machine]]
-- 2021-11-17 at 18h43 · [[How to Make Your Developer On-Boarding Process Idiot Proof]]
-- 2021-11-17 at 18h43 · [[How to Learn Linux and Git]]
-- 2021-11-17 at 18h43 · [[How to Keep Windows 10 Organized, Pretty, and Productive]]
-- 2021-11-17 at 18h43 · [[How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC]]
-- 2021-11-17 at 18h43 · [[How to Increase Your Efficiency at Work]]
-- 2021-11-17 at 18h43 · [[How to Improve the Performance of Your Windows Computer Fundamentally]]
-- 2021-11-17 at 18h43 · [[How to Handle Inbox Infinity]]
-- 2021-11-17 at 18h43 · [[How to Get Through a Paper and Digital Backlog – Gigaom]]
-- 2021-11-17 at 18h43 · [[Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More]]
-- 2021-11-17 at 18h43 · [[Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth]]
-- 2021-11-17 at 18h43 · [[Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking]]
-- 2021-11-17 at 18h43 · [[Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
-- 2021-11-17 at 18h43 · [[Dorie Clark on the power of Long Term Thinking]]
-- 2021-11-17 at 18h43 · [[Data Discovery with Shinji Kim]]
-- 2021-11-17 at 18h43 · [[Infrastructure as Code with Christian Tragesser]]
-- 2021-11-17 at 18h43 · [[Ep. 109 —  How Much Should I Read]]
-- 2021-11-17 at 18h43 · [[#110 —  How to Clear Your Calendar in Your Busiest Seasons]]
-- 2021-11-17 at 18h43 · [[#401 —  Gary Keller — How to Focus on the One Important Thing]]
-- 2021-11-17 at 18h43 · [[Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless]]
-- 2021-11-17 at 18h43 · [[Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth]]
-- 2021-11-17 at 18h43 · [[132 —  Willpower and Your Environment]]
-- 2021-11-17 at 18h43 · [[Ep. 65 —  Is Productivity Bad]]
-- 2021-11-17 at 18h43 · [[Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Argo —  Kubernetes-Native Tools with Alex Collins]]
-- 2021-11-17 at 18h43 · [[Ep. 69 —  How Do I Find Joy in Leisure]]
-- 2021-11-17 at 18h43 · [[Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[How To Recover From A Bad Day (TPS374)]]
-- 2021-11-17 at 18h43 · [[Find your finish line]]
-- 2021-11-17 at 18h43 · [[Limit Your Options By Limiting Your Obligations]]
-- 2021-11-17 at 18h43 · [[54. Listener questions #7 —  Big projects vs sub-projects and where to store support material]]
-- 2021-11-17 at 18h43 · [[Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling]]
-- 2021-11-17 at 18h43 · [[Ep. 125 —  What is Discipline (and How Do I Get It)]]
-- 2021-11-17 at 18h43 · [[Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time]]
-- 2021-11-17 at 18h43 · [[Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems]]
-- 2021-11-17 at 18h43 · [[Megan McNealy on Achieving Optimal Productivity Through Well-being]]
-- 2021-11-17 at 18h43 · [[Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy]]
-- 2021-11-17 at 18h43 · [[113 —  ADHD and Cognitive Science, with Brittany Smith]]
-- 2021-11-17 at 18h43 · [[Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)]]
-- 2021-11-17 at 18h43 · [[Oh my! Zsh.]]
-- 2021-11-17 at 18h43 · [[Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow]]
-- 2021-11-17 at 18h43 · [[Ep. 101 —  Does Productivity Impede the Deep Life]]
-- 2021-11-17 at 18h43 · [[Jaime Masters on Focus, Flow, Time Tracking and Nootropics]]
-- 2021-11-17 at 18h43 · [[#384 —  David Allen — The Art of Getting Things Done (GTD)]]
-- 2021-11-17 at 18h43 · [[Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days]]
-- 2021-11-17 at 18h43 · [[Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon]]
-- 2021-11-17 at 18h43 · [[Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much]]
-- 2021-11-17 at 18h43 · [[The business model of open source]]
-- 2021-11-17 at 18h43 · [[Ep. 108 —  LISTENER CALLS —  Becoming Productive]]
-- 2021-11-17 at 18h43 · [[Wed. 0929 – Is Amazon’s Astro Robot… Ready]]
-- 2021-11-17 at 18h43 · [[677 - The Art of Impossible With Steven Kotler!]]
-- 2021-11-17 at 18h43 · [[Projects Lists - November 2019]]
-- 2021-11-17 at 18h43 · [[27. The Underlying Technology Behind Fiat Standard]]
-- 2021-11-17 at 18h43 · [[Laurie Santos, PhD  Simple Ways to Live a Happier Life]]
-- 2021-11-17 at 18h43 · [[#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More]]
-- 2021-11-17 at 18h43 · [[He Ran Across America — On Plants]]
-- 2021-11-17 at 18h43 · [[#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals]]
-- 2021-11-17 at 18h43 · [[#23 Nat Eliason on Starting a Life-Changing Blog]]
-- 2021-11-17 at 18h43 · [[My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Stop Living on Autopilot and Take Responsibility for Your Life]]
-- 2021-11-17 at 18h43 · [[#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More]]
-- 2021-11-17 at 18h43 · [[#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success]]
-- 2021-11-17 at 18h43 · [[Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[#101 Jane McGonigal The Psychology of Gaming]]
-- 2021-11-17 at 18h43 · [[SYSTEMS THINKING What Is a System]]
-- 2021-11-17 at 18h43 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2]]
-- 2021-11-17 at 18h43 · [[Austin Kleon on Writing, Creativity and the Importance of Idleness]]
-- 2021-11-17 at 18h43 · [[Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan]]
-- 2021-11-17 at 18h43 · [[Personal Knowledge Management Reprised]]
-- 2021-11-17 at 18h43 · [[This Is How We Change the World]]
-- 2021-11-17 at 18h43 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
-- 2021-11-17 at 18h43 · [[68 Bits of Unsolicited Advice-2]]
-- 2021-11-17 at 18h43 · [[#447 Books I've Loved — Ann Miura-Ko-2]]
-- 2021-11-17 at 18h43 · [[Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2]]
-- 2021-11-17 at 18h43 · [[#88 Derek Sivers Innovation Versus Imitation-2]]
-- 2021-11-17 at 18h43 · [[Exponent 188 — Big Tech, Antitrust, and Democracy-2]]
-- 2021-11-17 at 18h43 · [[#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2]]
-- 2021-11-17 at 18h43 · [[Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job]]
-- 2021-11-17 at 18h43 · [[Borrowed Creativity]]
-- 2021-11-17 at 18h43 · [[Competitiveness and Mimetic Traps]]
-- 2021-11-17 at 18h43 · [[Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[#634 How to Design Conversations That Matter-2]]
-- 2021-11-17 at 18h43 · [[#634 How to Design Conversations That Matter]]
-- 2021-11-17 at 18h43 · [[#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More]]
-- 2021-11-17 at 18h43 · [[#88 Derek Sivers Innovation Versus Imitation]]
-- 2021-11-17 at 18h43 · [[Exponent 188 — Big Tech, Antitrust, and Democracy]]
-- 2021-11-17 at 18h43 · [[Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS]]
-- 2021-11-17 at 18h43 · [[#447 Books I've Loved — Ann Miura-Ko]]
-- 2021-11-17 at 18h43 · [[68 Bits of Unsolicited Advice]]
-- 2021-11-17 at 18h43 · [[You Need a Budget]]
-- 2021-11-17 at 18h43 · [[Quick Passages]]
-- 2021-11-17 at 18h43 · [[Tribe of Mentors]]
-- 2021-11-17 at 18h43 · [[Extend Your Mind]]
-- 2021-11-17 at 18h43 · [[Clean Up and Declutter Your Computer]]
-- 2021-11-17 at 18h43 · [[Design Your Work]]
-- 2021-11-17 at 18h43 · [[Reproducible Research With R and RStudio]]
-- 2021-11-17 at 18h43 · [[Free to Focus]]
-- 2021-11-17 at 17h58 · [[README]]
-- 2021-11-17 at 17h58 · [[Atomic Notes]]
-- 2021-11-17 at 17h57 · [[Synapse]]
-- 2021-11-17 at 17h56 · [[Building a Second Brain]]
-- 2021-11-17 at 17h55 · [[Publish Workflow]]
-- 2021-11-17 at 17h54 · [[Structure]]
-- 2021-11-17 at 17h53 · [[About]]
-- 2021-11-17 at 17h51 · [[_README]]
-- 2021-11-17 at 17h51 · [[_README]]
-- 2021-11-17 at 17h47 · [[Random Forest Algorithms]]
-- 2021-11-17 at 17h47 · [[Neural Networks]]
-- 2021-11-17 at 17h47 · [[Generalized Linear Models]]
-- 2021-11-17 at 17h47 · [[Generalized Additive Models]]
-- 2021-11-17 at 17h41 · [[_README]]
-- 2021-11-17 at 17h41 · [[_README]]
-- 2021-11-17 at 17h40 · [[_README]]
-- 2021-11-17 at 17h34 · [[_README]]
-- 2021-11-17 at 17h27 · [[Meta-Template]]
-- 2021-11-17 at 17h27 · [[Slipbox-Default-Template]]
-- 2021-11-17 at 17h23 · [[Alteryx]]
+* 2021-11-23 at 01h23 · [2021-11-23](Daily-Notes/2021-11-23.md)
+* 2021-11-21 at 23h00 · [Weekly Review Musings](Slipbox/Weekly%20Review%20Musings.md)
+* 2021-11-21 at 23h00 · [The Ultimate Guide to an Effective Weekly Review](Slipbox/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review.md)
+* 2021-11-21 at 22h57 · *\_README*
+* 2021-11-21 at 22h57 · *\_README*
+* 2021-11-21 at 22h57 · *\_README*
+* 2021-11-21 at 22h56 · *\_README*
+* 2021-11-21 at 22h56 · *\_README*
+* 2021-11-21 at 22h55 · *\_README*
+* 2021-11-21 at 22h50 · [The Ultimate Guide to an Effective Weekly Review- Highlights](Resources/Highlights/Notes/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review-%20Highlights.md)
+* 2021-11-21 at 22h12 · [Justin DiRose](People/Justin%20DiRose.md)
+* 2021-11-21 at 21h54 · [Online Developer Tools](Resources/Tools/Online%20Developer%20Tools.md)
+* 2021-11-21 at 21h50 · *\_README*
+* 2021-11-21 at 21h38 · [2021-11-21](Daily-Notes/2021-11-21.md)
+* 2021-11-21 at 21h37 · [Readwise Syncs](Resources/Highlights/Readwise/Readwise%20Syncs.md)
+* 2021-11-17 at 19h28 · [Personal Knowledge Management](MOCs/Personal%20Knowledge%20Management.md)
+* 2021-11-17 at 19h26 · [Actuarial Science](MOCs/Actuarial%20Science.md)
+* 2021-11-17 at 19h23 · [Why Can't I Complete All My Daily Tasks](Resources/Highlights/Readwise/Podcasts/Why%20Can't%20I%20Complete%20All%20My%20Daily%20Tasks.md)
+* 2021-11-17 at 19h23 · [MLOps](Slipbox/MLOps.md)
+* 2021-11-17 at 19h23 · [Azure Machine Learning](Slipbox/Azure%20Machine%20Learning.md)
+* 2021-11-17 at 19h23 · [Digital Garden](Slipbox/Digital%20Garden.md)
+* 2021-11-17 at 19h22 · [Progressive Summarization](Slipbox/Progressive%20Summarization.md)
+* 2021-11-17 at 19h22 · [PARA Method](Slipbox/PARA%20Method.md)
+* 2021-11-17 at 19h22 · [Tiago Forte](People/Tiago%20Forte.md)
+* 2021-11-17 at 19h21 · [Productivity Apps](Slipbox/Productivity%20Apps.md)
+* 2021-11-17 at 19h20 · [REST API Best Practices](Slipbox/REST%20API%20Best%20Practices.md)
+* 2021-11-17 at 19h20 · [R Package - plumber](Slipbox/R%20Package%20-%20plumber.md)
+* 2021-11-17 at 19h20 · [Team Data Science Process](Slipbox/Team%20Data%20Science%20Process.md)
+* 2021-11-17 at 19h19 · [Todoist](Slipbox/Todoist.md)
+* 2021-11-17 at 19h19 · [Obsidian](Slipbox/Obsidian.md)
+* 2021-11-17 at 19h18 · [Microsoft Windows Terminal](Slipbox/Microsoft%20Windows%20Terminal.md)
+* 2021-11-17 at 19h18 · [Tool-Template](Templates/Tool-Template.md)
+* 2021-11-17 at 19h16 · [WSL Terminal and Shell Setup Guide](Slipbox/WSL%20Terminal%20and%20Shell%20Setup%20Guide.md)
+* 2021-11-17 at 19h16 · [Collectors Fallacy](Slipbox/Collectors%20Fallacy.md)
+* 2021-11-17 at 19h15 · [Niklas Luhmann](People/Niklas%20Luhmann.md)
+* 2021-11-17 at 19h08 · [Obsidian-Clipper](Resources/Clippings/Obsidian-Clipper.md)
+* 2021-11-17 at 18h57 · [Person-Template](Templates/Personal-Templates/Person-Template.md)
+* 2021-11-17 at 18h56 · [Zettelkasten](Slipbox/Zettelkasten.md)
+* 2021-11-17 at 18h55 · [zsh](Slipbox/zsh.md)
+* 2021-11-17 at 18h55 · [Ruby](Slipbox/Ruby.md)
+* 2021-11-17 at 18h55 · [Nerdfont](Slipbox/Nerdfont.md)
+* 2021-11-17 at 18h54 · [powerlevel10k](Slipbox/powerlevel10k.md)
+* 2021-11-17 at 18h54 · [oh-my-zsh](Slipbox/oh-my-zsh.md)
+* 2021-11-17 at 18h54 · [Bash](Slipbox/Bash.md)
+* 2021-11-17 at 18h54 · [Workbench](Workbench.md)
+* 2021-11-17 at 18h51 · [Development](MOCs/Development.md)
+* 2021-11-17 at 18h44 · [How to Get and Remain Organized During Chaotic Times](Resources/Highlights/Readwise/Articles/How%20to%20Get%20and%20Remain%20Organized%20During%20Chaotic%20Times.md)
+* 2021-11-17 at 18h43 · [Can't Stay Focused While Processing - Have Tried for Months](Resources/Highlights/Readwise/Articles/Can't%20Stay%20Focused%20While%20Processing%20-%20Have%20Tried%20for%20Months.md)
+* 2021-11-17 at 18h43 · [DataOps Implementation Guidelines](Resources/Highlights/Readwise/Articles/DataOps%20Implementation%20Guidelines.md)
+* 2021-11-17 at 18h43 · [The Actuary of the Future](Resources/Highlights/Readwise/Articles/The%20Actuary%20of%20the%20Future.md)
+* 2021-11-17 at 18h43 · [Ferret — Your Local Environment Made Easy](Resources/Highlights/Readwise/Articles/Ferret%E2%80%8A%E2%80%94%E2%80%8AYour%20Local%20Environment%20Made%20Easy.md)
+* 2021-11-17 at 18h43 · [API Architecture  —  Performance Best Practices for REST APIs](Resources/Highlights/Readwise/Articles/API%20Architecture%20%E2%80%8A%E2%80%94%E2%80%8A%20Performance%20Best%20Practices%20for%20REST%20APIs.md)
+* 2021-11-17 at 18h43 · [Obsidian, Taming a Collective Consciousness - TrustedSec](Resources/Highlights/Readwise/Articles/Obsidian,%20Taming%20a%20Collective%20Consciousness%20-%20TrustedSec.md)
+* 2021-11-17 at 18h43 · [The Search for the Ultimate Productivity System-2](Resources/Highlights/Readwise/Articles/The%20Search%20for%20the%20Ultimate%20Productivity%20System-2.md)
+* 2021-11-17 at 18h43 · [Git Process for Small Organizations to Begin With](Resources/Highlights/Readwise/Articles/Git%20Process%20for%20Small%20Organizations%20to%20Begin%20With.md)
+* 2021-11-17 at 18h43 · [Dev Environments as Code With Containers and Visual Studio Code](Resources/Highlights/Readwise/Articles/Dev%20Environments%20as%20Code%20With%20Containers%20and%20Visual%20Studio%20Code.md)
+* 2021-11-17 at 18h43 · [13 Things to Put on Your Daily Checklist for Boosted Productivity](Resources/Highlights/Readwise/Articles/13%20Things%20to%20Put%20on%20Your%20Daily%20Checklist%20for%20Boosted%20Productivity.md)
+* 2021-11-17 at 18h43 · [Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…](Resources/Highlights/Readwise/Articles/Business%20Engineering%20%E2%80%94%20An%20Alternative%20Approach%20to%20Architecting%20and%20Executing%20Complex%20Businesses%E2%80%A6.md)
+* 2021-11-17 at 18h43 · [The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux](Resources/Highlights/Readwise/Articles/The%20Best%20Part%20of%20Windows%2011%20Is%20a%20Revamped%20Windows%20Subsystem%20for%20Linux.md)
+* 2021-11-17 at 18h43 · [A Preview of WSL in the Microsoft Store Is Now Available!](Resources/Highlights/Readwise/Articles/A%20Preview%20of%20WSL%20in%20the%20Microsoft%20Store%20Is%20Now%20Available!.md)
+* 2021-11-17 at 18h43 · [Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services](Resources/Highlights/Readwise/Articles/Best%20Free,%20Public%20DNS%20Servers%20in%202021%20Boost%20Your%20Internet%20Speed%20With%20These%20Services.md)
+* 2021-11-17 at 18h43 · [7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff](Resources/Highlights/Readwise/Articles/7%20Best%20DNS%20Monitoring%20Tools%20+%20How%20to%20Monitor%20DNS%20Server%20-%20DNSstuff.md)
+* 2021-11-17 at 18h43 · [A Builder’s Guide to Note-Taking](Resources/Highlights/Readwise/Articles/A%20Builder%E2%80%99s%20Guide%20to%20Note-Taking.md)
+* 2021-11-17 at 18h43 · [The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates](Resources/Highlights/Readwise/Articles/The%20Nitty-Gritty%20%E2%80%93%20Clearing%20Out%20Your%20Inbox%20-%20Next%20Action%20Associates.md)
+* 2021-11-17 at 18h43 · [GTD Reference The Best Filing System for Busy Lives  Shortform Books](Resources/Highlights/Readwise/Articles/GTD%20Reference%20The%20Best%20Filing%20System%20for%20Busy%20Lives%20%20Shortform%20Books.md)
+* 2021-11-17 at 18h43 · [SSH Key Best Practices](Resources/Highlights/Readwise/Articles/SSH%20Key%20Best%20Practices.md)
+* 2021-11-17 at 18h43 · [How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File](Resources/Highlights/Readwise/Articles/How%20to%20Use%20the%20Windows%20Media%20Creation%20Tool%20to%20Create%20a%20Windows%2010%20ISO%20File.md)
+* 2021-11-17 at 18h43 · *Cloud Based Computing Business Ideas for 2021 [Top 50 Picks*\]
+* 2021-11-17 at 18h43 · [The Impact of the Cloud on Software Development  Developer.com](Resources/Highlights/Readwise/Articles/The%20Impact%20of%20the%20Cloud%20on%20Software%20Development%20%20Developer.com.md)
+* 2021-11-17 at 18h43 · [Cloud Computing 8 Benefits for Your Software Developers - Dice Insights](Resources/Highlights/Readwise/Articles/Cloud%20Computing%208%20Benefits%20for%20Your%20Software%20Developers%20-%20Dice%20Insights.md)
+* 2021-11-17 at 18h43 · [A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN](Resources/Highlights/Readwise/Articles/A%20Re-Introduction%20to%20JavaScript%20%28JS%20Tutorial%29%20-%20JavaScript%20%20MDN.md)
+* 2021-11-17 at 18h43 · [Pay Off Your Debt Tools and Tips](Resources/Highlights/Readwise/Articles/Pay%20Off%20Your%20Debt%20Tools%20and%20Tips.md)
+* 2021-11-17 at 18h43 · [Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!](Resources/Highlights/Readwise/Articles/Creating%20Windows%20Base%20Images%20Using%20Packer%20and%20Boxstarter%20%E2%80%94%20Hurry%20Up%20and%20Wait!.md)
+* 2021-11-17 at 18h43 · [Best Practices With Packer and Windows](Resources/Highlights/Readwise/Articles/Best%20Practices%20With%20Packer%20and%20Windows.md)
+* 2021-11-17 at 18h43 · [5 Steps for Tracking Your Monthly Expenses - NerdWallet](Resources/Highlights/Readwise/Articles/5%20Steps%20for%20Tracking%20Your%20Monthly%20Expenses%20-%20NerdWallet.md)
+* 2021-11-17 at 18h43 · [Optimized Workflow](Resources/Highlights/Readwise/Articles/Optimized%20Workflow.md)
+* 2021-11-17 at 18h43 · [How to Build the Ultimate Productivity System](Resources/Highlights/Readwise/Articles/How%20to%20Build%20the%20Ultimate%20Productivity%20System.md)
+* 2021-11-17 at 18h43 · [Habits You Must Have to Be a Highly Effective Programmers](Resources/Highlights/Readwise/Articles/Habits%20You%20Must%20Have%20to%20Be%20a%20Highly%20Effective%20Programmers.md)
+* 2021-11-17 at 18h43 · [Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating](Resources/Highlights/Readwise/Articles/Use%20the%20%E2%80%98Mental%20Shift%E2%80%99%20Technique%20to%20Increase%20Your%20Self-Discipline%20and%20Stop%20Procrastinating.md)
+* 2021-11-17 at 18h43 · [4 Great Habits to Increase Productivity, Focus, Concentration, and Determination](Resources/Highlights/Readwise/Articles/4%20Great%20Habits%20to%20Increase%20Productivity,%20Focus,%20Concentration,%20and%20Determination.md)
+* 2021-11-17 at 18h43 · [Clean Up Your Productivity System to Be More Productive](Resources/Highlights/Readwise/Articles/Clean%20Up%20Your%20Productivity%20System%20to%20Be%20More%20Productive.md)
+* 2021-11-17 at 18h43 · [How to Build an Efficient Personal Knowledge Management System-2](Resources/Highlights/Readwise/Articles/How%20to%20Build%20an%20Efficient%20Personal%20Knowledge%20Management%20System-2.md)
+* 2021-11-17 at 18h43 · [Last-Minute Moving Tips How to Pack in a Pinch - Updater](Resources/Highlights/Readwise/Articles/Last-Minute%20Moving%20Tips%20How%20to%20Pack%20in%20a%20Pinch%20-%20Updater.md)
+* 2021-11-17 at 18h43 · [How to Use Your Calendar to Make Every Day Your Ideal Day](Resources/Highlights/Readwise/Articles/How%20to%20Use%20Your%20Calendar%20to%20Make%20Every%20Day%20Your%20Ideal%20Day.md)
+* 2021-11-17 at 18h43 · [Paperless The One Notebook and Pen I’m Never Giving Up](Resources/Highlights/Readwise/Articles/Paperless%20The%20One%20Notebook%20and%20Pen%20I%E2%80%99m%20Never%20Giving%20Up.md)
+* 2021-11-17 at 18h43 · [How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS](Resources/Highlights/Readwise/Articles/How%20to%20Create%20EaseUS%20Bootable%20USB,%20CDDVD,%20and%20ISO%20Image%20With%20EaseUS%20Todo%20Backup%20-%20EaseUS.md)
+* 2021-11-17 at 18h43 · [The Productivity System You Use Doesn’t Matter](Resources/Highlights/Readwise/Articles/The%20Productivity%20System%20You%20Use%20Doesn%E2%80%99t%20Matter.md)
+* 2021-11-17 at 18h43 · [The Search for the Ultimate Productivity System](Resources/Highlights/Readwise/Articles/The%20Search%20for%20the%20Ultimate%20Productivity%20System.md)
+* 2021-11-17 at 18h43 · [One Productivity System to Rule Them All](Resources/Highlights/Readwise/Articles/One%20Productivity%20System%20to%20Rule%20Them%20All.md)
+* 2021-11-17 at 18h43 · [Zen to Done The Habit-Building Productivity System](Resources/Highlights/Readwise/Articles/Zen%20to%20Done%20The%20Habit-Building%20Productivity%20System.md)
+* 2021-11-17 at 18h43 · [Software Roles and Titles](Resources/Highlights/Readwise/Articles/Software%20Roles%20and%20Titles.md)
+* 2021-11-17 at 18h43 · [System Design Paradigm Caching](Resources/Highlights/Readwise/Articles/System%20Design%20Paradigm%20Caching.md)
+* 2021-11-17 at 18h43 · [9 Tricks for Boosting SQL Query Performance](Resources/Highlights/Readwise/Articles/9%20Tricks%20for%20Boosting%20SQL%20Query%20Performance.md)
+* 2021-11-17 at 18h43 · [Event-Driven APIs — Understanding the Principles](Resources/Highlights/Readwise/Articles/Event-Driven%20APIs%E2%80%8A%E2%80%94%E2%80%8AUnderstanding%20the%20Principles.md)
+* 2021-11-17 at 18h43 · [The 2 Types of Technical Documentation That  Developers Love](Resources/Highlights/Readwise/Articles/The%202%20Types%20of%20Technical%20Documentation%20That%20%20Developers%20Love.md)
+* 2021-11-17 at 18h43 · [RESTful API Design — Step by Step Guide](Resources/Highlights/Readwise/Articles/RESTful%20API%20Design%20%E2%80%94%20Step%20by%20Step%20Guide.md)
+* 2021-11-17 at 18h43 · [5 Useful Golang Modules Developers Should Know in 2021-2](Resources/Highlights/Readwise/Articles/5%20Useful%20Golang%20Modules%20Developers%20Should%20Know%20in%202021-2.md)
+* 2021-11-17 at 18h43 · [CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.](Resources/Highlights/Readwise/Articles/CloudRun%20With%20Serverless%20VPC%20Access%20+%20CloudSQL%20With%20Private%20Service%20Connect..md)
+* 2021-11-17 at 18h43 · [Everything About Software Architecture](Resources/Highlights/Readwise/Articles/Everything%20About%20Software%20Architecture.md)
+* 2021-11-17 at 18h43 · [Craig Sturgis Dot Com](Resources/Highlights/Readwise/Articles/Craig%20Sturgis%20Dot%20Com.md)
+* 2021-11-17 at 18h43 · [How to Do a Weekly Review Step-By-Step](Resources/Highlights/Readwise/Articles/How%20to%20Do%20a%20Weekly%20Review%20Step-By-Step.md)
+* 2021-11-17 at 18h43 · [5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life](Resources/Highlights/Readwise/Articles/5%20Quotes%20by%20Keanu%20Reeves%20That%20May%20Help%20You%20Live%20an%20Authentic%20and%20Wholesome%20Life.md)
+* 2021-11-17 at 18h43 · [Audiobook Review David Allen's GTD  Weekly Review](Resources/Highlights/Readwise/Articles/Audiobook%20Review%20David%20Allen's%20GTD%20%20Weekly%20Review.md)
+* 2021-11-17 at 18h43 · [Back to Basics Your Weekly Review](Resources/Highlights/Readwise/Articles/Back%20to%20Basics%20Your%20Weekly%20Review.md)
+* 2021-11-17 at 18h43 · [GTD Refresh, Part 5 Building the Weekly Review Habit](Resources/Highlights/Readwise/Articles/GTD%20Refresh,%20Part%205%20Building%20the%20Weekly%20Review%20Habit.md)
+* 2021-11-17 at 18h43 · [A New Year Is a Beautiful Fresh Start](Resources/Highlights/Readwise/Articles/A%20New%20Year%20Is%20a%20Beautiful%20Fresh%20Start.md)
+* 2021-11-17 at 18h43 · [Completing Tasks — 10 Steps to Finishing What You Start](Resources/Highlights/Readwise/Articles/Completing%20Tasks%20%E2%80%94%2010%20Steps%20to%20Finishing%20What%20You%20Start.md)
+* 2021-11-17 at 18h43 · [How to Enhance Your Windows Batch Files by Adding GUI](Resources/Highlights/Readwise/Articles/How%20to%20Enhance%20Your%20Windows%20Batch%20Files%20by%20Adding%20GUI.md)
+* 2021-11-17 at 18h43 · [6 YAML Features Most Programmers Don’t Know](Resources/Highlights/Readwise/Articles/6%20YAML%20Features%20Most%20Programmers%20Don%E2%80%99t%20Know.md)
+* 2021-11-17 at 18h43 · [How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021](Resources/Highlights/Readwise/Articles/How%20to%20Use%20a%20Daily%20Inspirational%20Routine%20for%20Long-Lasting%20Success%20in%202021.md)
+* 2021-11-17 at 18h43 · [Finishing Strong Part 1 Run a Victory Lap](Resources/Highlights/Readwise/Articles/Finishing%20Strong%20Part%201%20Run%20a%20Victory%20Lap.md)
+* 2021-11-17 at 18h43 · [Guest Post Using Todoist With MYN and 1MTD by Charles Olsen](Resources/Highlights/Readwise/Articles/Guest%20Post%20Using%20Todoist%20With%20MYN%20and%201MTD%20by%20Charles%20Olsen.md)
+* 2021-11-17 at 18h43 · [Data Ecosystem](Resources/Highlights/Readwise/Articles/Data%20Ecosystem.md)
+* 2021-11-17 at 18h43 · [A ‘Jobs to Be Done’ Framework for Startups](Resources/Highlights/Readwise/Articles/A%20%E2%80%98Jobs%20to%20Be%20Done%E2%80%99%20Framework%20for%20Startups.md)
+* 2021-11-17 at 18h43 · [Reflect, Recover, Reset – Your Life Plan 2021](Resources/Highlights/Readwise/Articles/Reflect,%20Recover,%20Reset%20%E2%80%93%20Your%20Life%20Plan%202021.md)
+* 2021-11-17 at 18h43 · [Take the First Step](Resources/Highlights/Readwise/Articles/Take%20the%20First%20Step.md)
+* 2021-11-17 at 18h43 · [How to Do a Weekly Planning Session.](Resources/Highlights/Readwise/Articles/How%20to%20Do%20a%20Weekly%20Planning%20Session..md)
+* 2021-11-17 at 18h43 · *Workflow for Serverless — Cloud Functions + Workflow [Basic*\]
+* 2021-11-17 at 18h43 · [How a Single Freelancer Outperforms a Whole Team](Resources/Highlights/Readwise/Articles/How%20a%20Single%20Freelancer%20Outperforms%20a%20Whole%20Team.md)
+* 2021-11-17 at 18h43 · [Why Programmers Should Write Tutorials](Resources/Highlights/Readwise/Articles/Why%20Programmers%20Should%20Write%20Tutorials.md)
+* 2021-11-17 at 18h43 · [System Design Basics Load Balancer 101](Resources/Highlights/Readwise/Articles/System%20Design%20Basics%20Load%20Balancer%20101.md)
+* 2021-11-17 at 18h43 · [5 8 Tips for a Production-Ready Shiny Application](Changelog.md#5-8-tips-for-a-production-ready-shiny-application)
+* 2021-11-17 at 18h43 · [Services in Systemd In-Depth Tutorial](Resources/Highlights/Readwise/Articles/Services%20in%20Systemd%20In-Depth%20Tutorial.md)
+* 2021-11-17 at 18h43 · [5 Useful Golang Modules Developers Should Know in 2021](Resources/Highlights/Readwise/Articles/5%20Useful%20Golang%20Modules%20Developers%20Should%20Know%20in%202021.md)
+* 2021-11-17 at 18h43 · [How to ‘DevOps’ as a Software Developer](Resources/Highlights/Readwise/Articles/How%20to%20%E2%80%98DevOps%E2%80%99%20as%20a%20Software%20Developer.md)
+* 2021-11-17 at 18h43 · [It’s Not You - It’s Your Knowledge Base](Resources/Highlights/Readwise/Articles/It%E2%80%99s%20Not%20You%20-%20It%E2%80%99s%20Your%20Knowledge%20Base.md)
+* 2021-11-17 at 18h43 · [How to Organize Your Writing With Markdown - Redeeming Productivity](Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Writing%20With%20Markdown%20-%20Redeeming%20Productivity.md)
+* 2021-11-17 at 18h43 · [Digital De-Cluttering How to Streamline Your Online Life](Resources/Highlights/Readwise/Articles/Digital%20De-Cluttering%20How%20to%20Streamline%20Your%20Online%20Life.md)
+* 2021-11-17 at 18h43 · [Rd Formatting](Resources/Highlights/Readwise/Articles/Rd%20Formatting.md)
+* 2021-11-17 at 18h43 · [How to Structure Your Data Science Workflow](Resources/Highlights/Readwise/Articles/How%20to%20Structure%20Your%20Data%20Science%20Workflow.md)
+* 2021-11-17 at 18h43 · [The Data Science Landscape](Resources/Highlights/Readwise/Articles/The%20Data%20Science%20Landscape.md)
+* 2021-11-17 at 18h43 · [Five Tidyverse Tricks You May Not Know About](Resources/Highlights/Readwise/Articles/Five%20Tidyverse%20Tricks%20You%20May%20Not%20Know%20About.md)
+* 2021-11-17 at 18h43 · [Writing Well A Must-Have Skill That No One Teaches Data Scientists](Resources/Highlights/Readwise/Articles/Writing%20Well%20A%20Must-Have%20Skill%20That%20No%20One%20Teaches%20Data%20Scientists.md)
+* 2021-11-17 at 18h43 · [The Future of Communities Is Increasingly More About Digital Community Gardening](Resources/Highlights/Readwise/Articles/The%20Future%20of%20Communities%20Is%20Increasingly%20More%20About%20Digital%20Community%20Gardening.md)
+* 2021-11-17 at 18h43 · [Digital Tools I Wish Existed](Resources/Highlights/Readwise/Articles/Digital%20Tools%20I%20Wish%20Existed.md)
+* 2021-11-17 at 18h43 · [Architecture for a Startup-2](Resources/Highlights/Readwise/Articles/Architecture%20for%20a%20Startup-2.md)
+* 2021-11-17 at 18h43 · [Architecture for a Startup](Resources/Highlights/Readwise/Articles/Architecture%20for%20a%20Startup.md)
+* 2021-11-17 at 18h43 · [The Role of Data Scientist A Back-Of-The-Envelope Model](Resources/Highlights/Readwise/Articles/The%20Role%20of%20Data%20Scientist%20A%20Back-Of-The-Envelope%20Model.md)
+* 2021-11-17 at 18h43 · [A Hierarchy First Approach to Note Taking](Resources/Highlights/Readwise/Articles/A%20Hierarchy%20First%20Approach%20to%20Note%20Taking.md)
+* 2021-11-17 at 18h43 · [R in Production, DevOps, and the Importance of Empathetic Witnesses](Resources/Highlights/Readwise/Articles/R%20in%20Production,%20DevOps,%20and%20the%20Importance%20of%20Empathetic%20Witnesses.md)
+* 2021-11-17 at 18h43 · [Scaling R Shiny Applications](Resources/Highlights/Readwise/Articles/Scaling%20R%20Shiny%20Applications.md)
+* 2021-11-17 at 18h43 · [I Built Docker Like Executable .Exe for RShiny!](Resources/Highlights/Readwise/Articles/I%20Built%20Docker%20Like%20Executable%20.Exe%20for%20RShiny!.md)
+* 2021-11-17 at 18h43 · [RShiny Authentication With Polished on AWS Kubernetes](Resources/Highlights/Readwise/Articles/RShiny%20Authentication%20With%20Polished%20on%20AWS%20Kubernetes.md)
+* 2021-11-17 at 18h43 · [Shiny on Google Cloud Run - Scale-To-Zero R Web Apps](Resources/Highlights/Readwise/Articles/Shiny%20on%20Google%20Cloud%20Run%20-%20Scale-To-Zero%20R%20Web%20Apps.md)
+* 2021-11-17 at 18h43 · [R at Scale on the Google Cloud Platform](Resources/Highlights/Readwise/Articles/R%20at%20Scale%20on%20the%20Google%20Cloud%20Platform.md)
+* 2021-11-17 at 18h43 · [Become a Better Developer Through Blogging - Steve Gordon - Code With Steve](Resources/Highlights/Readwise/Articles/Become%20a%20Better%20Developer%20Through%20Blogging%20-%20Steve%20Gordon%20-%20Code%20With%20Steve.md)
+* 2021-11-17 at 18h43 · [Top 10 Best Practices in Configuration Management](Resources/Highlights/Readwise/Articles/Top%2010%20Best%20Practices%20in%20Configuration%20Management.md)
+* 2021-11-17 at 18h43 · [The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing](Resources/Highlights/Readwise/Articles/The%20Guide%20to%20Writing%20Great%20Emails%20That%20Win%20You%20Clients%20-%20Double%20Your%20Freelancing.md)
+* 2021-11-17 at 18h43 · [What’s on Your Programming Reading List-2](Resources/Highlights/Readwise/Articles/What%E2%80%99s%20on%20Your%20Programming%20Reading%20List-2.md)
+* 2021-11-17 at 18h43 · [Taking Notes for Yourself Best Practices for the Personal Notebook](Resources/Highlights/Readwise/Articles/Taking%20Notes%20for%20Yourself%20Best%20Practices%20for%20the%20Personal%20Notebook.md)
+* 2021-11-17 at 18h43 · [Productivity System Archives • Paul Jacobson](Resources/Highlights/Readwise/Articles/Productivity%20System%20Archives%20%E2%80%A2%20Paul%20Jacobson.md)
+* 2021-11-17 at 18h43 · [Obsidian My New Knowledge Base or Base for Knowledge](Resources/Highlights/Readwise/Articles/Obsidian%20My%20New%20Knowledge%20Base%20or%20Base%20for%20Knowledge.md)
+* 2021-11-17 at 18h43 · [How to Crush It at the Start of Your New Developer Job - Small Business Programming](Resources/Highlights/Readwise/Articles/How%20to%20Crush%20It%20at%20the%20Start%20of%20Your%20New%20Developer%20Job%20-%20Small%20Business%20Programming.md)
+* 2021-11-17 at 18h43 · [Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley](Resources/Highlights/Readwise/Articles/Symlinks%20in%20Windows,%20MinGW,%20Git,%20and%20Cygwin%20%C2%B7%20Josh%20Kelley.md)
+* 2021-11-17 at 18h43 · [{yHat} - Reproducible Work in R](Resources/Highlights/Readwise/Articles/{yHat}%20-%20Reproducible%20Work%20in%20R.md)
+* 2021-11-17 at 18h43 · [Get Organized – Personal Development Ideas](Resources/Highlights/Readwise/Articles/Get%20Organized%20%E2%80%93%20Personal%20Development%20Ideas.md)
+* 2021-11-17 at 18h43 · [Top 4 Tips to Get Organized for Efficient Software Development](Resources/Highlights/Readwise/Articles/Top%204%20Tips%20to%20Get%20Organized%20for%20Efficient%20Software%20Development.md)
+* 2021-11-17 at 18h43 · [How to Declutter & Organize Your Digital Files](Resources/Highlights/Readwise/Articles/How%20to%20Declutter%20&%20Organize%20Your%20Digital%20Files.md)
+* 2021-11-17 at 18h43 · [Writing Is Thinking-2](Resources/Highlights/Readwise/Articles/Writing%20Is%20Thinking-2.md)
+* 2021-11-17 at 18h43 · [Writing Is Thinking](Resources/Highlights/Readwise/Articles/Writing%20Is%20Thinking.md)
+* 2021-11-17 at 18h43 · [How the Web Works](Resources/Highlights/Readwise/Articles/How%20the%20Web%20Works.md)
+* 2021-11-17 at 18h43 · [Using Redo to Manage R Data Analysis Workflow](Resources/Highlights/Readwise/Articles/Using%20Redo%20to%20Manage%20R%20Data%20Analysis%20Workflow.md)
+* 2021-11-17 at 18h43 · [Why I Use a Cloud-Based Development Environment and How You Can Too](Resources/Highlights/Readwise/Articles/Why%20I%20Use%20a%20Cloud-Based%20Development%20Environment%20and%20How%20You%20Can%20Too.md)
+* 2021-11-17 at 18h43 · [Building Documentation Mindshare in a Company — Write the Docs](Resources/Highlights/Readwise/Articles/Building%20Documentation%20Mindshare%20in%20a%20Company%20%E2%80%94%20Write%20the%20Docs.md)
+* 2021-11-17 at 18h43 · [Kubernetes Explained to Product Managers](Resources/Highlights/Readwise/Articles/Kubernetes%20Explained%20to%20Product%20Managers.md)
+* 2021-11-17 at 18h43 · [What’s on Your Programming Reading List](Resources/Highlights/Readwise/Articles/What%E2%80%99s%20on%20Your%20Programming%20Reading%20List.md)
+* 2021-11-17 at 18h43 · [Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter](Resources/Highlights/Readwise/Articles/Keep%20It%20Simple,%20Stupid!%20Minimalism%20in%20Programming%20How%20Complexity%20Harms%20Your%20Productivity%20%20Finxter.md)
+* 2021-11-17 at 18h43 · [Complexity Has to Live Somewhere](Resources/Highlights/Readwise/Articles/Complexity%20Has%20to%20Live%20Somewhere.md)
+* 2021-11-17 at 18h43 · [Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog](Resources/Highlights/Readwise/Articles/Beginner's%20Tip%20Organize%20Your%20Coding%20Projects%20-%20Dan%20Fletcher%20Blog.md)
+* 2021-11-17 at 18h43 · [Digital Decluttering Cleaning Up Computer Files & Social Media Profiles](Resources/Highlights/Readwise/Articles/Digital%20Decluttering%20Cleaning%20Up%20Computer%20Files%20&%20Social%20Media%20Profiles.md)
+* 2021-11-17 at 18h43 · [Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump](Resources/Highlights/Readwise/Articles/Digital%20Declutter%20This%20Is%20How%20to%20Reset%20Your%20Digital%20Life%20-%20Prime%20Your%20Pump.md)
+* 2021-11-17 at 18h43 · [The 13-Step Digital Declutter](Resources/Highlights/Readwise/Articles/The%2013-Step%20Digital%20Declutter.md)
+* 2021-11-17 at 18h43 · [Powershell - Scripting - Tutorialspoint](Resources/Highlights/Readwise/Articles/Powershell%20-%20Scripting%20-%20Tutorialspoint.md)
+* 2021-11-17 at 18h43 · [Managing Your Dotfiles](Resources/Highlights/Readwise/Articles/Managing%20Your%20Dotfiles.md)
+* 2021-11-17 at 18h43 · [Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow](Resources/Highlights/Readwise/Articles/Initial%20Thoughts%20on%20Notion%20and%20Getting%20Started%20Building%20a%20New%20Productivity%20Workflow.md)
+* 2021-11-17 at 18h43 · [How to Organize Your Files An Introduction to Personal File Management - The Mac Observer](Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Files%20An%20Introduction%20to%20Personal%20File%20Management%20-%20The%20Mac%20Observer.md)
+* 2021-11-17 at 18h43 · [4 Steps to Organize Your Massive To-Do List](Resources/Highlights/Readwise/Articles/4%20Steps%20to%20Organize%20Your%20Massive%20To-Do%20List.md)
+* 2021-11-17 at 18h43 · [Create a Productivity Workflow That Works for You](Resources/Highlights/Readwise/Articles/Create%20a%20Productivity%20Workflow%20That%20Works%20for%20You.md)
+* 2021-11-17 at 18h43 · [Robert Myles McDonnell](Resources/Highlights/Readwise/Articles/Robert%20Myles%20McDonnell.md)
+* 2021-11-17 at 18h43 · [Genius Things to Do on a Sunday to Have a Productive Week](Resources/Highlights/Readwise/Articles/Genius%20Things%20to%20Do%20on%20a%20Sunday%20to%20Have%20a%20Productive%20Week.md)
+* 2021-11-17 at 18h43 · [Action Items Template for Excel](Resources/Highlights/Readwise/Articles/Action%20Items%20Template%20for%20Excel.md)
+* 2021-11-17 at 18h43 · [How to Achieve Your Daily Goals](Resources/Highlights/Readwise/Articles/How%20to%20Achieve%20Your%20Daily%20Goals.md)
+* 2021-11-17 at 18h43 · [How to Create an Effective Productivity Plan - Optimize Time](Resources/Highlights/Readwise/Articles/How%20to%20Create%20an%20Effective%20Productivity%20Plan%20-%20Optimize%20Time.md)
+* 2021-11-17 at 18h43 · [Feeling Overwhelmed 33 Productivity Tips to Get You Unstuck](Resources/Highlights/Readwise/Articles/Feeling%20Overwhelmed%2033%20Productivity%20Tips%20to%20Get%20You%20Unstuck.md)
+* 2021-11-17 at 18h43 · [List Making When Overwhelmed Turn Stress Into Productivity](Resources/Highlights/Readwise/Articles/List%20Making%20When%20Overwhelmed%20Turn%20Stress%20Into%20Productivity.md)
+* 2021-11-17 at 18h43 · [Powerful Time Management Strategies to Do More With Your Day](Resources/Highlights/Readwise/Articles/Powerful%20Time%20Management%20Strategies%20to%20Do%20More%20With%20Your%20Day.md)
+* 2021-11-17 at 18h43 · [62 Productive Things to Do When Bored at Home](Resources/Highlights/Readwise/Articles/62%20Productive%20Things%20to%20Do%20When%20Bored%20at%20Home.md)
+* 2021-11-17 at 18h43 · [10 Guidelines to Better Table Design](Resources/Highlights/Readwise/Articles/10%20Guidelines%20to%20Better%20Table%20Design.md)
+* 2021-11-17 at 18h43 · [State of R Packages in Your Library - R-Hub Blog](Resources/Highlights/Readwise/Articles/State%20of%20R%20Packages%20in%20Your%20Library%20-%20R-Hub%20Blog.md)
+* 2021-11-17 at 18h43 · [Re-Exporting the Magrittr Pipe Operator › Petermeissner](Resources/Highlights/Readwise/Articles/Re-Exporting%20the%20Magrittr%20Pipe%20Operator%20%E2%80%BA%20Petermeissner.md)
+* 2021-11-17 at 18h43 · [R Treasures modifyList() › Petermeissner](Resources/Highlights/Readwise/Articles/R%20Treasures%20modifyList%28%29%20%E2%80%BA%20Petermeissner.md)
+* 2021-11-17 at 18h43 · [7 Quick Tips to Control Clutter and Stop Hoarding](Resources/Highlights/Readwise/Articles/7%20Quick%20Tips%20to%20Control%20Clutter%20and%20Stop%20Hoarding.md)
+* 2021-11-17 at 18h43 · [How to Build a Personal Knowledge Management System - Cultivated Management](Resources/Highlights/Readwise/Articles/How%20to%20Build%20a%20Personal%20Knowledge%20Management%20System%20-%20Cultivated%20Management.md)
+* 2021-11-17 at 18h43 · [Structure and Automated Workflow for a Machine Learning Project — part 1](Resources/Highlights/Readwise/Articles/Structure%20and%20Automated%20Workflow%20for%20a%20Machine%20Learning%20Project%E2%80%8A%E2%80%94%E2%80%8Apart%201.md)
+* 2021-11-17 at 18h43 · [The Data Science Workflow](Resources/Highlights/Readwise/Articles/The%20Data%20Science%20Workflow.md)
+* 2021-11-17 at 18h43 · [It's the Programming Environment, Not the Programming Language  thesephist.com](Resources/Highlights/Readwise/Articles/It's%20the%20Programming%20Environment,%20Not%20the%20Programming%20Language%20%20thesephist.com.md)
+* 2021-11-17 at 18h43 · [27 Incredibly Useful Things You Didn’t Know Chrome Could Do](Resources/Highlights/Readwise/Articles/27%20Incredibly%20Useful%20Things%20You%20Didn%E2%80%99t%20Know%20Chrome%20Could%20Do.md)
+* 2021-11-17 at 18h43 · [4 Efficient Workflow  Efficient R Programming](Resources/Highlights/Readwise/Articles/4%20Efficient%20Workflow%20%20Efficient%20R%20Programming.md)
+* 2021-11-17 at 18h43 · [How to Automate Your Project and Github Repo Setup From the Command Line](Resources/Highlights/Readwise/Articles/How%20to%20Automate%20Your%20Project%20and%20Github%20Repo%20Setup%20From%20the%20Command%20Line.md)
+* 2021-11-17 at 18h43 · [9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager](Resources/Highlights/Readwise/Articles/9%20Project%20Controls%20&%20How%20to%20Use%20Them%20to%20Tame%20Your%20Project%20Chaos%20-%20The%20Digital%20Project%20Manager.md)
+* 2021-11-17 at 18h43 · [How to Run R Scripts From the Windows Command Line (CMD) - Data Cornering](Resources/Highlights/Readwise/Articles/How%20to%20Run%20R%20Scripts%20From%20the%20Windows%20Command%20Line%20%28CMD%29%20-%20Data%20Cornering.md)
+* 2021-11-17 at 18h43 · [How I Use Evernote to Organize Client Projects](Resources/Highlights/Readwise/Articles/How%20I%20Use%20Evernote%20to%20Organize%20Client%20Projects.md)
+* 2021-11-17 at 18h43 · [You Should Make a Blog!](Resources/Highlights/Readwise/Articles/You%20Should%20Make%20a%20Blog!.md)
+* 2021-11-17 at 18h43 · [Archivist and GitHub Integration Archivist.github](Resources/Highlights/Readwise/Articles/Archivist%20and%20GitHub%20Integration%20Archivist.github.md)
+* 2021-11-17 at 18h43 · [R & RStudio – The Interoperability Environment for Data Analytics](Resources/Highlights/Readwise/Articles/R%20&%20RStudio%20%E2%80%93%20The%20Interoperability%20Environment%20for%20Data%20Analytics.md)
+* 2021-11-17 at 18h43 · [Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).](Resources/Highlights/Readwise/Articles/Best%20GTD%20Tools%20and%20Productivity%20Software%20Tips.%20Life%20Improvement%20With%20GTD%20%28Getting%20Things%20Done%29..md)
+* 2021-11-17 at 18h43 · [RStudio  Open Source & Professional Software for Data Science Teams](Resources/Highlights/Readwise/Articles/RStudio%20%20Open%20Source%20&%20Professional%20Software%20for%20Data%20Science%20Teams.md)
+* 2021-11-17 at 18h43 · [Productivity System The Definitive Guide (2020) - THEZEROED](Resources/Highlights/Readwise/Articles/Productivity%20System%20The%20Definitive%20Guide%20%282020%29%20-%20THEZEROED.md)
+* 2021-11-17 at 18h43 · [New Project Checklist](Resources/Highlights/Readwise/Articles/New%20Project%20Checklist.md)
+* 2021-11-17 at 18h43 · [LeaRning Path on R - Step by Step Guide to Learn Data Science on R](Resources/Highlights/Readwise/Articles/LeaRning%20Path%20on%20R%20-%20Step%20by%20Step%20Guide%20to%20Learn%20Data%20Science%20on%20R.md)
+* 2021-11-17 at 18h43 · [Building Better Documentation  Atlassian](Resources/Highlights/Readwise/Articles/Building%20Better%20Documentation%20%20Atlassian.md)
+* 2021-11-17 at 18h43 · [Decent-Code](Resources/Highlights/Readwise/Articles/Decent-Code.md)
+* 2021-11-17 at 18h43 · [6 Practicing - Tips From the Clean Coder - DEV](Changelog.md#6-practicing-tips-from-the-clean-coder-dev)
+* 2021-11-17 at 18h43 · [How to Create a GitHub Profile README](Resources/Highlights/Readwise/Articles/How%20to%20Create%20a%20GitHub%20Profile%20README.md)
+* 2021-11-17 at 18h43 · [Top GitHub Best Practices for Developers](Resources/Highlights/Readwise/Articles/Top%20GitHub%20Best%20Practices%20for%20Developers.md)
+* 2021-11-17 at 18h43 · [Get New IT Pros Up to Speed Fast With This Onboarding Checklist](Resources/Highlights/Readwise/Articles/Get%20New%20IT%20Pros%20Up%20to%20Speed%20Fast%20With%20This%20Onboarding%20Checklist.md)
+* 2021-11-17 at 18h43 · [Onboarding New Developers](Resources/Highlights/Readwise/Articles/Onboarding%20New%20Developers.md)
+* 2021-11-17 at 18h43 · [7 Best Practices for Your Developer Onboarding Process](Resources/Highlights/Readwise/Articles/7%20Best%20Practices%20for%20Your%20Developer%20Onboarding%20Process.md)
+* 2021-11-17 at 18h43 · [3 Smart Uses of Curated Lists and How to Create Them](Resources/Highlights/Readwise/Articles/3%20Smart%20Uses%20of%20Curated%20Lists%20and%20How%20to%20Create%20Them.md)
+* 2021-11-17 at 18h43 · [The Best Productivity System There Is - Personal Excellence](Resources/Highlights/Readwise/Articles/The%20Best%20Productivity%20System%20There%20Is%20-%20Personal%20Excellence.md)
+* 2021-11-17 at 18h43 · [The Best PC Software for Your Windows Computer](Resources/Highlights/Readwise/Articles/The%20Best%20PC%20Software%20for%20Your%20Windows%20Computer.md)
+* 2021-11-17 at 18h43 · [10 Tips to Turn Microsoft To-Do Into a Serious Task Manager](Resources/Highlights/Readwise/Articles/10%20Tips%20to%20Turn%20Microsoft%20To-Do%20Into%20a%20Serious%20Task%20Manager.md)
+* 2021-11-17 at 18h43 · [Weekly Reset System for Increased Productivity  Mystigal](Resources/Highlights/Readwise/Articles/Weekly%20Reset%20System%20for%20Increased%20Productivity%20%20Mystigal.md)
+* 2021-11-17 at 18h43 · [More Solutions for Taking Podcast Notes An App Overview](Resources/Highlights/Readwise/Articles/More%20Solutions%20for%20Taking%20Podcast%20Notes%20An%20App%20Overview.md)
+* 2021-11-17 at 18h43 · [Solutions for Taking Notes When Listening to Podcasts](Resources/Highlights/Readwise/Articles/Solutions%20for%20Taking%20Notes%20When%20Listening%20to%20Podcasts.md)
+* 2021-11-17 at 18h43 · [An Iterative Approach to Notes](Resources/Highlights/Readwise/Articles/An%20Iterative%20Approach%20to%20Notes.md)
+* 2021-11-17 at 18h43 · [Projmgr Managing the Human Dependencies of Your Projects  Emily Riederer](Resources/Highlights/Readwise/Articles/Projmgr%20Managing%20the%20Human%20Dependencies%20of%20Your%20Projects%20%20Emily%20Riederer.md)
+* 2021-11-17 at 18h43 · [The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs](Resources/Highlights/Readwise/Articles/The%20Ultimate%20Guide%20to%20Summarizing%20Books%20How%20to%20Distill%20Ideas%20to%20Accelerate%20Your%20Learning%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Jani’s Notes](Resources/Highlights/Readwise/Articles/Jani%E2%80%99s%20Notes.md)
+* 2021-11-17 at 18h43 · [My Personal Knowledge Management System — Moby Diction](Resources/Highlights/Readwise/Articles/My%20Personal%20Knowledge%20Management%20System%20%E2%80%94%20Moby%20Diction.md)
+* 2021-11-17 at 18h43 · [Methods Bites](Resources/Highlights/Readwise/Articles/Methods%20Bites.md)
+* 2021-11-17 at 18h43 · [The Best Way to Organize Your To-Dos](Resources/Highlights/Readwise/Articles/The%20Best%20Way%20to%20Organize%20Your%20To-Dos.md)
+* 2021-11-17 at 18h43 · [How to Be More Productive Build a System and 10x Your Output - The Monk Life](Resources/Highlights/Readwise/Articles/How%20to%20Be%20More%20Productive%20Build%20a%20System%20and%2010x%20Your%20Output%20-%20The%20Monk%20Life.md)
+* 2021-11-17 at 18h43 · [Project Based Learning](Resources/Highlights/Readwise/Articles/Project%20Based%20Learning.md)
+* 2021-11-17 at 18h43 · [Information Strategy My Routine, Inputs – Interdependent Thoughts](Resources/Highlights/Readwise/Articles/Information%20Strategy%20My%20Routine,%20Inputs%20%E2%80%93%20Interdependent%20Thoughts.md)
+* 2021-11-17 at 18h43 · [Building a Digital Garden](Resources/Highlights/Readwise/Articles/Building%20a%20Digital%20Garden.md)
+* 2021-11-17 at 18h43 · [How to Clean Your Windows Computer The Ultimate Checklist](Resources/Highlights/Readwise/Articles/How%20to%20Clean%20Your%20Windows%20Computer%20The%20Ultimate%20Checklist.md)
+* 2021-11-17 at 18h43 · [On Confronting the Productivity Dragon](Resources/Highlights/Readwise/Articles/On%20Confronting%20the%20Productivity%20Dragon.md)
+* 2021-11-17 at 18h43 · [Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport](Resources/Highlights/Readwise/Articles/Deep%20Habits%20WorkingMemory.txt%20%28The%20Most%20Important%20Productivity%20Tool%20You've%20Never%20Heard%20Of%29%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* 2021-11-17 at 18h43 · [Are You Making This GTD Mistake - Asian Efficiency](Resources/Highlights/Readwise/Articles/Are%20You%20Making%20This%20GTD%20Mistake%20-%20Asian%20Efficiency.md)
+* 2021-11-17 at 18h43 · [The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport](Resources/Highlights/Readwise/Articles/The%20Shadow%20Course%20A%20Simple%20Technique%20to%20Produce%20Extraordinary%20Work%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* 2021-11-17 at 18h43 · [The Unsinkable Student Organization System - Study Hacks - Cal Newport](Resources/Highlights/Readwise/Articles/The%20Unsinkable%20Student%20Organization%20System%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* 2021-11-17 at 18h43 · [My Focus-Centric Work Day - Study Hacks - Cal Newport](Resources/Highlights/Readwise/Articles/My%20Focus-Centric%20Work%20Day%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* 2021-11-17 at 18h43 · [The Deep Reset - Study Hacks - Cal Newport](Resources/Highlights/Readwise/Articles/The%20Deep%20Reset%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* 2021-11-17 at 18h43 · [Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software](Resources/Highlights/Readwise/Articles/Weekly%20Review%20Checklist%20An%20Insanely%20Productive%20Week%20in%2014%20Steps%20%20Process%20Street%20%20Checklist,%20Workflow%20and%20SOP%20Software.md)
+* 2021-11-17 at 18h43 · [The 'Weekly Review' Method Will Help You Get Things Done](Resources/Highlights/Readwise/Articles/The%20'Weekly%20Review'%20Method%20Will%20Help%20You%20Get%20Things%20Done.md)
+* 2021-11-17 at 18h43 · [How to Check Your Windows Experience Score on Windows 10](Resources/Highlights/Readwise/Articles/How%20to%20Check%20Your%20Windows%20Experience%20Score%20on%20Windows%2010.md)
+* 2021-11-17 at 18h43 · [RDatascience - Career Tips From an Old Timer](Resources/Highlights/Readwise/Articles/RDatascience%20-%20Career%20Tips%20From%20an%20Old%20Timer.md)
+* 2021-11-17 at 18h43 · *9 Tips to Get More Out of Your Calendar [PMP  > 177*\]
+* 2021-11-17 at 18h43 · [Consolidate and Unify - Tandem Vault  Digital Asset Management](Resources/Highlights/Readwise/Articles/Consolidate%20and%20Unify%20-%20Tandem%20Vault%20%20Digital%20Asset%20Management.md)
+* 2021-11-17 at 18h43 · [How to Be More Organized Declutter, Take Control, and Achieve More at Work](Resources/Highlights/Readwise/Articles/How%20to%20Be%20More%20Organized%20Declutter,%20Take%20Control,%20and%20Achieve%20More%20at%20Work.md)
+* 2021-11-17 at 18h43 · [Delete These Windows Files and Folders to Free Up Disk Space](Resources/Highlights/Readwise/Articles/Delete%20These%20Windows%20Files%20and%20Folders%20to%20Free%20Up%20Disk%20Space.md)
+* 2021-11-17 at 18h43 · [7 Effective Tools to Increase Your Hard Drive Performance on Windows](Resources/Highlights/Readwise/Articles/7%20Effective%20Tools%20to%20Increase%20Your%20Hard%20Drive%20Performance%20on%20Windows.md)
+* 2021-11-17 at 18h43 · [8 Ways to Free Up RAM on Your Windows Computer](Resources/Highlights/Readwise/Articles/8%20Ways%20to%20Free%20Up%20RAM%20on%20Your%20Windows%20Computer.md)
+* 2021-11-17 at 18h43 · [The Best Free Software of 2020](Resources/Highlights/Readwise/Articles/The%20Best%20Free%20Software%20of%202020.md)
+* 2021-11-17 at 18h43 · [The Best Microsoft Store Apps for Windows 10](Resources/Highlights/Readwise/Articles/The%20Best%20Microsoft%20Store%20Apps%20for%20Windows%2010.md)
+* 2021-11-17 at 18h43 · [How to Do More With Windows 10 Using PowerToys](Resources/Highlights/Readwise/Articles/How%20to%20Do%20More%20With%20Windows%2010%20Using%20PowerToys.md)
+* 2021-11-17 at 18h43 · [Tipsandtricks - Windows10](Resources/Highlights/Readwise/Articles/Tipsandtricks%20-%20Windows10.md)
+* 2021-11-17 at 18h43 · [The 10 Best Free Antivirus Software](Resources/Highlights/Readwise/Articles/The%2010%20Best%20Free%20Antivirus%20Software.md)
+* 2021-11-17 at 18h43 · [A Better Way to Manage Your Github Personal Access Tokens](Resources/Highlights/Readwise/Articles/A%20Better%20Way%20to%20Manage%20Your%20Github%20Personal%20Access%20Tokens.md)
+* 2021-11-17 at 18h43 · [How to Properly Organize Your Hard (Boot) Drive](Resources/Highlights/Readwise/Articles/How%20to%20Properly%20Organize%20Your%20Hard%20%28Boot%29%20Drive.md)
+* 2021-11-17 at 18h43 · [Collecting and Organising Data for Maximum Productivity. — Carl Pullein](Resources/Highlights/Readwise/Articles/Collecting%20and%20Organising%20Data%20for%20Maximum%20Productivity.%20%E2%80%94%20Carl%20Pullein.md)
+* 2021-11-17 at 18h43 · [Cloudwards.net's Backup and Storage Strategy 2017](Resources/Highlights/Readwise/Articles/Cloudwards.net's%20Backup%20and%20Storage%20Strategy%202017.md)
+* 2021-11-17 at 18h43 · [How to Partition a Hard Drive in 2020](Resources/Highlights/Readwise/Articles/How%20to%20Partition%20a%20Hard%20Drive%20in%202020.md)
+* 2021-11-17 at 18h43 · [Building an Open Source Personal Knowledge Base  Hacker Noon](Resources/Highlights/Readwise/Articles/Building%20an%20Open%20Source%20Personal%20Knowledge%20Base%20%20Hacker%20Noon.md)
+* 2021-11-17 at 18h43 · [How I Organize My Knowledge as a Software Engineer](Resources/Highlights/Readwise/Articles/How%20I%20Organize%20My%20Knowledge%20as%20a%20Software%20Engineer.md)
+* 2021-11-17 at 18h43 · [Best Practices for Outlook](Resources/Highlights/Readwise/Articles/Best%20Practices%20for%20Outlook.md)
+* 2021-11-17 at 18h43 · [The Ultimate Home Office Setup Guide 18 Must-Have Items](Resources/Highlights/Readwise/Articles/The%20Ultimate%20Home%20Office%20Setup%20Guide%2018%20Must-Have%20Items.md)
+* 2021-11-17 at 18h43 · [Managing Yourself Extreme Productivity](Resources/Highlights/Readwise/Articles/Managing%20Yourself%20Extreme%20Productivity.md)
+* 2021-11-17 at 18h43 · [Inbox Master Get All Your Inboxes to Zero, and Have Fewer Inboxes  Zen Habits](Resources/Highlights/Readwise/Articles/Inbox%20Master%20Get%20All%20Your%20Inboxes%20to%20Zero,%20and%20Have%20Fewer%20Inboxes%20%20Zen%20Habits.md)
+* 2021-11-17 at 18h43 · [Grant Ammons - How to Efficiently Manage Your Dotfiles](Resources/Highlights/Readwise/Articles/Grant%20Ammons%20-%20How%20to%20Efficiently%20Manage%20Your%20Dotfiles.md)
+* 2021-11-17 at 18h43 · [Managing My Personal Knowledge Base](Resources/Highlights/Readwise/Articles/Managing%20My%20Personal%20Knowledge%20Base.md)
+* 2021-11-17 at 18h43 · [8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry](Resources/Highlights/Readwise/Articles/8%20Best%20Practices%20to%20Facilitate%20Personal%20Knowledge%20Management%20in%20eLearning%20-%20eLearning%20Industry.md)
+* 2021-11-17 at 18h43 · [The Checklist Manifesto - By Atul Gawande  Derek Sivers](Resources/Highlights/Readwise/Articles/The%20Checklist%20Manifesto%20-%20By%20Atul%20Gawande%20%20Derek%20Sivers.md)
+* 2021-11-17 at 18h43 · [3 Steps to Designing a Powerful Project Workflow - ProjectManager.com](Resources/Highlights/Readwise/Articles/3%20Steps%20to%20Designing%20a%20Powerful%20Project%20Workflow%20-%20ProjectManager.com.md)
+* 2021-11-17 at 18h43 · [6 Windows Apps That Automatically Organize Files for You](Resources/Highlights/Readwise/Articles/6%20Windows%20Apps%20That%20Automatically%20Organize%20Files%20for%20You.md)
+* 2021-11-17 at 18h43 · [Backup 101 Windows Files and Folders You Should Always Back Up](Resources/Highlights/Readwise/Articles/Backup%20101%20Windows%20Files%20and%20Folders%20You%20Should%20Always%20Back%20Up.md)
+* 2021-11-17 at 18h43 · [Rebooting Your Productivity System](Resources/Highlights/Readwise/Articles/Rebooting%20Your%20Productivity%20System.md)
+* 2021-11-17 at 18h43 · [Digital Life in Disarray Use These 6 Steps to Get Organized.](Resources/Highlights/Readwise/Articles/Digital%20Life%20in%20Disarray%20Use%20These%206%20Steps%20to%20Get%20Organized..md)
+* 2021-11-17 at 18h43 · [How to Develop Your Digital Space for Peak Productivity](Resources/Highlights/Readwise/Articles/How%20to%20Develop%20Your%20Digital%20Space%20for%20Peak%20Productivity.md)
+* 2021-11-17 at 18h43 · [The Notetaking Cold War](Resources/Highlights/Readwise/Articles/The%20Notetaking%20Cold%20War.md)
+* 2021-11-17 at 18h43 · [How to Organize Computer Files on Your Home Computer](Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Computer%20Files%20on%20Your%20Home%20Computer.md)
+* 2021-11-17 at 18h43 · [5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later](Resources/Highlights/Readwise/Articles/5%20Bookmark%20Apps%20to%20Organize%20Links,%20Save%20Social%20Posts,%20and%20Read%20It%20Later.md)
+* 2021-11-17 at 18h43 · [R Tips and Tricks – Utilities](Resources/Highlights/Readwise/Articles/R%20Tips%20and%20Tricks%20%E2%80%93%20Utilities.md)
+* 2021-11-17 at 18h43 · [Getting Started With GTD Templates  Evernote  Evernote Blog](Resources/Highlights/Readwise/Articles/Getting%20Started%20With%20GTD%20Templates%20%20Evernote%20%20Evernote%20Blog.md)
+* 2021-11-17 at 18h43 · [Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali](Resources/Highlights/Readwise/Articles/Why%20Factor%20Is%20One%20of%20the%20Most%20Amazing%20Things%20in%20R%20&%20Forcats%20Helps%20You%20Reali.md)
+* 2021-11-17 at 18h43 · [What's a Successful Shiny Application - Rtask](Resources/Highlights/Readwise/Articles/What's%20a%20Successful%20Shiny%20Application%20-%20Rtask.md)
+* 2021-11-17 at 18h43 · [Bioconductor - Package Guidelines](Resources/Highlights/Readwise/Articles/Bioconductor%20-%20Package%20Guidelines.md)
+* 2021-11-17 at 18h43 · [10 Ways to Improve How You Manage Information](Resources/Highlights/Readwise/Articles/10%20Ways%20to%20Improve%20How%20You%20Manage%20Information.md)
+* 2021-11-17 at 18h43 · [Implementing an Idea-Management System - LessWrong 2.0](Resources/Highlights/Readwise/Articles/Implementing%20an%20Idea-Management%20System%20-%20LessWrong%202.0.md)
+* 2021-11-17 at 18h43 · [Ultimate Personal Management Systems - The Startup - Medium](Resources/Highlights/Readwise/Articles/Ultimate%20Personal%20Management%20Systems%20-%20The%20Startup%20-%20Medium.md)
+* 2021-11-17 at 18h43 · [Logging Events in Shiny Apps • shinyEventLogger](Resources/Highlights/Readwise/Articles/Logging%20Events%20in%20Shiny%20Apps%20%E2%80%A2%20shinyEventLogger.md)
+* 2021-11-17 at 18h43 · [Building a Data Pipeline From Scratch - The Data Experience - Medium](Resources/Highlights/Readwise/Articles/Building%20a%20Data%20Pipeline%20From%20Scratch%20-%20The%20Data%20Experience%20-%20Medium.md)
+* 2021-11-17 at 18h43 · [Managing Your Project - How to Make Your Research Reproducible - Library Gu](Resources/Highlights/Readwise/Articles/Managing%20Your%20Project%20-%20How%20to%20Make%20Your%20Research%20Reproducible%20-%20Library%20Gu.md)
+* 2021-11-17 at 18h43 · [Home - How to Write a Good Documentation - Library Guides at UC Berkeley](Resources/Highlights/Readwise/Articles/Home%20-%20How%20to%20Write%20a%20Good%20Documentation%20-%20Library%20Guides%20at%20UC%20Berkeley.md)
+* 2021-11-17 at 18h43 · [Templates for R Markdown  Jianghao](Resources/Highlights/Readwise/Articles/Templates%20for%20R%20Markdown%20%20Jianghao.md)
+* 2021-11-17 at 18h43 · [A Workflow for R](Resources/Highlights/Readwise/Articles/A%20Workflow%20for%20R.md)
+* 2021-11-17 at 18h43 · [Planning a Lot  Yujun Zhou's Website](Resources/Highlights/Readwise/Articles/Planning%20a%20Lot%20%20Yujun%20Zhou's%20Website.md)
+* 2021-11-17 at 18h43 · [Project Management With RStudio and Github  Yujun Zhou's Website](Resources/Highlights/Readwise/Articles/Project%20Management%20With%20RStudio%20and%20Github%20%20Yujun%20Zhou's%20Website.md)
+* 2021-11-17 at 18h43 · ['Mustashe' Explained  Joshua Cook](Resources/Highlights/Readwise/Articles/'Mustashe'%20Explained%20%20Joshua%20Cook.md)
+* 2021-11-17 at 18h43 · [Re-Share Vtreat Data Preparation Documentation and Video – Win-Vector Blog](Resources/Highlights/Readwise/Articles/Re-Share%20Vtreat%20Data%20Preparation%20Documentation%20and%20Video%20%E2%80%93%20Win-Vector%20Blog.md)
+* 2021-11-17 at 18h43 · [The R Code Optimizer • Rco](Resources/Highlights/Readwise/Articles/The%20R%20Code%20Optimizer%20%E2%80%A2%20Rco.md)
+* 2021-11-17 at 18h43 · [Auto Documentation System for R Shiny - Stack Overflow](Resources/Highlights/Readwise/Articles/Auto%20Documentation%20System%20for%20R%20Shiny%20-%20Stack%20Overflow.md)
+* 2021-11-17 at 18h43 · [Knoco Stories What's Unique About Knowledge Management](Resources/Highlights/Readwise/Articles/Knoco%20Stories%20What's%20Unique%20About%20Knowledge%20Management.md)
+* 2021-11-17 at 18h43 · [Seth Godin's 7-Point Guide to Bootstrap Your Personal Brand - Personal Bran](Resources/Highlights/Readwise/Articles/Seth%20Godin's%207-Point%20Guide%20to%20Bootstrap%20Your%20Personal%20Brand%20-%20Personal%20Bran.md)
+* 2021-11-17 at 18h43 · [How to Build an Efficient Personal Knowledge Management System](Resources/Highlights/Readwise/Articles/How%20to%20Build%20an%20Efficient%20Personal%20Knowledge%20Management%20System.md)
+* 2021-11-17 at 18h43 · [Shiny Load Testing and Horizontal Scaling](Resources/Highlights/Readwise/Articles/Shiny%20Load%20Testing%20and%20Horizontal%20Scaling.md)
+* 2021-11-17 at 18h43 · [Enable Code Folding in Bookdown and Blogdown · StatnMap](Resources/Highlights/Readwise/Articles/Enable%20Code%20Folding%20in%20Bookdown%20and%20Blogdown%20%C2%B7%20StatnMap.md)
+* 2021-11-17 at 18h43 · [Getting Data From PDFs the Easy Way With R - Open Source Automation](Resources/Highlights/Readwise/Articles/Getting%20Data%20From%20PDFs%20the%20Easy%20Way%20With%20R%20-%20Open%20Source%20Automation.md)
+* 2021-11-17 at 18h43 · [Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow](Resources/Highlights/Readwise/Articles/Rstudio%20-%20Use%20Internal%20Links%20in%20RMarkdown%20HTML%20Output%20-%20Stack%20Overflow.md)
+* 2021-11-17 at 18h43 · [How to Distribute Data With Your R Package - R-Hub Blog](Resources/Highlights/Readwise/Articles/How%20to%20Distribute%20Data%20With%20Your%20R%20Package%20-%20R-Hub%20Blog.md)
+* 2021-11-17 at 18h43 · [One Observer for All Buttons in Shiny Using JavaScript  jQuery](Resources/Highlights/Readwise/Articles/One%20Observer%20for%20All%20Buttons%20in%20Shiny%20Using%20JavaScript%20%20jQuery.md)
+* 2021-11-17 at 18h43 · [The 35 Best Productivity Apps for 2020](Resources/Highlights/Readwise/Articles/The%2035%20Best%20Productivity%20Apps%20for%202020.md)
+* 2021-11-17 at 18h43 · [How to Centralize Your Tasks When You’re Using Too Many Apps](Resources/Highlights/Readwise/Articles/How%20to%20Centralize%20Your%20Tasks%20When%20You%E2%80%99re%20Using%20Too%20Many%20Apps.md)
+* 2021-11-17 at 18h43 · [Building a Second Brain An Overview - Forte Labs](Resources/Highlights/Readwise/Articles/Building%20a%20Second%20Brain%20An%20Overview%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [rBokeh - Tipps and Tricks With JavaScript and Beyond!  STATWORX](Resources/Highlights/Readwise/Articles/rBokeh%20-%20Tipps%20and%20Tricks%20With%20JavaScript%20and%20Beyond!%20%20STATWORX.md)
+* 2021-11-17 at 18h43 · [Variable and Value Labels Support in Base R and Other Packages](Resources/Highlights/Readwise/Articles/Variable%20and%20Value%20Labels%20Support%20in%20Base%20R%20and%20Other%20Packages.md)
+* 2021-11-17 at 18h43 · [4 Solid Ways to Get the Best of the Web](Resources/Highlights/Readwise/Articles/4%20Solid%20Ways%20to%20Get%20the%20Best%20of%20the%20Web.md)
+* 2021-11-17 at 18h43 · [How to Declutter Your Data With No Regrets](Resources/Highlights/Readwise/Articles/How%20to%20Declutter%20Your%20Data%20With%20No%20Regrets.md)
+* 2021-11-17 at 18h43 · [RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas](Resources/Highlights/Readwise/Articles/RopenscilabsDataspice%20Create%20Lightweight%20schema.org%20Descriptions%20of%20Datas.md)
+* 2021-11-17 at 18h43 · [Writing Technical Design Docs, Revisited - Machine Words - Medium](Resources/Highlights/Readwise/Articles/Writing%20Technical%20Design%20Docs,%20Revisited%20-%20Machine%20Words%20-%20Medium.md)
+* 2021-11-17 at 18h43 · [The “Burner List”—My Simple, Paper-Based System for Focused To-Dos](Resources/Highlights/Readwise/Articles/The%20%E2%80%9CBurner%20List%E2%80%9D%E2%80%94My%20Simple,%20Paper-Based%20System%20for%20Focused%20To-Dos.md)
+* 2021-11-17 at 18h43 · [Wtf Is a Zettelkasten  Zettlr](Resources/Highlights/Readwise/Articles/Wtf%20Is%20a%20Zettelkasten%20%20Zettlr.md)
+* 2021-11-17 at 18h43 · [How to Export Evernote to Google Drive](Resources/Highlights/Readwise/Articles/How%20to%20Export%20Evernote%20to%20Google%20Drive.md)
+* 2021-11-17 at 18h43 · [Your Productivity Obsession Might Be Making You Less Productive](Resources/Highlights/Readwise/Articles/Your%20Productivity%20Obsession%20Might%20Be%20Making%20You%20Less%20Productive.md)
+* 2021-11-17 at 18h43 · [Zen and the Art of File and Folder Organization](Resources/Highlights/Readwise/Articles/Zen%20and%20the%20Art%20of%20File%20and%20Folder%20Organization.md)
+* 2021-11-17 at 18h43 · [How to Organize Your Files for Maximum Productivity](Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Files%20for%20Maximum%20Productivity.md)
+* 2021-11-17 at 18h43 · [Why Ongoing Is the Worst Word in the History of Project Management](Resources/Highlights/Readwise/Articles/Why%20Ongoing%20Is%20the%20Worst%20Word%20in%20the%20History%20of%20Project%20Management.md)
+* 2021-11-17 at 18h43 · [What I've Learnt About Making an R Package](Resources/Highlights/Readwise/Articles/What%20I've%20Learnt%20About%20Making%20an%20R%20Package.md)
+* 2021-11-17 at 18h43 · [Persistent Config and Data for R Packages - R-Hub Blog](Resources/Highlights/Readwise/Articles/Persistent%20Config%20and%20Data%20for%20R%20Packages%20-%20R-Hub%20Blog.md)
+* 2021-11-17 at 18h43 · [You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs](Resources/Highlights/Readwise/Articles/You%20Need%20a%20Budget%2013%20Parallels%20Between%20Money%20and%20Productivity%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [10 Windows Task Manager Tricks You Probably Didn’t Know](Resources/Highlights/Readwise/Articles/10%20Windows%20Task%20Manager%20Tricks%20You%20Probably%20Didn%E2%80%99t%20Know.md)
+* 2021-11-17 at 18h43 · [Getting Things Done With Todoist – My GTD Setup](Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20With%20Todoist%20%E2%80%93%20My%20GTD%20Setup.md)
+* 2021-11-17 at 18h43 · [Evernote and Todoist REALLY Getting Things Done](Resources/Highlights/Readwise/Articles/Evernote%20and%20Todoist%20REALLY%20Getting%20Things%20Done.md)
+* 2021-11-17 at 18h43 · [The Case for Digital Notes - Forte Labs](Resources/Highlights/Readwise/Articles/The%20Case%20for%20Digital%20Notes%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Strategically Constrained How to Turn Limitations Into Opportunities - Forte Labs](Resources/Highlights/Readwise/Articles/Strategically%20Constrained%20How%20to%20Turn%20Limitations%20Into%20Opportunities%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs](Resources/Highlights/Readwise/Articles/Just-In-Time%20Project%20Management%20A%20Digital-First%20Framework%20for%20Modern%20Projects%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs](Resources/Highlights/Readwise/Articles/The%20Maker's%20Guide%20to%20Content%20Curation,%20Part%201%20Open-Sourcing%20Your%20Learning%20Process%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Developer GTD](Resources/Highlights/Readwise/Articles/Developer%20GTD.md)
+* 2021-11-17 at 18h43 · [Programming Productivity - Wikipedia](Resources/Highlights/Readwise/Articles/Programming%20Productivity%20-%20Wikipedia.md)
+* 2021-11-17 at 18h43 · [How to Be Mentally Strong - James Altucher](Resources/Highlights/Readwise/Articles/How%20to%20Be%20Mentally%20Strong%20-%20James%20Altucher.md)
+* 2021-11-17 at 18h43 · [Supersizing the Mind The Science of Cognitive Extension - Forte Labs](Resources/Highlights/Readwise/Articles/Supersizing%20the%20Mind%20The%20Science%20of%20Cognitive%20Extension%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [PARA Part 8 Core Principles of Digital Organization - Forte Labs](Resources/Highlights/Readwise/Articles/PARA%20Part%208%20Core%20Principles%20of%20Digital%20Organization%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [How to Use Evernote for Your Creative Workflow - Forte Labs](Resources/Highlights/Readwise/Articles/How%20to%20Use%20Evernote%20for%20Your%20Creative%20Workflow%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs](Resources/Highlights/Readwise/Articles/Introducing%20the%20MESA%20Method%20Creating%20the%20Ideal%20Work%20Experience%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Want to Get Organized Start With the Mind Sweep](Resources/Highlights/Readwise/Articles/Want%20to%20Get%20Organized%20Start%20With%20the%20Mind%20Sweep.md)
+* 2021-11-17 at 18h43 · [Building a Second Brain in Emacs and Org-Mode - Forte Labs](Resources/Highlights/Readwise/Articles/Building%20a%20Second%20Brain%20in%20Emacs%20and%20Org-Mode%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [The Digital Productivity Pyramid - Forte Labs](Resources/Highlights/Readwise/Articles/The%20Digital%20Productivity%20Pyramid%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [The 25+ Best Productivity Apps in 2020](Resources/Highlights/Readwise/Articles/The%2025+%20Best%20Productivity%20Apps%20in%202020.md)
+* 2021-11-17 at 18h43 · [Gaming the Naming The ABC's of Organizing Your Evernote Notebooks](Resources/Highlights/Readwise/Articles/Gaming%20the%20Naming%20The%20ABC's%20of%20Organizing%20Your%20Evernote%20Notebooks.md)
+* 2021-11-17 at 18h43 · [The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester](Resources/Highlights/Readwise/Articles/The%20Power%20of%20Systematic%20Notes%20A%20Book%20Review%20of%20How%20to%20Take%20Smart%20Notes%20by%20S%C3%B6nke%20Ahrens%20-%20Mark%20Koester.md)
+* 2021-11-17 at 18h43 · [Basics of the Unix Philosophy](Resources/Highlights/Readwise/Articles/Basics%20of%20the%20Unix%20Philosophy.md)
+* 2021-11-17 at 18h43 · [How to Use Evernote's Advanced Search Syntax](Resources/Highlights/Readwise/Articles/How%20to%20Use%20Evernote's%20Advanced%20Search%20Syntax.md)
+* 2021-11-17 at 18h43 · [How to Use Todoist Tutorial](Resources/Highlights/Readwise/Articles/How%20to%20Use%20Todoist%20Tutorial.md)
+* 2021-11-17 at 18h43 · [Using Todoist for GTD  GTD Method](Resources/Highlights/Readwise/Articles/Using%20Todoist%20for%20GTD%20%20GTD%20Method.md)
+* 2021-11-17 at 18h43 · [GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH](Resources/Highlights/Readwise/Articles/GTD%20With%20Todoist,%20Evernote%20and%20Google%20Calendar%20%28Part%202%29%20%20Dr%20Veronika%20CH.md)
+* 2021-11-17 at 18h43 · [GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH](Resources/Highlights/Readwise/Articles/GTD%20With%20Todoist,%20Evernote%20and%20Google%20Calendar%20%20Dr%20Veronika%20CH.md)
+* 2021-11-17 at 18h43 · [11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist](Resources/Highlights/Readwise/Articles/11%20Fast%20Ways%20to%20Get%20Tasks%20Off%20Your%20Mind%20and%20Into%20Your%20Todoist.md)
+* 2021-11-17 at 18h43 · [Getting Things Done Organize](Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20Organize.md)
+* 2021-11-17 at 18h43 · [Getting Things Done Clarify](Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20Clarify.md)
+* 2021-11-17 at 18h43 · [12 Types of Lists You Should Keep to Get Things Done](Resources/Highlights/Readwise/Articles/12%20Types%20of%20Lists%20You%20Should%20Keep%20to%20Get%20Things%20Done.md)
+* 2021-11-17 at 18h43 · [The Official Guide to Using Todoist Build Your Perfect Productivity Workfl](Resources/Highlights/Readwise/Articles/The%20Official%20Guide%20to%20Using%20Todoist%20Build%20Your%20Perfect%20Productivity%20Workfl.md)
+* 2021-11-17 at 18h43 · [5 Pitfalls of Being an Information Hoarder  Foolishly Creative](Resources/Highlights/Readwise/Articles/5%20Pitfalls%20of%20Being%20an%20Information%20Hoarder%20%20Foolishly%20Creative.md)
+* 2021-11-17 at 18h43 · [Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester](Resources/Highlights/Readwise/Articles/Instapaper%20Empowering%20How%20I%20Read%20Articles%20With%20Highlights%20and%20Tracking%20-%20Mark%20Koester.md)
+* 2021-11-17 at 18h43 · [The Importance of Systems](Resources/Highlights/Readwise/Articles/The%20Importance%20of%20Systems.md)
+* 2021-11-17 at 18h43 · [Productivity Overwhelm](Resources/Highlights/Readwise/Articles/Productivity%20Overwhelm.md)
+* 2021-11-17 at 18h43 · [FW Managing Outcomes in a Remote Environment](Resources/Highlights/Readwise/Articles/FW%20Managing%20Outcomes%20in%20a%20Remote%20Environment.md)
+* 2021-11-17 at 18h43 · [One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs](Resources/Highlights/Readwise/Articles/One-Touch%20to%20Inbox%20Zero%20How%20I%20Spend%2017%20Minutes%20Per%20Day%20on%20Email%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Blog  Filterize](Resources/Highlights/Readwise/Articles/Blog%20%20Filterize.md)
+* 2021-11-17 at 18h43 · [First Principles of Workflow Design (A 2-Part Episode)  RadReads](Resources/Highlights/Readwise/Articles/First%20Principles%20of%20Workflow%20Design%20%28A%202-Part%20Episode%29%20%20RadReads.md)
+* 2021-11-17 at 18h43 · [Getting More Done at Work With Evernote - Frank Buck Consulting](Resources/Highlights/Readwise/Articles/Getting%20More%20Done%20at%20Work%20With%20Evernote%20-%20Frank%20Buck%20Consulting.md)
+* 2021-11-17 at 18h43 · [PARA Part 5 The Project List Mindsweep - Forte Labs](Resources/Highlights/Readwise/Articles/PARA%20Part%205%20The%20Project%20List%20Mindsweep%20-%20Forte%20Labs.md)
+* 2021-11-17 at 18h43 · [Usethis Workflow for Package Development  Emil Hvitfeldt](Resources/Highlights/Readwise/Articles/Usethis%20Workflow%20for%20Package%20Development%20%20Emil%20Hvitfeldt.md)
+* 2021-11-17 at 18h43 · [This Is How You Become Confident and Transform Your Life](Resources/Highlights/Readwise/Articles/This%20Is%20How%20You%20Become%20Confident%20and%20Transform%20Your%20Life.md)
+* 2021-11-17 at 18h43 · [3 Steps to Managing Your Time and Maximizing Your Workday](Resources/Highlights/Readwise/Articles/3%20Steps%20to%20Managing%20Your%20Time%20and%20Maximizing%20Your%20Workday.md)
+* 2021-11-17 at 18h43 · [Why Organising Your To-Dos by Project Does Not Work.](Resources/Highlights/Readwise/Articles/Why%20Organising%20Your%20To-Dos%20by%20Project%20Does%20Not%20Work..md)
+* 2021-11-17 at 18h43 · [How to Organize & Add Apps on Windows 10](Resources/Highlights/Readwise/Articles/How%20to%20Organize%20&%20Add%20Apps%20on%20Windows%2010.md)
+* 2021-11-17 at 18h43 · [How to Make a To-Do List and Get Sh!t Done](Resources/Highlights/Readwise/Articles/How%20to%20Make%20a%20To-Do%20List%20and%20Get%20Sh!t%20Done.md)
+* 2021-11-17 at 18h43 · [How to Make Yourself Into a Learning Machine](Resources/Highlights/Readwise/Articles/How%20to%20Make%20Yourself%20Into%20a%20Learning%20Machine.md)
+* 2021-11-17 at 18h43 · [How to Make Your Developer On-Boarding Process Idiot Proof](Resources/Highlights/Readwise/Articles/How%20to%20Make%20Your%20Developer%20On-Boarding%20Process%20Idiot%20Proof.md)
+* 2021-11-17 at 18h43 · [How to Learn Linux and Git](Resources/Highlights/Readwise/Articles/How%20to%20Learn%20Linux%20and%20Git.md)
+* 2021-11-17 at 18h43 · [How to Keep Windows 10 Organized, Pretty, and Productive](Resources/Highlights/Readwise/Articles/How%20to%20Keep%20Windows%2010%20Organized,%20Pretty,%20and%20Productive.md)
+* 2021-11-17 at 18h43 · [How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC](Resources/Highlights/Readwise/Articles/How%20to%20Install%20or%20Update%20PowerShell%20to%20the%20Latest%20Version%20in%20Windows%2010%20%20ITIGIC.md)
+* 2021-11-17 at 18h43 · [How to Increase Your Efficiency at Work](Resources/Highlights/Readwise/Articles/How%20to%20Increase%20Your%20Efficiency%20at%20Work.md)
+* 2021-11-17 at 18h43 · [How to Improve the Performance of Your Windows Computer Fundamentally](Resources/Highlights/Readwise/Articles/How%20to%20Improve%20the%20Performance%20of%20Your%20Windows%20Computer%20Fundamentally.md)
+* 2021-11-17 at 18h43 · [How to Handle Inbox Infinity](Resources/Highlights/Readwise/Articles/How%20to%20Handle%20Inbox%20Infinity.md)
+* 2021-11-17 at 18h43 · [How to Get Through a Paper and Digital Backlog – Gigaom](Resources/Highlights/Readwise/Articles/How%20to%20Get%20Through%20a%20Paper%20and%20Digital%20Backlog%20%E2%80%93%20Gigaom.md)
+* 2021-11-17 at 18h43 · [Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%208%20%E2%80%94%20%20Fleeing%20a%20Collapsing%20Career,%20Taking%20Notes%20on%20Books,%20Building%20a%20Deep%20Life%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More](Changelog.md#424-brian-koppelman-on-making-art-francis-ford-coppola-building-momentum-and-more)
+* 2021-11-17 at 18h43 · [Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth](Resources/Highlights/Readwise/Podcasts/Ep.%2032%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Tracking%20Deliberate%20Practice,%20Getting%20Over%20the%20Fact%20Work%20is%20Hard,%20and%20Taming%20the%20Emotional%20Rigors%20of%20Depth.md)
+* 2021-11-17 at 18h43 · [Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking](Resources/Highlights/Readwise/Podcasts/Ep.%2036%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Scheduling%20Life%20Admin,%20Finding%20Time%20for%20Practice,%20and%20High-Tech%20Metric%20Tracking.md)
+* 2021-11-17 at 18h43 · *Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You  >  53*
+* 2021-11-17 at 18h43 · [Dorie Clark on the power of Long Term Thinking](Resources/Highlights/Readwise/Podcasts/Dorie%20Clark%20on%20the%20power%20of%20Long%20Term%20Thinking.md)
+* 2021-11-17 at 18h43 · [Data Discovery with Shinji Kim](Resources/Highlights/Readwise/Podcasts/Data%20Discovery%20with%20Shinji%20Kim.md)
+* 2021-11-17 at 18h43 · [Infrastructure as Code with Christian Tragesser](Resources/Highlights/Readwise/Podcasts/Infrastructure%20as%20Code%20with%20Christian%20Tragesser.md)
+* 2021-11-17 at 18h43 · [Ep. 109 —  How Much Should I Read](Resources/Highlights/Readwise/Podcasts/Ep.%20109%20%E2%80%94%20%20How%20Much%20Should%20I%20Read.md)
+* 2021-11-17 at 18h43 · [110 —  How to Clear Your Calendar in Your Busiest Seasons](Changelog.md#110-how-to-clear-your-calendar-in-your-busiest-seasons)
+* 2021-11-17 at 18h43 · [401 —  Gary Keller — How to Focus on the One Important Thing](Changelog.md#401-gary-keller-how-to-focus-on-the-one-important-thing)
+* 2021-11-17 at 18h43 · [Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%2041%20%E2%80%94%20%20Selling%20Your%20First%20Book,%20Shallow%20Spouses,%20and%20My%20Dream%20Schedule%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless](Resources/Highlights/Readwise/Podcasts/Ep.%2091%20%E2%80%94%20%20GREG%20MCKEOWN%20on%20Making%20Essential%20Work%20Effortless.md)
+* 2021-11-17 at 18h43 · [Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth](Resources/Highlights/Readwise/Podcasts/Ep.%2014%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Publishing%20Strategies,%20Surviving%20Side%20Hustles,%20Productivity%20for%20Support%20Roles,%20and%20Cultivating%20Balance%20in%20the%20Pursuit%20of%20Depth.md)
+* 2021-11-17 at 18h43 · [132 —  Willpower and Your Environment](Resources/Highlights/Readwise/Podcasts/132%20%E2%80%94%20%20Willpower%20and%20Your%20Environment.md)
+* 2021-11-17 at 18h43 · [Ep. 65 —  Is Productivity Bad](Resources/Highlights/Readwise/Podcasts/Ep.%2065%20%E2%80%94%20%20Is%20Productivity%20Bad.md)
+* 2021-11-17 at 18h43 · [Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%2027%20%E2%80%94%20%20Inside%20My%20Planning%20Discipline,%20the%20Joys%20and%20Sorrows%20of%20Slack,%20and%20Finding%20Depth%20Among%20Shallow%20Friends%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Argo —  Kubernetes-Native Tools with Alex Collins](Resources/Highlights/Readwise/Podcasts/Argo%20%E2%80%94%20%20Kubernetes-Native%20Tools%20with%20Alex%20Collins.md)
+* 2021-11-17 at 18h43 · [Ep. 69 —  How Do I Find Joy in Leisure](Resources/Highlights/Readwise/Podcasts/Ep.%2069%20%E2%80%94%20%20How%20Do%20I%20Find%20Joy%20in%20Leisure.md)
+* 2021-11-17 at 18h43 · [Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%2019%20%E2%80%94%20%20Calendar%20Shaming,%20Digital%20Detox%20Struggles,%20and%20the%20Unexpected%20Challenges%20of%20Autonomy%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%2015%20%E2%80%94%20%20Deep%20Work%20in%20Groups,%20Social%20Media%20in%20Politics,%20and%20Confronting%20Common%20Arguments%20Against%20My%20Work%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Ep.%206%20%E2%80%94%20%20Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [How To Recover From A Bad Day (TPS374)](Resources/Highlights/Readwise/Podcasts/How%20To%20Recover%20From%20A%20Bad%20Day%20%28TPS374%29.md)
+* 2021-11-17 at 18h43 · [Find your finish line](Resources/Highlights/Readwise/Podcasts/Find%20your%20finish%20line.md)
+* 2021-11-17 at 18h43 · [Limit Your Options By Limiting Your Obligations](Resources/Highlights/Readwise/Podcasts/Limit%20Your%20Options%20By%20Limiting%20Your%20Obligations.md)
+* 2021-11-17 at 18h43 · *54. Listener questions  > 7 —  Big projects vs sub-projects and where to store support material*
+* 2021-11-17 at 18h43 · [Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling](Resources/Highlights/Readwise/Podcasts/Ep.%2078%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Time%20Blocking%20vs.%20Bullet%20Journaling.md)
+* 2021-11-17 at 18h43 · [Ep. 125 —  What is Discipline (and How Do I Get It)](Resources/Highlights/Readwise/Podcasts/Ep.%20125%20%E2%80%94%20%20What%20is%20Discipline%20%28and%20How%20Do%20I%20Get%20It%29.md)
+* 2021-11-17 at 18h43 · [Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time](Resources/Highlights/Readwise/Podcasts/Ep.%2055%20%E2%80%94%20%20Shallow%20Teams,%20Vague%20Goals,%20and%20Pandemic%20Screen%20Time.md)
+* 2021-11-17 at 18h43 · [Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems](Resources/Highlights/Readwise/Podcasts/Ep.%2064%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20A%20Look%20Inside%20My%20Book%20Research%20Systems.md)
+* 2021-11-17 at 18h43 · [Megan McNealy on Achieving Optimal Productivity Through Well-being](Resources/Highlights/Readwise/Podcasts/Megan%20McNealy%20on%20Achieving%20Optimal%20Productivity%20Through%20Well-being.md)
+* 2021-11-17 at 18h43 · [Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy](Resources/Highlights/Readwise/Podcasts/Ep.%20118%20%E2%80%94%20%20LISTENER%20CALLS%20%E2%80%94%20%20A%20Primer%20On%20My%20Planning%20Philosophy.md)
+* 2021-11-17 at 18h43 · [113 —  ADHD and Cognitive Science, with Brittany Smith](Resources/Highlights/Readwise/Podcasts/113%20%E2%80%94%20%20ADHD%20and%20Cognitive%20Science,%20with%20Brittany%20Smith.md)
+* 2021-11-17 at 18h43 · [Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)](Resources/Highlights/Readwise/Podcasts/Ep.%2076%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Email%20On%20Speed%20%28Taming%20WhatsApp%29.md)
+* 2021-11-17 at 18h43 · [Oh my! Zsh.](Resources/Highlights/Readwise/Podcasts/Oh%20my!%20Zsh..md)
+* 2021-11-17 at 18h43 · [Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow](Resources/Highlights/Readwise/Podcasts/Ep.%2058%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Clarifying%20Task%20Organization,%20Graduate%20Student%20Advice,%20and%20My%20Research%20Workflow.md)
+* 2021-11-17 at 18h43 · [Ep. 101 —  Does Productivity Impede the Deep Life](Resources/Highlights/Readwise/Podcasts/Ep.%20101%20%E2%80%94%20%20Does%20Productivity%20Impede%20the%20Deep%20Life.md)
+* 2021-11-17 at 18h43 · [Jaime Masters on Focus, Flow, Time Tracking and Nootropics](Resources/Highlights/Readwise/Podcasts/Jaime%20Masters%20on%20Focus,%20Flow,%20Time%20Tracking%20and%20Nootropics.md)
+* 2021-11-17 at 18h43 · [384 —  David Allen — The Art of Getting Things Done (GTD)](Changelog.md#384-david-allen-the-art-of-getting-things-done-gtd)
+* 2021-11-17 at 18h43 · [Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days](Resources/Highlights/Readwise/Podcasts/Ep.%2080%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Deep%20Work%20After%20Hard%20Days.md)
+* 2021-11-17 at 18h43 · [Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon](Resources/Highlights/Readwise/Podcasts/Ep.%2016%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Why%20Relaxation%20is%20Overrated%20and%20the%20Importance%20of%20Facing%20the%20Productivity%20Dragon.md)
+* 2021-11-17 at 18h43 · [Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much](Resources/Highlights/Readwise/Podcasts/Ep.%207%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Time%20Blocking,%20Document%20Collaboration,%20Protecting%20Time%20and%20Doing%20Too%20Much.md)
+* 2021-11-17 at 18h43 · [The business model of open source](Resources/Highlights/Readwise/Podcasts/The%20business%20model%20of%20open%20source.md)
+* 2021-11-17 at 18h43 · [Ep. 108 —  LISTENER CALLS —  Becoming Productive](Resources/Highlights/Readwise/Podcasts/Ep.%20108%20%E2%80%94%20%20LISTENER%20CALLS%20%E2%80%94%20%20Becoming%20Productive.md)
+* 2021-11-17 at 18h43 · [Wed. 0929 – Is Amazon’s Astro Robot… Ready](Resources/Highlights/Readwise/Podcasts/Wed.%200929%20%E2%80%93%20Is%20Amazon%E2%80%99s%20Astro%20Robot%E2%80%A6%20Ready.md)
+* 2021-11-17 at 18h43 · [677 - The Art of Impossible With Steven Kotler!](Resources/Highlights/Readwise/Podcasts/677%20-%20The%20Art%20of%20Impossible%20With%20Steven%20Kotler!.md)
+* 2021-11-17 at 18h43 · [Projects Lists - November 2019](Resources/Highlights/Readwise/Podcasts/Projects%20Lists%20-%20November%202019.md)
+* 2021-11-17 at 18h43 · [27. The Underlying Technology Behind Fiat Standard](Resources/Highlights/Readwise/Podcasts/27.%20The%20Underlying%20Technology%20Behind%20Fiat%20Standard.md)
+* 2021-11-17 at 18h43 · [Laurie Santos, PhD  Simple Ways to Live a Happier Life](Resources/Highlights/Readwise/Podcasts/Laurie%20Santos,%20PhD%20%20Simple%20Ways%20to%20Live%20a%20Happier%20Life.md)
+* 2021-11-17 at 18h43 · [494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More](Changelog.md#494-michael-phelps-and-grant-hackett-two-legends-on-competing-overcoming-adversity-must-read-books-and-much-more)
+* 2021-11-17 at 18h43 · [He Ran Across America — On Plants](Resources/Highlights/Readwise/Podcasts/He%20Ran%20Across%20America%20%E2%80%94%20On%20Plants.md)
+* 2021-11-17 at 18h43 · [490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals](Changelog.md#490-dr-jim-loehr-on-mental-toughness-energy-management-the-power-of-journaling-and-olympic-gold-medals)
+* 2021-11-17 at 18h43 · [23 Nat Eliason on Starting a Life-Changing Blog](Changelog.md#23-nat-eliason-on-starting-a-life-changing-blog)
+* 2021-11-17 at 18h43 · [My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/My%20New%20Task%20System,%20Deep%20Work%20With%20Kids,%20and%20Finding%20Purpose%20in%20Distracted%20Times%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Stop Living on Autopilot and Take Responsibility for Your Life](Resources/Highlights/Readwise/Podcasts/Stop%20Living%20on%20Autopilot%20and%20Take%20Responsibility%20for%20Your%20Life.md)
+* 2021-11-17 at 18h43 · [493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More](Changelog.md#493-the-random-show-bitcoin-pros-and-cons-2021-resolutions-fave-books-lucid-dreaming-couples-therapy-and-more)
+* 2021-11-17 at 18h43 · [485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success](Changelog.md#485-jerry-seinfeld-a-comedy-legend-s-systems-routines-and-methods-for-success)
+* 2021-11-17 at 18h43 · [Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Where%20I%20Work,%20Convincing%20Students%20to%20Disconnect,%20and%20Applying%20Deep%20Work%20to%20Deep%20Social%20Problems%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [101 Jane McGonigal The Psychology of Gaming](Changelog.md#101-jane-mcgonigal-the-psychology-of-gaming)
+* 2021-11-17 at 18h43 · [SYSTEMS THINKING What Is a System](Resources/Highlights/Readwise/Podcasts/SYSTEMS%20THINKING%20What%20Is%20a%20System.md)
+* 2021-11-17 at 18h43 · [Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2](Resources/Highlights/Readwise/Podcasts/Tackling%20Procrastination,%20Building%20a%20Productivity%20System%20From%20Scratch,%20and%20the%20Intellectual%20Shallowness%20of%20Social%20Media%20%20DEEP%20QUESTIONS-2.md)
+* 2021-11-17 at 18h43 · [Austin Kleon on Writing, Creativity and the Importance of Idleness](Resources/Highlights/Readwise/Podcasts/Austin%20Kleon%20on%20Writing,%20Creativity%20and%20the%20Importance%20of%20Idleness.md)
+* 2021-11-17 at 18h43 · [Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan](Resources/Highlights/Readwise/Podcasts/Bouncing%20Back,%20Finding%20Fulfilment%20and%20Being%20Productive%20Ft.%20Noah%20Kagan.md)
+* 2021-11-17 at 18h43 · [Personal Knowledge Management Reprised](Resources/Highlights/Readwise/Podcasts/Personal%20Knowledge%20Management%20Reprised.md)
+* 2021-11-17 at 18h43 · [This Is How We Change the World](Resources/Highlights/Readwise/Podcasts/This%20Is%20How%20We%20Change%20the%20World.md)
+* 2021-11-17 at 18h43 · [Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness](Resources/Highlights/Readwise/Podcasts/Ep.%2053%20Covey's%20Quads,%20Perfect%20Productivity%20Systems,%20and%20Reducing%20Laziness.md)
+* 2021-11-17 at 18h43 · [68 Bits of Unsolicited Advice-2](Resources/Highlights/Readwise/Podcasts/68%20Bits%20of%20Unsolicited%20Advice-2.md)
+* 2021-11-17 at 18h43 · [447 Books I've Loved — Ann Miura-Ko-2](Changelog.md#447-books-i-ve-loved-ann-miura-ko-2)
+* 2021-11-17 at 18h43 · [Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2](Resources/Highlights/Readwise/Podcasts/Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS-2.md)
+* 2021-11-17 at 18h43 · [88 Derek Sivers Innovation Versus Imitation-2](Changelog.md#88-derek-sivers-innovation-versus-imitation-2)
+* 2021-11-17 at 18h43 · [Exponent 188 — Big Tech, Antitrust, and Democracy-2](Resources/Highlights/Readwise/Podcasts/Exponent%20188%20%E2%80%94%20Big%20Tech,%20Antitrust,%20and%20Democracy-2.md)
+* 2021-11-17 at 18h43 · [444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2](Changelog.md#444-hugh-jackman-on-best-decisions-daily-routines-the-85-rule-favorite-exercises-mind-training-and-much-more-2)
+* 2021-11-17 at 18h43 · [Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job](Resources/Highlights/Readwise/Podcasts/Habit%20Tune-Up%20Productivity%20System%20Indecision,%20Embracing%20Boredom,%20and%20Craving%20Depth%20in%20a%20Shallow%20Job.md)
+* 2021-11-17 at 18h43 · [Borrowed Creativity](Resources/Highlights/Readwise/Podcasts/Borrowed%20Creativity.md)
+* 2021-11-17 at 18h43 · [Competitiveness and Mimetic Traps](Resources/Highlights/Readwise/Podcasts/Competitiveness%20and%20Mimetic%20Traps.md)
+* 2021-11-17 at 18h43 · [Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Student%20Shutdown%20Rituals,%20Optimal%20Deep-To-Shallow%20Ratios,%20and%20the%20$20%20Million%20Question%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [634 How to Design Conversations That Matter-2](Changelog.md#634-how-to-design-conversations-that-matter-2)
+* 2021-11-17 at 18h43 · [634 How to Design Conversations That Matter](Changelog.md#634-how-to-design-conversations-that-matter)
+* 2021-11-17 at 18h43 · [444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More](Changelog.md#444-hugh-jackman-on-best-decisions-daily-routines-the-85-rule-favorite-exercises-mind-training-and-much-more)
+* 2021-11-17 at 18h43 · [88 Derek Sivers Innovation Versus Imitation](Changelog.md#88-derek-sivers-innovation-versus-imitation)
+* 2021-11-17 at 18h43 · [Exponent 188 — Big Tech, Antitrust, and Democracy](Resources/Highlights/Readwise/Podcasts/Exponent%20188%20%E2%80%94%20Big%20Tech,%20Antitrust,%20and%20Democracy.md)
+* 2021-11-17 at 18h43 · [Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS](Resources/Highlights/Readwise/Podcasts/Tackling%20Procrastination,%20Building%20a%20Productivity%20System%20From%20Scratch,%20and%20the%20Intellectual%20Shallowness%20of%20Social%20Media%20%20DEEP%20QUESTIONS.md)
+* 2021-11-17 at 18h43 · [447 Books I've Loved — Ann Miura-Ko](Changelog.md#447-books-i-ve-loved-ann-miura-ko)
+* 2021-11-17 at 18h43 · [68 Bits of Unsolicited Advice](Resources/Highlights/Readwise/Podcasts/68%20Bits%20of%20Unsolicited%20Advice.md)
+* 2021-11-17 at 18h43 · [You Need a Budget](Resources/Highlights/Readwise/Books/You%20Need%20a%20Budget.md)
+* 2021-11-17 at 18h43 · [Quick Passages](Resources/Highlights/Readwise/Books/Quick%20Passages.md)
+* 2021-11-17 at 18h43 · [Tribe of Mentors](Resources/Highlights/Readwise/Books/Tribe%20of%20Mentors.md)
+* 2021-11-17 at 18h43 · [Extend Your Mind](Resources/Highlights/Readwise/Books/Extend%20Your%20Mind.md)
+* 2021-11-17 at 18h43 · [Clean Up and Declutter Your Computer](Resources/Highlights/Readwise/Books/Clean%20Up%20and%20Declutter%20Your%20Computer.md)
+* 2021-11-17 at 18h43 · [Design Your Work](Resources/Highlights/Readwise/Books/Design%20Your%20Work.md)
+* 2021-11-17 at 18h43 · [Reproducible Research With R and RStudio](Resources/Highlights/Readwise/Books/Reproducible%20Research%20With%20R%20and%20RStudio.md)
+* 2021-11-17 at 18h43 · [Free to Focus](Resources/Highlights/Readwise/Books/Free%20to%20Focus.md)
+* 2021-11-17 at 17h58 · [README](Agendas/README.md)
+* 2021-11-17 at 17h58 · [Atomic Notes](Slipbox/Atomic%20Notes.md)
+* 2021-11-17 at 17h57 · [Synapse](Reference/Dictionary/Synapse.md)
+* 2021-11-17 at 17h56 · [Building a Second Brain](Slipbox/Building%20a%20Second%20Brain.md)
+* 2021-11-17 at 17h55 · [Publish Workflow](Meta/Publish%20Workflow.md)
+* 2021-11-17 at 17h54 · [Structure](Meta/Structure.md)
+* 2021-11-17 at 17h53 · [About](Meta/About.md)
+* 2021-11-17 at 17h51 · *\_README*
+* 2021-11-17 at 17h51 · *\_README*
+* 2021-11-17 at 17h47 · [Random Forest Algorithms](Slipbox/Random%20Forest%20Algorithms.md)
+* 2021-11-17 at 17h47 · [Neural Networks](Slipbox/Neural%20Networks.md)
+* 2021-11-17 at 17h47 · [Generalized Linear Models](Slipbox/Generalized%20Linear%20Models.md)
+* 2021-11-17 at 17h47 · [Generalized Additive Models](Slipbox/Generalized%20Additive%20Models.md)
+* 2021-11-17 at 17h41 · *\_README*
+* 2021-11-17 at 17h41 · *\_README*
+* 2021-11-17 at 17h40 · *\_README*
+* 2021-11-17 at 17h34 · *\_README*
+* 2021-11-17 at 17h27 · [Meta-Template](Templates/Meta-Template.md)
+* 2021-11-17 at 17h27 · [Slipbox-Default-Template](Templates/Slipbox-Templates/Slipbox-Default-Template.md)
+* 2021-11-17 at 17h23 · [Alteryx](Slipbox/Alteryx.md)

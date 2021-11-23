@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Databases"
+Tags:
+  - "#Type/MOC"
+Alias: Databases
 ---
 
 # Databases
@@ -17,12 +18,12 @@ Alias: "Databases"
 
 ### Tagged as *Category/Databases*
 
-```dataview
+````dataview
 list from #Category/Databases AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Databases]] AND -"Changelog"
-```
+````

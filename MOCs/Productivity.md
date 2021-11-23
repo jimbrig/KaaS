@@ -1,8 +1,9 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Productivity"
+Tags:
+  - "#Type/MOC"
+Alias: Productivity
 ---
 
 # Productivity
@@ -11,24 +12,24 @@ Alias: "Productivity"
 
 ## Related MOCs
 
-- [[Personal Knowledge Management]]
-- [[Getting Things Done]]
-- [[Tools]]
+* [Personal Knowledge Management](Personal%20Knowledge%20Management.md)
+* [Getting Things Done](../Slipbox/Getting%20Things%20Done.md)
+* [Tools](../Slipbox/Tools.md)
 
 ## Notes
 
-- [[GTD Mindsweep]]
+* [GTD Mindsweep](../Slipbox/GTD%20Mindsweep.md)
 
 ## Dataviews
 
 ### Tagged as *Category/Productivity*
 
-```dataview
+````dataview
 list from #Category/Productivity AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Productivity]] AND -"Changelog"
-```
+````

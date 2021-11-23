@@ -1,20 +1,22 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Mindsweep"]
-Aliases: ["<% tp.file.title %>"]
+Tags:
+  - "#Type/Mindsweep"
+Aliases:
+  - "<% tp.file.title %>"
 ---
 
-# <% tp.date.now() %> - Mindsweep
+# \<% tp.date.now() %> - Mindsweep
 
-See Also: [[Mindsweep Trigger List]]
+See Also: *Mindsweep Trigger List*
 
 ## Brain Dump
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

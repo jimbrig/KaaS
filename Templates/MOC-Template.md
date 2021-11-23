@@ -1,13 +1,14 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
+Tags:
+  - "#Type/MOC"
 Alias: "<% tp.file.title %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-*<% tp.file.title %>* Map of Content houses all notes related to <% tp.file.title %> in general.
+*\<% tp.file.title %>* Map of Content houses all notes related to \<% tp.file.title %> in general.
 
 ## Notes
 
@@ -15,14 +16,14 @@ Alias: "<% tp.file.title %>"
 
 ## Dataviews
 
-### Tagged as *Category/<% tp.file.title %>*
+### Tagged as *Category/\<% tp.file.title %>*
 
-```dataview
+````dataview
 list from #Category/<% tp.file.title %> AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

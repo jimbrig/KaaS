@@ -1,8 +1,13 @@
 ---
 Date: 2021-11-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: ["visudo", "Linux Commands - visudo", "visudo command"]
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+Alias:
+  - visudo
+  - Linux Commands - visudo
+  - visudo command
 ---
 
 # Linux - visudo command
@@ -19,9 +24,9 @@ Visudo is basically a wrapper for a text editor such as vi or nano. Vi is tradit
 
 Visudo has a built in list of supported editors that can be used, and you can change which it will use by setting the “EDITOR” environment variable on the command line like this:
 
-```command
+````command
 $ export EDITOR=nano
-```
+````
 
 This will set nano as the default editor. To save this permanently add the same line to the .bashrc file in your home directory. On Ubuntu, where nano is actually set as the default, you can also change it by running sudo update-alternatives –config editor and then selecting your preference.
 
@@ -29,35 +34,35 @@ Editing Sudoers To open up the /etc/sudoers file for editing with visudo simply 
 
 Before making any edits it’s a good idea to check the existing configuration, and understand what everything means. One line you’ll definitely encounter is this:
 
-```command
+````command
 root ALL=(ALL:ALL) ALL
-```
+````
 
 This gives the root user all of the superuser privileges, as can be expected. The format of the rule set such as this is as follows:
 
-```command
+````command
 user hosts=(users:groups) commands
-```
+````
 
 What you’re doing is specifying which commands can a given user run under which circumstances. In case where all of them are set to ALL, like for root, it means that the user can run all commands on all hosts, as all users and groups.
 
 If all you want is enable another user with the same powers as root, obtainable by issuing the sudo command before the desired command, you can just copy the root line and change “root” with your username, in this example “daniel”:
 
-```command
+````command
 daniel ALL=(ALL:ALL) ALL
-```
+````
 
 But if you don’t want to give all of the privileges you can adjust the rules. For example you can allow “daniel” to only run certain commands:
 
-```command
+````command
 daniel ALL=(ALL:ALL) mytop,cat,tail
-```
+````
 
 Besides users you can also give superuser permissions to groups using a % indicator:
 
-```command
+````command
 %admin ALL=(ALL) ALL
-```
+````
 
 This would allow all users in the admin group to run all commands as root.
 
@@ -67,27 +72,27 @@ Finally, you can set up aliases to group multiple entries into a single one for 
 
 Aliases are useful if you have a more complex set up with multitude of users that should have varying degrees of privileges on the system. To set up an alias just state the alias type, its name, and then the list of users, hosts or commands you want to associate it with. For example to set up a User_Alias you can do this:
 
-```command
+````command
 User_Alias MANAGERS = steve,bill,james
-```
+````
 
 All the other aliases follow the same format only with the different specified type, and listing different types of things, like users, hosts or commands. If we wanted to put the three commands from the above example with the “daniel” user under an alias we could do this:
 
-```command
+````command
 Cmnd_Alias READ = mytop,cat,tail
-```
+````
 
 And then instead of listing these two commands in our configuration for daniel we can just specify the READ alias:
 
-```command
+````command
 daniel ALL=(ALL:ALL) READ
-```
+````
 
 It works the same way for other types of aliases. If we want to give the same privileges to users steve, bill, and james we can say:
 
-```command
+````command
 MANAGERS ALL=(ALL:ALL) READ
-```
+````
 
 You get the idea.
 
@@ -103,17 +108,17 @@ Once your text editor session finishes, the control will be back to visudo which
 
 These are the basics of using visudo and editing the sudoers file with it. We recommend you check out the manual pages if you ever need more detailed reference, like man visudo and man sudoers. You can also see a sample sudoers file with many examples at its web site.
 
-***
+---
 
 #### Appendix - Links:
 
 *Backlinks:*
 
-- [[How to create a passwordless sudoer on Linux]]
+* [How to create a passwordless sudoer on Linux](How%20to%20create%20a%20passwordless%20sudoer%20on%20Linux.md)
 
 ##### Dataview
 
-
-	```dataview
-	list from [[Linux - visudo]] AND -"Changelog"
-	```
+````
+```dataview
+list from [[Linux - visudo]] AND -"Changelog"
+```````

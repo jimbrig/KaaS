@@ -1,25 +1,28 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: ["R Package - actuar", "actuar"]
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev/R"
+Alias:
+  - R Package - actuar
+  - actuar
 ---
 
 # R Package - actuar
 
-#Status/Todo 
+\#Status/Todo 
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[R]]
-- [[Actuarial Science]]
-
+* [Development](../MOCs/Development.md)
+* [R](../MOCs/R.md)
+* [Actuarial Science](../MOCs/Actuarial%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - actuar]] AND -"Changelog"
-```
+````

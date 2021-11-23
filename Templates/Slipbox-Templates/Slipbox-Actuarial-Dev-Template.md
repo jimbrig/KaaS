@@ -1,22 +1,24 @@
 ---
-Date: <% tp.date.now() %>
+Date: "<% tp.date.now() %>"
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
+Tags:
+  - "#Type/Slipbox"
+  - "#Topic/Dev"
+  - "#Topic/Actuarial"
 Alias: "<% tp.file.title %>"
 ---
 
-# <% tp.file.title %>
+# \<% tp.file.title %>
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[Actuarial Science]]
-
+* [Development](../../MOCs/Development.md)
+* [Actuarial Science](../../MOCs/Actuarial%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[<% tp.file.title %>]] AND -"Changelog"
-```
+````

@@ -10,7 +10,9 @@ Alias: Slipbox
 *Contents*
 
 ```dataview
-TABLE FROM "0-Slipbox" AND !#Type/Readme AND -"_assets"
+TABLE Date, Tags
+FROM "0-Slipbox" AND !#Type/Readme AND -"_assets"
+SORT date, file
 ```
 
 ***

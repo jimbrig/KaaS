@@ -35,7 +35,7 @@ Alias: "Development"
 
 ## Tools
 
-- [[zsh]]
+- [[ZSH]]
 
 ## Conceptual Topics
 

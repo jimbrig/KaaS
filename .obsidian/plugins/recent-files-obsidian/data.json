@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Free Actuarial System for Loss Reserving",
+      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
+    },
+    {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
+    },
+    {
+      "basename": "CAS - Casualty Actuarial Society",
+      "path": "0-Slipbox/CAS - Casualty Actuarial Society.md"
+    },
+    {
+      "basename": "ZSH",
+      "path": "0-Slipbox/ZSH.md"
+    },
+    {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
     },
     {
       "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
@@ -39,10 +55,6 @@
     {
       "basename": "Development",
       "path": "2-Areas/MOCs/Development.md"
-    },
-    {
-      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
-      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
     },
     {
       "basename": "Cloud Computing",
@@ -187,18 +199,6 @@
     {
       "basename": "Tools",
       "path": "0-Slipbox/Tools.md"
-    },
-    {
-      "basename": "Todoist",
-      "path": "0-Slipbox/Todoist.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "0-Slipbox/Obsidian.md"
-    },
-    {
-      "basename": "Microsoft Windows Terminal",
-      "path": "0-Slipbox/Microsoft Windows Terminal.md"
     }
   ],
   "omittedPaths": [],

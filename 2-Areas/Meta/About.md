@@ -27,12 +27,12 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ## Note Types
 
 - [[Daily-Notes/_README|Daily Notes]]: Daily notes for journaling and reflection
-- [[Meta/_README|Meta]]: Houses meta-information about the vault itself and its setup (i.e. this note is a meta note!)
-- [[MOCs/_README|Maps of Content (MOCs)]]: Index notes that form the backbone structure of the vault around common topics.
-- [[Projects/_README|Projects]]: Project based notes split between Personal and Professional.
+- [[2-Areas/Meta/_README|Meta]]: Houses meta-information about the vault itself and its setup (i.e. this note is a meta note!)
+- [[2-Areas/MOCs/_README|Maps of Content (MOCs)]]: Index notes that form the backbone structure of the vault around common topics.
+- [[1-Projects/_README|Projects]]: Project based notes split between Personal and Professional.
 - [[Reference/_README|Reference]]: General Reference notes (i.e. Citations, Sources, and Work Reference Materials)
-- [[Resources/_README|Resources]]: Resourceful notes such as embedded websites, highlights from Readwise, etc.
-- [[Slipbox/_README|Slipbox]]: The main folder of the vault. Houses all of my notes in a Zettelkasten manner. 
+- [[3-Resources/_README|Resources]]: Resourceful notes such as embedded websites, highlights from Readwise, etc.
+- [[0-Slipbox/_README|Slipbox]]: The main folder of the vault. Houses all of my notes in a Zettelkasten manner. 
 	- [[Fleeting Notes]]: Notes that are pre-mature and ephemeral
 	- [[Literary Notes]]: Notes representing external ideas and knowledge that I have captured.
 	- [[Permanent Notes]]: Notes that are considered *Evergreen*, i.e., notes that I have curated and formulated

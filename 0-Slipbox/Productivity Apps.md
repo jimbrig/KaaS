@@ -6,7 +6,7 @@ Tags: ["#Type/List", "#Topic/Productivity", "#Type/Tool"]
 
 # Productivity Apps
 
-- [[ToDoist]]
+- [[Todoist]]
 - [[Streaks]]
 - [[Toggl]]
 - [[Instapaper]]

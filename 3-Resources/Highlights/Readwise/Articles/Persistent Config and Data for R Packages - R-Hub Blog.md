@@ -24,14 +24,14 @@ Aliases: []
 - As a package developer in your code you can retrieve options by using getOption() whose second argument is a fallback for when the option hasn’t been set by the user. Note that an option can be any R object.
     - Tags: [[favorite]] 
 - Environment variables, found via Sys.getenv() rather than getOption(), are often used for storing secrets (like GITHUB_PAT for the gh package) or the path to secrets on disk (like TWITTER_PAT for rtweet), or not secrets (e.g. the browser to use for chromote).
-    - Tags: [[r]] [[favorite]] 
+    - Tags: [[R]] [[favorite]] 
 - the user could use Sys.setenv(). Obviously, secrets should not be written at the top of a script that’s public. To make environment variables persistent they need to be stored in a startup file, .Renviron. .Renviron does not contain R code like .Rprofile, but rather key-value pairs that are only called via Sys.getenv().
 - The keyring package allows to interact with such credential stores. You could either take it on as a dependency like e.g. gh, or recommend the user of your package to use keyring and to add a line like
   Sys.setenv(SUPERSECRETKEY = keyring::key_get("myservice"))
 - Using a config file
   The batchtools package expect its users to setup a config file somewhere if they don’t want to use the defaults. That somewhere can be several locations, as explained in the batchtools::findConfFile() manual page. Two of the possibilities are rappdirs::user_config_dir("batchtools", expand = FALSE) and rappdirs::site_config_dir("batchtools") which refer to standard locations that are different depending on the operating system.
 - the gert package can find and return Git’s preferences via gert::git_config_global()
-    - Tags: [[r]] [[favorite]] 
+    - Tags: [[R]] [[favorite]] 
 - recommend using such standard locations when caching data.
 - Persist as much relevant and fresh data as possible.
 - A package that exemplifies doing so is getlandsat that downloads “Landsat 8 data from AWS public data sets” from the web. The first time the user downloads an image, the result is cached so next time no query needs to be made. A very nice aspect of getlandsat is its providing cache management functions

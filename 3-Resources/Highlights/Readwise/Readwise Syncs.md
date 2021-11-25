@@ -437,3 +437,6 @@
 
 - [[2021-11-21]] 9:37 PM — Synced 0 highlights from 0 documents.
 
+- [[2021-11-25]] 1:25 AM — Synced 9 highlights from 1 document.
+    - 9 highlights from Getting Started With R on Amazon Web Services | Amazon Web Services
+

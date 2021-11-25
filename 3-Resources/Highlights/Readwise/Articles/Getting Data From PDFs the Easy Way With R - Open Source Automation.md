@@ -21,4 +21,4 @@ Aliases: []
   matrix_results <- extract_tables(site)
   # get back the tables as data frames, keeping their headers
   df_results <- extract_tables(site, output = "data.frame", header = TRUE)
-    - Tags: [[r]] 
+    - Tags: [[R]] 

@@ -7,10 +7,10 @@ Alias: Resources
 
 # Resources
 
-- [[Resources/Clippings/_README|Clippings]]
-- [[Resources/Embeds/_README|Embeds]]
-- [[Resources/Highlights/_README|Highlights]]
-- [[Resources/Tools/_README|Tools]]
+- [[3-Resources/Clippings/_README|Clippings]]
+- [[3-Resources/Embeds/_README|Embeds]]
+- [[3-Resources/Highlights/_README|Highlights]]
+- [[3-Resources/Tools/_README|Tools]]
 
 
 ***

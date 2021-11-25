@@ -14,7 +14,7 @@ Alias: []
 - [[Tools]]
 - [[Personal Knowledge Management]]
 - [[Zettelkasten]]
-- [[Meta/_README|Meta]]
+- [[2-Areas/Meta/_README|Meta]]
 
 *Backlinks:*
 

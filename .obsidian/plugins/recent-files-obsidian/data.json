@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "_README",
+      "path": "0-Slipbox/_README.md"
+    },
+    {
+      "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
+      "path": "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf"
+    },
+    {
+      "basename": "_README",
       "path": "4-Archives/Guidance/_README.md"
     },
     {
@@ -191,14 +199,6 @@
     {
       "basename": "Microsoft Windows Terminal",
       "path": "0-Slipbox/Microsoft Windows Terminal.md"
-    },
-    {
-      "basename": "Tool-Template",
-      "path": "Templates/Tool-Template.md"
-    },
-    {
-      "basename": "Slipbox-Default-Template",
-      "path": "Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     }
   ],
   "omittedPaths": [],

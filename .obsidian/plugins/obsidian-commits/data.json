@@ -4,11 +4,6 @@
     "/"
   ],
   "filesCheckpoint": {
-    "Workbench.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "README.md": {
       "size": 2282,
       "tags": 0,
@@ -3173,12 +3168,17 @@
       "size": 597,
       "tags": 1,
       "links": 0
+    },
+    "1-Projects/Workbench.md": {
+      "size": 174,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 750,
-      "Create": 635,
+      "Refactor": 751,
+      "Create": 636,
       "Link": 1198,
       "Expand": 78
     }
@@ -3186,7 +3186,7 @@
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 643,
+      "1": 645,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -3216,7 +3216,7 @@
       "Mon": 175,
       "Tue": 153,
       "Wed": 1369,
-      "Thu": 633,
+      "Thu": 635,
       "Fri": 269,
       "Sat": 0,
       "Sun": 62
@@ -3278,6 +3278,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"1-Projects/Workbench.md\"> Workbench </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>",
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
@@ -3327,8 +3328,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md\"> Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md\"> Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>",
@@ -3458,7 +3458,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Ultimate Guide to an E!ective Weekly Review.md\"> Ultimate Guide to an E!ective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"Slipbox/The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse....md\"> The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focuse... </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Notes/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>",

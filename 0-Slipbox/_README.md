@@ -10,7 +10,7 @@ Alias: Slipbox
 *Contents*
 
 ```dataview
-list from "Slipbox" AND !#Type/Readme
+TABLE FROM "0-Slipbox" AND !#Type/Readme AND -"_assets"
 ```
 
 ***

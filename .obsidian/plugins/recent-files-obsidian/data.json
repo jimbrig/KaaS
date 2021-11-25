@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Developer Environment",
+      "path": "0-Slipbox/Windows Developer Environment.md"
+    },
+    {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Digital Garden",
       "path": "0-Slipbox/Digital Garden.md"
-    },
-    {
-      "basename": "Tiago Forte",
-      "path": "2-Areas/People/Tiago Forte.md"
     }
   ],
   "omittedPaths": [],

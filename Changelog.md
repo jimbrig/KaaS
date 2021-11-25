@@ -1,3 +1,4 @@
+- 2021-11-25 at 15h25 · [[Windows Developer Environment]]
 - 2021-11-25 at 01h45 · [[AWS Redshift]]
 - 2021-11-25 at 01h45 · [[Alteryx vs Code]]
 - 2021-11-25 at 01h44 · [[The Ultimate Guide to an Effective Weekly Review]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[Weekly Review Musings]]
 - 2021-11-23 at 15h56 · [[WSL Initial Setup Notes]]
 - 2021-11-23 at 15h56 · [[Visual Studio Code]]
-- 2021-11-23 at 15h56 · [[System Design]]

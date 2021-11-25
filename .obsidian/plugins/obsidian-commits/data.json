@@ -5518,13 +5518,18 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "0-Slipbox/Windows Developer Environment.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 755,
-      "Create": 1105,
-      "Link": 2038,
+      "Create": 1106,
+      "Link": 2039,
       "Expand": 78
     }
   },
@@ -5545,7 +5550,7 @@
       "12": 149,
       "13": 34,
       "14": 8,
-      "15": 142,
+      "15": 144,
       "16": 57,
       "17": 126,
       "18": 1262,
@@ -5561,7 +5566,7 @@
       "Mon": 175,
       "Tue": 153,
       "Wed": 1369,
-      "Thu": 1948,
+      "Thu": 1950,
       "Fri": 269,
       "Sat": 0,
       "Sun": 62
@@ -5623,6 +5628,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Can't Stay Focused While Processing - Have Tried for Months.md\"> Can't Stay Focused While Processing - Have Tried for Months </a>",
@@ -5672,8 +5678,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
@@ -5729,6 +5734,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Developer Environment.md\"> Windows Developer Environment </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/API Authentication.md\"> API Authentication </a>",
@@ -5778,8 +5784,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md\"> FW Managing Outcomes in a Remote Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

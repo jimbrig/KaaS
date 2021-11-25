@@ -1,6 +1,11 @@
 ---
-
+Date: 2021-11-25
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Slipbox"]
+Alias: "The Ultimate Guide to an Effective Weekly Review"
 ---
+
+
 
 ## The Ultimate Guide to an Effective 
 
@@ -411,3 +416,14 @@ TLDR;
 
  ==The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, and journal. Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits== 
 
+***
+
+#### Related
+
+- [[Development]]
+
+*Backlinks:*
+
+```dataview
+list from [[The Ultimate Guide to an Effective Weekly Review]] AND -"Changelog"
+```

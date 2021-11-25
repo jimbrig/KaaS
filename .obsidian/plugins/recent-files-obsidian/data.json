@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Free Actuarial System for Loss Reserving",
-      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
+      "basename": "AWS Redshift",
+      "path": "0-Slipbox/AWS Redshift.md"
     },
     {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
+    },
+    {
+      "basename": "Alteryx vs Code",
+      "path": "0-Slipbox/Alteryx vs Code.md"
+    },
+    {
+      "basename": "The Ultimate Guide to an Effective Weekly Review",
+      "path": "0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
+    },
+    {
+      "basename": "AWS QuickSight",
+      "path": "0-Slipbox/AWS QuickSight.md"
+    },
+    {
+      "basename": "AWS Athena",
+      "path": "0-Slipbox/AWS Athena.md"
+    },
+    {
+      "basename": "API Authentication",
+      "path": "0-Slipbox/API Authentication.md"
+    },
+    {
+      "basename": "Actuarial Rate Indications Automation",
+      "path": "4-Archives/Actuarial Rate Indications Automation.md"
+    },
+    {
+      "basename": "R Package - cascsim",
+      "path": "0-Slipbox/R Package - cascsim.md"
+    },
+    {
+      "basename": "Free Actuarial System for Loss Reserving",
+      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
     },
     {
       "basename": "CAS - Casualty Actuarial Society",
@@ -102,10 +134,6 @@
     },
     {
       "basename": "The Ultimate Guide to an Effective Weekly Review",
-      "path": "0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
-    },
-    {
-      "basename": "The Ultimate Guide to an Effective Weekly Review",
       "path": "3-Resources/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf"
     },
     {
@@ -171,34 +199,6 @@
     {
       "basename": "Tiago Forte",
       "path": "2-Areas/People/Tiago Forte.md"
-    },
-    {
-      "basename": "Progressive Summarization",
-      "path": "0-Slipbox/Progressive Summarization.md"
-    },
-    {
-      "basename": "PARA Method",
-      "path": "0-Slipbox/PARA Method.md"
-    },
-    {
-      "basename": "Productivity Apps",
-      "path": "0-Slipbox/Productivity Apps.md"
-    },
-    {
-      "basename": "REST API Best Practices",
-      "path": "0-Slipbox/REST API Best Practices.md"
-    },
-    {
-      "basename": "R Package - plumber",
-      "path": "0-Slipbox/R Package - plumber.md"
-    },
-    {
-      "basename": "Team Data Science Process",
-      "path": "0-Slipbox/Team Data Science Process.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "0-Slipbox/Tools.md"
     }
   ],
   "omittedPaths": [],

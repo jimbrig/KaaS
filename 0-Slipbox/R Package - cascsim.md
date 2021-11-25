@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R", "Topic/Actuarial"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Actuarial"]
 Alias: ["R Package - cascsim", "cascsim"]
 ---
 

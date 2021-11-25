@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "Topic/Actuarial", "Topic/Dev"]
+Tags: ["#Type/Slipbox", "#Topic/Actuarial", "#Topic/Dev"]
 Alias: ["Free Actuarial System for Loss Reserving", "FASLR"]
 ---
 

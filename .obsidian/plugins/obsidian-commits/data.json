@@ -2461,12 +2461,7 @@
     },
     "0-Slipbox/API Authentication.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "0-Slipbox/Actuarial Rate Indications Automation.md": {
-      "size": 0,
-      "tags": 1,
+      "tags": 5,
       "links": 0
     },
     "0-Slipbox/Atomic Notes.md": {
@@ -2481,7 +2476,7 @@
     },
     "0-Slipbox/AWS Athena.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "0-Slipbox/Azure Data Studio.md": {
@@ -2501,7 +2496,7 @@
     },
     "0-Slipbox/AWS QuickSight.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "0-Slipbox/Azure DevOps Pipelines.md": {
@@ -3001,8 +2996,8 @@
     },
     "0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
-      "tags": 0,
-      "links": 5
+      "tags": 1,
+      "links": 1
     },
     "0-Slipbox/Tools.md": {
       "size": 0,
@@ -5518,20 +5513,25 @@
       "size": 0,
       "tags": 2,
       "links": 5
+    },
+    "4-Archives/Actuarial Rate Indications Automation.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 753,
+      "Refactor": 755,
       "Create": 1105,
-      "Link": 2031,
+      "Link": 2035,
       "Expand": 78
     }
   },
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 1949,
+      "1": 1955,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -5561,7 +5561,7 @@
       "Mon": 175,
       "Tue": 153,
       "Wed": 1369,
-      "Thu": 1939,
+      "Thu": 1945,
       "Fri": 269,
       "Sat": 0,
       "Sun": 62
@@ -5676,6 +5676,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>",
@@ -5725,10 +5726,13 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Tools.md\"> Tools </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Team Data Science Process.md\"> Team Data Science Process </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Subject Area Models.md\"> Subject Area Models </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/API Authentication.md\"> API Authentication </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/AWS Athena.md\"> AWS Athena </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Agendas/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
@@ -5775,11 +5779,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Organize.md\"> Getting Things Done Organize </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -5890,7 +5890,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>"
       ]
     }
   },

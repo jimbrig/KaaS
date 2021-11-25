@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-25",
+      "path": "Daily-Notes/2021-11-25.md"
+    },
+    {
       "basename": "2021-11-23",
       "path": "Daily-Notes/2021-11-23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "WSL Terminal and Shell Setup Guide",
       "path": "Slipbox/WSL Terminal and Shell Setup Guide.md"
-    },
-    {
-      "basename": "Collectors Fallacy",
-      "path": "Slipbox/Collectors Fallacy.md"
     }
   ],
   "omittedPaths": [],

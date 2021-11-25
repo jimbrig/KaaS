@@ -2446,7 +2446,7 @@
     },
     "0-Slipbox/Alteryx vs Code.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "0-Slipbox/Alteryx.md": {
@@ -2486,7 +2486,7 @@
     },
     "0-Slipbox/AWS Redshift.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     },
     "0-Slipbox/AWS Glue.md": {
@@ -2997,7 +2997,7 @@
     "0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md": {
       "size": 33599,
       "tags": 1,
-      "links": 1
+      "links": 6
     },
     "0-Slipbox/Tools.md": {
       "size": 0,
@@ -5524,14 +5524,14 @@
     "/": {
       "Refactor": 755,
       "Create": 1105,
-      "Link": 2035,
+      "Link": 2038,
       "Expand": 78
     }
   },
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 1955,
+      "1": 1958,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -5561,7 +5561,7 @@
       "Mon": 175,
       "Tue": 153,
       "Wed": 1369,
-      "Thu": 1945,
+      "Thu": 1948,
       "Fri": 269,
       "Sat": 0,
       "Sun": 62
@@ -5729,6 +5729,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/API Authentication.md\"> API Authentication </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS Athena.md\"> AWS Athena </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
@@ -5777,9 +5779,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md\"> FW Managing Outcomes in a Remote Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -5807,6 +5807,7 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-12.md\"> 2021-11-12 </a>",
@@ -5856,8 +5857,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs.md\"> You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md\"> Persistent Config and Data for R Packages - R-Hub Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md\"> What I've Learnt About Making an R Package </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Ongoing Is the Worst Word in the History of Project Management.md\"> Why Ongoing Is the Worst Word in the History of Project Management </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity.md\"> How to Organize Your Files for Maximum Productivity </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Ongoing Is the Worst Word in the History of Project Management.md\"> Why Ongoing Is the Worst Word in the History of Project Management </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -436,3 +436,9 @@
     - 8 highlights from Can't Stay Focused While Processing - Have Tried for Months
     - 9 highlights from Getting Started With R on Amazon Web Services | Amazon Web Services
 
+- [[2021-11-25]] 8:20 PM — Synced 59 highlights from 4 documents.
+    - 10 highlights from Underused SQL Server Features: Schemas
+    - 12 highlights from The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail
+    - 8 highlights from Email Inbox Management: Why and How?
+    - 29 highlights from The Art of Routing in Flask
+

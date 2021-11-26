@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 485
+      "links": 486
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -5523,14 +5523,39 @@
       "size": 0,
       "tags": 3,
       "links": 0
+    },
+    "Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md": {
+      "size": 2280,
+      "tags": 2,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md": {
+      "size": 3589,
+      "tags": 2,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md": {
+      "size": 1627,
+      "tags": 2,
+      "links": 1
+    },
+    "Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md": {
+      "size": 6913,
+      "tags": 2,
+      "links": 1
+    },
+    "0-Slipbox/GCP Sketchnote Diagrams.md": {
+      "size": 41618,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 755,
-      "Create": 1106,
-      "Link": 2039,
-      "Expand": 78
+      "Create": 1111,
+      "Link": 2048,
+      "Expand": 79
     }
   },
   "dailyCommits": {
@@ -5555,7 +5580,7 @@
       "17": 126,
       "18": 1262,
       "19": 44,
-      "20": 4,
+      "20": 19,
       "21": 15,
       "22": 44,
       "23": 3
@@ -5566,7 +5591,7 @@
       "Mon": 175,
       "Tue": 153,
       "Wed": 1369,
-      "Thu": 1950,
+      "Thu": 1965,
       "Fri": 269,
       "Sat": 0,
       "Sun": 62
@@ -5575,6 +5600,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
@@ -5624,10 +5650,14 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>",
@@ -5673,12 +5703,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
@@ -5734,6 +5759,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Developer Environment.md\"> Windows Developer Environment </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
@@ -5780,11 +5809,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md\"> PARA Part 5 The Project List Mindsweep - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting More Done at Work With Evernote - Frank Buck Consulting.md\"> Getting More Done at Work With Evernote - Frank Buck Consulting </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Blog  Filterize.md\"> Blog  Filterize </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/FW Managing Outcomes in a Remote Environment.md\"> FW Managing Outcomes in a Remote Environment </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Importance of Systems.md\"> The Importance of Systems </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Blog  Filterize.md\"> Blog  Filterize </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -5812,6 +5837,11 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
@@ -5857,12 +5887,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs.md\"> The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs.md\"> Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md\"> The Case for Digital Notes - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md\"> Getting Things Done With Todoist – My GTD Setup </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md\"> 10 Windows Task Manager Tricks You Probably Didn’t Know </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs.md\"> You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md\"> Persistent Config and Data for R Packages - R-Hub Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md\"> What I've Learnt About Making an R Package </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Ongoing Is the Worst Word in the History of Project Management.md\"> Why Ongoing Is the Worst Word in the History of Project Management </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done With Todoist – My GTD Setup.md\"> Getting Things Done With Todoist – My GTD Setup </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

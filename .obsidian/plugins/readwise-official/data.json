@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2272254,
-  "currentSyncStatusID": 2276630,
+  "lastSavedStatusID": 2276630,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -881,7 +881,11 @@
     "Resources/Highlights/Readwise/Articles/The Actuary of the Future.md": "11917121",
     "Resources/Highlights/Readwise/Articles/DataOps Implementation Guidelines.md": "11917122",
     "Resources/Highlights/Readwise/Articles/Can't Stay Focused While Processing - Have Tried for Months.md": "11921644",
-    "Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md": "12020001"
+    "Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md": "12020001",
+    "Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md": "12036782",
+    "Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md": "12036783",
+    "Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md": "12036784",
+    "Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md": "12036785"
   },
   "reimportShowConfirmation": true
 }

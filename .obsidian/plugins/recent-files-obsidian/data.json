@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GCP Sketchnote Diagrams",
+      "path": "0-Slipbox/GCP Sketchnote Diagrams.md"
+    },
+    {
       "basename": "2021-11-25",
       "path": "2-Areas/Daily-Notes/2021-11-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MLOps",
       "path": "0-Slipbox/MLOps.md"
-    },
-    {
-      "basename": "Building a Second Brain",
-      "path": "0-Slipbox/Building a Second Brain.md"
     }
   ],
   "omittedPaths": [],

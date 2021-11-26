@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-25",
+      "path": "2-Areas/Daily-Notes/2021-11-25.md"
+    },
+    {
       "basename": "Windows Developer Environment",
       "path": "0-Slipbox/Windows Developer Environment.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Building a Second Brain",
       "path": "0-Slipbox/Building a Second Brain.md"
-    },
-    {
-      "basename": "Digital Garden",
-      "path": "0-Slipbox/Digital Garden.md"
     }
   ],
   "omittedPaths": [],

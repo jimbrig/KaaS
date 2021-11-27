@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Dotfiles Musings",
+      "path": "0-Slipbox/Windows Dotfiles Musings.md"
+    },
+    {
       "basename": "Todoist-CLI",
       "path": "Todoist-CLI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "3-Resources/Clippings/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/Tools/_README.md"
     }
   ],
   "omittedPaths": [],

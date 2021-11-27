@@ -64,7 +64,11 @@
     "jimbrig",
     "searchEngines",
     "chocolatey",
-    "PowerShell"
+    "PowerShell",
+    "Dotfiles",
+    "symlinks",
+    "executables",
+    "natively"
   ],
   "livePreview": false
 }

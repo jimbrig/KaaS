@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: PARA Part 8: Core Principles of Digital Organization - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/p-a-r-a-viii-core-principles/
 
 ## Highlights

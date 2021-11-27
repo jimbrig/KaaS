@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Matthew Hodgkins]]
 - Full Title: Best Practices With Packer and Windows
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://hodgkins.io/best-practices-with-packer-and-windows
 
 ## Highlights

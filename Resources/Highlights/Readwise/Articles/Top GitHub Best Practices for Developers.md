@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Top GitHub Best Practices for Developers
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.datree.io/resources/github-best-practices
 
 ## Highlights

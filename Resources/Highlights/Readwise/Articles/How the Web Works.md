@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: How the Web Works
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/anonyda/how-the-web-works-for-front-end-devs-2g6c
 
 ## Highlights

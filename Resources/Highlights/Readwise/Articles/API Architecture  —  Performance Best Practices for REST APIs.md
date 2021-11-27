@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Abdul Wahab]]
 - Full Title: API Architecture  —  Performance Best Practices for REST APIs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/1d4a5922dae1
 
 ## Highlights

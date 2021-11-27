@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #401 —  Gary Keller — How to Focus on the One Important Thing
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Focus in Question

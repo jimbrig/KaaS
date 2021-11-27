@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Project Management With RStudio and Github | Yujun Zhou's Website
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.yujun.org/post/project/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Anisuzzaman Babla]]
 - Full Title: 9 Tricks for Boosting SQL Query Performance
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/2c03ea4873b2
 
 ## Highlights

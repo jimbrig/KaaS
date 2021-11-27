@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f610cf4e619d2f6e6690d28
 
 ## Highlights

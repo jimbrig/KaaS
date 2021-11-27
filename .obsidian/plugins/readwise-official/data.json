@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2276630,
-  "currentSyncStatusID": 2281959,
+  "lastSavedStatusID": 2281959,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -885,7 +885,14 @@
     "Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md": "12036782",
     "Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md": "12036783",
     "Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md": "12036784",
-    "Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md": "12036785"
+    "Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md": "12036785",
+    "Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md": "12039858",
+    "Resources/Highlights/Readwise/Articles/What Is Cloud CDN and How Does It Work  Google Cloud Blog.md": "12039857",
+    "Resources/Highlights/Readwise/Articles/Traffic Director Explained!  Google Cloud Blog.md": "12039856",
+    "Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md": "12039855",
+    "Resources/Highlights/Readwise/Articles/Learn About Cloud Functions Events and Triggers  Google Cloud Blog.md": "12039854",
+    "Resources/Highlights/Readwise/Articles/Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog.md": "12039853",
+    "Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md": "12039852"
   },
   "reimportShowConfirmation": true
 }

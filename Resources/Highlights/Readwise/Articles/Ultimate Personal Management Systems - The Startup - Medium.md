@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dan Silvestre]]
 - Full Title: Ultimate Personal Management Systems - The Startup - Medium
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Relaxation Centric Vacations

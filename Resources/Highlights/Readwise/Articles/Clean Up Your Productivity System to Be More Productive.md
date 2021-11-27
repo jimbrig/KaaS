@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Darryl Brooks]]
 - Full Title: Clean Up Your Productivity System to Be More Productive
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/fdae68e0dbc
 
 ## Highlights

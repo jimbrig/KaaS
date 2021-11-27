@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 6 Windows Apps That Automatically Organize Files for You
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/automatically-organize-files-windows/
 
 ## Highlights

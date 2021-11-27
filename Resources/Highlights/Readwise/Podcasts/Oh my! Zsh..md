@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Changelog: Software Development, Open Source]]
 - Full Title: Oh my! Zsh.
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - You Can Make Money From Open Source

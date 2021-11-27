@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jari Roomer]]
 - Full Title: Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7f70b729fa55
 
 ## Highlights

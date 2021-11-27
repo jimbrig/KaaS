@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Variable and Value Labels Support in Base R and Other Packages
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://cran.r-project.org/web/packages/expss/vignettes/labels-support.html
 
 ## Highlights

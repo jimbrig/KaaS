@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Joshua Dance]]
 - Full Title: Solutions for Taking Notes When Listening to Podcasts
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://doist.com/blog/add-tasks-todoist/
 
 ## Highlights

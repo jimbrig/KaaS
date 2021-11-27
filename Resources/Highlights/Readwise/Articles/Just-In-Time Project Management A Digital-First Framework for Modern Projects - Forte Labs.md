@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: Just-In-Time Project Management: A Digital-First Framework for Modern Projects - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/just-in-time-project-management-a-digital-first-framework-for-modern-projects/
 
 ## Highlights

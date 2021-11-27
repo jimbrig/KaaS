@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[tomcritchlow.com]]
 - Full Title: Building a Digital Garden
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://tomcritchlow.com/2019/02/17/building-digital-garden/
 
 ## Highlights

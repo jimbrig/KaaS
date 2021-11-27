@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kiran Mainali]]
 - Full Title: DataOps Implementation Guidelines
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/33b3206654fa
 
 ## Highlights

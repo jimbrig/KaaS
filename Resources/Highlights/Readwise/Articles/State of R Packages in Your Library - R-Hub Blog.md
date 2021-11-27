@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[blog.r-hub.io]]
 - Full Title: State of R Packages in Your Library - R-Hub Blog
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.r-hub.io/2020/09/03/keep.source/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Spark Digital]]
 - Full Title: Underused SQL Server Features: Schemas
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7d4362ca8ec0
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[doubleyourfreelancing.com]]
 - Full Title: The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://doubleyourfreelancing.com/guide-to-writing-client-emails/
 
 ## Highlights

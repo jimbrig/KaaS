@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #444: Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://rss.art19.com/episodes/ec2a4e45-73c9-4c90-b537-45b4433a0687.mp3
 
 ## Highlights

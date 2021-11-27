@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done With Todoist – My GTD Setup
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://nebulous.wordpress.com/2014/12/11/getting-things-done-with-todoist/
 
 ## Highlights

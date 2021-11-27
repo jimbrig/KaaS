@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Stacey Harmon]]
 - Full Title: Gaming the Naming: The ABC's of Organizing Your Evernote Notebooks
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.harmonenterprises.com/blog/naming-conventions-order-evernote-notebooks
 
 ## Highlights

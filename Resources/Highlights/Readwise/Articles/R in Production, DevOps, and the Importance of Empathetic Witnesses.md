@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kelly O'Briant]]
 - Full Title: R in Production, DevOps, and the Importance of Empathetic Witnesses
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/78ecf4430e36
 
 ## Highlights

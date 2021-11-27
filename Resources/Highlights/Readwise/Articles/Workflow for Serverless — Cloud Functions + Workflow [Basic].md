@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Johanes Glenn]]
 - Full Title: Workflow for Serverless — Cloud Functions + Workflow [Basic]
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/eb755048c982
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Using Todoist for GTD | GTD Method
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://gtdmethod.com/2016/using-todoist-for-gtd/
 
 ## Highlights

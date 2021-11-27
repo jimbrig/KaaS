@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 53: Covey's Quads, "Perfect" Productivity Systems, and Reducing Laziness
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fd769b0749e68ed4258bc93
 
 ## Highlights

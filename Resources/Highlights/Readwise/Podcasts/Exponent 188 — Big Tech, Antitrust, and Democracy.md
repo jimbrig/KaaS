@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Exponent]]
 - Full Title: Exponent 188 — Big Tech, Antitrust, and Democracy
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://media.blubrry.com/exponent/content.blubrry.com/exponent/exponent188.mp3
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Anatomy Lab, World Without Emale

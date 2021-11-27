@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Best PC Software for Your Windows Computer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/best-windows-software/
 
 ## Highlights

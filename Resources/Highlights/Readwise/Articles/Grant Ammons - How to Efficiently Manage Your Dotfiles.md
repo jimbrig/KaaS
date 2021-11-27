@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Grant Ammons - How to Efficiently Manage Your Dotfiles
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://grantammons.me/2017/11/26/efficiently-managing-dotfiles/
 
 ## Highlights

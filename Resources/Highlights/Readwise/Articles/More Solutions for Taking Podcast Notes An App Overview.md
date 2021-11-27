@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: More Solutions for Taking Podcast Notes: An App Overview
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://mentalpivot.com/more-solutions-for-taking-podcast-notes-a-survey-of-the-apps/
 
 ## Highlights

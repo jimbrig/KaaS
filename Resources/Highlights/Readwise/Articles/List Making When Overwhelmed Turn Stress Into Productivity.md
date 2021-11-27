@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: List Making When Overwhelmed: Turn Stress Into Productivity
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/list-making/
 
 ## Highlights

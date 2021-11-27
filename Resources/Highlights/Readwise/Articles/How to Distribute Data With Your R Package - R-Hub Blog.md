@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Distribute Data With Your R Package - R-Hub Blog
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.r-hub.io/2020/05/29/distribute-data/
 
 ## Highlights

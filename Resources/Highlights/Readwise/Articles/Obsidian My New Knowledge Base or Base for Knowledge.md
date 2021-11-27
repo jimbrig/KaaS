@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[niklasblog.com]]
 - Full Title: Obsidian: My New Knowledge Base or Base for Knowledge
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://niklasblog.com/?p=25043
 
 ## Highlights

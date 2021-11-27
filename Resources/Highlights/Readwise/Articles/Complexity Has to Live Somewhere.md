@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[ferd.ca]]
 - Full Title: Complexity Has to Live Somewhere
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://ferd.ca/complexity-has-to-live-somewhere.html
 
 ## Highlights

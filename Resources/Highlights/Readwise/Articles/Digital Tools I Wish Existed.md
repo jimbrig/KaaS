@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[jon.bo]]
 - Full Title: Digital Tools I Wish Existed
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://jon.bo/posts/digital-tools/
 
 ## Highlights

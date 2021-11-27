@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5eef9121c7fd2b01c986b079
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Software Engineering Daily]]
 - Full Title: Argo —  Kubernetes-Native Tools with Alex Collins
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How Do You Think Kubernetes Has Changed the Development of Saftware?

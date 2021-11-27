@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Time Blocking and the Tomato Timer Technique for Time Management?

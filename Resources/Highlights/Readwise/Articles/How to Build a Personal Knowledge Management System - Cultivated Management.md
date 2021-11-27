@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[cultivatedmanagement.com]]
 - Full Title: How to Build a Personal Knowledge Management System - Cultivated Management
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://cultivatedmanagement.com/personal-knowledge-management-system/
 
 ## Highlights

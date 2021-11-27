@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: R & RStudio – The Interoperability Environment for Data Analytics
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.r-bloggers.com/r-rstudio-the-interoperability-environment-for-data-analytics/
 
 ## Highlights

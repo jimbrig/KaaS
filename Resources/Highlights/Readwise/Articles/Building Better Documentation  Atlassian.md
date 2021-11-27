@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Building Better Documentation | Atlassian
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.atlassian.com/software/confluence/documentation
 
 ## Highlights

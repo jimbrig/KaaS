@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Shadow Course: A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2009/05/04/the-shadow-course-a-simple-technique-to-produce-extraordinary-work/
 
 ## Highlights

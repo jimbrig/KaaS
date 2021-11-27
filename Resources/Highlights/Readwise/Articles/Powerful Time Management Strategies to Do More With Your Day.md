@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Powerful Time Management Strategies to Do More With Your Day
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/essential-time-management-strategies/
 
 ## Highlights

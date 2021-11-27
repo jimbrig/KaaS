@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #494: Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/6009d89897881f87db12e838
 
 ## Highlights

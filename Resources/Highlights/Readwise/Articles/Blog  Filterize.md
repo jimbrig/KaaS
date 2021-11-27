@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Blog | Filterize
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://filterize.net/blog/
 
 ## Highlights

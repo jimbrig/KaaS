@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[forum.gettingthingsdone.com]]
 - Full Title: Can't Stay Focused While Processing - Have Tried for Months
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Michał Stawicki]]
 - Full Title: 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/55b7d687498b
 
 ## Highlights

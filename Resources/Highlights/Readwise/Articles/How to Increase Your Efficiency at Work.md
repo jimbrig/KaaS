@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Adrian Shepherd]]
 - Full Title: How to Increase Your Efficiency at Work
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/893609/efficiency-at-work
 
 ## Highlights

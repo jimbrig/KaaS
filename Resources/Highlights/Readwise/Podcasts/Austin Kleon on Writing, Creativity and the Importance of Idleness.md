@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: Austin Kleon on Writing, Creativity and the Importance of Idleness
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fa968fde59866046ac2782c
 
 ## Highlights

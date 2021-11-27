@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: Competitiveness and Mimetic Traps
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f8440e3a264773e06433dc6
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dnsstuff.com]]
 - Full Title: 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.dnsstuff.com/dns-monitoring-software
 
 ## Highlights

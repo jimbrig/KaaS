@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Do More With Windows 10 Using PowerToys
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/windows-10-powertoys/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Best Free Software of 2020
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.pcmag.com/news/best-free-software
 
 ## Highlights

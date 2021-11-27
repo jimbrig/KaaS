@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Nityesh Agarwal]]
 - Full Title: Writing Well: A Must-Have Skill That No One Teaches Data Scientists
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/34a1e8b1b724
 
 ## Highlights

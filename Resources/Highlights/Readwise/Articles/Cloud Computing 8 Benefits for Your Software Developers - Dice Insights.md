@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dice Guest]]
 - Full Title: Cloud Computing: 8 Benefits for Your Software Developers - Dice Insights
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://insights.dice.com/employer-resource-center/cloud-computing-benefits-developers/
 
 ## Highlights

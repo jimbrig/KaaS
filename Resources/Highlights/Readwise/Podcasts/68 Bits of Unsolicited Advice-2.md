@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Not Overthinking]]
 - Full Title: 68 Bits of Unsolicited Advice
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5ecad6cdbd1f2ba3d8f40197
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[kitelytech.com]]
 - Full Title: Top 4 Tips to Get Organized for Efficient Software Development
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://kitelytech.com/4-tips-get-organized-efficient-software-development/
 
 ## Highlights

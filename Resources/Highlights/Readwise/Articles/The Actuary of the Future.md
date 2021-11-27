@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Nazareno Junior]]
 - Full Title: The Actuary of the Future
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/cf1c88c26ae6
 
 ## Highlights

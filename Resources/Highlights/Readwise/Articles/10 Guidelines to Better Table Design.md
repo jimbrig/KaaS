@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[paulvanderlaken.com]]
 - Full Title: 10 Guidelines to Better Table Design
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://paulvanderlaken.com/2020/09/01/10-guidelines-to-better-table-design/
 
 ## Highlights

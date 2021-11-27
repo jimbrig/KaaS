@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Gerrishon Sirere]]
 - Full Title: Data Ecosystem
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/111b818c3d1b
 
 ## Highlights

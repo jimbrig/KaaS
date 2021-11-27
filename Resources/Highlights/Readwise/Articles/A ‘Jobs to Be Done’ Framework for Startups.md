@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[firstround.com]]
 - Full Title: A ‘Jobs to Be Done’ Framework for Startups
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/
 
 ## Highlights

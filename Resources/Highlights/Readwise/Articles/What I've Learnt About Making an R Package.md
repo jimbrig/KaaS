@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: What I've Learnt About Making an R Package
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/
 
 ## Highlights

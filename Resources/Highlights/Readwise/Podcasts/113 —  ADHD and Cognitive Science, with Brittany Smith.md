@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Focused]]
 - Full Title: 113 —  ADHD and Cognitive Science, with Brittany Smith
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How to Form Strong Habits

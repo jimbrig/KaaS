@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Before Breakfast]]
 - Full Title: Find your finish line
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Find Your Finish Line

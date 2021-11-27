@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mailman Hq]]
 - Full Title: The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/6b9c05274801
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: RStudio | Open Source & Professional Software for Data Science Teams
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://rstudio.com/
 
 ## Highlights

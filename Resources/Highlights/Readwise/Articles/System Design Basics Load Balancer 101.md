@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ashis Chakraborty]]
 - Full Title: System Design Basics: Load Balancer 101
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/adc4f602d08f
 
 ## Highlights

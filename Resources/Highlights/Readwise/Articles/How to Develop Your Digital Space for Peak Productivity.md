@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Develop Your Digital Space for Peak Productivity
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://deanyeong.com/develop-your-digital-space/
 
 ## Highlights

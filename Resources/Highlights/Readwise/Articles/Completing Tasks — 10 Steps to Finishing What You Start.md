@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Eleanor McKenna]]
 - Full Title: Completing Tasks — 10 Steps to Finishing What You Start
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/393ccba958b9
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The James Altucher Show]]
 - Full Title: 677 - The Art of Impossible With Steven Kotler!
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
 
 ## Highlights

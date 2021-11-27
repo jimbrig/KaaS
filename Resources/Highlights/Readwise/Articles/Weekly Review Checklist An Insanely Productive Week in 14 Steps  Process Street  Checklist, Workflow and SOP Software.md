@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.process.st/weekly-review/
 
 ## Highlights

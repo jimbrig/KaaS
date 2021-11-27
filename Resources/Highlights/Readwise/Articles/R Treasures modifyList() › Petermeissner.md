@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Peter Meissner]]
 - Full Title: R Treasures: modifyList() › Petermeissner
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
 
 ## Highlights

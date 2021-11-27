@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The 10 Best Free Antivirus Software
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/ten-best-antivirus-programs/
 
 ## Highlights

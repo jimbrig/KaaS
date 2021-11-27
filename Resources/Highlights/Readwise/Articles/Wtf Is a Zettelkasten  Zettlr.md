@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: "Wtf Is a Zettelkasten?" | Zettlr
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.zettlr.com/post/what-is-a-zettelkasten
 
 ## Highlights

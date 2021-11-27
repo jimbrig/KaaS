@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Consolidate and Unify - Tandem Vault | Digital Asset Management
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://tandemvault.com/consolidate-and-unify/
 
 ## Highlights

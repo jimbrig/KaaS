@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The 35 Best Productivity Apps for 2020
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://doist.com/blog/best-productivity-apps/
 
 ## Highlights

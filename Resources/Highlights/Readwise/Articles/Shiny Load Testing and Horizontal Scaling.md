@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Eoda Gmbh]]
 - Full Title: Shiny: Load Testing and Horizontal Scaling
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://eoda.de/en/wissen/blog/shiny-load-testing-und-horizontale-skalierung
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Emily Riederer]]
 - Full Title: Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://emilyriederer.netlify.app/post/projmgr/
 
 ## Highlights

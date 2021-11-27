@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Onboarding New Developers
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/codemouse92/onboarding-new-developers
 
 ## Highlights

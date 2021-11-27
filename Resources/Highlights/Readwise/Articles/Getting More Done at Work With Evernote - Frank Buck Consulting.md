@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Getting More Done at Work With Evernote - Frank Buck Consulting
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.frankbuck.org/getting-more-done/
 
 ## Highlights

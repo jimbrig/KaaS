@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Be Mentally Strong - James Altucher
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://jamesaltucher.com/blog/how-to-be-mentally-strong/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 101 —  Does Productivity Impede the Deep Life?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Status Meeting - Is It Too Much?

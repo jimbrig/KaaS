@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Thomas Kainrad]]
 - Full Title: Managing My Personal Knowledge Base
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://tkainrad.dev/posts/managing-my-personal-knowledge-base/
 
 ## Highlights

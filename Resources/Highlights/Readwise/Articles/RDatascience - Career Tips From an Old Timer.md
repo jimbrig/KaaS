@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: R/Datascience - Career Tips From an Old Timer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.reddit.com/r/datascience/comments/howrzj/career_tips_from_an_old_timer/?utm_content=body&utm_medium=post_embed&utm_name=aa1cc514de924595ae1b3b72e5a846f8&utm_source=embedly&utm_term=howrzj
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Productivity Prawn

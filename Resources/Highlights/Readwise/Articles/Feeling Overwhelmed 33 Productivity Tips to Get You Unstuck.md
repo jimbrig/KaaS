@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Feeling Overwhelmed? 33 Productivity Tips to Get You Unstuck
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/productivity-tips/
 
 ## Highlights

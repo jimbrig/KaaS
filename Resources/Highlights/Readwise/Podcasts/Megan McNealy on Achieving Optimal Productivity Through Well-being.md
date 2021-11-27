@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Megan McNealy on Achieving Optimal Productivity Through Well-being
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Body, Mind and Spirit - 18 spokes

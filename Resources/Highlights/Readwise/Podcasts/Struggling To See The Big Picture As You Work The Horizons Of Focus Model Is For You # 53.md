@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Change Your Game with GTD®]]
 - Full Title: Struggling To See The Big Picture As You Work? The Horizons Of Focus Model Is For You # 53
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Horizons of Focus and Responsibility

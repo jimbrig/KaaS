@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mind Meld With Josh Gonsalves]]
 - Full Title: #23: Nat Eliason on Starting a Life-Changing Blog
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fa92a255a451217781934c8
 
 ## Highlights

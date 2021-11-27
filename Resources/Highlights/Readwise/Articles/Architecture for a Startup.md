@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mitesh]]
 - Full Title: Architecture for a Startup
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/86651962bc99
 
 ## Highlights

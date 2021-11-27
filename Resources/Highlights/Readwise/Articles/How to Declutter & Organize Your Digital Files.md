@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[theblissfulmind.com]]
 - Full Title: How to Declutter & Organize Your Digital Files
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://theblissfulmind.com/organize-your-digital-files/
 
 ## Highlights

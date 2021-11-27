@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Weekly Reset System for Increased Productivity | Mystigal
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://mystigal.com/weekly-reset-system-for-increased-productivity/
 
 ## Highlights

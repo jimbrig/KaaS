@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: It's the Programming Environment, Not the Programming Language | thesephist.com
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://thesephist.com/posts/programming-environment/
 
 ## Highlights

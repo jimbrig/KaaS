@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Delete These Windows Files and Folders to Free Up Disk Space
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/delete-windows-files-folders/
 
 ## Highlights

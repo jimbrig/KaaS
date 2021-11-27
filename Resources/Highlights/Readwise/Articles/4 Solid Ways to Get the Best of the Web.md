@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 4 Solid Ways to Get the Best of the Web
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/4-solid-ways-get-best-web/
 
 ## Highlights

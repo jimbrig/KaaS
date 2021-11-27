@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[rsangole.netlify.app]]
 - Full Title: {yHat} - Reproducible Work in R
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
 
 ## Highlights

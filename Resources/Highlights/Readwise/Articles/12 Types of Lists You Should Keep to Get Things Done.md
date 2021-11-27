@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 12 Types of Lists You Should Keep to Get Things Done
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.dandywithlens.com/types-of-lists-you-should-keep-to-get-things-done/
 
 ## Highlights

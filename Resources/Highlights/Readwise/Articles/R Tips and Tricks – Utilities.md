@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: R Tips and Tricks – Utilities
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://eranraviv.com/r-tips-tricks-utilities/
 
 ## Highlights

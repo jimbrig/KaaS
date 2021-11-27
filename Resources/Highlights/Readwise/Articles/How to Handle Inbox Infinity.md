@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Robert Talbert]]
 - Full Title: How to Handle Inbox Infinity
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://rtalbert.org/how-to-handle-inbox-infinity/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Eric Elliott]]
 - Full Title: Software Roles and Titles
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/e3f0b69c410c
 
 ## Highlights

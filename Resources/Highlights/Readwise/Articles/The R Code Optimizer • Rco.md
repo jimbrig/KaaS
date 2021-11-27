@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The R Code Optimizer • Rco
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://jcrodriguez1989.github.io/rco/
 
 ## Highlights

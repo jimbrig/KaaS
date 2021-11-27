@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Art of Manliness]]
 - Full Title: #634: How to Design Conversations That Matter
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f319072f3a8e12e79e0f4e8
 
 ## Highlights

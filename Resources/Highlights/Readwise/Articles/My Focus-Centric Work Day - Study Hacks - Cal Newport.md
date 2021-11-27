@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: My Focus-Centric Work Day - Study Hacks - Cal Newport
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2009/05/13/my-focus-centric-work-day/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #384 —  David Allen — The Art of Getting Things Done (GTD)
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Next Action Decisions - What's the Very Next Thing?

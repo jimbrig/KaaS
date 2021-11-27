@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Developer Tea]]
 - Full Title: Limit Your Options By Limiting Your Obligations
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Taking Control of Your Calendar

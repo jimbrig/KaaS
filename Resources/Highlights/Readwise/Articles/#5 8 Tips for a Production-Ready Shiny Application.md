@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[rinproduction.com]]
 - Full Title: #5: 8 Tips for a Production-Ready Shiny Application
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.rinproduction.com/en/posts/005-8-tips-for-a-production-ready-shiny-application/
 
 ## Highlights

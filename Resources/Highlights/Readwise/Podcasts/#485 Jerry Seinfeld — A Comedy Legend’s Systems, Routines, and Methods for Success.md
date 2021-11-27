@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #485: Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fcf95229301da59515a521a
 
 ## Highlights

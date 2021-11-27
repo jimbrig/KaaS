@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[redeemingproductivity.com]]
 - Full Title: How to Organize Your Writing With Markdown - Redeeming Productivity
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.redeemingproductivity.com/markdown/
 
 ## Highlights

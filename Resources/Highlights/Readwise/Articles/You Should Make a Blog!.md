@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: You Should Make a Blog!
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://drewdevault.com/make-a-blog
 
 ## Highlights

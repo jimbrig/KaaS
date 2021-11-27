@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[tutorialspoint.com]]
 - Full Title: Powershell - Scripting - Tutorialspoint
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.tutorialspoint.com/powershell/powershell_scripting.htm
 
 ## Highlights

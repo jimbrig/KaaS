@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jake Knapp]]
 - Full Title: The “Burner List”—My Simple, Paper-Based System for Focused To-Dos
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/make-time/the-burner-list-my-simple-paper-based-system-for-focused-to-dos-95497321cf14
 
 ## Highlights

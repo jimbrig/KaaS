@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: GTD Refresh, Part 5: Building the Weekly Review Habit
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/articles/featured/gtd-refresh-part-5-building-the-weekly-review-habit.html
 
 ## Highlights

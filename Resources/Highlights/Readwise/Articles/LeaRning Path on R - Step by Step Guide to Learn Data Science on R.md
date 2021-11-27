@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: LeaRning Path on R - Step by Step Guide to Learn Data Science on R
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/
 
 ## Highlights

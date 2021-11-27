@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deb Lee]]
 - Full Title: Digital Life in Disarray? Use These 6 Steps to Get Organized.
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://dallisonlee.com/organize-your-digital-life/
 
 ## Highlights

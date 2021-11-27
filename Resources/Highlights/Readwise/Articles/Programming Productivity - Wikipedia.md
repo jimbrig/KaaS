@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Programming Productivity - Wikipedia
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://en.wikipedia.org/wiki/Programming_productivity
 
 ## Highlights

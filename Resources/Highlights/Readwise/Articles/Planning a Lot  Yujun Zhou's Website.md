@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Yujun Zhou]]
 - Full Title: Planning a Lot | Yujun Zhou's Website
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.yujun.org/post/planning-a-lot/
 
 ## Highlights

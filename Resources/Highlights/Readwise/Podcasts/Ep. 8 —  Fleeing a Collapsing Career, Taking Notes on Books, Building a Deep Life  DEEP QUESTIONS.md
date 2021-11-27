@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is There a Task List That Isn't Structured?

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[trustedsec.com]]
 - Full Title: Obsidian, Taming a Collective Consciousness - TrustedSec
-- Category: #articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/
 

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Create a GitHub Profile README
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
 
 ## Highlights

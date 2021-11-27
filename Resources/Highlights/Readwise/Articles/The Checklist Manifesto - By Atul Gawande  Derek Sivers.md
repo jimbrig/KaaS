@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[sivers.org]]
 - Full Title: The Checklist Manifesto - By Atul Gawande | Derek Sivers
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://sivers.org/book/ChecklistManifesto
 
 ## Highlights

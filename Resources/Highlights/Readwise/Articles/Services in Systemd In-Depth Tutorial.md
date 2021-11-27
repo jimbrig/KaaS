@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Michael Krasnov]]
 - Full Title: Services in Systemd: In-Depth Tutorial
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7e47c485edbf
 
 ## Highlights

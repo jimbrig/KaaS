@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Koester]]
 - Full Title: The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://www.markwk.com/smart-notes.html
 
 ## Highlights

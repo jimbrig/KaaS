@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Digital Productivity Pyramid - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/the-digital-productivity-pyramid/
 
 ## Highlights

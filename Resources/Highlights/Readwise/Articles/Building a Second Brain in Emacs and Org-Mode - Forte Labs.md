@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Building a Second Brain in Emacs and Org-Mode - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/building-a-second-brain-in-emacs-and-org-mode/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Andrew Orr]]
 - Full Title: How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.macobserver.com/tips/deep-dive/intro-to-pim/
 
 ## Highlights

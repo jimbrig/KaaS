@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Arturo Ríos]]
 - Full Title: One Productivity System to Rule Them All
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/4405154f0ae7
 
 ## Highlights

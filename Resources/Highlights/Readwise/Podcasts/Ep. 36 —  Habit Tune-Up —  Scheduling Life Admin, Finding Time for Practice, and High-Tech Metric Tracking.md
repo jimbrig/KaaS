@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do I Integrated Life Admen Into My Workday?

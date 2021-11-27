@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Christopher D. Connors]]
 - Full Title: How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/91a5945b3644
 
 ## Highlights

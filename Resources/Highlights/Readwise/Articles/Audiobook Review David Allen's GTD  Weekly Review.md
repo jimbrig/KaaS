@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Audiobook Review: David Allen's "GTD > Weekly Review"
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
 
 ## Highlights

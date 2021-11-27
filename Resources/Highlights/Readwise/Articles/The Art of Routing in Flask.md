@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Todd Birchard]]
 - Full Title: The Art of Routing in Flask
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/2ee13d9c11bc
 
 ## Highlights

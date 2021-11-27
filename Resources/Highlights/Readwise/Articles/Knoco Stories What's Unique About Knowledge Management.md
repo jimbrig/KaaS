@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Knoco Stories: What's Unique About Knowledge Management?
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://www.nickmilton.com/2014/07/whats-unique-about-knowledge-management.html
 
 ## Highlights

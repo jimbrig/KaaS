@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 125 —  What is Discipline (and How Do I Get It?)
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Are You Lazy?

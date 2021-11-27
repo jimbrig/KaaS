@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Quick Passages
-- Category: #books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - If you could have a gigantic billboard anywhere with anything on it, what would it say and why?

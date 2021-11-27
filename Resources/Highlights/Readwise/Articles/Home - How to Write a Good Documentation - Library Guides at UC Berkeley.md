@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Research Data Management]]
 - Full Title: Home - How to Write a Good Documentation - Library Guides at UC Berkeley
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
 
 ## Highlights

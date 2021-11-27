@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Create an Effective Productivity Plan - Optimize Time
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/productivity-plan/
 
 ## Highlights

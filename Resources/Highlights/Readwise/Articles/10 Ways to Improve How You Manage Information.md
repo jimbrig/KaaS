@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 10 Ways to Improve How You Manage Information
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://sourcesofinsight.com/10-ways-to-improve-how-you-manage-information/
 
 ## Highlights

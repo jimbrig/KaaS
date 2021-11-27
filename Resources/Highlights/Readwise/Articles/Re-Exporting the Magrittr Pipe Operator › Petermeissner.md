@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Peter Meissner]]
 - Full Title: Re-Exporting the Magrittr Pipe Operator › Petermeissner
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://petermeissner.de/blog/2018/04/27/re-exporting-the-pipe/
 
 ## Highlights

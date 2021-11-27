@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Jaime Masters on Focus, Flow, Time Tracking and Nootropics
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do You Have a Time Audit?

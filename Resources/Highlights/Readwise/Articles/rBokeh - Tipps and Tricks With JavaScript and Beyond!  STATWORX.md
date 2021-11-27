@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: rBokeh - Tipps and Tricks With JavaScript and Beyond! | STATWORX
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.statworx.com/de/blog/rbokeh-tipps-and-tricks-with-javascript-and-beyond/
 
 ## Highlights

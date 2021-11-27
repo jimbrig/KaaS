@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Kevin Lin]]
 - Full Title: A Hierarchy First Approach to Note Taking
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9d4b176bd5ec
 
 ## Highlights

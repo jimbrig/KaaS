@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[pauljacobson.me]]
 - Full Title: Productivity System Archives • Paul Jacobson
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://pauljacobson.me/tag/productivity-system/
 
 ## Highlights

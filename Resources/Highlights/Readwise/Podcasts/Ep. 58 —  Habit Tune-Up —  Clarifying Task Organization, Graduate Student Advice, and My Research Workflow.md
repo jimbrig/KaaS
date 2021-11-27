@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - What is your Research Workflow Like As an Academic?

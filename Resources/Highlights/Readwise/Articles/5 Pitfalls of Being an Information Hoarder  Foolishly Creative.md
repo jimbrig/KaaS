@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 5 Pitfalls of Being an Information Hoarder | Foolishly Creative
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://foolishlycreative.com/5-pitfalls-of-being-an-information-hoarder/
 
 ## Highlights

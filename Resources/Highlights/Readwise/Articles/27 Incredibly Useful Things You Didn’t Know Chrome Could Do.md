@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[JR Raphael]]
 - Full Title: 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.fastcompany.com/40557798/27-incredibly-useful-things-you-didnt-know-chrome-could-do
 
 ## Highlights

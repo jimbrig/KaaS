@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Systems Thinking]]
 - Full Title: SYSTEMS THINKING: What Is a System?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
 
 ## Highlights

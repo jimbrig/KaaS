@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: Introducing the MESA Method: Creating the Ideal Work Experience - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/introducing-the-mesa-method-creating-the-ideal-work-experience/
 
 ## Highlights

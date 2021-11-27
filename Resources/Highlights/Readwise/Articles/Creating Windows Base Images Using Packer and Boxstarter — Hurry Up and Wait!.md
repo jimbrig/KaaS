@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Matt Wrock]]
 - Full Title: Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!
-- Category: #articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: http://www.hurryupandwait.io/blog/creating-windows-base-images-for-virtualbox-and-hyper-v-using-packer-boxstarter-and-vagrant
 

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 3 Steps to Designing a Powerful Project Workflow - ProjectManager.com
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.projectmanager.com/training/define-workflow-process
 
 ## Highlights

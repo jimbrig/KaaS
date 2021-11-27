@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tiago Forte]]
 - Full Title: Extend Your Mind
-- Category: #books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - Organizing your work in intermediate packets has an extraordinary effect: you become interruption-proof. Because you rarely even try to load the entire project into your mind at once, there isn’t much to lose if someone taps you on the shoulder. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B07FLQHLTK&location=234))

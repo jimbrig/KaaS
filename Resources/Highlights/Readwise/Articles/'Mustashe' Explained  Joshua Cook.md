@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 'Mustashe' Explained | Joshua Cook
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://joshuacook.netlify.app/post/mustashe-explained/
 
 ## Highlights

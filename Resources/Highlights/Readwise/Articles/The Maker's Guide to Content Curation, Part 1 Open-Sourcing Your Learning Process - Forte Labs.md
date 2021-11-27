@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The Maker's Guide to Content Curation, Part 1: Open-Sourcing Your Learning Process - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/the-makers-guide-to-content-curation-part-1/
 
 ## Highlights

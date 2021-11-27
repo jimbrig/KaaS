@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Backup 101: Windows Files and Folders You Should Always Back Up
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/backup-windows-files-folders/
 
 ## Highlights

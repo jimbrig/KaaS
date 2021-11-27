@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is There a Strategic Plan For Small Projects?

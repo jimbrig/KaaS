@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Zamil]]
 - Full Title: Git Process for Small Organizations to Begin With
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/161189cd32b4
 
 ## Highlights

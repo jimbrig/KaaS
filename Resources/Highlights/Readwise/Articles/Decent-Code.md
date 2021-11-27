@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Decent-Code
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://robatwilliams.github.io/decent-code/
 
 ## Highlights

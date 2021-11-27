@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Can Figure Control Productivity?

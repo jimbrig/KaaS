@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
 
 ## Highlights

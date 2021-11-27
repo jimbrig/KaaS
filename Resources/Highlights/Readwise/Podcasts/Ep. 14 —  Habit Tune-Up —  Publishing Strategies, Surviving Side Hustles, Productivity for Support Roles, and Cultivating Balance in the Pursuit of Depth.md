@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Ticketing Systems Are a Revolution in Productivity

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Shalitha Suranga]]
 - Full Title: How to Enhance Your Windows Batch Files by Adding GUI
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/7287d89ebad6
 
 ## Highlights

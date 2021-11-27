@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Use Evernote's Advanced Search Syntax
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://help.evernote.com/hc/en-us/articles/208313828
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Edmondson]]
 - Full Title: Shiny on Google Cloud Run - Scale-To-Zero R Web Apps
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://code.markedmondson.me/shiny-cloudrun/
 
 ## Highlights

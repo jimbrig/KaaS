@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Clean Your Windows Computer: The Ultimate Checklist
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/clean-windows-ultimate-checklist/
 
 ## Highlights

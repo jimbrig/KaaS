@@ -442,3 +442,12 @@
     - 8 highlights from Email Inbox Management: Why and How?
     - 29 highlights from The Art of Routing in Flask
 
+- [[2021-11-26]] 7:34 PM — Synced 18 highlights from 7 documents.
+    - 4 highlights from Microservices Architecture on Google Cloud | Google Cloud Blog
+    - 2 highlights from What Is Cloud CDN and How Does It Work? | Google Cloud Blog
+    - 2 highlights from Traffic Director Explained! | Google Cloud Blog
+    - 2 highlights from PostgreSQL Extension Turned Cloud Microservice | Google Cloud Blog
+    - 5 highlights from Learn About Cloud Functions Events and Triggers | Google Cloud Blog
+    - 2 highlights from Cloud Run Gets Always-On CPU Allocation | Google Cloud Blog
+    - 1 highlights from Improving the Security of Your Cloud Run Environment | Google Cloud Blog
+

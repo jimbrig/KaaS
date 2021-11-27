@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 4 Efficient Workflow | Efficient R Programming
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://csgillespie.github.io/efficientR/
 
 ## Highlights

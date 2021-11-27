@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Ultimate Home Office Setup Guide: 18 Must-Have Items
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.developgoodhabits.com/home-office-setup/
 
 ## Highlights

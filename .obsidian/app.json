@@ -61,7 +61,9 @@
     "MOCs",
     "Dev",
     "briggs",
-    "jimbrig"
+    "jimbrig",
+    "searchEngines",
+    "chocolatey"
   ],
   "livePreview": false
 }

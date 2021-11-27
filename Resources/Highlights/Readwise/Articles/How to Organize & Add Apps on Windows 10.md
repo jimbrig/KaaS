@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Organize & Add Apps on Windows 10
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://myitmaster.com/organize-add-shortcuts-apps-list-windows-10/
 
 ## Highlights

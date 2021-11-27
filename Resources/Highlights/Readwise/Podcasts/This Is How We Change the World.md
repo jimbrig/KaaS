@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Mindset Mentor]]
 - Full Title: This Is How We Change the World
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/60016bcbb457c03c15be5323
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tamara Kerr]]
 - Full Title: The Best Way to Organize Your To-Dos
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Komal Venkatesh Ganesan]]
 - Full Title: How to ‘DevOps’ as a Software Developer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d428821ae681
 
 ## Highlights

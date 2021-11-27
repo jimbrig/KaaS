@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Unsinkable Student Organization System - Study Hacks - Cal Newport
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2009/08/25/the-unsinkable-student-organization-system/
 
 ## Highlights

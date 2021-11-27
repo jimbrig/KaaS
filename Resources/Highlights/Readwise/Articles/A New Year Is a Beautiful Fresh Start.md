@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[zenhabits]]
 - Full Title: A New Year Is a Beautiful Fresh Start
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
 
 ## Highlights

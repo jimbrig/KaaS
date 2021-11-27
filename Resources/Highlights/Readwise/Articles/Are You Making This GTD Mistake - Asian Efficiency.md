@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Thanh Pham]]
 - Full Title: Are You Making This GTD Mistake? - Asian Efficiency
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.asianefficiency.com/productivity/common-gtd-mistake/
 
 ## Highlights

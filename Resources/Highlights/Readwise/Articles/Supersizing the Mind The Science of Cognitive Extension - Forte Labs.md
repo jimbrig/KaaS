@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Supersizing the Mind: The Science of Cognitive Extension - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/supersizing-the-mind-the-science-of-cognitive-extension/
 
 ## Highlights

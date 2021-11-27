@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[kevinslin.com]]
 - Full Title: It’s Not You - It’s Your Knowledge Base
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 108 —  LISTENER CALLS —  Becoming Productive
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Time Blocking - How to Get the Most Out of Your Blocks

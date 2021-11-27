@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: Deep Habits: WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/
 
 ## Highlights

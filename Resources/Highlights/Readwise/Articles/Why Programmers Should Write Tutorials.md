@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Fernando Souza]]
 - Full Title: Why Programmers Should Write Tutorials
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/6ecbb83f43e3
 
 ## Highlights

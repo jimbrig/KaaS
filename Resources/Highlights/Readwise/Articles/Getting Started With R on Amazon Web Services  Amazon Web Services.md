@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[aws.amazon.com]]
 - Full Title: Getting Started With R on Amazon Web Services | Amazon Web Services
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://aws.amazon.com/blogs/opensource/getting-started-with-r-on-amazon-web-services/
 
 ## Highlights

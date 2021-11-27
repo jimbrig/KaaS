@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[calnewport.com]]
 - Full Title: On Confronting the Productivity Dragon
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.calnewport.com/blog/2020/07/23/on-confronting-the-productivity-dragon-take-2/
 
 ## Highlights

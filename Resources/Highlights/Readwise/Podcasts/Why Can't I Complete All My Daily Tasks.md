@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Working With... Podcast]]
 - Full Title: Why Can't I Complete All My Daily Tasks?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Do You Get All Your Work Done Every Day?

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mzes Social Science Data Lab]]
 - Full Title: Methods Bites
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.mzes.uni-mannheim.de/socialsciencedatalab
 
 ## Highlights

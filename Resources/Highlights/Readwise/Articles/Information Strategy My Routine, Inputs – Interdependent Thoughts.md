@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Information Strategy: My Routine, Inputs – Interdependent Thoughts
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.zylstra.org/blog/2005/10/information_str_2/
 
 ## Highlights

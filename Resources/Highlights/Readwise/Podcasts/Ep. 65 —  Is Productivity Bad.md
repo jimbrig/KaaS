@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 65 —  Is Productivity Bad?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is It Congruent With Your Life Style?

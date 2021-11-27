@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Logging Events in Shiny Apps • shinyEventLogger
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://kalimu.github.io/shinyEventLogger/index.html
 
 ## Highlights

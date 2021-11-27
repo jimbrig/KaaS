@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Carl Pullein]]
 - Full Title: How to Do a Weekly Planning Session.
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.carlpullein.com/blog/how-to-do-a-weekly-planning-session/18/11/2020-1
 
 ## Highlights

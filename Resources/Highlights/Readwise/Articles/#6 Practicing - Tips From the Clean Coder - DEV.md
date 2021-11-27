@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: #6 Practicing - Tips From the Clean Coder - DEV
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/yurishenrique/6-practicing-tips-from-the-clean-coder-18cf
 
 ## Highlights

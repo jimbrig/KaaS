@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Software Engineering Daily]]
 - Full Title: Data Discovery with Shinji Kim
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Snowflake of Cloud Computing?

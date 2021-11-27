@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Bob Stanke]]
 - Full Title: Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://feedly.com/i/entry/Pq1LDl1Q3tHLZj4pI82LXJGUjVgyJM5zGdiCuhkc4Ac=_174a4820748:1d56:a9069290
 
 ## Highlights

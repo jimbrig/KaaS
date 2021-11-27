@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Originally Published]]
 - Full Title: Building an Open Source Personal Knowledge Base | Hacker Noon
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
 
 ## Highlights

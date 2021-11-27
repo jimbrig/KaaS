@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Check Your Windows Experience Score on Windows 10
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.makeuseof.com/tag/check-windows-experience-score-windows-10/
 
 ## Highlights

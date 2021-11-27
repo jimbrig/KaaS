@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Usethis Workflow for Package Development | Emil Hvitfeldt
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
 
 ## Highlights

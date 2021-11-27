@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5f55660fd5c7dd4ffa2bd6d7
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Brad Jones]]
 - Full Title: The Impact of the Cloud on Software Development | Developer.com
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.developer.com/design/the-impact-of-the-cloud-on-software-development/
 
 ## Highlights

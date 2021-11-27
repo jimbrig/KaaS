@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Rich Roll Podcast]]
 - Full Title: He Ran Across America — On Plants
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5dd2651612887dcb57a86ef4
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[lifehack.org]]
 - Full Title: Back to Basics: Your Weekly Review
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-review.html
 
 ## Highlights

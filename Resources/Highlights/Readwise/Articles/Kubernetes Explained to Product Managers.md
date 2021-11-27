@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[dev.to]]
 - Full Title: Kubernetes Explained to Product Managers
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
 
 ## Highlights

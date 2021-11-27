@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mark Edmondson]]
 - Full Title: R at Scale on the Google Cloud Platform
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
 
 ## Highlights

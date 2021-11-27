@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Rachel Wayne]]
 - Full Title: Zen to Done: The Habit-Building Productivity System
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/5e316c6071c2
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Auto Documentation System for R Shiny - Stack Overflow
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://stackoverflow.com/questions/53373290/auto-documentation-system-for-r-shiny
 
 ## Highlights

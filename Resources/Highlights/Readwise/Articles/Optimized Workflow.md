@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Lucas Soares]]
 - Full Title: Optimized Workflow
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/bde3011b604a
 
 ## Highlights

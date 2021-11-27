@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jovan Cicmil]]
 - Full Title: How a Single Freelancer Outperforms a Whole Team
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/5974fe5db597
 
 ## Highlights

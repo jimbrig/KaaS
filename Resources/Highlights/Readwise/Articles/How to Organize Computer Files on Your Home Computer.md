@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[home-storage-solutions-101.com]]
 - Full Title: How to Organize Computer Files on Your Home Computer
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.home-storage-solutions-101.com/organize-computer-files.html
 
 ## Highlights

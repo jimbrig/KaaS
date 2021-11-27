@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Productivity Show: Time Management | GTD | Smart Personal Development | Business | Mac]]
 - Full Title: How To Recover From A Bad Day (TPS374)
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Thinking Time

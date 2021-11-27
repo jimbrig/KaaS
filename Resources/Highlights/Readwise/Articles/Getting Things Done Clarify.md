@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[joebuhlig.com]]
 - Full Title: Getting Things Done: Clarify
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://joebuhlig.com/getting-things-done-clarify/
 
 ## Highlights

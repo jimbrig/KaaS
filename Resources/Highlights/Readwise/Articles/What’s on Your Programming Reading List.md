@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[levelup.gitconnected.com]]
 - Full Title: What’s on Your Programming Reading List?
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://levelup.gitconnected.com/whats-on-your-programming-reading-list-472fc23ed9bc
 
 ## Highlights

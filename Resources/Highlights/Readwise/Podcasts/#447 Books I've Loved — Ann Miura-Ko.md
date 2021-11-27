@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #447: Books I've Loved — Ann Miura-Ko
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://rss.art19.com/episodes/9dfc22de-1799-4987-8523-d288e0603378.mp3
 
 ## Highlights

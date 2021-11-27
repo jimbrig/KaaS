@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://fortelabs.co/blog/one-touch-to-inbox-zero/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Ropenscilabs/Dataspice: Create Lightweight schema.org Descriptions of Datas
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://github.com/ropenscilabs/dataspice
 
 ## Highlights

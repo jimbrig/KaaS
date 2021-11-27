@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[craigsturgis.com]]
 - Full Title: Craig Sturgis Dot Com
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://craigsturgis.com/
 
 ## Highlights

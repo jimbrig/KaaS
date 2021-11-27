@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is There a Difference Between Productivity and Objectives?

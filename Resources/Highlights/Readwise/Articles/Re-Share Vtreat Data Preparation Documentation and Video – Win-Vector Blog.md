@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Re-Share: Vtreat Data Preparation Documentation and Video – Win-Vector Blog
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://www.win-vector.com/blog/2020/03/re-share-vtreat-data-preparation-documentation-and-video/
 
 ## Highlights

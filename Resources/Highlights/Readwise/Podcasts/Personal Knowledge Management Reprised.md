@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Teaching in Higher Ed]]
 - Full Title: Personal Knowledge Management Reprised
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/5fd21fa7c5e8436a9eda66d3
 
 ## Highlights

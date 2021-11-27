@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Focused]]
 - Full Title: 132 —  Willpower and Your Environment
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Timing - The Intelligent Time Tracking Ap That You Can Trust

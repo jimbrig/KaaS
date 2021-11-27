@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Art of Manliness]]
 - Full Title: Stop Living on Autopilot and Take Responsibility for Your Life
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 - URL: https://www.airr.io/episode/6005c79683ecdb50f8bb8426
 
 ## Highlights

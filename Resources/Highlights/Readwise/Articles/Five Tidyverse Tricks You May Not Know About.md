@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Keith McNulty]]
 - Full Title: Five Tidyverse Tricks You May Not Know About
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/c5026d5a19da
 
 ## Highlights

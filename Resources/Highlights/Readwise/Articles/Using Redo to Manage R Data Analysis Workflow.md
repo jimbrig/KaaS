@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[karolis.koncevicius.lt]]
 - Full Title: Using Redo to Manage R Data Analysis Workflow
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://thedigitalprojectmanager.com/project-controls-simplified/
 
 ## Highlights

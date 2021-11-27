@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Dunith Dhanushka]]
 - Full Title: Event-Driven APIs — Understanding the Principles
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/c3208308d4b2
 
 ## Highlights

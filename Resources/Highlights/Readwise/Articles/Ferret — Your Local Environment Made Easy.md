@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Avia Tam]]
 - Full Title: Ferret — Your Local Environment Made Easy
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/9f2667efbe43
 
 ## Highlights

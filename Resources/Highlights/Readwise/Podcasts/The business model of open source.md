@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Changelog: Software Development, Open Source]]
 - Full Title: The business model of open source
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Red Hat Enterprise Lennox

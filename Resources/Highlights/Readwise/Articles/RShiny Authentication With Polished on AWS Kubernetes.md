@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jillian Rowe]]
 - Full Title: RShiny Authentication With Polished on AWS Kubernetes
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/358baff9a61c
 
 ## Highlights

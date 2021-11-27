@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Marine Lacourie]]
 - Full Title: Email Inbox Management: Why and How?
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/545f1437ce0b
 
 ## Highlights

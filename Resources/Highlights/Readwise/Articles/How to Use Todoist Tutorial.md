@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[developgoodhabits.com]]
 - Full Title: How to Use Todoist Tutorial
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.developgoodhabits.com/todoist-tutorial/
 
 ## Highlights

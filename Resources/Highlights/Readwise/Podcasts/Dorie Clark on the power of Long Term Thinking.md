@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Beyond the To-Do List]]
 - Full Title: Dorie Clark on the power of Long Term Thinking
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Long Term Thinking During the Pandemic

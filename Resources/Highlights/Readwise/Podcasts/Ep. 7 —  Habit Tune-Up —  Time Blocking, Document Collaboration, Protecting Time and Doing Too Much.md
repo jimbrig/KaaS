@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Time Block Planning - Is it a Good Idea?

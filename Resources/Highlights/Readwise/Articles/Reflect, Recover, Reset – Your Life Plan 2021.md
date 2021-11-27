@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Claire Minnis]]
 - Full Title: Reflect, Recover, Reset – Your Life Plan 2021
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.mindtools.com/blog/reflect-recover-reset-life-plan-2021/
 
 ## Highlights

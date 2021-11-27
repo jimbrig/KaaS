@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Time Blocking - Is it a Good Idea?

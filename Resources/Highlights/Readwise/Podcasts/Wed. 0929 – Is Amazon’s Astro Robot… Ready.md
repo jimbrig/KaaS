@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Techmeme Ride Home]]
 - Full Title: Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Microsopt to Bring Amazon and Epic Games to the Microso Store

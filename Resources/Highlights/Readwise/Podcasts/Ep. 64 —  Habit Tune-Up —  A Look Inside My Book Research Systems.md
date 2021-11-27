@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Is There A World Without Emale?

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Basics of the Unix Philosophy
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 
 ## Highlights

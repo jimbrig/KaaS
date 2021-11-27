@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Software Engineering Daily]]
 - Full Title: Infrastructure as Code with Christian Tragesser
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Cloud

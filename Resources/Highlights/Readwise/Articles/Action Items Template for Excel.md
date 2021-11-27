@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[techno-pm.com]]
 - Full Title: Action Items Template for Excel
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
 
 ## Highlights

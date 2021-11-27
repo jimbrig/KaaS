@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Timothy Ferriss]]
 - Full Title: Tribe of Mentors
-- Category: #books
+- Category: #Type/Highlight/Book
 
 ## Highlights
 - When you feel overwhelmed or unfocused, what do you do?

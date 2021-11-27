@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[hbr.org]]
 - Full Title: Managing Yourself: Extreme Productivity
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://hbr.org/2011/05/managing-yourself-extreme-productivity
 
 ## Highlights

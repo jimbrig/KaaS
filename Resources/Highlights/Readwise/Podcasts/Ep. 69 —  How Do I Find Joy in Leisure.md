@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 69 —  How Do I Find Joy in Leisure?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Prioritizing Quad Two Style Projects

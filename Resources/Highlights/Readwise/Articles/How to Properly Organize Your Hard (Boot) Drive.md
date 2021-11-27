@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Properly Organize Your Hard (Boot) Drive
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://bestlaptopsworld.com/hdd-organization-101/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Importance of Systems
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://jamesstuber.com/systems/
 
 ## Highlights

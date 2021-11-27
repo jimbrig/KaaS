@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: Genius Things to Do on a Sunday to Have a Productive Week
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/things-sunday/
 
 ## Highlights

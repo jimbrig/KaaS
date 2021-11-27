@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Bioconductor - Package Guidelines
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://bioconductor.org/developers/package-guidelines/
 
 ## Highlights

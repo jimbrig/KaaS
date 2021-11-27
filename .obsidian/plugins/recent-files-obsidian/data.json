@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Project-Template",
+      "path": "3-Resources/Templates/Project-Template.md"
+    },
+    {
+      "basename": "Tool-Template",
+      "path": "3-Resources/Templates/Tool-Template.md"
+    },
+    {
+      "basename": "Microsoft Edge",
+      "path": "Microsoft Edge.md"
+    },
+    {
+      "basename": "Edge Search Engines",
+      "path": "0-Slipbox/Edge Search Engines.md"
+    },
+    {
+      "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
+      "path": "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
+    },
+    {
+      "basename": "Persistent Config and Data for R Packages - R-Hub Blog",
+      "path": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
+    },
+    {
+      "basename": "Reproducible Research With R and RStudio",
+      "path": "Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
+    },
+    {
+      "basename": "How to Make Yourself Into a Learning Machine",
+      "path": "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md"
+    },
+    {
+      "basename": "First Principles of Workflow Design (A 2-Part Episode)  RadReads",
+      "path": "Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md"
+    },
+    {
+      "basename": "A Builder’s Guide to Note-Taking",
+      "path": "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
+    },
+    {
+      "basename": "2021-11-26",
+      "path": "2-Areas/Daily-Notes/2021-11-26.md"
+    },
+    {
       "basename": "GCP Sketchnote Diagrams",
       "path": "0-Slipbox/GCP Sketchnote Diagrams.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Readwise Syncs",
       "path": "3-Resources/Highlights/Readwise/Readwise Syncs.md"
-    },
-    {
-      "basename": "Justin DiRose",
-      "path": "2-Areas/People/Justin DiRose.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Reference/_README.md"
-    },
-    {
-      "basename": "Online Developer Tools",
-      "path": "3-Resources/Tools/Online Developer Tools.md"
-    },
-    {
-      "basename": "Personal Knowledge Management",
-      "path": "2-Areas/MOCs/Personal Knowledge Management.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "0-Slipbox/Zettelkasten.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "R",
-      "path": "2-Areas/MOCs/R.md"
-    },
-    {
-      "basename": "Why Can't I Complete All My Daily Tasks",
-      "path": "3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md"
-    },
-    {
-      "basename": "Azure Machine Learning",
-      "path": "0-Slipbox/Azure Machine Learning.md"
-    },
-    {
-      "basename": "MLOps",
-      "path": "0-Slipbox/MLOps.md"
     }
   ],
   "omittedPaths": [],

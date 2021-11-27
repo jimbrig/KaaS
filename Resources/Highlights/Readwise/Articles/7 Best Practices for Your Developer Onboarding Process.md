@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: 7 Best Practices for Your Developer Onboarding Process
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.codementor.io/blog/developer-onboarding-process-32y3zqg1vc
 
 ## Highlights

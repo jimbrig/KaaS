@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: New Project Checklist
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://amihaiemil.com/2019/05/12/new-project-checklist.html
 
 ## Highlights

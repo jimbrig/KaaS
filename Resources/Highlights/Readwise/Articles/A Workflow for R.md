@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[David Smith]]
 - Full Title: A Workflow for R
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://blog.revolutionanalytics.com/2010/10/a-workflow-for-r.html
 
 ## Highlights

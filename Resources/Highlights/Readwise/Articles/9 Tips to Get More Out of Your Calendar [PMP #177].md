@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Paul Minors]]
 - Full Title: 9 Tips to Get More Out of Your Calendar [PMP #177]
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://paulminors.com/blog/9-tips-to-get-more-out-of-your-calendar/
 
 ## Highlights

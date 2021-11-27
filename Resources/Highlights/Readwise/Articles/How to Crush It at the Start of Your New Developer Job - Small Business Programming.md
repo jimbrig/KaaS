@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[smallbusinessprogramming.com]]
 - Full Title: How to Crush It at the Start of Your New Developer Job - Small Business Programming
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://smallbusinessprogramming.com/how-to-crush-it-at-the-start-of-your-new-developer-job/
 
 ## Highlights

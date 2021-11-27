@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Syed Mujtaba Jafri]]
 - Full Title: How to Learn Linux and Git
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/25b18a815778
 
 ## Highlights

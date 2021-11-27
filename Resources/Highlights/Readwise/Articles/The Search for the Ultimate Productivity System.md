@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Jack Heimbigner]]
 - Full Title: The Search for the Ultimate Productivity System
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/18ff42015e11
 
 ## Highlights

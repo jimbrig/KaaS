@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[nerdwallet.com]]
 - Full Title: 5 Steps for Tracking Your Monthly Expenses - NerdWallet
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.nerdwallet.com/article/finance/tracking-monthly-expenses
 
 ## Highlights

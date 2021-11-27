@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[nerdwallet.com]]
 - Full Title: Pay Off Your Debt: Tools and Tips
-- Category: #articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.nerdwallet.com/blog/pay-off-debt/
 

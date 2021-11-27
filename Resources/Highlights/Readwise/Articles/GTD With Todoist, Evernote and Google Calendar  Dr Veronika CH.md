@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: GTD With Todoist, Evernote and Google Calendar | Dr Veronika CH
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://veronikach.com/habits-productivity/how-im-implementing-gtd-with-todoist-evernote-and-google-calendar-part-1/
 
 ## Highlights

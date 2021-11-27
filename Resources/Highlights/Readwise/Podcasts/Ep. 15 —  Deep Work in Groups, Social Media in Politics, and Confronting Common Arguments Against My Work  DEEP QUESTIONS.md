@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How to Take Control of Your Life - A Personal Culture of Discipline

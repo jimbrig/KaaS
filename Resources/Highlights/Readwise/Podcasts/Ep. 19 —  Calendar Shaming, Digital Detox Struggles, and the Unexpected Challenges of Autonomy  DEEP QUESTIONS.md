@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How to Deal With Coworkers Who Lose Connection With You

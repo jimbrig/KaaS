@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Carl Pullein]]
 - Full Title: Collecting and Organising Data for Maximum Productivity. — Carl Pullein
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.carlpullein.com/blog/collecting-and-organising-data-for-maximum-productivity/8/7/2020
 
 ## Highlights

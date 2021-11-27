@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[quickbooost.com]]
 - Full Title: How to Achieve Your Daily Goals
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://quickbooost.com/daily-goals/
 
 ## Highlights

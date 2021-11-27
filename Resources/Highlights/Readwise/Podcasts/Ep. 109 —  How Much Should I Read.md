@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 109 —  How Much Should I Read?
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - How Do You Find Day Time to Read?

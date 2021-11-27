@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[The Tim Ferriss Show]]
 - Full Title: #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - Transcendental Meditation - Is There Something You Say to Get Off the Phone So You Can Buy Time and a Clean Exit?

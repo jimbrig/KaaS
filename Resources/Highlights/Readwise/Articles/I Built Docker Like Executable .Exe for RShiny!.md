@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Pulkit Saraf]]
 - Full Title: I Built Docker Like Executable .Exe for RShiny!
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/3f1421d75d09
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: How to Export Evernote to Google Drive?
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.multcloud.com/tutorials/export-evernote-to-google-drive-0708.html
 
 ## Highlights

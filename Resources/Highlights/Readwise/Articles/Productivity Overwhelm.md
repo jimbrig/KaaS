@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[James Stuber]]
 - Full Title: Productivity Overwhelm
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://jamesstuber.com/overwhelm/
 
 ## Highlights

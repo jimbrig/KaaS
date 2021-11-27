@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[robertmylesmcdonnell.com]]
 - Full Title: Robert Myles McDonnell
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: http://robertmylesmcdonnell.com
 
 ## Highlights

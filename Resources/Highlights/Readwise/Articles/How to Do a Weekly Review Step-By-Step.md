@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[becomeawritertoday.com]]
 - Full Title: How to Do a Weekly Review: Step-By-Step
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://becomeawritertoday.com/weekly-review/
 
 ## Highlights

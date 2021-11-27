@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Tony Munton]]
 - Full Title: Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/26bbee5b674
 
 ## Highlights

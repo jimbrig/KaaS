@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Rebooting Your Productivity System
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://longleafsys.com/rebooting-your-productivity-system/
 
 ## Highlights

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Getting Things Done: Organize
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://joebuhlig.com/getting-things-done-organize/
 
 ## Highlights

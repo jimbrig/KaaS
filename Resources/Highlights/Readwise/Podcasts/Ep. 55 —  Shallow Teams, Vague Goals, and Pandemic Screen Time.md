@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Deep Questions with Cal Newport]]
 - Full Title: Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time
-- Category: #podcasts
+- Category: #Type/Highlight/Podcast
 
 ## Highlights
 - The Vision of Productivity Pran largely Didn't Work Out

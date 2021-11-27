@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: The Best Productivity System There Is - Personal Excellence
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://personalexcellence.co/blog/productivity-system/
 
 ## Highlights

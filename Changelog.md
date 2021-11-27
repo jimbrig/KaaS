@@ -1,3 +1,5 @@
+- 2021-11-26 at 22h31 · [[R Package - raw]]
+- 2021-11-26 at 22h30 · [[README]]
 - 2021-11-26 at 20h44 · [[Windows Dotfiles Musings]]
 - 2021-11-26 at 20h09 · [[Todoist-CLI]]
 - 2021-11-26 at 19h47 · [[Backup Edge User Preferences PowerShell Script]]
@@ -477,7 +479,6 @@
 - 2021-11-25 at 01h30 · [[About]]
 - 2021-11-25 at 01h30 · [[Unified Architecture Framework]]
 - 2021-11-25 at 01h30 · [[Business Process Model and Notation]]
-- 2021-11-25 at 01h30 · [[README]]
 - 2021-11-25 at 01h29 · [[Personal Knowledge Management]]
 - 2021-11-25 at 01h29 · [[11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist]]
 - 2021-11-25 at 01h29 · [[Productivity Apps]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
 - 2021-11-23 at 15h56 · [[Actuarial Development Master Resource List]]
 - 2021-11-23 at 15h56 · [[Readme-Template]]
-- 2021-11-23 at 15h56 · [[Initiative-Template]]

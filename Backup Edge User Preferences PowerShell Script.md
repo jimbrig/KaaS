@@ -7,6 +7,10 @@ Alias: "Backup Edge User Preferences PowerShell Script"
 
 # Backup Edge User Preferences PowerShell Script
 
+## Script
+
+*Source: [jimbrig/jimsdots My personalized dotfiles and configs for Windows 10 ⚙️](https://github.com/jimbrig/jimsdots/blob/main/edge/backup-edge-settings.ps1)*
+
 ```powershell
 # Edge Backup Script (PowerShell Core)
 
@@ -27,8 +31,15 @@ Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge\PreferenceMACs' $dotdi
 Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge Dev\PreferenceMACs' $dotdir\edge\backups\edge_dev\edge_dev_registry_settings.reg }
 ```
 
+
+***
+
+## Appendix: Links
+
+*Related*
+
+- [[Edge Search Engines]]
+
 *Backlinks:*
 
-```dataview
-list from [[Backup Edge User Preferences PowerShell Script]] AND -"Changelog"
-```
+- [[Microsoft Edge]]

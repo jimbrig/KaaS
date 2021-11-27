@@ -5602,14 +5602,14 @@
     "Backup Edge User Preferences PowerShell Script.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 761,
       "Create": 1122,
-      "Link": 2072,
+      "Link": 2073,
       "Expand": 79
     }
   },
@@ -5634,7 +5634,7 @@
       "16": 57,
       "17": 126,
       "18": 1262,
-      "19": 85,
+      "19": 86,
       "20": 19,
       "21": 15,
       "22": 44,
@@ -5647,7 +5647,7 @@
       "Tue": 153,
       "Wed": 1369,
       "Thu": 1965,
-      "Fri": 310,
+      "Fri": 311,
       "Sat": 0,
       "Sun": 62
     }
@@ -5892,6 +5892,7 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-26.md\"> 2021-11-26 </a>",
@@ -5941,8 +5942,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -5603,14 +5603,19 @@
       "size": 0,
       "tags": 2,
       "links": 2
+    },
+    "Todoist-CLI.md": {
+      "size": 4480,
+      "tags": 0,
+      "links": 10
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 761,
-      "Create": 1122,
-      "Link": 2073,
-      "Expand": 79
+      "Create": 1123,
+      "Link": 2074,
+      "Expand": 80
     }
   },
   "dailyCommits": {
@@ -5635,7 +5640,7 @@
       "17": 126,
       "18": 1262,
       "19": 86,
-      "20": 19,
+      "20": 22,
       "21": 15,
       "22": 44,
       "23": 3
@@ -5647,7 +5652,7 @@
       "Tue": 153,
       "Wed": 1369,
       "Thu": 1965,
-      "Fri": 311,
+      "Fri": 314,
       "Sat": 0,
       "Sun": 62
     }
@@ -5655,6 +5660,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
@@ -5704,10 +5710,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Loss Triangles.md\"> Loss Triangles </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -5757,8 +5763,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
@@ -5892,6 +5897,7 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>",
@@ -5941,8 +5947,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Todoist-CLI",
+      "path": "Todoist-CLI.md"
+    },
+    {
       "basename": "Backup Edge User Preferences PowerShell Script",
       "path": "Backup Edge User Preferences PowerShell Script.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "3-Resources/Tools/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/Highlights/_README.md"
     }
   ],
   "omittedPaths": [],

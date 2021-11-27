@@ -1,3 +1,4 @@
+- 2021-11-26 at 20h09 · [[Todoist-CLI]]
 - 2021-11-26 at 19h47 · [[Backup Edge User Preferences PowerShell Script]]
 - 2021-11-26 at 19h41 · [[Microsoft Edge]]
 - 2021-11-26 at 19h39 · [[Tool-Template]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[Readme-Template]]
 - 2021-11-23 at 15h56 · [[Initiative-Template]]
 - 2021-11-23 at 15h56 · [[Slipbox-Python-Template]]
-- 2021-11-23 at 15h56 · [[Weekly-Review-Template]]

@@ -1,11 +1,18 @@
 ---
 Date: 2021-11-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: []
+Tags: ["#Type/Tool", "#Topic/Microsoft"]
+Alias: ["Microsoft Edge", "Edge"]
 ---
 
 # Microsoft Edge
+
+## Notes
+
+- [[Edge Search Engines]]
+- [[Backup Edge User Preferences PowerShell Script]]
+- 
+
 
 ***
 

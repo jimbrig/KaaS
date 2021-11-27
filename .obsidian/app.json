@@ -63,7 +63,8 @@
     "briggs",
     "jimbrig",
     "searchEngines",
-    "chocolatey"
+    "chocolatey",
+    "PowerShell"
   ],
   "livePreview": false
 }

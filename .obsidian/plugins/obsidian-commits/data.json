@@ -5606,15 +5606,15 @@
     },
     "Todoist-CLI.md": {
       "size": 4480,
-      "tags": 0,
-      "links": 10
+      "tags": 1,
+      "links": 13
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 761,
       "Create": 1123,
-      "Link": 2074,
+      "Link": 2076,
       "Expand": 80
     }
   },
@@ -5640,7 +5640,7 @@
       "17": 126,
       "18": 1262,
       "19": 86,
-      "20": 22,
+      "20": 24,
       "21": 15,
       "22": 44,
       "23": 3
@@ -5652,7 +5652,7 @@
       "Tue": 153,
       "Wed": 1369,
       "Thu": 1965,
-      "Fri": 314,
+      "Fri": 316,
       "Sat": 0,
       "Sun": 62
     }
@@ -5819,6 +5819,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/System Design.md\"> System Design </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>",
@@ -5868,8 +5869,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-Template.md\"> Slipbox-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Tool-Template.md\"> Tool-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -5897,6 +5897,7 @@
         "<a class=\"internal-link\" href=\"Workbench.md\"> Workbench </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
@@ -5946,8 +5947,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax.md\"> How to Use Evernote's Advanced Search Syntax </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial.md\"> How to Use Todoist Tutorial </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

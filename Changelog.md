@@ -1,3 +1,5 @@
+- 2021-11-28 at 14h23 · [[MEGA CMD]]
+- 2021-11-28 at 14h21 · [[Prophet Actuarial Tool]]
 - 2021-11-28 at 14h16 · [[Productivity Apps]]
 - 2021-11-28 at 14h16 · [[PowerShell]]
 - 2021-11-28 at 14h16 · [[powerlevel10k]]
@@ -129,7 +131,6 @@
 - 2021-11-23 at 15h56 · [[R Package - casdata]]
 - 2021-11-23 at 15h56 · [[Property Casualty Data Model]]
 - 2021-11-23 at 15h56 · [[Python Package - ChainLadder]]
-- 2021-11-23 at 15h56 · [[Prophet Actuarial Tool]]
 - 2021-11-23 at 15h56 · [[Progressive Summarization]]
 - 2021-11-23 at 15h56 · [[Property Casualty Loss Reserving Methodologies]]
 - 2021-11-23 at 15h56 · [[Probability Theory]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH]]
 - 2021-11-23 at 15h56 · [[GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH]]
 - 2021-11-23 at 15h56 · [[Finishing Strong Part 1 Run a Victory Lap]]
-- 2021-11-23 at 15h56 · [[Get Organized – Personal Development Ideas]]

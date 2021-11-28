@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MEGA CMD",
+      "path": "3-Resources/Tools/MEGA CMD.md"
+    },
+    {
       "basename": "Prophet Actuarial Tool",
       "path": "3-Resources/Tools/Prophet Actuarial Tool.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
-    },
-    {
-      "basename": "Alteryx vs Code",
-      "path": "0-Slipbox/Alteryx vs Code.md"
     }
   ],
   "omittedPaths": [],

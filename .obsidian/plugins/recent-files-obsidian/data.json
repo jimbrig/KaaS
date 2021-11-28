@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-11-28",
+      "path": "2-Areas/Daily-Notes/2021-11-28.md"
+    },
+    {
       "basename": "R Package - raw",
       "path": "0-Slipbox/R Package - raw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actuarial Development Master Resource List",
       "path": "0-Slipbox/Actuarial Development Master Resource List.md"
-    },
-    {
-      "basename": "Actuarial Science",
-      "path": "2-Areas/MOCs/Actuarial Science.md"
     }
   ],
   "omittedPaths": [],

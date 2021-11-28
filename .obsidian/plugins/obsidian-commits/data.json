@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 486
+      "links": 494
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 3
+      "links": 4
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3246,8 +3246,8 @@
     },
     "3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md": {
       "size": 1441,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 1
     },
     "0-Slipbox/Backup Edge User Preferences PowerShell Script.md": {
       "size": 0,
@@ -3379,7 +3379,7 @@
     "/": {
       "Refactor": 1239,
       "Create": 1126,
-      "Link": 2079,
+      "Link": 2083,
       "Expand": 81
     }
   },
@@ -3399,7 +3399,7 @@
       "11": 105,
       "12": 149,
       "13": 34,
-      "14": 490,
+      "14": 494,
       "15": 144,
       "16": 57,
       "17": 126,
@@ -3419,7 +3419,7 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 544
+      "Sun": 548
     }
   },
   "recentCommits": {
@@ -3584,6 +3584,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
@@ -3633,8 +3634,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Project-Template.md\"> Project-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Readme-Template.md\"> Readme-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3695,6 +3695,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
@@ -3742,10 +3745,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Things Done Clarify.md\"> Getting Things Done Clarify </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH.md\"> GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

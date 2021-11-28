@@ -3378,13 +3378,28 @@
       "size": 23890,
       "tags": 1,
       "links": 27
+    },
+    "3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md": {
+      "size": 1809,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md": {
+      "size": 825,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md": {
+      "size": 2925,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1239,
-      "Create": 1127,
-      "Link": 2086,
+      "Create": 1130,
+      "Link": 2092,
       "Expand": 82
     }
   },
@@ -3405,7 +3420,7 @@
       "12": 149,
       "13": 34,
       "14": 499,
-      "15": 144,
+      "15": 153,
       "16": 57,
       "17": 126,
       "18": 1262,
@@ -3424,7 +3439,7 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 553
+      "Sun": 562
     }
   },
   "recentCommits": {
@@ -3483,6 +3498,9 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
@@ -3530,10 +3548,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3589,6 +3604,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
@@ -3636,10 +3654,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/List-Template.md\"> List-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/MOC-Template.md\"> MOC-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Project-Template.md\"> Project-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Readme-Template.md\"> Readme-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3700,6 +3715,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
@@ -3747,10 +3765,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md\"> This Is How You Become Confident and Transform Your Life </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md\"> PARA Part 5 The Project List Mindsweep - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

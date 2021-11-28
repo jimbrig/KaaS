@@ -443,3 +443,8 @@
 - [[2021-11-28]] 2:13 PM — Synced 3 highlights from 1 document.
     - 3 highlights from 5 DevOps Tools You Must Use in 2022
 
+- [[2021-11-28]] 3:51 PM — Synced 25 highlights from 3 documents.
+    - 6 highlights from The Capture Stage of GTD, Explained
+    - 2 highlights from The Second Brain Method
+    - 17 highlights from Quick Start Guide: How to Start Implementing GTD Successfully
+

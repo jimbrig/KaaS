@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "Prophet Actuarial Tool",
+      "path": "3-Resources/Tools/Prophet Actuarial Tool.md"
+    },
+    {
+      "basename": "Productivity Apps",
+      "path": "3-Resources/Tools/Productivity Apps.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "3-Resources/Tools/PowerShell.md"
+    },
+    {
+      "basename": "powerlevel10k",
+      "path": "3-Resources/Tools/powerlevel10k.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "3-Resources/Tools/PostgreSQL.md"
+    },
+    {
+      "basename": "oh-my-zsh",
+      "path": "3-Resources/Tools/oh-my-zsh.md"
+    },
+    {
+      "basename": "Nerdfont",
+      "path": "3-Resources/Tools/Nerdfont.md"
+    },
+    {
+      "basename": "Microsoft Azure",
+      "path": "3-Resources/Tools/Microsoft Azure.md"
+    },
+    {
+      "basename": "Git",
+      "path": "3-Resources/Tools/Git.md"
+    },
+    {
+      "basename": "Free Actuarial System for Loss Reserving",
+      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
+    },
+    {
+      "basename": "Edge Search Engines",
+      "path": "0-Slipbox/Edge Search Engines.md"
+    },
+    {
+      "basename": "DotNet",
+      "path": "3-Resources/Tools/DotNet.md"
+    },
+    {
+      "basename": "Developer Notebooks",
+      "path": "0-Slipbox/Developer Notebooks.md"
+    },
+    {
+      "basename": "Bash",
+      "path": "0-Slipbox/Bash.md"
+    },
+    {
+      "basename": "Azure SQL Databases",
+      "path": "3-Resources/Tools/Azure SQL Databases.md"
+    },
+    {
+      "basename": "Azure MLOps",
+      "path": "3-Resources/Tools/Azure MLOps.md"
+    },
+    {
+      "basename": "Azure ML Compute Instances",
+      "path": "3-Resources/Tools/Azure ML Compute Instances.md"
+    },
+    {
+      "basename": "Azure Machine Learning",
+      "path": "3-Resources/Tools/Azure Machine Learning.md"
+    },
+    {
+      "basename": "Azure DevOps Pipelines",
+      "path": "3-Resources/Tools/Azure DevOps Pipelines.md"
+    },
+    {
+      "basename": "Azure DevOps",
+      "path": "3-Resources/Tools/Azure DevOps.md"
+    },
+    {
+      "basename": "Azure Data Studio",
+      "path": "3-Resources/Tools/Azure Data Studio.md"
+    },
+    {
+      "basename": "AWS QuickSight",
+      "path": "3-Resources/Tools/AWS QuickSight.md"
+    },
+    {
+      "basename": "AWS Redshift",
+      "path": "3-Resources/Tools/AWS Redshift.md"
+    },
+    {
+      "basename": "AWS Glue",
+      "path": "3-Resources/Tools/AWS Glue.md"
+    },
+    {
+      "basename": "AWS Athena",
+      "path": "3-Resources/Tools/AWS Athena.md"
+    },
+    {
+      "basename": "Alteryx",
+      "path": "3-Resources/Tools/Alteryx.md"
+    },
+    {
+      "basename": "Microsoft Edge",
+      "path": "3-Resources/Tools/Microsoft Edge.md"
+    },
+    {
       "basename": "_README",
       "path": "3-Resources/_README.md"
     },
@@ -21,20 +129,8 @@
       "path": "3-Resources/Highlights/Readwise/Articles/4 Steps to Organize Your Massive To-Do List.md"
     },
     {
-      "basename": "Stop Living on Autopilot and Take Responsibility for Your Life",
-      "path": "Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md"
-    },
-    {
-      "basename": "Ep. 69 —  How Do I Find Joy in Leisure",
-      "path": "Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md"
-    },
-    {
       "basename": "_README",
       "path": "3-Resources/Highlights/Notes/_README.md"
-    },
-    {
-      "basename": "Git Process for Small Organizations to Begin With",
-      "path": "Resources/Highlights/Readwise/Articles/Git Process for Small Organizations to Begin With.md"
     },
     {
       "basename": "The Case for Digital Notes - Forte Labs",
@@ -54,15 +150,11 @@
     },
     {
       "basename": "Todoist-CLI",
-      "path": "Todoist-CLI.md"
+      "path": "3-Resources/Tools/Todoist-CLI.md"
     },
     {
       "basename": "Backup Edge User Preferences PowerShell Script",
-      "path": "Backup Edge User Preferences PowerShell Script.md"
-    },
-    {
-      "basename": "Microsoft Edge",
-      "path": "Microsoft Edge.md"
+      "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
     },
     {
       "basename": "Tool-Template",
@@ -89,34 +181,6 @@
       "path": "3-Resources/Templates/Project-Template.md"
     },
     {
-      "basename": "Edge Search Engines",
-      "path": "0-Slipbox/Edge Search Engines.md"
-    },
-    {
-      "basename": "The Official Guide to Using Todoist Build Your Perfect Productivity Workfl",
-      "path": "Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md"
-    },
-    {
-      "basename": "Persistent Config and Data for R Packages - R-Hub Blog",
-      "path": "Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md"
-    },
-    {
-      "basename": "Reproducible Research With R and RStudio",
-      "path": "Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md"
-    },
-    {
-      "basename": "How to Make Yourself Into a Learning Machine",
-      "path": "Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md"
-    },
-    {
-      "basename": "First Principles of Workflow Design (A 2-Part Episode)  RadReads",
-      "path": "Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md"
-    },
-    {
-      "basename": "A Builder’s Guide to Note-Taking",
-      "path": "Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md"
-    },
-    {
       "basename": "GCP Sketchnote Diagrams",
       "path": "0-Slipbox/GCP Sketchnote Diagrams.md"
     },
@@ -133,68 +197,8 @@
       "path": "0-Slipbox/_README.md"
     },
     {
-      "basename": "AWS Redshift",
-      "path": "0-Slipbox/AWS Redshift.md"
-    },
-    {
       "basename": "Alteryx vs Code",
       "path": "0-Slipbox/Alteryx vs Code.md"
-    },
-    {
-      "basename": "The Ultimate Guide to an Effective Weekly Review",
-      "path": "0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md"
-    },
-    {
-      "basename": "AWS QuickSight",
-      "path": "0-Slipbox/AWS QuickSight.md"
-    },
-    {
-      "basename": "AWS Athena",
-      "path": "0-Slipbox/AWS Athena.md"
-    },
-    {
-      "basename": "API Authentication",
-      "path": "0-Slipbox/API Authentication.md"
-    },
-    {
-      "basename": "Actuarial Rate Indications Automation",
-      "path": "4-Archives/Actuarial Rate Indications Automation.md"
-    },
-    {
-      "basename": "R Package - cascsim",
-      "path": "0-Slipbox/R Package - cascsim.md"
-    },
-    {
-      "basename": "Free Actuarial System for Loss Reserving",
-      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
-    },
-    {
-      "basename": "CAS - Casualty Actuarial Society",
-      "path": "0-Slipbox/CAS - Casualty Actuarial Society.md"
-    },
-    {
-      "basename": "ZSH",
-      "path": "0-Slipbox/ZSH.md"
-    },
-    {
-      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
-      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
-    },
-    {
-      "basename": "Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off ",
-      "path": "Reference/Citations/Actuarial Science/files/62/Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf"
-    },
-    {
-      "basename": "_README",
-      "path": "4-Archives/Guidance/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "Agendas/_README.md"
-    },
-    {
-      "basename": "2021-11-25",
-      "path": "Daily-Notes/2021-11-25.md"
     }
   ],
   "omittedPaths": [],

@@ -440,3 +440,6 @@
 - [[2021-11-25]] 1:25 AM — Synced 9 highlights from 1 document.
     - 9 highlights from Getting Started With R on Amazon Web Services | Amazon Web Services
 
+- [[2021-11-28]] 2:13 PM — Synced 3 highlights from 1 document.
+    - 3 highlights from 5 DevOps Tools You Must Use in 2022
+

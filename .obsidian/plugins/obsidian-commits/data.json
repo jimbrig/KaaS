@@ -3375,17 +3375,17 @@
       "links": 2
     },
     "3-Resources/Tools/MEGA CMD.md": {
-      "size": 0,
+      "size": 23890,
       "tags": 1,
-      "links": 1
+      "links": 27
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1239,
       "Create": 1127,
-      "Link": 2085,
-      "Expand": 81
+      "Link": 2086,
+      "Expand": 82
     }
   },
   "dailyCommits": {
@@ -3404,7 +3404,7 @@
       "11": 105,
       "12": 149,
       "13": 34,
-      "14": 497,
+      "14": 499,
       "15": 144,
       "16": 57,
       "17": 126,
@@ -3424,12 +3424,13 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 551
+      "Sun": 553
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>",
@@ -3479,8 +3480,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/R Shiny - The Big Long - An Interactive Actuarial Simulation.md\"> R Shiny - The Big Long - An Interactive Actuarial Simulation </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
@@ -3701,6 +3701,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -3749,8 +3750,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs.md\"> One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Productivity Overwhelm.md\"> Productivity Overwhelm </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester.md\"> Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

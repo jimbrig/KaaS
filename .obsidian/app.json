@@ -68,7 +68,10 @@
     "Dotfiles",
     "symlinks",
     "executables",
-    "natively"
+    "natively",
+    "Autocompletion",
+    "Scriptable",
+    "MEGAcmd"
   ],
   "livePreview": false
 }

@@ -3405,7 +3405,7 @@
       "links": 1
     },
     "0-Slipbox/Azure Setup Guide.md": {
-      "size": 2089,
+      "size": 5446,
       "tags": 2,
       "links": 0
     }
@@ -3415,7 +3415,7 @@
       "Refactor": 1239,
       "Create": 1133,
       "Link": 2098,
-      "Expand": 83
+      "Expand": 84
     }
   },
   "dailyCommits": {
@@ -3439,7 +3439,7 @@
       "16": 57,
       "17": 126,
       "18": 1262,
-      "19": 96,
+      "19": 97,
       "20": 27,
       "21": 15,
       "22": 44,
@@ -3450,7 +3450,7 @@
     "/": {
       "Mon": 175,
       "Tue": 153,
-      "Wed": 1379,
+      "Wed": 1380,
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
@@ -3460,6 +3460,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
@@ -3509,8 +3510,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",

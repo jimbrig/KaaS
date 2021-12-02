@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 4
+      "links": 5
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3393,14 +3393,29 @@
       "size": 2925,
       "tags": 2,
       "links": 1
+    },
+    "2-Areas/Daily-Notes/2021-12-01.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md": {
+      "size": 585,
+      "tags": 2,
+      "links": 1
+    },
+    "0-Slipbox/Azure Setup Guide.md": {
+      "size": 2089,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1239,
-      "Create": 1130,
-      "Link": 2092,
-      "Expand": 82
+      "Create": 1133,
+      "Link": 2098,
+      "Expand": 83
     }
   },
   "dailyCommits": {
@@ -3424,7 +3439,7 @@
       "16": 57,
       "17": 126,
       "18": 1262,
-      "19": 86,
+      "19": 96,
       "20": 27,
       "21": 15,
       "22": 44,
@@ -3435,7 +3450,7 @@
     "/": {
       "Mon": 175,
       "Tue": 153,
-      "Wed": 1369,
+      "Wed": 1379,
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
@@ -3445,6 +3460,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
@@ -3494,10 +3510,12 @@
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Python Package - tryangle.md\"> Python Package - tryangle </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Free Actuarial System for Loss Reserving.md\"> Free Actuarial System for Loss Reserving </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Python Package - ChainLadder.md\"> Python Package - ChainLadder </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
@@ -3545,10 +3563,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3604,6 +3619,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
@@ -3651,10 +3669,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Kanban-Template.md\"> Kanban-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Meta-Template.md\"> Meta-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/List-Template.md\"> List-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/MOC-Template.md\"> MOC-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Personal-Templates/Person-Template.md\"> Person-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/List-Template.md\"> List-Template </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3715,6 +3730,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
@@ -3762,10 +3780,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Tool-Template.md\"> Tool-Template </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md\"> Why Organising Your To-Dos by Project Does Not Work. </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md\"> This Is How You Become Confident and Transform Your Life </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PARA Part 5 The Project List Mindsweep - Forte Labs.md\"> PARA Part 5 The Project List Mindsweep - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

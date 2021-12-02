@@ -448,3 +448,6 @@
     - 2 highlights from The Second Brain Method
     - 17 highlights from Quick Start Guide: How to Start Implementing GTD Successfully
 
+- [[2021-12-01]] 7:13 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Designing Better File Organization
+

@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2292856,
-  "currentSyncStatusID": 2312429,
+  "lastSavedStatusID": 2312429,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1344,7 +1344,8 @@
     "3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md": "12063927",
     "3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md": "12078888",
     "3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md": "12078889",
-    "3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md": "12078890"
+    "3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md": "12078890",
+    "3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md": "12091209"
   },
   "reimportShowConfirmation": true
 }

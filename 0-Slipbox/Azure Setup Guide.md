@@ -35,8 +35,15 @@ Organize your cloud-based resources to secure, manage, and track costs related t
 
 ### Specify Naming Standards
 
+#### Taxonomy of Naming Components
 
 
+
+| Entity | Scope | Pattern | Example |
+| ------ | ----- | ------- | ------- |
+| Resource Groups       | Subscription      | `<service abbreviation>-<environment>-rg`        | ``        |
+
+**:** 
 
 
 ## Setup Subscriptions

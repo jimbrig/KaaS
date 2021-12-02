@@ -124,10 +124,12 @@ Example Hierarchy:
 
 
 
-| Asset type | Resource provider namespace/Entity | Abbreviation |
-| --- | --- | --- |
-| Azure Analysis Services server | `Microsoft.AnalysisServices/servers` | `as` |
-| Azure Databricks workspace | `Microsoft.Databricks/workspaces` | `dbw-` |
+| Asset type                     | Resource provider namespace/Entity   | Abbreviation |
+| ------------------------------ | ------------------------------------ | ------------ |
+| Azure Analysis Services server | `Microsoft.AnalysisServices/servers` | `as`         |
+| Azure Databricks workspace     | `Microsoft.Databricks/workspaces`    | `dbw-`       |
+|                                |                                      |              |
+|                                |                                      |              |
 
 
 *Backlinks:*
@@ -135,3 +137,11 @@ Example Hierarchy:
 ```dataview
 list from [[Azure Setup Guide]] AND -"Changelog"
 ```
+
+| Asset type | Resource provider namespace/Entity | Abbreviation |
+
+| --- | --- | --- |
+
+| Azure Analysis Services server | `Microsoft.AnalysisServices/servers` | `as` |
+
+| Azure Databricks workspace | `Microsoft.Databricks/workspaces` | `dbw-` |

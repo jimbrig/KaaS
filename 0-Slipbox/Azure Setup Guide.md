@@ -35,6 +35,14 @@ Organize your cloud-based resources to secure, manage, and track costs related t
 
 ### Specify Naming Standards
 
+Example Hierarchy:
+
+| Entity          | Scope                        | Pattern                                                                                 | Example                     |
+| --------------- | ---------------------------- | --------------------------------------------------------------------------------------- | --------------------------- |
+| Subscriptions   | Management Group / Directory | `sub-<division>-<environment>-<numeric padding>`                                        | `sub-finance-dev-001`       |
+| Resource Groups | Subscription                 | `rg-<initiative>-<project>-<service types>-<environment>-<numeric padding>` | `rg-rezmod-network-dev-001` |
+| Resources       | Resource Group               | `<service abbreviation>-<project>-<numeric padding>`                                    | `webapp-rezmod-test-001`    |
+
 #### Taxonomy of Naming Components
 
 | Naming component            | Description                                                                                                                                                                                                                                                                                                                                                  |
@@ -46,13 +54,13 @@ Organize your cloud-based resources to secure, manage, and track costs related t
 | Deployment environment      | The stage of the development lifecycle for the workload that the resource supports. Examples: `prod`, `dev`, `qa`, `stage`, `test`                                                                                                                                                                                                                           |
 | Region                      | The Azure region where the resource is deployed. Examples: `westus`, `eastus2`, `westeu`, `usva`, `ustx`                                                                                                                                                                                                                                                     |
 
-| Entity          | Scope                        | Pattern                                                   | Example                   |
-| --------------- | ---------------------------- | --------------------------------------------------------- | ------------------------- |
-| Subscriptions   | Management Group / Directory | `sub-<division>-<environment>-<numeric padding>`          | `sub-finance-dev-001`     |
-| Resource Groups | Subscription                 | `rg-<division | <initiative>-<project>-<service types>-<environment>-<numeric padding>` | `rg-reserving-db-dev-001` |
-| Resources                | Resource Group                             |  `<service abbreviation>-<project>-<`                                                         |                           |
 
-**:** 
+#### Resource and Service Abbreviations
+
+*Source: [Recommended abbreviations for Azure resource types - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)*
+
+
+
 
 
 ## Setup Subscriptions

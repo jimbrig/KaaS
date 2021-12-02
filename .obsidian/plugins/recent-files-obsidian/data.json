@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-01",
+      "path": "2-Areas/Daily-Notes/2021-12-01.md"
+    },
+    {
       "basename": "Daily-Note-Template",
       "path": "3-Resources/Templates/Daily-Note-Template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Windows Developer Environment",
       "path": "0-Slipbox/Windows Developer Environment.md"
-    },
-    {
-      "basename": "_README",
-      "path": "0-Slipbox/_README.md"
     }
   ],
   "omittedPaths": [],

@@ -46,9 +46,11 @@ Organize your cloud-based resources to secure, manage, and track costs related t
 | Deployment environment      | The stage of the development lifecycle for the workload that the resource supports. Examples: `prod`, `dev`, `qa`, `stage`, `test`                                                                                                                                                                                                                           |
 | Region                      | The Azure region where the resource is deployed. Examples: `westus`, `eastus2`, `westeu`, `usva`, `ustx`                                                                                                                                                                                                                                                     |
 
-| Entity | Scope | Pattern | Example |
-| ------ | ----- | ------- | ------- |
-| Resource Groups       | Subscription      | `rg-<project>-<services>-<environment>-<optional numeric padding>`        | `rg-reserving`        |
+| Entity          | Scope                        | Pattern                                                   | Example                   |
+| --------------- | ---------------------------- | --------------------------------------------------------- | ------------------------- |
+| Subscriptions   | Management Group / Directory | `sub-<division>-<environment>-<numeric padding>`          | `sub-finance-dev-001`     |
+| Resource Groups | Subscription                 | `rg-<division | <initiative>-<project>-<service types>-<environment>-<numeric padding>` | `rg-reserving-db-dev-001` |
+| Resources                | Resource Group                             |  `<service abbreviation>-<project>-<`                                                         |                           |
 
 **:** 
 

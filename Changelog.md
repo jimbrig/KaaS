@@ -1,4 +1,4 @@
-- 2021-12-01 at 19h39 · [[Azure Setup Guide]]
+- 2021-12-01 at 21h17 · [[Azure Setup Guide]]
 - 2021-12-01 at 19h13 · [[Designing Better File Organization]]
 - 2021-12-01 at 19h13 · [[Readwise Syncs]]
 - 2021-12-01 at 19h13 · [[2021-12-01]]

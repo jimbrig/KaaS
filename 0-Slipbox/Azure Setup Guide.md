@@ -124,7 +124,10 @@ Example Hierarchy:
 
 
 
-
+| Asset type | Resource provider namespace/Entity | Abbreviation |
+| --- | --- | --- |
+| Azure Analysis Services server | `Microsoft.AnalysisServices/servers` | `as` |
+| Azure Databricks workspace | `Microsoft.Databricks/workspaces` | `dbw-` |
 
 
 *Backlinks:*

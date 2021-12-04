@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 5
+      "links": 6
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3408,13 +3408,23 @@
       "size": 12568,
       "tags": 2,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2021-12-04.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md": {
+      "size": 2717,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1239,
-      "Create": 1133,
-      "Link": 2098,
+      "Create": 1135,
+      "Link": 2103,
       "Expand": 86
     }
   },
@@ -3438,7 +3448,7 @@
       "15": 153,
       "16": 57,
       "17": 126,
-      "18": 1262,
+      "18": 1269,
       "19": 99,
       "20": 27,
       "21": 15,
@@ -3454,7 +3464,7 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 562
+      "Sun": 569
     }
   },
   "recentCommits": {
@@ -3513,6 +3523,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/Unified Architecture Framework.md\"> Unified Architecture Framework </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
@@ -3561,9 +3573,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3619,6 +3629,8 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
@@ -3667,9 +3679,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Reference/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Agenda-Template.md\"> Agenda-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Kanban-Template.md\"> Kanban-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Meta-Template.md\"> Meta-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/List-Template.md\"> List-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3730,6 +3740,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -3777,10 +3790,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-R-Template.md\"> Slipbox-Dev-R-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Tool-Template.md\"> Tool-Template </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md\"> Why Organising Your To-Dos by Project Does Not Work. </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Python-Template.md\"> Slipbox-Python-Template </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2312429,
-  "currentSyncStatusID": 2328900,
+  "lastSavedStatusID": 2328900,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1345,7 +1345,8 @@
     "3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md": "12078888",
     "3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md": "12078889",
     "3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md": "12078890",
-    "3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md": "12091209"
+    "3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md": "12091209",
+    "3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md": "12146183"
   },
   "reimportShowConfirmation": true
 }

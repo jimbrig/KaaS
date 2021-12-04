@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "0-Slipbox/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "3-Resources/Tools/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "3-Resources/_README.md"
+    },
+    {
+      "basename": "_README",
+      "path": "4-Archives/Guidance/_README.md"
+    },
+    {
       "basename": "2021-12-04",
       "path": "2-Areas/Daily-Notes/2021-12-04.md"
     },
@@ -133,10 +149,6 @@
       "path": "3-Resources/Tools/Microsoft Edge.md"
     },
     {
-      "basename": "_README",
-      "path": "3-Resources/_README.md"
-    },
-    {
       "basename": "R Package - raw",
       "path": "0-Slipbox/R Package - raw.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Kanban-Template",
       "path": "3-Resources/Templates/Kanban-Template.md"
-    },
-    {
-      "basename": "Agenda-Template",
-      "path": "3-Resources/Templates/Agenda-Template.md"
-    },
-    {
-      "basename": "Project-Template",
-      "path": "3-Resources/Templates/Project-Template.md"
-    },
-    {
-      "basename": "GCP Sketchnote Diagrams",
-      "path": "0-Slipbox/GCP Sketchnote Diagrams.md"
     }
   ],
   "omittedPaths": [],

@@ -451,3 +451,6 @@
 - [[2021-12-01]] 7:13 PM — Synced 1 highlight from 1 document.
     - 1 highlights from Designing Better File Organization
 
+- [[2021-12-04]] 6:21 PM — Synced 6 highlights from 1 document.
+    - 6 highlights from The One-Touch Guide to Doing a Weekly Review: How I Go From Chaos to Clarity in 30 Minutes - Forte Labs
+

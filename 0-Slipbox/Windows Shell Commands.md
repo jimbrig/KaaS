@@ -7,6 +7,18 @@ Alias: "Windows Shell Commands"
 
 # Windows Shell Commands
 
+*Source: [List of shell commands in Windows 10](https://winaero.com/list-of-shell-commands-in-windows-10/)*
+
+## Most Used
+
+- **`shell: startup`** - launches `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
+- **`shell: common startup`** - launches `%PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
+- **`shell:AppsFolder`** - launches the *Applications* directory with links to all installed software
+- **`shell:recent`** - launches `%AppData%\Microsoft\Windows\Recent` which contains recently viewed items by the user
+- 
+
+## Full Table
+
 | Shell Command                     | Purpose                    |
 | --------------------------------- | -------------------------- |
 | shell:AccountPictures             | Account Pictures           |

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-06",
+      "path": "2-Areas/Daily-Notes/2021-12-06.md"
+    },
+    {
       "basename": "Windows Shell Commands",
       "path": "0-Slipbox/Windows Shell Commands.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Backup Edge User Preferences PowerShell Script",
       "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
-    },
-    {
-      "basename": "Tool-Template",
-      "path": "3-Resources/Templates/Tool-Template.md"
     }
   ],
   "omittedPaths": [],

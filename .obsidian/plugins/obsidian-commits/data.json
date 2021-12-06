@@ -3435,17 +3435,17 @@
       "links": 3
     },
     "0-Slipbox/List of Python Flask Resources.md": {
-      "size": 0,
+      "size": 17156,
       "tags": 2,
-      "links": 0
+      "links": 38
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1240,
       "Create": 1139,
-      "Link": 2111,
-      "Expand": 88
+      "Link": 2112,
+      "Expand": 89
     }
   },
   "dailyCommits": {
@@ -3467,7 +3467,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 132,
+      "17": 134,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3478,7 +3478,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 181,
+      "Mon": 183,
       "Tue": 153,
       "Wed": 1382,
       "Thu": 1965,
@@ -3490,6 +3490,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
@@ -3539,8 +3540,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/PCDM - Property Casualty Data Model.md\"> PCDM - Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -3760,6 +3760,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
@@ -3809,8 +3810,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

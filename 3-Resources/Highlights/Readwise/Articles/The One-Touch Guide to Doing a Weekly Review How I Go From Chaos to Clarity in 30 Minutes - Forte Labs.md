@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[fortelabs.co]]
 - Full Title: The One-Touch Guide to Doing a Weekly Review: How I Go From Chaos to Clarity in 30 Minutes - Forte Labs
-- Category: #articles
+- Category: #Type/Highlight/Articles
 - URL: https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/
 
 ## Highlights

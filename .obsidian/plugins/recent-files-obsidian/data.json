@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Shell Commands",
+      "path": "0-Slipbox/Windows Shell Commands.md"
+    },
+    {
       "basename": "2021-12-05",
       "path": "2-Areas/Daily-Notes/2021-12-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tool-Template",
       "path": "3-Resources/Templates/Tool-Template.md"
-    },
-    {
-      "basename": "List-Template",
-      "path": "3-Resources/Templates/List-Template.md"
     }
   ],
   "omittedPaths": [],

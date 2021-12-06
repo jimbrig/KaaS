@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[FacileThings]]
 - Full Title: The Capture Stage of GTD, Explained
-- Category: #articles
+- Category: #Type/Highlight/Articles
 - URL: https://medium.com/p/682c91aa11c2
 
 ## Highlights

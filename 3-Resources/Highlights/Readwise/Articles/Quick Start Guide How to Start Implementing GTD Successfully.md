@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[FacileThings]]
 - Full Title: Quick Start Guide: How to Start Implementing GTD Successfully
-- Category: #articles
+- Category: #Type/Highlight/Articles
 - URL: https://medium.com/p/2d1637f0ce0c
 
 ## Highlights

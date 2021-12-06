@@ -22,7 +22,7 @@ Alias: "Windows Shell Commands"
 - **`shell:ProgramFilesX86`** - launches `C:\Program Files (x86)`
 - **`shell:RecycleBinFolder`** - opens the *Recycle Bin*
 - **`shell:UserPinned`** - launches `%APPDATA%\Microsoft\Internet Explorer\Quick Launch\User Pinned` containing pinned taskbar items
-- 
+- **`shell:windows`** - launches `%WINDIR%` or `C:\Windows`
 
 ## Full Table
 
@@ -150,6 +150,11 @@ Alias: "Windows Shell Commands"
 
 ***
 
+*See Also*
+
+- [[Windows Dotfiles Musings]]
+- [[Windows Developer Environment]]
+- [[Tipsandtricks - Windows10]]
 
 *Backlinks:*
 

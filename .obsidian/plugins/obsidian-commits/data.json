@@ -3425,17 +3425,17 @@
       "links": 3
     },
     "0-Slipbox/Windows Shell Commands.md": {
-      "size": 8385,
+      "size": 9697,
       "tags": 3,
-      "links": 0
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1239,
       "Create": 1137,
-      "Link": 2107,
-      "Expand": 87
+      "Link": 2108,
+      "Expand": 88
     }
   },
   "dailyCommits": {
@@ -3463,7 +3463,7 @@
       "20": 27,
       "21": 15,
       "22": 44,
-      "23": 10
+      "23": 12
     }
   },
   "weeklyCommits": {
@@ -3474,12 +3474,13 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 576
+      "Sun": 578
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
@@ -3529,8 +3530,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Miniature Insurance Economic Simulator.md\"> Miniature Insurance Economic Simulator </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Business Process Model and Notation.md\"> Business Process Model and Notation </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -3750,6 +3750,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
@@ -3799,8 +3800,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Mindsweep-Template.md\"> Mindsweep-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md\"> Slipbox-Default-Template </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Actuarial-Dev-Template.md\"> Slipbox-Actuarial-Dev-Template </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

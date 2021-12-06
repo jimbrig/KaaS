@@ -12,9 +12,23 @@ Alias: "List of Python Flask Resources"
 - For [[Flas Extensions]], some of the most useful one's to pursue seem to be:
 
 - [[Flask-SQLAlchemy]] - definite
+- [[Flask-Login]] for managing logins, registration, and users
+- [[Flask-User]] useful, customizeable user account management in Flask
+- [[Flask-Migrate]] - for SQLAlchemy database migrations using [[Python Package - Alembic|Alembic]]
+- [[Flask-Session]] - Server side session extension
+- [[Flask-Caching]] - adds cache support to flask requests
+- [[Flask-WTF]] - simple integration of Flask and [[WTForms]]
+- [[Flask-Mail]]
+- [[Flask-Limiter]]
+- [[sentry-sdk]]
+- [[celery]]
+- [[Flask-AzureStorage]]
+- 
+- [[Flask HTTPAuth]] - provides `Basic` and `Digest` authentication frameworks for `HTTP` Authentication for Flask routes.
 - [[Flask-Restless]], [[Flask-RESTful]], [[Flask-RestPlus]], and [[Flask-Potion]] for [[REST API Best Practices|REST APIs]]
 - [[Flask-Admin]] for creating Administrative interfaces
-- [[Flask-Login]] for managing logins and users
+- 
+
 
 ## General
 

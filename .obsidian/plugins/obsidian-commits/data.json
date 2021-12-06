@@ -3437,14 +3437,14 @@
     "0-Slipbox/List of Python Flask Resources.md": {
       "size": 17156,
       "tags": 2,
-      "links": 38
+      "links": 52
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1240,
       "Create": 1139,
-      "Link": 2112,
+      "Link": 2113,
       "Expand": 89
     }
   },
@@ -3467,7 +3467,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 134,
+      "17": 135,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3478,7 +3478,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 183,
+      "Mon": 184,
       "Tue": 153,
       "Wed": 1382,
       "Thu": 1965,
@@ -3761,6 +3761,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
@@ -3809,8 +3810,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Daily-Note-Template.md\"> Daily-Note-Template </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-23.md\"> 2021-11-23 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

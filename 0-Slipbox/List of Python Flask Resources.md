@@ -7,9 +7,19 @@ Alias: "List of Python Flask Resources"
 
 # List of Python Flask Resources
 
-## Outtakes
+## General
 
-- For [[Flas Extensions]], some of the most useful one's to pursue seem to be:
+- [Welcome to Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/) 
+
+- [Table of Contents for Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
+
+- [Flask - Full Stack Python](https://www.fullstackpython.com/flask.html)
+
+- [The Flask Mega-Tutorial Part I: Hello, World! - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+## Extentions and Add-Ons
+
+- For [[Flask Extensions]], some of the most useful one's to pursue seem to be:
 
 - [[Flask-SQLAlchemy]] - definite
 - [[Flask-Login]] for managing logins, registration, and users
@@ -23,20 +33,9 @@ Alias: "List of Python Flask Resources"
 - [[sentry-sdk]]
 - [[celery]]
 - [[Flask-AzureStorage]]
-- 
 - [[Flask HTTPAuth]] - provides `Basic` and `Digest` authentication frameworks for `HTTP` Authentication for Flask routes.
 - [[Flask-Restless]], [[Flask-RESTful]], [[Flask-RestPlus]], and [[Flask-Potion]] for [[REST API Best Practices|REST APIs]]
 - [[Flask-Admin]] for creating Administrative interfaces
-- 
-
-
-## General
-
-- [Welcome to Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/) 
-
-- [Table of Contents for Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
-
-- [Flask - Full Stack Python](https://www.fullstackpython.com/flask.html)
 
 ***
 

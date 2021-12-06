@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask and Docker",
+      "path": "Flask and Docker.md"
+    },
+    {
       "basename": "List of Python Flask Resources",
       "path": "0-Slipbox/List of Python Flask Resources.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2021-11-26",
-      "path": "2-Areas/Daily-Notes/2021-11-26.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,5 @@
-- 2021-12-06 at 17h31 · [[List of Python Flask Resources]]
+- 2021-12-06 at 17h36 · [[Flask and Docker]]
+- 2021-12-06 at 17h33 · [[List of Python Flask Resources]]
 - 2021-12-06 at 17h02 · [[_README]]
 - 2021-12-06 at 17h02 · [[2021-12-06]]
 - 2021-12-05 at 23h26 · [[Windows Shell Commands]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[How to Be More Organized Declutter, Take Control, and Achieve More at Work]]
 - 2021-11-23 at 15h56 · [[How to Be Mentally Strong - James Altucher]]
 - 2021-11-23 at 15h56 · [[How a Single Freelancer Outperforms a Whole Team]]
-- 2021-11-23 at 15h56 · [[How I Organize My Knowledge as a Software Engineer]]

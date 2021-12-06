@@ -1,3 +1,5 @@
+- 2021-12-06 at 17h06 · [[List of Python Flask Resources]]
+- 2021-12-06 at 17h02 · [[_README]]
 - 2021-12-06 at 17h02 · [[2021-12-06]]
 - 2021-12-05 at 23h26 · [[Windows Shell Commands]]
 - 2021-12-05 at 23h10 · [[The Second Brain Method]]
@@ -496,5 +498,3 @@
 - 2021-11-23 at 15h56 · [[How to Be Mentally Strong - James Altucher]]
 - 2021-11-23 at 15h56 · [[How a Single Freelancer Outperforms a Whole Team]]
 - 2021-11-23 at 15h56 · [[How I Organize My Knowledge as a Software Engineer]]
-- 2021-11-23 at 15h56 · [[GTD Reference The Best Filing System for Busy Lives  Shortform Books]]
-- 2021-11-23 at 15h56 · [[Guest Post Using Todoist With MYN and 1MTD by Charles Olsen]]

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Python Flask Resources",
+      "path": "0-Slipbox/List of Python Flask Resources.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "1-Projects/Workbench.md"
+    },
+    {
+      "basename": "_README",
+      "path": "1-Projects/_README.md"
+    },
+    {
       "basename": "2021-12-06",
       "path": "2-Areas/Daily-Notes/2021-12-06.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2021-11-26",
       "path": "2-Areas/Daily-Notes/2021-11-26.md"
-    },
-    {
-      "basename": "Windows Dotfiles Musings",
-      "path": "0-Slipbox/Windows Dotfiles Musings.md"
-    },
-    {
-      "basename": "Todoist-CLI",
-      "path": "3-Resources/Tools/Todoist-CLI.md"
-    },
-    {
-      "basename": "Backup Edge User Preferences PowerShell Script",
-      "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-05",
+      "path": "2-Areas/Daily-Notes/2021-12-05.md"
+    },
+    {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "List-Template",
       "path": "3-Resources/Templates/List-Template.md"
-    },
-    {
-      "basename": "Kanban-Template",
-      "path": "3-Resources/Templates/Kanban-Template.md"
     }
   ],
   "omittedPaths": [],

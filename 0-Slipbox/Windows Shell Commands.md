@@ -15,6 +15,13 @@ Alias: "Windows Shell Commands"
 - **`shell: common startup`** - launches `%PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
 - **`shell:AppsFolder`** - launches the *Applications* directory with links to all installed software
 - **`shell:recent`** - launches `%AppData%\Microsoft\Windows\Recent` which contains recently viewed items by the user
+- **`shell:AppsFolder`** - launches the *Applications* directory with links to all installed software
+- **`shell:Profile`** - launches your `%USERPROFILE%` (i.e `~`, `HOME`, or `C:\Users\<username>`)
+- **`shell:ProgramFiles`** - launches `%PROGRAMFILES%`
+- **`shell:ProgramFilesCommon`** - launches `C:\Program Files\Common Files`
+- **`shell:ProgramFilesX86`** - launches `C:\Program Files (x86)`
+- **`shell:RecycleBinFolder`** - opens the *Recycle Bin*
+- **`shell:UserPinned`** - launches `%APPDATA%\Microsoft\Internet Explorer\Quick Launch\User Pinned` containing pinned taskbar items
 - 
 
 ## Full Table

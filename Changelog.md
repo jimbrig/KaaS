@@ -1,4 +1,4 @@
-- 2021-12-05 at 23h20 · [[Windows Shell Commands]]
+- 2021-12-05 at 23h25 · [[Windows Shell Commands]]
 - 2021-12-05 at 23h10 · [[The Second Brain Method]]
 - 2021-12-05 at 23h10 · [[The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs]]
 - 2021-12-05 at 23h10 · [[The Capture Stage of GTD, Explained]]

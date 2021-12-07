@@ -3477,14 +3477,49 @@
     "2-Areas/MOCs/PowerShell.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 10
+    },
+    "PowerShell Module - Stucco.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "PowerShell Module - devblackops.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "PowerShell Module - psake.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "PowerShell Module - PoshCode.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "PowerShell Module - ModuleBuilder.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "PowerShell Module - PSScaffold.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1243,
-      "Create": 1147,
-      "Link": 2132,
+      "Create": 1154,
+      "Link": 2138,
       "Expand": 90
     }
   },
@@ -3507,7 +3542,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 166,
+      "17": 179,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3519,7 +3554,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 180,
+      "Tue": 193,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3583,6 +3618,13 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
@@ -3626,14 +3668,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Can't Stay Focused While Processing - Have Tried for Months.md\"> Can't Stay Focused While Processing - Have Tried for Months </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/DataOps Implementation Guidelines.md\"> DataOps Implementation Guidelines </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Actuary of the Future.md\"> The Actuary of the Future </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Ferret — Your Local Environment Made Easy.md\"> Ferret — Your Local Environment Made Easy </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md\"> API Architecture  —  Performance Best Practices for REST APIs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md\"> Obsidian, Taming a Collective Consciousness - TrustedSec </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3689,6 +3724,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
@@ -3735,11 +3774,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/API Authentication.md\"> API Authentication </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/AWS Athena.md\"> AWS Athena </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Agendas/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3800,6 +3835,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
@@ -3848,9 +3885,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

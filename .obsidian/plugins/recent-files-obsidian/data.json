@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell Module - PSScaffold",
+      "path": "PowerShell Module - PSScaffold.md"
+    },
+    {
+      "basename": "Slipbox-Dev-PowerShell-Template",
+      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md"
+    },
+    {
+      "basename": "Slipbox-Default-Template",
+      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md"
+    },
+    {
       "basename": "PowerShell",
       "path": "2-Areas/MOCs/PowerShell.md"
+    },
+    {
+      "basename": "PowerShell Module - ModuleBuilder",
+      "path": "PowerShell Module - ModuleBuilder.md"
+    },
+    {
+      "basename": "PowerShell Module - PoshCode",
+      "path": "PowerShell Module - PoshCode.md"
+    },
+    {
+      "basename": "PowerShell Module - psake",
+      "path": "PowerShell Module - psake.md"
+    },
+    {
+      "basename": "PowerShell Module - Stucco",
+      "path": "PowerShell Module - Stucco.md"
+    },
+    {
+      "basename": "PowerShell Module - devblackops",
+      "path": "PowerShell Module - devblackops.md"
     },
     {
       "basename": "PowerShell",
@@ -167,38 +199,6 @@
     {
       "basename": "DotNet",
       "path": "3-Resources/Tools/DotNet.md"
-    },
-    {
-      "basename": "Developer Notebooks",
-      "path": "0-Slipbox/Developer Notebooks.md"
-    },
-    {
-      "basename": "Bash",
-      "path": "0-Slipbox/Bash.md"
-    },
-    {
-      "basename": "Azure SQL Databases",
-      "path": "3-Resources/Tools/Azure SQL Databases.md"
-    },
-    {
-      "basename": "Azure MLOps",
-      "path": "3-Resources/Tools/Azure MLOps.md"
-    },
-    {
-      "basename": "Azure ML Compute Instances",
-      "path": "3-Resources/Tools/Azure ML Compute Instances.md"
-    },
-    {
-      "basename": "Azure Machine Learning",
-      "path": "3-Resources/Tools/Azure Machine Learning.md"
-    },
-    {
-      "basename": "Azure DevOps Pipelines",
-      "path": "3-Resources/Tools/Azure DevOps Pipelines.md"
-    },
-    {
-      "basename": "Azure DevOps",
-      "path": "3-Resources/Tools/Azure DevOps.md"
     }
   ],
   "omittedPaths": [],

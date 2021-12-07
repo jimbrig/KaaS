@@ -72,7 +72,8 @@
     "Autocompletion",
     "Scriptable",
     "MEGAcmd",
-    "Incompletion"
+    "Incompletion",
+    "CDFs"
   ],
   "livePreview": false
 }

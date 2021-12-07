@@ -30,9 +30,32 @@ Personal Project
 - Cumulative Reported Claim Count Triangle
 	- Including and Excluding *Closed without payment claims*
 
-- Cumulative Closed with Loss Payment Claim Count Triangle
+- Large claim listing with case reserve values that exceed a particular threshold
 
+- Calendar period written and earned premiums, policies in force, historical rate changes, and relevant exposure metrics.
 
+***
+
+Diagnostics:
+
+- Paid to incurred loss ratios
+- Paid loss severities (paid loss divided by closed with payment counts) and resulting percentage changes between accident years at each age of development
+- Incurred loss severities (incurred loss divided by the difference of reported counts and closed without payment counts) and resulting percentage changes between accident years at each age of development
+- Closed with payment counts to reported counts ratios
+- Closed without payment counts to reported counts ratios
+- Open counts to reported counts ratios
+- Open counts, case reserves, and average case reserves (case reserves divided by open counts)
+- Incremental paid losses and incremental paid loss severities
+
+Patterns:
+
+- Development factors should be *monotonically decreasing* and smooth (i.e. not too much volatility)
+
+## Development Methods
+
+- Paid and Reported Loss Development Chain Ladder Methods
+- Reported Claim Count Chain Ladder Loss Development Method
+- 
 
 ## Contents
 

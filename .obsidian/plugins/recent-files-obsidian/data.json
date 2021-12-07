@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Data",
+      "path": "1-Projects/reserver/Data.md"
+    },
+    {
       "basename": "Functions",
       "path": "1-Projects/reserver/Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "powerlevel10k",
       "path": "3-Resources/Tools/powerlevel10k.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "3-Resources/Tools/PostgreSQL.md"
     }
   ],
   "omittedPaths": [],

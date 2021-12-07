@@ -13,7 +13,6 @@ Alias: Functions
 
 - # of claims to simulate
 - Start and End dates
-- seed
 
 
 ***

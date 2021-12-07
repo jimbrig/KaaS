@@ -3538,13 +3538,18 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "1-Projects/reserver/Data.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1254,
-      "Create": 1159,
-      "Link": 2153,
+      "Create": 1160,
+      "Link": 2154,
       "Expand": 92
     }
   },
@@ -3567,7 +3572,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 212,
+      "17": 214,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3579,7 +3584,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 226,
+      "Tue": 228,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3645,6 +3650,7 @@
       "Created": [
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
         "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
@@ -3692,8 +3698,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md\"> Microservices Architecture on Google Cloud  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-26.md\"> 2021-11-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
@@ -3749,6 +3754,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Data.md\"> Data </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
@@ -3798,8 +3804,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog.md\"> Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md\"> Improving the Security of Your Cloud Run Environment  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

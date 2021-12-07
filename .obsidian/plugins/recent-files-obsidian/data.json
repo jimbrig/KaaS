@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-07",
+      "path": "2-Areas/Daily-Notes/2021-12-07.md"
+    },
+    {
       "basename": "Flask and Docker",
       "path": "Flask and Docker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Case for Digital Notes - Forte Labs",
       "path": "3-Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

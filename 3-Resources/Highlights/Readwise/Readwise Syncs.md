@@ -456,3 +456,8 @@
 
 - [[2021-12-05]] 11:10 PM — Synced 0 highlights from 0 documents.
 
+- [[2021-12-07]] 5:08 PM — Synced 5 highlights from 3 documents.
+    - 3 highlights from Configuring Your Flask App
+    - 1 highlights from Assign Global Hotkeys to Launch Any App in Windows 10
+    - 1 highlights from List of Shell Commands in Windows 10
+

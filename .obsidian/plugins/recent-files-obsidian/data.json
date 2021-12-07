@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "2-Areas/Mindsweeps/_README.md"
+    },
+    {
+      "basename": "GTD Mindsweep",
+      "path": "0-Slipbox/GTD Mindsweep.md"
+    },
+    {
+      "basename": "About",
+      "path": "2-Areas/Meta/About.md"
+    },
+    {
       "basename": "2021-12-07",
       "path": "2-Areas/Daily-Notes/2021-12-07.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "This Is How You Become Confident and Transform Your Life",
       "path": "3-Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md"
-    },
-    {
-      "basename": "4 Steps to Organize Your Massive To-Do List",
-      "path": "3-Resources/Highlights/Readwise/Articles/4 Steps to Organize Your Massive To-Do List.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/Highlights/Notes/_README.md"
-    },
-    {
-      "basename": "The Case for Digital Notes - Forte Labs",
-      "path": "3-Resources/Highlights/Readwise/Articles/The Case for Digital Notes - Forte Labs.md"
     }
   ],
   "omittedPaths": [],

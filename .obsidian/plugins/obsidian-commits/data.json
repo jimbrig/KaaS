@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 493
+      "links": 492
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 7
+      "links": 8
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3443,13 +3443,38 @@
       "size": 3806,
       "tags": 2,
       "links": 2
+    },
+    "2-Areas/Daily-Notes/2021-12-07.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md": {
+      "size": 2095,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md": {
+      "size": 799,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md": {
+      "size": 4407,
+      "tags": 2,
+      "links": 4
+    },
+    "2-Areas/Mindsweeps/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1240,
-      "Create": 1140,
-      "Link": 2115,
+      "Refactor": 1241,
+      "Create": 1145,
+      "Link": 2126,
       "Expand": 90
     }
   },
@@ -3472,7 +3497,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 139,
+      "17": 156,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3484,7 +3509,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 153,
+      "Tue": 170,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3548,6 +3573,11 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
@@ -3593,12 +3623,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md\"> Obsidian, Taming a Collective Consciousness - TrustedSec </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md\"> Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3654,6 +3679,11 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
@@ -3699,12 +3729,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-12.md\"> 2021-11-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3765,6 +3790,12 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
@@ -3809,13 +3840,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-12.md\"> 2021-11-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-16.md\"> 2021-11-16 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-17.md\"> 2021-11-17 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-21.md\"> 2021-11-21 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-25.md\"> 2021-11-25 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3856,6 +3881,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

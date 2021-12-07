@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workflows",
+      "path": "1-Projects/reserver/Workflows.md"
+    },
+    {
       "basename": "Functions",
       "path": "1-Projects/reserver/Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Productivity Apps",
       "path": "3-Resources/Tools/Productivity Apps.md"
-    },
-    {
-      "basename": "powerlevel10k",
-      "path": "3-Resources/Tools/powerlevel10k.md"
     }
   ],
   "omittedPaths": [],

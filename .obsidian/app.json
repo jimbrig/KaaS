@@ -73,7 +73,8 @@
     "Scriptable",
     "MEGAcmd",
     "Incompletion",
-    "CDFs"
+    "CDFs",
+    "dimensionality"
   ],
   "livePreview": false
 }

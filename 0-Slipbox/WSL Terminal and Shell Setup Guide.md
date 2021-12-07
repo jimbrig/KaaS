@@ -41,7 +41,7 @@ This will clone the repo and replace the existing `~/.zshrc` with a template fro
 ![[Pasted image 20211115122342.png]]
 ## Install Powerline
 
-First, need Nerdfonts; From a Windows Terminal (i.e. [[PowerShell]]):
+First, need Nerdfonts; From a Windows Terminal (i.e. [[3-Resources/Tools/PowerShell]]):
 
 ```PowerShell
 git clone https://github.com/powerline/fonts.git

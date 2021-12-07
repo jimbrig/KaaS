@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 491
+      "links": 490
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -2977,7 +2977,7 @@
     "2-Areas/MOCs/Software Development.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 11
     },
     "2-Areas/MOCs/Web Development.md": {
       "size": 0,
@@ -3471,15 +3471,20 @@
     },
     "2-Areas/Mindsweeps/2021-12-07.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
+    },
+    "2-Areas/MOCs/PowerShell.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1242,
-      "Create": 1146,
-      "Link": 2127,
+      "Refactor": 1243,
+      "Create": 1147,
+      "Link": 2132,
       "Expand": 90
     }
   },
@@ -3502,7 +3507,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 159,
+      "17": 166,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3514,7 +3519,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 173,
+      "Tue": 180,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3578,6 +3583,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
@@ -3627,8 +3633,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Ferret — Your Local Environment Made Easy.md\"> Ferret — Your Local Environment Made Easy </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md\"> API Architecture  —  Performance Best Practices for REST APIs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Obsidian, Taming a Collective Consciousness - TrustedSec.md\"> Obsidian, Taming a Collective Consciousness - TrustedSec </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
@@ -3684,6 +3689,8 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
@@ -3732,9 +3739,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Agendas/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-12.md\"> 2021-11-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-15.md\"> 2021-11-15 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-10.md\"> 2021-11-10 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3795,6 +3800,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
@@ -3842,10 +3850,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-08.md\"> 2021-11-08 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3886,6 +3891,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"

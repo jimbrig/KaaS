@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerShell",
+      "path": "2-Areas/MOCs/PowerShell.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "3-Resources/Tools/PowerShell.md"
+    },
+    {
+      "basename": "Best Practices With Packer and Windows",
+      "path": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md"
+    },
+    {
+      "basename": "Azure Data Studio",
+      "path": "3-Resources/Tools/Azure Data Studio.md"
+    },
+    {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
+    },
+    {
+      "basename": "A Preview of WSL in the Microsoft Store Is Now Available!",
+      "path": "3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md"
+    },
+    {
+      "basename": "Backup Edge User Preferences PowerShell Script",
+      "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "2-Areas/MOCs/Software Development.md"
+    },
+    {
       "basename": "2021-12-07",
       "path": "2-Areas/Mindsweeps/2021-12-07.md"
     },
@@ -101,10 +133,6 @@
       "path": "3-Resources/Tools/Productivity Apps.md"
     },
     {
-      "basename": "PowerShell",
-      "path": "3-Resources/Tools/PowerShell.md"
-    },
-    {
       "basename": "powerlevel10k",
       "path": "3-Resources/Tools/powerlevel10k.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Azure DevOps",
       "path": "3-Resources/Tools/Azure DevOps.md"
-    },
-    {
-      "basename": "Azure Data Studio",
-      "path": "3-Resources/Tools/Azure Data Studio.md"
-    },
-    {
-      "basename": "AWS QuickSight",
-      "path": "3-Resources/Tools/AWS QuickSight.md"
-    },
-    {
-      "basename": "AWS Redshift",
-      "path": "3-Resources/Tools/AWS Redshift.md"
-    },
-    {
-      "basename": "AWS Glue",
-      "path": "3-Resources/Tools/AWS Glue.md"
-    },
-    {
-      "basename": "AWS Athena",
-      "path": "3-Resources/Tools/AWS Athena.md"
-    },
-    {
-      "basename": "Alteryx",
-      "path": "3-Resources/Tools/Alteryx.md"
-    },
-    {
-      "basename": "Microsoft Edge",
-      "path": "3-Resources/Tools/Microsoft Edge.md"
     }
   ],
   "omittedPaths": [],

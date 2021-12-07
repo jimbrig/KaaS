@@ -9,9 +9,22 @@ Alias: "Software Development"
 
 *Software Development* Map of Content houses all notes related to Software Development in general.
 
+## Related MOCs
+
+- [[Web Development]]
+- [[R]]
+- [[Python]]
+- [[Databases]]
+- [[Development]]
+
 ## Notes
 
-## Related MOCs
+- [[Unified Architecture Framework]]
+- [[Windows Developer Environment]]
+- [[Team Data Science Process]]
+- [[Simulating Actuarial Claims Data with R]]
+- [[Reproducible Research]]
+- [[Relational Databases]]
 
 ## Dataviews
 

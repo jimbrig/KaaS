@@ -133,7 +133,7 @@ Data scientists can use models in Azure Machine Learning that they've created in
 -   LightGBM
 
 Other languages and frameworks are supported as well, including:
-- [[PowerShell]]
+- [[3-Resources/Tools/PowerShell]]
 - [[SQL]]
 - [[Python]]
 - [[R]]

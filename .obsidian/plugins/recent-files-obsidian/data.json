@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "_README",
+      "path": "1-Projects/reserver/_README.md"
+    },
+    {
+      "basename": "2021-12-07",
+      "path": "2-Areas/Mindsweeps/2021-12-07.md"
+    },
+    {
+      "basename": "Free Actuarial System for Loss Reserving",
+      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
+    },
+    {
+      "basename": "Development",
+      "path": "2-Areas/MOCs/Development.md"
+    },
+    {
+      "basename": "PowerShell Module - Pester",
+      "path": "0-Slipbox/PowerShell Module - Pester.md"
+    },
+    {
+      "basename": "Flask and Docker",
+      "path": "0-Slipbox/Flask and Docker.md"
+    },
+    {
+      "basename": "PowerShell Module - ModuleBuilder",
+      "path": "0-Slipbox/PowerShell Module - ModuleBuilder.md"
+    },
+    {
+      "basename": "PowerShell Module - devblackops",
+      "path": "0-Slipbox/PowerShell Module - devblackops.md"
+    },
+    {
+      "basename": "Documenting PowerShell Modules",
+      "path": "0-Slipbox/Documenting PowerShell Modules.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "2-Areas/MOCs/PowerShell.md"
+    },
+    {
+      "basename": "PowerShell Module - Plaster",
+      "path": "0-Slipbox/PowerShell Module - Plaster.md"
+    },
+    {
+      "basename": "PowerShell Module - PoshCode",
+      "path": "0-Slipbox/PowerShell Module - PoshCode.md"
+    },
+    {
+      "basename": "PowerShell Module - psake",
+      "path": "0-Slipbox/PowerShell Module - psake.md"
+    },
+    {
       "basename": "PowerShell Module - PSScaffold",
-      "path": "PowerShell Module - PSScaffold.md"
+      "path": "0-Slipbox/PowerShell Module - PSScaffold.md"
     },
     {
       "basename": "Slipbox-Dev-PowerShell-Template",
@@ -13,28 +65,8 @@
       "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     },
     {
-      "basename": "PowerShell",
-      "path": "2-Areas/MOCs/PowerShell.md"
-    },
-    {
-      "basename": "PowerShell Module - ModuleBuilder",
-      "path": "PowerShell Module - ModuleBuilder.md"
-    },
-    {
-      "basename": "PowerShell Module - PoshCode",
-      "path": "PowerShell Module - PoshCode.md"
-    },
-    {
-      "basename": "PowerShell Module - psake",
-      "path": "PowerShell Module - psake.md"
-    },
-    {
       "basename": "PowerShell Module - Stucco",
-      "path": "PowerShell Module - Stucco.md"
-    },
-    {
-      "basename": "PowerShell Module - devblackops",
-      "path": "PowerShell Module - devblackops.md"
+      "path": "0-Slipbox/PowerShell Module - Stucco.md"
     },
     {
       "basename": "PowerShell",
@@ -65,10 +97,6 @@
       "path": "2-Areas/MOCs/Software Development.md"
     },
     {
-      "basename": "2021-12-07",
-      "path": "2-Areas/Mindsweeps/2021-12-07.md"
-    },
-    {
       "basename": "Mindsweep-Template",
       "path": "3-Resources/Templates/Mindsweep-Template.md"
     },
@@ -87,10 +115,6 @@
     {
       "basename": "2021-12-07",
       "path": "2-Areas/Daily-Notes/2021-12-07.md"
-    },
-    {
-      "basename": "Flask and Docker",
-      "path": "Flask and Docker.md"
     },
     {
       "basename": "List of Python Flask Resources",
@@ -175,30 +199,6 @@
     {
       "basename": "oh-my-zsh",
       "path": "3-Resources/Tools/oh-my-zsh.md"
-    },
-    {
-      "basename": "Nerdfont",
-      "path": "3-Resources/Tools/Nerdfont.md"
-    },
-    {
-      "basename": "Microsoft Azure",
-      "path": "3-Resources/Tools/Microsoft Azure.md"
-    },
-    {
-      "basename": "Git",
-      "path": "3-Resources/Tools/Git.md"
-    },
-    {
-      "basename": "Free Actuarial System for Loss Reserving",
-      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
-    },
-    {
-      "basename": "Edge Search Engines",
-      "path": "0-Slipbox/Edge Search Engines.md"
-    },
-    {
-      "basename": "DotNet",
-      "path": "3-Resources/Tools/DotNet.md"
     }
   ],
   "omittedPaths": [],

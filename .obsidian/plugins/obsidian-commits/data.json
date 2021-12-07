@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 490
+      "links": 489
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3439,11 +3439,6 @@
       "tags": 2,
       "links": 52
     },
-    "Flask and Docker.md": {
-      "size": 3806,
-      "tags": 2,
-      "links": 2
-    },
     "2-Areas/Daily-Notes/2021-12-07.md": {
       "size": 0,
       "tags": 1,
@@ -3479,47 +3474,72 @@
       "tags": 2,
       "links": 10
     },
-    "PowerShell Module - Stucco.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
-    "PowerShell Module - devblackops.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
-    "PowerShell Module - psake.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "PowerShell Module - PoshCode.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "PowerShell Module - ModuleBuilder.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "PowerShell Module - PSScaffold.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md": {
       "size": 0,
       "tags": 2,
       "links": 2
+    },
+    "0-Slipbox/Documenting PowerShell Modules.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - devblackops.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/PowerShell Module - ModuleBuilder.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/Flask and Docker.md": {
+      "size": 3806,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - Pester.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - Plaster.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - PoshCode.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - psake.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - PSScaffold.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/PowerShell Module - Stucco.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "1-Projects/reserver/_README.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1243,
-      "Create": 1154,
-      "Link": 2138,
+      "Refactor": 1254,
+      "Create": 1158,
+      "Link": 2152,
       "Expand": 90
     }
   },
@@ -3542,7 +3562,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 179,
+      "17": 208,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3554,7 +3574,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 193,
+      "Tue": 222,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3618,6 +3638,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
+        "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
@@ -3664,13 +3688,19 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Flask and Docker.md\"> Flask and Docker </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>",
@@ -3711,19 +3741,16 @@
         "<a class=\"internal-link\" href=\"2-Areas/People/Tiago Forte.md\"> Tiago Forte </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Justin DiRose.md\"> Justin DiRose </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/R.md\"> R </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Web Development.md\"> Web Development </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Python.md\"> Python </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Productivity.md\"> Productivity </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Personal Knowledge Management.md\"> Personal Knowledge Management </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Finance.md\"> Finance </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Databases.md\"> Databases </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Science.md\"> Data Science </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
@@ -3767,14 +3794,7 @@
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Developer Environment.md\"> Windows Developer Environment </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Alteryx vs Code.md\"> Alteryx vs Code </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/AWS Redshift.md\"> AWS Redshift </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/API Authentication.md\"> API Authentication </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/AWS Athena.md\"> AWS Athena </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/AWS QuickSight.md\"> AWS QuickSight </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3835,6 +3855,13 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
@@ -3878,14 +3905,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md\"> Microservices Architecture on Google Cloud  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/What Is Cloud CDN and How Does It Work  Google Cloud Blog.md\"> What Is Cloud CDN and How Does It Work  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Traffic Director Explained!  Google Cloud Blog.md\"> Traffic Director Explained!  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md\"> PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Learn About Cloud Functions Events and Triggers  Google Cloud Blog.md\"> Learn About Cloud Functions Events and Triggers  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog.md\"> Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md\"> Improving the Security of Your Cloud Run Environment  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog.md\"> PostgreSQL Extension Turned Cloud Microservice  Google Cloud Blog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -3926,6 +3946,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Ultimate Guide to an Effective Weekly Review.md\"> The Ultimate Guide to an Effective Weekly Review </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",

@@ -7,6 +7,13 @@ Alias: "PSScaffold"
 
 # PowerShell Module - PSScaffold
 
+***
+
+#### Related
+
+- [[Development]]
+- [[PowerShell]]
+
 *Backlinks:*
 
 ```dataview

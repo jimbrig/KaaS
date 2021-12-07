@@ -21,7 +21,7 @@ Use a `*.psm1` file to create a module.
 
 Split module into parts:
 - [[PowerShell Module - Pester|Pester]] Tests
-- [[Documentation]]
+- [[Documenting PowerShell Modules]]
 
 Use [[PowerShell Module - Plaster|Plaster]] to create manifest files - `*.psd1*`.
 

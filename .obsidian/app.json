@@ -71,7 +71,8 @@
     "natively",
     "Autocompletion",
     "Scriptable",
-    "MEGAcmd"
+    "MEGAcmd",
+    "Incompletion"
   ],
   "livePreview": false
 }

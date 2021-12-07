@@ -7,7 +7,19 @@ Alias: Mindsweeps
 
 # Mindsweeps
 
-- Refer to the [[GTD-WildSuccess-MindSweep.pdf]]
+- Refer to the [[Mind_Sweep_Trigger_List.pdf]] for determining what's on my mind.
+
+## Incompletion Trigger List 
+
+![[Mind_Sweep_Trigger_List.pdf]]
+
+## See Also
+
+[[GTD]]
+[[GTD Mindsweep]]
+[[GTD Weekly Review]]
+[[GTD-WildSuccess-MindSweep.pdf]]
+[[GTD Refresh, Part 5 Building the Weekly Review Habit]]
 
 *Contents*
 

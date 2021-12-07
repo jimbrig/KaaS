@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-07",
+      "path": "2-Areas/Mindsweeps/2021-12-07.md"
+    },
+    {
+      "basename": "Mindsweep-Template",
+      "path": "3-Resources/Templates/Mindsweep-Template.md"
+    },
+    {
       "basename": "_README",
       "path": "2-Areas/Mindsweeps/_README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Microsoft Edge",
       "path": "3-Resources/Tools/Microsoft Edge.md"
-    },
-    {
-      "basename": "R Package - raw",
-      "path": "0-Slipbox/R Package - raw.md"
-    },
-    {
-      "basename": "This Is How You Become Confident and Transform Your Life",
-      "path": "3-Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md"
     }
   ],
   "omittedPaths": [],

@@ -3530,17 +3530,22 @@
       "links": 0
     },
     "1-Projects/reserver/_README.md": {
-      "size": 2575,
+      "size": 3278,
       "tags": 2,
+      "links": 0
+    },
+    "1-Projects/reserver/Functions.md": {
+      "size": 0,
+      "tags": 1,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1254,
-      "Create": 1158,
-      "Link": 2152,
-      "Expand": 91
+      "Create": 1159,
+      "Link": 2153,
+      "Expand": 92
     }
   },
   "dailyCommits": {
@@ -3562,7 +3567,7 @@
       "14": 499,
       "15": 153,
       "16": 57,
-      "17": 209,
+      "17": 212,
       "18": 1269,
       "19": 99,
       "20": 27,
@@ -3574,7 +3579,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 223,
+      "Tue": 226,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3585,6 +3590,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
@@ -3634,10 +3640,10 @@
         "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/PCDM - Property Casualty Data Model.md\"> PCDM - Property Casualty Data Model </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Property Casualty Data Model.md\"> Property Casualty Data Model </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/PCDM - Property Casualty Data Model.md\"> PCDM - Property Casualty Data Model </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
         "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
@@ -3687,8 +3693,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-26.md\"> 2021-11-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Art of Routing in Flask.md\"> The Art of Routing in Flask </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
@@ -3744,6 +3749,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
@@ -3793,8 +3799,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md\"> Improving the Security of Your Cloud Run Environment  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Underused SQL Server Features Schemas.md\"> Underused SQL Server Features Schemas </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Email Inbox Management Why and How.md\"> Email Inbox Management Why and How </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

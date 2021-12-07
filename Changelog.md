@@ -1,4 +1,5 @@
-- 2021-12-07 at 17h48 · [[_README]]
+- 2021-12-07 at 17h53 · [[Functions]]
+- 2021-12-07 at 17h51 · [[_README]]
 - 2021-12-07 at 17h30 · [[Development]]
 - 2021-12-07 at 17h29 · [[PowerShell Module - Plaster]]
 - 2021-12-07 at 17h29 · [[Documenting PowerShell Modules]]
@@ -497,4 +498,3 @@
 - 2021-11-23 at 15h56 · [[How to Declutter & Organize Your Digital Files]]
 - 2021-11-23 at 15h56 · [[How to Develop Your Digital Space for Peak Productivity]]
 - 2021-11-23 at 15h56 · [[How to Do a Weekly Planning Session.]]
-- 2021-11-23 at 15h56 · [[How to Distribute Data With Your R Package - R-Hub Blog]]

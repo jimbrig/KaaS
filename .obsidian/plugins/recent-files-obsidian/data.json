@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions",
+      "path": "1-Projects/reserver/Functions.md"
+    },
+    {
       "basename": "_README",
       "path": "1-Projects/reserver/_README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PostgreSQL",
       "path": "3-Resources/Tools/PostgreSQL.md"
-    },
-    {
-      "basename": "oh-my-zsh",
-      "path": "3-Resources/Tools/oh-my-zsh.md"
     }
   ],
   "omittedPaths": [],

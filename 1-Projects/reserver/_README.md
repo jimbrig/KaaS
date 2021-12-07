@@ -55,7 +55,21 @@ Patterns:
 
 - Paid and Reported Loss Development Chain Ladder Methods
 - Reported Claim Count Chain Ladder Loss Development Method
-- 
+- Bornhuetter-Ferguson (B-F) Method
+- Incremental Paid Development Method
+- Case Reserve Method
+- Frequency x Severity Method
+- Loss Cost Method
+
+## Ultimate Diagnostics
+
+- Ultimate frequency diagnostic - ultimate claim counts divided by exposure or premium (actual and on-level/trended) for each accident year
+- Ultimate severity diagnostic - ultimate losses (actual and on-level/trended) divided by claim counts for each accident year
+- Ultimate loss ratio diagnostic - ultimate losses / exposure or premium
+- Avg Outstanding Severity - total reserves / Open + IBNR counts
+- Case incurred floor - reviewing the ultimate loss selections for each AY against case reserves to avoid negative IBNR
+
+
 
 ## Contents
 

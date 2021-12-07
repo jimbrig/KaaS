@@ -7,6 +7,8 @@ Alias: Functions
 
 # Functions
 
+- `interpolate`, `extrapolate` and `persist`
+	- simple vectorized linear/exponential/dbl exponential interpolation given x's, y's, and 
 - `incr2cum` and `cum2incr`
 
 ## Simulation

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-12-18",
+      "path": "2-Areas/Daily-Notes/2021-12-18.md"
+    },
+    {
       "basename": "Application and API",
       "path": "1-Projects/reserver/Application and API.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MEGA CMD",
       "path": "3-Resources/Tools/MEGA CMD.md"
-    },
-    {
-      "basename": "Prophet Actuarial Tool",
-      "path": "3-Resources/Tools/Prophet Actuarial Tool.md"
     }
   ],
   "omittedPaths": [],

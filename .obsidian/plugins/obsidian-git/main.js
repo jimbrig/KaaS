@@ -3505,6 +3505,7 @@ var require_StatusSummary = __commonJS({
         this.behind = 0;
         this.current = null;
         this.tracking = null;
+        this.detached = false;
       }
       isClean() {
         return !this.files.length;
@@ -3580,6 +3581,7 @@ var require_StatusSummary = __commonJS({
         result.tracking = regexResult && regexResult[1];
         regexResult = onEmptyBranchReg.exec(line);
         result.current = regexResult && regexResult[1] || result.current;
+        result.detached = /\(no branch\)/.test(line);
       }]
     ]);
     var parseStatusSummary = function(text2) {
@@ -6404,7 +6406,7 @@ var require_feather = __commonJS({
 __export(exports, {
   default: () => ObsidianGit
 });
-var import_obsidian11 = __toModule(require("obsidian"));
+var import_obsidian12 = __toModule(require("obsidian"));
 var path2 = __toModule(require("path"));
 
 // src/promiseQueue.ts
@@ -6438,7 +6440,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
     const plugin = this.plugin;
     containerEl.empty();
     containerEl.createEl("h2", { text: "Git Backup settings" });
-    new import_obsidian.Setting(containerEl).setName("Vault backup interval (minutes)").setDesc("Commit and push changes every X minutes. To disable automatic backup, specify negative value or zero (default)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
+    new import_obsidian.Setting(containerEl).setName("Vault backup interval (minutes)").setDesc("Commit and push changes every X minutes. (See below setting for further configuration!) To disable automatic backup, specify negative value or zero (default)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
       if (!isNaN(Number(value))) {
         plugin.settings.autoSaveInterval = Number(value);
         plugin.saveSettings();
@@ -6446,11 +6448,19 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
           plugin.clearAutoBackup();
           plugin.startAutoBackup(plugin.settings.autoSaveInterval);
           new import_obsidian.Notice(`Automatic backup enabled! Every ${plugin.settings.autoSaveInterval} minutes.`);
-        } else if (plugin.settings.autoSaveInterval <= 0 && plugin.timeoutIDBackup) {
+        } else if (plugin.settings.autoSaveInterval <= 0) {
           plugin.clearAutoBackup() && new import_obsidian.Notice("Automatic backup disabled!");
         }
       } else {
         new import_obsidian.Notice("Please specify a valid number.");
+      }
+    }));
+    new import_obsidian.Setting(containerEl).setName("If turned on, do auto backup every X minutes after last change. Prevents auto backup while editing a file. If turned off, do auto backup every X minutes. It's independent from last change.").addToggle((toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
+      plugin.settings.autoBackupAfterFileChange = value;
+      plugin.saveSettings();
+      plugin.clearAutoBackup();
+      if (plugin.settings.autoSaveInterval > 0) {
+        plugin.startAutoBackup(plugin.settings.autoSaveInterval);
       }
     }));
     new import_obsidian.Setting(containerEl).setName("Auto pull interval (minutes)").setDesc("Pull changes every X minutes. To disable automatic pull, specify negative value or zero (default)").addText((text2) => text2.setValue(String(plugin.settings.autoPullInterval)).onChange((value) => {
@@ -6461,20 +6471,23 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
           plugin.clearAutoPull();
           plugin.startAutoPull(plugin.settings.autoPullInterval);
           new import_obsidian.Notice(`Automatic pull enabled! Every ${plugin.settings.autoPullInterval} minutes.`);
-        } else if (plugin.settings.autoPullInterval <= 0 && plugin.timeoutIDPull) {
+        } else if (plugin.settings.autoPullInterval <= 0) {
           plugin.clearAutoPull() && new import_obsidian.Notice("Automatic pull disabled!");
         }
       } else {
         new import_obsidian.Notice("Please specify a valid number.");
       }
     }));
-    new import_obsidian.Setting(containerEl).setName("Commit message").setDesc("Specify custom commit message. Available placeholders: {{date}} (see below) and {{numFiles}} (number of changed files in the commit)").addText((text2) => text2.setPlaceholder("vault backup").setValue(plugin.settings.commitMessage ? plugin.settings.commitMessage : "").onChange((value) => {
+    new import_obsidian.Setting(containerEl).setName("Commit message").setDesc("Specify custom commit message. Available placeholders: {{date}} (see below), {{hostname}} (see below) and {{numFiles}} (number of changed files in the commit)").addText((text2) => text2.setPlaceholder("vault backup").setValue(plugin.settings.commitMessage ? plugin.settings.commitMessage : "").onChange((value) => {
       plugin.settings.commitMessage = value;
       plugin.saveSettings();
     }));
     new import_obsidian.Setting(containerEl).setName("{{date}} placeholder format").setDesc('Specify custom date format. E.g. "YYYY-MM-DD HH:mm:ss"').addText((text2) => text2.setPlaceholder(plugin.settings.commitDateFormat).setValue(plugin.settings.commitDateFormat).onChange((value) => __async(this, null, function* () {
       plugin.settings.commitDateFormat = value;
       yield plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText((text2) => text2.setValue(localStorage.getItem(plugin.manifest.id + ":hostname")).onChange((value) => __async(this, null, function* () {
+      localStorage.setItem(plugin.manifest.id + ":hostname", value);
     })));
     new import_obsidian.Setting(containerEl).setName("Preview commit message").addButton((button) => button.setButtonText("Preview").onClick(() => __async(this, null, function* () {
       let commitMessagePreview = yield plugin.gitManager.formatCommitMessage();
@@ -6528,12 +6541,22 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
       cb.setPlaceholder("git");
       cb.onChange((value) => {
         plugin.settings.gitPath = value;
-        plugin.gitManager.updateGitPath(value || "git");
         plugin.saveSettings();
+        plugin.gitManager.updateGitPath(value || "git");
       });
     });
+    const info = containerEl.createDiv();
+    info.setAttr("align", "center");
+    info.setText("Debugging and logging:\nYou can always see the logs of this and every other plugin by opening the console with");
+    const keys = containerEl.createDiv();
+    keys.setAttr("align", "center");
+    keys.addClass("obsidian-git-shortcuts");
+    keys.createEl("kbd", { text: "CTRL + SHIFT + I" });
   }
 };
+
+// src/statusBar.ts
+var import_obsidian2 = __toModule(require("obsidian"));
 
 // src/types.ts
 var PluginState;
@@ -6550,13 +6573,15 @@ var PluginState;
 // src/statusBar.ts
 var StatusBar = class {
   constructor(statusBarEl, plugin) {
-    this.messages = [];
     this.statusBarEl = statusBarEl;
     this.plugin = plugin;
+    this.messages = [];
+    this.base = "obsidian-git-statusbar-";
+    this.statusBarEl.setAttribute("aria-label-position", "top");
   }
   displayMessage(message, timeout) {
     this.messages.push({
-      message: `git: ${message.slice(0, 100)}`,
+      message: `Git: ${message.slice(0, 100)}`,
       timeout
     });
     this.display();
@@ -6564,6 +6589,8 @@ var StatusBar = class {
   display() {
     if (this.messages.length > 0 && !this.currentMessage) {
       this.currentMessage = this.messages.shift();
+      this.statusBarEl.addClass(this.base + "message");
+      this.statusBarEl.ariaLabel = "";
       this.statusBarEl.setText(this.currentMessage.message);
       this.lastMessageTimestamp = Date.now();
     } else if (this.currentMessage) {
@@ -6582,42 +6609,58 @@ var StatusBar = class {
         this.displayFromNow(this.plugin.lastUpdate);
         break;
       case PluginState.status:
-        this.statusBarEl.setText("git: checking repo status...");
+        this.statusBarEl.ariaLabel = "Checking repository status...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-refresh-cw");
+        this.statusBarEl.addClass(this.base + "status");
         break;
       case PluginState.add:
-        this.statusBarEl.setText("git: adding files to repo...");
+        this.statusBarEl.ariaLabel = "Adding files...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-refresh-w");
+        this.statusBarEl.addClass(this.base + "add");
         break;
       case PluginState.commit:
-        this.statusBarEl.setText("git: committing changes...");
+        this.statusBarEl.ariaLabel = "Committing changes...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-git-commit");
+        this.statusBarEl.addClass(this.base + "commit");
         break;
       case PluginState.push:
-        this.statusBarEl.setText("git: pushing changes...");
+        this.statusBarEl.ariaLabel = "Pushing changes...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-upload");
+        this.statusBarEl.addClass(this.base + "push");
         break;
       case PluginState.pull:
-        this.statusBarEl.setText("git: pulling changes...");
+        this.statusBarEl.ariaLabel = "Pulling changes...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-download");
+        this.statusBarEl.addClass(this.base + "pull");
         break;
       case PluginState.conflicted:
-        this.statusBarEl.setText("git: you have conflict files...");
+        this.statusBarEl.ariaLabel = "You have conflict files...";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-alert-circle");
+        this.statusBarEl.addClass(this.base + "conflict");
         break;
       default:
-        this.statusBarEl.setText("git: failed on initialization!");
+        this.statusBarEl.ariaLabel = "Failed on initialization!";
+        (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-alert-triangle");
+        this.statusBarEl.addClass(this.base + "failed-init");
         break;
     }
   }
   displayFromNow(timestamp) {
     if (timestamp) {
-      let moment = window.moment;
-      let fromNow = moment(timestamp).fromNow();
-      this.statusBarEl.setText(`git: last update ${fromNow}`);
+      const moment = window.moment;
+      const fromNow = moment(timestamp).fromNow();
+      this.statusBarEl.ariaLabel = `Last Git update: ${fromNow}`;
     } else {
-      this.statusBarEl.setText(`git: ready`);
+      this.statusBarEl.ariaLabel = "Git is ready";
     }
+    (0, import_obsidian2.setIcon)(this.statusBarEl, "feather-check");
+    this.statusBarEl.addClass(this.base + "idle");
   }
 };
 
 // src/ui/modals/changedFilesModal.ts
-var import_obsidian2 = __toModule(require("obsidian"));
-var ChangedFilesModal = class extends import_obsidian2.FuzzySuggestModal {
+var import_obsidian3 = __toModule(require("obsidian"));
+var ChangedFilesModal = class extends import_obsidian3.FuzzySuggestModal {
   constructor(plugin, changedFiles) {
     super(plugin.app);
     this.plugin = plugin;
@@ -6649,8 +6692,8 @@ var ChangedFilesModal = class extends import_obsidian2.FuzzySuggestModal {
 };
 
 // src/ui/modals/customMessageModal.ts
-var import_obsidian3 = __toModule(require("obsidian"));
-var CustomMessageModal = class extends import_obsidian3.SuggestModal {
+var import_obsidian4 = __toModule(require("obsidian"));
+var CustomMessageModal = class extends import_obsidian4.SuggestModal {
   constructor(plugin, fromAutoBackup) {
     super(plugin.app);
     this.fromAutoBackup = fromAutoBackup;
@@ -6700,7 +6743,8 @@ var DEFAULT_SETTINGS = {
   showStatusBar: true,
   updateSubmodules: false,
   gitPath: "",
-  customMessageOnAutoBackup: false
+  customMessageOnAutoBackup: false,
+  autoBackupAfterFileChange: false
 };
 var VIEW_CONFIG = {
   type: "git-view",
@@ -6727,6 +6771,10 @@ var GitManager = class {
         status = yield this.status();
         let numFiles = status.staged.length;
         template = template.replace("{{numFiles}}", String(numFiles));
+      }
+      if (template.includes("{{hostname}}")) {
+        const hostname = localStorage.getItem(this.plugin.manifest.id + ":hostname") || "";
+        template = template.replace("{{hostname}}", hostname);
       }
       if (template.includes("{{files}}")) {
         status = status != null ? status : yield this.status();
@@ -6759,12 +6807,16 @@ var GitManager = class {
 var SimpleGit = class extends GitManager {
   constructor(plugin) {
     super(plugin);
-    const adapter = this.app.vault.adapter;
-    const path3 = adapter.getBasePath();
+    this.setGitInstance();
+  }
+  setGitInstance() {
     if (this.isGitInstalled()) {
+      const adapter = this.app.vault.adapter;
+      const path3 = adapter.getBasePath();
       this.git = (0, simple.default)({
         baseDir: path3,
-        binary: this.plugin.settings.gitPath || void 0
+        binary: this.plugin.settings.gitPath || void 0,
+        config: ["core.quotepath=off"]
       });
     }
   }
@@ -7003,10 +7055,10 @@ var SimpleGit = class extends GitManager {
     });
   }
   updateGitPath(gitPath) {
-    return this.git.customBinary(gitPath);
+    this.setGitInstance();
   }
   isGitInstalled() {
-    const command = (0, import_child_process.spawnSync)("git", ["--version"], {
+    const command = (0, import_child_process.spawnSync)(this.plugin.settings.gitPath || "git", ["--version"], {
       stdio: "ignore"
     });
     if (command.error) {
@@ -7018,17 +7070,18 @@ var SimpleGit = class extends GitManager {
   onError(error) {
     if (error) {
       this.plugin.displayError(error.message);
+      this.plugin.setState(PluginState.idle);
     }
   }
 };
 
 // node_modules/obsidian-community-lib/dist/utils.js
 var feather = __toModule(require_feather());
-var import_obsidian4 = __toModule(require("obsidian"));
+var import_obsidian5 = __toModule(require("obsidian"));
 function addFeatherIcon(name, attr2 = { viewBox: "0 0 24 24", width: "100", height: "100" }) {
   if (feather.icons[name]) {
     const iconName = `feather-${name}`;
-    (0, import_obsidian4.addIcon)(iconName, feather.icons[name].toSvg(attr2));
+    (0, import_obsidian5.addIcon)(iconName, feather.icons[name].toSvg(attr2));
     return iconName;
   } else {
     throw Error(`This Icon (${name}) doesn't exist in the Feather Library.`);
@@ -7047,37 +7100,27 @@ function hoverPreview(event, view, to) {
 function createNewMDNote(app, newName, currFilePath = "") {
   return __async(this, null, function* () {
     const newFileFolder = app.fileManager.getNewFileParent(currFilePath).path;
-    const newFilePath = (0, import_obsidian4.normalizePath)(`${newFileFolder}${newFileFolder === "/" ? "" : "/"}${addMD(newName)}`);
+    const newFilePath = (0, import_obsidian5.normalizePath)(`${newFileFolder}${newFileFolder === "/" ? "" : "/"}${addMD(newName)}`);
     return yield app.vault.create(newFilePath, "");
   });
 }
 var addMD = (noteName) => {
-  let withMD = noteName.slice();
-  if (!withMD.endsWith(".md")) {
-    withMD += ".md";
-  }
-  return withMD;
-};
-var stripMD = (noteName) => {
-  if (noteName.endsWith(".md")) {
-    return noteName.split(".md").slice(0, -1).join(".md");
-  } else
-    return noteName;
+  return noteName.endsWith(".md") ? noteName : noteName + ".md";
 };
 function openOrSwitch(_0, _1, _2) {
   return __async(this, arguments, function* (app, dest, event, options = { createNewFile: true }) {
     const { workspace } = app;
-    const destStripped = stripMD(dest);
-    let destFile = app.metadataCache.getFirstLinkpathDest(destStripped, "");
+    let destFile = app.metadataCache.getFirstLinkpathDest(dest, "");
     if (!destFile && options.createNewFile) {
-      destFile = yield createNewMDNote(app, destStripped);
-    } else if (!destFile && options.createNewFile)
+      destFile = yield createNewMDNote(app, dest);
+    } else if (!destFile && !options.createNewFile)
       return;
     const leavesWithDestAlreadyOpen = [];
     workspace.iterateAllLeaves((leaf) => {
-      var _a, _b;
-      if (leaf.view instanceof import_obsidian4.MarkdownView) {
-        if (((_b = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file) === null || _b === void 0 ? void 0 : _b.basename) === destStripped) {
+      var _a;
+      if (leaf.view instanceof import_obsidian5.MarkdownView) {
+        const file = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file;
+        if (file && file.basename + "." + file.extension === dest) {
           leavesWithDestAlreadyOpen.push(leaf);
         }
       }
@@ -7104,11 +7147,14 @@ function addIcons() {
   addFeatherIcon("plus");
   addFeatherIcon("skip-back");
   addFeatherIcon("minus");
+  addFeatherIcon("alert-circle");
+  addFeatherIcon("alert-triangle");
+  addFeatherIcon("git-commit");
 }
 
 // src/ui/modals/generalModal.ts
-var import_obsidian5 = __toModule(require("obsidian"));
-var GeneralModal = class extends import_obsidian5.SuggestModal {
+var import_obsidian6 = __toModule(require("obsidian"));
+var GeneralModal = class extends import_obsidian6.SuggestModal {
   constructor(app, remotes, placeholder) {
     super(app);
     this.resolve = null;
@@ -7141,7 +7187,7 @@ var GeneralModal = class extends import_obsidian5.SuggestModal {
 };
 
 // src/ui/sidebar/sidebarView.ts
-var import_obsidian10 = __toModule(require("obsidian"));
+var import_obsidian11 = __toModule(require("obsidian"));
 
 // node_modules/svelte/internal/index.mjs
 function noop() {
@@ -7653,19 +7699,19 @@ function init(component, options, instance4, create_fragment4, not_equal, props,
     root: options.target || parent_component.$$.root
   };
   append_styles2 && append_styles2($$.root);
-  let ready = false;
+  let ready2 = false;
   $$.ctx = instance4 ? instance4(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
     if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
       if (!$$.skip_bound && $$.bound[i])
         $$.bound[i](value);
-      if (ready)
+      if (ready2)
         make_dirty(component, i);
     }
     return ret;
   }) : [];
   $$.update();
-  ready = true;
+  ready2 = true;
   run_all($$.before_update);
   $$.fragment = create_fragment4 ? create_fragment4($$.ctx) : false;
   if (options.target) {
@@ -7751,7 +7797,7 @@ var SvelteComponent = class {
 };
 
 // src/ui/sidebar/gitView.svelte
-var import_obsidian9 = __toModule(require("obsidian"));
+var import_obsidian10 = __toModule(require("obsidian"));
 
 // node_modules/svelte/easing/index.mjs
 function cubicOut(t) {
@@ -7779,11 +7825,11 @@ function slide(node, { delay = 0, duration = 400, easing = cubicOut } = {}) {
 }
 
 // src/ui/sidebar/components/fileComponent.svelte
-var import_obsidian7 = __toModule(require("obsidian"));
+var import_obsidian8 = __toModule(require("obsidian"));
 
 // src/ui/modals/discardModal.ts
-var import_obsidian6 = __toModule(require("obsidian"));
-var DiscardModal = class extends import_obsidian6.Modal {
+var import_obsidian7 = __toModule(require("obsidian"));
+var DiscardModal = class extends import_obsidian7.Modal {
   constructor(app, deletion, filename) {
     super(app);
     this.deletion = deletion;
@@ -7801,7 +7847,7 @@ var DiscardModal = class extends import_obsidian6.Modal {
     titleEl.setText(`${this.deletion ? "Delete" : "Discard"} this file?`);
     contentEl.createEl("h4").setText(`Do you really want to ${this.deletion ? "delete" : "discard the changes of"} "${this.filename}"`);
     const div = contentEl.createDiv();
-    div.addClass("center");
+    div.addClass("obsidian-git-center");
     div.createEl("button", { text: "Cancel" }).addEventListener("click", () => {
       if (this.resolve)
         this.resolve(false);
@@ -7933,7 +7979,7 @@ function instance($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-  setImmediate(() => buttons.forEach((b) => (0, import_obsidian7.setIcon)(b, b.getAttr("data-icon"), 16)));
+  setImmediate(() => buttons.forEach((b) => (0, import_obsidian8.setIcon)(b, b.getAttr("data-icon"), 16)));
   const dispatch2 = createEventDispatcher();
   function hover(event) {
     if (!change.path.startsWith(view.app.vault.configDir) || !change.path.startsWith(".")) {
@@ -8019,7 +8065,7 @@ var FileComponent = class extends SvelteComponent {
 var fileComponent_default = FileComponent;
 
 // src/ui/sidebar/components/stagedFileComponent.svelte
-var import_obsidian8 = __toModule(require("obsidian"));
+var import_obsidian9 = __toModule(require("obsidian"));
 function add_css2(target) {
   append_styles(target, "svelte-1m5vxuz", "main.svelte-1m5vxuz.svelte-1m5vxuz.svelte-1m5vxuz{background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-1m5vxuz .path.svelte-1m5vxuz.svelte-1m5vxuz{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-1m5vxuz .path.svelte-1m5vxuz.svelte-1m5vxuz:hover{color:var(--text-normal);transition:all 200ms}main.svelte-1m5vxuz .tools.svelte-1m5vxuz.svelte-1m5vxuz{display:flex;align-items:center}main.svelte-1m5vxuz .tools .type.svelte-1m5vxuz.svelte-1m5vxuz{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-1m5vxuz .tools .type[data-type=M].svelte-1m5vxuz.svelte-1m5vxuz{color:orange}main.svelte-1m5vxuz .tools .type[data-type=D].svelte-1m5vxuz.svelte-1m5vxuz{color:red}main.svelte-1m5vxuz .tools .type[data-type=A].svelte-1m5vxuz.svelte-1m5vxuz{color:yellowgreen}main.svelte-1m5vxuz .tools .type[data-type=R].svelte-1m5vxuz.svelte-1m5vxuz{color:violet}main.svelte-1m5vxuz .tools .buttons.svelte-1m5vxuz.svelte-1m5vxuz{display:flex}main.svelte-1m5vxuz .tools .buttons.svelte-1m5vxuz>.svelte-1m5vxuz{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-1m5vxuz .tools .buttons.svelte-1m5vxuz>.svelte-1m5vxuz:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
 }
@@ -8120,7 +8166,7 @@ function instance2($$self, $$props, $$invalidate) {
   let { manager } = $$props;
   let buttons = [];
   const dispatch2 = createEventDispatcher();
-  setImmediate(() => buttons.forEach((b) => (0, import_obsidian8.setIcon)(b, b.getAttr("data-icon"), 16)));
+  setImmediate(() => buttons.forEach((b) => (0, import_obsidian9.setIcon)(b, b.getAttr("data-icon"), 16)));
   function hover(event) {
     if (!change.path.startsWith(view.app.vault.configDir) || !change.path.startsWith(".")) {
       hoverPreview(event, view, formattedPath.split("/").last().replace(".md", ""));
@@ -8860,11 +8906,11 @@ function instance3($$self, $$props, $$invalidate) {
   let changesOpen = true;
   let stagedOpen = true;
   let loading = true;
-  const debRefresh = (0, import_obsidian9.debounce)(() => refresh(), 3e5);
+  const debRefresh = (0, import_obsidian10.debounce)(() => refresh(), 3e5);
   const interval = window.setInterval(refresh, 6e5);
   let event;
   plugin.app.workspace.onLayoutReady(() => setImmediate(() => {
-    buttons.forEach((btn) => (0, import_obsidian9.setIcon)(btn, btn.getAttr("data-icon"), 16));
+    buttons.forEach((btn) => (0, import_obsidian10.setIcon)(btn, btn.getAttr("data-icon"), 16));
     refresh();
     event = plugin.app.metadataCache.on("resolved", () => {
       debRefresh();
@@ -8907,14 +8953,11 @@ function instance3($$self, $$props, $$invalidate) {
   }
   function push() {
     $$invalidate(7, loading = true);
-    plugin.remotesAreSet().then((ready) => {
-      if (ready) {
-        plugin.gitManager.push().then((pushedFiles) => {
-          plugin.displayMessage(`Pushed ${pushedFiles} files to remote`);
-          refresh();
-        });
-      }
-    });
+    if (ready) {
+      plugin.push().then((pushedFiles) => {
+        refresh();
+      });
+    }
   }
   function pull() {
     $$invalidate(7, loading = true);
@@ -9007,7 +9050,7 @@ var GitView = class extends SvelteComponent {
 var gitView_default = GitView;
 
 // src/ui/sidebar/sidebarView.ts
-var GitView2 = class extends import_obsidian10.ItemView {
+var GitView2 = class extends import_obsidian11.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -9039,7 +9082,7 @@ var GitView2 = class extends import_obsidian10.ItemView {
 };
 
 // src/main.ts
-var ObsidianGit = class extends import_obsidian11.Plugin {
+var ObsidianGit = class extends import_obsidian12.Plugin {
   constructor() {
     super(...arguments);
     this.gitReady = false;
@@ -9078,13 +9121,33 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
       });
       this.addCommand({
         id: "pull",
-        name: "Pull from remote repository",
+        name: "Pull",
         callback: () => this.promiseQueue.addTask(() => this.pullChangesFromRemote())
       });
       this.addCommand({
         id: "push",
         name: "Create backup",
         callback: () => this.promiseQueue.addTask(() => this.createBackup(false))
+      });
+      this.addCommand({
+        id: "commit-push-specified-message",
+        name: "Create backup with specific message",
+        callback: () => this.promiseQueue.addTask(() => this.createBackup(false, true))
+      });
+      this.addCommand({
+        id: "commit",
+        name: "Commit all changes",
+        callback: () => this.promiseQueue.addTask(() => this.commit(false))
+      });
+      this.addCommand({
+        id: "commit-specified-message",
+        name: "Commit all changes with specific message",
+        callback: () => this.promiseQueue.addTask(() => this.commit(false, true))
+      });
+      this.addCommand({
+        id: "push2",
+        name: "Push",
+        callback: () => this.promiseQueue.addTask(() => this.push())
       });
       this.addCommand({
         id: "edit-remotes",
@@ -9115,11 +9178,6 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
         })
       });
       this.addCommand({
-        id: "commit-push-specified-message",
-        name: "Create backup with specified message",
-        callback: () => this.promiseQueue.addTask(() => this.createBackup(false, true))
-      });
-      this.addCommand({
         id: "list-changed-files",
         name: "List changed files",
         callback: () => __async(this, null, function* () {
@@ -9140,8 +9198,8 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
     return __async(this, null, function* () {
       this.app.workspace.unregisterHoverLinkSource(VIEW_CONFIG.type);
       this.app.workspace.detachLeavesOfType(VIEW_CONFIG.type);
-      window.clearTimeout(this.timeoutIDBackup);
-      window.clearTimeout(this.timeoutIDPull);
+      this.clearAutoPull();
+      this.clearAutoBackup();
       console.log("unloading " + this.manifest.name + " plugin");
     });
   }
@@ -9183,7 +9241,7 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
             this.displayError("Cannot run git command");
             break;
           case "missing-repo":
-            new import_obsidian11.Notice("Can't find a valid git repository. Please create one via the given command.");
+            new import_obsidian12.Notice("Can't find a valid git repository. Please create one via the given command.");
             break;
           case "valid":
             this.gitReady = true;
@@ -9215,7 +9273,7 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
   createNewRepo() {
     return __async(this, null, function* () {
       yield this.gitManager.init();
-      new import_obsidian11.Notice("Initialized new repo");
+      new import_obsidian12.Notice("Initialized new repo");
     });
   }
   cloneNewRepo() {
@@ -9226,9 +9284,9 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
         let dir = yield new GeneralModal(this.app, [], "Enter directory for clone. It needs to be empty or not existent.").open();
         if (dir) {
           dir = path2.normalize(dir);
-          new import_obsidian11.Notice(`Cloning new repo into "${dir}"`);
+          new import_obsidian12.Notice(`Cloning new repo into "${dir}"`);
           yield this.gitManager.clone(url, dir);
-          new import_obsidian11.Notice("Cloned new repo");
+          new import_obsidian12.Notice("Cloned new repo");
         }
       }
     });
@@ -9245,10 +9303,8 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
     return __async(this, null, function* () {
       if (!(yield this.isAllInitialized()))
         return;
-      const filesUpdated = yield this.gitManager.pull();
-      if (filesUpdated > 0) {
-        this.displayMessage(`Pulled new changes. ${filesUpdated} files updated`);
-      } else {
+      const filesUpdated = yield this.pull();
+      if (filesUpdated == 0) {
         this.displayMessage("Everything is up-to-date");
       }
       if (this.gitManager instanceof SimpleGit) {
@@ -9278,47 +9334,15 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
           return;
         }
       }
-      const changedFiles = (yield this.gitManager.status()).changed;
-      if (changedFiles.length !== 0) {
-        let commitMessage;
-        if (fromAutoBackup && this.settings.customMessageOnAutoBackup || requestCustomMessage) {
-          if (!this.settings.disablePopups && fromAutoBackup) {
-            new import_obsidian11.Notice("Auto backup: Please enter a custom commit message. Leave empty to abort");
-          }
-          const tempMessage = yield new CustomMessageModal(this, true).open();
-          if (tempMessage != void 0 && tempMessage != "" && tempMessage != "...") {
-            commitMessage = tempMessage;
-          } else {
-            this.setState(PluginState.idle);
-            return;
-          }
-        }
-        const commitedFiles = yield this.gitManager.commitAll(commitMessage);
-        this.displayMessage(`Committed ${commitedFiles} files`);
-      } else {
-        this.displayMessage("No changes to commit");
-      }
+      if (!(yield this.commit(fromAutoBackup, requestCustomMessage)))
+        return;
       if (!this.settings.disablePush) {
-        if (!this.remotesAreSet()) {
-          return;
-        }
         if (yield this.gitManager.canPush()) {
           if (this.settings.pullBeforePush) {
-            const pulledFilesLength = yield this.gitManager.pull();
-            if (pulledFilesLength > 0) {
-              this.displayMessage(`Pulled ${pulledFilesLength} files from remote`);
-            }
+            yield this.pull();
           }
-          let status;
-          if (this.gitManager instanceof SimpleGit && (status = yield this.gitManager.status()).conflicted.length > 0) {
-            this.displayError(`Cannot push. You have ${status.conflicted.length} conflict files`);
-            this.handleConflict(status.conflicted);
+          if (!(yield this.push()))
             return;
-          } else {
-            const pushedFiles = yield this.gitManager.push();
-            this.lastUpdate = Date.now();
-            this.displayMessage(`Pushed ${pushedFiles} files to remote`);
-          }
         } else {
           this.displayMessage("No changes to push");
         }
@@ -9326,10 +9350,68 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
       this.setState(PluginState.idle);
     });
   }
+  commit(fromAutoBackup, requestCustomMessage = false) {
+    return __async(this, null, function* () {
+      if (!(yield this.isAllInitialized()))
+        return false;
+      const changedFiles = (yield this.gitManager.status()).changed;
+      if (changedFiles.length !== 0) {
+        let commitMessage;
+        if (fromAutoBackup && this.settings.customMessageOnAutoBackup || requestCustomMessage) {
+          if (!this.settings.disablePopups && fromAutoBackup) {
+            new import_obsidian12.Notice("Auto backup: Please enter a custom commit message. Leave empty to abort");
+          }
+          const tempMessage = yield new CustomMessageModal(this, true).open();
+          if (tempMessage != void 0 && tempMessage != "" && tempMessage != "...") {
+            commitMessage = tempMessage;
+          } else {
+            this.setState(PluginState.idle);
+            return false;
+          }
+        }
+        const commitedFiles = yield this.gitManager.commitAll(commitMessage);
+        this.displayMessage(`Committed ${commitedFiles} files`);
+      } else {
+        this.displayMessage("No changes to commit");
+      }
+      this.setState(PluginState.idle);
+      return true;
+    });
+  }
+  push() {
+    return __async(this, null, function* () {
+      if (!(yield this.isAllInitialized()))
+        return false;
+      if (!this.remotesAreSet()) {
+        return false;
+      }
+      let status;
+      if (this.gitManager instanceof SimpleGit && (status = yield this.gitManager.status()).conflicted.length > 0) {
+        this.displayError(`Cannot push. You have ${status.conflicted.length} conflict files`);
+        this.handleConflict(status.conflicted);
+        return false;
+      } else {
+        const pushedFiles = yield this.gitManager.push();
+        this.lastUpdate = Date.now();
+        this.displayMessage(`Pushed ${pushedFiles} files to remote`);
+        this.setState(PluginState.idle);
+        return true;
+      }
+    });
+  }
+  pull() {
+    return __async(this, null, function* () {
+      const pulledFilesLength = yield this.gitManager.pull();
+      if (pulledFilesLength > 0) {
+        this.displayMessage(`Pulled ${pulledFilesLength} files from remote`);
+      }
+      return pulledFilesLength;
+    });
+  }
   remotesAreSet() {
     return __async(this, null, function* () {
       if (!(yield this.gitManager.branchInfo()).tracking) {
-        new import_obsidian11.Notice("No upstream branch is set. Please select one.");
+        new import_obsidian12.Notice("No upstream branch is set. Please select one.");
         const remoteBranch = yield this.selectRemoteBranch();
         if (remoteBranch == void 0) {
           this.displayError("Did not push. No upstream-branch is set!", 1e4);
@@ -9344,12 +9426,23 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
     });
   }
   startAutoBackup(minutes) {
-    this.timeoutIDBackup = window.setTimeout(() => {
-      this.promiseQueue.addTask(() => this.createBackup(true));
-      this.saveLastAuto(new Date(), "backup");
-      this.saveSettings();
-      this.startAutoBackup();
-    }, (minutes != null ? minutes : this.settings.autoSaveInterval) * 6e4);
+    const time = (minutes != null ? minutes : this.settings.autoSaveInterval) * 6e4;
+    if (this.settings.autoBackupAfterFileChange) {
+      if (minutes === 0) {
+        this.doAutoBackup();
+      } else {
+        this.onFileModifyEventRef = this.app.vault.on("modify", () => this.autoBackupDebouncer());
+        this.autoBackupDebouncer = (0, import_obsidian12.debounce)(() => this.doAutoBackup(), time, true);
+      }
+    } else {
+      this.timeoutIDBackup = window.setTimeout(() => this.doAutoBackup(), time);
+    }
+  }
+  doAutoBackup() {
+    this.promiseQueue.addTask(() => this.createBackup(true));
+    this.saveLastAuto(new Date(), "backup");
+    this.saveSettings();
+    this.startAutoBackup();
   }
   startAutoPull(minutes) {
     this.timeoutIDPull = window.setTimeout(() => {
@@ -9360,15 +9453,25 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
     }, (minutes != null ? minutes : this.settings.autoPullInterval) * 6e4);
   }
   clearAutoBackup() {
+    var _a;
+    let wasActive = false;
     if (this.timeoutIDBackup) {
       window.clearTimeout(this.timeoutIDBackup);
-      return true;
+      this.timeoutIDBackup = void 0;
+      wasActive = true;
     }
-    return false;
+    if (this.onFileModifyEventRef) {
+      (_a = this.autoBackupDebouncer) == null ? void 0 : _a.cancel();
+      this.app.vault.offref(this.onFileModifyEventRef);
+      this.onFileModifyEventRef = void 0;
+      wasActive = true;
+    }
+    return wasActive;
   }
   clearAutoPull() {
     if (this.timeoutIDPull) {
       window.clearTimeout(this.timeoutIDPull);
+      this.timeoutIDPull = void 0;
       return true;
     }
     return false;
@@ -9381,7 +9484,7 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
         "Please resolve them and commit per command (This file will be deleted before the commit).",
         ...conflicted.map((e) => {
           const file = this.app.vault.getAbstractFileByPath(e);
-          if (file instanceof import_obsidian11.TFile) {
+          if (file instanceof import_obsidian12.TFile) {
             const link = this.app.metadataCache.fileToLinktext(file, "/");
             return `- [[${link}]]`;
           } else {
@@ -9458,14 +9561,14 @@ var ObsidianGit = class extends import_obsidian11.Plugin {
     var _a;
     (_a = this.statusBar) == null ? void 0 : _a.displayMessage(message.toLowerCase(), timeout);
     if (!this.settings.disablePopups) {
-      new import_obsidian11.Notice(message);
+      new import_obsidian12.Notice(message, 5 * 1e3);
     }
     console.log(`git obsidian message: ${message}`);
   }
   displayError(message, timeout = 0) {
     var _a;
     message = message.toString();
-    new import_obsidian11.Notice(message);
+    new import_obsidian12.Notice(message, 15 * 1e3);
     console.log(`git obsidian error: ${message}`);
     (_a = this.statusBar) == null ? void 0 : _a.displayMessage(message.toLowerCase(), timeout);
   }

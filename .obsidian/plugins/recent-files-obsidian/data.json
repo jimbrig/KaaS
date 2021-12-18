@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Unix Philosophy",
+      "path": "0-Slipbox/Unix Philosophy.md"
+    },
+    {
+      "basename": "_README",
+      "path": "0-Slipbox/_README.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "basename": "_README",
+      "path": "3-Resources/_README.md"
+    },
+    {
+      "basename": "Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1",
+      "path": "3-Resources/PDFs/Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf"
+    },
+    {
       "basename": "2021-12-18",
       "path": "2-Areas/Daily-Notes/2021-12-18.md"
     },
@@ -162,15 +186,7 @@
     },
     {
       "basename": "_README",
-      "path": "0-Slipbox/_README.md"
-    },
-    {
-      "basename": "_README",
       "path": "3-Resources/Tools/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/_README.md"
     },
     {
       "basename": "_README",
@@ -183,22 +199,6 @@
     {
       "basename": "Azure Setup Guide",
       "path": "0-Slipbox/Azure Setup Guide.md"
-    },
-    {
-      "basename": "2021-12-01",
-      "path": "2-Areas/Daily-Notes/2021-12-01.md"
-    },
-    {
-      "basename": "Daily-Note-Template",
-      "path": "3-Resources/Templates/Daily-Note-Template.md"
-    },
-    {
-      "basename": "2021-11-28",
-      "path": "2-Areas/Daily-Notes/2021-11-28.md"
-    },
-    {
-      "basename": "MEGA CMD",
-      "path": "3-Resources/Tools/MEGA CMD.md"
     }
   ],
   "omittedPaths": [],

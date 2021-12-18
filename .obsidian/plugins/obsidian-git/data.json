@@ -11,5 +11,6 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "gitPath": "",
-  "customMessageOnAutoBackup": false
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": false
 }

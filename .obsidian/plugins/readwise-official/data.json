@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2347155,
-  "currentSyncStatusID": 2410275,
+  "lastSavedStatusID": 2410275,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1349,7 +1349,10 @@
     "3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md": "12146183",
     "3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md": "12176858",
     "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md": "12176857",
-    "3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md": "12176856"
+    "3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md": "12176856",
+    "3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md": "12322212",
+    "3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329115",
+    "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329114"
   },
   "reimportShowConfirmation": true
 }

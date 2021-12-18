@@ -461,3 +461,8 @@
     - 1 highlights from Assign Global Hotkeys to Launch Any App in Windows 10
     - 1 highlights from List of Shell Commands in Windows 10
 
+- [[2021-12-18]] 12:36 PM — Synced 52 highlights from 3 documents.
+    - 10 highlights from ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
+    - 29 highlights from The Baker’s Dozen: 13 Tips for Better Extract/Transform/Load (ETL) Practices in Data Warehousing
+    - 13 highlights from Better Extract/Transform/Load (ETL) Practices in Data Warehousing
+

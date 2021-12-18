@@ -1,4 +1,4 @@
-- 2021-12-18 at 12h39 · [[Unix Philosophy]]
+- 2021-12-18 at 12h42 · [[Unix Philosophy]]
 - 2021-12-18 at 12h36 · [[Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
 - 2021-12-18 at 12h36 · [[The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
 - 2021-12-18 at 12h36 · [[ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks]]

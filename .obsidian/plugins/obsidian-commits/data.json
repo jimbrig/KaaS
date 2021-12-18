@@ -3560,7 +3560,7 @@
       "links": 3
     },
     "0-Slipbox/Unix Philosophy.md": {
-      "size": 0,
+      "size": 2706,
       "tags": 2,
       "links": 0
     },
@@ -3585,7 +3585,7 @@
       "Refactor": 1254,
       "Create": 1167,
       "Link": 2166,
-      "Expand": 92
+      "Expand": 93
     }
   },
   "dailyCommits": {
@@ -3602,7 +3602,7 @@
       "9": 4,
       "10": 20,
       "11": 105,
-      "12": 164,
+      "12": 165,
       "13": 34,
       "14": 499,
       "15": 153,
@@ -3624,12 +3624,13 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 593
+      "Sun": 594
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
@@ -3679,8 +3680,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>",
         "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/PCDM - Property Casualty Data Model.md\"> PCDM - Property Casualty Data Model </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",

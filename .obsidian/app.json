@@ -76,5 +76,6 @@
     "CDFs",
     "dimensionality"
   ],
-  "livePreview": false
+  "livePreview": true,
+  "legacyEditor": false
 }

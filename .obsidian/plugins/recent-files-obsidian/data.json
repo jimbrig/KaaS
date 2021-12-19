@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2021-12-18",
       "path": "2-Areas/Daily-Notes/2021-12-18.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-04",
       "path": "2-Areas/Daily-Notes/2021-12-04.md"
-    },
-    {
-      "basename": "Azure Setup Guide",
-      "path": "0-Slipbox/Azure Setup Guide.md"
     }
   ],
   "omittedPaths": [],

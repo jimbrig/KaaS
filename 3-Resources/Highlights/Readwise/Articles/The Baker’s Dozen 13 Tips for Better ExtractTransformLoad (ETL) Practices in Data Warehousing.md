@@ -3,7 +3,7 @@ Date: 2021-12-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Readwise" ]
 Aliases: []
 ---
 # The Baker’s Dozen: 13 Tips for Better Extract/Transform/Load (ETL) Practices in Data Warehousing
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[codemag.com]]
 - Full Title: The Baker’s Dozen: 13 Tips for Better Extract/Transform/Load (ETL) Practices in Data Warehousing
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2
 
 ## Highlights

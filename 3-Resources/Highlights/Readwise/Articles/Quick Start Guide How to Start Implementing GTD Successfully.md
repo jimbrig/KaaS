@@ -3,7 +3,7 @@ Date: 2021-11-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2d1637f0ce0c
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Readwise" ]
 Aliases: []
 ---
 # Quick Start Guide: How to Start Implementing GTD Successfully

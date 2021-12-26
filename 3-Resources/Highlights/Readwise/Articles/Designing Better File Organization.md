@@ -3,7 +3,7 @@ Date: 2021-12-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d0a3c0de9906
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Readwise" ]
 Aliases: []
 ---
 # Designing Better File Organization

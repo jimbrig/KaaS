@@ -466,3 +466,7 @@
     - 29 highlights from The Baker’s Dozen: 13 Tips for Better Extract/Transform/Load (ETL) Practices in Data Warehousing
     - 13 highlights from Better Extract/Transform/Load (ETL) Practices in Data Warehousing
 
+- [[2021-12-26]] 4:49 PM — Synced 2 highlights from 2 documents.
+    - 1 highlights from Loss Data Analytics - Loss Reserving
+    - 1 highlights from P.A.R.A. V: The Project List Mindsweep
+

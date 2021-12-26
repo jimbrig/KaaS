@@ -3,7 +3,7 @@ Date: 2021-12-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/553409238509
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Readwise" ]
 Aliases: []
 ---
 # ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Katarina Harbuzava]]
 - Full Title: ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/553409238509
 
 ## Highlights

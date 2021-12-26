@@ -3,7 +3,7 @@ Date: 2021-12-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://codemag.com/article/1803051
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Readwise" ]
 Aliases: []
 ---
 # Better Extract/Transform/Load (ETL) Practices in Data Warehousing
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[codemag.com]]
 - Full Title: Better Extract/Transform/Load (ETL) Practices in Data Warehousing
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://codemag.com/article/1803051
 
 ## Highlights

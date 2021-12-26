@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2410275,
-  "currentSyncStatusID": 2458127,
+  "lastSavedStatusID": 2458127,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1352,7 +1352,9 @@
     "3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md": "12176856",
     "3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md": "12322212",
     "3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329115",
-    "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329114"
+    "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329114",
+    "3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md": "12398975",
+    "3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md": "12410775"
   },
   "reimportShowConfirmation": true
 }

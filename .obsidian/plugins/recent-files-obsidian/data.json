@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Assign Global Hotkeys to Launch Any App in Windows 10",
+      "path": "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "0-Slipbox/SQLite.md"
+    },
+    {
       "basename": "2021-12-26",
       "path": "2-Areas/Daily-Notes/2021-12-26.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2021-12-05",
       "path": "2-Areas/Daily-Notes/2021-12-05.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/Tools/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "4-Archives/Guidance/_README.md"
     }
   ],
   "omittedPaths": [],

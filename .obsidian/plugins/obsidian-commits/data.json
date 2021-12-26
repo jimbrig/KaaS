@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3583,13 +3583,28 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2021-12-26.md": {
+      "size": 356,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md": {
+      "size": 1097,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md": {
+      "size": 538,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1254,
-      "Create": 1168,
-      "Link": 2166,
+      "Create": 1171,
+      "Link": 2172,
       "Expand": 93
     }
   },
@@ -3611,7 +3626,7 @@
       "13": 34,
       "14": 499,
       "15": 153,
-      "16": 57,
+      "16": 66,
       "17": 214,
       "18": 1273,
       "19": 100,
@@ -3629,7 +3644,7 @@
       "Thu": 1965,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 595
+      "Sun": 604
     }
   },
   "recentCommits": {
@@ -3688,6 +3703,9 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
@@ -3735,10 +3753,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Improving the Security of Your Cloud Run Environment  Google Cloud Blog.md\"> Improving the Security of Your Cloud Run Environment  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog.md\"> Cloud Run Gets Always-On CPU Allocation  Google Cloud Blog </a>"
+        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
@@ -3794,6 +3809,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
@@ -3841,10 +3859,7 @@
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-26.md\"> 2021-11-26 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Microservices Architecture on Google Cloud  Google Cloud Blog.md\"> Microservices Architecture on Google Cloud  Google Cloud Blog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/What Is Cloud CDN and How Does It Work  Google Cloud Blog.md\"> What Is Cloud CDN and How Does It Work  Google Cloud Blog </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3905,6 +3920,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
@@ -3952,10 +3970,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
         "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>"
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -44,19 +44,29 @@ Alias: "Actuarial Property Casualty Data Thoughts"
 
 ## Flow
 
-1. Raw Data
-2. Working Data
-3. Prior, Reference, and Industry Data
-4. Summary Tables
-5. Triangles
-6. Selection of Development Factors
-7. Derivation of Actual vs. Expected comparing to P
+1. Raw Data -> Working Data + Prior, Reference, and Industry Data
+2. Summary Tables
+3. Triangles
+4. Selection of Development Factors
+5. Interpolation and Extrapolation of Factors (i.e. Persistencies, decay factors, ILFs, interpolation methods, seasonality, priors, industry, weighted averages)
+6. Derivation of Discount factors based off paid loss development pattern
+7. Derivation of Actual vs. Expected comparing to Prior and using prior's interpolated Development Factors (with prior interpolation logic/persistencies)
+	- *Note: Common to adjust latest periods for updates to exposures*
+8. Initial Development Ultimates
+9. Selection of Rates, Trends, Experience Factors, Credibility Weighting Factors, etc.
+10. Selected Ultimates
+11. Derivation of Unpaid Reserves (discounted and undiscounted)
+12. Simulation and confidence intervals for unpaid reserves
+13. Allocation of unpaid reserves/future premiums to entities
 
 ***
 
 #### Related
 
-- [[Development]]
+- [[Actuarial Science]]
+- [[Data Science]]
+- [[Databases]]
+- 
 
 *Backlinks:*
 

@@ -3625,7 +3625,7 @@
       "links": 5
     },
     "0-Slipbox/Actuarial Property Casualty Data Thoughts.md": {
-      "size": 0,
+      "size": 2226,
       "tags": 3,
       "links": 1
     }
@@ -3635,14 +3635,14 @@
       "Refactor": 1255,
       "Create": 1177,
       "Link": 2189,
-      "Expand": 94
+      "Expand": 95
     }
   },
   "dailyCommits": {
     "/": {
       "0": 1,
       "1": 1976,
-      "2": 7,
+      "2": 8,
       "3": 0,
       "4": 0,
       "5": 0,
@@ -3669,7 +3669,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 257,
+      "Tue": 258,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3680,6 +3680,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
@@ -3729,8 +3730,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>",
-        "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>"
+        "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",

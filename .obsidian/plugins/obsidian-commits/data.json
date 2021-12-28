@@ -3627,14 +3627,14 @@
     "0-Slipbox/Actuarial Property Casualty Data Thoughts.md": {
       "size": 2226,
       "tags": 3,
-      "links": 1
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1255,
       "Create": 1177,
-      "Link": 2189,
+      "Link": 2190,
       "Expand": 95
     }
   },
@@ -3642,7 +3642,7 @@
     "/": {
       "0": 1,
       "1": 1976,
-      "2": 8,
+      "2": 9,
       "3": 0,
       "4": 0,
       "5": 0,
@@ -3669,7 +3669,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 258,
+      "Tue": 259,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3950,6 +3950,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/zsh.md\"> zsh </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -3999,8 +4000,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

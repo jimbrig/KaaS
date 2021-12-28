@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Development Master Resource List",
+      "path": "0-Slipbox/Actuarial Development Master Resource List.md"
+    },
+    {
+      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
+      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
+    },
+    {
+      "basename": "Software Development",
+      "path": "2-Areas/MOCs/Software Development.md"
+    },
+    {
       "basename": "Actuarial Property Casualty Data Thoughts",
       "path": "0-Slipbox/Actuarial Property Casualty Data Thoughts.md"
     },
@@ -161,20 +173,12 @@
       "path": "3-Resources/Tools/Azure Data Studio.md"
     },
     {
-      "basename": "Actuarial Data Science and Financial Modeling with Microsoft Azure",
-      "path": "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md"
-    },
-    {
       "basename": "A Preview of WSL in the Microsoft Store Is Now Available!",
       "path": "3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md"
     },
     {
       "basename": "Backup Edge User Preferences PowerShell Script",
       "path": "0-Slipbox/Backup Edge User Preferences PowerShell Script.md"
-    },
-    {
-      "basename": "Software Development",
-      "path": "2-Areas/MOCs/Software Development.md"
     },
     {
       "basename": "Mindsweep-Template",
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-07",
       "path": "2-Areas/Daily-Notes/2021-12-07.md"
-    },
-    {
-      "basename": "List of Python Flask Resources",
-      "path": "0-Slipbox/List of Python Flask Resources.md"
     }
   ],
   "omittedPaths": [],

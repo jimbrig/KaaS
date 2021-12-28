@@ -1,3 +1,4 @@
+- 2021-12-28 at 02h07 · [[Actuarial Property Casualty Data Thoughts]]
 - 2021-12-28 at 02h00 · [[The Data Science Workflow]]
 - 2021-12-28 at 02h00 · [[Bioconductor - Package Guidelines]]
 - 2021-12-28 at 02h00 · [[Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[PowerShell]]
 - 2021-12-28 at 01h56 · [[Personal Knowledge Management]]
 - 2021-12-28 at 01h56 · [[Mathematics and Statistics]]
-- 2021-12-28 at 01h56 · [[Finance]]

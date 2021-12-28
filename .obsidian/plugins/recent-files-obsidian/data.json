@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Actuarial Property Casualty Data Thoughts",
+      "path": "0-Slipbox/Actuarial Property Casualty Data Thoughts.md"
+    },
+    {
       "basename": "2021-12-28",
       "path": "2-Areas/Daily-Notes/2021-12-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "List of Python Flask Resources",
       "path": "0-Slipbox/List of Python Flask Resources.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "1-Projects/Workbench.md"
     }
   ],
   "omittedPaths": [],

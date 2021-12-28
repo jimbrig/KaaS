@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Warehousing Concepts and Definitions",
+      "path": "0-Slipbox/Data Warehousing Concepts and Definitions.md"
+    },
+    {
+      "basename": "Disparate",
+      "path": "3-Resources/Dictionary/Disparate.md"
+    },
+    {
+      "basename": "Generalized Additive Models",
+      "path": "0-Slipbox/Generalized Additive Models.md"
+    },
+    {
+      "basename": "Development",
+      "path": "2-Areas/MOCs/Development.md"
+    },
+    {
+      "basename": "R Package Development Resources",
+      "path": "0-Slipbox/R Package Development Resources.md"
+    },
+    {
       "basename": "2021-12-28",
       "path": "2-Areas/Daily-Notes/2021-12-28.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "2021-12-26",
       "path": "2-Areas/Daily-Notes/2021-12-26.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "2021-12-18",
@@ -75,10 +91,6 @@
     {
       "basename": "Free Actuarial System for Loss Reserving",
       "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
-    },
-    {
-      "basename": "Development",
-      "path": "2-Areas/MOCs/Development.md"
     },
     {
       "basename": "PowerShell Module - Pester",
@@ -187,18 +199,6 @@
     {
       "basename": "Workbench",
       "path": "1-Projects/Workbench.md"
-    },
-    {
-      "basename": "_README",
-      "path": "1-Projects/_README.md"
-    },
-    {
-      "basename": "2021-12-06",
-      "path": "2-Areas/Daily-Notes/2021-12-06.md"
-    },
-    {
-      "basename": "Windows Shell Commands",
-      "path": "0-Slipbox/Windows Shell Commands.md"
     }
   ],
   "omittedPaths": [],

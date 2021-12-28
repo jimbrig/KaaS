@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 10
+      "links": 11
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3579,11 +3579,6 @@
       "tags": 2,
       "links": 1
     },
-    "Untitled.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "2-Areas/Daily-Notes/2021-12-26.md": {
       "size": 356,
       "tags": 1,
@@ -3598,20 +3593,45 @@
       "size": 538,
       "tags": 2,
       "links": 1
+    },
+    "2-Areas/Daily-Notes/2021-12-28.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md": {
+      "size": 1641,
+      "tags": 2,
+      "links": 1
+    },
+    "0-Slipbox/R Package Development Resources.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "0-Slipbox/Data Warehousing Concepts and Definitions.md": {
+      "size": 2591,
+      "tags": 3,
+      "links": 9
+    },
+    "3-Resources/Dictionary/Disparate.md": {
+      "size": 925,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1254,
-      "Create": 1171,
-      "Link": 2172,
-      "Expand": 93
+      "Refactor": 1255,
+      "Create": 1175,
+      "Link": 2184,
+      "Expand": 94
     }
   },
   "dailyCommits": {
     "/": {
       "0": 1,
-      "1": 1958,
+      "1": 1976,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -3639,7 +3659,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 188,
-      "Tue": 232,
+      "Tue": 250,
       "Wed": 1382,
       "Thu": 1965,
       "Fri": 319,
@@ -3650,6 +3670,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
@@ -3699,10 +3720,13 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>",
         "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Disparate.md\"> Disparate </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
@@ -3749,13 +3773,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
@@ -3805,10 +3826,14 @@
         "<a class=\"internal-link\" href=\"2-Areas/People/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Tiago Forte.md\"> Tiago Forte </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Justin DiRose.md\"> Justin DiRose </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R.md\"> R </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Mathematics and Statistics.md\"> Mathematics and Statistics </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R.md\"> R </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Disparate.md\"> Disparate </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
@@ -3854,12 +3879,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Edge Search Engines.md\"> Edge Search Engines </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3920,6 +3940,13 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail.md\"> The Only Tricks and Softwares You Need to Know How to Organize Emails in Gmail </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -3963,14 +3990,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-11-28.md\"> 2021-11-28 </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

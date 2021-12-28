@@ -1,3 +1,12 @@
+---
+Date: 2021-12-28
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
+Alias: "R Package Development Resources"
+---
+
+# R Package Development Resources
+
 |                                             Resource                                              |                         Source                          |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
 |               [Writing R Extensions](http://cran.fhcrc.org/doc/manuals/R-exts.html)               | [CRAN Manuals](https://cran.r-project.org/manuals.html) |
@@ -8,8 +17,16 @@
 
 
 
+***
+
+#### Related
+
+- [[Development]]
+- [[R]]
 
 
+*Backlinks:*
 
-| Resource | Source |
-| :--: | :--: |
+```dataview
+list from [[R Package Development Resources]] AND -"Changelog"
+```

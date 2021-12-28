@@ -470,3 +470,6 @@
     - 1 highlights from Loss Data Analytics - Loss Reserving
     - 1 highlights from P.A.R.A. V: The Project List Mindsweep
 
+- [[2021-12-28]] 1:32 AM — Synced 13 highlights from 1 document.
+    - 13 highlights from How to Design a Clean Database
+

@@ -1,3 +1,4 @@
+- 2021-12-30 at 17h03 · [[Developing PowerShell Modules and Functions]]
 - 2021-12-30 at 16h58 · [[PowerShell Modules]]
 - 2021-12-30 at 16h57 · [[PowerShell]]
 - 2021-12-30 at 16h53 · [[2021-12-30]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[R]]
 - 2021-12-28 at 01h56 · [[Python]]
 - 2021-12-28 at 01h56 · [[Productivity]]
-- 2021-12-28 at 01h56 · [[Personal Knowledge Management]]

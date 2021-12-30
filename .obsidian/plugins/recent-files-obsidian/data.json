@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Developing PowerShell Modules and Functions",
-      "path": "0-Slipbox/Developing PowerShell Modules and Functions.md"
-    },
-    {
       "basename": "DotNet Core",
-      "path": "DotNet Core.md"
-    },
-    {
-      "basename": "DotNet Framework",
-      "path": "DotNet Framework.md"
-    },
-    {
-      "basename": "PowerShell Core",
-      "path": "PowerShell Core.md"
+      "path": "0-Slipbox/DotNet Core.md"
     },
     {
       "basename": "Windows PowerShell",
-      "path": "Windows PowerShell.md"
+      "path": "0-Slipbox/Windows PowerShell.md"
+    },
+    {
+      "basename": "PowerShell Core",
+      "path": "0-Slipbox/PowerShell Core.md"
+    },
+    {
+      "basename": "DotNet Framework",
+      "path": "0-Slipbox/DotNet Framework.md"
+    },
+    {
+      "basename": "Developing PowerShell Modules and Functions",
+      "path": "0-Slipbox/Developing PowerShell Modules and Functions.md"
     },
     {
       "basename": "PowerShell Modules",

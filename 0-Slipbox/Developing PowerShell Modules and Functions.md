@@ -33,8 +33,25 @@ To import a function (or any Powershell source file) into the current session yo
 test
 ```
 
-*Note: Be weary of Relative vs Absolute Paths when dot-sourcing *
+*Note: Be weary of Relative vs Absolute Paths when dot-sourcing functions into the session.*
 
+Once the function is dot sourced (loaded into memory) you can now call the function with the intended parameters.
+
+## PowerShell Modules
+
+Microsoft describes a module as a package that contains Powershell members, such as cmdlets, providers, functions, workflows, variables, and aliases. The members of this package can be implemented in a PowerShell script, a compiled DLL, or a combination of both. These files are usually grouped together in a single directory.
+
+In simple terms, it's a way to group existing code into a consolidated format for easier use.
+
+## Creating PowerShell Modules
+
+Creating a PowerShell module can be very simple, one simply needs to convert their `.ps1` file into a `.psm1` module file by changing its extension.
+
+However, proper modules should do more than simply define functions, they should:
+
+- Declare and document function parameters and parameter types
+- Bind `cmdlet`s to functions
+- Declare and dependencies or required versions in a module manifest file
 
 ## Notes Regarding PowerShell Versions
 

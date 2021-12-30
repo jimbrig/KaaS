@@ -3639,22 +3639,22 @@
       "tags": 2,
       "links": 6
     },
-    "Windows PowerShell.md": {
+    "0-Slipbox/DotNet Core.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "PowerShell Core.md": {
+    "0-Slipbox/DotNet Framework.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "DotNet Framework.md": {
+    "0-Slipbox/PowerShell Core.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "DotNet Core.md": {
+    "0-Slipbox/Windows PowerShell.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -3662,7 +3662,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1258,
+      "Refactor": 1262,
       "Create": 1184,
       "Link": 2198,
       "Expand": 96
@@ -3687,7 +3687,7 @@
       "14": 499,
       "15": 153,
       "16": 77,
-      "17": 222,
+      "17": 226,
       "18": 1273,
       "19": 100,
       "20": 27,
@@ -3701,7 +3701,7 @@
       "Mon": 188,
       "Tue": 259,
       "Wed": 1382,
-      "Thu": 1984,
+      "Thu": 1988,
       "Fri": 319,
       "Sat": 0,
       "Sun": 604
@@ -3816,6 +3816,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
@@ -3862,11 +3866,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Structure.md\"> Structure </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Publish Workflow.md\"> Publish Workflow </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Tiago Forte.md\"> Tiago Forte </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Justin DiRose.md\"> Justin DiRose </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Publish Workflow.md\"> Publish Workflow </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",

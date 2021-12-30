@@ -77,7 +77,8 @@
     "dimensionality",
     "Reasonability",
     "Ultimates",
-    "Powershell"
+    "Powershell",
+    "cmdlets"
   ],
   "livePreview": true,
   "legacyEditor": true

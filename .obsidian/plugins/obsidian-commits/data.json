@@ -3635,17 +3635,37 @@
       "links": 3
     },
     "0-Slipbox/Developing PowerShell Modules and Functions.md": {
-      "size": 0,
+      "size": 4270,
       "tags": 2,
-      "links": 7
+      "links": 6
+    },
+    "Windows PowerShell.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "PowerShell Core.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "DotNet Framework.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "DotNet Core.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1257,
-      "Create": 1180,
+      "Refactor": 1258,
+      "Create": 1184,
       "Link": 2198,
-      "Expand": 95
+      "Expand": 96
     }
   },
   "dailyCommits": {
@@ -3667,7 +3687,7 @@
       "14": 499,
       "15": 153,
       "16": 77,
-      "17": 216,
+      "17": 222,
       "18": 1273,
       "19": 100,
       "20": 27,
@@ -3681,7 +3701,7 @@
       "Mon": 188,
       "Tue": 259,
       "Wed": 1382,
-      "Thu": 1978,
+      "Thu": 1984,
       "Fri": 319,
       "Sat": 0,
       "Sun": 604
@@ -3690,6 +3710,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
@@ -3739,10 +3760,13 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>",
-        "<a class=\"internal-link\" href=\"Reference/Books/Loss Data Analytics.md\"> Loss Data Analytics </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Simulating Actuarial Claims Data with R.md\"> Simulating Actuarial Claims Data with R </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"DotNet Core.md\"> DotNet Core </a>",
+        "<a class=\"internal-link\" href=\"DotNet Framework.md\"> DotNet Framework </a>",
+        "<a class=\"internal-link\" href=\"PowerShell Core.md\"> PowerShell Core </a>",
+        "<a class=\"internal-link\" href=\"Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Modules.md\"> PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
@@ -3789,11 +3813,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
@@ -4055,7 +4075,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
       ]
     }
   },

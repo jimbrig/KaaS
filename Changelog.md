@@ -1,3 +1,4 @@
+- 2021-12-30 at 16h53 · [[2021-12-30]]
 - 2021-12-28 at 02h18 · [[Actuarial Property Casualty Data Thoughts]]
 - 2021-12-28 at 02h00 · [[The Data Science Workflow]]
 - 2021-12-28 at 02h00 · [[Bioconductor - Package Guidelines]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Productivity]]
 - 2021-12-28 at 01h56 · [[PowerShell]]
 - 2021-12-28 at 01h56 · [[Personal Knowledge Management]]
-- 2021-12-28 at 01h56 · [[Mathematics and Statistics]]

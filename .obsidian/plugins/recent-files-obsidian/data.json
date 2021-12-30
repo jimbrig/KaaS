@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "0-Slipbox/Untitled.md"
+    },
+    {
+      "basename": "PowerShell Modules",
+      "path": "3-Resources/Tools/PowerShell Modules.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "2-Areas/MOCs/PowerShell.md"
+    },
+    {
+      "basename": "Powershell - Scripting - Tutorialspoint",
+      "path": "3-Resources/Highlights/Readwise/Articles/Powershell - Scripting - Tutorialspoint.md"
+    },
+    {
+      "basename": "Documenting PowerShell Modules",
+      "path": "0-Slipbox/Documenting PowerShell Modules.md"
+    },
+    {
       "basename": "2021-12-30",
       "path": "2-Areas/Daily-Notes/2021-12-30.md"
     },
@@ -129,14 +149,6 @@
       "path": "0-Slipbox/PowerShell Module - devblackops.md"
     },
     {
-      "basename": "Documenting PowerShell Modules",
-      "path": "0-Slipbox/Documenting PowerShell Modules.md"
-    },
-    {
-      "basename": "PowerShell",
-      "path": "2-Areas/MOCs/PowerShell.md"
-    },
-    {
       "basename": "PowerShell Module - Plaster",
       "path": "0-Slipbox/PowerShell Module - Plaster.md"
     },
@@ -165,10 +177,6 @@
       "path": "0-Slipbox/PowerShell Module - Stucco.md"
     },
     {
-      "basename": "PowerShell",
-      "path": "3-Resources/Tools/PowerShell.md"
-    },
-    {
       "basename": "Best Practices With Packer and Windows",
       "path": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_README",
       "path": "2-Areas/Mindsweeps/_README.md"
-    },
-    {
-      "basename": "GTD Mindsweep",
-      "path": "0-Slipbox/GTD Mindsweep.md"
-    },
-    {
-      "basename": "About",
-      "path": "2-Areas/Meta/About.md"
     }
   ],
   "omittedPaths": [],

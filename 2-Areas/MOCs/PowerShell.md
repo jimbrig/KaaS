@@ -9,9 +9,23 @@ Alias: "PowerShell"
 
 *PowerShell* Map of Content houses all notes related to PowerShell in general.
 
+## PowerShell Related Notes 
+
+- [[Documenting PowerShell Modules]]
 - [[Backup Edge User Preferences PowerShell Script]]
 
 ## Modules
+
+- [[PowerShell Modules]]
+
+- [[PowerShell Module - psake]]
+- [[PowerShell Module - Stucco]]
+- [[PowerShell Module - Pester]]
+- [[PowerShell Module - Plaster]]
+- [[PowerShell Module - PoshCode]]
+- [[PowerShell Module - PSScaffold]]
+- [[PowerShell Module - devblackops]]
+- [[PowerShell Module - ModuleBuilder]]
 
 ## Module Development
 

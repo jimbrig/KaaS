@@ -26,6 +26,20 @@ Here’s a simple strategy for following the 3-2-1 rule:
 	- *Where is its local backup located?* | *How often is it backed up locally?*
 	- *Where is its offsite/cloud backup located?* | *How often is it backed up offsite/in the cloud?*
 
+
+### Online Services
+
+- GitHub
+- Gmail
+- Google Drive
+- Google Calendar
+- Google Contacts
+- 
+- Raindrop
+- Readwise
+- Instapaper
+- Evernote
+
 ### Desktop PCs
 
 - DESKTOP-MSI

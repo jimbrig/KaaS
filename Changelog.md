@@ -1,3 +1,4 @@
+- 2022-01-02 at 11h51 · [[2022-01-02]]
 - 2021-12-30 at 17h11 · [[Developing PowerShell Modules and Functions]]
 - 2021-12-30 at 17h04 · [[DotNet Core]]
 - 2021-12-30 at 17h04 · [[DotNet Framework]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Niklas Luhmann]]
 - 2021-12-28 at 01h56 · [[Justin DiRose]]
 - 2021-12-28 at 01h56 · [[_README]]
-- 2021-12-28 at 01h56 · [[Web Development]]

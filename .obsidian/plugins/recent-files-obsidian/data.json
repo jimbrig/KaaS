@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-02",
+      "path": "2-Areas/Daily-Notes/2022-01-02.md"
+    },
+    {
       "basename": "DotNet Core",
       "path": "0-Slipbox/DotNet Core.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Best Practices With Packer and Windows",
       "path": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md"
-    },
-    {
-      "basename": "Azure Data Studio",
-      "path": "3-Resources/Tools/Azure Data Studio.md"
     }
   ],
   "omittedPaths": [],

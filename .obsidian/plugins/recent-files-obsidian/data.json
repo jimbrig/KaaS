@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Personal Backup Strategy",
+      "path": "0-Slipbox/Personal Backup Strategy.md"
+    },
+    {
       "basename": "EaseUS",
       "path": "3-Resources/Tools/EaseUS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Slipbox-Default-Template",
       "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md"
-    },
-    {
-      "basename": "PowerShell Module - Stucco",
-      "path": "0-Slipbox/PowerShell Module - Stucco.md"
     }
   ],
   "omittedPaths": [],

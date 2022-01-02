@@ -1,3 +1,4 @@
+- 2022-01-02 at 12h33 · [[Personal Backup Strategy]]
 - 2022-01-02 at 11h55 · [[Readwise Syncs]]
 - 2022-01-02 at 11h53 · [[EaseUS]]
 - 2022-01-02 at 11h52 · [[Untitled]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[_README]]
 - 2021-12-28 at 01h56 · [[_README]]
 - 2021-12-28 at 01h56 · [[Tiago Forte]]
-- 2021-12-28 at 01h56 · [[Niklas Luhmann]]

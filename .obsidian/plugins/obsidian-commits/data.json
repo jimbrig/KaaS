@@ -3673,13 +3673,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "0-Slipbox/Personal Backup Strategy.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1262,
-      "Create": 1187,
-      "Link": 2204,
+      "Create": 1188,
+      "Link": 2206,
       "Expand": 97
     }
   },
@@ -3697,7 +3702,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 165,
+      "12": 168,
       "13": 34,
       "14": 499,
       "15": 153,
@@ -3719,7 +3724,7 @@
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 613
+      "Sun": 616
     }
   },
   "recentCommits": {
@@ -3778,6 +3783,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
@@ -3827,8 +3833,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
@@ -3884,6 +3889,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Publish Workflow.md\"> Publish Workflow </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
@@ -3933,8 +3939,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3995,6 +4000,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
@@ -4044,8 +4050,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

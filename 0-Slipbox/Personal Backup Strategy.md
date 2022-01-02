@@ -22,7 +22,29 @@ Here’s a simple strategy for following the 3-2-1 rule:
 
 ## What to Backup?
 
-- [ ] Todo: List every device I own that contains information of
+- [ ] Todo: List every device I own that contains information or data I would like to backup and answer these questions:
+	- *Where is its local backup located?* | *How often is it backed up locally?*
+	- *Where is its offsite/cloud backup located?* | *How often is it backed up offsite/in the cloud?*
+
+### Desktop PCs
+
+- DESKTOP-MSI
+- DESKTOP-LENOVO
+- DESKTOP-PWC
+
+## DESKTOP-MSI
+
+- Local Backup:
+	- Built-in Windows File Recovery backup up to external hard drive
+	- EaseUS Todo Backup to external hard drive
+
+- Cloud Backup
+	- [[Backblaze]] - backed up continuously
+
+
+## OneDrive
+
+- 
 
 ***
 

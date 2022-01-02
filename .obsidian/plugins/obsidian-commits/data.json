@@ -3675,7 +3675,7 @@
       "links": 0
     },
     "0-Slipbox/Personal Backup Strategy.md": {
-      "size": 0,
+      "size": 2804,
       "tags": 1,
       "links": 1
     }
@@ -3685,7 +3685,7 @@
       "Refactor": 1262,
       "Create": 1188,
       "Link": 2206,
-      "Expand": 97
+      "Expand": 98
     }
   },
   "dailyCommits": {
@@ -3702,7 +3702,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 168,
+      "12": 169,
       "13": 34,
       "14": 499,
       "15": 153,
@@ -3724,12 +3724,13 @@
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 616
+      "Sun": 617
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
@@ -3779,8 +3780,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",

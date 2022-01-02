@@ -1,4 +1,4 @@
-- 2022-01-02 at 12h33 · [[Personal Backup Strategy]]
+- 2022-01-02 at 12h37 · [[Personal Backup Strategy]]
 - 2022-01-02 at 11h55 · [[Readwise Syncs]]
 - 2022-01-02 at 11h53 · [[EaseUS]]
 - 2022-01-02 at 11h52 · [[Untitled]]

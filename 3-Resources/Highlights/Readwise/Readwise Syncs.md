@@ -473,3 +473,5 @@
 - [[2021-12-28]] 1:32 AM — Synced 13 highlights from 1 document.
     - 13 highlights from How to Design a Clean Database
 
+- [[2022-01-02]] 11:55 AM — Synced 0 highlights from 0 documents.
+

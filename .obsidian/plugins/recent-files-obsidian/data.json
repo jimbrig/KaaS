@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "EaseUS",
+      "path": "3-Resources/Tools/EaseUS.md"
+    },
+    {
       "basename": "2022-01-02",
       "path": "2-Areas/Daily-Notes/2022-01-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerShell Module - Stucco",
       "path": "0-Slipbox/PowerShell Module - Stucco.md"
-    },
-    {
-      "basename": "Best Practices With Packer and Windows",
-      "path": "3-Resources/Highlights/Readwise/Articles/Best Practices With Packer and Windows.md"
     }
   ],
   "omittedPaths": [],

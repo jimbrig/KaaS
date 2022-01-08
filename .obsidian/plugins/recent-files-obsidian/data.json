@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-08",
+      "path": "2-Areas/Daily-Notes/2022-01-08.md"
+    },
+    {
       "basename": "Personal Backup Strategy",
       "path": "0-Slipbox/Personal Backup Strategy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Slipbox-Dev-PowerShell-Template",
       "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md"
-    },
-    {
-      "basename": "Slipbox-Default-Template",
-      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Default-Template.md"
     }
   ],
   "omittedPaths": [],

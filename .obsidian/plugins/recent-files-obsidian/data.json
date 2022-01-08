@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Development",
+      "path": "2-Areas/MOCs/Development.md"
+    },
+    {
       "basename": "Annual Goals and Life Domains",
       "path": "Annual Goals and Life Domains.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Generalized Additive Models",
       "path": "0-Slipbox/Generalized Additive Models.md"
-    },
-    {
-      "basename": "Development",
-      "path": "2-Areas/MOCs/Development.md"
     },
     {
       "basename": "R Package Development Resources",

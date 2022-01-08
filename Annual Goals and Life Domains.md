@@ -42,5 +42,5 @@ Alias:
 
 SMARTER: ?
 
-*Best goals are Risky*
+*Best goals are risky and exciting.*
 

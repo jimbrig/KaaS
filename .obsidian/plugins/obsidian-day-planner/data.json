@@ -2,7 +2,12 @@
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": true,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "2-Areas/Daily-Notes/2022-01-08.md",
+      "date": "Sat Jan 08 2022"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": false,
   "nowAndNextInStatusBar": true,

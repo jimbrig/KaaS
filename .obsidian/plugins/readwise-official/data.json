@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2504310,
-  "currentSyncStatusID": 2552807,
+  "lastSavedStatusID": 2552807,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1355,7 +1355,8 @@
     "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": "12329114",
     "3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md": "12398975",
     "3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md": "12410775",
-    "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md": "12472395"
+    "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md": "12472395",
+    "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md": "12649242"
   },
   "reimportShowConfirmation": true
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Annual Goals and Life Domains",
+      "path": "Annual Goals and Life Domains.md"
+    },
+    {
       "basename": "2022-01-08",
       "path": "2-Areas/Daily-Notes/2022-01-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerShell Module - PSScaffold",
       "path": "0-Slipbox/PowerShell Module - PSScaffold.md"
-    },
-    {
-      "basename": "Slipbox-Dev-PowerShell-Template",
-      "path": "3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md"
     }
   ],
   "omittedPaths": [],

@@ -475,3 +475,6 @@
 
 - [[2022-01-02]] 11:55 AM — Synced 0 highlights from 0 documents.
 
+- [[2022-01-08]] 12:32 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Passages Saved From iOS
+

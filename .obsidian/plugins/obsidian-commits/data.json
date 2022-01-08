@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 495
+      "links": 497
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -222,7 +222,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 35163,
       "tags": 0,
-      "links": 12
+      "links": 13
     },
     "3-Resources/Highlights/Readwise/_README.md": {
       "size": 0,
@@ -3678,13 +3678,28 @@
       "size": 2804,
       "tags": 1,
       "links": 2
+    },
+    "2-Areas/Daily-Notes/2022-01-08.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md": {
+      "size": 354,
+      "tags": 2,
+      "links": 0
+    },
+    "Annual Goals and Life Domains.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1262,
-      "Create": 1188,
-      "Link": 2207,
+      "Create": 1191,
+      "Link": 2213,
       "Expand": 98
     }
   },
@@ -3702,7 +3717,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 170,
+      "12": 179,
       "13": 34,
       "14": 499,
       "15": 153,
@@ -3724,7 +3739,7 @@
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
-      "Sun": 618
+      "Sun": 627
     }
   },
   "recentCommits": {
@@ -3783,6 +3798,9 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
@@ -3830,10 +3848,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
@@ -3889,6 +3904,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Publish Workflow.md\"> Publish Workflow </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
+        "<a class=\"internal-link\" href=\"Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
@@ -3936,10 +3954,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-06.md\"> 2021-12-06 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-04.md\"> 2021-12-04 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-01.md\"> 2021-12-01 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-05.md\"> 2021-12-05 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4000,6 +4015,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester.md\"> The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -4047,10 +4065,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

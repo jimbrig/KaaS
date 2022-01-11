@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server",
+      "path": "3-Resources/Tools/SQL Server.md"
+    },
+    {
+      "basename": "Python Package - SQLAlchemy",
+      "path": "0-Slipbox/Python Package - SQLAlchemy.md"
+    },
+    {
       "basename": "Changelog",
       "path": "Changelog.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PowerShell Module - ModuleBuilder",
       "path": "0-Slipbox/PowerShell Module - ModuleBuilder.md"
-    },
-    {
-      "basename": "PowerShell Module - devblackops",
-      "path": "0-Slipbox/PowerShell Module - devblackops.md"
-    },
-    {
-      "basename": "PowerShell Module - Plaster",
-      "path": "0-Slipbox/PowerShell Module - Plaster.md"
     }
   ],
   "omittedPaths": [],

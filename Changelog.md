@@ -1,3 +1,5 @@
+- 2022-01-10 at 22h56 · [[SQL Server]]
+- 2022-01-10 at 22h56 · [[Python Package - SQLAlchemy]]
 - 2022-01-10 at 22h48 · [[README]]
 - 2022-01-10 at 22h48 · [[How To Properly Manage Your Time - Modern Wisdom]]
 - 2022-01-10 at 22h42 · [[2022-01-10]]
@@ -496,5 +498,3 @@
 - 2021-12-28 at 01h56 · [[10 Guidelines to Better Table Design]]
 - 2021-12-28 at 01h56 · [['Mustashe' Explained  Joshua Cook]]
 - 2021-12-28 at 01h56 · [[#6 Practicing - Tips From the Clean Coder - DEV]]
-- 2021-12-28 at 01h56 · [[#5 8 Tips for a Production-Ready Shiny Application]]
-- 2021-12-28 at 01h56 · [[_README]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-11",
+      "path": "2-Areas/Daily-Notes/2022-01-11.md"
+    },
+    {
       "basename": "Development",
       "path": "2-Areas/MOCs/Development.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Functions",
       "path": "1-Projects/reserver/Functions.md"
-    },
-    {
-      "basename": "Data",
-      "path": "1-Projects/reserver/Data.md"
     }
   ],
   "omittedPaths": [],

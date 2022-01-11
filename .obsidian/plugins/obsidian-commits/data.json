@@ -3703,13 +3703,18 @@
       "size": 50396,
       "tags": 2,
       "links": 2
+    },
+    "2-Areas/Daily-Notes/2022-01-11.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1269,
-      "Create": 1196,
-      "Link": 2230,
+      "Create": 1197,
+      "Link": 2232,
       "Expand": 100
     }
   },
@@ -3732,8 +3737,8 @@
       "14": 499,
       "15": 153,
       "16": 77,
-      "17": 227,
-      "18": 1273,
+      "17": 228,
+      "18": 1275,
       "19": 100,
       "20": 27,
       "21": 15,
@@ -3744,7 +3749,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 219,
-      "Tue": 259,
+      "Tue": 262,
       "Wed": 1382,
       "Thu": 1989,
       "Fri": 319,
@@ -3808,6 +3813,7 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
@@ -3857,8 +3863,7 @@
         "<a class=\"internal-link\" href=\"PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
@@ -3914,6 +3919,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
@@ -3963,8 +3969,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4025,6 +4030,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
@@ -4074,8 +4080,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

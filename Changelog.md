@@ -1,3 +1,4 @@
+- 2022-01-11 at 17h58 · [[2022-01-11]]
 - 2022-01-10 at 23h12 · [[RStudio Package Manager]]
 - 2022-01-10 at 23h07 · [[Advanced Programming Concepts]]
 - 2022-01-10 at 22h59 · [[Microsoft Edge]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[10 Windows Task Manager Tricks You Probably Didn’t Know]]
 - 2021-12-28 at 01h56 · [[10 Ways to Improve How You Manage Information]]
 - 2021-12-28 at 01h56 · [[10 Tips to Turn Microsoft To-Do Into a Serious Task Manager]]
-- 2021-12-28 at 01h56 · [[10 Guidelines to Better Table Design]]

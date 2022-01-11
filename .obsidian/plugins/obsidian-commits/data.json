@@ -3695,17 +3695,17 @@
       "links": 0
     },
     "0-Slipbox/Advanced Programming Concepts.md": {
-      "size": 0,
+      "size": 2065,
       "tags": 2,
-      "links": 0
+      "links": 24
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1268,
       "Create": 1195,
-      "Link": 2226,
-      "Expand": 98
+      "Link": 2227,
+      "Expand": 99
     }
   },
   "dailyCommits": {
@@ -3733,12 +3733,12 @@
       "20": 27,
       "21": 15,
       "22": 59,
-      "23": 20
+      "23": 22
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 211,
+      "Mon": 213,
       "Tue": 259,
       "Wed": 1382,
       "Thu": 1989,
@@ -3750,6 +3750,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
@@ -3799,8 +3800,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -4020,6 +4020,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
@@ -4069,8 +4070,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

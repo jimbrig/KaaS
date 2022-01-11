@@ -78,7 +78,8 @@
     "Reasonability",
     "Ultimates",
     "Powershell",
-    "cmdlets"
+    "cmdlets",
+    "RStudio"
   ],
   "livePreview": true,
   "legacyEditor": true

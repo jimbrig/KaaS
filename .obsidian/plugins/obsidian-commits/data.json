@@ -3697,15 +3697,20 @@
     "0-Slipbox/Advanced Programming Concepts.md": {
       "size": 2065,
       "tags": 2,
-      "links": 24
+      "links": 26
+    },
+    "RStudio Package Manager.md": {
+      "size": 50396,
+      "tags": 2,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1268,
-      "Create": 1195,
-      "Link": 2227,
-      "Expand": 99
+      "Create": 1196,
+      "Link": 2230,
+      "Expand": 100
     }
   },
   "dailyCommits": {
@@ -3733,12 +3738,12 @@
       "20": 27,
       "21": 15,
       "22": 59,
-      "23": 22
+      "23": 27
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 213,
+      "Mon": 218,
       "Tue": 259,
       "Wed": 1382,
       "Thu": 1989,
@@ -3750,6 +3755,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
@@ -3799,10 +3805,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>",
@@ -3852,7 +3858,6 @@
         "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -3909,6 +3914,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
@@ -3958,8 +3964,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4021,6 +4026,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
+        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
@@ -4068,9 +4075,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

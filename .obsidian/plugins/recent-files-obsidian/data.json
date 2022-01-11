@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RStudio Package Manager",
+      "path": "RStudio Package Manager.md"
+    },
+    {
       "basename": "Advanced Programming Concepts",
       "path": "0-Slipbox/Advanced Programming Concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Data",
       "path": "1-Projects/reserver/Data.md"
-    },
-    {
-      "basename": "_README",
-      "path": "1-Projects/reserver/_README.md"
     }
   ],
   "omittedPaths": [],

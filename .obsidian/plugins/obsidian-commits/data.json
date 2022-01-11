@@ -3699,7 +3699,7 @@
       "tags": 2,
       "links": 26
     },
-    "RStudio Package Manager.md": {
+    "0-Slipbox/RStudio Package Manager.md": {
       "size": 50396,
       "tags": 2,
       "links": 2
@@ -3707,7 +3707,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1268,
+      "Refactor": 1269,
       "Create": 1196,
       "Link": 2230,
       "Expand": 100
@@ -3738,12 +3738,12 @@
       "20": 27,
       "21": 15,
       "22": 59,
-      "23": 27
+      "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 218,
+      "Mon": 219,
       "Tue": 259,
       "Wed": 1382,
       "Thu": 1989,
@@ -3861,6 +3861,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
@@ -3910,8 +3911,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",

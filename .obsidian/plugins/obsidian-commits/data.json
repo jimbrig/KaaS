@@ -3679,11 +3679,6 @@
       "tags": 2,
       "links": 0
     },
-    "Annual Goals and Life Domains.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 0
-    },
     "2-Areas/Daily-Notes/2022-01-10.md": {
       "size": 0,
       "tags": 1,
@@ -3693,11 +3688,16 @@
       "size": 0,
       "tags": 1,
       "links": 1
+    },
+    "0-Slipbox/Annual Goals and Life Domains.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1264,
+      "Refactor": 1265,
       "Create": 1193,
       "Link": 2218,
       "Expand": 98
@@ -3727,13 +3727,13 @@
       "19": 100,
       "20": 27,
       "21": 15,
-      "22": 53,
+      "22": 54,
       "23": 12
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 197,
+      "Mon": 198,
       "Tue": 259,
       "Wed": 1382,
       "Thu": 1989,
@@ -3851,6 +3851,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>",
@@ -3900,8 +3901,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Structure.md\"> Structure </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Publish Workflow.md\"> Publish Workflow </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Structure.md\"> Structure </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",

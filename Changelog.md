@@ -1,4 +1,5 @@
-- 2022-01-10 at 22h47 · [[How To Properly Manage Your Time - Modern Wisdom]]
+- 2022-01-10 at 22h48 · [[README]]
+- 2022-01-10 at 22h48 · [[How To Properly Manage Your Time - Modern Wisdom]]
 - 2022-01-10 at 22h42 · [[2022-01-10]]
 - 2022-01-08 at 16h24 · [[2022-01-08]]
 - 2022-01-08 at 12h37 · [[Annual Goals and Life Domains]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[#6 Practicing - Tips From the Clean Coder - DEV]]
 - 2021-12-28 at 01h56 · [[#5 8 Tips for a Production-Ready Shiny Application]]
 - 2021-12-28 at 01h56 · [[_README]]
-- 2021-12-28 at 01h56 · [[The Ultimate Guide to an Effective Weekly Review- Highlights]]

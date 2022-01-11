@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Annual Goals and Life Domains",
+      "path": "0-Slipbox/Annual Goals and Life Domains.md"
+    },
+    {
       "basename": "How To Properly Manage Your Time - Modern Wisdom",
       "path": "3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Development",
       "path": "2-Areas/MOCs/Development.md"
-    },
-    {
-      "basename": "Annual Goals and Life Domains",
-      "path": "Annual Goals and Life Domains.md"
     },
     {
       "basename": "2022-01-08",
@@ -135,14 +143,6 @@
     {
       "basename": "_README",
       "path": "0-Slipbox/_README.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
     },
     {
       "basename": "_README",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "How To Properly Manage Your Time - Modern Wisdom",
+      "path": "3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md"
+    },
+    {
+      "basename": "#23 Nat Eliason on Starting a Life-Changing Blog",
+      "path": "3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md"
+    },
+    {
+      "basename": "2022-01-10",
+      "path": "2-Areas/Daily-Notes/2022-01-10.md"
+    },
+    {
       "basename": "Development",
       "path": "2-Areas/MOCs/Development.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "PowerShell Module - Plaster",
       "path": "0-Slipbox/PowerShell Module - Plaster.md"
-    },
-    {
-      "basename": "PowerShell Module - PoshCode",
-      "path": "0-Slipbox/PowerShell Module - PoshCode.md"
-    },
-    {
-      "basename": "PowerShell Module - psake",
-      "path": "0-Slipbox/PowerShell Module - psake.md"
-    },
-    {
-      "basename": "PowerShell Module - PSScaffold",
-      "path": "0-Slipbox/PowerShell Module - PSScaffold.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Softuvo Insider]]
 - Full Title: 5 DevOps Tools You Must Use in 2022
-- Category: #Type/Highlight/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/6e830a7db7ba
 
 ## Highlights

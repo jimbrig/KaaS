@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: 
 - Full Title: Passages Saved From iOS
-- Category: #articles
+- Category: #Type/Highlights/Readwise/Article
 
 ## Highlights
 - Nothing is particularly hard if you divide it into small jobs." –Henry Ford

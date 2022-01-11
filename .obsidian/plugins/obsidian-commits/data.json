@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 499
+      "links": 500
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -2409,11 +2409,6 @@
       "tags": 2,
       "links": 1
     },
-    "4-Archives/Guidance/_README.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 4
-    },
     "0-Slipbox/Actuarial Exams.md": {
       "size": 0,
       "tags": 1,
@@ -2846,7 +2841,7 @@
     },
     "0-Slipbox/SQL Server Management Studio.md": {
       "size": 0,
-      "tags": 2,
+      "tags": 3,
       "links": 0
     },
     "0-Slipbox/SQLite.md": {
@@ -3198,11 +3193,6 @@
       "size": 0,
       "tags": 2,
       "links": 5
-    },
-    "4-Archives/Actuarial Rate Indications Automation.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
     },
     "0-Slipbox/Windows Developer Environment.md": {
       "size": 0,
@@ -3696,15 +3686,25 @@
     },
     "3-Resources/Tools/SQL Server.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
+      "links": 5
+    },
+    "0-Slipbox/Actuarial Rate Indications Automation.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "0-Slipbox/Advanced Programming Concepts.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1266,
-      "Create": 1194,
-      "Link": 2221,
+      "Refactor": 1268,
+      "Create": 1195,
+      "Link": 2226,
       "Expand": 98
     }
   },
@@ -3733,12 +3733,12 @@
       "20": 27,
       "21": 15,
       "22": 59,
-      "23": 12
+      "23": 20
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 203,
+      "Mon": 211,
       "Tue": 259,
       "Wed": 1382,
       "Thu": 1989,
@@ -3803,6 +3803,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
@@ -3852,10 +3853,10 @@
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
@@ -3905,10 +3906,12 @@
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>",
@@ -3956,10 +3959,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -3967,6 +3967,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"4-Archives/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>",
@@ -4016,10 +4017,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md\"> The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System.md\"> The Search for the Ultimate Productivity System </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The R Code Optimizer • Rco.md\"> The R Code Optimizer • Rco </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
@@ -4068,9 +4070,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Software Development.md\"> Software Development </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

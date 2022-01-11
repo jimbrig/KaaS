@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Mohammad Faisal]]
 - Full Title: How to Design a Clean Database
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/2c7158114e2f
 
 ## Highlights

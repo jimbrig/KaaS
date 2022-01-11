@@ -1,8 +1,8 @@
 ---
 Date: 2021-11-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Microsoft"]
-Alias: ["Microsoft Edge", "Edge"]
+Tags: [ "#Type/Tool", "#Topic/Windows" ]
+Alias: [ "Microsoft Edge", "Edge" ]
 ---
 
 # Microsoft Edge

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Advanced Programming Concepts",
+      "path": "0-Slipbox/Advanced Programming Concepts.md"
+    },
+    {
+      "basename": "Actuarial Rate Indications Automation",
+      "path": "0-Slipbox/Actuarial Rate Indications Automation.md"
+    },
+    {
+      "basename": "Passages Saved From iOS",
+      "path": "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md"
+    },
+    {
+      "basename": "How to Design a Clean Database",
+      "path": "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md"
+    },
+    {
+      "basename": "SQL Server Management Studio",
+      "path": "0-Slipbox/SQL Server Management Studio.md"
+    },
+    {
       "basename": "SQL Server",
       "path": "3-Resources/Tools/SQL Server.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "_README",
       "path": "1-Projects/reserver/_README.md"
-    },
-    {
-      "basename": "2021-12-07",
-      "path": "2-Areas/Mindsweeps/2021-12-07.md"
-    },
-    {
-      "basename": "Free Actuarial System for Loss Reserving",
-      "path": "0-Slipbox/Free Actuarial System for Loss Reserving.md"
-    },
-    {
-      "basename": "PowerShell Module - Pester",
-      "path": "0-Slipbox/PowerShell Module - Pester.md"
-    },
-    {
-      "basename": "Flask and Docker",
-      "path": "0-Slipbox/Flask and Docker.md"
-    },
-    {
-      "basename": "PowerShell Module - ModuleBuilder",
-      "path": "0-Slipbox/PowerShell Module - ModuleBuilder.md"
     }
   ],
   "omittedPaths": [],

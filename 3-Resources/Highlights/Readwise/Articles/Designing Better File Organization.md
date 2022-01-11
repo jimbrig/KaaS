@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Gerren Lamson]]
 - Full Title: Designing Better File Organization
-- Category: #Type/Highlight/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/d0a3c0de9906
 
 ## Highlights

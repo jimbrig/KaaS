@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Productivity Core]]
 - Full Title: The Second Brain Method
-- Category: #Type/Highlight/Articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/f68bd6c4c90a
 
 ## Highlights

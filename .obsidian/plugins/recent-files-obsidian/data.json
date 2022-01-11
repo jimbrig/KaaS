@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Development",
+      "path": "2-Areas/MOCs/Development.md"
+    },
+    {
       "basename": "RStudio Package Manager",
       "path": "0-Slipbox/RStudio Package Manager.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "2022-01-10",
       "path": "2-Areas/Daily-Notes/2022-01-10.md"
-    },
-    {
-      "basename": "Development",
-      "path": "2-Areas/MOCs/Development.md"
     },
     {
       "basename": "2022-01-08",

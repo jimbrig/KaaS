@@ -1,3 +1,6 @@
+- 2022-01-12 at 13h31 · [[R Shiny Packages]]
+- 2022-01-12 at 13h28 · [[R Database Packages]]
+- 2022-01-12 at 13h28 · [[R Shiny]]
 - 2022-01-12 at 13h27 · [[R Package - RPostgreSQL]]
 - 2022-01-12 at 13h24 · [[R Package - DBI]]
 - 2022-01-12 at 13h18 · [[R - Connect Shiny to PostgreSQL Database]]
@@ -495,6 +498,3 @@
 - 2021-12-28 at 01h56 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
 - 2021-12-28 at 01h56 · [[4 Solid Ways to Get the Best of the Web]]
 - 2021-12-28 at 01h56 · [[4 Efficient Workflow  Efficient R Programming]]
-- 2021-12-28 at 01h56 · [[3 Steps to Managing Your Time and Maximizing Your Workday]]
-- 2021-12-28 at 01h56 · [[3 Steps to Designing a Powerful Project Workflow - ProjectManager.com]]
-- 2021-12-28 at 01h56 · [[3 Smart Uses of Curated Lists and How to Create Them]]

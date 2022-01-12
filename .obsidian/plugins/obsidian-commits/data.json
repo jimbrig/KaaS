@@ -3743,12 +3743,27 @@
       "size": 3381,
       "tags": 3,
       "links": 5
+    },
+    "2-Areas/MOCs/R Shiny.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/R Database Packages.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/R Shiny Packages.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1271,
-      "Create": 1204,
+      "Refactor": 1274,
+      "Create": 1207,
       "Link": 2249,
       "Expand": 103
     }
@@ -3768,7 +3783,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 52,
+      "13": 58,
       "14": 499,
       "15": 153,
       "16": 77,
@@ -3785,7 +3800,7 @@
     "/": {
       "Mon": 219,
       "Tue": 262,
-      "Wed": 1411,
+      "Wed": 1417,
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
@@ -3848,6 +3863,9 @@
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
+        "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>",
+        "<a class=\"internal-link\" href=\"R Shiny.md\"> R Shiny </a>",
         "<a class=\"internal-link\" href=\"R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -3895,12 +3913,12 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
@@ -3948,10 +3966,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",

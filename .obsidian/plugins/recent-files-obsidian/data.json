@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "R Shiny Packages",
+      "path": "0-Slipbox/R Shiny Packages.md"
+    },
+    {
+      "basename": "R - Connect Shiny to PostgreSQL Database",
+      "path": "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md"
+    },
+    {
+      "basename": "R Database Packages",
+      "path": "0-Slipbox/R Database Packages.md"
+    },
+    {
+      "basename": "R Shiny",
+      "path": "2-Areas/MOCs/R Shiny.md"
+    },
+    {
       "basename": "R Package - RPostgreSQL",
       "path": "0-Slipbox/R Package - RPostgreSQL.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "R - Connect Shiny to PostgreSQL Database",
-      "path": "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md"
     },
     {
       "basename": "2022-01-12",
@@ -187,18 +199,6 @@
     {
       "basename": "2021-12-18",
       "path": "2-Areas/Daily-Notes/2021-12-18.md"
-    },
-    {
-      "basename": "Unix Philosophy",
-      "path": "0-Slipbox/Unix Philosophy.md"
-    },
-    {
-      "basename": "_README",
-      "path": "0-Slipbox/_README.md"
-    },
-    {
-      "basename": "_README",
-      "path": "3-Resources/_README.md"
     }
   ],
   "omittedPaths": [],

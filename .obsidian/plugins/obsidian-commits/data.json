@@ -3708,13 +3708,33 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "2-Areas/Daily-Notes/2022-01-12.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md": {
+      "size": 953,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md": {
+      "size": 2535,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
+      "size": 231,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1269,
-      "Create": 1197,
-      "Link": 2232,
+      "Create": 1201,
+      "Link": 2239,
       "Expand": 100
     }
   },
@@ -3732,7 +3752,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 179,
+      "12": 190,
       "13": 34,
       "14": 499,
       "15": 153,
@@ -3750,7 +3770,7 @@
     "/": {
       "Mon": 219,
       "Tue": 262,
-      "Wed": 1382,
+      "Wed": 1393,
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
@@ -3813,6 +3833,10 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -3859,11 +3883,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
@@ -3919,6 +3939,9 @@
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
@@ -3966,10 +3989,7 @@
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/2021-12-07.md\"> 2021-12-07 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-07.md\"> 2021-12-07 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Mindsweeps/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4030,6 +4050,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
@@ -4076,11 +4100,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

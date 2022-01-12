@@ -9,6 +9,16 @@ Alias: "R - Connect Shiny to PostgreSQL Database"
 
 *Source: [How To Connect R Shiny to Postgres Database - The Definite Guide (appsilon.com)](https://appsilon.com/r-shiny-postgres-database/)*
 
+## Contents
+
+- [[#Install Necessary Packages|Install Necessary Packages]]
+- [[#Database Credentials|Database Credentials]]
+- [[#Connect to the Database|Connect to the Database]]
+- [[#Running Queries|Running Queries]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+
 ## Install Necessary Packages
 
 - [[R Package - DBI]]
@@ -63,7 +73,7 @@ DBI::dbGetQuery(conn, "SELECT * FROM <table name> LIMIT 10")
 
 ***
 
-#### Related
+## Appendix: Links
 
 - [[Development]]
 - [[R]]

@@ -3742,21 +3742,21 @@
     "0-Slipbox/R Package - RPostgreSQL.md": {
       "size": 3381,
       "tags": 3,
-      "links": 5
+      "links": 11
     },
     "2-Areas/MOCs/R Shiny.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "0-Slipbox/R Database Packages.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     },
     "0-Slipbox/R Shiny Packages.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -3764,7 +3764,7 @@
     "/": {
       "Refactor": 1274,
       "Create": 1207,
-      "Link": 2249,
+      "Link": 2253,
       "Expand": 103
     }
   },
@@ -3783,7 +3783,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 58,
+      "13": 62,
       "14": 499,
       "15": 153,
       "16": 77,
@@ -3800,7 +3800,7 @@
     "/": {
       "Mon": 219,
       "Tue": 262,
-      "Wed": 1417,
+      "Wed": 1421,
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
@@ -3969,6 +3969,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
@@ -4016,10 +4019,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4080,6 +4080,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
@@ -4129,8 +4130,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

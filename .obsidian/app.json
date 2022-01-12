@@ -82,7 +82,9 @@
     "RStudio",
     "postgres",
     "codebase",
-    "backends"
+    "backends",
+    "RPostgreSQL",
+    "RPostgres"
   ],
   "livePreview": true,
   "legacyEditor": true

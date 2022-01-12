@@ -2,14 +2,24 @@
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: "R Package - DBI"
+Alias: ["R Package - DBI", "DBI"]
 ---
 
 # R Package - DBI
 
 *Source: [R Database Interface • DBI (r-dbi.org)](https://dbi.r-dbi.org/) | [r-dbi/DBI: A database interface (DBI) definition for communication between R and RDBMSs (github.com)](https://github.com/r-dbi/DBI)*
 
-# DBI
+## Contents
+
+- [[#Overview|Overview]]
+- [[#Installation|Installation]]
+- [[#Example|Example]]
+- [[#Class structure|Class structure]]
+- [[#Further Reading|Further Reading]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+## Overview
 
 The DBI package helps connecting R to database management systems
 (DBMS). DBI separates the connectivity to the DBMS into a “front-end”
@@ -45,13 +55,13 @@ Most users who want to access a database do not need to install DBI directly. It
 
 You can install the released version of DBI from [CRAN](https://CRAN.R-project.org) with:
 
-``` r
+```R
 install.packages("DBI")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
 
-``` r
+```R
 # install.packages("devtools")
 devtools::install_github("r-dbi/DBI")
 ```
@@ -123,36 +133,21 @@ There are four main DBI classes. Three which are each extended by
 individual database backends:
 
 -   `DBIObject`: a common base class for all DBI.
-
--   `DBIDriver`: a base class representing overall DBMS properties.
-    Typically generator functions instantiate the driver objects like
-    `RSQLite()`, `RPostgreSQL()`, `RMySQL()` etc.
-
+-   `DBIDriver`: a base class representing overall DBMS properties. Typically generator functions instantiate the driver objects like `RSQLite()`, `RPostgreSQL()`, `RMySQL()` etc.
 -   `DBIConnection`: represents a connection to a specific database
-
 -   `DBIResult`: the result of a DBMS query or statement.
 
-All classes are *virtual*: they cannot be instantiated directly and
-instead must be subclassed.
+All classes are *virtual*: they cannot be instantiated directly and instead must be sub-classed.
 
 ## Further Reading
 
--   [Databases using R](https://db.rstudio.com/) describes the tools and
-    best practices in this ecosystem.
-
--   The [DBI project site](https://www.r-dbi.org/) hosts a blog where
-    recent developments are presented.
-
--   [A history of
-    DBI](https://r-dbi.github.io/DBI/articles/DBI-history.html) by David
-    James, the driving force behind the development of DBI, and many of
-    the packages that implement it.
-
-
+-   [Databases using R](https://db.rstudio.com/) describes the tools and best practices in this ecosystem.
+-   The [DBI project site](https://www.r-dbi.org/) hosts a blog where recent developments are presented.
+-   [A history of DBI](https://r-dbi.github.io/DBI/articles/DBI-history.html) by David James, the driving force behind the development of DBI, and many of the packages that implement it.
 
 ***
 
-#### Related
+## Appendix: Links
 
 - [[Development]]
 - [[R]]

@@ -3737,15 +3737,20 @@
     "0-Slipbox/R Package - DBI.md": {
       "size": 5714,
       "tags": 2,
-      "links": 3
+      "links": 9
+    },
+    "0-Slipbox/R Package - RPostgreSQL.md": {
+      "size": 3381,
+      "tags": 3,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1270,
-      "Create": 1203,
-      "Link": 2246,
-      "Expand": 102
+      "Refactor": 1271,
+      "Create": 1204,
+      "Link": 2249,
+      "Expand": 103
     }
   },
   "dailyCommits": {
@@ -3763,7 +3768,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 46,
+      "13": 52,
       "14": 499,
       "15": 153,
       "16": 77,
@@ -3780,7 +3785,7 @@
     "/": {
       "Mon": 219,
       "Tue": 262,
-      "Wed": 1405,
+      "Wed": 1411,
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
@@ -3790,6 +3795,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
@@ -3839,10 +3845,10 @@
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -3892,10 +3898,10 @@
         "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
         "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
@@ -3945,10 +3951,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
-        "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>"
+        "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
@@ -3998,8 +4004,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4060,6 +4065,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
@@ -4108,9 +4115,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

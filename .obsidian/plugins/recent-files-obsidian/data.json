@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2022-01-12",
       "path": "2-Areas/Daily-Notes/2022-01-12.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Changelog",
       "path": "Changelog.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Annual Goals and Life Domains",

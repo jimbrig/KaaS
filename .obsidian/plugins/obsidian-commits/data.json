@@ -3730,17 +3730,22 @@
       "links": 1
     },
     "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md": {
-      "size": 0,
+      "size": 2242,
       "tags": 2,
-      "links": 11
+      "links": 16
+    },
+    "0-Slipbox/R Package - DBI.md": {
+      "size": 5714,
+      "tags": 2,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1269,
-      "Create": 1202,
-      "Link": 2243,
-      "Expand": 100
+      "Refactor": 1270,
+      "Create": 1203,
+      "Link": 2246,
+      "Expand": 102
     }
   },
   "dailyCommits": {
@@ -3758,7 +3763,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 39,
+      "13": 46,
       "14": 499,
       "15": 153,
       "16": 77,
@@ -3775,7 +3780,7 @@
     "/": {
       "Mon": 219,
       "Tue": 262,
-      "Wed": 1398,
+      "Wed": 1405,
       "Thu": 1989,
       "Fri": 319,
       "Sat": 0,
@@ -3785,6 +3790,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
@@ -3833,11 +3840,10 @@
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
@@ -3887,10 +3893,10 @@
         "<a class=\"internal-link\" href=\"Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
@@ -3940,10 +3946,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/Microsoft Edge.md\"> Microsoft Edge </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Backup Edge User Preferences PowerShell Script.md\"> Backup Edge User Preferences PowerShell Script </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Synapse.md\"> Synapse </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/ZSH.md\"> ZSH </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
@@ -3993,8 +3999,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Slipbox-Templates/Slipbox-Dev-PowerShell-Template.md\"> Slipbox-Dev-PowerShell-Template </a>",
         "<a class=\"internal-link\" href=\"PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4056,6 +4061,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
@@ -4103,9 +4110,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

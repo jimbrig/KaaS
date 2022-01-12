@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "R Package - DBI",
+      "path": "0-Slipbox/R Package - DBI.md"
+    },
+    {
       "basename": "R - Connect Shiny to PostgreSQL Database",
       "path": "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1",
       "path": "3-Resources/PDFs/Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf"
-    },
-    {
-      "basename": "Application and API",
-      "path": "1-Projects/reserver/Application and API.md"
     }
   ],
   "omittedPaths": [],

@@ -81,7 +81,8 @@
     "cmdlets",
     "RStudio",
     "postgres",
-    "codebase"
+    "codebase",
+    "backends"
   ],
   "livePreview": true,
   "legacyEditor": true

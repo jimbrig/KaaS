@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "R - Connect Shiny to PostgreSQL Database",
+      "path": "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Application and API",
       "path": "1-Projects/reserver/Application and API.md"
-    },
-    {
-      "basename": "Workflows",
-      "path": "1-Projects/reserver/Workflows.md"
     }
   ],
   "omittedPaths": [],

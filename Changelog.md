@@ -1,3 +1,4 @@
+- 2022-01-12 at 13h07 · [[R - Connect Shiny to PostgreSQL Database]]
 - 2022-01-12 at 12h22 · [[Readwise Syncs]]
 - 2022-01-12 at 12h22 · [[Dos and Don’ts for Organizing Your Digital Files  Seagate US]]
 - 2022-01-12 at 12h22 · [[(25) Knowledge Management in Real Life  LinkedIn]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[3 Smart Uses of Curated Lists and How to Create Them]]
 - 2021-12-28 at 01h56 · [[27 Incredibly Useful Things You Didn’t Know Chrome Could Do]]
 - 2021-12-28 at 01h56 · [[13 Things to Put on Your Daily Checklist for Boosted Productivity]]
-- 2021-12-28 at 01h56 · [[12 Types of Lists You Should Keep to Get Things Done]]

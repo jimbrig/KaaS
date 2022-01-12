@@ -80,7 +80,8 @@
     "Powershell",
     "cmdlets",
     "RStudio",
-    "postgres"
+    "postgres",
+    "codebase"
   ],
   "livePreview": true,
   "legacyEditor": true

@@ -26,6 +26,41 @@ pak::pak(c("DBI", "RPostgreSQL"))
 - **Port** - PostgreSQL default port is `5432`
 - **Username** & **Password** - User credentials
 
+*Best Practice: Do not keep database connection details tracked in VCS/Git, instead abstract the configuration away from the codebase as a separate config file, a dedicated secrets vault or keyring, or environment variables.*
+
+## Connect to the Database
+
+In R, to connect to a database using [[R Package - DBI|DBI]], you create an [[R - R6|R6]] object housing the connection, in this case the connection object is assigned to `conn`. 
+
+```R
+library(DBI)
+
+db <- "postgres"
+db_host <- "localhost"
+db_port <- "5432"
+db_user <- "<your_user>"
+db_pass <- "<your_password>"
+
+conn <- dbConnect(
+	RPostgres::Postgres(),
+	dbname = db,
+	host = db_host,
+	port = db_port,
+	user = db_user,
+	password = db_pass
+)
+```
+
+Next, you can check the connection was successful by running `DBI::dbListTables(conn)` to list all tables.
+
+## Running Queries
+
+- Example `SELECT` query:
+
+```R
+DBI::dbGetQuery(conn, "SELECT * FROM <table name> LIMIT 10")
+```
+
 ***
 
 #### Related

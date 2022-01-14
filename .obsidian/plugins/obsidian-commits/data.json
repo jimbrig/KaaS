@@ -5,14 +5,14 @@
   ],
   "filesCheckpoint": {
     "README.md": {
-      "size": 2282,
-      "tags": 0,
-      "links": 12
+      "size": 3392,
+      "tags": 1,
+      "links": 26
     },
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 500
+      "links": 497
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3758,14 +3758,19 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2022-01-14.md": {
+      "size": 447,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1274,
-      "Create": 1207,
-      "Link": 2253,
-      "Expand": 103
+      "Refactor": 1275,
+      "Create": 1208,
+      "Link": 2257,
+      "Expand": 104
     }
   },
   "dailyCommits": {
@@ -3786,7 +3791,7 @@
       "13": 62,
       "14": 499,
       "15": 153,
-      "16": 77,
+      "16": 84,
       "17": 228,
       "18": 1275,
       "19": 100,
@@ -3802,7 +3807,7 @@
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
-      "Fri": 319,
+      "Fri": 326,
       "Sat": 0,
       "Sun": 627
     }
@@ -3810,6 +3815,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
@@ -3859,10 +3865,10 @@
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"R Shiny.md\"> R Shiny </a>",
@@ -3912,8 +3918,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>"
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
@@ -3969,6 +3974,8 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
@@ -4017,9 +4024,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4080,6 +4085,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
@@ -4128,9 +4135,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4176,7 +4181,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

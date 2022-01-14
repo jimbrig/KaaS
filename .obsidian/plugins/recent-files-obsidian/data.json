@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-14",
+      "path": "2-Areas/Daily-Notes/2022-01-14.md"
+    },
+    {
       "basename": "R Shiny Packages",
       "path": "0-Slipbox/R Shiny Packages.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-26",
       "path": "2-Areas/Daily-Notes/2021-12-26.md"
-    },
-    {
-      "basename": "2021-12-18",
-      "path": "2-Areas/Daily-Notes/2021-12-18.md"
     }
   ],
   "omittedPaths": [],

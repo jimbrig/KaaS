@@ -3,7 +3,7 @@ site_description: Knowledge as a Service.
 site_author: Jimmy Briggs
 site_url: https://jimbrig.github.io/KaaS-New/
 copyright: Copyright &copy; 2022 Jimmy Briggs
-repo_url: https://jimbrig/KaaS-New/
+repo_url: https://github.com/jimbrig/KaaS-New/
 repo_name: jimbrig/KaaS-New
 remote_branch: gh-pages
 edit_uri: blob/main/

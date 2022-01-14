@@ -1,3 +1,10 @@
+---
+Date: 2021-10-27
+Author: Jimmy Briggs <jimmy.briggs@pwc.com>
+Alias: "KaaS"
+Tags: ["#Type/Readme"]
+---
+
 # KaaS - Knowledge as a Service
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
@@ -36,8 +43,40 @@ The others are still works in progress as I collect and curate more notes into t
 
 ## Notes
 
-- Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
-- This repository has two main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main) and [develop](https://github.com/jimbrig/KaaS-New/tree/develop). 
-	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub. 
-	- The [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch mirrors what you work with while inside the Obsidian application.
+- This repository has three main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main), [develop](https://github.com/jimbrig/KaaS-New/tree/develop), and [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages). 
+	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
+	- The [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch mirrors what I actually work with while inside the Obsidian application and gets sync'd automatically.
+	- The [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages) branch is deployed using [MkDocs]() and [GitHub Actions]().
 	- Links are converted using the rust library [Obsidian-Export](https://github.com/zoni/obsidian-export).
+	- Links for deployment are converted using the [mkdocs-roamlinks]() plugin.
+
+*Check out the various [GitHub Actions](.github/workflows) utilized to enable this entire process.*
+
+**Meta Notes**
+
+- Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
+
+- [[Changelog]]
+- [[Workbench]]
+- [[Vault Setup]]
+
+## Main Categories
+
+-   [[Actuarial Science]]
+-   [[Data Science]]
+-   [[Databases]]
+-   [[Data Science]]
+-   [[Development]]
+-   [[Finance]] 
+-   [[Mathematics and Statistics]]
+-   [[Personal Knowledge Management]]
+-   [[PowerShell]]
+-   [[Productivity]]
+-   [[Python]]
+-   [[R]] | [[R Shiny]]
+-   [[Software Development]]
+-   [[Web Development]]
+
+***
+
+<center><img src="https://i.imgur.com/k85OzqX.png" height="75%" width="75%"/></center>

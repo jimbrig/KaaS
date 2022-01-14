@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-01-14",
+      "path": "2-Areas/Daily-Notes/2022-01-14.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "Changelog.md"
+    },
+    {
       "basename": "R Shiny Packages",
       "path": "0-Slipbox/R Shiny Packages.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "R Package - DBI",
       "path": "0-Slipbox/R Package - DBI.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "2022-01-12",
@@ -71,10 +79,6 @@
     {
       "basename": "Python Package - SQLAlchemy",
       "path": "0-Slipbox/Python Package - SQLAlchemy.md"
-    },
-    {
-      "basename": "Changelog",
-      "path": "Changelog.md"
     },
     {
       "basename": "Annual Goals and Life Domains",
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-26",
       "path": "2-Areas/Daily-Notes/2021-12-26.md"
-    },
-    {
-      "basename": "2021-12-18",
-      "path": "2-Areas/Daily-Notes/2021-12-18.md"
     }
   ],
   "omittedPaths": [],

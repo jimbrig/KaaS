@@ -84,7 +84,8 @@
     "codebase",
     "backends",
     "RPostgreSQL",
-    "RPostgres"
+    "RPostgres",
+    "Kimball"
   ],
   "livePreview": true,
   "legacyEditor": true

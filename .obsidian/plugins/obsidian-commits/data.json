@@ -3762,14 +3762,24 @@
     "2-Areas/Daily-Notes/2022-01-14.md": {
       "size": 447,
       "tags": 1,
-      "links": 3
+      "links": 4
+    },
+    "0-Slipbox/Kimball Techniques for Data Warehousing.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
+    },
+    "0-Slipbox/ETL Data Warehousing Best Practices.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1275,
-      "Create": 1208,
-      "Link": 2257,
+      "Refactor": 1277,
+      "Create": 1210,
+      "Link": 2261,
       "Expand": 104
     }
   },
@@ -3791,7 +3801,7 @@
       "13": 62,
       "14": 499,
       "15": 153,
-      "16": 84,
+      "16": 92,
       "17": 228,
       "18": 1275,
       "19": 100,
@@ -3807,7 +3817,7 @@
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
-      "Fri": 326,
+      "Fri": 334,
       "Sat": 0,
       "Sun": 627
     }
@@ -3868,6 +3878,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
+        "<a class=\"internal-link\" href=\"Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>",
@@ -3916,11 +3928,11 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
@@ -3969,11 +3981,11 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Athena.md\"> AWS Athena </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
@@ -4022,9 +4034,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Data.md\"> Data </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4085,6 +4095,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
@@ -4133,9 +4145,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

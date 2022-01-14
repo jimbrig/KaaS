@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ETL Data Warehousing Best Practices",
+      "path": "0-Slipbox/ETL Data Warehousing Best Practices.md"
+    },
+    {
+      "basename": "Kimball Techniques for Data Warehousing",
+      "path": "0-Slipbox/Kimball Techniques for Data Warehousing.md"
+    },
+    {
       "basename": "2022-01-14",
       "path": "2-Areas/Daily-Notes/2022-01-14.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Assign Global Hotkeys to Launch Any App in Windows 10",
       "path": "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md"
-    },
-    {
-      "basename": "SQLite",
-      "path": "0-Slipbox/SQLite.md"
-    },
-    {
-      "basename": "2021-12-26",
-      "path": "2-Areas/Daily-Notes/2021-12-26.md"
     }
   ],
   "omittedPaths": [],

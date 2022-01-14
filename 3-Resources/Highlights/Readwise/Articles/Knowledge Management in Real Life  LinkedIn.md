@@ -3,15 +3,15 @@ Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://www.linkedin.com/pulse/knowledge-management-real-life-abbe-wiesenthal/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
-# (25) Knowledge Management in Real Life | LinkedIn
+# Knowledge Management in Real Life | LinkedIn
 
 ## Metadata
 - Author: [[linkedin.com]]
 - Full Title: (25) Knowledge Management in Real Life | LinkedIn
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://www.linkedin.com/pulse/knowledge-management-real-life-abbe-wiesenthal/
 
 ## Highlights

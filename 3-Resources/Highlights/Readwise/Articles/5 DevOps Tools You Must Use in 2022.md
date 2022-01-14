@@ -3,7 +3,7 @@ Date: 2021-11-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/6e830a7db7ba
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # 5 DevOps Tools You Must Use in 2022

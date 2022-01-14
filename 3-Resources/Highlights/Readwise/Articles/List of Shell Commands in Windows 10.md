@@ -3,7 +3,7 @@ Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://winaero.com/blog/list-of-shell-commands-in-windows-10/
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # List of Shell Commands in Windows 10

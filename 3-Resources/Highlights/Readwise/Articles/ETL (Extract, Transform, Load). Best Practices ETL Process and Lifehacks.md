@@ -3,7 +3,7 @@ Date: 2021-12-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/553409238509
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks

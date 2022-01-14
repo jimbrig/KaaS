@@ -2406,7 +2406,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md": {
       "size": 4723,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "0-Slipbox/Actuarial Exams.md": {
@@ -3226,7 +3226,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md": {
       "size": 1441,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "0-Slipbox/Backup Edge User Preferences PowerShell Script.md": {
@@ -3356,17 +3356,17 @@
     },
     "3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md": {
       "size": 1809,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md": {
       "size": 825,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md": {
       "size": 2925,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2021-12-01.md": {
@@ -3376,7 +3376,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md": {
       "size": 585,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "0-Slipbox/Azure Setup Guide.md": {
@@ -3391,7 +3391,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md": {
       "size": 2717,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2021-12-05.md": {
@@ -3421,17 +3421,17 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md": {
       "size": 2095,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md": {
       "size": 799,
-      "tags": 2,
-      "links": 1
+      "tags": 1,
+      "links": 0
     },
     "3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md": {
       "size": 4407,
-      "tags": 2,
+      "tags": 1,
       "links": 4
     },
     "2-Areas/Mindsweeps/_README.md": {
@@ -3541,17 +3541,17 @@
     },
     "3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md": {
       "size": 3587,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": {
       "size": 10718,
-      "tags": 2,
+      "tags": 1,
       "links": 5
     },
     "3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md": {
       "size": 3560,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2021-12-26.md": {
@@ -3561,12 +3561,12 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md": {
       "size": 1097,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md": {
       "size": 538,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2021-12-28.md": {
@@ -3576,7 +3576,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md": {
       "size": 1641,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "0-Slipbox/R Package Development Resources.md": {
@@ -3666,7 +3666,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md": {
       "size": 354,
-      "tags": 2,
+      "tags": 1,
       "links": 0
     },
     "2-Areas/Daily-Notes/2022-01-10.md": {
@@ -3714,14 +3714,9 @@
       "tags": 1,
       "links": 3
     },
-    "3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md": {
-      "size": 953,
-      "tags": 2,
-      "links": 1
-    },
     "3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md": {
       "size": 2535,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
@@ -3773,11 +3768,16 @@
       "size": 1794,
       "tags": 2,
       "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md": {
+      "size": 953,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1275,
+      "Refactor": 1296,
       "Create": 1211,
       "Link": 2260,
       "Expand": 104
@@ -3802,7 +3802,7 @@
       "14": 499,
       "15": 153,
       "16": 77,
-      "17": 241,
+      "17": 262,
       "18": 1275,
       "19": 100,
       "20": 27,
@@ -3817,7 +3817,7 @@
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
-      "Fri": 332,
+      "Fri": 353,
       "Sat": 0,
       "Sun": 627
     }
@@ -3931,6 +3931,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md\"> Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
@@ -3980,8 +3981,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Alteryx.md\"> Alteryx </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Todoist-CLI.md\"> Todoist-CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Microsoft Edge.md\"> Microsoft Edge </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Microsoft Edge.md\"> Microsoft Edge </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
@@ -4166,7 +4166,26 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Persistent Config and Data for R Packages - R-Hub Blog.md\"> Persistent Config and Data for R Packages - R-Hub Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/First Principles of Workflow Design (A 2-Part Episode)  RadReads.md\"> First Principles of Workflow Design (A 2-Part Episode)  RadReads </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md\"> A Builder’s Guide to Note-Taking </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md\"> A Builder’s Guide to Note-Taking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md\"> Knowledge Management in Real Life  LinkedIn </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Second Brain Method.md\"> The Second Brain Method </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs.md\"> The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Capture Stage of GTD, Explained.md\"> The Capture Stage of GTD, Explained </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Quick Start Guide How to Start Implementing GTD Successfully.md\"> Quick Start Guide How to Start Implementing GTD Successfully </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10.md\"> List of Shell Commands in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services.md\"> Getting Started With R on Amazon Web Services  Amazon Web Services </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Designing Better File Organization.md\"> Designing Better File Organization </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",
@@ -4191,7 +4210,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>"
       ]
     }
   },

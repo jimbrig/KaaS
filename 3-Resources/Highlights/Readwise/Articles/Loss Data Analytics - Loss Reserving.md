@@ -3,7 +3,7 @@ Date: 2021-12-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: mobile_share
 Link: null
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # Loss Data Analytics - Loss Reserving

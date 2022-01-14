@@ -3,7 +3,7 @@ Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2c7158114e2f
-Tags: ["#Type/Highlights/Readwise"]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # How to Design a Clean Database

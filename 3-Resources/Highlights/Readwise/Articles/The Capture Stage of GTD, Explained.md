@@ -3,7 +3,7 @@ Date: 2021-11-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/682c91aa11c2
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # The Capture Stage of GTD, Explained

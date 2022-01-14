@@ -3,7 +3,7 @@ Date: 2021-11-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://aws.amazon.com/blogs/opensource/getting-started-with-r-on-amazon-web-services/
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # Getting Started With R on Amazon Web Services | Amazon Web Services

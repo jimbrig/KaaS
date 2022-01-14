@@ -3,7 +3,7 @@ Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://hackersandslackers.com/configure-flask-applications/
-Tags: [ "#Type/Highlight/Readwise" ]
+Tags: [ "#Type/Highlight/Article" ]
 Aliases: []
 ---
 # Configuring Your Flask App

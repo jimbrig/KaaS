@@ -1,3 +1,4 @@
+- 2022-01-14 at 17h50 · [[(25) Knowledge Management in Real Life  LinkedIn]]
 - 2022-01-14 at 17h49 · [[2022-01-14]]
 - 2022-01-14 at 17h47 · [[Kimball Techniques for Data Warehousing]]
 - 2022-01-14 at 17h47 · [[ETL Data Warehousing Best Practices]]
@@ -10,7 +11,6 @@
 - 2022-01-12 at 13h18 · [[R - Connect Shiny to PostgreSQL Database]]
 - 2022-01-12 at 12h22 · [[Readwise Syncs]]
 - 2022-01-12 at 12h22 · [[Dos and Don’ts for Organizing Your Digital Files  Seagate US]]
-- 2022-01-12 at 12h22 · [[(25) Knowledge Management in Real Life  LinkedIn]]
 - 2022-01-12 at 12h22 · [[2022-01-12]]
 - 2022-01-12 at 12h22 · [[2022-01-11]]
 - 2022-01-10 at 23h12 · [[RStudio Package Manager]]

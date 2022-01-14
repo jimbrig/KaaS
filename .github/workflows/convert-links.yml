@@ -1,49 +1,37 @@
-on: 
+name: Convert-Links
+on:
   push:
-    branches: [ develop ]
-
-name: Convert Links
-
+    branches: [ develop ] # note: develop branch is the branch obsidian pushes to
+  workflow_dispatch:
 jobs:
-  export:
-    name: Export Vault
+  setup:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Export
-        uses: ./.github/actions/export-action
-        id: export
+      - uses: actions/checkout@v2
         with:
-          vault-location: ./Vault
-          vault-subdirectory: "/Export"
-        
-  #       actions-rs/toolchain@v1
-  #       with:
-  #         profile: minimal
-  #         toolchain: stable
-  #         override: true
-  #     - uses: actions-rs/cargo@v1
-  #     - run: cargo install obsidian-export
-
-  #     - name: Convert Wikilinks
-  #       run: |
-  #         mkdir .export
-  #         mkdir .copy
-  #         cp -r * .copy
-  #         obsidian-export 
-          
-  #         git config --global user.name 'Jimmy Briggs'
-  #         git config --global user.email 'jimbrig@users.noreply.github.com'
-  #         git checkout -b main
-  #         git pull
-
-  #         git commit -am "Automated report"
-  #         git push
-
-  # convert:
-  #   name: Convert Wikilinks
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - uses: 
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - name: Rename _READMEs
+        run: find . -name '*_README.md' -execdir mv -i {} README.md ";"
+      - name: setup rust
+        uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+          override: true
+      - name: install obsidian-exort
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: obsidian-export
+      - name: obsidian-export
+        run: mkdir tmp && obsidian-export . tmp --frontmatter never && cp tmp/* . -f -r && rm -r tmp
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: jimmy.briggs@jimbrig.com
+          author_name: 'Jimmy Briggs'
+          message: 'chore: convert mdlinks via obsidian-export and rename READMEs'
+          branch: main
+          force: true

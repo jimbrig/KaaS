@@ -3758,12 +3758,27 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2022-01-14.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/ETL Data Warehousing Best Practices.md": {
+      "size": 1739,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/Kimball Techniques for Data Warehousing.md": {
+      "size": 1794,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1274,
-      "Create": 1207,
+      "Refactor": 1275,
+      "Create": 1211,
       "Link": 2253,
       "Expand": 103
     }
@@ -3787,7 +3802,7 @@
       "14": 499,
       "15": 153,
       "16": 77,
-      "17": 228,
+      "17": 233,
       "18": 1275,
       "19": 100,
       "20": 27,
@@ -3802,7 +3817,7 @@
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
-      "Fri": 319,
+      "Fri": 324,
       "Sat": 0,
       "Sun": 627
     }
@@ -3863,6 +3878,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/How to create a passwordless sudoer on Linux.md\"> How to create a passwordless sudoer on Linux </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"R Shiny.md\"> R Shiny </a>",
@@ -3909,11 +3928,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>"
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
@@ -4027,6 +4042,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -4076,8 +4092,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs.md\"> The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md\"> The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System.md\"> The Search for the Ultimate Productivity System </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Role of Data Scientist A Back-Of-The-Envelope Model.md\"> The Role of Data Scientist A Back-Of-The-Envelope Model </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",

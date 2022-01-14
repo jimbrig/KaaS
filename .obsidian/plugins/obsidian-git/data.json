@@ -7,10 +7,12 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
-  "updateSubmodules": false,
+  "updateSubmodules": true,
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false
+  "autoBackupAfterFileChange": true,
+  "mergeOnPull": true,
+  "treeStructure": false
 }

@@ -4,5 +4,7 @@
     "id": "5822738",
     "name": "Jimmy's Workspace"
   },
-  "charLimitStatusBar": 40
+  "charLimitStatusBar": 40,
+  "updateInRealTime": true,
+  "hasDismissedAlert": false
 }

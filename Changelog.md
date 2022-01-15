@@ -1,3 +1,4 @@
+- 2022-01-15 at 16h05 · [[2022-01-15]]
 - 2022-01-14 at 17h56 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
 - 2022-01-14 at 17h56 · [[Knowledge Management in Real Life  LinkedIn]]
 - 2022-01-14 at 17h56 · [[The Second Brain Method]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life]]
 - 2021-12-28 at 01h56 · [[5 Pitfalls of Being an Information Hoarder  Foolishly Creative]]
 - 2021-12-28 at 01h56 · [[5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later]]
-- 2021-12-28 at 01h56 · [[4 Steps to Organize Your Massive To-Do List]]

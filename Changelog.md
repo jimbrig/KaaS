@@ -1,3 +1,5 @@
+- 2022-01-15 at 16h05 · [[Data Warehouse Insurance - Kimball Group]]
+- 2022-01-15 at 16h05 · [[Readwise Syncs]]
 - 2022-01-15 at 16h05 · [[2022-01-15]]
 - 2022-01-14 at 17h56 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
 - 2022-01-14 at 17h56 · [[Knowledge Management in Real Life  LinkedIn]]
@@ -28,7 +30,6 @@
 - 2022-01-12 at 13h27 · [[R Package - RPostgreSQL]]
 - 2022-01-12 at 13h24 · [[R Package - DBI]]
 - 2022-01-12 at 13h18 · [[R - Connect Shiny to PostgreSQL Database]]
-- 2022-01-12 at 12h22 · [[Readwise Syncs]]
 - 2022-01-12 at 12h22 · [[2022-01-12]]
 - 2022-01-12 at 12h22 · [[2022-01-11]]
 - 2022-01-10 at 23h12 · [[RStudio Package Manager]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[5 Steps for Tracking Your Monthly Expenses - NerdWallet]]
 - 2021-12-28 at 01h56 · [[5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life]]
 - 2021-12-28 at 01h56 · [[5 Pitfalls of Being an Information Hoarder  Foolishly Creative]]
-- 2021-12-28 at 01h56 · [[5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later]]

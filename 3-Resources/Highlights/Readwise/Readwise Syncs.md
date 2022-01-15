@@ -2,3 +2,6 @@
     - 2 highlights from (25) Knowledge Management in Real Life | LinkedIn
     - 5 highlights from Dos and Don’ts for Organizing Your Digital Files | Seagate US
 
+- [[2022-01-15]] 4:05 PM — Synced 7 highlights from 1 document.
+    - 7 highlights from Data Warehouse Insurance - Kimball Group
+

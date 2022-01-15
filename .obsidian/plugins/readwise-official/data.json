@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2582408,
-  "currentSyncStatusID": 2604042,
+  "lastSavedStatusID": 2604042,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1358,7 +1358,8 @@
     "3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md": "12472395",
     "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md": "12649242",
     "3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md": "12805612",
-    "3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md": "12805613"
+    "3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md": "12805613",
+    "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": "12876416"
   },
   "reimportShowConfirmation": true
 }

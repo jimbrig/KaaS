@@ -1,3 +1,4 @@
+- 2022-01-16 at 16h28 · [[Readwise Syncs]]
 - 2022-01-16 at 16h28 · [[2022-01-16]]
 - 2022-01-15 at 21h10 · [[ELT Cloud Based Pipeline Architecture]]
 - 2022-01-15 at 20h53 · [[Fact Table Structure]]
@@ -8,7 +9,6 @@
 - 2022-01-15 at 20h19 · [[Data Engineering]]
 - 2022-01-15 at 20h16 · [[Data Warehouse Insurance - Kimball Group]]
 - 2022-01-15 at 20h16 · [[Data Warehousing for Insurance Data]]
-- 2022-01-15 at 16h05 · [[Readwise Syncs]]
 - 2022-01-15 at 16h05 · [[2022-01-15]]
 - 2022-01-14 at 17h56 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
 - 2022-01-14 at 17h56 · [[Knowledge Management in Real Life  LinkedIn]]

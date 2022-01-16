@@ -3805,7 +3805,7 @@
       "links": 3
     },
     "0-Slipbox/Dimensional Modeling.md": {
-      "size": 0,
+      "size": 5568,
       "tags": 2,
       "links": 5
     }
@@ -3815,7 +3815,7 @@
       "Refactor": 1300,
       "Create": 1218,
       "Link": 2274,
-      "Expand": 104
+      "Expand": 105
     }
   },
   "dailyCommits": {
@@ -3840,7 +3840,7 @@
       "17": 262,
       "18": 1275,
       "19": 100,
-      "20": 45,
+      "20": 46,
       "21": 15,
       "22": 59,
       "23": 28
@@ -3854,12 +3854,13 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 652
+      "Sun": 653
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
@@ -3909,8 +3910,7 @@
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
-        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
+        "<a class=\"internal-link\" href=\"MOCs/Actuarial Science.md\"> Actuarial Science </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Bill Inmon.md\"> Bill Inmon </a>",

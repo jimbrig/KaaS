@@ -1,4 +1,4 @@
-- 2022-01-15 at 20h24 · [[Dimensional Modeling]]
+- 2022-01-15 at 20h29 · [[Dimensional Modeling]]
 - 2022-01-15 at 20h22 · [[Bill Inmon]]
 - 2022-01-15 at 20h21 · [[Ralph Kimball]]
 - 2022-01-15 at 20h19 · [[Data Engineering]]

@@ -85,7 +85,11 @@
     "backends",
     "RPostgreSQL",
     "RPostgres",
-    "Kimball"
+    "Kimball",
+    "Understandability",
+    "denormalized",
+    "scalable",
+    "lifecycle"
   ],
   "livePreview": true,
   "legacyEditor": true

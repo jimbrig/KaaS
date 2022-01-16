@@ -3809,21 +3809,26 @@
       "tags": 2,
       "links": 13
     },
-    "The Kimball Lifecycle.md": {
-      "size": 2876,
-      "tags": 2,
-      "links": 4
-    },
     "0-Slipbox/Fact Table Structure.md": {
       "size": 0,
       "tags": 2,
       "links": 6
+    },
+    "0-Slipbox/The Kimball Lifecycle.md": {
+      "size": 2876,
+      "tags": 2,
+      "links": 4
+    },
+    "0-Slipbox/ELT Cloud Based Pipeline Architecture.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1300,
-      "Create": 1220,
+      "Refactor": 1301,
+      "Create": 1221,
       "Link": 2281,
       "Expand": 107
     }
@@ -3850,7 +3855,7 @@
       "17": 262,
       "18": 1275,
       "19": 100,
-      "20": 57,
+      "20": 59,
       "21": 15,
       "22": 59,
       "23": 28
@@ -3864,7 +3869,7 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 664
+      "Sun": 666
     }
   },
   "recentCommits": {
@@ -3924,6 +3929,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"Bill Inmon.md\"> Bill Inmon </a>",
         "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
@@ -3972,10 +3978,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Design a Clean Database.md\"> How to Design a Clean Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-28.md\"> 2021-12-28 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
@@ -4025,8 +4031,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Data Studio.md\"> Azure Data Studio </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS QuickSight.md\"> AWS QuickSight </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Redshift.md\"> AWS Redshift </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Glue.md\"> AWS Glue </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Athena.md\"> AWS Athena </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Glue.md\"> AWS Glue </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",

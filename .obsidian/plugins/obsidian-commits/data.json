@@ -3821,7 +3821,7 @@
     },
     "0-Slipbox/ELT Cloud Based Pipeline Architecture.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     }
   },
@@ -3829,7 +3829,7 @@
     "/": {
       "Refactor": 1301,
       "Create": 1221,
-      "Link": 2281,
+      "Link": 2282,
       "Expand": 107
     }
   },
@@ -3856,7 +3856,7 @@
       "18": 1275,
       "19": 100,
       "20": 59,
-      "21": 15,
+      "21": 16,
       "22": 59,
       "23": 28
     }
@@ -3869,7 +3869,7 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 666
+      "Sun": 667
     }
   },
   "recentCommits": {
@@ -4034,6 +4034,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Glue.md\"> AWS Glue </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>",
@@ -4083,8 +4084,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/P.A.R.A. V The Project List Mindsweep.md\"> P.A.R.A. V The Project List Mindsweep </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

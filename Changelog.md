@@ -1,4 +1,4 @@
-- 2022-01-15 at 20h59 · [[ELT Cloud Based Pipeline Architecture]]
+- 2022-01-15 at 21h04 · [[ELT Cloud Based Pipeline Architecture]]
 - 2022-01-15 at 20h53 · [[Fact Table Structure]]
 - 2022-01-15 at 20h36 · [[The Kimball Lifecycle]]
 - 2022-01-15 at 20h32 · [[Ralph Kimball]]

@@ -89,7 +89,8 @@
     "Understandability",
     "denormalized",
     "scalable",
-    "lifecycle"
+    "lifecycle",
+    "intaking"
   ],
   "livePreview": true,
   "legacyEditor": true

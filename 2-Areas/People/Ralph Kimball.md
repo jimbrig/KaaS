@@ -16,6 +16,9 @@ Aliases: [""]
 -   [Kimball Group](http://www.kimballgroup.com/)
 -   [Differences of Opinion: The Kimball bus architecture and the Corporate Information Factory](http://www.kimballgroup.com/2004/03/differences-of-opinion/)
 
+
+[[Bill Inmon]]
+
 ***
 
 ## Appendix: Links

@@ -21,9 +21,29 @@ According to Kimball, this phase is the start of the lifecycle. It is a [plannin
 -   Plan project
 -   [Project management](https://en.wikipedia.org/wiki/Project_management)
 
+## Business Requirements Definition
 
+This phase/milestone of the project is about making the project team understand the [business requirements](https://en.wikipedia.org/wiki/Business_requirements "Business requirements"). Its purpose is to establish a foundation for all the following activities in the lifecycle. Kimball et al. makes it clear that it is important for the project team to talk with the business users and be prepared to focus on listening and to document the interview. An output of this step is the [Enterprise bus matrix](https://en.wikipedia.org/wiki/Enterprise_bus_matrix "Enterprise bus matrix").
 
+## Technology Track
 
+The top track holds two milestones:
+
+1.  **Technical Architecture** Design is supposed to create a framework for the DW/BI system. The main focus in this phase is to create a plan for the application architecture, while considering business requirements, technical environment and the planned strategic technical directions.
+2.  **Product Selection & Installation** use the architecture plan to identify what components are needed to complete the DW/BI project. This phase then selects, installs and tests the products.
+
+## Data Track
+
+**[[Dimensional Modeling]]** is a process in which the business requirements are used to design dimensional models for the system.
+
+**Physical Design** is the phase where the database is designed. It involves the database environment as well as security.
+
+**ETL Design & Development** is the design of some of the heavy procedures in the DW/BI-system ([Extract, Transform, Load](https://en.wikipedia.org/wiki/Extract,_Transform,_Load "Extract, Transform, Load")). Kimball suggests four parts to this process, which are further divided into 4 subsystems:
+
+-   Extracting data
+-   Cleaning and conforming data
+-   Delivering data for Presentation
+-   Managing the ETL system
 
 ***
 

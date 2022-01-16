@@ -3810,17 +3810,17 @@
       "links": 13
     },
     "The Kimball Lifecycle.md": {
-      "size": 0,
+      "size": 2876,
       "tags": 2,
-      "links": 3
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1300,
       "Create": 1219,
-      "Link": 2278,
-      "Expand": 106
+      "Link": 2279,
+      "Expand": 107
     }
   },
   "dailyCommits": {
@@ -3845,7 +3845,7 @@
       "17": 262,
       "18": 1275,
       "19": 100,
-      "20": 52,
+      "20": 54,
       "21": 15,
       "22": 59,
       "23": 28
@@ -3859,12 +3859,13 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 659
+      "Sun": 661
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
@@ -3913,7 +3914,6 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>",
-        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>"
       ],
@@ -4135,6 +4135,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
@@ -4184,8 +4185,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

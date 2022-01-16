@@ -1,4 +1,4 @@
-- 2022-01-15 at 20h34 · [[The Kimball Lifecycle]]
+- 2022-01-15 at 20h36 · [[The Kimball Lifecycle]]
 - 2022-01-15 at 20h32 · [[Ralph Kimball]]
 - 2022-01-15 at 20h31 · [[Dimensional Modeling]]
 - 2022-01-15 at 20h22 · [[Bill Inmon]]

@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Ralph Kimball]]
 - Full Title: Data Warehouse Insurance - Kimball Group
-- Category: #articles
+- Category: #Type/Highlight/Article
 - Document Tags: [[Liked]] 
 - URL: https://www.kimballgroup.com/1995/12/data-warehouse-insurance/
 

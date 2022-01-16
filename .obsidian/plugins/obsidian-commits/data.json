@@ -3783,13 +3783,33 @@
       "size": 3605,
       "tags": 2,
       "links": 2
+    },
+    "0-Slipbox/Data Warehousing for Insurance Data.md": {
+      "size": 0,
+      "tags": 4,
+      "links": 0
+    },
+    "2-Areas/People/Ralph Kimball.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 7
+    },
+    "2-Areas/MOCs/Data Engineering.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Dimensional Modeling.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1296,
-      "Create": 1213,
-      "Link": 2265,
+      "Refactor": 1298,
+      "Create": 1217,
+      "Link": 2270,
       "Expand": 104
     }
   },
@@ -3815,7 +3835,7 @@
       "17": 262,
       "18": 1275,
       "19": 100,
-      "20": 27,
+      "20": 38,
       "21": 15,
       "22": 59,
       "23": 28
@@ -3829,7 +3849,7 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 634
+      "Sun": 645
     }
   },
   "recentCommits": {
@@ -3888,6 +3908,10 @@
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
+        "<a class=\"internal-link\" href=\"Data Engineering.md\"> Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"Ralph Kimball.md\"> Ralph Kimball </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -3934,13 +3958,11 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Loss Data Analytics - Loss Reserving.md\"> Loss Data Analytics - Loss Reserving </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-26.md\"> 2021-12-26 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md\"> Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
@@ -3989,11 +4011,13 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Glue.md\"> AWS Glue </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Athena.md\"> AWS Athena </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Alteryx.md\"> Alteryx </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Edge.md\"> Microsoft Edge </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Microsoft Edge.md\"> Microsoft Edge </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Todoist-CLI.md\"> Todoist-CLI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing for Insurance Data.md\"> Data Warehousing for Insurance Data </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
+        "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
@@ -4040,11 +4064,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-18.md\"> 2021-12-18 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks.md\"> ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Application and API.md\"> Application and API </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Workflows.md\"> Workflows </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Data.md\"> Data </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/Functions.md\"> Functions </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4105,6 +4125,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
@@ -4154,8 +4175,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

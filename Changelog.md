@@ -1,3 +1,4 @@
+- 2022-01-15 at 20h53 · [[Fact Table Structure]]
 - 2022-01-15 at 20h36 · [[The Kimball Lifecycle]]
 - 2022-01-15 at 20h32 · [[Ralph Kimball]]
 - 2022-01-15 at 20h31 · [[Dimensional Modeling]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[7 Best Practices for Your Developer Onboarding Process]]
 - 2021-12-28 at 01h56 · [[7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff]]
 - 2021-12-28 at 01h56 · [[62 Productive Things to Do When Bored at Home]]
-- 2021-12-28 at 01h56 · [[6 YAML Features Most Programmers Don’t Know]]

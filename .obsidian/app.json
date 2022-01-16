@@ -90,7 +90,8 @@
     "denormalized",
     "scalable",
     "lifecycle",
-    "intaking"
+    "intaking",
+    "Denormalize"
   ],
   "livePreview": true,
   "legacyEditor": true

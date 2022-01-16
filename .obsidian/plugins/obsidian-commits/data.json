@@ -3820,17 +3820,17 @@
       "links": 4
     },
     "0-Slipbox/ELT Cloud Based Pipeline Architecture.md": {
-      "size": 0,
+      "size": 2344,
       "tags": 2,
-      "links": 0
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1301,
       "Create": 1221,
-      "Link": 2282,
-      "Expand": 107
+      "Link": 2283,
+      "Expand": 108
     }
   },
   "dailyCommits": {
@@ -3856,7 +3856,7 @@
       "18": 1275,
       "19": 100,
       "20": 59,
-      "21": 16,
+      "21": 18,
       "22": 59,
       "23": 28
     }
@@ -3869,12 +3869,13 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 667
+      "Sun": 669
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
@@ -3924,7 +3925,6 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>",
-        "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"Meta/About.md\"> About </a>"
       ],
       "Created": [
@@ -4145,6 +4145,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
@@ -4194,8 +4195,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/PowerShell.md\"> PowerShell </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

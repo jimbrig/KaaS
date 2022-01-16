@@ -17,9 +17,24 @@ To demonstrate, the diagram below displays two data flows: one using relational 
 
 ![](https://i.imgur.com/3qEtSUn.png)
 
+## Best Practices
+
+1. **Isolate your source data in a "common landing area": 
+
+The first step of our process is to identify the source tables that we need to build out the warehouse and load the information in a staging database
+
+2. **Denormalize and combine data into a data hub**:
+
+After staging the data in the common landing area (CLA) or staging schema (STG), next, the data should trigger some sort of a [[Stored Procedure]] to combine the data into common tables. 
+
+For example, if you have 13 sources with policy information (policy number, holder, effective date, etc…) that get combined into a single [Business].[Policy] table in my database. I also created tables for tracking other dimensions and facts such as claims, billing, and payment.
+
+
 ## Collection
 
-This first step is to **collect**.  
+This first step is to **collect**.  There are a couple methods to do this; you can dump raw data files into a [[Data Lake]] or pull the data directly into a relational database via more traditional ETL methods.
+
+There needs to a mechanism in place to orchestrate the transition from the collected input data into a staging area where all collected data gets housed, logged, and cataloged.
 
 
 

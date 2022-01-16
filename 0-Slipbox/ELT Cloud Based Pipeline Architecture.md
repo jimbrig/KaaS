@@ -19,7 +19,7 @@ To demonstrate, the diagram below displays two data flows: one using relational 
 
 ## Best Practices
 
-1. **Isolate your source data in a "common landing area": 
+1. **Isolate your source data in a "common landing area"**: 
 
 The first step of our process is to identify the source tables that we need to build out the warehouse and load the information in a staging database
 
@@ -27,7 +27,12 @@ The first step of our process is to identify the source tables that we need to b
 
 After staging the data in the common landing area (CLA) or staging schema (STG), next, the data should trigger some sort of a [[Stored Procedure]] to combine the data into common tables. 
 
-For example, if you have 13 sources with policy information (policy number, holder, effective date, etc…) that get combined into a single [Business].[Policy] table in my database. I also created tables for tracking other dimensions and facts such as claims, billing, and payment.
+3. **Create Star Schema Warehouse**:
+
+Finally, the team loads the business layer into the data warehouse by assigning surrogate keys to the dimensions, creating references in the facts, and structuring the tables in a star schema. If designed correctly, any modern reporting tool, will be able to connect to the DW and generate high-performance reporting.
+
+![](https://i.imgur.com/72ojaZQ.png)
+
 
 
 ## Collection

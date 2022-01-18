@@ -101,10 +101,5 @@ A data mart is a data warehouse that serves the needs of a specific team or busi
 - [[AWS Athena]]
 - [[AWS QuickSight]]
 - [[AWS Glue]]
+- [[Features of a Data Warehouse]]
 
-
-*Backlinks:*
-
-```dataview
-list from [[Data Warehouse]] AND -"Changelog"
-```

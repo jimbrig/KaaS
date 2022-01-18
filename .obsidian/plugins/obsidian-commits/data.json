@@ -3852,14 +3852,14 @@
     "Data Engineering Master List of Resources.md": {
       "size": 26830,
       "tags": 1,
-      "links": 14
+      "links": 45
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1303,
       "Create": 1227,
-      "Link": 2299,
+      "Link": 2300,
       "Expand": 112
     }
   },
@@ -3886,14 +3886,14 @@
       "18": 1275,
       "19": 100,
       "20": 71,
-      "21": 27,
+      "21": 28,
       "22": 59,
       "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 243,
+      "Mon": 244,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -4176,6 +4176,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
+        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
@@ -4224,8 +4225,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

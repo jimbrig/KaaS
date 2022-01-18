@@ -1,4 +1,4 @@
-- 2022-01-17 at 21h08 · [[Data Engineering Master List of Resources]]
+- 2022-01-17 at 21h09 · [[Data Engineering Master List of Resources]]
 - 2022-01-17 at 20h58 · [[Features of a Data Warehouse]]
 - 2022-01-17 at 20h57 · [[Data Warehouse]]
 - 2022-01-17 at 20h55 · [[Data Warehousing Roadmap]]

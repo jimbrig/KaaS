@@ -1,5 +1,6 @@
+- 2022-01-17 at 20h28 · [[Readwise Syncs]]
+- 2022-01-17 at 20h28 · [[Untitled]]
 - 2022-01-17 at 14h18 · [[2022-01-17]]
-- 2022-01-16 at 16h28 · [[Readwise Syncs]]
 - 2022-01-16 at 16h28 · [[2022-01-16]]
 - 2022-01-15 at 21h10 · [[ELT Cloud Based Pipeline Architecture]]
 - 2022-01-15 at 20h53 · [[Fact Table Structure]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[8 Ways to Free Up RAM on Your Windows Computer]]
 - 2021-12-28 at 01h56 · [[8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry]]
 - 2021-12-28 at 01h56 · [[7 Effective Tools to Increase Your Hard Drive Performance on Windows]]
-- 2021-12-28 at 01h56 · [[7 Quick Tips to Control Clutter and Stop Hoarding]]

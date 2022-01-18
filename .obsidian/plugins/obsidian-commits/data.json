@@ -3839,31 +3839,26 @@
       "tags": 2,
       "links": 7
     },
-    "Data Warehousing Roadmap.md": {
-      "size": 7421,
-      "tags": 2,
-      "links": 17
-    },
-    "Features of a Data Warehouse.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 2
-    },
-    "Data Engineering Master List of Resources.md": {
+    "0-Slipbox/Data Engineering Master List of Resources.md": {
       "size": 26830,
       "tags": 1,
       "links": 45
     },
-    "Untitled mindmap.md": {
+    "0-Slipbox/Data Warehousing Roadmap.md": {
+      "size": 7421,
+      "tags": 2,
+      "links": 17
+    },
+    "0-Slipbox/Features of a Data Warehouse.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1303,
-      "Create": 1228,
+      "Refactor": 1308,
+      "Create": 1229,
       "Link": 2300,
       "Expand": 112
     }
@@ -3891,14 +3886,14 @@
       "18": 1275,
       "19": 100,
       "20": 71,
-      "21": 29,
+      "21": 35,
       "22": 59,
       "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 245,
+      "Mon": 251,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3963,6 +3958,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
@@ -4012,10 +4008,12 @@
         "<a class=\"internal-link\" href=\"PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>"
+        "<a class=\"internal-link\" href=\"PowerShell Modules.md\"> PowerShell Modules </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
         "<a class=\"internal-link\" href=\"Data Cataloging.md\"> Data Cataloging </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
@@ -4063,10 +4061,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure MLOps.md\"> Azure MLOps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps.md\"> Azure DevOps </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Data Studio.md\"> Azure Data Studio </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS QuickSight.md\"> AWS QuickSight </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
@@ -4127,6 +4122,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
+        "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"4-Archives/Guidance/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/_README.md\"> _README </a>",
@@ -4175,9 +4172,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Unsinkable Student Organization System - Study Hacks - Cal Newport.md\"> The Unsinkable Student Organization System - Study Hacks - Cal Newport </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs.md\"> The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md\"> The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System.md\"> The Search for the Ultimate Productivity System </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Search for the Ultimate Productivity System-2.md\"> The Search for the Ultimate Productivity System-2 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport.md\"> The Shadow Course A Simple Technique to Produce Extraordinary Work - Study Hacks - Cal Newport </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",

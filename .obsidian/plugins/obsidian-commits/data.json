@@ -3840,7 +3840,7 @@
       "links": 7
     },
     "Data Warehousing Roadmap.md": {
-      "size": 0,
+      "size": 2392,
       "tags": 2,
       "links": 7
     }
@@ -3850,7 +3850,7 @@
       "Refactor": 1303,
       "Create": 1225,
       "Link": 2293,
-      "Expand": 109
+      "Expand": 110
     }
   },
   "dailyCommits": {
@@ -3875,7 +3875,7 @@
       "17": 262,
       "18": 1275,
       "19": 100,
-      "20": 69,
+      "20": 70,
       "21": 18,
       "22": 59,
       "23": 28
@@ -3883,7 +3883,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 232,
+      "Mon": 233,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3895,6 +3895,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
@@ -3944,8 +3945,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Organize & Add Apps on Windows 10.md\"> How to Organize & Add Apps on Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Meta/Structure.md\"> Structure </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",

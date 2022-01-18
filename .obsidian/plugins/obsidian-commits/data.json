@@ -3853,12 +3853,17 @@
       "size": 26830,
       "tags": 1,
       "links": 45
+    },
+    "Untitled mindmap.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1303,
-      "Create": 1227,
+      "Create": 1228,
       "Link": 2300,
       "Expand": 112
     }
@@ -3886,14 +3891,14 @@
       "18": 1275,
       "19": 100,
       "20": 71,
-      "21": 28,
+      "21": 29,
       "22": 59,
       "23": 28
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 244,
+      "Mon": 245,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3958,6 +3963,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -4007,8 +4013,7 @@
         "<a class=\"internal-link\" href=\"Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",

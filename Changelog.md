@@ -1,3 +1,5 @@
+- 2022-01-17 at 21h16 · [[Untitled mindmap 1]]
+- 2022-01-17 at 21h15 · [[Untitled mindmap]]
 - 2022-01-17 at 21h09 · [[Data Engineering Master List of Resources]]
 - 2022-01-17 at 20h58 · [[Features of a Data Warehouse]]
 - 2022-01-17 at 20h57 · [[Data Warehouse]]
@@ -496,5 +498,3 @@
 - 2021-12-28 at 01h56 · [[A Hierarchy First Approach to Note Taking]]
 - 2021-12-28 at 01h56 · [[A Builder’s Guide to Note-Taking]]
 - 2021-12-28 at 01h56 · [[A Better Way to Manage Your Github Personal Access Tokens]]
-- 2021-12-28 at 01h56 · [[9 Tricks for Boosting SQL Query Performance]]
-- 2021-12-28 at 01h56 · [[9 Tips to Get More Out of Your Calendar [PMP #177]]]

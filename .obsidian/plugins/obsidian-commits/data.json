@@ -3722,7 +3722,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 231,
       "tags": 0,
-      "links": 5
+      "links": 6
     },
     "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md": {
       "size": 2242,
@@ -3858,13 +3858,28 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "2-Areas/Daily-Notes/2022-01-23.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md": {
+      "size": 973,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": {
+      "size": 773,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1310,
-      "Create": 1232,
-      "Link": 2303,
+      "Create": 1235,
+      "Link": 2310,
       "Expand": 112
     }
   },
@@ -3885,7 +3900,7 @@
       "12": 190,
       "13": 62,
       "14": 502,
-      "15": 153,
+      "15": 163,
       "16": 88,
       "17": 266,
       "18": 1275,
@@ -3904,7 +3919,7 @@
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
-      "Sun": 677
+      "Sun": 687
     }
   },
   "recentCommits": {
@@ -3963,6 +3978,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
@@ -4010,10 +4028,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
-        "<a class=\"internal-link\" href=\"DotNet Core.md\"> DotNet Core </a>",
-        "<a class=\"internal-link\" href=\"DotNet Framework.md\"> DotNet Framework </a>",
-        "<a class=\"internal-link\" href=\"PowerShell Core.md\"> PowerShell Core </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
@@ -4069,6 +4084,9 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
@@ -4116,10 +4134,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/zsh.md\"> zsh </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Disparate.md\"> Disparate </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/zsh.md\"> zsh </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4180,6 +4195,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
@@ -4226,11 +4245,7 @@
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

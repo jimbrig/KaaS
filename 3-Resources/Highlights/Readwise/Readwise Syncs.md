@@ -11,3 +11,7 @@
 
 - [[2022-01-22]] 5:07 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-01-23]] 3:03 PM — Synced 3 highlights from 2 documents.
+    - 2 highlights from Embracing Einstein Time
+    - 1 highlights from A Detailed Guide to User Registration, Login, and Logout in Flask
+

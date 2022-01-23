@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2654347,
-  "currentSyncStatusID": 2660939,
+  "lastSavedStatusID": 2660939,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1359,7 +1359,9 @@
     "3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md": "12649242",
     "3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md": "12805612",
     "3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md": "12805613",
-    "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": "12876416"
+    "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": "12876416",
+    "3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md": "13024352",
+    "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": "13024353"
   },
   "reimportShowConfirmation": true
 }

@@ -10,19 +10,21 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 ## Contents
 
 - [[#Steps Overview|Steps Overview]]
+- [[#Capture Steps|Capture Steps]]
 	- [[#1) Capture Incoming Paper into a Single In-Tray|1) Capture Incoming Paper into a Single In-Tray]]
 	- [[#2) Choose Capture Tool|2) Choose Capture Tool]]
 	- [[#3) Perform Mindsweep|3) Perform Mindsweep]]
+- [[#Clarify Steps|Clarify Steps]]
 	- [[#4) Process In-Tray to Zero|4) Process In-Tray to Zero]]
 	- [[#5) Get Email to Zero|5) Get Email to Zero]]
+- [[#Organize Steps|Organize Steps]]
 	- [[#6) Create Next Actions and Other Lists|6) Create Next Actions and Other Lists]]
 	- [[#7) Track All Projects on One List|7) Track All Projects on One List]]
 	- [[#8) Create Folders to Stay Organized|8) Create Folders to Stay Organized]]
+- [[#Reflect and Engage Steps|Reflect and Engage Steps]]
 	- [[#9) Conduct GTD Weekly Review|9) Conduct GTD Weekly Review]]
 	- [[#10) Conduct Daily Review|10) Conduct Daily Review]]
 - [[#Appendix: Links|Appendix: Links]]
-
-
 
 ## Steps Overview
 
@@ -52,6 +54,28 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 ## Capture Steps
 
 ### 1) Capture Incoming Paper into a Single In-Tray
+
+Take a couple of minutes to perform a quick assessment of all paper and other physical *stuff* in my life right now:
+
+|                                       What?                                        | Number of Locations |
+|:----------------------------------------------------------------------------------:|:-------------------:|
+|                                   Piles of Paper                                   |      ~3-5               |
+|                                    Sticky Notes                                    |          N/A           |
+|                                     Reminders                                      |             ~2        |
+|                                     Task Lists                                     |               ~8      |
+|                                Notebooks with Notes                                |                 ~10    |
+|                                  Paper Calendars                                   |                  N/A   |
+|                             Other Paper Products I use                             |                   ~3  |
+| Miscellaneous things in or around my area that are not where or how they should be |                   ~15  |
+
+
+#### 1a) Setup Two In-Trays to Serve as my "In"
+
+Keep one tray for work and one for personal.
+
+NOTES:
+
+
 
 In this first step, make sure to **Capture** all *incoming stuff*. This includes:
 
@@ -92,7 +116,7 @@ Ways to capture:
 ### 5) Get Email to Zero
 
 
-## 
+## Organize Steps
 
 ### 6) Create Next Actions and Other Lists
 
@@ -100,10 +124,11 @@ Ways to capture:
 
 ### 8) Create Folders to Stay Organized
 
+## Reflect and Engage Steps
+
 ### 9) Conduct GTD Weekly Review
 
 ### 10) Conduct Daily Review
-
 
 
 ***

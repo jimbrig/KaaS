@@ -3879,7 +3879,7 @@
       "tags": 1,
       "links": 3
     },
-    "Ten Step GTD Setup List.md": {
+    "0-Slipbox/Ten Step GTD Setup List.md": {
       "size": 0,
       "tags": 2,
       "links": 4
@@ -3887,7 +3887,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1310,
+      "Refactor": 1311,
       "Create": 1237,
       "Link": 2314,
       "Expand": 112
@@ -3908,7 +3908,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 68,
+      "13": 69,
       "14": 502,
       "15": 163,
       "16": 88,
@@ -3923,7 +3923,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 261,
+      "Mon": 262,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -4041,6 +4041,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
@@ -4090,8 +4091,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure SQL Databases.md\"> Azure SQL Databases </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure MLOps.md\"> Azure MLOps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",

@@ -3882,14 +3882,14 @@
     "0-Slipbox/Ten Step GTD Setup List.md": {
       "size": 0,
       "tags": 2,
-      "links": 4
+      "links": 17
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1311,
       "Create": 1237,
-      "Link": 2314,
+      "Link": 2315,
       "Expand": 112
     }
   },
@@ -3908,7 +3908,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 69,
+      "13": 70,
       "14": 502,
       "15": 163,
       "16": 88,
@@ -3923,7 +3923,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 262,
+      "Mon": 263,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -4205,6 +4205,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
@@ -4254,8 +4255,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
-        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>"
+        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

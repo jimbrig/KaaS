@@ -1,6 +1,7 @@
+- 2022-01-24 at 13h13 · [[2022-01-24]]
+- 2022-01-23 at 15h03 · [[A Detailed Guide to User Registration, Login, and Logout in Flask]]
 - 2022-01-23 at 15h03 · [[Readwise Syncs]]
 - 2022-01-23 at 15h03 · [[Embracing Einstein Time]]
-- 2022-01-23 at 15h03 · [[A Detailed Guide to User Registration, Login, and Logout in Flask]]
 - 2022-01-23 at 15h03 · [[2022-01-23]]
 - 2022-01-22 at 17h07 · [[2022-01-22]]
 - 2022-01-17 at 21h09 · [[Data Engineering Master List of Resources]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN]]
 - 2021-12-28 at 01h56 · [[A Preview of WSL in the Microsoft Store Is Now Available!]]
 - 2021-12-28 at 01h56 · [[A New Year Is a Beautiful Fresh Start]]
-- 2021-12-28 at 01h56 · [[A Hierarchy First Approach to Note Taking]]

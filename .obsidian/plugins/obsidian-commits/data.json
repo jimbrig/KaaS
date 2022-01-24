@@ -3880,7 +3880,7 @@
       "links": 3
     },
     "0-Slipbox/Ten Step GTD Setup List.md": {
-      "size": 2281,
+      "size": 2657,
       "tags": 2,
       "links": 17
     }
@@ -3890,7 +3890,7 @@
       "Refactor": 1311,
       "Create": 1237,
       "Link": 2315,
-      "Expand": 113
+      "Expand": 114
     }
   },
   "dailyCommits": {
@@ -3908,7 +3908,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 71,
+      "13": 72,
       "14": 502,
       "15": 163,
       "16": 88,
@@ -3923,7 +3923,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 264,
+      "Mon": 265,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3935,6 +3935,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
@@ -3984,8 +3985,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Improve the Performance of Your Windows Computer Fundamentally.md\"> How to Improve the Performance of Your Windows Computer Fundamentally </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC.md\"> How to Install or Update PowerShell to the Latest Version in Windows 10  ITIGIC </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Keep Windows 10 Organized, Pretty, and Productive.md\"> How to Keep Windows 10 Organized, Pretty, and Productive </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Your Developer On-Boarding Process Idiot Proof.md\"> How to Make Your Developer On-Boarding Process Idiot Proof </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make a To-Do List and Get Sh!t Done.md\"> How to Make a To-Do List and Get Sh!t Done </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",

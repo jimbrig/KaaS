@@ -26,17 +26,30 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 
 ## Steps Overview
 
-1. Capture all incoming paper into a single in-tray.
-2. Choose a capture tool.
-3. Perform a [[GTD Mindsweep]]
-4. Process In-Tray to Empty
-5. Get email to inbox zero.
-6. Create Next Actions and Other Lists (Waiting For, Someday Maybe, Agendas, Tickler, etc.)
-7. Track *ALL* Projects on one list
-8. Create folders to stay organized
-9. Perform a [[GTD Weekly Review]]
-10. Conduct a [[GTD Daily Review]]
+- **Capture Steps:**
 
+	1. Capture all incoming paper into a single in-tray.
+	2. Choose a capture tool.
+	3. Perform a [[GTD Mindsweep]]
+
+- **Clarify Steps:**
+
+	4. Process In-Tray to Empty
+	5. Get Emails to Zero
+
+- **Organize Steps:**
+
+	6. Create Next Actions and Other Lists (Waiting For, Someday Maybe, Agendas, Tickler, etc.)
+	7. Keep Track of Projects on One List
+	8. Create Folders to Stay Organized
+
+- **Reflect & Engage Steps:**
+
+	9. Perform a [[GTD Weekly Review]]
+	10. Conduct a [[GTD Daily Review]]
+
+
+## Capture Steps
 
 ### 1) Capture Incoming Paper into a Single In-Tray
 
@@ -55,15 +68,31 @@ Anything that has not already been documented.
 
 Gather these items in a *Trusted Place*.
 
-Note: DO NOT 
+Note: DO NOT **Do** anything other than capture.
+
+Ways to capture:
+
+- Physical In-Tray
+- Pen and Paper
+- Smartphone
+- Email and Texts
+- Online Browsing and Bookmarks
+- Read Later Apps and Lists
+- Physical Mail
+- Ideas and personal project endeavors
 
 ### 2) Choose Capture Tool
 
 ### 3) Perform Mindsweep
 
+## Clarify Steps
+
 ### 4) Process In-Tray to Zero
 
 ### 5) Get Email to Zero
+
+
+## 
 
 ### 6) Create Next Actions and Other Lists
 

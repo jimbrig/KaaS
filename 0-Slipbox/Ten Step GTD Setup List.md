@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Productivity/GTD"]
+Tags: ["#Type/Slipbox", "#Topic/Productivity/GTD", "#Status/Todo"]
 Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 ---
 
@@ -12,7 +12,13 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 - [[#Steps Overview|Steps Overview]]
 - [[#Capture Steps|Capture Steps]]
 	- [[#1) Capture Incoming Paper into a Single In-Tray|1) Capture Incoming Paper into a Single In-Tray]]
+		- [[#1a) Setup Two In-Trays to Serve as my "In"|1a) Setup Two In-Trays to Serve as my "In"]]
+		- [[#1b) Gather Loose Papers, Notes, and Reminders and Place into In-Tray|1b) Gather Loose Papers, Notes, and Reminders and Place into In-Tray]]
 	- [[#2) Choose Capture Tool|2) Choose Capture Tool]]
+		- [[#2a) Always Have Capture Tool at Hand|2a) Always Have Capture Tool at Hand]]
+		- [[#2b) Capture Each Actionable Item or Idea as it Occurs - Especially in Meetings, Conversations, and Personal Reflections|2b) Capture Each Actionable Item or Idea as it Occurs - Especially in Meetings, Conversations, and Personal Reflections]]
+		- [[#2c) At Least Once a Day, Collect Captured Notes and Put the into In-Tray|2c) At Least Once a Day, Collect Captured Notes and Put the into In-Tray]]
+		- [[#Notes|Notes]]
 	- [[#3) Perform Mindsweep|3) Perform Mindsweep]]
 - [[#Clarify Steps|Clarify Steps]]
 	- [[#4) Process In-Tray to Zero|4) Process In-Tray to Zero]]
@@ -25,6 +31,9 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 	- [[#9) Conduct GTD Weekly Review|9) Conduct GTD Weekly Review]]
 	- [[#10) Conduct Daily Review|10) Conduct Daily Review]]
 - [[#Appendix: Links|Appendix: Links]]
+
+
+
 
 ## Steps Overview
 
@@ -141,10 +150,26 @@ This move, capturing actionable items by writing them down is a powerful driving
 2. How do you currently and naturally capture things?
 3. If you had to choose the ideal way to capture next actions, how would you like to do it?
 
-#### 2b) Capture Each Actionable 
+#### 2b) Capture Each Actionable Item or Idea as it Occurs - Especially in Meetings, Conversations, and Personal Reflections
+
+Don't let any more good ideas or agreed-upon actions slip through the cracks.
+
+#### 2c) At Least Once a Day, Collect Captured Notes and Put the into In-Tray
+
+- Notes from meetings
+- Odd scratch notes
+- Ideas written down
+
+#### Notes
+
+Fewer tools is better.
+
+Be sure to move captured items into in-tray daily or onto one of your lists directly.
 
 
 ### 3) Perform Mindsweep
+
+
 
 ## Clarify Steps
 

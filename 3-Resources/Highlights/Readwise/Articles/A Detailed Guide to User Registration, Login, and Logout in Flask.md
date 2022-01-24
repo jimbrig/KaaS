@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Esther Vaati]]
 - Full Title: A Detailed Guide to User Registration, Login, and Logout in Flask
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/e86535665c07
 
 ## Highlights

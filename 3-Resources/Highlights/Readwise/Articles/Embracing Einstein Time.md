@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Marie Casas]]
 - Full Title: Embracing Einstein Time
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/b3e8b5f0176e
 
 ## Highlights

@@ -1,4 +1,4 @@
-- 2022-01-24 at 13h43 · [[Ten Step GTD Setup List]]
+- 2022-01-24 at 13h48 · [[Ten Step GTD Setup List]]
 - 2022-01-24 at 13h15 · [[2022-01-24]]
 - 2022-01-23 at 15h03 · [[A Detailed Guide to User Registration, Login, and Logout in Flask]]
 - 2022-01-23 at 15h03 · [[Readwise Syncs]]

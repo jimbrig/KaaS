@@ -118,7 +118,30 @@ Ways to capture:
 
 ### 2) Choose Capture Tool
 
-When nothing seems to move forward, it's due to the fact that no one captured the *item that needs action*. 
+When nothing seems to move forward, it's due to the fact that no one captured the *item that needs action*. Next Actions are fundamental to making progress in life. Capturing - and keeping track of - your actionable items is critical to success. 
+
+This move, capturing actionable items by writing them down is a powerful driving force to use to keep yourself and others moving forward productively. This simple process will not only improve ability to complete things, but will also encourage an action focus in those around you.
+
+#### 2a) Always Have Capture Tool at Hand
+
+- This could be smartphone, pen and paper, pocket book, etc.
+
+- **Smartphone:**
+	- Note taking app
+	- Recording / Voice Memos
+	- Send emails to yourself
+
+- **Pen and Paper:** Self-Explanatory
+
+**Reality Check: What is your Personal Preference?**
+
+- Take a moment and be honest with yourself, and find out which capture tool you naturally gravitate towards.
+
+1. There is no right answer - just what's right for you -- so are you digital or paper?
+2. How do you currently and naturally capture things?
+3. If you had to choose the ideal way to capture next actions, how would you like to do it?
+
+#### 2b) Capture Each Actionable 
 
 
 ### 3) Perform Mindsweep

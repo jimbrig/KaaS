@@ -40,6 +40,23 @@ Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 
 ### 1) Capture Incoming Paper into a Single In-Tray
 
+In this first step, make sure to **Capture** all *incoming stuff*. This includes:
+
+- Email
+- Papers
+- Notes from Meetings
+- Commitments that come up in conversations/meetings
+- Ideas
+- Anything on your mind that you need to remember
+- Anything that has your attention
+- Any coulds, woulds, shoulds, need-tos, might-want-tos, etc. 
+
+Anything that has not already been documented.
+
+Gather these items in a *Trusted Place*.
+
+Note: DO NOT 
+
 ### 2) Choose Capture Tool
 
 ### 3) Perform Mindsweep

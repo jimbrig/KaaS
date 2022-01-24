@@ -74,8 +74,19 @@ Take a couple of minutes to perform a quick assessment of all paper and other ph
 Keep one tray for work and one for personal.
 
 NOTES:
+- Keep in-trays within arms reach on top of desk.
+- Allow personal in-tray to be collaborative with others in household
+- Label the trays and place in suggested locations
 
+#### 1b) Gather Loose Papers, Notes, and Reminders and Place into In-Tray
 
+- Gather all incoming mail, lists of things to do, reminders, sticky notes, and anything else that requires attention. **ALL OF IT**.
+- Put the items for WORK in work in-tray
+- Put the items for HOME in home in-tray
+
+*Note: This move is key -- it is the first essential part of the GTD Practice. The experience gained from performing this move will likely give a sense of taking positive steps to get organize and in control of all that paper and stuff lying about and coming to me each day. Your in-tray should be the only landing spot for anything incoming.*
+
+Other Capture Notes:
 
 In this first step, make sure to **Capture** all *incoming stuff*. This includes:
 
@@ -106,6 +117,9 @@ Ways to capture:
 - Ideas and personal project endeavors
 
 ### 2) Choose Capture Tool
+
+When nothing seems to move forward, it's due to the fact that no one captured the *item that needs action*. 
+
 
 ### 3) Perform Mindsweep
 

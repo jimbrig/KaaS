@@ -3873,13 +3873,23 @@
       "size": 773,
       "tags": 2,
       "links": 1
+    },
+    "2-Areas/Daily-Notes/2022-01-24.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "Ten Step GTD Setup List.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1310,
-      "Create": 1235,
-      "Link": 2310,
+      "Create": 1237,
+      "Link": 2314,
       "Expand": 112
     }
   },
@@ -3898,7 +3908,7 @@
       "10": 20,
       "11": 114,
       "12": 190,
-      "13": 62,
+      "13": 68,
       "14": 502,
       "15": 163,
       "16": 88,
@@ -3913,7 +3923,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 255,
+      "Mon": 261,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3978,6 +3988,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Make Yourself Into a Learning Machine.md\"> How to Make Yourself Into a Learning Machine </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
@@ -4026,9 +4038,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
@@ -4084,6 +4094,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure DevOps Pipelines.md\"> Azure DevOps Pipelines </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
+        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
@@ -4132,9 +4144,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/zsh.md\"> zsh </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2021-12-30.md\"> 2021-12-30 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4195,6 +4205,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
+        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
@@ -4243,9 +4255,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -13,13 +13,26 @@ Alias: "Data Engineering"
 
 ### Concepts
 
-[[ETL Data Warehousing Best Practices]]
-[[Data Warehouse]]
-[[Data Mart]]
-[[Databases]]
-[[Data Lake]]
-[[Data Cataloging]]
-[[Features of a Data Warehouse]]
+**[[Databases]]**
+
+- [[Stored Procedures - SQL Server]]
+- **[[SQL Stored Procedures Best Practices]]**
+
+**[[Data Lake]]**
+
+**[[Data Cataloging]]**
+
+**[[Data Warehouse]]**
+
+-   [[Features of a Data Warehouse]]
+-   [[Fact Table Structure]]
+-   [[Dimensional Modeling]]
+-   [[Data Warehousing Roadmap]]
+-   [[Data Warehousing for Insurance Data]]
+
+**[[ETL Data Warehousing Best Practices]]**
+
+**[[Data Mart]]**
 
 ### People
 
@@ -32,9 +45,12 @@ Alias: "Data Engineering"
 - [[SQL Server Management Studio]]
 - [[Azure Data Studio]]
 
+***
+
+Topic/Dev/DataScience
 
 ```dataview
-list from #Category/DataScience AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/Dev/DataScience AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

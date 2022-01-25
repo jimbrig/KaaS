@@ -1,7 +1,7 @@
+- 2022-01-24 at 23h19 · [[README]]
 - 2022-01-24 at 23h17 · [[_README]]
 - 2022-01-24 at 23h16 · [[Data Engineering]]
 - 2022-01-24 at 23h10 · [[SQL Stored Procedures Best Practices]]
-- 2022-01-24 at 23h00 · [[README]]
 - 2022-01-24 at 22h48 · [[Readwise Syncs]]
 - 2022-01-24 at 13h52 · [[Embracing Einstein Time]]
 - 2022-01-24 at 13h52 · [[A Detailed Guide to User Registration, Login, and Logout in Flask]]

@@ -15,7 +15,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ***
 
-<center><img src="https://i.imgur.com/k85OzqX.png" height="75%" width="75%"/></center>
+<center><img src="https://i.imgur.com/gKyrewF.png" height="75%" width="75%"/></center>
 
 ***
 
@@ -97,5 +97,7 @@ Some Maps of Content to consider are:
 
 The others are still works in progress as I collect and curate more notes into the vault.
 
+***
 
+![](https://i.imgur.com/k85OzqX.png)
 

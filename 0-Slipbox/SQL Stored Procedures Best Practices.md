@@ -9,7 +9,20 @@ Alias: "SQL Stored Procedures Best Practices"
 
 *Source: [CREATE PROCEDURE (Transact-SQL) - SQL Server - Best Practices | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-ver15#best-practices)*
 
-## Best Practices for Writing Stored Procedures
+## Contents
+
+- [[#Best Practices|Best Practices]]
+- [[#General Remarks|General Remarks]]
+- [[#Examples|Examples]]
+	- [[#Simple Example|Simple Example]]
+	- [[#Return More than One Result|Return More than One Result]]
+	- [[#Passing Parameters|Passing Parameters]]
+	- [[#Table Valued Parameters|Table Valued Parameters]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+
+## Best Practices
 
 Although this is not an exhaustive list of best practices, these suggestions may improve procedure performance.
 
@@ -107,6 +120,44 @@ EXECUTE HumanResources.uspGetEmployees @FirstName = N'Pilar', @LastName = N'Acke
 GO
 -- Or, if this procedure is the first statement within a batch:
 HumanResources.uspGetEmployees N'Ackerman', N'Pilar';
+```
+
+### Table Valued Parameters
+
+```SQL
+/* Create a table type. */
+CREATE TYPE LocationTableType AS TABLE
+( LocationName VARCHAR(50)
+, CostRate INT );
+GO
+
+/* Create a procedure to receive data for the table-valued parameter. */
+CREATE PROCEDURE usp_InsertProductionLocation
+    @TVP LocationTableType READONLY
+    AS
+    SET NOCOUNT ON
+    INSERT INTO [AdventureWorks2012].[Production].[Location]
+       ([Name]
+       , [CostRate]
+       , [Availability]
+       , [ModifiedDate])
+    SELECT *, 0, GETDATE()
+    FROM @TVP;
+GO
+
+/* Declare a variable that references the type. */
+DECLARE @LocationTVP
+AS LocationTableType;
+
+/* Add data to the table variable. */
+INSERT INTO @LocationTVP (LocationName, CostRate)
+    SELECT [Name], 0.00
+    FROM
+    [AdventureWorks2012].[Person].[StateProvince];
+
+/* Pass the table variable data to a stored procedure. */
+EXEC usp_InsertProductionLocation @LocationTVP;
+GO
 ```
 
 ## Appendix: Links

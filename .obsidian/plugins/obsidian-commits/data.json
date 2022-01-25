@@ -3797,7 +3797,7 @@
     "2-Areas/MOCs/Data Engineering.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 12
     },
     "2-Areas/People/Bill Inmon.md": {
       "size": 0,
@@ -3885,17 +3885,17 @@
       "links": 27
     },
     "0-Slipbox/SQL Stored Procedures Best Practices.md": {
-      "size": 8023,
+      "size": 9626,
       "tags": 2,
-      "links": 7
+      "links": 15
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1312,
       "Create": 1238,
-      "Link": 2324,
-      "Expand": 119
+      "Link": 2326,
+      "Expand": 120
     }
   },
   "dailyCommits": {
@@ -3923,12 +3923,12 @@
       "20": 71,
       "21": 39,
       "22": 63,
-      "23": 33
+      "23": 36
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 281,
+      "Mon": 284,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3940,6 +3940,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -3989,8 +3990,7 @@
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Handle Inbox Infinity.md\"> How to Handle Inbox Infinity </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -4211,6 +4211,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
@@ -4258,8 +4260,6 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
       ],
       "Removed Tags from": [

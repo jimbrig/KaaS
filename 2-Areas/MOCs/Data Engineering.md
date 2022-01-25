@@ -11,14 +11,30 @@ Alias: "Data Engineering"
 
 ## Notes
 
-## Related MOCs
+### Concepts
 
-## Dataviews
+[[ETL Data Warehousing Best Practices]]
+[[Data Warehouse]]
+[[Data Mart]]
+[[Databases]]
+[[Data Lake]]
+[[Data Cataloging]]
+[[Features of a Data Warehouse]]
 
-### Tagged as *Category/Data Engineering*
+### People
+
+- [[Ralph Kimball]]
+- [[Bill Inmon]]
+
+### Tools
+
+- [[SQL Server]]
+- [[SQL Server Management Studio]]
+- [[Azure Data Studio]]
+
 
 ```dataview
-list from #Category/Data Engineering AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Category/DataScience AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

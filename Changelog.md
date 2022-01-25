@@ -1,3 +1,4 @@
+- 2022-01-24 at 23h03 · [[SQL Stored Procedures Best Practices]]
 - 2022-01-24 at 23h00 · [[README]]
 - 2022-01-24 at 22h55 · [[_README]]
 - 2022-01-24 at 22h48 · [[Readwise Syncs]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Action Items Template for Excel]]
 - 2021-12-28 at 01h56 · [[A ‘Jobs to Be Done’ Framework for Startups]]
 - 2021-12-28 at 01h56 · [[A Workflow for R]]
-- 2021-12-28 at 01h56 · [[A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN]]

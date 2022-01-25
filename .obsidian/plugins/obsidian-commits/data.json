@@ -7,7 +7,7 @@
     "README.md": {
       "size": 3473,
       "tags": 1,
-      "links": 27
+      "links": 32
     },
     "Changelog.md": {
       "size": 40192,
@@ -3883,13 +3883,18 @@
       "size": 7458,
       "tags": 3,
       "links": 27
+    },
+    "0-Slipbox/SQL Stored Procedures Best Practices.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1312,
-      "Create": 1237,
-      "Link": 2321,
+      "Create": 1238,
+      "Link": 2324,
       "Expand": 118
     }
   },
@@ -3918,12 +3923,12 @@
       "20": 71,
       "21": 39,
       "22": 63,
-      "23": 28
+      "23": 32
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 276,
+      "Mon": 280,
       "Tue": 262,
       "Wed": 1421,
       "Thu": 1989,
@@ -3988,6 +3993,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Increase Your Efficiency at Work.md\"> How to Increase Your Efficiency at Work </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
@@ -4037,8 +4043,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -4094,6 +4099,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -4143,8 +4149,7 @@
         "<a class=\"internal-link\" href=\"Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4205,6 +4210,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -4253,9 +4260,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

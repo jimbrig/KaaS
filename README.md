@@ -13,6 +13,33 @@ Inside is my personal, customized, digital knowledge note-base structured loosel
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
+***
+
+<center><img src="https://i.imgur.com/k85OzqX.png" height="75%" width="75%"/></center>
+
+***
+
+## Maps of Content
+
+[[2-Areas/MOCs/_README|Maps of Content]] serve a
+
+-   [[Actuarial Science]]
+-   [[Development]]
+	- [[Data Science]]
+	- [[Data Engineering]]
+	- [[Databases]]
+	- [[Web Development]]
+	- [[Software Development]]
+	- [[R]] 
+	- [[R Shiny]]
+	- [[Python]]
+	- [[PowerShell]]
+- [[Productivity]]
+- [[Personal Knowledge Management]]
+- [[Mathematics and Statistics]]
+- [[Finance]]
+
+
 ## Roadmap
 
 Currently I am persistently perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
@@ -60,23 +87,4 @@ The others are still works in progress as I collect and curate more notes into t
 - [[Workbench]]
 - [[Vault Setup]]
 
-## Main Categories
 
--   [[Actuarial Science]]
--   [[Data Science]]
--   [[Databases]]
--   [[Data Science]]
--   [[Development]]
--   [[Finance]] 
--   [[Mathematics and Statistics]]
--   [[Personal Knowledge Management]]
--   [[PowerShell]]
--   [[Productivity]]
--   [[Python]]
--   [[R]] | [[R Shiny]]
--   [[Software Development]]
--   [[Web Development]]
-
-***
-
-<center><img src="https://i.imgur.com/k85OzqX.png" height="75%" width="75%"/></center>

@@ -1,4 +1,4 @@
-- 2022-01-24 at 23h03 · [[SQL Stored Procedures Best Practices]]
+- 2022-01-24 at 23h08 · [[SQL Stored Procedures Best Practices]]
 - 2022-01-24 at 23h00 · [[README]]
 - 2022-01-24 at 22h55 · [[_README]]
 - 2022-01-24 at 22h48 · [[Readwise Syncs]]

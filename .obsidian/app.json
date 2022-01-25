@@ -92,7 +92,8 @@
     "lifecycle",
     "intaking",
     "Denormalize",
-    "roadmap"
+    "roadmap",
+    "schemas"
   ],
   "livePreview": true,
   "legacyEditor": true

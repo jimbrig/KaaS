@@ -19,9 +19,18 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ***
 
+## Contents
+
+- [[#Maps of Content|Maps of Content]]
+- [[#Roadmap|Roadmap]]
+- [[#About|About]]
+	- [[#Notes|Notes]]
+	- [[#Structure: Maps of Content|Structure: Maps of Content]]
+
+
 ## Maps of Content
 
-[[2-Areas/MOCs/_README|Maps of Content]] serve a
+Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault efficiently: 
 
 -   [[Actuarial Science]]
 -   [[Development]]
@@ -44,7 +53,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 Currently I am persistently perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
 
-## Where Next?
+## About
 
 Check out the `Meta/` Folder for details about this Vault and its setup:
 
@@ -54,21 +63,7 @@ Check out the `Meta/` Folder for details about this Vault and its setup:
 
 The [[Changelog]] is also a good _Meta_ resource.
 
-### Maps of Content
-
-If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
-
-In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
-
-Some Maps of Content to consider are:
-
--   [[Development]]
--   [[Actuarial Science]]
--   [[Productivity]]
-
-The others are still works in progress as I collect and curate more notes into the vault.
-
-## Notes
+### Notes
 
 - This repository has three main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main), [develop](https://github.com/jimbrig/KaaS-New/tree/develop), and [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages). 
 	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
@@ -86,5 +81,21 @@ The others are still works in progress as I collect and curate more notes into t
 - [[Changelog]]
 - [[Workbench]]
 - [[Vault Setup]]
+
+
+### Structure: Maps of Content
+
+If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
+
+In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
+
+Some Maps of Content to consider are:
+
+-   [[Development]]
+-   [[Actuarial Science]]
+-   [[Productivity]]
+
+The others are still works in progress as I collect and curate more notes into the vault.
+
 
 

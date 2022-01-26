@@ -160,18 +160,17 @@ EXEC usp_InsertProductionLocation @LocationTVP;
 GO
 ```
 
+***
+
 ## Appendix: Links
+- [[Stored Procedures - SQL Server]]
+- [[Databases]]
+- [[Data Science]]
+- [[Data Engineering]]
+- [[SQL]]
+- [[SQL Server]]
+- [[SQL Server Management Studio]]
+- [[Azure SQL Databases]]
+- [[Data Engineering]]
+- [[Data Warehouse]]
 
-[[Databases]]
-[[Data Science]]
-[[Data Engineering]]
-[[SQL]]
-[[SQL Server]]
-[[SQL Server Management Studio]]
-[[Azure SQL Databases]]
-
-*Backlinks:*
-
-```dataview
-list from [[SQL Stored Procedures Best Practices]] AND -"Changelog"
-```

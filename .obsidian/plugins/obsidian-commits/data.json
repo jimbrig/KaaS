@@ -3928,14 +3928,19 @@
       "size": 11234,
       "tags": 1,
       "links": 7
+    },
+    "0-Slipbox/Web Application Architecture.md": {
+      "size": 8317,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1320,
-      "Create": 1246,
-      "Link": 2345,
-      "Expand": 129
+      "Refactor": 1321,
+      "Create": 1247,
+      "Link": 2346,
+      "Expand": 130
     }
   },
   "dailyCommits": {
@@ -3958,7 +3963,7 @@
       "15": 163,
       "16": 102,
       "17": 293,
-      "18": 1277,
+      "18": 1281,
       "19": 100,
       "20": 71,
       "21": 39,
@@ -3970,7 +3975,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1464,
+      "Wed": 1468,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -3980,6 +3985,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
@@ -4029,10 +4035,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>"
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
@@ -4082,10 +4088,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
@@ -4135,10 +4141,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/oh-my-zsh.md\"> oh-my-zsh </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nerdfont.md\"> Nerdfont </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Azure.md\"> Microsoft Azure </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/DotNet.md\"> DotNet </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
@@ -4188,8 +4194,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

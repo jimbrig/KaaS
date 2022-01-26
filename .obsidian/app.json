@@ -99,7 +99,8 @@
     "Instapaper",
     "RaindropIO",
     "PinBoard",
-    "RainDropIO"
+    "RainDropIO",
+    "middleware"
   ],
   "livePreview": true,
   "legacyEditor": true

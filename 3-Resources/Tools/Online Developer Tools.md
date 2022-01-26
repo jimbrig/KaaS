@@ -7,8 +7,6 @@ Alias: "Online Developer Tools"
 
 # Online Developer Tools
 
-*Source:*
-
 Curated Listing of various developer related tools online.
 
 - [Badgen - Fast badge generating service](https://badgen.net/)

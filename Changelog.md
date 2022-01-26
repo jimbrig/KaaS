@@ -1,3 +1,4 @@
+- 2022-01-26 at 17h21 · [[Data Engineering Master List of Resources]]
 - 2022-01-26 at 17h21 · [[Online Developer Tools]]
 - 2022-01-26 at 17h01 · [[Untitled 1]]
 - 2022-01-26 at 17h01 · [[SQL Stored Procedures Best Practices]]
@@ -497,4 +498,3 @@
 - 2022-01-26 at 16h39 · [[5 Steps for Tracking Your Monthly Expenses - NerdWallet]]
 - 2022-01-26 at 16h39 · [[5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life]]
 - 2022-01-26 at 16h39 · [[5 Pitfalls of Being an Information Hoarder  Foolishly Creative]]
-- 2022-01-26 at 16h39 · [[5 DevOps Tools You Must Use in 2022]]

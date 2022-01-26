@@ -3914,7 +3914,7 @@
       "tags": 0,
       "links": 0
     },
-    "ELT.md": {
+    "0-Slipbox/ELT.md": {
       "size": 0,
       "tags": 2,
       "links": 0
@@ -3922,7 +3922,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1315,
+      "Refactor": 1316,
       "Create": 1244,
       "Link": 2338,
       "Expand": 126
@@ -3947,7 +3947,7 @@
       "14": 502,
       "15": 163,
       "16": 102,
-      "17": 278,
+      "17": 279,
       "18": 1275,
       "19": 100,
       "20": 71,
@@ -3960,7 +3960,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1447,
+      "Wed": 1448,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -4076,6 +4076,7 @@
         "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -4125,8 +4126,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Azure.md\"> Microsoft Azure </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/DotNet.md\"> DotNet </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure SQL Databases.md\"> Azure SQL Databases </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure MLOps.md\"> Azure MLOps </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure SQL Databases.md\"> Azure SQL Databases </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",

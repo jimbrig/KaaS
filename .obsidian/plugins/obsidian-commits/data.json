@@ -3905,22 +3905,27 @@
       "links": 0
     },
     "0-Slipbox/ETL.md": {
-      "size": 0,
+      "size": 3765,
       "tags": 2,
-      "links": 0
+      "links": 1
     },
     "3-Resources/Tools/Untitled 1.md": {
       "size": 0,
       "tags": 0,
+      "links": 0
+    },
+    "ELT.md": {
+      "size": 0,
+      "tags": 2,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1315,
-      "Create": 1243,
-      "Link": 2336,
-      "Expand": 125
+      "Create": 1244,
+      "Link": 2338,
+      "Expand": 126
     }
   },
   "dailyCommits": {
@@ -3942,7 +3947,7 @@
       "14": 502,
       "15": 163,
       "16": 102,
-      "17": 274,
+      "17": 278,
       "18": 1275,
       "19": 100,
       "20": 71,
@@ -3955,7 +3960,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1443,
+      "Wed": 1447,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -3965,6 +3970,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
@@ -4014,10 +4020,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>",
@@ -4067,8 +4073,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
@@ -4124,6 +4129,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure MLOps.md\"> Azure MLOps </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
@@ -4173,8 +4179,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4235,6 +4240,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
@@ -4284,8 +4290,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

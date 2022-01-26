@@ -11,6 +11,32 @@ Alias: "Online Developer Tools"
 
 Curated Listing of various developer related tools online.
 
+- [Badgen - Fast badge generating service](https://badgen.net/)
+- [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
+- [Inspiration - dotfiles.github.io](https://dotfiles.github.io/inspiration/)
+- [az.run - Azure Service Hacks, Tips, and Facts](https://www.az.run/)
+- [Deepnote](https://deepnote.com/sign-in?redirect_to=/dashboard)
+- [Unsplash | Beautiful Free Images & Pictures](https://unsplash.com/)
+- [markdownTables | Turn HTML table syntax into Markdown](https://jmalarcon.github.io/markdowntables/)
+- [Table Convert Online - Make it easier to work with tables](https://tableconvert.com/)
+- [Convert a Website Table to Markdown · Table to Markdown](https://tabletomarkdown.com/convert-website-table-to-markdown/)
+- [CloudConvert](https://cloudconvert.com/): CloudConvert is an online file converter. We support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer. 
+- [Remove.bg | Remove Background from Image](https://www.remove.bg/)
+- [Please Wait... | Cloudflare](https://www.hostpapa.com/knowledgebase/align-float-images-website/)
+- [GitHub - Github Language Stats](https://madnight.github.io/githut/)
+- [vscode.dev/](https://vscode.dev/)
+- [Git Flow Chart](https://app.gfc.io/graph)
+- [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=Lissy93,dashy)
+- [Free AWS, Azure, GCP, Kubernetes Architecture Diagram Tool | CloudSkew](https://www.cloudskew.com/)
+- [Server Not Found](https://www.projectwizards.net/en/support/ics2csv-converter)
+- [RGB to Hex color converter](https://www.rapidtables.com/convert/color/rgb-to-hex.html#:~:text=RGB%20to%20Hex%20color%20table%20%20%20,%20%20%2300FF00%20%2012%20more%20rows%20)
+- [nbviewer](https://nbviewer.org/)
+- [CSV To SQL Converter](http://convertcsv.com/csv-to-sql.htm)
+- [Server Not Found](https://dbdiagram.io/home?utm_source=dbdocs)
+- [Server Not Found](https://sqlizer.io/#/)
+- [Generate Test CSV Data, Test JSON Data and Test HTML Data](http://convertcsv.com/generate-test-data.htm)
+
+
 ## Documentation and Learning
 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
@@ -26,7 +52,11 @@ Curated Listing of various developer related tools online.
 
 - [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
 - [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
-- []
+
+## General
+
+- [Badgen - Fast Badge Generating Service](https://badgen.net/)
+- https://shields.io/
 
 - [contains.dev](https://contains.dev/): See what's in a Docker Image
 

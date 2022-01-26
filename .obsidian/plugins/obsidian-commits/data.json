@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 499
+      "links": 497
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3888,14 +3888,24 @@
       "size": 9626,
       "tags": 2,
       "links": 15
+    },
+    "2-Areas/Daily-Notes/2022-01-26.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "0-Slipbox/Data Versioning.md": {
+      "size": 2379,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1312,
-      "Create": 1238,
-      "Link": 2327,
-      "Expand": 120
+      "Refactor": 1313,
+      "Create": 1240,
+      "Link": 2330,
+      "Expand": 121
     }
   },
   "dailyCommits": {
@@ -3916,7 +3926,7 @@
       "13": 79,
       "14": 502,
       "15": 163,
-      "16": 88,
+      "16": 95,
       "17": 266,
       "18": 1275,
       "19": 100,
@@ -3930,7 +3940,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1421,
+      "Wed": 1428,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -3940,6 +3950,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -3989,10 +4000,11 @@
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
@@ -4041,9 +4053,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -4099,6 +4109,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
@@ -4147,9 +4159,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
         "<a class=\"internal-link\" href=\"Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4210,6 +4220,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
@@ -4259,8 +4270,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4327,6 +4337,7 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

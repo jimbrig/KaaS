@@ -38,6 +38,7 @@ Curated Listing of various developer related tools online.
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/)
 - [contains.dev](https://contains.dev/): See what's in a Docker Image
 - [Windows Answer File Generator](https://www.windowsafg.com/)
+- [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
 
 

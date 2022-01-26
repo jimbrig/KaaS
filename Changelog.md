@@ -1,4 +1,4 @@
-- 2022-01-26 at 17h51 · [[How I Take Notes]]
+- 2022-01-26 at 17h56 · [[How I Take Notes]]
 - 2022-01-26 at 17h45 · [[Publish Workflow]]
 - 2022-01-26 at 17h45 · [[Structure]]
 - 2022-01-26 at 17h45 · [[Vault Setup]]

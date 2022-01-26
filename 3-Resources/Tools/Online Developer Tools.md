@@ -24,17 +24,22 @@ Curated Listing of various developer related tools online.
 - [Remove.bg | Remove Background from Image](https://www.remove.bg/)
 - [Please Wait... | Cloudflare](https://www.hostpapa.com/knowledgebase/align-float-images-website/)
 - [GitHub - Github Language Stats](https://madnight.github.io/githut/)
-- [vscode.dev/](https://vscode.dev/)
+- [vscode.dev](https://vscode.dev/)
 - [Git Flow Chart](https://app.gfc.io/graph)
 - [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=Lissy93,dashy)
-- [Free AWS, Azure, GCP, Kubernetes Architecture Diagram Tool | CloudSkew](https://www.cloudskew.com/)
-- [Server Not Found](https://www.projectwizards.net/en/support/ics2csv-converter)
+- [CloudSkew | Free AWS, Azure, GCP, Kubernetes Architecture Diagram Tool](https://www.cloudskew.com/)
+- [ICS to CSV Converter](https://www.projectwizards.net/en/support/ics2csv-converter)
 - [RGB to Hex color converter](https://www.rapidtables.com/convert/color/rgb-to-hex.html#:~:text=RGB%20to%20Hex%20color%20table%20%20%20,%20%20%2300FF00%20%2012%20more%20rows%20)
-- [nbviewer](https://nbviewer.org/)
+- [nbviewer - Simple way to view Jupyter Notebooks](https://nbviewer.org/)
 - [CSV To SQL Converter](http://convertcsv.com/csv-to-sql.htm)
-- [Server Not Found](https://dbdiagram.io/home?utm_source=dbdocs)
-- [Server Not Found](https://sqlizer.io/#/)
+- [DbDiagram](https://dbdiagram.io/home?utm_source=dbdocs)
+- [SQLizer](https://sqlizer.io/#/)
 - [Generate Test CSV Data, Test JSON Data and Test HTML Data](http://convertcsv.com/generate-test-data.htm)
+- [Mockaroo]()
+- [Astral](https://app.astralapp.com/dashboard)
+- [Windows Terminal Themes](https://windowsterminalthemes.dev/)
+- 
+
 
 
 ## Documentation and Learning

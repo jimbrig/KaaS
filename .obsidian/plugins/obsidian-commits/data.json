@@ -7,12 +7,12 @@
     "README.md": {
       "size": 3473,
       "tags": 1,
-      "links": 32
+      "links": 31
     },
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 497
+      "links": 496
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3907,7 +3907,7 @@
     "0-Slipbox/ETL.md": {
       "size": 3765,
       "tags": 2,
-      "links": 1
+      "links": 7
     },
     "3-Resources/Tools/Untitled 1.md": {
       "size": 0,
@@ -3917,14 +3917,19 @@
     "0-Slipbox/ELT.md": {
       "size": 0,
       "tags": 2,
+      "links": 5
+    },
+    "2-Areas/Meta/Vault Setup.md": {
+      "size": 0,
+      "tags": 1,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1316,
-      "Create": 1244,
-      "Link": 2338,
+      "Refactor": 1319,
+      "Create": 1245,
+      "Link": 2341,
       "Expand": 126
     }
   },
@@ -3947,7 +3952,7 @@
       "14": 502,
       "15": 163,
       "16": 102,
-      "17": 279,
+      "17": 286,
       "18": 1275,
       "19": 100,
       "20": 71,
@@ -3960,7 +3965,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1448,
+      "Wed": 1455,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -4023,6 +4028,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
@@ -4072,10 +4078,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
@@ -4125,10 +4131,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nerdfont.md\"> Nerdfont </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Azure.md\"> Microsoft Azure </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/DotNet.md\"> DotNet </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure SQL Databases.md\"> Azure SQL Databases </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/DotNet.md\"> DotNet </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
@@ -4178,8 +4184,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4241,6 +4246,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
@@ -4288,9 +4295,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4358,6 +4363,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

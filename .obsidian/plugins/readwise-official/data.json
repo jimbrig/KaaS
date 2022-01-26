@@ -4,8 +4,8 @@
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 2671143,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 2684873,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -1361,7 +1361,8 @@
     "3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md": "12805613",
     "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": "12876416",
     "3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md": "13024352",
-    "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": "13024353"
+    "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": "13024353",
+    "3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md": "13153430"
   },
   "reimportShowConfirmation": true
 }

@@ -22,7 +22,7 @@ Curated Listing of various developer related tools online.
 - [Convert a Website Table to Markdown · Table to Markdown](https://tabletomarkdown.com/convert-website-table-to-markdown/)
 - [CloudConvert](https://cloudconvert.com/): CloudConvert is an online file converter. We support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer. 
 - [Remove.bg | Remove Background from Image](https://www.remove.bg/)
-- [Please Wait... | Cloudflare](https://www.hostpapa.com/knowledgebase/align-float-images-website/)
+- [Align HTML Float Images](https://www.hostpapa.com/knowledgebase/align-float-images-website/)
 - [GitHub - Github Language Stats](https://madnight.github.io/githut/)
 - [vscode.dev](https://vscode.dev/)
 - [Git Flow Chart](https://app.gfc.io/graph)
@@ -38,32 +38,12 @@ Curated Listing of various developer related tools online.
 - [Mockaroo]()
 - [Astral](https://app.astralapp.com/dashboard)
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/)
-- 
-
-
-
-## Documentation and Learning
-
-- [Devhints — TL;DR for developer documentation](https://devhints.io/)
-
-
-
-## Search Engines
-
-- [Jumps.io (s-search)](https://jumps.io)
-
-
-## Table Generation
-
-- [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
-- [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
-
-## General
-
-- [Badgen - Fast Badge Generating Service](https://badgen.net/)
-- https://shields.io/
-
 - [contains.dev](https://contains.dev/): See what's in a Docker Image
+- [Windows Answer File Generator](https://www.windowsafg.com/)
+
+
+
+
 
 *Backlinks:*
 

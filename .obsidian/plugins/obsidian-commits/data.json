@@ -200,7 +200,7 @@
       "links": 0
     },
     "3-Resources/Tools/Online Developer Tools.md": {
-      "size": 3080,
+      "size": 4210,
       "tags": 2,
       "links": 0
     },
@@ -3920,7 +3920,7 @@
       "Refactor": 1315,
       "Create": 1243,
       "Link": 2336,
-      "Expand": 124
+      "Expand": 125
     }
   },
   "dailyCommits": {
@@ -3942,7 +3942,7 @@
       "14": 502,
       "15": 163,
       "16": 102,
-      "17": 273,
+      "17": 274,
       "18": 1275,
       "19": 100,
       "20": 71,
@@ -3955,7 +3955,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1442,
+      "Wed": 1443,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -3965,6 +3965,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
@@ -4014,8 +4015,7 @@
         "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",

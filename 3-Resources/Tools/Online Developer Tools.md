@@ -39,8 +39,11 @@ Curated Listing of various developer related tools online.
 - [contains.dev](https://contains.dev/): See what's in a Docker Image
 - [Windows Answer File Generator](https://www.windowsafg.com/)
 - [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
-
-
+- [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
+- [Keyframes](https://keyframes.app/): Dead simple visual tools to help you generate CSS for your projects.
+- [YellowLabs Tools](https://yellowlab.tools/): Online test to help speeding up **heavy** web pages
+- [CSS Hell](https://csshell.dev/): Collection of common CSS mistakes, and how to fix them
+- [README.so](https://readme.so/): Easiest way to generate a REA
 
 
 

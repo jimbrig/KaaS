@@ -3887,7 +3887,7 @@
     "0-Slipbox/SQL Stored Procedures Best Practices.md": {
       "size": 9626,
       "tags": 2,
-      "links": 15
+      "links": 17
     },
     "2-Areas/Daily-Notes/2022-01-26.md": {
       "size": 0,
@@ -3908,13 +3908,18 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "3-Resources/Tools/Untitled 1.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1315,
-      "Create": 1242,
-      "Link": 2335,
+      "Create": 1243,
+      "Link": 2336,
       "Expand": 123
     }
   },
@@ -3937,7 +3942,7 @@
       "14": 502,
       "15": 163,
       "16": 102,
-      "17": 270,
+      "17": 272,
       "18": 1275,
       "19": 100,
       "20": 71,
@@ -3950,7 +3955,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1439,
+      "Wed": 1441,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -4013,6 +4018,7 @@
         "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
@@ -4062,8 +4068,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
@@ -4230,6 +4235,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
@@ -4279,8 +4285,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>"
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

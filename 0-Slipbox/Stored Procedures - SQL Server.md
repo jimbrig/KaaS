@@ -9,6 +9,10 @@ Alias: "Stored Procedures - SQL Server"
 
 *Source: [Stored Procedures (Database Engine) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine?view=sql-server-ver15)*
 
+## Contents
+
+- [[#Benefits of Using Stored Procedures|Benefits of Using Stored Procedures]]
+- [[#Types of Stored Procedures|Types of Stored Procedures]]
 
 ## Benefits of Using Stored Procedures
 

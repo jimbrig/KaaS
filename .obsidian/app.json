@@ -94,7 +94,8 @@
     "Denormalize",
     "roadmap",
     "schemas",
-    "curation"
+    "curation",
+    "dataset"
   ],
   "livePreview": true,
   "legacyEditor": true

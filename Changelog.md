@@ -1,4 +1,5 @@
-- 2022-01-26 at 16h46 · [[Data Versioning]]
+- 2022-01-26 at 16h50 · [[Version Control]]
+- 2022-01-26 at 16h50 · [[Data Versioning]]
 - 2022-01-26 at 16h40 · [[2022-01-26]]
 - 2022-01-26 at 16h39 · [[README]]
 - 2022-01-26 at 16h39 · [[_README]]
@@ -497,4 +498,3 @@
 - 2022-01-26 at 16h39 · [[4 Steps to Organize Your Massive To-Do List]]
 - 2022-01-26 at 16h39 · [[4 Solid Ways to Get the Best of the Web]]
 - 2022-01-26 at 16h39 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
-- 2022-01-26 at 16h39 · [[4 Efficient Workflow  Efficient R Programming]]

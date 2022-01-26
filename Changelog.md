@@ -1,4 +1,5 @@
-- 2022-01-26 at 17h56 · [[How I Take Notes]]
+- 2022-01-26 at 18h01 · [[Web Application Architecture]]
+- 2022-01-26 at 17h59 · [[How I Take Notes]]
 - 2022-01-26 at 17h45 · [[Publish Workflow]]
 - 2022-01-26 at 17h45 · [[Structure]]
 - 2022-01-26 at 17h45 · [[Vault Setup]]
@@ -497,4 +498,3 @@
 - 2022-01-26 at 16h39 · [[7 Effective Tools to Increase Your Hard Drive Performance on Windows]]
 - 2022-01-26 at 16h39 · [[7 Best Practices for Your Developer Onboarding Process]]
 - 2022-01-26 at 16h39 · [[7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff]]
-- 2022-01-26 at 16h39 · [[62 Productive Things to Do When Bored at Home]]

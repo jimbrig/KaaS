@@ -7,6 +7,18 @@ Alias: "How I Take Notes"
 
 # How I Take Notes
 
+## Contents
+
+- [[#Overview|Overview]]
+- [[#Tools|Tools]]
+	- [[#Zotero: Reference Manager|Zotero: Reference Manager]]
+- [[#My Slipbox|My Slipbox]]
+- [[#Workflow|Workflow]]
+
+
+## Overview
+
+
 Writing is an essential part of learning.
 
 Through writing, one demonstrates what he/she has learned and proved he/she can explain it with words. This displays the ability to think critically and problem solve as well as absorb knowledge and curate it into wisdom for future endeavors.
@@ -39,6 +51,9 @@ Currently I use a suite of tools to aid in my note taking:
 - MkDocs and GitHub Actions
 - Evernote
 - Todoist
+- Typora
+- VSCode
+- 
 
 ### Zotero: Reference Manager
 
@@ -228,6 +243,23 @@ Zotero is a free tool that I use to store and manage references. It has a neat w
 To store the notes, I use the file system. I save all entries in markdown format and put them all in a folder. The wonderful thing about using markdown format is that it is plain text. That means you can use any editor to edit or read. Plain text files are easy to handle, easy to backup, and easy to transfer—no vendor lock-in.
 
 I also put every note in a cloud-based file hosting server and back it up on a git server. This way, I can open it from my mobile devices and ensure that I have a backup for all my notes.
+
+## Workflow
+
+All new information will first go to my notebook. I will then process this notebook. I do this at least once a week. But it is usually twice or more per week. When I understand the content, I move it to my slip box (a folder in my file system). If I need to think about the idea more deeply, I move it into Obsidian.
+
+The flow does not always follow a neat sequence.
+
+### Collection and Curation
+
+> _Good ideas are not conjured out of thin air; they are built out of a collection of existing parts, the composition of which expands (and, occasionally, contracts) over time._ 
+> _— Steven Johnson. Where Good Ideas Come From_
+
+I consume a lot of content. I watch videos, read blog posts, and listen to a podcast. Most of those content I quickly forget. Granted, some of this content is not worth a second thought, but I also forget about the good one. I tried to use the bookmark tool and read-later app. Those tools do help me collect and manage content. But all said and done, it is still one mindless consumption activity. This is when I learn about content curation.
+
+Content curation is the process of sifting through content and organizing, filtering, and making sense of it. It is a process that turns information into knowledge. It forces you to judge and organize the resources. Organizing content pushes you to establish connections between sources and identify areas of synthesis. The entire process encourages critical thinking and allows you to engage these sources mindfully.
+
+At the moment, I am using RaindropIO and Notion. I use RaindropIO to collect and curate books, blog posts, design pieces, visualization, diagrams, learning curriculum, my favorite books of all time, expert directories, and galleries. It is my go-to tool for collecting content. Before RainDropIO, I used PinBoard and Instapaper. But I have moved over to RaindropIO.
 
 ***
 

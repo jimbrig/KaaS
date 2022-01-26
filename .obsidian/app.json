@@ -96,7 +96,10 @@
     "schemas",
     "curation",
     "dataset",
-    "Instapaper"
+    "Instapaper",
+    "RaindropIO",
+    "PinBoard",
+    "RainDropIO"
   ],
   "livePreview": true,
   "legacyEditor": true

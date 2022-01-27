@@ -17,3 +17,6 @@
 
 - [[2022-01-24]] 10:48 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-01-26]] 8:00 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from Web Application Architecture
+

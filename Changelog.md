@@ -1,3 +1,4 @@
+- 2022-01-26 at 20h00 · [[2022-01-26]]
 - 2022-01-24 at 23h23 · [[README]]
 - 2022-01-24 at 23h17 · [[_README]]
 - 2022-01-24 at 23h16 · [[Data Engineering]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[An Iterative Approach to Notes]]
 - 2021-12-28 at 01h56 · [[Action Items Template for Excel]]
 - 2021-12-28 at 01h56 · [[A ‘Jobs to Be Done’ Framework for Startups]]
-- 2021-12-28 at 01h56 · [[A Workflow for R]]

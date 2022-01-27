@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Viplove Prakash]]
 - Full Title: Web Application Architecture
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/800d3ecd8019
 
 ## Highlights

@@ -5,8 +5,13 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
+<<<<<<< HEAD
   "lastSavedStatusID": 2671143,
   "currentSyncStatusID": 2685233,
+=======
+  "lastSavedStatusID": 2684873,
+  "currentSyncStatusID": 0,
+>>>>>>> develop
   "refreshBooks": false,
   "booksToRefresh": [
     "2756809",
@@ -1362,7 +1367,11 @@
     "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": "12876416",
     "3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md": "13024352",
     "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": "13024353",
+<<<<<<< HEAD
     "3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md": "13154088"
+=======
+    "3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md": "13153430"
+>>>>>>> develop
   },
   "reimportShowConfirmation": true
 }

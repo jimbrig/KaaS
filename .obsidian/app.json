@@ -93,7 +93,14 @@
     "intaking",
     "Denormalize",
     "roadmap",
-    "schemas"
+    "schemas",
+    "curation",
+    "dataset",
+    "Instapaper",
+    "RaindropIO",
+    "PinBoard",
+    "RainDropIO",
+    "middleware"
   ],
   "livePreview": true,
   "legacyEditor": true

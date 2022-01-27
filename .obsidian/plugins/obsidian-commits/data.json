@@ -7,12 +7,12 @@
     "README.md": {
       "size": 3473,
       "tags": 1,
-      "links": 32
+      "links": 31
     },
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 499
+      "links": 496
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -200,7 +200,7 @@
       "links": 0
     },
     "3-Resources/Tools/Online Developer Tools.md": {
-      "size": 0,
+      "size": 4210,
       "tags": 2,
       "links": 0
     },
@@ -2875,9 +2875,9 @@
       "links": 2
     },
     "0-Slipbox/Stored Procedures - SQL Server.md": {
-      "size": 6806,
+      "size": 11153,
       "tags": 2,
-      "links": 0
+      "links": 14
     },
     "0-Slipbox/Unified Architecture Framework.md": {
       "size": 2860,
@@ -3017,7 +3017,7 @@
     "2-Areas/Meta/About.md": {
       "size": 4112,
       "tags": 1,
-      "links": 33
+      "links": 11
     },
     "2-Areas/Meta/_README.md": {
       "size": 0,
@@ -3887,15 +3887,60 @@
     "0-Slipbox/SQL Stored Procedures Best Practices.md": {
       "size": 9626,
       "tags": 2,
-      "links": 15
+      "links": 17
+    },
+    "2-Areas/Daily-Notes/2022-01-26.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "0-Slipbox/Data Versioning.md": {
+      "size": 9729,
+      "tags": 2,
+      "links": 7
+    },
+    "0-Slipbox/Version Control.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/ETL.md": {
+      "size": 3765,
+      "tags": 2,
+      "links": 7
+    },
+    "3-Resources/Tools/Untitled 1.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/ELT.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 5
+    },
+    "2-Areas/Meta/Vault Setup.md": {
+      "size": 3219,
+      "tags": 1,
+      "links": 22
+    },
+    "2-Areas/Meta/How I Take Notes.md": {
+      "size": 11234,
+      "tags": 1,
+      "links": 7
+    },
+    "0-Slipbox/Web Application Architecture.md": {
+      "size": 8317,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1312,
-      "Create": 1238,
-      "Link": 2327,
-      "Expand": 120
+      "Refactor": 1321,
+      "Create": 1247,
+      "Link": 2346,
+      "Expand": 130
     }
   },
   "dailyCommits": {
@@ -3916,9 +3961,9 @@
       "13": 79,
       "14": 502,
       "15": 163,
-      "16": 88,
-      "17": 266,
-      "18": 1275,
+      "16": 102,
+      "17": 293,
+      "18": 1281,
       "19": 100,
       "20": 71,
       "21": 39,
@@ -3930,7 +3975,7 @@
     "/": {
       "Mon": 285,
       "Tue": 262,
-      "Wed": 1421,
+      "Wed": 1468,
       "Thu": 1989,
       "Fri": 353,
       "Sat": 0,
@@ -3940,6 +3985,16 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Online Developer Tools.md\"> Online Developer Tools </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
@@ -3980,19 +4035,18 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/GCP Sketchnote Diagrams.md\"> GCP Sketchnote Diagrams </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Actuarial Development Master Resource List.md\"> Actuarial Development Master Resource List </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Weekly Review Musings.md\"> Weekly Review Musings </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"People/Niklas Luhmann.md\"> Niklas Luhmann </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get and Remain Organized During Chaotic Times.md\"> How to Get and Remain Organized During Chaotic Times </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/How to Get Through a Paper and Digital Backlog – Gigaom.md\"> How to Get Through a Paper and Digital Backlog – Gigaom </a>"
+        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Vault Setup.md\"> Vault Setup </a>",
+        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
@@ -4034,18 +4088,14 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
@@ -4091,14 +4141,17 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/oh-my-zsh.md\"> oh-my-zsh </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nerdfont.md\"> Nerdfont </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Azure.md\"> Microsoft Azure </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/DotNet.md\"> DotNet </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure SQL Databases.md\"> Azure SQL Databases </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure MLOps.md\"> Azure MLOps </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure ML Compute Instances.md\"> Azure ML Compute Instances </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Machine Learning.md\"> Azure Machine Learning </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
+        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
@@ -4141,15 +4194,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-10.md\"> 2022-01-10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Podcasts/How To Properly Manage Your Time - Modern Wisdom.md\"> How To Properly Manage Your Time - Modern Wisdom </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-08.md\"> 2022-01-08 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Passages Saved From iOS.md\"> Passages Saved From iOS </a>",
-        "<a class=\"internal-link\" href=\"Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/EaseUS.md\"> EaseUS </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-02.md\"> 2022-01-02 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4210,6 +4255,17 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
@@ -4249,18 +4305,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4327,7 +4372,11 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>"
       ]
     }
   },

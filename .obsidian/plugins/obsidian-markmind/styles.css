@@ -491,7 +491,7 @@
   position:absolute;
   background:#333;
   border:1px solid #000;
-  width:180px;
+  width:230px;
   border-radius: 0.25rem;
   z-index: 60;
   color:#ccc;
@@ -506,7 +506,12 @@
   cursor: pointer;
 }
 .mm-assist-board svg{
-  fill:#ccc;
+  fill:#666;
+}
+
+.mm-assist-lineType span {
+  margin-right:6px;
+  cursor: pointer;
 }
 
 .theme-light .mm-assist-board {
@@ -539,6 +544,13 @@
   padding: 4px;
 }
 
+.mm-color-black{
+  background-color:#9e9d9d;
+}
+.mm-color-white{
+  background-color:#fff;
+  border:1px solid #e0dfdf;
+}
 
 /* pdf js */
 #closePDF::before{
@@ -1339,4 +1351,37 @@ td,th {
   width: 80%;
 } */
 
+
+/* theme whiteboard */
+
+/* .theme-light .mm-theme-whiteboard{
+
+} */
+
+.theme-light .mm-theme-whiteboard .mm-mindmap-content>.mm-root>.mm-node-content{
+  background-color: white;
+  box-shadow: 0 0 10px #d6d6d6;
+  color:#333;
+  font-size:18px;
+}
+
+ .mm-theme-whiteboard .mm-mindmap-content>.mm-node>.mm-node-content img{
+  border-radius:6px;
+  margin: 10px 0;
+}
+
+.theme-dark .mm-theme-whiteboard .mm-mindmap-content>.mm-root>.mm-node-content{
+  background-color: #313131;
+  box-shadow: 0 0 10px #1b1b1b;
+  color:#f5f5f5;
+  font-size:18px;
+}
+/* .theme-dark .mm-theme-whiteboard .mm-mindmap-content polyline{
+  stroke:#9e9d9d
+}
+
+.theme-dark .mm-theme-whiteboard .mm-mindmap-content marker circle,
+.theme-dark .mm-theme-whiteboard .mm-mindmap-content marker polygon {
+  fill:#9e9d9d
+} */
 

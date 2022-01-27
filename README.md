@@ -74,7 +74,7 @@ The [[Changelog]] is also a good _Meta_ resource.
 	- Links are converted using the rust library [Obsidian-Export](https://github.com/zoni/obsidian-export).
 	- Links for deployment are converted using the [mkdocs-roamlinks]() plugin.
 
-*Check out the various [GitHub Actions](.github/workflows) utilized to enable this entire process.*
+*Check out the various [GitHub Actions](https://github.com/jimbrig/KaaS-New/tree/main/.github/workflows) utilized to enable this entire process.*
 
 **Meta Notes**
 

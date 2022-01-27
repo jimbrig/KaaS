@@ -17,6 +17,8 @@
 
 - [[2022-01-24]] 10:48 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-01-26]] 6:31 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Three Systems I Use to Organize My Life
 - [[2022-01-26]] 8:00 PM — Synced 2 highlights from 1 document.
     - 2 highlights from Web Application Architecture
 

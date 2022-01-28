@@ -5,9 +5,20 @@ Tags: ["#Type/Slipbox", "#Topic/Dev"]
 Alias: "Creating Desktop Electron Apps with Nativefier"
 ---
 
-# Creating Desktop Electron Apps with Nativefier
+# Creating a Google Suite Desktop Electron App with Nativefier
 
-## GSuite
+## Introduction
+
+*See Also: [[Nativefier]]*
+
+[Nativefier](https://github.com/nativefier/nativefier) is a command-line tool to easily create a “desktop app” for any web site with minimal fuss. Apps are wrapped by [Electron](https://www.electronjs.org/) (which uses Chromium under the hood) in an OS executable (`.app`, `.exe`, etc) usable on Windows, macOS and Linux.
+
+I built this because I grew tired of having to Alt-Tab to my browser and then search through numerous open tabs when using Messenger or Whatsapp Web ([HN thread](https://news.ycombinator.com/item?id=10930718)). Nativefier features:
+
+-   Automatically retrieval of app icon / name
+-   Injection of custom JS & CSS
+-   Many more, see the [API docs](https://github.com/nativefier/nativefier/blob/master/API.md) or `nativefier --help`
+
 
 ## Creation Command
 
@@ -37,6 +48,8 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
 
 <center><img src="https://i.imgur.com/QA1woKJ.png" /></center>
 
+### menuBar.json Configuration
+
 I am using a `menuBar.json` configuration file to enhance the menu bar in the electron app.
 	
 Currently I add the following URLs:
@@ -57,9 +70,9 @@ Currently I add the following URLs:
 - [GSuite Admin Dashboard]()  
 - [Google Business Profile]()  
 
-### menuBar.json Configuration
-	
-- `menuBar.json` configuration file:
+***
+
+Here's the `menuBar.json` configuration file:
 
 ```JSON
 {
@@ -155,6 +168,12 @@ Currently I add the following URLs:
     ]
 }
 ```
+
+And this is how it appears in the Electron App:
+
+<center><img src="https://i.imgur.com/Jb5wkbJ.png"/></center>
+
+
 
 *Backlinks:*
 

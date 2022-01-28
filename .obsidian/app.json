@@ -101,7 +101,8 @@
     "PinBoard",
     "RainDropIO",
     "middleware",
-    "Nativefier"
+    "Nativefier",
+    "webpage"
   ],
   "livePreview": true,
   "legacyEditor": true,

@@ -1,4 +1,5 @@
-- 2022-01-28 at 00h08 · [[GitHub CLI]]
+- 2022-01-28 at 00h13 · [[CLI Tools]]
+- 2022-01-28 at 00h13 · [[GitHub CLI]]
 - 2022-01-28 at 00h06 · [[RIM - R Installation Manager CLI]]
 - 2022-01-27 at 23h58 · [[Tagless-Files]]
 - 2022-01-27 at 23h56 · [[Unlinked-Files]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Building a Second Brain in Emacs and Org-Mode - Forte Labs]]
 - 2021-12-28 at 01h56 · [[Building a Second Brain An Overview - Forte Labs]]
 - 2021-12-28 at 01h56 · [[Building a Digital Garden]]
-- 2021-12-28 at 01h56 · [[Building a Data Pipeline From Scratch - The Data Experience - Medium]]

@@ -3991,12 +3991,12 @@
     },
     "Nativefier.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 2
     },
     "0-Slipbox/Creating Desktop Electron Apps with Nativefier.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 2,
       "links": 0
     }
   },
@@ -4004,7 +4004,7 @@
     "/": {
       "Refactor": 1343,
       "Create": 1262,
-      "Link": 2378,
+      "Link": 2381,
       "Expand": 133
     }
   },
@@ -4027,7 +4027,7 @@
       "14": 502,
       "15": 163,
       "16": 110,
-      "17": 296,
+      "17": 299,
       "18": 1281,
       "19": 100,
       "20": 85,
@@ -4042,7 +4042,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 387,
+      "Fri": 390,
       "Sat": 0,
       "Sun": 687
     }
@@ -4209,6 +4209,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Flask and Docker.md\"> Flask and Docker </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
@@ -4257,9 +4259,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4321,6 +4321,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
@@ -4370,8 +4371,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -20,7 +20,9 @@ nativefier 'https://calendar.google.com/calendar' `
 	--bookmarks-menu '.\menuBar.json'
 	--arch x64 `
 	--icon "icons\Google.ico" `
-	--file-download-options '{"saveAs": true}'
+	--file-download-options '{"saveAs": true}' `
+	--basic-auth-username "jimmy.briggs@jimbrig.com" `
+	--basic-auth-password "M1$$ysusy1993google"
 ```
 
 
@@ -30,6 +32,10 @@ Utilize the `menuBar.json` configuration file:
 {
     "menuLabel": "&GSuite",
     "bookmarks": [
+		{
+			"title": "Google Workspace",
+			"url":
+		}
         {
             "title": "Google Calendar",
             "url": "https://calendar.google.com/calendar",
@@ -116,4 +122,5 @@ Utilize the `menuBar.json` configuration file:
 *Backlinks:*
 
 ```dataview
-list from [[Creating Desktop Electron A
+list from [[Creating Desktop Electron Apps with Nativefier]] AND -"Changelog"
+```

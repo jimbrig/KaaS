@@ -42,6 +42,7 @@ Alias: CLI Tools
 - [[Chocolatey]]
 - [[Scoop]]
 - [[WinGet]]
+- [[NuGet]]
 - [[Python - pip]]
 - [[R - pak]]
 - [[Cargo]] (Rust)
@@ -69,7 +70,16 @@ Alias: CLI Tools
 - [[dotnet]]
 - [[minikube]]
 - [[obsidian-export]]
-- [[]]
+- [[mkdocs]]
+- [[doctoc]]
+- [[devdash]]
+- [[espanso]]
+- [[radian]]
+- [[WTTOP]]
+- [[b2]]
+- [[gsutil]]
+- [[devdocs]]
+- [[Todoist-CLI]]
 
 ## Shell and Editors
 

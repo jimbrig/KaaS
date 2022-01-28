@@ -63,26 +63,39 @@ To move the cursor to the first record we use the `FETCH NEXT FROM` clause follo
 
 ```SQL
 DECLARE <Cursor_Name> CURSOR  
-    FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table1>]
+    FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table>]
 	
 OPEN <Cursor_Name>  
     FETCH NEXT FROM <Cursor_Name> 
 	
-	WHILE @@FETCH\_STATUS=0  
-        FETCH NEXT FROM <Cursor_Name>CLOSE <Cursor_Name>  
+	WHILE @@FETCH_STATUS=0
+		FETCH NEXT FROM <Cursor_Name>
+		
+CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
+
 
 To read multiple records we utilize the global variable `@@FETCH_STATUS`. This variable is equal to 0 until the cursor is able to fetch a record. If the cursor fails to fetch a record the value is not 0. So we use the `WHILE @@FETCH_STATUS=0` to continue looping. To read the next record we simply use `FETCH NEXT FROM` statement.
 
 When the cursor reaches the last record the `FETCH NEXT FROM` does not fetch the next record successfully and the `@@FETCH_STATUS` is no more 0 and hence the loop breaks. By this point we have read all the records in the selected set one by one.
 
-5\. **Reading Multiple Records (Last to First)**
+5. **Reading Multiple Records (Last to First)**
 
+
+```SQL
 DECLARE <Cursor_Name> CURSOR SCROLL  
-    FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
-    FETCH LAST FROM <Cursor_Name>WHILE @@FETCH\_STATUS=0  
-        FETCH PRIOR FROM <Cursor_Name>CLOSE <Cursor_Name>  
+    FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table>]
+	
+OPEN <Cursor_Name>
+	FETCH LAST FROM <Cursor_Name>
+
+WHILE @@FETCH_STATUS=0
+	FETCH PRIOR FROM <Cursor_Name>
+
+CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
 We have different types of cursors available in SQL. One such cursor is a scroll cursor defined above using `CURSOR SCROLL` keyword when declaring a cursor. The scroll cursor lets us use the `FETCH LAST FROM` clause to start reading records from the last record of the defined set of records to be read.
 
@@ -90,36 +103,59 @@ To read records from last to first we first read the last record into the cursor
 
 _Note: Scroll cursor also lets us use clauses like_ `_FETCH FIRST FROM_` _which provide access to the first record. This is equivalent to_ `_FETCH NEXT FROM_` _if the cursor is just opened. The main difference is that scroll cursors let us scroll to different records in the given set directly whereas normal cursors move from beginning to end._
 
-6\. **Reading Nth Record**
+6. **Reading Nth Record**
 
-DECLARE <Cursor_Name> CURSOR SCROLL  
-    FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
-    FETCH ABSOLUTE 5 FROM <Cursor_Name>CLOSE <Cursor_Name>  
+```SQL
+DECLARE <Cursor_Name> CURSOR SCROLL
+	FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table>]
+	
+OPEN <Cursor_Name>
+	FETCH ABSOLUTE 5 FROM <Cursor_Name>
+	
+CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
 To read the _Nth_ record directly we again will use a scroll cursor. In the above example we read the _6th_ record in the given set (given that it has at least five records). We simply use `FETCH ABSOLUTE N-1 FROM` clause. Here _N_ is the _Nth_ record we want to read.
 
 For reading records backward we simply use `FETCH ABSOLUTE -N FROM`. This will let us read the Nth record from the end. In the following example, we read the 5th record from the end of the set.
 
-DECLARE <Cursor_Name> CURSOR SCROLL  
-    FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
-    FETCH ABSOLUTE -5 FROM <Cursor_Name>CLOSE <Cursor_Name>  
+```SQL
+DECLARE <Cursor_Name> CURSOR SCROLL
+	FOR SELECT <Col1>,<Col2> FROM [<schema>].[<table>]
+	
+OPEN <Cursor_Name>
+	FETCH ABSOLUTE -5 FROM <Cursor_Name>
+	
+CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
-7\. **Stepping While Reading Records**
+7. **Stepping While Reading Records**
 
-DECLARE <Cursor_Name> CURSOR SCROLL  
-    FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
-    FETCH ABSOLUTE 5 FROM <Cursor_Name>WHILE @@FETCH\_STATUS=0  
-        FETCH RELATIVE 10 FROM <Cursor_Name>CLOSE <Cursor_Name>  
+```SQL
+DECLARE <Cursor_Name> CURSOR SCROLL
+	FOR SELECT <Col1>,<Col2> FROM [<schema>].[<table>]
+	
+OPEN <Cursor_Name>  
+    FETCH ABSOLUTE 5 FROM <Cursor_Name>
+	
+WHILE @@FETCH\_STATUS=0  
+	FETCH RELATIVE 10 FROM <Cursor_Name>
+	
+CLOSE <Cursor_Name>
 DEALLOCATE <Cursor_Name>
+```
 
 The above code lets us start at the fifth record of the set. Then we use `FETCH RELATIVE N FROM` to jump N records from the current spot. The next record read in the loop will be _16th_.
 
 To read in reverse we simply negate the number after the `RELATIVE` keyword.
 
+```SQL
 DECLARE <Cursor_Name> CURSOR SCROLL  
-    FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
+    FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table>]
+	
+OPEN <Cursor_Name> 
     FETCH ABSOLUTE -5 FROM <Cursor_Name>WHILE @@FETCH\_STATUS=0  
         FETCH RELATIVE -10 FROM <Cursor_Name>CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>

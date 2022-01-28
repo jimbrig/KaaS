@@ -3649,11 +3649,6 @@
       "tags": 1,
       "links": 1
     },
-    "3-Resources/Tools/Untitled.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "0-Slipbox/Personal Backup Strategy.md": {
       "size": 2804,
       "tags": 1,
@@ -3781,7 +3776,7 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md": {
       "size": 3605,
-      "tags": 2,
+      "tags": 1,
       "links": 2
     },
     "0-Slipbox/Data Warehousing for Insurance Data.md": {
@@ -3866,12 +3861,12 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md": {
       "size": 973,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md": {
       "size": 773,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2022-01-24.md": {
@@ -3909,11 +3904,6 @@
       "tags": 2,
       "links": 7
     },
-    "3-Resources/Tools/Untitled 1.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "0-Slipbox/ELT.md": {
       "size": 0,
       "tags": 2,
@@ -3941,12 +3931,12 @@
     },
     "3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md": {
       "size": 580,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md": {
       "size": 888,
-      "tags": 2,
+      "tags": 1,
       "links": 1
     },
     "2-Areas/Daily-Notes/2022-01-27.md": {
@@ -3958,13 +3948,33 @@
       "size": 39,
       "tags": 0,
       "links": 1
+    },
+    "2-Areas/Meta/Unlinked-Files.md": {
+      "size": 9266,
+      "tags": 0,
+      "links": 162
+    },
+    "2-Areas/Meta/Unresolved-Links.md": {
+      "size": 61094,
+      "tags": 0,
+      "links": 792
+    },
+    "Tagless-Files.md": {
+      "size": 598,
+      "tags": 0,
+      "links": 0
+    },
+    "3-Resources/Tools/RIM - R Installation Manager CLI.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1322,
-      "Create": 1252,
-      "Link": 2356,
+      "Refactor": 1332,
+      "Create": 1256,
+      "Link": 2358,
       "Expand": 131
     }
   },
@@ -3993,7 +4003,7 @@
       "20": 85,
       "21": 39,
       "22": 66,
-      "23": 37
+      "23": 53
     }
   },
   "weeklyCommits": {
@@ -4001,7 +4011,7 @@
       "Mon": 285,
       "Tue": 262,
       "Wed": 1468,
-      "Thu": 2006,
+      "Thu": 2022,
       "Fri": 353,
       "Sat": 0,
       "Sun": 687
@@ -4063,6 +4073,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
+        "<a class=\"internal-link\" href=\"Unresolved-Links.md\"> Unresolved-Links </a>",
+        "<a class=\"internal-link\" href=\"Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
@@ -4109,13 +4123,12 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
         "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
-        "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>",
-        "<a class=\"internal-link\" href=\"R Shiny.md\"> R Shiny </a>",
-        "<a class=\"internal-link\" href=\"R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
@@ -4163,10 +4176,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/powerlevel10k.md\"> powerlevel10k </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PostgreSQL.md\"> PostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/oh-my-zsh.md\"> oh-my-zsh </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Nerdfont.md\"> Nerdfont </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Azure.md\"> Microsoft Azure </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/PostgreSQL.md\"> PostgreSQL </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
@@ -4227,6 +4237,8 @@
         "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
@@ -4275,11 +4287,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md\"> Top GitHub Best Practices for Developers </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Unsinkable Student Organization System - Study Hacks - Cal Newport.md\"> The Unsinkable Student Organization System - Study Hacks - Cal Newport </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
@@ -4328,9 +4340,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4370,7 +4380,12 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App.md\"> Configuring Your Flask App </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Better ExtractTransformLoad (ETL) Practices in Data Warehousing.md\"> Better ExtractTransformLoad (ETL) Practices in Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Assign Global Hotkeys to Launch Any App in Windows 10.md\"> Assign Global Hotkeys to Launch Any App in Windows 10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>"
       ],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"MOCs/Development.md\"> Development </a>",

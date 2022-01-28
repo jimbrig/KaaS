@@ -20,3 +20,5 @@
 - [[2022-01-26]] 6:31 PM — Synced 1 highlight from 1 document.
     - 1 highlights from Three Systems I Use to Organize My Life
 
+- [[2022-01-28]] 4:57 PM — Synced 0 highlights from 0 documents.
+

@@ -2,7 +2,7 @@
 Date: 2022-01-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Creating Desktop Electron Apps with Nativefier"
+Alias: "Creating a Google Suite Desktop Electron App with Nativefier"
 ---
 
 # Creating a Google Suite Desktop Electron App with Nativefier

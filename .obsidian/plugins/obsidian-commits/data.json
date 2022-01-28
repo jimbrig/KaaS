@@ -3990,11 +3990,11 @@
       "links": 7
     },
     "Nativefier.md": {
-      "size": 0,
+      "size": 2789,
       "tags": 1,
-      "links": 2
+      "links": 7
     },
-    "0-Slipbox/Creating Desktop Electron Apps with Nativefier.md": {
+    "0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md": {
       "size": 4957,
       "tags": 2,
       "links": 1
@@ -4002,10 +4002,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1343,
+      "Refactor": 1344,
       "Create": 1262,
-      "Link": 2382,
-      "Expand": 136
+      "Link": 2383,
+      "Expand": 137
     }
   },
   "dailyCommits": {
@@ -4028,7 +4028,7 @@
       "15": 163,
       "16": 110,
       "17": 299,
-      "18": 1285,
+      "18": 1288,
       "19": 100,
       "20": 85,
       "21": 39,
@@ -4042,7 +4042,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 394,
+      "Fri": 397,
       "Sat": 0,
       "Sun": 687
     }
@@ -4050,6 +4050,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
@@ -4099,8 +4100,7 @@
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
@@ -4156,6 +4156,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md\"> Creating a Google Suite Desktop Electron App with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Tagless-Files.md\"> Tagless-Files </a>",
@@ -4205,8 +4206,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Flask and Docker.md\"> Flask and Docker </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
@@ -4321,6 +4321,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
@@ -4370,8 +4371,7 @@
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

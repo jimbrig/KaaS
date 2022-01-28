@@ -1,5 +1,5 @@
 - 2022-01-27 at 20h20 · [[2022-01-27]]
-- 2022-01-26 at 20h02 · [[Web Application Architecture]]
+- 2022-01-27 at 20h20 · [[Web Application Architecture]]
 - 2022-01-26 at 20h02 · [[Readwise Syncs]]
 - 2022-01-26 at 20h01 · [[2022-01-26]]
 - 2022-01-26 at 20h01 · [[Publish Workflow]]

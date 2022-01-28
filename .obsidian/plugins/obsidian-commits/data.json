@@ -5,14 +5,14 @@
   ],
   "filesCheckpoint": {
     "README.md": {
-      "size": 3473,
+      "size": 3997,
       "tags": 1,
       "links": 31
     },
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 496
+      "links": 498
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3722,7 +3722,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 231,
       "tags": 0,
-      "links": 7
+      "links": 8
     },
     "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md": {
       "size": 2242,
@@ -3933,14 +3933,34 @@
       "size": 8317,
       "tags": 2,
       "links": 0
+    },
+    "0-Slipbox/R on the Web - List of Links.md": {
+      "size": 10481,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md": {
+      "size": 580,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md": {
+      "size": 888,
+      "tags": 2,
+      "links": 1
+    },
+    "2-Areas/Daily-Notes/2022-01-27.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1321,
-      "Create": 1247,
-      "Link": 2346,
-      "Expand": 130
+      "Create": 1251,
+      "Link": 2355,
+      "Expand": 131
     }
   },
   "dailyCommits": {
@@ -3965,7 +3985,7 @@
       "17": 293,
       "18": 1281,
       "19": 100,
-      "20": 71,
+      "20": 85,
       "21": 39,
       "22": 63,
       "23": 37
@@ -3976,7 +3996,7 @@
       "Mon": 285,
       "Tue": 262,
       "Wed": 1468,
-      "Thu": 1989,
+      "Thu": 2003,
       "Fri": 353,
       "Sat": 0,
       "Sun": 687
@@ -3985,6 +4005,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
@@ -4034,10 +4055,13 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>",
-        "<a class=\"internal-link\" href=\"Todoist-CLI.md\"> Todoist-CLI </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Vault Setup.md\"> Vault Setup </a>",
@@ -4084,11 +4108,7 @@
         "<a class=\"internal-link\" href=\"R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
@@ -4144,6 +4164,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Git.md\"> Git </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
@@ -4190,11 +4214,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
-        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server Management Studio.md\"> SQL Server Management Studio </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Python Package - SQLAlchemy.md\"> Python Package - SQLAlchemy </a>"
+        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4255,6 +4275,11 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Ultimate Home Office Setup Guide 18 Must-Have Items.md\"> The Ultimate Home Office Setup Guide 18 Must-Have Items </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
@@ -4300,11 +4325,6 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>"
       ],
       "Removed Tags from": [

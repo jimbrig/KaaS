@@ -5,9 +5,9 @@ Tags: ["#Type/Slipbox", "#Topic/Dev"]
 Alias: "API Authentication"
 ---
 
-Status:: #Status/Todo 
-Type:: #Type/Documentation 
-Topic:: #Topic/Dev/APIs
+Status:: #Status/Todo  
+Type:: #Type/Documentation  
+Topic:: #Topic/Dev/APIs  
 
 # API Authentication
 

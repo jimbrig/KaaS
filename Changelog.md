@@ -1,3 +1,4 @@
+- 2022-01-28 at 16h35 · [[SQL Stored Procedures - Cursors]]
 - 2022-01-28 at 16h30 · [[2022-01-28]]
 - 2022-01-28 at 00h33 · [[API Authentication]]
 - 2022-01-28 at 00h31 · [[Tagless-Files]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Building Documentation Mindshare in a Company — Write the Docs]]
 - 2021-12-28 at 01h56 · [[Building Better Documentation  Atlassian]]
 - 2021-12-28 at 01h56 · [[Building an Open Source Personal Knowledge Base  Hacker Noon]]
-- 2021-12-28 at 01h56 · [[Building a Second Brain in Emacs and Org-Mode - Forte Labs]]

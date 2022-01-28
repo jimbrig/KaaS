@@ -3978,14 +3978,24 @@
       "size": 598,
       "tags": 0,
       "links": 14
+    },
+    "2-Areas/Daily-Notes/2022-01-28.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "SQL Stored Procedures - Cursors.md": {
+      "size": 8841,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1341,
-      "Create": 1258,
-      "Link": 2374,
-      "Expand": 132
+      "Create": 1260,
+      "Link": 2377,
+      "Expand": 133
     }
   },
   "dailyCommits": {
@@ -4006,7 +4016,7 @@
       "13": 79,
       "14": 502,
       "15": 163,
-      "16": 102,
+      "16": 108,
       "17": 293,
       "18": 1281,
       "19": 100,
@@ -4022,7 +4032,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 376,
+      "Fri": 382,
       "Sat": 0,
       "Sun": 687
     }
@@ -4030,6 +4040,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
@@ -4079,10 +4090,11 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
@@ -4131,9 +4143,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Tagless-Files.md\"> Tagless-Files </a>",
@@ -4189,6 +4199,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
+        "<a class=\"internal-link\" href=\"SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
@@ -4237,9 +4249,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4301,6 +4311,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
@@ -4350,7 +4361,6 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>"
       ],
       "Removed Tags from": [

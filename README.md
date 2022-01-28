@@ -15,6 +15,10 @@ Inside is my personal, customized, digital knowledge note-base structured loosel
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
+*View my Links:*
+
+<iframe style="border: 0; width: 100%; height: 750px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/embed/me/theme=dark"></iframe>
+
 ***
 
 <center><img src="https://i.imgur.com/gKyrewF.png" height="75%" width="75%"/></center>

@@ -3950,9 +3950,9 @@
       "links": 1
     },
     "2-Areas/Meta/Unlinked-Files.md": {
-      "size": 9266,
+      "size": 5670,
       "tags": 0,
-      "links": 162
+      "links": 80
     },
     "2-Areas/Meta/Unresolved-Links.md": {
       "size": 61094,
@@ -3962,19 +3962,19 @@
     "Tagless-Files.md": {
       "size": 598,
       "tags": 0,
-      "links": 0
+      "links": 14
     },
     "3-Resources/Tools/RIM - R Installation Manager CLI.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1332,
+      "Refactor": 1334,
       "Create": 1256,
-      "Link": 2358,
+      "Link": 2361,
       "Expand": 131
     }
   },
@@ -4003,7 +4003,7 @@
       "20": 85,
       "21": 39,
       "22": 66,
-      "23": 53
+      "23": 58
     }
   },
   "weeklyCommits": {
@@ -4011,7 +4011,7 @@
       "Mon": 285,
       "Tue": 262,
       "Wed": 1468,
-      "Thu": 2022,
+      "Thu": 2027,
       "Fri": 353,
       "Sat": 0,
       "Sun": 687
@@ -4179,6 +4179,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PostgreSQL.md\"> PostgreSQL </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
@@ -4228,13 +4229,13 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>",
-        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-11.md\"> 2022-01-11 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
         "<a class=\"internal-link\" href=\"Slipbox/WSL Initial Setup Notes.md\"> WSL Initial Setup Notes </a>",
-        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>"
+        "<a class=\"internal-link\" href=\"Slipbox/The Ultimate Guide to an Effective - Highlights.md\"> The Ultimate Guide to an Effective - Highlights </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
@@ -4290,6 +4291,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
+        "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
@@ -4338,9 +4341,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4416,7 +4417,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ]
     }
   },

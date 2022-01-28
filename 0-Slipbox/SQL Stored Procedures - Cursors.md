@@ -140,7 +140,7 @@ DECLARE <Cursor_Name> CURSOR SCROLL
 OPEN <Cursor_Name>  
     FETCH ABSOLUTE 5 FROM <Cursor_Name>
 	
-WHILE @@FETCH\_STATUS=0  
+WHILE @@FETCH_STATUS=0  
 	FETCH RELATIVE 10 FROM <Cursor_Name>
 	
 CLOSE <Cursor_Name>
@@ -156,12 +156,21 @@ DECLARE <Cursor_Name> CURSOR SCROLL
     FOR SELECT <Col1>, <Col2> FROM [<schema>].[<table>]
 	
 OPEN <Cursor_Name> 
-    FETCH ABSOLUTE -5 FROM <Cursor_Name>WHILE @@FETCH\_STATUS=0  
-        FETCH RELATIVE -10 FROM <Cursor_Name>CLOSE <Cursor_Name>  
+    FETCH ABSOLUTE -5 FROM <Cursor_Name>
+	
+WHILE @@FETCH\_STATUS=0  
+	FETCH RELATIVE -10 FROM <Cursor_Name>
+	
+CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
-8\. **Variables and Cursors**
 
+
+8. **Variables and Cursors**
+
+
+```SQL
 DECLARE @ValCol1 INT  
 DECLARE @ValCol2 VARCHAR(100)DECLARE <Cursor_Name> CURSOR  
     FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
@@ -171,29 +180,34 @@ DECLARE @ValCol2 VARCHAR(100)DECLARE <Cursor_Name> CURSOR
             INTO @ValCol1, @ValCol2  
         SELECT @ValCol1, @ValCol2CLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
 To read the value of the cursor into variables first we create the `@ValCol1` and `@ValCol2` to store the values of `Col1` and `Col2` respectively. Next after the `FETCH NEXT FROM` statement we use the `INTO` keyword followed by the names of the variables declared to store column values.
 
 We use a similar syntax inside the code block in the `WHILE` loop. Then we do a `SELECT` to output the values read into the variable.
 
-9\. **Scope of Cursors**
+9. **Scope of Cursors**
 
+```SQL
 DECLARE <Cursor_Name> CURSOR GLOBAL  
     FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]OPEN <Cursor_Name>  
     -- Do SomethingCLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
 We have two types of cursors `GLOBAL` and `LOCAL`. We can define this scope by using the respective keyword in the cursor declaration statement after the keyword `CURSOR` as shown above.
 
 Local cursors are only available within a given batch of the statements and global cursors are available anywhere inside the current connection reference. To better understand, the following code will result in an error as the local cursor is outside the scope of the current batch.
 
+```SQL
 DECLARE <Cursor_Name> CURSOR LOCAL  
     FOR SELECT Col1, Col2 FROM \[dbo\].\[table1\]  
 GOOPEN <Cursor_Name>  
     -- Do SomethingCLOSE <Cursor_Name>  
 DEALLOCATE <Cursor_Name>
+```
 
-10\. **Types of Cursors**
+10. **Types of Cursors**
 
 There are two types of cursors we have discussed so far:
 
@@ -213,6 +227,17 @@ _Refer to this_ [_Microsoft’s documentation_](https://docs.microsoft.com/en-us
 
 _So far we have discussed the basics of cursors. Next time let us see how to modify data with cursors. Make sure to check last post on_ [_loops in SQL and stored procedures_](https://medium.com/@yuvrendergill21/sql-stored-procedures-loops-a3cb6d6114a9) _if you haven’t done already._
 
+***
+
+## Appendix: Links
+
+- [[Data Science]]
+- [[Data Engineering]]
+- [[Data Warehouse]]
+- [[SQL Server]]
+- [[SQL]]
+- [[Stored Procedures - SQL Server]]
+- [[SQL Stored Procedures Best Practices]]
 
 *Backlinks:*
 

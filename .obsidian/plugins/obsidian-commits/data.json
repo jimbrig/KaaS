@@ -3984,7 +3984,7 @@
       "tags": 1,
       "links": 3
     },
-    "SQL Stored Procedures - Cursors.md": {
+    "0-Slipbox/SQL Stored Procedures - Cursors.md": {
       "size": 8841,
       "tags": 2,
       "links": 0
@@ -3992,7 +3992,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1341,
+      "Refactor": 1342,
       "Create": 1260,
       "Link": 2377,
       "Expand": 133
@@ -4016,7 +4016,7 @@
       "13": 79,
       "14": 502,
       "15": 163,
-      "16": 108,
+      "16": 109,
       "17": 293,
       "18": 1281,
       "19": 100,
@@ -4032,7 +4032,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 382,
+      "Fri": 383,
       "Sat": 0,
       "Sun": 687
     }
@@ -4146,6 +4146,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
@@ -4195,8 +4196,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Flask and Docker.md\"> Flask and Docker </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",

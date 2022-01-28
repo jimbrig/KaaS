@@ -3,7 +3,7 @@ Date: 2022-01-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/e86535665c07
-Tags: ["#Type/Highlights/Readwise"]
+Tags: ["#Type/Highlight/Article"]
 Aliases: []
 ---
 # A Detailed Guide to User Registration, Login, and Logout in Flask

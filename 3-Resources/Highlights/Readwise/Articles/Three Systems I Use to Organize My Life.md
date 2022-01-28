@@ -3,7 +3,7 @@ Date: 2022-01-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b3180a303d96
-Tags: ["#Type/Highlights/Readwise"]
+Tags: ["#Type/Highlight/Article"]
 Aliases: []
 ---
 # Three Systems I Use to Organize My Life
@@ -11,7 +11,7 @@ Aliases: []
 ## Metadata
 - Author: [[Joash Xu]]
 - Full Title: Three Systems I Use to Organize My Life
-- Category: #articles
+- Category: #Type/Highlight/Article
 - URL: https://medium.com/p/b3180a303d96
 
 ## Highlights

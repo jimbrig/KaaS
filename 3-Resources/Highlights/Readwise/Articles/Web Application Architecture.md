@@ -3,7 +3,7 @@ Date: 2022-01-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/800d3ecd8019
-Tags: ["#Type/Highlights/Readwise"]
+Tags: ["#Type/Highlight/Article"]
 Aliases: []
 ---
 # Web Application Architecture

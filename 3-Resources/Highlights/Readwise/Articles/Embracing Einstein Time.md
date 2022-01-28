@@ -3,7 +3,7 @@ Date: 2022-01-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b3e8b5f0176e
-Tags: ["#Type/Highlights/Readwise"]
+Tags: ["#Type/Highlight/Article"]
 Aliases: []
 ---
 # Embracing Einstein Time

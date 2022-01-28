@@ -53,7 +53,29 @@ Alias: CLI Tools
 
 ## Utility
 
+- [[lsd]]
+- [[topgrade]]
+- [[tldr]]
+- [[exe]]
+- [[cheat.sh]]
+- [[z]]
+- [[lastversion]]
+- [[keep]]
+- [[s-search]]
+- [[gcalcli]]
+- [[ps2exe]]
+- [[keeper commander]]
+- [[docker]]
+- [[dotnet]]
+- [[minikube]]
+- [[obsidian-export]]
 - [[]]
+
+## Shell and Editors
+
+- [[zsh]] and [[oh-my-zsh]]
+- [[vim]] and [[neovim]]
+- [[nano]]
 
 ***
 

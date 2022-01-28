@@ -3977,20 +3977,20 @@
     "3-Resources/Tools/CLI Tools.md": {
       "size": 0,
       "tags": 3,
-      "links": 8
+      "links": 39
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1337,
       "Create": 1258,
-      "Link": 2367,
+      "Link": 2368,
       "Expand": 132
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 13,
+      "0": 14,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4022,7 +4022,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 365,
+      "Fri": 366,
       "Sat": 0,
       "Sun": 687
     }
@@ -4301,6 +4301,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
@@ -4350,8 +4351,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse.md\"> Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>"
+        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -3987,14 +3987,14 @@
     "0-Slipbox/SQL Stored Procedures - Cursors.md": {
       "size": 8841,
       "tags": 2,
-      "links": 0
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1342,
       "Create": 1260,
-      "Link": 2377,
+      "Link": 2378,
       "Expand": 133
     }
   },
@@ -4016,7 +4016,7 @@
       "13": 79,
       "14": 502,
       "15": 163,
-      "16": 109,
+      "16": 110,
       "17": 293,
       "18": 1281,
       "19": 100,
@@ -4032,7 +4032,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 383,
+      "Fri": 384,
       "Sat": 0,
       "Sun": 687
     }
@@ -4311,6 +4311,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
@@ -4360,8 +4361,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

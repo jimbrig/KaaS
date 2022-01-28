@@ -1,3 +1,4 @@
+- 2022-01-27 at 20h39 · [[Highlights for REST API Best Practices]]
 - 2022-01-27 at 20h33 · [[Development]]
 - 2022-01-27 at 20h32 · [[README]]
 - 2022-01-27 at 20h20 · [[2022-01-27]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Blog  Filterize]]
 - 2021-12-28 at 01h56 · [[Best Practices With Packer and Windows]]
 - 2021-12-28 at 01h56 · [[Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).]]
-- 2021-12-28 at 01h56 · [[Best Practices for Outlook]]

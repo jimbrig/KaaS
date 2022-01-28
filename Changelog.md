@@ -1,3 +1,5 @@
+- 2022-01-28 at 17h55 · [[Creating Desktop Electron Apps with Nativefier]]
+- 2022-01-28 at 17h54 · [[Nativefier]]
 - 2022-01-28 at 16h42 · [[SQL Stored Procedures - Cursors]]
 - 2022-01-28 at 16h30 · [[2022-01-28]]
 - 2022-01-28 at 00h33 · [[API Authentication]]
@@ -496,5 +498,3 @@
 - 2021-12-28 at 01h56 · [[Can't Stay Focused While Processing - Have Tried for Months]]
 - 2021-12-28 at 01h56 · [[Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…]]
 - 2021-12-28 at 01h56 · [[Building Documentation Mindshare in a Company — Write the Docs]]
-- 2021-12-28 at 01h56 · [[Building Better Documentation  Atlassian]]
-- 2021-12-28 at 01h56 · [[Building an Open Source Personal Knowledge Base  Hacker Noon]]

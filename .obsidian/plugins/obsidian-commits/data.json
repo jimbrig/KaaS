@@ -3967,20 +3967,25 @@
     "3-Resources/Tools/RIM - R Installation Manager CLI.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 4
+    },
+    "3-Resources/Tools/GitHub CLI.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1334,
-      "Create": 1256,
-      "Link": 2361,
+      "Refactor": 1335,
+      "Create": 1257,
+      "Link": 2362,
       "Expand": 131
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 1,
+      "0": 4,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4012,7 +4017,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 353,
+      "Fri": 356,
       "Sat": 0,
       "Sun": 687
     }
@@ -4073,6 +4078,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"Unresolved-Links.md\"> Unresolved-Links </a>",
@@ -4122,10 +4128,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
-        "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>",
-        "<a class=\"internal-link\" href=\"R Database Packages.md\"> R Database Packages </a>"
+        "<a class=\"internal-link\" href=\"R Shiny Packages.md\"> R Shiny Packages </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
@@ -4175,8 +4181,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Productivity Apps.md\"> Productivity Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/powerlevel10k.md\"> powerlevel10k </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PostgreSQL.md\"> PostgreSQL </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/powerlevel10k.md\"> powerlevel10k </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
@@ -4292,6 +4297,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
@@ -4340,8 +4346,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -3629,16 +3629,6 @@
       "tags": 0,
       "links": 0
     },
-    "0-Slipbox/PowerShell Core.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "0-Slipbox/Windows PowerShell.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "2-Areas/Daily-Notes/2022-01-02.md": {
       "size": 0,
       "tags": 1,
@@ -3959,11 +3949,6 @@
       "tags": 0,
       "links": 792
     },
-    "Tagless-Files.md": {
-      "size": 598,
-      "tags": 0,
-      "links": 14
-    },
     "3-Resources/Tools/RIM - R Installation Manager CLI.md": {
       "size": 0,
       "tags": 2,
@@ -3978,11 +3963,26 @@
       "size": 0,
       "tags": 3,
       "links": 63
+    },
+    "3-Resources/Tools/Windows PowerShell.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "3-Resources/Tools/PowerShell Core.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "2-Areas/Tagless-Files.md": {
+      "size": 598,
+      "tags": 0,
+      "links": 14
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1337,
+      "Refactor": 1340,
       "Create": 1258,
       "Link": 2370,
       "Expand": 132
@@ -3990,7 +3990,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 16,
+      "0": 19,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4022,7 +4022,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 368,
+      "Fri": 371,
       "Sat": 0,
       "Sun": 687
     }
@@ -4136,6 +4136,9 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"2-Areas/Tagless-Files.md\"> Tagless-Files </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
@@ -4183,10 +4186,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - ModuleBuilder.md\"> PowerShell Module - ModuleBuilder </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - devblackops.md\"> PowerShell Module - devblackops </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Productivity Apps.md\"> Productivity Apps </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Documenting PowerShell Modules.md\"> Documenting PowerShell Modules </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",

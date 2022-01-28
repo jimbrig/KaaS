@@ -3970,27 +3970,27 @@
       "links": 3
     },
     "3-Resources/Tools/GitHub CLI.md": {
-      "size": 0,
+      "size": 2602,
       "tags": 2,
-      "links": 1
+      "links": 4
     },
     "3-Resources/Tools/CLI Tools.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 3,
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1337,
       "Create": 1258,
-      "Link": 2364,
-      "Expand": 131
+      "Link": 2367,
+      "Expand": 132
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 9,
+      "0": 13,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4022,7 +4022,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 361,
+      "Fri": 365,
       "Sat": 0,
       "Sun": 687
     }
@@ -4030,6 +4030,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
@@ -4079,8 +4080,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Dotfiles Musings.md\"> Windows Dotfiles Musings </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/MEGA CMD.md\"> MEGA CMD </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"CLI Tools.md\"> CLI Tools </a>",
@@ -4189,6 +4189,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell.md\"> PowerShell </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
@@ -4238,8 +4239,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-12.md\"> 2022-01-12 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US.md\"> Dos and Don’ts for Organizing Your Digital Files  Seagate US </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/(25) Knowledge Management in Real Life  LinkedIn.md\"> (25) Knowledge Management in Real Life  LinkedIn </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4302,6 +4302,8 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
@@ -4349,9 +4351,7 @@
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

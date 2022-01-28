@@ -15,10 +15,6 @@ Inside is my personal, customized, digital knowledge note-base structured loosel
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
-*View my Links:*
-
-<iframe style="border: 0; width: 100%; height: 750px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/embed/me/theme=dark"></iframe>
-
 ***
 
 <center><img src="https://i.imgur.com/gKyrewF.png" height="75%" width="75%"/></center>
@@ -88,7 +84,6 @@ The [[Changelog]] is also a good _Meta_ resource.
 - [[Workbench]]
 - [[Vault Setup]]
 
-
 ### Structure: Maps of Content
 
 If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
@@ -102,6 +97,12 @@ Some Maps of Content to consider are:
 -   [[Productivity]]
 
 The others are still works in progress as I collect and curate more notes into the vault.
+
+## Resources
+
+*View my Links:*
+
+<iframe style="border: 0; width: 100%; height: 550px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/embed/me/theme=dark"></iframe>
 
 ***
 

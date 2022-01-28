@@ -1,3 +1,4 @@
+- 2022-01-28 at 00h30 · [[README]]
 - 2022-01-28 at 00h27 · [[CLI Tools]]
 - 2022-01-28 at 00h13 · [[GitHub CLI]]
 - 2022-01-28 at 00h06 · [[RIM - R Installation Manager CLI]]
@@ -11,7 +12,6 @@
 - 2022-01-27 at 23h52 · [[A Detailed Guide to User Registration, Login, and Logout in Flask]]
 - 2022-01-27 at 20h39 · [[Highlights for REST API Best Practices]]
 - 2022-01-27 at 20h33 · [[Development]]
-- 2022-01-27 at 20h32 · [[README]]
 - 2022-01-27 at 20h20 · [[2022-01-27]]
 - 2022-01-26 at 20h02 · [[Readwise Syncs]]
 - 2022-01-26 at 20h01 · [[2022-01-26]]

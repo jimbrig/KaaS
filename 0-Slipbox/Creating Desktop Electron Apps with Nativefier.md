@@ -9,6 +9,8 @@ Alias: "Creating Desktop Electron Apps with Nativefier"
 
 ## GSuite
 
+From `~/.config/nativefier/GSuite`:
+
 ```powershell
 nativefier 'https://calendar.google.com/calendar' `
 	--user-agent firefox `
@@ -16,7 +18,7 @@ nativefier 'https://calendar.google.com/calendar' `
 	--internal-urls ".*?\.google\.*?" `
 	-m --bookmarks-menu '.\nativefier\GSuite\menuBar.json'
 	--arch x64 `
-	--icon "$ONEDRIVE\Pictures\Icons"
+	--icon ""
 ```
 
 *Backlinks:*

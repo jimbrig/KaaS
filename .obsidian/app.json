@@ -104,5 +104,6 @@
     "Nativefier"
   ],
   "livePreview": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "useTab": false
 }

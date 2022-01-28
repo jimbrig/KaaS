@@ -35,11 +35,29 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
 
 - I have placed all icons within the `~/.config/nativefier/GSuite/icons` folder:
 
-<center><img src="https://i.imgur.com/QA1woKJ.png" /><center>
+<center><img src="https://i.imgur.com/QA1woKJ.png" /></center>
+
+I am using a `menuBar.json` configuration file to enhance the menu bar in the electron app.
 	
-- I am using a `menuBar.json` configuration file to enhance the menu bar in the electron app.
+Currently I add the following URLs:
 	
-	
+- [Google Workspace]()  
+- [Google Calendar]()  
+- [GMail]()  
+- [Google Drive]()  
+- [Google Chat]()  
+- [Google Contacts]()  
+- [YouTube]()  
+- [Google Photos]()  
+- [Google Maps]()  
+- [Google Cloud Platform]()  
+- [Google Domains]()  
+- [Google Developer Account]()  
+- [Google Account]()  
+- [GSuite Admin Dashboard]()  
+- [Google Business Profile]()  
+
+### menuBar.json Configuration
 	
 - `menuBar.json` configuration file:
 

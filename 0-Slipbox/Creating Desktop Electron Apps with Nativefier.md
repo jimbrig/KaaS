@@ -9,24 +9,39 @@ Alias: "Creating Desktop Electron Apps with Nativefier"
 
 ## GSuite
 
-From `~/.config/nativefier/GSuite`:
+## Creation Command
+
+Open a Terminal from `~/.config/nativefier/GSuite` and run the following command to generate the `app` folder:
 
 ```powershell
-nativefier 'https://calendar.google.com/calendar' `
+nativefier 'https://workspace.google.com/u/1/dashboard' `
 	--user-agent firefox `
-	--portable "nativefier" `
+	--portable "." `
 	--internal-urls ".*?\.google\.*?" `
 	--show-menu-bar `
-	--bookmarks-menu '.\menuBar.json'
+	--bookmarks-menu '.\menuBar.json' `
 	--arch x64 `
 	--icon "icons\Google.ico" `
-	--file-download-options '{"saveAs": true}' `
 	--basic-auth-username "jimmy.briggs@jimbrig.com" `
-	--basic-auth-password "M1$$ysusy1993google"
+	--basic-auth-password "<PASSWORD>" `
+	"app"
 ```
 
+### Notes
 
-Utilize the `menuBar.json` configuration file:
+- I am assuming the working directory is set to `~/.config/nativefier/GSuite`:
+
+<center><img src="https://i.imgur.com/xCVtaoN.png" /></center>
+
+- I have placed all icons within the `~/.config/nativefier/GSuite/icons` folder:
+
+<center><img src="https://i.imgur.com/QA1woKJ.png" /><center>
+	
+- I am using a `menuBar.json` configuration file to enhance the menu bar in the electron app.
+	
+	
+	
+- `menuBar.json` configuration file:
 
 ```JSON
 {

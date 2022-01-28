@@ -3995,7 +3995,7 @@
       "links": 2
     },
     "0-Slipbox/Creating Desktop Electron Apps with Nativefier.md": {
-      "size": 2867,
+      "size": 3604,
       "tags": 2,
       "links": 0
     }
@@ -4005,7 +4005,7 @@
       "Refactor": 1343,
       "Create": 1262,
       "Link": 2381,
-      "Expand": 134
+      "Expand": 135
     }
   },
   "dailyCommits": {
@@ -4028,7 +4028,7 @@
       "15": 163,
       "16": 110,
       "17": 299,
-      "18": 1282,
+      "18": 1283,
       "19": 100,
       "20": 85,
       "21": 39,
@@ -4042,7 +4042,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 391,
+      "Fri": 392,
       "Sat": 0,
       "Sun": 687
     }
@@ -4050,6 +4050,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
@@ -4098,7 +4099,6 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Azure Setup Guide.md\"> Azure Setup Guide </a>"
       ],

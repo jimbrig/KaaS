@@ -34,8 +34,12 @@ Utilize the `menuBar.json` configuration file:
     "bookmarks": [
 		{
 			"title": "Google Workspace",
-			"url":
-		}
+			"type": "link",
+			"url": "https://workspace.google.com/u/1/dashboard"
+		},
+		{
+			"type": "separator"
+		},
         {
             "title": "Google Calendar",
             "url": "https://calendar.google.com/calendar",

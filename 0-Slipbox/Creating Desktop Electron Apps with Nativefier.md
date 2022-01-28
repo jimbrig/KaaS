@@ -16,13 +16,104 @@ nativefier 'https://calendar.google.com/calendar' `
 	--user-agent firefox `
 	--portable "nativefier" `
 	--internal-urls ".*?\.google\.*?" `
-	-m --bookmarks-menu '.\nativefier\GSuite\menuBar.json'
+	--show-menu-bar `
+	--bookmarks-menu '.\menuBar.json'
 	--arch x64 `
-	--icon ""
+	--icon "icons\Google.ico" `
+	--file-download-options '{"saveAs": true}'
+```
+
+
+Utilize the `menuBar.json` configuration file:
+
+```JSON
+{
+    "menuLabel": "&GSuite",
+    "bookmarks": [
+        {
+            "title": "Google Calendar",
+            "url": "https://calendar.google.com/calendar",
+            "type": "link"
+        },
+        {
+            "title": "Gmail",
+            "type": "link",
+            "url": "https://mail.google.com/mail/"
+        },
+        {
+            "title": "Google Drive",
+            "url": "https://drive.google.com/drive/",
+            "type": "link"
+        },
+        {
+            "title": "Google Chat",
+            "type": "link",
+            "url": "https://mail.google.com/chat/"
+        },
+        {
+            "title": "Google Contacts",
+            "type": "link",
+            "url": "https://contacts.google.com/"
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "title": "YouTube",
+            "type": "link",
+            "url": "https://www.youtube.com/"
+        },
+        {
+            "title": "Google Photos",
+            "type": "link",
+            "url": "https://photos.google.com/"
+        },
+        {
+            "title": "Google Maps",
+            "type": "link",
+            "url": "https://www.google.com/maps"
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "title": "Google Cloud Platform",
+            "type": "link",
+            "url": "https://console.cloud.google.com/home/dashboard"
+        },
+        {
+            "title": "Google Domains",
+            "type": "link",
+            "url": "https://domains.google.com/"
+        },
+        {
+            "title": "Google Developer",
+            "type": "link",
+            "url": "https://developers.google.com/"
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "title": "Google Account",
+            "type": "link",
+            "url": "https://myaccount.google.com/"
+        },
+        {
+            "title": "Google Admin",
+            "type": "link",
+            "url": "https://admin.google.com/"
+        },
+        {
+            "title": "Google Business Profile",
+            "type": "link",
+            "url": "https://business.google.com/u/1/dashboard/"
+        }
+    ]
+}
 ```
 
 *Backlinks:*
 
 ```dataview
-list from [[Creating Desktop Electron Apps with Nativefier]] AND -"Changelog"
-```
+list from [[Creating Desktop Electron A

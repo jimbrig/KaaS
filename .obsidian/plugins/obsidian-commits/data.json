@@ -4197,8 +4197,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1385,
-      "Create": 1302,
+      "Refactor": 1386,
+      "Create": 1303,
       "Link": 2462,
       "Expand": 143
     }
@@ -4225,7 +4225,7 @@
       "17": 299,
       "18": 1296,
       "19": 199,
-      "20": 144,
+      "20": 146,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4237,7 +4237,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 563,
+      "Fri": 565,
       "Sat": 0,
       "Sun": 687
     }
@@ -4298,6 +4298,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Agence Breizhtorm - Www.Breizhtorm.Fr.md\"> Agence Breizhtorm - Www.Breizhtorm.Fr </a>",
         "<a class=\"internal-link\" href=\"How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
         "<a class=\"internal-link\" href=\"Momentum.md\"> Momentum </a>",
@@ -4347,8 +4348,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"Unresolved-Links.md\"> Unresolved-Links </a>",
-        "<a class=\"internal-link\" href=\"Unlinked-Files.md\"> Unlinked-Files </a>",
-        "<a class=\"internal-link\" href=\"Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>"
+        "<a class=\"internal-link\" href=\"Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4463,6 +4463,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Agence Breizhtorm - Www.Breizhtorm.Fr.md\"> Agence Breizhtorm - Www.Breizhtorm.Fr </a>",
         "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
@@ -4512,8 +4513,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Traffic Director Explained!  Google Cloud Blog.md\"> Traffic Director Explained!  Google Cloud Blog </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md\"> This Is How You Become Confident and Transform Your Life </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md\"> Top GitHub Best Practices for Developers </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",

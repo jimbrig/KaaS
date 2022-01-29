@@ -1,72 +1,22 @@
 {
-  "collapse-filter": true,
-  "search": "-file:Changelog -path:Templates -tag:Type/Highlight -path:Reference/Citations",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "-file:Changelog -path:3-Resources/Templates -path:2-Areas/Meta",
+  "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:MOCs",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Reference",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Slipbox",
-      "color": {
-        "a": 1,
-        "rgb": 14701276
-      }
-    },
-    {
-      "query": "path:Resources",
-      "color": {
-        "a": 1,
-        "rgb": 5431504
-      }
-    },
-    {
-      "query": "path:Daily-Notes",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Meta",
-      "color": {
-        "a": 1,
-        "rgb": 13688914
-      }
-    },
-    {
-      "query": "path:Projects",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.694117647058824,
-  "repelStrength": 13.2941176470588,
-  "linkStrength": 0.235294117647059,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17201782789848827,
-  "close": true
+  "scale": 0.12912222214479882,
+  "close": false
 }

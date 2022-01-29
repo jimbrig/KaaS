@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-file:Changelog -path:3-Resources/Templates -path:2-Areas/Meta",
-  "showTags": true,
+  "search": "-file:Changelog -path:3-Resources/Templates -file:Unresolved-Links -file:Unlinked-Files -file:Tagless-Files",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12912222214479882,
-  "close": false
+  "scale": 0.08056544478935306,
+  "close": true
 }

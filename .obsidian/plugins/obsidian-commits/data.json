@@ -4132,7 +4132,7 @@
     "3-Resources/Tools/Instapaper.md": {
       "size": 0,
       "tags": 1,
-      "links": 5
+      "links": 4
     },
     "0-Slipbox/The Secret Power of Read It Later Apps.md": {
       "size": 25695,
@@ -4181,16 +4181,26 @@
     },
     "3-Resources/Tools/Momentum.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 1,
+      "links": 1
+    },
+    "0-Slipbox/How to take a Digital Note.md": {
+      "size": 2895,
+      "tags": 1,
+      "links": 3
+    },
+    "0-Slipbox/Stop Reading Junk and Start Using Instapaper.md": {
+      "size": 8082,
+      "tags": 3,
+      "links": 5
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1382,
-      "Create": 1300,
-      "Link": 2456,
-      "Expand": 141
+      "Refactor": 1385,
+      "Create": 1302,
+      "Link": 2462,
+      "Expand": 143
     }
   },
   "dailyCommits": {
@@ -4215,7 +4225,7 @@
       "17": 299,
       "18": 1296,
       "19": 199,
-      "20": 131,
+      "20": 144,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4227,7 +4237,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 550,
+      "Fri": 563,
       "Sat": 0,
       "Sun": 687
     }
@@ -4235,6 +4245,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
         "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4283,11 +4295,11 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"How to take a Digital Note.md\"> How to take a Digital Note </a>",
+        "<a class=\"internal-link\" href=\"Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
         "<a class=\"internal-link\" href=\"Momentum.md\"> Momentum </a>",
         "<a class=\"internal-link\" href=\"Evernote.md\"> Evernote </a>",
         "<a class=\"internal-link\" href=\"Toggl.md\"> Toggl </a>",
@@ -4336,11 +4348,11 @@
         "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"Unlinked-Files.md\"> Unlinked-Files </a>",
-        "<a class=\"internal-link\" href=\"Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>"
+        "<a class=\"internal-link\" href=\"Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Momentum.md\"> Momentum </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Evernote.md\"> Evernote </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Toggl.md\"> Toggl </a>",
@@ -4389,11 +4401,12 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Momentum.md\"> Momentum </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Cargo.md\"> Cargo </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Rust.md\"> Rust </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Chocolatey.md\"> Chocolatey </a>",
@@ -4441,10 +4454,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4506,6 +4516,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Momentum.md\"> Momentum </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Chocolatey.md\"> Chocolatey </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Scoop.md\"> Scoop </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Winget.md\"> Winget </a>",
@@ -4553,10 +4566,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4638,7 +4648,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Instapaper.md\"> Instapaper </a>"
       ]
     }
   },

@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 498
+      "links": 496
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -182,7 +182,7 @@
     "3-Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 4
+      "links": 11
     },
     "3-Resources/Clippings/Obsidian-Clipper.md": {
       "size": 0,
@@ -4028,13 +4028,18 @@
       "size": 0,
       "tags": 1,
       "links": 1
+    },
+    "3-Resources/Citations/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1353,
-      "Create": 1269,
-      "Link": 2397,
+      "Refactor": 1354,
+      "Create": 1270,
+      "Link": 2399,
       "Expand": 140
     }
   },
@@ -4059,7 +4064,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 125,
+      "19": 129,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4072,7 +4077,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 430,
+      "Fri": 434,
       "Sat": 0,
       "Sun": 687
     }
@@ -4133,6 +4138,7 @@
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Citations/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
         "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
@@ -4182,8 +4188,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
@@ -4239,6 +4244,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Citations/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Portable Apps.md\"> Portable Apps </a>",
@@ -4288,8 +4294,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4351,6 +4356,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4400,8 +4406,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4479,7 +4484,8 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }
   },

@@ -12,12 +12,17 @@ Alias: Highlights
 Collection of highlights and annotations from:
 
 - [[3-Resources/Highlights/Readwise/_README|Readwise]] (Tool: [[Readwise]]) using the [[Readwise Plugin]]
-- [[Hypothesis.io]]
-- [[Kindle]]
-- [[Medium]]
+- [[Instapaper]]
 - [[Feedly]]
+- [[Hypothesis.io]]
+- [[Kindle]] 
+- [[Medium]]
+- [[Goodreads]]
 - [[Airr]] (Podcasts)
 - [[Snipd]] (Podcasts)
+- [[Twitter]]
+- [[Reddit]]
+- [[StackOverflow]]
 - [[Obsidian Highlights]] via [[Extract Highlights Plugin]]
 
 Plus,

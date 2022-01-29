@@ -182,7 +182,7 @@
     "3-Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 16
+      "links": 17
     },
     "3-Resources/Clippings/Obsidian-Clipper.md": {
       "size": 0,
@@ -217,7 +217,7 @@
     "3-Resources/Tools/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 51
     },
     "3-Resources/Highlights/Notes/The Ultimate Guide to an Effective Weekly Review- Highlights.md": {
       "size": 11005,
@@ -4144,7 +4144,7 @@
     "/": {
       "Refactor": 1372,
       "Create": 1291,
-      "Link": 2440,
+      "Link": 2442,
       "Expand": 141
     }
   },
@@ -4170,7 +4170,7 @@
       "17": 299,
       "18": 1296,
       "19": 199,
-      "20": 96,
+      "20": 98,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4182,7 +4182,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 515,
+      "Fri": 517,
       "Sat": 0,
       "Sun": 687
     }
@@ -4461,6 +4461,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/_README.md\"> _README </a>",
@@ -4509,9 +4511,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -23,7 +23,23 @@ Topgrade requires Rust 1.51 or above.
 
 ## Usage
 
+
+
+
 Just run `topgrade`. See [the wiki](https://github.com/r-darwish/topgrade/wiki/Step-list) for the list of things Topgrade supports.
+
+## Example
+
+When I run `topgrade` from an Administrative Shell, it performs the following steps in sequence (see the Customization, Configuration, and Custom Commands sections below for details):
+
+*WSL Section's Output:*
+
+![](https://i.imgur.com/CGSL7SH.png)
+
+*Full Output:*
+
+
+
 
 ## Customization
 

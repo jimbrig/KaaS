@@ -1,3 +1,4 @@
+- 2022-01-29 at 18h53 · [[2022-01-29]]
 - 2022-01-28 at 20h20 · [[Instapaper]]
 - 2022-01-28 at 20h19 · [[How to take a Digital Note]]
 - 2022-01-28 at 20h17 · [[Stop Reading Junk and Start Using Instapaper]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Getting Things Done With Todoist – My GTD Setup]]
 - 2021-12-28 at 01h56 · [[Getting Things Done Organize]]
 - 2021-12-28 at 01h56 · [[Getting Things Done Clarify]]
-- 2021-12-28 at 01h56 · [[Getting Started With GTD Templates  Evernote  Evernote Blog]]

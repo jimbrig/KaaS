@@ -3989,11 +3989,6 @@
       "tags": 2,
       "links": 7
     },
-    "Nativefier.md": {
-      "size": 13066,
-      "tags": 1,
-      "links": 11
-    },
     "0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md": {
       "size": 4957,
       "tags": 2,
@@ -4018,12 +4013,22 @@
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "3-Resources/Tools/Nativefier.md": {
+      "size": 13066,
+      "tags": 1,
+      "links": 11
+    },
+    "3-Resources/Tools/Topgrade.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1348,
-      "Create": 1266,
+      "Refactor": 1351,
+      "Create": 1267,
       "Link": 2391,
       "Expand": 138
     }
@@ -4049,7 +4054,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 109,
+      "19": 113,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4062,7 +4067,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 414,
+      "Fri": 418,
       "Sat": 0,
       "Sun": 687
     }
@@ -4123,6 +4128,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
         "<a class=\"internal-link\" href=\"Portable Apps.md\"> Portable Apps </a>",
         "<a class=\"internal-link\" href=\"Electron.md\"> Electron </a>",
         "<a class=\"internal-link\" href=\"Node - npm.md\"> Node - npm </a>",
@@ -4172,10 +4178,12 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"Bill Inmon.md\"> Bill Inmon </a>",
-        "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering.md\"> Data Engineering </a>"
+        "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
+        "<a class=\"internal-link\" href=\"Topgrade.md\"> Topgrade </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Portable Apps.md\"> Portable Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
@@ -4223,10 +4231,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Portable Apps.md\"> Portable Apps </a>",

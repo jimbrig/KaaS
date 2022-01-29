@@ -55,7 +55,7 @@ Alias: CLI Tools
 ## Utility
 
 - [[lsd]]
-- [[topgrade]]
+- [[Topgrade]]
 - [[tldr]]
 - [[exe]]
 - [[cheat.sh]]

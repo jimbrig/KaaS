@@ -1,3 +1,5 @@
+- 2022-01-28 at 19h10 · [[CLI Tools]]
+- 2022-01-28 at 19h10 · [[Topgrade]]
 - 2022-01-28 at 19h05 · [[Creating a Google Suite Desktop Electron App with Nativefier]]
 - 2022-01-28 at 19h01 · [[Nativefier]]
 - 2022-01-28 at 18h58 · [[Portable Apps]]
@@ -11,7 +13,6 @@
 - 2022-01-28 at 00h31 · [[PowerShell Core]]
 - 2022-01-28 at 00h31 · [[Windows PowerShell]]
 - 2022-01-28 at 00h30 · [[README]]
-- 2022-01-28 at 00h27 · [[CLI Tools]]
 - 2022-01-28 at 00h13 · [[GitHub CLI]]
 - 2022-01-28 at 00h06 · [[RIM - R Installation Manager CLI]]
 - 2022-01-27 at 23h56 · [[Unlinked-Files]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[Cloudwards.net's Backup and Storage Strategy 2017]]
 - 2021-12-28 at 01h56 · [[CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.]]
 - 2021-12-28 at 01h56 · [[Cloud Computing 8 Benefits for Your Software Developers - Dice Insights]]
-- 2021-12-28 at 01h56 · [[Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]]]

@@ -3990,22 +3990,42 @@
       "links": 7
     },
     "Nativefier.md": {
-      "size": 2789,
+      "size": 13066,
       "tags": 1,
-      "links": 7
+      "links": 11
     },
     "0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md": {
       "size": 4957,
       "tags": 2,
       "links": 1
+    },
+    "3-Resources/Tools/Nodejs.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Node - npm.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Electron.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "0-Slipbox/Portable Apps.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1344,
-      "Create": 1262,
-      "Link": 2383,
-      "Expand": 137
+      "Refactor": 1348,
+      "Create": 1266,
+      "Link": 2391,
+      "Expand": 138
     }
   },
   "dailyCommits": {
@@ -4028,8 +4048,8 @@
       "15": 163,
       "16": 110,
       "17": 299,
-      "18": 1288,
-      "19": 100,
+      "18": 1296,
+      "19": 109,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4042,7 +4062,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 397,
+      "Fri": 414,
       "Sat": 0,
       "Sun": 687
     }
@@ -4050,6 +4070,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
@@ -4099,10 +4120,13 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows Shell Commands.md\"> Windows Shell Commands </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Portable Apps.md\"> Portable Apps </a>",
+        "<a class=\"internal-link\" href=\"Electron.md\"> Electron </a>",
+        "<a class=\"internal-link\" href=\"Node - npm.md\"> Node - npm </a>",
+        "<a class=\"internal-link\" href=\"Nodejs.md\"> Nodejs </a>",
         "<a class=\"internal-link\" href=\"Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -4149,13 +4173,13 @@
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"Bill Inmon.md\"> Bill Inmon </a>",
         "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering.md\"> Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"Ralph Kimball.md\"> Ralph Kimball </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>"
+        "<a class=\"internal-link\" href=\"Data Engineering.md\"> Data Engineering </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Portable Apps.md\"> Portable Apps </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Nodejs.md\"> Nodejs </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating a Google Suite Desktop Electron App with Nativefier.md\"> Creating a Google Suite Desktop Electron App with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
@@ -4202,13 +4226,13 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Stucco.md\"> PowerShell Module - Stucco </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - psake.md\"> PowerShell Module - psake </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PoshCode.md\"> PowerShell Module - PoshCode </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Plaster.md\"> PowerShell Module - Plaster </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - Pester.md\"> PowerShell Module - Pester </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Module - PSScaffold.md\"> PowerShell Module - PSScaffold </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Portable Apps.md\"> Portable Apps </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Nodejs.md\"> Nodejs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
@@ -4255,11 +4279,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-15.md\"> 2022-01-15 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL Data Warehousing Best Practices.md\"> ETL Data Warehousing Best Practices </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-14.md\"> 2022-01-14 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Kimball Techniques for Data Warehousing.md\"> Kimball Techniques for Data Warehousing </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4321,6 +4341,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Nodejs.md\"> Nodejs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
@@ -4367,11 +4391,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
-        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

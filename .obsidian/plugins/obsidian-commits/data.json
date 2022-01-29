@@ -4022,7 +4022,7 @@
     "3-Resources/Tools/Topgrade.md": {
       "size": 13236,
       "tags": 2,
-      "links": 2
+      "links": 7
     },
     "topgrade.md": {
       "size": 0,
@@ -4039,7 +4039,7 @@
     "/": {
       "Refactor": 1351,
       "Create": 1269,
-      "Link": 2395,
+      "Link": 2396,
       "Expand": 140
     }
   },
@@ -4064,7 +4064,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 121,
+      "19": 122,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4077,7 +4077,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 426,
+      "Fri": 427,
       "Sat": 0,
       "Sun": 687
     }
@@ -4357,6 +4357,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nodejs.md\"> Nodejs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
@@ -4405,7 +4406,6 @@
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>"
       ],
       "Removed Tags from": [

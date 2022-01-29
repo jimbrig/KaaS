@@ -23,10 +23,11 @@ Topgrade requires Rust 1.51 or above.
 
 ## Usage
 
-
-
-
 Just run `topgrade`. See [the wiki](https://github.com/r-darwish/topgrade/wiki/Step-list) for the list of things Topgrade supports.
+
+
+<!--Upload failed, remote server returned an error: File is over the size limit-->
+
 
 ## Example
 
@@ -34,10 +35,12 @@ When I run `topgrade` from an Administrative Shell, it performs the following st
 
 *WSL Section's Output:*
 
-![](https://i.imgur.com/CGSL7SH.png)
+![](https://i.imgur.com/jpHY4eF.png)
+
 
 *Full Output:*
 
+![](https://i.imgur.com/fWau52J.png)
 
 
 
@@ -290,7 +293,7 @@ These commands tell Topgrade to perform the following additional steps:
 - Update my R Packages
 - Run `choco-pakcage-list-backup` (cplb)
 - Run `choco-cleaner`
-- Perform a *deep* backgroun system cleanup via `cleanmgr`
+- Perform a *deep* background system cleanup via `cleanmgr`
 - Run an SFC Scan via `sfc /scannow`
 
 ## Step List
@@ -303,7 +306,7 @@ Here's a comprehensive listing of Topgrade's complete list of tasks it can perfo
     -   **Debian based**: Run `apt update && apt dist-upgrade`
     -   **Clear Linux**: Run `swupd update`
     -   **Gentoo**: Run `layman -s ALL && emerge --sync -q && eix-update && emerge -uDNa world`
-    -   **openSUSE**: Run `zypper refresh && zypper dist-upgrade`
+    -   **openS![[Topgrade-Example 1.gif]]USE**: Run `zypper refresh && zypper dist-upgrade`
     -   **Void**: Run `xbps-install -Su`
 -   **Linux**: Run [etc-update](https://dev.gentoo.org/~zmedico/portage/doc/man/etc-update.1.html):
 -   **DragonFly BSD**: Upgrade and audit packages
@@ -376,9 +379,13 @@ You can specify a key called `remote_topgrades` in the configuration file. This 
 
 ***
 
-## Appendix: Related
+## Appendix: Links
 
 - [[Tools]]
+- [[CLI Tools]] | [[CLI Tools#Package Managers]]
+- [[Windows Subsystem for Linux]]
+- [[WSL Initial Setup Notes]]
+- [[Tool]]
 
 *Backlinks:*
 

@@ -1,7 +1,6 @@
-- 2022-01-28 at 19h30 · [[Topgrade]]
+- 2022-01-28 at 19h34 · [[Topgrade]]
 - 2022-01-28 at 19h13 · [[Windows Subsystem for Linux]]
 - 2022-01-28 at 19h10 · [[CLI Tools]]
-- 2022-01-28 at 19h10 · [[topgrade]]
 - 2022-01-28 at 19h05 · [[Creating a Google Suite Desktop Electron App with Nativefier]]
 - 2022-01-28 at 19h01 · [[Nativefier]]
 - 2022-01-28 at 18h58 · [[Portable Apps]]
@@ -498,3 +497,4 @@
 - 2021-12-28 at 01h56 · [[Completing Tasks — 10 Steps to Finishing What You Start]]
 - 2021-12-28 at 01h56 · [[Collecting and Organising Data for Maximum Productivity. — Carl Pullein]]
 - 2021-12-28 at 01h56 · [[Cloudwards.net's Backup and Storage Strategy 2017]]
+- 2021-12-28 at 01h56 · [[CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.]]

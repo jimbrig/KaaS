@@ -4022,14 +4022,9 @@
     "3-Resources/Tools/Topgrade.md": {
       "size": 13236,
       "tags": 2,
-      "links": 7
+      "links": 23
     },
-    "topgrade.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "Windows Subsystem for Linux.md": {
+    "3-Resources/Tools/Windows Subsystem for Linux.md": {
       "size": 0,
       "tags": 1,
       "links": 1
@@ -4037,9 +4032,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1351,
+      "Refactor": 1353,
       "Create": 1269,
-      "Link": 2396,
+      "Link": 2397,
       "Expand": 140
     }
   },
@@ -4064,7 +4059,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 122,
+      "19": 125,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4077,7 +4072,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 427,
+      "Fri": 430,
       "Sat": 0,
       "Sun": 687
     }
@@ -4191,6 +4186,7 @@
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nativefier.md\"> Nativefier </a>",
@@ -4240,8 +4236,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Modules.md\"> PowerShell Modules </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4303,6 +4298,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
@@ -4352,10 +4348,10 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/This Is How You Become Confident and Transform Your Life.md\"> This Is How You Become Confident and Transform Your Life </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md\"> Top GitHub Best Practices for Developers </a>",
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>",
-        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The “Burner List”—My Simple, Paper-Based System for Focused To-Dos.md\"> The “Burner List”—My Simple, Paper-Based System for Focused To-Dos </a>"
+        "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
@@ -4405,8 +4401,7 @@
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

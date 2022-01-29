@@ -9,6 +9,19 @@ Alias: ["Topgrade"]
 
 *Source: [r-darwish/topgrade: Upgrade everything (github.com)](https://github.com/r-darwish/topgrade)*
 
+## Contents
+
+- [[#About|About]]
+- [[#Usage|Usage]]
+- [[#Example|Example]]
+- [[#Customization|Customization]]
+	- [[#Configuration path|Configuration path]]
+- [[#Custom Commands|Custom Commands]]
+- [[#Step List|Step List]]
+- [[#Remote execution|Remote execution]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
 ## About
 
 Keeping your system up to date usually involves invoking multiple package managers. This results in big, non-portable shell one-liners saved in your shell. To remedy this, _topgrade_ detects which tools you use and runs the appropriate commands to update them.
@@ -26,7 +39,7 @@ Topgrade requires Rust 1.51 or above.
 Just run `topgrade`. See [the wiki](https://github.com/r-darwish/topgrade/wiki/Step-list) for the list of things Topgrade supports.
 
 
-<!--Upload failed, remote server returned an error: File is over the size limit-->
+![[Topgrade-Example.gif]]
 
 
 ## Example
@@ -306,7 +319,7 @@ Here's a comprehensive listing of Topgrade's complete list of tasks it can perfo
     -   **Debian based**: Run `apt update && apt dist-upgrade`
     -   **Clear Linux**: Run `swupd update`
     -   **Gentoo**: Run `layman -s ALL && emerge --sync -q && eix-update && emerge -uDNa world`
-    -   **openS![[Topgrade-Example 1.gif]]USE**: Run `zypper refresh && zypper dist-upgrade`
+    -   **openSUSE**: Run `zypper refresh && zypper dist-upgrade`
     -   **Void**: Run `xbps-install -Su`
 -   **Linux**: Run [etc-update](https://dev.gentoo.org/~zmedico/portage/doc/man/etc-update.1.html):
 -   **DragonFly BSD**: Upgrade and audit packages
@@ -385,7 +398,14 @@ You can specify a key called `remote_topgrades` in the configuration file. This 
 - [[CLI Tools]] | [[CLI Tools#Package Managers]]
 - [[Windows Subsystem for Linux]]
 - [[WSL Initial Setup Notes]]
-- [[Tool]]
+- [[PowerShell]]
+- [[Chocolatey]]
+- [[Scoop]]
+- [[Cargo]]
+- [[Rust]]
+- [[Git]]
+- [[R]]
+- [[Winget]]
 
 *Backlinks:*
 

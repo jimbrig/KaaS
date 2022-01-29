@@ -38,6 +38,36 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
 	"app"
 ```
 
+## Output
+
+This results in the following output into the specified "app" directory above:
+
+![](https://i.imgur.com/ov13uHW.png)
+
+when I run the `GSuite.exe` executable it launches the Electron App with the resulting PWA looking like so:
+
+*Workspace Home Page*
+
+![](https://i.imgur.com/LQF1zYV.png)
+
+*Calendar*
+
+![](https://i.imgur.com/KE5zEtI.png)
+
+*Gmail*
+
+![](https://i.imgur.com/NLLk6qA.png)
+
+*Drive*
+
+![](https://i.imgur.com/hswA04s.png)
+
+*Taskbar Icon*
+
+![](https://i.imgur.com/0czyaiN.png)
+
+
+
 ### Notes
 
 - I am assuming the working directory is set to `~/.config/nativefier/GSuite`:

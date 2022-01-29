@@ -169,7 +169,13 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
 
 Resulting in this directory output into the `app` folder specified above:
 
-and this is what the application looks
+![](https://i.imgur.com/CLX94pi.png)
+
+
+and this is what the application looks like while running:
+
+![](https://i.imgur.com/CXAk3R4.png)
+
 
 ## Resources
 

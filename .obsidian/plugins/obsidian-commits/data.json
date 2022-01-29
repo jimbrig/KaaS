@@ -182,7 +182,7 @@
     "3-Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 17
+      "links": 25
     },
     "3-Resources/Clippings/Obsidian-Clipper.md": {
       "size": 0,
@@ -4063,13 +4063,68 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "3-Resources/Tools/Readwise.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Hypothesis.io.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Kindle.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Medium.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Feedly.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Airr.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Snipd.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Obsidian Highlights.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Extract Highlights Plugin.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Readwise Plugin.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Citations Plugin.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1356,
-      "Create": 1276,
-      "Link": 2406,
+      "Refactor": 1366,
+      "Create": 1287,
+      "Link": 2427,
       "Expand": 140
     }
   },
@@ -4094,7 +4149,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 144,
+      "19": 186,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4107,7 +4162,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 449,
+      "Fri": 491,
       "Sat": 0,
       "Sun": 687
     }
@@ -4168,6 +4223,17 @@
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Citations Plugin.md\"> Citations Plugin </a>",
+        "<a class=\"internal-link\" href=\"Readwise Plugin.md\"> Readwise Plugin </a>",
+        "<a class=\"internal-link\" href=\"Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>",
+        "<a class=\"internal-link\" href=\"Obsidian Highlights.md\"> Obsidian Highlights </a>",
+        "<a class=\"internal-link\" href=\"Snipd.md\"> Snipd </a>",
+        "<a class=\"internal-link\" href=\"Airr.md\"> Airr </a>",
+        "<a class=\"internal-link\" href=\"Feedly.md\"> Feedly </a>",
+        "<a class=\"internal-link\" href=\"Medium.md\"> Medium </a>",
+        "<a class=\"internal-link\" href=\"Kindle.md\"> Kindle </a>",
+        "<a class=\"internal-link\" href=\"Hypothesis.io.md\"> Hypothesis.io </a>",
+        "<a class=\"internal-link\" href=\"Readwise.md\"> Readwise </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Podcasts/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/PDFs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Literature-Notes/Untitled.md\"> Untitled </a>",
@@ -4207,20 +4273,19 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
-        "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
-        "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
-        "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
-        "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>"
+        "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Obsidian Highlights.md\"> Obsidian Highlights </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snipd.md\"> Snipd </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Feedly.md\"> Feedly </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Medium.md\"> Medium </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise.md\"> Readwise </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4261,19 +4326,19 @@
         "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md\"> Knowledge Management in Real Life  LinkedIn </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Shiny Packages.md\"> R Shiny Packages </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/R Shiny.md\"> R Shiny </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/RStudio Package Manager.md\"> RStudio Package Manager </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Rate Indications Automation.md\"> Actuarial Rate Indications Automation </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Database Packages.md\"> R Database Packages </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise.md\"> Readwise </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Medium.md\"> Medium </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Feedly.md\"> Feedly </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snipd.md\"> Snipd </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Obsidian Highlights.md\"> Obsidian Highlights </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>",
+        "<a class=\"internal-link\" href=\"Airr.md\"> Airr </a>",
+        "<a class=\"internal-link\" href=\"Readwise Plugin.md\"> Readwise Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Kanbans/_README.md\"> _README </a>",
@@ -4314,17 +4379,7 @@
         "<a class=\"internal-link\" href=\"Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-23.md\"> 2022-01-23 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Embracing Einstein Time.md\"> Embracing Einstein Time </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-22.md\"> 2022-01-22 </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
-        "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4386,6 +4441,17 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise.md\"> Readwise </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Medium.md\"> Medium </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Feedly.md\"> Feedly </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snipd.md\"> Snipd </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Obsidian Highlights.md\"> Obsidian Highlights </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"Airr.md\"> Airr </a>",
+        "<a class=\"internal-link\" href=\"Readwise Plugin.md\"> Readwise Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4425,18 +4491,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Stored Procedures - SQL Server.md\"> Stored Procedures - SQL Server </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -15,16 +15,20 @@ Alias: Resources
 - [[3-Resources/Embeds/_README|Embeds]]: Embedded web pages (Todoist, Readwise, GitHub, etc.)
 - [[3-Resources/Highlights/_README|Highlights]]: Synced Highlights from various resources.
 - [[3-Resources/Kanbans/_README|Kanbans]]: Kanban board via the [[Kanban Plugin]]
-- [[3-Resources/Literature-Notes/_README|Literature-Notes]]: Literature Notes related to readi
-- [[3-Resources/PDFs/_README|PDFs]]
-- [[3-Resources/Podcasts/_README|Podcasts]]
-- [[3-Resources/Templates/_README|Templates]]
-- [[3-Resources/Tools/_README|Tools]]
+- [[3-Resources/Literature-Notes/_README|Literature-Notes]]: Literature Notes related to readings and sources.
+- [[3-Resources/PDFs/_README|PDFs]]: Source PDFs
+- [[3-Resources/Podcasts/_README|Podcasts]]: Source Podcasts
+- [[3-Resources/Templates/_README|Templates]]: Templates used in this vault.
+- [[3-Resources/Tools/_README|Tools]]: Large listing of Tools of all shapes and sizes.
 
 
 ### Highlights
 
 ![[3-Resources/Highlights/_README#Highlights|Highlights]]
+
+### Tools
+
+![[3-Resources/Tools/_README|Tools]]
 
 ***
 

@@ -22,7 +22,7 @@ Aliases: []
 - any:
   Searches for notes that match any of the search terms listed. Without this operator, Evernote search will return only those notes that match all of the specified search terms.
   any: pizza beer will return all notes containing either "pizza" or "beer" (removing this operator would return only notes containing "pizza" and "beer").
-    - Tags: [[evernote]] 
+    - Tags: [[Evernote]] 
 - tag:
   Searches for notes tagged with the specified tag.
   tag:medical will return notes that have the tag "medical".

@@ -41,7 +41,7 @@ Alias: CLI Tools
 
 - [[Chocolatey]]
 - [[Scoop]]
-- [[WinGet]]
+- [[Winget]]
 - [[NuGet]]
 - [[Python - pip]]
 - [[R - pak]]

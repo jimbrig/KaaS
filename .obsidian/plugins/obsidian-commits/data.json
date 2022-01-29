@@ -3942,7 +3942,7 @@
     "2-Areas/Meta/Unresolved-Links.md": {
       "size": 61094,
       "tags": 0,
-      "links": 792
+      "links": 791
     },
     "3-Resources/Tools/RIM - R Installation Manager CLI.md": {
       "size": 0,
@@ -4138,13 +4138,58 @@
       "size": 25695,
       "tags": 2,
       "links": 10
+    },
+    "3-Resources/Tools/Chocolatey.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Scoop.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "0-Slipbox/Cargo.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/Rust.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Tools/Winget.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Streaks.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Toggl.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Evernote.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Momentum.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1372,
-      "Create": 1291,
-      "Link": 2442,
+      "Refactor": 1382,
+      "Create": 1300,
+      "Link": 2456,
       "Expand": 141
     }
   },
@@ -4170,7 +4215,7 @@
       "17": 299,
       "18": 1296,
       "19": 199,
-      "20": 98,
+      "20": 131,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4182,7 +4227,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 517,
+      "Fri": 550,
       "Sat": 0,
       "Sun": 687
     }
@@ -4243,6 +4288,15 @@
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Momentum.md\"> Momentum </a>",
+        "<a class=\"internal-link\" href=\"Evernote.md\"> Evernote </a>",
+        "<a class=\"internal-link\" href=\"Toggl.md\"> Toggl </a>",
+        "<a class=\"internal-link\" href=\"Streaks.md\"> Streaks </a>",
+        "<a class=\"internal-link\" href=\"Winget.md\"> Winget </a>",
+        "<a class=\"internal-link\" href=\"Rust.md\"> Rust </a>",
+        "<a class=\"internal-link\" href=\"Cargo.md\"> Cargo </a>",
+        "<a class=\"internal-link\" href=\"Scoop.md\"> Scoop </a>",
+        "<a class=\"internal-link\" href=\"Chocolatey.md\"> Chocolatey </a>",
         "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"Dictionary Plugin.md\"> Dictionary Plugin </a>",
@@ -4284,18 +4338,18 @@
         "<a class=\"internal-link\" href=\"Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Vault Setup.md\"> Vault Setup </a>",
-        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
-        "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Momentum.md\"> Momentum </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Evernote.md\"> Evernote </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Toggl.md\"> Toggl </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Streaks.md\"> Streaks </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Winget.md\"> Winget </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Rust.md\"> Rust </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Cargo.md\"> Cargo </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Scoop.md\"> Scoop </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Chocolatey.md\"> Chocolatey </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Airr.md\"> Airr </a>",
@@ -4337,18 +4391,17 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
-        "<a class=\"internal-link\" href=\"Data Cataloging.md\"> Data Cataloging </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Cargo.md\"> Cargo </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Rust.md\"> Rust </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Chocolatey.md\"> Chocolatey </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Scoop.md\"> Scoop </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Winget.md\"> Winget </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Streaks.md\"> Streaks </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Toggl.md\"> Toggl </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Evernote.md\"> Evernote </a>",
         "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
@@ -4391,15 +4444,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Vault Setup.md\"> Vault Setup </a>",
-        "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Version Control.md\"> Version Control </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/How I Take Notes.md\"> How I Take Notes </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4461,6 +4506,12 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Chocolatey.md\"> Chocolatey </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Scoop.md\"> Scoop </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Winget.md\"> Winget </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Streaks.md\"> Streaks </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Toggl.md\"> Toggl </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Evernote.md\"> Evernote </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
@@ -4505,13 +4556,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
-        "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4592,7 +4637,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>"
       ]
     }
   },

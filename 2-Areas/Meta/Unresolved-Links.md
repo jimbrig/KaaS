@@ -223,7 +223,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Giorgos Petkakis]] in [[3-Resources/Highlights/Readwise/Articles/How to Organize Your Files for Maximum Productivity]]
 - [[redeemingproductivity.com]] in [[3-Resources/Highlights/Readwise/Articles/How to Organize Your Writing With Markdown - Redeeming Productivity]]
 - [[Mikhail Klassen]] in [[3-Resources/Highlights/Readwise/Articles/How to Structure Your Data Science Workflow]]
-- [[evernote]] in [[3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax]]
+- [[Evernote]] in [[3-Resources/Highlights/Readwise/Articles/How to Use Evernote's Advanced Search Syntax]]
 - [[developgoodhabits.com]] in [[3-Resources/Highlights/Readwise/Articles/How to Use Todoist Tutorial]]
 - [[John Zeratsky]] in [[3-Resources/Highlights/Readwise/Articles/How to Use Your Calendar to Make Every Day Your Ideal Day]]
 - [[Christopher D. Connors]] in [[3-Resources/Highlights/Readwise/Articles/How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021]]

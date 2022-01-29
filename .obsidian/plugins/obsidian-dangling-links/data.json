@@ -1,7 +1,9 @@
 {
   "selectedTab": 0,
   "sortOrder": 1,
-  "reducedIndices": [],
+  "reducedIndices": [
+    "Changelog.md"
+  ],
   "ignoredFolders": [
     "3-Resources/Templates",
     "2-Areas/Daily-Notes"

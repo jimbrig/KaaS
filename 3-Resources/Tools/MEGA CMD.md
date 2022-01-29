@@ -108,7 +108,7 @@ Autocompletion (pressing tab to fill in the remainder of a command) is available
 
 ### Scriptable
 
-Scriptable refers to running the MEGAcmd commands from a shell such as bash or the windows [[3-Resources/Tools/PowerShell]]. If the PATH to the MEGAcmd commands are not yet on the PATH in that shell, you'll need to add it. You can then issue commands like `ls` by prefixing them with the `mega-` prefix:
+Scriptable refers to running the MEGAcmd commands from a shell such as bash or the windows [[sources/Tools/PowerShell]]. If the PATH to the MEGAcmd commands are not yet on the PATH in that shell, you'll need to add it. You can then issue commands like `ls` by prefixing them with the `mega-` prefix:
 
 `mega-ls /my/account/folder`
 

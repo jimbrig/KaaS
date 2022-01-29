@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 40192,
       "tags": 0,
-      "links": 496
+      "links": 487
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -182,7 +182,7 @@
     "3-Resources/_README.md": {
       "size": 0,
       "tags": 1,
-      "links": 11
+      "links": 17
     },
     "3-Resources/Clippings/Obsidian-Clipper.md": {
       "size": 0,
@@ -3934,11 +3934,6 @@
       "tags": 1,
       "links": 3
     },
-    "3-Resources/Highlights/Highlights for REST API Best Practices.md": {
-      "size": 39,
-      "tags": 0,
-      "links": 1
-    },
     "2-Areas/Meta/Unlinked-Files.md": {
       "size": 5670,
       "tags": 0,
@@ -4033,13 +4028,48 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "3-Resources/Dictionary/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md": {
+      "size": 39,
+      "tags": 0,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/Kanbans/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/Literature-Notes/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/PDFs/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/Podcasts/_README.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1354,
-      "Create": 1270,
-      "Link": 2399,
+      "Refactor": 1356,
+      "Create": 1276,
+      "Link": 2406,
       "Expand": 140
     }
   },
@@ -4064,7 +4094,7 @@
       "16": 110,
       "17": 299,
       "18": 1296,
-      "19": 129,
+      "19": 144,
       "20": 85,
       "21": 39,
       "22": 66,
@@ -4077,7 +4107,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 434,
+      "Fri": 449,
       "Sat": 0,
       "Sun": 687
     }
@@ -4138,6 +4168,12 @@
         "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Podcasts/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/PDFs/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Literature-Notes/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Kanbans/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Citations/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"topgrade.md\"> topgrade </a>",
@@ -4182,15 +4218,10 @@
         "<a class=\"internal-link\" href=\"Untitled mindmap 1.md\"> Untitled mindmap 1 </a>",
         "<a class=\"internal-link\" href=\"Untitled mindmap.md\"> Untitled mindmap </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-17.md\"> 2022-01-17 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Features of a Data Warehouse.md\"> Features of a Data Warehouse </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Notes/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Topgrade.md\"> Topgrade </a>",
@@ -4240,10 +4271,15 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Core.md\"> DotNet Core </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/DotNet Framework.md\"> DotNet Framework </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Kanbans/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/PDFs/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Literature-Notes/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Podcasts/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Citations/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
@@ -4288,13 +4324,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-16.md\"> 2022-01-16 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Fact Table Structure.md\"> Fact Table Structure </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Bill Inmon.md\"> Bill Inmon </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing for Insurance Data.md\"> Data Warehousing for Insurance Data </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/People/Ralph Kimball.md\"> Ralph Kimball </a>",
-        "<a class=\"internal-link\" href=\"Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Warehouse Insurance - Kimball Group.md\"> Data Warehouse Insurance - Kimball Group </a>"
+        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4357,6 +4387,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
@@ -4405,8 +4436,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/_README.md\"> _README </a>"
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4485,6 +4515,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/About.md\"> About </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

@@ -18,12 +18,6 @@ The [Readwise Folder](3-Resources/Highlights/Readwise/_README.md) contains my hi
 
 Take a gander at my [[3-Resources/Highlights/Readwise/_README|Readwise]] Highlights Broadcast Site: [📚 James's Highlights (readwise.io)](https://readwise.io/@james688)
 
-***
-## All Highlights
-
-```dataview
-list from "Resources/Highlights" AND !#Type/Readme
-```
 
 ***
 

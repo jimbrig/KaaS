@@ -14,8 +14,8 @@ Alias: Resources
 - [[3-Resources/Dictionary/_README|Dictionary]]: Definitions using the [[Dictionary Plugin]].
 - [[3-Resources/Embeds/_README|Embeds]]: Embedded web pages (Todoist, Readwise, GitHub, etc.)
 - [[3-Resources/Highlights/_README|Highlights]]: Synced Highlights from various resources.
-- [[3-Resources/Kanbans/_README|Kanbans]]: 
-- [[3-Resources/Literature-Notes/_README|Literature-Notes]]
+- [[3-Resources/Kanbans/_README|Kanbans]]: Kanban board via the [[Kanban Plugin]]
+- [[3-Resources/Literature-Notes/_README|Literature-Notes]]: Literature Notes related to readi
 - [[3-Resources/PDFs/_README|PDFs]]
 - [[3-Resources/Podcasts/_README|Podcasts]]
 - [[3-Resources/Templates/_README|Templates]]

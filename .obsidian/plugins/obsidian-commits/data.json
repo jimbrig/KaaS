@@ -4132,15 +4132,20 @@
     "Instapaper.md": {
       "size": 0,
       "tags": 1,
-      "links": 2
+      "links": 5
+    },
+    "The Secret Power of Read It Later Apps.md": {
+      "size": 25695,
+      "tags": 2,
+      "links": 10
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1369,
-      "Create": 1290,
-      "Link": 2437,
-      "Expand": 140
+      "Create": 1291,
+      "Link": 2440,
+      "Expand": 141
     }
   },
   "dailyCommits": {
@@ -4165,7 +4170,7 @@
       "17": 299,
       "18": 1296,
       "19": 199,
-      "20": 88,
+      "20": 93,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4177,7 +4182,7 @@
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
-      "Fri": 507,
+      "Fri": 512,
       "Sat": 0,
       "Sun": 687
     }
@@ -4185,6 +4190,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Topgrade.md\"> Topgrade </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
@@ -4234,10 +4240,10 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
-        "<a class=\"internal-link\" href=\"Flask and Docker.md\"> Flask and Docker </a>"
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"Dictionary Plugin.md\"> Dictionary Plugin </a>",
         "<a class=\"internal-link\" href=\"Zotero.md\"> Zotero </a>",
@@ -4287,8 +4293,7 @@
         "<a class=\"internal-link\" href=\"ELT.md\"> ELT </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Version Control.md\"> Version Control </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Dictionary Plugin.md\"> Dictionary Plugin </a>",
@@ -4344,6 +4349,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn.md\"> Knowledge Management in Real Life  LinkedIn </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Zotero.md\"> Zotero </a>",
@@ -4393,8 +4399,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Versioning.md\"> Data Versioning </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-26.md\"> 2022-01-26 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures Best Practices.md\"> SQL Stored Procedures Best Practices </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-24.md\"> 2022-01-24 </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4456,6 +4461,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
+        "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"Instapaper.md\"> Instapaper </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/_README.md\"> _README </a>",
@@ -4504,9 +4511,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -14,7 +14,8 @@ Alias: ["Instapaper"]
 - [[Tools]]
 - [[Stop Reading Junk and Start Using Instapaper]]
 - [[How to take reading notes with Instapaper, IFTTT, and Evernote]]
-- 
+- [[The Secret Power of Read It Later Apps]]
+- [[How to take a Digital Note]]
 
 *Backlinks:*
 

@@ -4210,7 +4210,7 @@
       "links": 0
     },
     "0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md": {
-      "size": 0,
+      "size": 3017,
       "tags": 2,
       "links": 0
     }
@@ -4220,7 +4220,7 @@
       "Refactor": 1386,
       "Create": 1307,
       "Link": 2475,
-      "Expand": 147
+      "Expand": 148
     }
   },
   "dailyCommits": {
@@ -4237,7 +4237,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 192,
+      "12": 193,
       "13": 79,
       "14": 502,
       "15": 163,
@@ -4259,12 +4259,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 708
+      "Sun": 709
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md\"> Project Documentation Naming Conventions and Repository Guidelines </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
@@ -4314,8 +4315,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",

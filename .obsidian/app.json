@@ -103,7 +103,8 @@
     "middleware",
     "Nativefier",
     "webpage",
-    "GSuite"
+    "GSuite",
+    "deliverables"
   ],
   "livePreview": true,
   "legacyEditor": true,

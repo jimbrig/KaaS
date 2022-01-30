@@ -2925,9 +2925,9 @@
       "links": 80
     },
     "2-Areas/MOCs/Development.md": {
-      "size": 0,
+      "size": 2314,
       "tags": 1,
-      "links": 29
+      "links": 60
     },
     "2-Areas/MOCs/Data Science.md": {
       "size": 0,
@@ -4204,8 +4204,8 @@
     "/": {
       "Refactor": 1386,
       "Create": 1304,
-      "Link": 2466,
-      "Expand": 143
+      "Link": 2467,
+      "Expand": 144
     }
   },
   "dailyCommits": {
@@ -4230,7 +4230,7 @@
       "17": 299,
       "18": 1299,
       "19": 199,
-      "20": 148,
+      "20": 150,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4244,12 +4244,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 692
+      "Sun": 694
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
         "<a class=\"internal-link\" href=\"The Secret Power of Read It Later Apps.md\"> The Secret Power of Read It Later Apps </a>",
@@ -4299,8 +4300,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Unix Philosophy.md\"> Unix Philosophy </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts and Definitions.md\"> Data Warehousing Concepts and Definitions </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
@@ -4523,6 +4523,7 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4570,8 +4571,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

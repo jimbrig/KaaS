@@ -44,6 +44,15 @@ Alias: "Development"
 ## Tools
 
 - [[Online Developer Tools]]
+- [[CLI Tools]]
+
+**Version Control:**
+
+- [[Git]]
+- [[GitHub]]
+- [[GitHub CLI]]
+- [[Git Extras]]
+- [[Git-Crypt]]
 
 **AWS Tools:**
 
@@ -59,8 +68,54 @@ Alias: "Development"
 - [[AWS QuickSight]]
 - [[AWS Redshift]]
 
+**Azure Tools:**
+
+- [[Azure Data Studio]]
+- [[Azure DevOps]]
+- [[Azure DevOps Pipelines]]
+- [[Azure CLI]]
+- [[Azure Machine Learning]]
+- [[Azure ML Compute Instances]]
+- [[Azure MLOps]]
+- [[Azure SQL Databases]]
+- [[Azure Storage Explorer]]
+- [[Azure Container Registry]]
+- [[Azure Vault]]
+- [[Azure App Services]]
+- [[Azure Resource Groups]]
+- [[Azure Subscriptions]]
+- [[Azure Active Directory]]
+
+
+**Package Managers:**
+
+- [[WinGet]]
+- [[Chocolatey]]
+- [[Scoop]]
+- [[Homebrew]]
+
+**Windows Tools:**
+
+- [[Windows Terminal]]
+- [[Visual Studio Code]]
+- [[]]
+- [[DotNet]]
+- [[EaseUS]]
+
+
+**Miscellaneous:**
+
+- [[Electron]]
+
+
 
 - [[ZSH]]
+
+## Guides, How-To's, and Setups
+
+- [[Windows Developer Environment]]
+- [[Git Configuration Setup]]
+
 
 ## Conceptual Topics
 

@@ -2927,7 +2927,7 @@
     "2-Areas/MOCs/Development.md": {
       "size": 0,
       "tags": 1,
-      "links": 16
+      "links": 29
     },
     "2-Areas/MOCs/Data Science.md": {
       "size": 0,
@@ -4204,7 +4204,7 @@
     "/": {
       "Refactor": 1386,
       "Create": 1304,
-      "Link": 2465,
+      "Link": 2466,
       "Expand": 143
     }
   },
@@ -4230,7 +4230,7 @@
       "17": 299,
       "18": 1299,
       "19": 199,
-      "20": 147,
+      "20": 148,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4244,7 +4244,7 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 691
+      "Sun": 692
     }
   },
   "recentCommits": {
@@ -4522,6 +4522,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4570,7 +4571,6 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>"
       ],
       "Removed Tags from": [

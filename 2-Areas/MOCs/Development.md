@@ -25,24 +25,40 @@ Alias: "Development"
 
 ## Related MOCs
 
+**General:**
+- [[Software Development]]
+- [[Web Development]]
 
 
+**Data:**
 - [[Data Science]]:
-    - [[Data Engineering]]
-    - [[Databases]]
-
-
-
-- [[R]]
-- [[Python]]
+- [[Data Engineering]]
 - [[Databases]]
 
-## R Development
+**Languages and Frameworks:**
 
-- [[R]]
-
+- [[R]] & [[R Shiny]]
+- [[Python]]
+- [[PowerShell]]
 
 ## Tools
+
+- [[Online Developer Tools]]
+
+**AWS Tools:**
+
+- [[AWS CLI]]
+- [[AWS RDS]]
+- [[AWS Secrets Manager]]
+- [[AWS Lambda]]
+- [[AWS Glue]]
+- [[AWS IAM]]
+- [[AWS Lightsail]]
+- [[AWS Elastic Container Registry]]
+- [[AWS Athena]]
+- [[AWS QuickSight]]
+- [[AWS Redshift]]
+
 
 - [[ZSH]]
 

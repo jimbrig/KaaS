@@ -2925,9 +2925,9 @@
       "links": 80
     },
     "2-Areas/MOCs/Development.md": {
-      "size": 3747,
+      "size": 4422,
       "tags": 1,
-      "links": 106
+      "links": 126
     },
     "2-Areas/MOCs/Data Science.md": {
       "size": 0,
@@ -3827,7 +3827,7 @@
     "0-Slipbox/Data Engineering Master List of Resources.md": {
       "size": 26830,
       "tags": 1,
-      "links": 45
+      "links": 48
     },
     "0-Slipbox/Data Warehousing Roadmap.md": {
       "size": 7421,
@@ -4204,8 +4204,8 @@
     "/": {
       "Refactor": 1386,
       "Create": 1304,
-      "Link": 2469,
-      "Expand": 146
+      "Link": 2471,
+      "Expand": 147
     }
   },
   "dailyCommits": {
@@ -4231,7 +4231,7 @@
       "18": 1299,
       "19": 199,
       "20": 154,
-      "21": 39,
+      "21": 42,
       "22": 66,
       "23": 58
     }
@@ -4244,12 +4244,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 698
+      "Sun": 701
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
@@ -4299,7 +4300,6 @@
         "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
       ],
       "Created": [
@@ -4521,6 +4521,8 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
@@ -4569,9 +4571,7 @@
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
-        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>"
+        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

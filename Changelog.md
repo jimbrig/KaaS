@@ -1,3 +1,4 @@
+- 2022-01-29 at 21h02 · [[Data Engineering Master List of Resources]]
 - 2022-01-29 at 21h00 · [[Development]]
 - 2022-01-29 at 18h53 · [[2022-01-29]]
 - 2022-01-28 at 20h20 · [[Instapaper]]
@@ -88,7 +89,6 @@
 - 2022-01-24 at 13h15 · [[2022-01-24]]
 - 2022-01-23 at 15h03 · [[2022-01-23]]
 - 2022-01-22 at 17h07 · [[2022-01-22]]
-- 2022-01-17 at 21h09 · [[Data Engineering Master List of Resources]]
 - 2022-01-17 at 20h58 · [[Features of a Data Warehouse]]
 - 2022-01-17 at 20h57 · [[Data Warehouse]]
 - 2022-01-17 at 20h55 · [[Data Warehousing Roadmap]]

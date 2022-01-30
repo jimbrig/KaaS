@@ -43,8 +43,12 @@ Alias: "Development"
 
 ## Tools
 
+### Lists
+
 - [[Online Developer Tools]]
 - [[CLI Tools]]
+
+### Version Control
 
 **Version Control:**
 
@@ -53,6 +57,12 @@ Alias: "Development"
 - [[GitHub CLI]]
 - [[Git Extras]]
 - [[Git-Crypt]]
+
+### Clouds
+
+- [[Microsoft Azure]]
+- [[Amazon Web Services]]
+- [[Google Cloud Plat]]
 
 **AWS Tools:**
 
@@ -86,6 +96,17 @@ Alias: "Development"
 - [[Azure Subscriptions]]
 - [[Azure Active Directory]]
 
+**GCP Tools:**
+
+- [[Gcloud SDK]]
+- [[Gcloud Components]]
+
+**Other:**
+
+- [[MEGA CMD]]
+- [[Vercel]]
+- [[Heroku]]
+- [[Digital Ocean]]
 
 **Package Managers:**
 
@@ -96,9 +117,9 @@ Alias: "Development"
 
 **Windows Tools:**
 
+- [[Windows Subsystem for Linux]]
 - [[Windows Terminal]]
 - [[Visual Studio Code]]
-- [[]]
 - [[DotNet]]
 - [[EaseUS]]
 
@@ -111,10 +132,26 @@ Alias: "Development"
 
 - [[ZSH]]
 
-## Guides, How-To's, and Setups
+## Best Practices, Guides, How-To's, and Setups
 
 - [[Windows Developer Environment]]
-- [[Git Configuration Setup]]
+- [[Windows Registry Hacks]]
+- [[Windows Subsystem for Linux Setup Guide]]
+- [[Nodejs Setup Guide]]
+- [[Python Setup Guide]]
+- [[R Setup Guide]]
+- [[Rust Setup Guide]]
+- [[Git Setup Guide]]
+- [[Git Configuration Setup (SSH, GPG, and More)]]
+- [[PowerShell Setup Guide]]
+- [[Zsh Setup Guide]]
+- [[Dotfiles Management on Windows]]
+- [[Windows Terminal Setup Guide]]
+- [[Docker Setup Guide]]
+- [[Visual Studio Code Extensions]]
+- [[Azure Data Studio Setup Guide]]
+- [[R Package Development Best Practices]]
+- [[Database Design Best Practices]]
 
 
 ## Conceptual Topics

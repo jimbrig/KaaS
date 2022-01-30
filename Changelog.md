@@ -1,5 +1,5 @@
+- 2022-01-29 at 21h06 · [[Development]]
 - 2022-01-29 at 21h02 · [[Data Engineering Master List of Resources]]
-- 2022-01-29 at 21h00 · [[Development]]
 - 2022-01-29 at 18h53 · [[2022-01-29]]
 - 2022-01-28 at 20h20 · [[Instapaper]]
 - 2022-01-28 at 20h19 · [[How to take a Digital Note]]

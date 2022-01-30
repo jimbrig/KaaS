@@ -12,16 +12,23 @@ Alias: "Development"
 ## Contents
 
 - [[#Related MOCs|Related MOCs]]
-- [[#R Development|R Development]]
+- [[#Languages and Frameworks|Languages and Frameworks]]
 - [[#Tools|Tools]]
+	- [[#Lists|Lists]]
+	- [[#Version Control|Version Control]]
+	- [[#Clouds|Clouds]]
+	- [[#Package Management|Package Management]]
+	- [[#Databases|Databases]]
+	- [[#Microsoft and Windows Tools|Microsoft and Windows Tools]]
+	- [[#Markdown Editors|Markdown Editors]]
+	- [[#Miscellaneous|Miscellaneous]]
+- [[#Best Practices, Guides, How-To's, and Setups|Best Practices, Guides, How-To's, and Setups]]
 - [[#Conceptual Topics|Conceptual Topics]]
+- [[#Development Links|Development Links]]
 - [[#Dataviews|Dataviews]]
-	- [[#Tagged as *Topic/Dev*|Tagged as Topic/Dev]]
+	- [[#Tagged as *Topic/Dev*|Tagged as *Topic/Dev*]]
 	- [[#Links to this File|Links to this File]]
 
-## Development Links
-
-<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/development-15647986/embed/theme=dark"></iframe>
 
 ## Related MOCs
 
@@ -151,16 +158,26 @@ Alias: "Development"
 - [[EaseUS]]
 - [[Microsoft Edge]]
 
+### Markdown Editors
+
+- [[Typora]]
+- [[Obsidian]]
+- [[Visual Studio Code]]
+- [[RStudio]]
+
 ### Miscellaneous
 
 **Miscellaneous:**
 
 - [[Lepton]]
-- [[Link Shell]]
+- [[Link Shell Extension]]
+- [[RapidEE]]
+- [[Alt-Tab-Terminator]]
 - [[Nativefier]]
 - [[Topgrade]]
 - [[Electron]]
 - [[ZSH]]
+- [[Inno]]
 - [[Todoist-CLI]]
 - [[Prophet Actuarial Tool]]
 - [[Zotero]]
@@ -191,7 +208,10 @@ Alias: "Development"
 
 - [[Unified Architecture Framework]] | [[Unified Architecture Framework|Model Based Systems Engineering]]
 - [[Business Process Model and Notation]]
-- 
+
+## Development Links
+
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/development-15647986/embed/theme=dark"></iframe>
 
 ## Dataviews
 

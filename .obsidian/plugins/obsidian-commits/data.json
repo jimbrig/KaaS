@@ -2925,9 +2925,9 @@
       "links": 80
     },
     "2-Areas/MOCs/Development.md": {
-      "size": 3107,
+      "size": 3747,
       "tags": 1,
-      "links": 84
+      "links": 106
     },
     "2-Areas/MOCs/Data Science.md": {
       "size": 0,
@@ -4204,8 +4204,8 @@
     "/": {
       "Refactor": 1386,
       "Create": 1304,
-      "Link": 2468,
-      "Expand": 145
+      "Link": 2469,
+      "Expand": 146
     }
   },
   "dailyCommits": {
@@ -4230,7 +4230,7 @@
       "17": 299,
       "18": 1299,
       "19": 199,
-      "20": 152,
+      "20": 154,
       "21": 39,
       "22": 66,
       "23": 58
@@ -4244,12 +4244,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 696
+      "Sun": 698
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
@@ -4299,8 +4300,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Advanced Programming Concepts.md\"> Advanced Programming Concepts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Property Casualty Data Thoughts.md\"> Actuarial Property Casualty Data Thoughts </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
@@ -4525,6 +4525,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4570,8 +4571,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

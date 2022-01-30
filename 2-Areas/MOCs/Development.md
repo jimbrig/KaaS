@@ -41,6 +41,14 @@ Alias: "Development"
 - [[Python]]
 - [[PowerShell]]
 
+## Languages and Frameworks
+
+- [[R]] & [[R Shiny]]
+- [[Python]]
+- [[PowerShell]], [[PowerShell Core]], [[Windows PowerShell]], [[PowerShell Modules]]
+- [[Nodejs]]
+
+
 ## Tools
 
 ### Lists
@@ -62,7 +70,7 @@ Alias: "Development"
 
 - [[Microsoft Azure]]
 - [[Amazon Web Services]]
-- [[Google Cloud Plat]]
+- [[Google Cloud Platform]]
 
 **AWS Tools:**
 
@@ -108,12 +116,31 @@ Alias: "Development"
 - [[Heroku]]
 - [[Digital Ocean]]
 
+### Package Management
+
 **Package Managers:**
 
 - [[WinGet]]
 - [[Chocolatey]]
 - [[Scoop]]
 - [[Homebrew]]
+
+- [[Node - npm]]
+- [[Python - pip]]
+
+- [[RIM - R Installation Manager CLI]]
+
+### Databases
+
+- [[SQL]]
+- [[Azure Data Studio]]
+- [[SQL Server]]
+- [[SQL Server Management Studio]]
+- [[dbgate]]
+- [[BeeKeeper]]
+- [[DBEaver]]
+
+### Microsoft and Windows Tools
 
 **Windows Tools:**
 
@@ -122,15 +149,21 @@ Alias: "Development"
 - [[Visual Studio Code]]
 - [[DotNet]]
 - [[EaseUS]]
+- [[Microsoft Edge]]
 
+### Miscellaneous
 
 **Miscellaneous:**
 
+- [[Lepton]]
+- [[Link Shell]]
+- [[Nativefier]]
+- [[Topgrade]]
 - [[Electron]]
-
-
-
 - [[ZSH]]
+- [[Todoist-CLI]]
+- [[Prophet Actuarial Tool]]
+- [[Zotero]]
 
 ## Best Practices, Guides, How-To's, and Setups
 

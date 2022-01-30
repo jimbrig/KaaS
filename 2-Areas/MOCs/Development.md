@@ -25,8 +25,14 @@ Alias: "Development"
 
 ## Related MOCs
 
-- [[Data Science]]
-- [[Web Development]]
+
+
+- [[Data Science]]:
+    - [[Data Engineering]]
+    - [[Databases]]
+
+
+
 - [[R]]
 - [[Python]]
 - [[Databases]]

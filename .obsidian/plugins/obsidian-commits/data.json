@@ -4208,13 +4208,18 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1386,
-      "Create": 1306,
-      "Link": 2474,
+      "Create": 1307,
+      "Link": 2475,
       "Expand": 147
     }
   },
@@ -4232,7 +4237,7 @@
       "9": 4,
       "10": 20,
       "11": 114,
-      "12": 190,
+      "12": 192,
       "13": 79,
       "14": 502,
       "15": 163,
@@ -4254,7 +4259,7 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 706
+      "Sun": 708
     }
   },
   "recentCommits": {
@@ -4313,6 +4318,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
@@ -4362,8 +4368,7 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4419,6 +4424,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md\"> Project Documentation Naming Conventions and Repository Guidelines </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/dbDiagram.md\"> dbDiagram </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Embed-Template.md\"> Embed-Template </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
@@ -4468,8 +4474,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

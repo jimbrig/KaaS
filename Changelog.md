@@ -1,3 +1,4 @@
+- 2022-01-30 at 12h48 · [[Project Documentation Naming Conventions and Repository Guidelines]]
 - 2022-01-29 at 22h30 · [[dbDiagram]]
 - 2022-01-29 at 22h29 · [[Embed-Template]]
 - 2022-01-29 at 22h27 · [[Agenda-Template]]
@@ -497,4 +498,3 @@
 - 2021-12-28 at 01h56 · [[GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH]]
 - 2021-12-28 at 01h56 · [[GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH]]
 - 2021-12-28 at 01h56 · [[GTD Refresh, Part 5 Building the Weekly Review Habit]]
-- 2021-12-28 at 01h56 · [[GTD Reference The Best Filing System for Busy Lives  Shortform Books]]

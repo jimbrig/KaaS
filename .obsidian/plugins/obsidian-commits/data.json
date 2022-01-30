@@ -2927,7 +2927,7 @@
     "2-Areas/MOCs/Development.md": {
       "size": 4422,
       "tags": 1,
-      "links": 126
+      "links": 131
     },
     "2-Areas/MOCs/Data Science.md": {
       "size": 0,
@@ -4198,13 +4198,23 @@
       "size": 0,
       "tags": 1,
       "links": 3
+    },
+    "3-Resources/Embeds/dbDiagram.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "3-Resources/Templates/Embed-Template.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1386,
-      "Create": 1304,
-      "Link": 2471,
+      "Create": 1306,
+      "Link": 2474,
       "Expand": 147
     }
   },
@@ -4232,7 +4242,7 @@
       "19": 199,
       "20": 154,
       "21": 42,
-      "22": 66,
+      "22": 71,
       "23": 58
     }
   },
@@ -4244,7 +4254,7 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 701
+      "Sun": 706
     }
   },
   "recentCommits": {
@@ -4303,6 +4313,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Developing PowerShell Modules and Functions.md\"> Developing PowerShell Modules and Functions </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Embeds/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
         "<a class=\"internal-link\" href=\"Agence Breizhtorm - Www.Breizhtorm.Fr.md\"> Agence Breizhtorm - Www.Breizhtorm.Fr </a>",
         "<a class=\"internal-link\" href=\"How to take a Digital Note.md\"> How to take a Digital Note </a>",
@@ -4351,9 +4363,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Tagless-Files.md\"> Tagless-Files </a>",
-        "<a class=\"internal-link\" href=\"Unresolved-Links.md\"> Unresolved-Links </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4409,6 +4419,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Embeds/dbDiagram.md\"> dbDiagram </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Templates/Embed-Template.md\"> Embed-Template </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-29.md\"> 2022-01-29 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/How to take a Digital Note.md\"> How to take a Digital Note </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4457,9 +4469,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-27.md\"> 2022-01-27 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4521,6 +4531,7 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
@@ -4570,8 +4581,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
         "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
-        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

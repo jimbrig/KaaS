@@ -22,12 +22,3 @@
 - [[2022-01-26]] 8:00 PM — Synced 2 highlights from 1 document.
     - 2 highlights from Web Application Architecture
 
-- [[2022-01-30]] 7:28 PM — Synced 21 highlights from 7 documents.
-    - 1 highlights from Data Engineering Explained: Data Models
-    - 11 highlights from Part I-I : Data Warehouse Modelling Concept
-    - 1 highlights from Data Engineering — ETL or ELT
-    - 3 highlights from Comprehensive Guide to the Data Warehouse
-    - 3 highlights from What Is a Star Schema?
-    - 1 highlights from How to Use SQL Subqueries
-    - 1 highlights from How to Build a Data Warehouse for the Insurance Industry
-

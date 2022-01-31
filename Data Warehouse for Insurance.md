@@ -2,7 +2,7 @@
 Date: 2022-01-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev/DataScience", "#Topic/Actuarial"]
-Alias: "How to Build a Modern Data Warehouse for the Insurance Industry"
+Alias: "Data Warehouse for Insurance"
 ---
 
 # Data Warehouse for Insurance
@@ -13,9 +13,11 @@ Alias: "How to Build a Modern Data Warehouse for the Insurance Industry"
 
 ## Contents
 
+- [[#Understanding the Value Chain and Create a Design|Understanding the Value Chain and Create a Design]]
 - [[#Develop a Data Flow|Develop a Data Flow]]
 - [[#Produce Reports, Visualizations, and Analysis|Produce Reports, Visualizations, and Analysis]]
-		- [[#Related|Related]]
+- [[#Appendix: Links|Appendix: Links]]
+
 
 
 ## Understanding the Value Chain and Create a Design
@@ -33,6 +35,7 @@ From here, we can describe the *measures* that are relevant to these activities:
 
 ## Develop a Data Flow
 
+*See Also: [[ELT Architecture in Azure Cloud]]*
 
 1.  **Isolate your source data in a “common landing area”**: I have been working on an insurance client with 20+ data sources (many acquisitions). The first step of our process is to identify the source tables that we need to build out the warehouse and load the information in a staging database. (We create a schema per source and automate most of the development work.)
 
@@ -45,13 +48,9 @@ From here, we can describe the *measures* that are relevant to these activities:
 
 By combining your sources into a centralized data warehouse for insurance, the business has created a single source of the truth. From here, users have a well of data to extract operational metrics, build predictive models, and generate executive dashboards. The potential for [insurance analytics](https://aptitive.com/insurance-analytics-solutions/) is endless: premium forecasting, geographic views, fraud detection, marketing, operational efficiency, call-center tracking, resource optimization, cost comparisons, profit maximization, and so much more!
 
-
-
-
-
 ***
 
-## Appendix: Related
+## Appendix: Links
 
 - [[Development]]
 - [[Actuarial Science]]
@@ -59,9 +58,3 @@ By combining your sources into a centralized data warehouse for insurance, the b
 - [[Data Engineering]]
 - [[Data Science]]
 - [[Databases]]
-
-*Backlinks:*
-
-```dataview
-list from [[How to Build a Modern Data Warehouse for the Insurance Industry]] AND -"Changelog"
-```

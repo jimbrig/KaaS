@@ -1,5 +1,6 @@
-- 2022-01-30 at 19h40 · [[Data Warehouse for the Insurance]]
-- 2022-01-30 at 19h36 · [[Actuarial Science]]
+- 2022-01-30 at 19h45 · [[ELT Architecture in Azure Cloud]]
+- 2022-01-30 at 19h42 · [[Data Warehouse for Insurance]]
+- 2022-01-30 at 19h41 · [[Actuarial Science]]
 - 2022-01-30 at 19h34 · [[How to Build a Data Warehouse for the Insurance Industry]]
 - 2022-01-30 at 19h34 · [[Readwise Syncs]]
 - 2022-01-30 at 19h34 · [[How to Use SQL Subqueries]]
@@ -497,4 +498,3 @@
 - 2022-01-12 at 13h18 · [[R - Connect Shiny to PostgreSQL Database]]
 - 2022-01-12 at 12h22 · [[2022-01-12]]
 - 2022-01-12 at 12h22 · [[2022-01-11]]
-- 2022-01-10 at 23h12 · [[RStudio Package Manager]]

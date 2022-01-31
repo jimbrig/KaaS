@@ -1,4 +1,5 @@
-- 2022-01-30 at 23h48 · [[SQL Server]]
+- 2022-01-30 at 23h53 · [[SQL Server Useful Queries]]
+- 2022-01-30 at 23h49 · [[SQL Server]]
 - 2022-01-30 at 23h43 · [[Readwise Syncs]]
 - 2022-01-30 at 23h43 · [[How to Build a Data Warehouse for the Insurance Industry]]
 - 2022-01-30 at 20h34 · [[Why Can't I Complete All My Daily Tasks]]
@@ -497,4 +498,3 @@
 - 2022-01-28 at 20h09 · [[Airr]]
 - 2022-01-28 at 20h09 · [[_README]]
 - 2022-01-28 at 20h06 · [[_README]]
-- 2022-01-28 at 20h05 · [[The Secret Power of Read It Later Apps]]

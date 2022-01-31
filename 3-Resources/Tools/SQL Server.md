@@ -16,6 +16,10 @@ Alias: ["SQL Server"]
 - [[#Appendix: Related|Appendix: Related]]
 
 
+## Code Snippets
+
+- [[SQL Server Useful Queries]]
+
 ## Parent Topics
 
 - [[Databases]]

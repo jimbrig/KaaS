@@ -3825,9 +3825,9 @@
       "links": 1
     },
     "0-Slipbox/ELT Architecture in Azure Cloud.md": {
-      "size": 3470,
+      "size": 4275,
       "tags": 2,
-      "links": 0
+      "links": 13
     },
     "0-Slipbox/Data Warehouse for Insurance.md": {
       "size": 3359,
@@ -3839,8 +3839,8 @@
     "/": {
       "Refactor": 1865,
       "Create": 1704,
-      "Link": 3155,
-      "Expand": 151
+      "Link": 3156,
+      "Expand": 152
     }
   },
   "dailyCommits": {
@@ -3864,7 +3864,7 @@
       "16": 110,
       "17": 299,
       "18": 1299,
-      "19": 1758,
+      "19": 1760,
       "20": 154,
       "21": 42,
       "22": 71,
@@ -3879,12 +3879,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 2268
+      "Sun": 2270
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -3934,8 +3935,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
@@ -4157,6 +4157,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md\"> #5 8 Tips for a Production-Ready Shiny Application </a>",
@@ -4206,8 +4207,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Back to Basics Your Weekly Review.md\"> Back to Basics Your Weekly Review </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Become a Better Developer Through Blogging - Steve Gordon - Code With Steve.md\"> Become a Better Developer Through Blogging - Steve Gordon - Code With Steve </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md\"> Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services.md\"> Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md\"> Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

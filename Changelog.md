@@ -1,5 +1,5 @@
-- 2022-01-30 at 23h58 · [[SQL Server Useful Queries]]
-- 2022-01-30 at 23h55 · [[SQL Server System Functions]]
+- 2022-01-31 at 00h03 · [[SQL Server Useful Queries]]
+- 2022-01-31 at 00h00 · [[SQL Server System Functions]]
 - 2022-01-30 at 23h49 · [[SQL Server]]
 - 2022-01-30 at 23h43 · [[Readwise Syncs]]
 - 2022-01-30 at 23h43 · [[How to Build a Data Warehouse for the Insurance Industry]]

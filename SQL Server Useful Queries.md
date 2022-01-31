@@ -7,15 +7,17 @@ Alias: "SQL Server Useful Queries"
 
 # SQL Server Useful Queries
 
+## Contents
+
+- [[#Create a Database Conditionally|Create a Database Conditionally]]
+- [[#Create Schema Conditionally|Create Schema Conditionally]]
+- [[#Utilize `sp_sql` to Run Dynamic SQL|Utilize `sp_sql` to Run Dynamic SQL]]
+
+
+
 ## Create a Database Conditionally
 
 Use this query to generate a database using the `CREATE DATABASE` command, dropping any pre-existing databases with the same name.
-
-Notes:
-
-- Notice the use of the `DATABASEPROPERTYEX` (See [[SQL Server System Functions#DATABASEPROPERTYEX]])^[1]
-
-- Create a database, removing any previous database with an identical name:
 
 ```SQL
 -- Check if Datatbase exists and DROP if it does:
@@ -28,6 +30,21 @@ END
 GO
 ```
 
+*REPLACE `<dbname>` with the name of the database.*
+
+**Notes**:
+- Notice the use of the `DATABASEPROPERTYEX ('<dbname>', 'Version')` (See [[SQL Server System Functions#DATABASEPROPERTYEX]])^[1]
+- Notice you must `ALTER` the database using `SET SINGLE_USER` first in order to make this work properly
+- Create a database, removing any previous database with an identical name
+
+## Create Schema Conditionally
+
+
+## Utilize `sp_sql` to Run Dynamic SQL
+
+
+
+
 
 
 *Backlinks:*
@@ -36,4 +53,3 @@ GO
 list from [[SQL Server Useful Queries]] AND -"Changelog"
 ```
 
-^[1]: Source: [DATABASEPROPERTYEX (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/databasepropertyex-transact-sql?view=sql-server-ver15)

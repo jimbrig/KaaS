@@ -11,7 +11,9 @@ Alias: "SQL Server System Functions"
 
 ### DATABASEPROPERTYEX
 
-[DATABASEPROPERTYEX (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/databasepropertyex-transact-sql?view=sql-server-ver15)
+Source: [DATABASEPROPERTYEX (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/databasepropertyex-transact-sql?view=sql-server-ver15)
+
+
 
 *Backlinks:*
 

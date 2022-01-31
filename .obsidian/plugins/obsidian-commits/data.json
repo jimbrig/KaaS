@@ -2922,7 +2922,7 @@
     "2-Areas/MOCs/Actuarial Science.md": {
       "size": 4353,
       "tags": 1,
-      "links": 80
+      "links": 81
     },
     "2-Areas/MOCs/Development.md": {
       "size": 4422,
@@ -4213,13 +4213,23 @@
       "size": 3017,
       "tags": 2,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2022-01-30.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "How to Build a Modern Data Warehouse for the Insurance Industry.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 6
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1386,
-      "Create": 1307,
-      "Link": 2475,
+      "Create": 1309,
+      "Link": 2480,
       "Expand": 148
     }
   },
@@ -4244,7 +4254,7 @@
       "16": 110,
       "17": 299,
       "18": 1299,
-      "19": 199,
+      "19": 206,
       "20": 154,
       "21": 42,
       "22": 71,
@@ -4259,7 +4269,7 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 709
+      "Sun": 716
     }
   },
   "recentCommits": {
@@ -4318,6 +4328,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Personal Backup Strategy.md\"> Personal Backup Strategy </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"How to Build a Modern Data Warehouse for the Insurance Industry.md\"> How to Build a Modern Data Warehouse for the Insurance Industry </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-30.md\"> 2022-01-30 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/Untitled.md\"> Untitled </a>",
@@ -4366,9 +4378,7 @@
         "<a class=\"internal-link\" href=\"Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
-        "<a class=\"internal-link\" href=\"CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"GitHub CLI.md\"> GitHub CLI </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4424,6 +4434,8 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT.md\"> ELT </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-30.md\"> 2022-01-30 </a>",
+        "<a class=\"internal-link\" href=\"How to Build a Modern Data Warehouse for the Insurance Industry.md\"> How to Build a Modern Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md\"> Project Documentation Naming Conventions and Repository Guidelines </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/dbDiagram.md\"> dbDiagram </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Templates/Embed-Template.md\"> Embed-Template </a>",
@@ -4472,9 +4484,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"SQL Stored Procedures - Cursors.md\"> SQL Stored Procedures - Cursors </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4536,6 +4546,9 @@
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-30.md\"> 2022-01-30 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"How to Build a Modern Data Warehouse for the Insurance Industry.md\"> How to Build a Modern Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
@@ -4583,10 +4596,7 @@
         "<a class=\"internal-link\" href=\"Windows Subsystem for Linux.md\"> Windows Subsystem for Linux </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Nodejs.md\"> Nodejs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Node - npm.md\"> Node - npm </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>",
-        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
-        "<a class=\"internal-link\" href=\"Nativefier.md\"> Nativefier </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Creating Desktop Electron Apps with Nativefier.md\"> Creating Desktop Electron Apps with Nativefier </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Electron.md\"> Electron </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -1,3 +1,5 @@
+- 2022-01-30 at 19h18 · [[How to Build a Modern Data Warehouse for the Insurance Industry]]
+- 2022-01-30 at 19h17 · [[Actuarial Science]]
 - 2022-01-30 at 19h16 · [[2022-01-30]]
 - 2022-01-30 at 12h49 · [[Project Documentation Naming Conventions and Repository Guidelines]]
 - 2022-01-29 at 22h30 · [[dbDiagram]]
@@ -496,5 +498,3 @@
 - 2021-12-28 at 01h56 · [[Home - How to Write a Good Documentation - Library Guides at UC Berkeley]]
 - 2021-12-28 at 01h56 · [[Habits You Must Have to Be a Highly Effective Programmers]]
 - 2021-12-28 at 01h56 · [[Guest Post Using Todoist With MYN and 1MTD by Charles Olsen]]
-- 2021-12-28 at 01h56 · [[GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH]]
-- 2021-12-28 at 01h56 · [[GTD With Todoist, Evernote and Google Calendar  Dr Veronika CH]]

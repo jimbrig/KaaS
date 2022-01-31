@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev/SQL"]
+Tags: ["#Type/Code", "#Topic/Dev/SQL", "#Status/Todo"]
 Alias: "SQL Server Useful Queries"
 ---
 

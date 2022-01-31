@@ -1,11 +1,13 @@
 ---
 Date: 2022-01-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Documentation", "#Topic/Dev/SQL"]
+Tags: ["#Type/Documentation", "#Topic/Dev/SQL", "#Status/Todo"]
 Alias: "SQL Server System Functions"
 ---
 
 # SQL Server System Functions
+
+[What are the Microsoft SQL database functions? - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/functions?view=sql-server-ver15)
 
 ## Metadata Functions
 

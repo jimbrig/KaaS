@@ -4264,20 +4264,20 @@
       "tags": 2,
       "links": 0
     },
-    "SQL Server Useful Queries.md": {
-      "size": 0,
-      "tags": 2,
-      "links": 1
-    },
-    "SQL Server System Functions.md": {
+    "0-Slipbox/SQL Server System Functions.md": {
       "size": 0,
       "tags": 2,
       "links": 0
+    },
+    "3-Resources/Code/SQL Server Useful Queries.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1865,
+      "Refactor": 1867,
       "Create": 1792,
       "Link": 3335,
       "Expand": 153
@@ -4285,7 +4285,7 @@
   },
   "dailyCommits": {
     "/": {
-      "0": 24,
+      "0": 26,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4313,7 +4313,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 285,
+      "Mon": 287,
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
@@ -4431,6 +4431,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
@@ -4479,9 +4481,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",

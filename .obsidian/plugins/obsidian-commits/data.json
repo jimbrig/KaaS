@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 36308,
       "tags": 0,
-      "links": 498
+      "links": 499
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -1412,7 +1412,7 @@
     "3-Resources/Tools/SQL Server.md": {
       "size": 0,
       "tags": 1,
-      "links": 5
+      "links": 16
     },
     "0-Slipbox/Actuarial Rate Indications Automation.md": {
       "size": 0,
@@ -3820,7 +3820,7 @@
       "links": 1
     },
     "3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md": {
-      "size": 1169,
+      "size": 3211,
       "tags": 1,
       "links": 1
     },
@@ -4269,8 +4269,8 @@
     "/": {
       "Refactor": 1865,
       "Create": 1790,
-      "Link": 3328,
-      "Expand": 152
+      "Link": 3330,
+      "Expand": 153
     }
   },
   "dailyCommits": {
@@ -4298,7 +4298,7 @@
       "20": 412,
       "21": 42,
       "22": 71,
-      "23": 58
+      "23": 61
     }
   },
   "weeklyCommits": {
@@ -4309,12 +4309,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 2528
+      "Sun": 2531
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
@@ -4364,8 +4365,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
@@ -4587,6 +4587,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
@@ -4635,9 +4637,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md\"> Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

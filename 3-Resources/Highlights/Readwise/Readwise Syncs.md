@@ -31,3 +31,6 @@
     - 1 highlights from How to Use SQL Subqueries
     - 1 highlights from How to Build a Data Warehouse for the Insurance Industry
 
+- [[2022-01-30]] 11:43 PM — Synced 4 highlights from 1 document.
+    - 4 highlights from How to Build a Data Warehouse for the Insurance Industry
+

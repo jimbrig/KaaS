@@ -12,7 +12,7 @@
     "Changelog.md": {
       "size": 36308,
       "tags": 0,
-      "links": 487
+      "links": 498
     },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
@@ -3833,13 +3833,443 @@
       "size": 3359,
       "tags": 3,
       "links": 12
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md": {
+      "size": 1202,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md": {
+      "size": 3308,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md": {
+      "size": 1414,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md": {
+      "size": 4670,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md": {
+      "size": 8643,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md": {
+      "size": 7078,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md": {
+      "size": 2842,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md": {
+      "size": 764,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md": {
+      "size": 978,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md": {
+      "size": 628,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md": {
+      "size": 1586,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md": {
+      "size": 2438,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md": {
+      "size": 4881,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md": {
+      "size": 3833,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md": {
+      "size": 831,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md": {
+      "size": 909,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md": {
+      "size": 2118,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md": {
+      "size": 914,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md": {
+      "size": 4036,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md": {
+      "size": 4487,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md": {
+      "size": 784,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md": {
+      "size": 5470,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md": {
+      "size": 1099,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md": {
+      "size": 764,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md": {
+      "size": 893,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md": {
+      "size": 10629,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md": {
+      "size": 6537,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md": {
+      "size": 947,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md": {
+      "size": 1028,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md": {
+      "size": 967,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md": {
+      "size": 1113,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md": {
+      "size": 567,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md": {
+      "size": 2961,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md": {
+      "size": 4495,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md": {
+      "size": 3986,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md": {
+      "size": 4519,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md": {
+      "size": 2833,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md": {
+      "size": 5485,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md": {
+      "size": 5511,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md": {
+      "size": 8473,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md": {
+      "size": 2763,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md": {
+      "size": 7277,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md": {
+      "size": 8410,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md": {
+      "size": 6904,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md": {
+      "size": 15666,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md": {
+      "size": 15229,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md": {
+      "size": 6156,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md": {
+      "size": 837,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md": {
+      "size": 3296,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md": {
+      "size": 3800,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md": {
+      "size": 17808,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md": {
+      "size": 5444,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md": {
+      "size": 2745,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md": {
+      "size": 3610,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md": {
+      "size": 6635,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md": {
+      "size": 5129,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md": {
+      "size": 3241,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md": {
+      "size": 6897,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md": {
+      "size": 10965,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md": {
+      "size": 5497,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md": {
+      "size": 1264,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md": {
+      "size": 749,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md": {
+      "size": 2228,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md": {
+      "size": 705,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md": {
+      "size": 1498,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md": {
+      "size": 4909,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md": {
+      "size": 2494,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md": {
+      "size": 3970,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md": {
+      "size": 4211,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md": {
+      "size": 4291,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS.md": {
+      "size": 7432,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md": {
+      "size": 1675,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md": {
+      "size": 5405,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Personal Knowledge Management Reprised.md": {
+      "size": 625,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Projects Lists - November 2019.md": {
+      "size": 621,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md": {
+      "size": 1267,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md": {
+      "size": 13925,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS.md": {
+      "size": 1592,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/SYSTEMS THINKING What Is a System.md": {
+      "size": 591,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2.md": {
+      "size": 2519,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS.md": {
+      "size": 1281,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md": {
+      "size": 3780,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/This Is How We Change the World.md": {
+      "size": 844,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md": {
+      "size": 3336,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md": {
+      "size": 3287,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md": {
+      "size": 4156,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1865,
-      "Create": 1704,
-      "Link": 3156,
+      "Create": 1790,
+      "Link": 3328,
       "Expand": 152
     }
   },
@@ -3865,7 +4295,7 @@
       "17": 299,
       "18": 1299,
       "19": 1760,
-      "20": 154,
+      "20": 412,
       "21": 42,
       "22": 71,
       "23": 58
@@ -3879,7 +4309,7 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 2270
+      "Sun": 2528
     }
   },
   "recentCommits": {
@@ -3938,57 +4368,57 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>"
       ],
       "Created": [
-        "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md\"> How to Use SQL Subqueries </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md\"> What Is a Star Schema </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Comprehensive Guide to the Data Warehouse.md\"> Comprehensive Guide to the Data Warehouse </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Engineering — ETL or ELT.md\"> Data Engineering — ETL or ELT </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Part I-I  Data Warehouse Modelling Concept.md\"> Part I-I  Data Warehouse Modelling Concept </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Engineering Explained Data Models.md\"> Data Engineering Explained Data Models </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/You Need a Budget.md\"> You Need a Budget </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Tribe of Mentors.md\"> Tribe of Mentors </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Reproducible Research With R and RStudio.md\"> Reproducible Research With R and RStudio </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Quick Passages.md\"> Quick Passages </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Free to Focus.md\"> Free to Focus </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Extend Your Mind.md\"> Extend Your Mind </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Design Your Work.md\"> Design Your Work </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Books/Clean Up and Declutter Your Computer.md\"> Clean Up and Declutter Your Computer </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/{yHat} - Reproducible Work in R.md\"> {yHat} - Reproducible Work in R </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Zen to Done The Habit-Building Productivity System.md\"> Zen to Done The Habit-Building Productivity System </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Zen and the Art of File and Folder Organization.md\"> Zen and the Art of File and Folder Organization </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Your Productivity Obsession Might Be Making You Less Productive.md\"> Your Productivity Obsession Might Be Making You Less Productive </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/You Should Make a Blog!.md\"> You Should Make a Blog! </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs.md\"> You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Wtf Is a Zettelkasten  Zettlr.md\"> Wtf Is a Zettelkasten  Zettlr </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Writing Well A Must-Have Skill That No One Teaches Data Scientists.md\"> Writing Well A Must-Have Skill That No One Teaches Data Scientists </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Writing Technical Design Docs, Revisited - Machine Words - Medium.md\"> Writing Technical Design Docs, Revisited - Machine Words - Medium </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Writing Is Thinking.md\"> Writing Is Thinking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Writing Is Thinking-2.md\"> Writing Is Thinking-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Workflow for Serverless — Cloud Functions + Workflow [Basic].md\"> Workflow for Serverless — Cloud Functions + Workflow [Basic] </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Why Programmers Should Write Tutorials.md\"> Why Programmers Should Write Tutorials </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Why Organising Your To-Dos by Project Does Not Work..md\"> Why Organising Your To-Dos by Project Does Not Work. </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Why Ongoing Is the Worst Word in the History of Project Management.md\"> Why Ongoing Is the Worst Word in the History of Project Management </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Why I Use a Cloud-Based Development Environment and How You Can Too.md\"> Why I Use a Cloud-Based Development Environment and How You Can Too </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali.md\"> Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List.md\"> What’s on Your Programming Reading List </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What’s on Your Programming Reading List-2.md\"> What’s on Your Programming Reading List-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What's a Successful Shiny Application - Rtask.md\"> What's a Successful Shiny Application - Rtask </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What I've Learnt About Making an R Package.md\"> What I've Learnt About Making an R Package </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software.md\"> Weekly Review Checklist An Insanely Productive Week in 14 Steps  Process Street  Checklist, Workflow and SOP Software </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Weekly Reset System for Increased Productivity  Mystigal.md\"> Weekly Reset System for Increased Productivity  Mystigal </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Web Application Architecture.md\"> Web Application Architecture </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Want to Get Organized Start With the Mind Sweep.md\"> Want to Get Organized Start With the Mind Sweep </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Variable and Value Labels Support in Base R and Other Packages.md\"> Variable and Value Labels Support in Base R and Other Packages </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Using Todoist for GTD  GTD Method.md\"> Using Todoist for GTD  GTD Method </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Using Redo to Manage R Data Analysis Workflow.md\"> Using Redo to Manage R Data Analysis Workflow </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Usethis Workflow for Package Development  Emil Hvitfeldt.md\"> Usethis Workflow for Package Development  Emil Hvitfeldt </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating.md\"> Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Ultimate Personal Management Systems - The Startup - Medium.md\"> Ultimate Personal Management Systems - The Startup - Medium </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md\"> Top GitHub Best Practices for Developers </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top 4 Tips to Get Organized for Efficient Software Development.md\"> Top 4 Tips to Get Organized for Efficient Software Development </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md\"> Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md\"> Wed. 0929 – Is Amazon’s Astro Robot… Ready </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/This Is How We Change the World.md\"> This Is How We Change the World </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md\"> The business model of open source </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS.md\"> Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2.md\"> Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/SYSTEMS THINKING What Is a System.md\"> SYSTEMS THINKING What Is a System </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS.md\"> Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md\"> Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md\"> Stop Living on Autopilot and Take Responsibility for Your Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Projects Lists - November 2019.md\"> Projects Lists - November 2019 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Personal Knowledge Management Reprised.md\"> Personal Knowledge Management Reprised </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md\"> Laurie Santos, PhD  Simple Ways to Live a Happier Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS.md\"> My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md\"> Megan McNealy on Achieving Optimal Productivity Through Well-being </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md\"> Limit Your Options By Limiting Your Obligations </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md\"> He Ran Across America — On Plants </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md\"> Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md\"> Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md\"> Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md\"> Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md\"> Ep. 108 —  LISTENER CALLS —  Becoming Productive </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
@@ -4044,57 +4474,57 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Tagged": [
-        "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md\"> #5 8 Tips for a Production-Ready Shiny Application </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/'Mustashe' Explained  Joshua Cook.md\"> 'Mustashe' Explained  Joshua Cook </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV.md\"> #6 Practicing - Tips From the Clean Coder - DEV </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Guidelines to Better Table Design.md\"> 10 Guidelines to Better Table Design </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Tips to Turn Microsoft To-Do Into a Serious Task Manager.md\"> 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Ways to Improve How You Manage Information.md\"> 10 Ways to Improve How You Manage Information </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md\"> 10 Windows Task Manager Tricks You Probably Didn’t Know </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/13 Things to Put on Your Daily Checklist for Boosted Productivity.md\"> 13 Things to Put on Your Daily Checklist for Boosted Productivity </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/27 Incredibly Useful Things You Didn’t Know Chrome Could Do.md\"> 27 Incredibly Useful Things You Didn’t Know Chrome Could Do </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Smart Uses of Curated Lists and How to Create Them.md\"> 3 Smart Uses of Curated Lists and How to Create Them </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Steps to Designing a Powerful Project Workflow - ProjectManager.com.md\"> 3 Steps to Designing a Powerful Project Workflow - ProjectManager.com </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Efficient Workflow  Efficient R Programming.md\"> 4 Efficient Workflow  Efficient R Programming </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Great Habits to Increase Productivity, Focus, Concentration, and Determination.md\"> 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Solid Ways to Get the Best of the Web.md\"> 4 Solid Ways to Get the Best of the Web </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Steps to Organize Your Massive To-Do List.md\"> 4 Steps to Organize Your Massive To-Do List </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later.md\"> 5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life.md\"> 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Steps for Tracking Your Monthly Expenses - NerdWallet.md\"> 5 Steps for Tracking Your Monthly Expenses - NerdWallet </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021-2.md\"> 5 Useful Golang Modules Developers Should Know in 2021-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021.md\"> 5 Useful Golang Modules Developers Should Know in 2021 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/6 Windows Apps That Automatically Organize Files for You.md\"> 6 Windows Apps That Automatically Organize Files for You </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/6 YAML Features Most Programmers Don’t Know.md\"> 6 YAML Features Most Programmers Don’t Know </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/62 Productive Things to Do When Bored at Home.md\"> 62 Productive Things to Do When Bored at Home </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff.md\"> 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Best Practices for Your Developer Onboarding Process.md\"> 7 Best Practices for Your Developer Onboarding Process </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Effective Tools to Increase Your Hard Drive Performance on Windows.md\"> 7 Effective Tools to Increase Your Hard Drive Performance on Windows </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry.md\"> 8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/8 Ways to Free Up RAM on Your Windows Computer.md\"> 8 Ways to Free Up RAM on Your Windows Computer </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager.md\"> 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177].md\"> 9 Tips to Get More Out of Your Calendar [PMP #177] </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Better Way to Manage Your Github Personal Access Tokens.md\"> A Better Way to Manage Your Github Personal Access Tokens </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Tricks for Boosting SQL Query Performance.md\"> 9 Tricks for Boosting SQL Query Performance </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md\"> A Builder’s Guide to Note-Taking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Quick Tips to Control Clutter and Stop Hoarding.md\"> 7 Quick Tips to Control Clutter and Stop Hoarding </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Hierarchy First Approach to Note Taking.md\"> A Hierarchy First Approach to Note Taking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md\"> A Preview of WSL in the Microsoft Store Is Now Available! </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A New Year Is a Beautiful Fresh Start.md\"> A New Year Is a Beautiful Fresh Start </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN.md\"> A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Workflow for R.md\"> A Workflow for R </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A ‘Jobs to Be Done’ Framework for Startups.md\"> A ‘Jobs to Be Done’ Framework for Startups </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Action Items Template for Excel.md\"> Action Items Template for Excel </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/An Iterative Approach to Notes.md\"> An Iterative Approach to Notes </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md\"> API Architecture  —  Performance Best Practices for REST APIs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md\"> Architecture for a Startup-2 </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md\"> #447 Books I've Loved — Ann Miura-Ko-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md\"> #447 Books I've Loved — Ann Miura-Ko </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md\"> #485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md\"> #490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md\"> #493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md\"> #494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md\"> #634 How to Design Conversations That Matter-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md\"> #634 How to Design Conversations That Matter </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md\"> #88 Derek Sivers Innovation Versus Imitation-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md\"> #88 Derek Sivers Innovation Versus Imitation </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md\"> 27. The Underlying Technology Behind Fiat Standard </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md\"> 54. Listener questions #7 —  Big projects vs sub-projects and where to store support material </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md\"> 677 - The Art of Impossible With Steven Kotler! </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md\"> 68 Bits of Unsolicited Advice-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md\"> 68 Bits of Unsolicited Advice </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md\"> Austin Kleon on Writing, Creativity and the Importance of Idleness </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md\"> Borrowed Creativity </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md\"> Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md\"> Competitiveness and Mimetic Traps </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md\"> Ep. 108 —  LISTENER CALLS —  Becoming Productive </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md\"> Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4157,57 +4587,57 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
-        "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
-        "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md\"> #5 8 Tips for a Production-Ready Shiny Application </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Guidelines to Better Table Design.md\"> 10 Guidelines to Better Table Design </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Tips to Turn Microsoft To-Do Into a Serious Task Manager.md\"> 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Windows Task Manager Tricks You Probably Didn’t Know.md\"> 10 Windows Task Manager Tricks You Probably Didn’t Know </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist.md\"> 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/12 Types of Lists You Should Keep to Get Things Done.md\"> 12 Types of Lists You Should Keep to Get Things Done </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/13 Things to Put on Your Daily Checklist for Boosted Productivity.md\"> 13 Things to Put on Your Daily Checklist for Boosted Productivity </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/27 Incredibly Useful Things You Didn’t Know Chrome Could Do.md\"> 27 Incredibly Useful Things You Didn’t Know Chrome Could Do </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Smart Uses of Curated Lists and How to Create Them.md\"> 3 Smart Uses of Curated Lists and How to Create Them </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Steps to Designing a Powerful Project Workflow - ProjectManager.com.md\"> 3 Steps to Designing a Powerful Project Workflow - ProjectManager.com </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/3 Steps to Managing Your Time and Maximizing Your Workday.md\"> 3 Steps to Managing Your Time and Maximizing Your Workday </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Great Habits to Increase Productivity, Focus, Concentration, and Determination.md\"> 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Solid Ways to Get the Best of the Web.md\"> 4 Solid Ways to Get the Best of the Web </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Steps to Organize Your Massive To-Do List.md\"> 4 Steps to Organize Your Massive To-Do List </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 DevOps Tools You Must Use in 2022.md\"> 5 DevOps Tools You Must Use in 2022 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Pitfalls of Being an Information Hoarder  Foolishly Creative.md\"> 5 Pitfalls of Being an Information Hoarder  Foolishly Creative </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life.md\"> 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Steps for Tracking Your Monthly Expenses - NerdWallet.md\"> 5 Steps for Tracking Your Monthly Expenses - NerdWallet </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021-2.md\"> 5 Useful Golang Modules Developers Should Know in 2021-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/5 Useful Golang Modules Developers Should Know in 2021.md\"> 5 Useful Golang Modules Developers Should Know in 2021 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/6 YAML Features Most Programmers Don’t Know.md\"> 6 YAML Features Most Programmers Don’t Know </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/62 Productive Things to Do When Bored at Home.md\"> 62 Productive Things to Do When Bored at Home </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff.md\"> 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry.md\"> 8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/8 Ways to Free Up RAM on Your Windows Computer.md\"> 8 Ways to Free Up RAM on Your Windows Computer </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager.md\"> 9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177].md\"> 9 Tips to Get More Out of Your Calendar [PMP #177] </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/9 Tricks for Boosting SQL Query Performance.md\"> 9 Tricks for Boosting SQL Query Performance </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Builder’s Guide to Note-Taking.md\"> A Builder’s Guide to Note-Taking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/7 Quick Tips to Control Clutter and Stop Hoarding.md\"> 7 Quick Tips to Control Clutter and Stop Hoarding </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Hierarchy First Approach to Note Taking.md\"> A Hierarchy First Approach to Note Taking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Detailed Guide to User Registration, Login, and Logout in Flask.md\"> A Detailed Guide to User Registration, Login, and Logout in Flask </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Preview of WSL in the Microsoft Store Is Now Available!.md\"> A Preview of WSL in the Microsoft Store Is Now Available! </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A New Year Is a Beautiful Fresh Start.md\"> A New Year Is a Beautiful Fresh Start </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN.md\"> A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A Workflow for R.md\"> A Workflow for R </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/A ‘Jobs to Be Done’ Framework for Startups.md\"> A ‘Jobs to Be Done’ Framework for Startups </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Action Items Template for Excel.md\"> Action Items Template for Excel </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md\"> API Architecture  —  Performance Best Practices for REST APIs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md\"> Architecture for a Startup-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup.md\"> Architecture for a Startup </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Archivist and GitHub Integration Archivist.github.md\"> Archivist and GitHub Integration Archivist.github </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Are You Making This GTD Mistake - Asian Efficiency.md\"> Are You Making This GTD Mistake - Asian Efficiency </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Audiobook Review David Allen's GTD  Weekly Review.md\"> Audiobook Review David Allen's GTD  Weekly Review </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Back to Basics Your Weekly Review.md\"> Back to Basics Your Weekly Review </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Become a Better Developer Through Blogging - Steve Gordon - Code With Steve.md\"> Become a Better Developer Through Blogging - Steve Gordon - Code With Steve </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md\"> Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md\"> #447 Books I've Loved — Ann Miura-Ko-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md\"> #447 Books I've Loved — Ann Miura-Ko </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md\"> #485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md\"> #490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md\"> #493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md\"> #494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md\"> #634 How to Design Conversations That Matter-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md\"> #634 How to Design Conversations That Matter </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md\"> #88 Derek Sivers Innovation Versus Imitation-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md\"> #88 Derek Sivers Innovation Versus Imitation </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md\"> 27. The Underlying Technology Behind Fiat Standard </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md\"> 54. Listener questions #7 —  Big projects vs sub-projects and where to store support material </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md\"> 677 - The Art of Impossible With Steven Kotler! </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md\"> 68 Bits of Unsolicited Advice-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md\"> 68 Bits of Unsolicited Advice </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md\"> Austin Kleon on Writing, Creativity and the Importance of Idleness </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md\"> Borrowed Creativity </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md\"> Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md\"> Competitiveness and Mimetic Traps </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md\"> Ep. 108 —  LISTENER CALLS —  Becoming Productive </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md\"> Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

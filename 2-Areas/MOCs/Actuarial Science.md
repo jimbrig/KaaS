@@ -73,7 +73,7 @@ Alias: "Actuarial Science"
 - [[Miniature Insurance Economic Simulator]]
 - [[Property Casualty Data Model]]
 - [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
-- [[How to Build a Modern Data Warehouse for the Insurance Industry]]
+- [[Data Warehouse for the Insurance]]
 
 #### Libraries
 

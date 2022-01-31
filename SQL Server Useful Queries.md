@@ -9,8 +9,13 @@ Alias: "SQL Server Useful Queries"
 
 ## Create a Database Conditionally
 
-Use this query to generate a database using the `CREATE DATABASE` command, dropping a
-Create a database, removing any previous database with an identical name:
+Use this query to generate a database using the `CREATE DATABASE` command, dropping any pre-existing databases with the same name.
+
+Notes:
+
+- Notice the use of the `DATABASEPROPERTYEX` (See [[SQL Server System Functions#DATABASEPROPERTYEX]])^[1]
+
+- Create a database, removing any previous database with an identical name:
 
 ```SQL
 -- Check if Datatbase exists and DROP if it does:
@@ -23,8 +28,12 @@ END
 GO
 ```
 
+
+
 *Backlinks:*
 
 ```dataview
 list from [[SQL Server Useful Queries]] AND -"Changelog"
 ```
+
+^[1]: Source: [DATABASEPROPERTYEX (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/databasepropertyex-transact-sql?view=sql-server-ver15)

@@ -3824,18 +3824,23 @@
       "tags": 1,
       "links": 1
     },
-    "Data Warehouse for Insurance.md": {
+    "0-Slipbox/ELT Architecture in Azure Cloud.md": {
+      "size": 3470,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/Data Warehouse for Insurance.md": {
       "size": 3359,
       "tags": 3,
-      "links": 11
+      "links": 12
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1863,
-      "Create": 1703,
-      "Link": 3153,
-      "Expand": 150
+      "Refactor": 1865,
+      "Create": 1704,
+      "Link": 3155,
+      "Expand": 151
     }
   },
   "dailyCommits": {
@@ -3859,7 +3864,7 @@
       "16": 110,
       "17": 299,
       "18": 1299,
-      "19": 1752,
+      "19": 1758,
       "20": 154,
       "21": 42,
       "22": 71,
@@ -3874,12 +3879,13 @@
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
-      "Sun": 2262
+      "Sun": 2268
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md\"> Project Documentation Naming Conventions and Repository Guidelines </a>",
@@ -3929,10 +3935,10 @@
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R - Connect Shiny to PostgreSQL Database.md\"> R - Connect Shiny to PostgreSQL Database </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>",
-        "<a class=\"internal-link\" href=\"RStudio Package Manager.md\"> RStudio Package Manager </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - DBI.md\"> R Package - DBI </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md\"> How to Use SQL Subqueries </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md\"> What Is a Star Schema </a>",
@@ -3982,10 +3988,11 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top GitHub Best Practices for Developers.md\"> Top GitHub Best Practices for Developers </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top 4 Tips to Get Organized for Efficient Software Development.md\"> Top 4 Tips to Get Organized for Efficient Software Development </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Tipsandtricks - Windows10.md\"> Tipsandtricks - Windows10 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Top 10 Best Practices in Configuration Management.md\"> Top 10 Best Practices in Configuration Management </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"Data Warehouse for the Insurance.md\"> Data Warehouse for the Insurance </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Stop Reading Junk and Start Using Instapaper.md\"> Stop Reading Junk and Start Using Instapaper </a>",
@@ -4034,11 +4041,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Highlights for REST API Best Practices.md\"> Highlights for REST API Best Practices </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Web Application Architecture.md\"> Web Application Architecture </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/Meta/Unlinked-Files.md\"> Unlinked-Files </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md\"> #5 8 Tips for a Production-Ready Shiny Application </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/'Mustashe' Explained  Joshua Cook.md\"> 'Mustashe' Explained  Joshua Cook </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV.md\"> #6 Practicing - Tips From the Clean Coder - DEV </a>",
@@ -4088,8 +4094,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Action Items Template for Excel.md\"> Action Items Template for Excel </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/An Iterative Approach to Notes.md\"> An Iterative Approach to Notes </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/API Architecture  —  Performance Best Practices for REST APIs.md\"> API Architecture  —  Performance Best Practices for REST APIs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md\"> Architecture for a Startup-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup.md\"> Architecture for a Startup </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for a Startup-2.md\"> Architecture for a Startup-2 </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4153,6 +4158,7 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
+        "<a class=\"internal-link\" href=\"Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application.md\"> #5 8 Tips for a Production-Ready Shiny Application </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Guidelines to Better Table Design.md\"> 10 Guidelines to Better Table Design </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/10 Tips to Turn Microsoft To-Do Into a Serious Task Manager.md\"> 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager </a>",
@@ -4201,8 +4207,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Basics of the Unix Philosophy.md\"> Basics of the Unix Philosophy </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Become a Better Developer Through Blogging - Steve Gordon - Code With Steve.md\"> Become a Better Developer Through Blogging - Steve Gordon - Code With Steve </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog.md\"> Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services.md\"> Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Best Practices for Outlook.md\"> Best Practices for Outlook </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services.md\"> Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

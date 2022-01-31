@@ -1,4 +1,4 @@
-- 2022-01-30 at 19h45 · [[ELT Architecture in Azure Cloud]]
+- 2022-01-30 at 19h48 · [[ELT Architecture in Azure Cloud]]
 - 2022-01-30 at 19h42 · [[Data Warehouse for Insurance]]
 - 2022-01-30 at 19h41 · [[Actuarial Science]]
 - 2022-01-30 at 19h34 · [[How to Build a Data Warehouse for the Insurance Industry]]

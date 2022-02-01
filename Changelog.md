@@ -1,3 +1,6 @@
+- 2022-02-01 at 16h34 · [[Microsoft Office]]
+- 2022-02-01 at 16h33 · [[Microsoft Visio]]
+- 2022-02-01 at 16h32 · [[GCP Sketchnote Diagrams]]
 - 2022-02-01 at 16h24 · [[Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud]]
 - 2022-02-01 at 16h24 · [[Readwise Syncs]]
 - 2022-02-01 at 16h24 · [[Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role]]
@@ -495,6 +498,3 @@
 - 2022-01-30 at 19h34 · [[Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services]]
 - 2022-01-30 at 19h34 · [[Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog]]
 - 2022-01-30 at 19h34 · [[Become a Better Developer Through Blogging - Steve Gordon - Code With Steve]]
-- 2022-01-30 at 19h34 · [[Basics of the Unix Philosophy]]
-- 2022-01-30 at 19h34 · [[Backup 101 Windows Files and Folders You Should Always Back Up]]
-- 2022-01-30 at 19h34 · [[Back to Basics Your Weekly Review]]

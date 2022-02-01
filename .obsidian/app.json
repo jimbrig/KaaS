@@ -112,7 +112,8 @@
     "DataTables",
     "js",
     "Highcharter",
-    "Vue"
+    "Vue",
+    "Visio"
   ],
   "livePreview": true,
   "legacyEditor": true,

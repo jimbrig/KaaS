@@ -3,20 +3,49 @@
   "search": "-file:Changelog -path:3-Resources/Templates -file:Unresolved-Links -file:Unlinked-Files -file:Tagless-Files",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:Type/MOC",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:0-Slipbox",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:2-Areas",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:3-Resources",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.14148812368384087,
-  "close": true
+  "repelStrength": 7.41176470588235,
+  "linkStrength": 0.558823529411765,
+  "linkDistance": 251,
+  "scale": 0.1983639296431748,
+  "close": false
 }

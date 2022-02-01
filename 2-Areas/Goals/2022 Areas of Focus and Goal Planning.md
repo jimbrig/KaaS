@@ -38,10 +38,75 @@ I strive to become a modern-age [[Polymath]] (see [Polymath - Wikipedia](https:/
 - Bash and Zsh
 - Linux
 - Server Administration
+- Configuration Management
+- Secrets Management
+- IaaC - Terraform
+- SaaS
+- PaaS
+- DBaaS
 - JavaScript
 - HTML
 - CSS
 - Bootstrap
+- jQuery
+- Jenga Templates
+- AJAX
+- DataTables.js
+- React.js
+- Highcharter.js
+- Tailwind CSS
+- Vue.js
+- Next.js
+- Docker
+- Kubernetes
+- Containers
+- DevOps and CI | CD
+- Automation
+- Windows Imaging and Deployment
+- Problem Solving
+- Mathematics
+- Physics
+- Actuarial Science
+- Statistics
+- Modeling
+- Predictive Analytics
+- History
+- Writing
+- Reading
+- Learning
+- Creating
+- Azure
+- GCP
+- AWS
+- Digital Ocean
+- Heroku
+- Vercel
+- Netlify
+- Hugo
+- Jekyll
+- MkDocs
+- Hexo
+- Ghost
+- Gatsby.js
+- Linode
+- Fly.io
+- Spawnctl
+- Computer Science
+- System Design
+- REST API Development
+- OpenAPI Specification
+- Swagger
+- Postman
+- Flask
+- Django
+- SQLAlchemy
+- R Shiny
+- R Plumber
+- R Package Development
+- PowerShell Module Development
+- Excel 
+- VBA
+
 
 See Also: [[Mind_Sweep_Trigger_List.pdf]]
 

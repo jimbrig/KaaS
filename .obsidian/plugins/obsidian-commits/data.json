@@ -4100,7 +4100,7 @@
       "links": 1
     },
     "2-Areas/Goals/2022 Areas of Focus and Goal Planning.md": {
-      "size": 0,
+      "size": 2399,
       "tags": 2,
       "links": 2
     },
@@ -4125,7 +4125,7 @@
       "Refactor": 25,
       "Create": 73,
       "Link": 137,
-      "Expand": 2
+      "Expand": 3
     }
   },
   "dailyCommits": {
@@ -4153,12 +4153,12 @@
       "20": 0,
       "21": 0,
       "22": 0,
-      "23": 237
+      "23": 238
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 237,
+      "Mon": 238,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -4171,7 +4171,8 @@
     "/": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",

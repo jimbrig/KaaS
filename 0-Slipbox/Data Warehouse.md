@@ -89,6 +89,15 @@ A data mart is a data warehouse that serves the needs of a specific team or busi
 | Design          | Top-down                                                | Bottom-up                                                                             |
 | Data detail     | Complete, detailed data                                 | May hold summarized data                                                              |
 
+## Use Cases
+
+*Source: [A Comprehensible Guide to Building a Data Warehouse in 2022](https://www.scnsoft.com/analytics/data-warehouse/building)*
+
+
+![](https://i.imgur.com/5GJJeCn.png)
+
+
+
 ***
 
 

@@ -1,3 +1,4 @@
+- 2022-02-01 at 11h42 · [[Data Warehouse]]
 - 2022-02-01 at 11h38 · [[Ralph Kimball]]
 - 2022-02-01 at 11h38 · [[Bill Inmon]]
 - 2022-02-01 at 11h23 · [[Data Warehousing Concepts - Slowly Changing Dimensions]]
@@ -497,4 +498,3 @@
 - 2022-01-30 at 19h34 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
 - 2022-01-30 at 19h34 · [[Are You Making This GTD Mistake - Asian Efficiency]]
 - 2022-01-30 at 19h34 · [[Archivist and GitHub Integration Archivist.github]]
-- 2022-01-30 at 19h34 · [[Architecture for a Startup]]

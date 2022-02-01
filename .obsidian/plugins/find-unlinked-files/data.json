@@ -1,0 +1,43 @@
+{
+  "outputFileName": "2-Areas/Meta/Unlinked-Files",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "3-Resources/Templates/"
+  ],
+  "filesToIgnore": [
+    "mkdocs.yml",
+    "desktop-files.json"
+  ],
+  "fileTypesToIgnore": [
+    "yml",
+    " json",
+    " pdf"
+  ],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksOutputFileName": "2-Areas/Meta/Unresolved-Links",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "3-Resources/Templates/"
+  ],
+  "unresolvedLinksFilesToIgnore": [
+    "mkdocs.yml",
+    "desktop-files.json"
+  ],
+  "unresolvedLinksFileTypesToIgnore": [
+    "json",
+    " yml",
+    " pdf"
+  ],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    ""
+  ],
+  "withoutTagsFilesToIgnore": [
+    "2-Areas/Meta"
+  ],
+  "withoutTagsOutputFileName": "Tagless-Files"
+}

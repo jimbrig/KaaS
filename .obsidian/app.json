@@ -100,8 +100,13 @@
     "RaindropIO",
     "PinBoard",
     "RainDropIO",
-    "middleware"
+    "middleware",
+    "Nativefier",
+    "webpage",
+    "GSuite",
+    "deliverables"
   ],
   "livePreview": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "useTab": false
 }

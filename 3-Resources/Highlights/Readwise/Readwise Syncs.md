@@ -19,6 +19,20 @@
 
 - [[2022-01-26]] 6:31 PM — Synced 1 highlight from 1 document.
     - 1 highlights from Three Systems I Use to Organize My Life
+- [[2022-01-26]] 8:00 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from Web Application Architecture
+
+- [[2022-01-30]] 7:34 PM — Synced 21 highlights from 7 documents.
+    - 1 highlights from Data Engineering Explained: Data Models
+    - 11 highlights from Part I-I : Data Warehouse Modelling Concept
+    - 1 highlights from Data Engineering — ETL or ELT
+    - 3 highlights from Comprehensive Guide to the Data Warehouse
+    - 3 highlights from What Is a Star Schema?
+    - 1 highlights from How to Use SQL Subqueries
+    - 1 highlights from How to Build a Data Warehouse for the Insurance Industry
+
+- [[2022-01-30]] 11:43 PM — Synced 4 highlights from 1 document.
+    - 4 highlights from How to Build a Data Warehouse for the Insurance Industry
 
 - [[2022-01-28]] 4:57 PM — Synced 0 highlights from 0 documents.
 

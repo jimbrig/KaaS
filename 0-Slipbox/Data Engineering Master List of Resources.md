@@ -9,7 +9,7 @@ Alias: Data Engineering Master List of Resources
 
 A curated list of data engineering tools for software developers
 
-<center><img src="https://i.imgur.com/mmlmBUO.png"/><center>
+<center><img src="https://i.imgur.com/mmlmBUO.png"/></center>
 
 
 ## Contents
@@ -316,11 +316,14 @@ multi-processor, multi-core machines
 ### Podcasts
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
 
-Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](https://insightdataengineering.com) fellows.
-
 ***
+    
+## Appendix: Links
+
+- [[Data Engineering]]
+- [[Databases]]
+- [[Data Science]]
+  
 
 *Backlinks:*
 

@@ -3,7 +3,7 @@ Date: 2022-01-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.kimballgroup.com/1995/12/data-warehouse-insurance/
-Tags: ["#Type/Highlights/Readwise"]
+Tags: ["#Type/Highlight/Article"]
 Aliases: []
 ---
 # Data Warehouse Insurance - Kimball Group

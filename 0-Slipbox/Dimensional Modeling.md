@@ -23,6 +23,8 @@ Alias: "Dimensional Modeling"
 
 ## Overview
 
+> “Dimensions in data management and data warehousing contain relatively static data about such entities as geographical locations, customers, or products. Data captured by Slowly Changing Dimensions (SCDs) change slowly but unpredictably, rather than according to a regular schedule” — Wikipedia.
+
 **Dimensional modeling** (**DM**) is part of the *[Business Dimensional Lifecycle](https://en.wikipedia.org/wiki/The_Kimball_Lifecycle "The Kimball Lifecycle")* methodology developed by [[Ralph Kimball]] ([wiki](https://en.wikipedia.org/wiki/Ralph_Kimball "Ralph Kimball")) which includes a set of methods, techniques and concepts for use in [data warehouse](https://en.wikipedia.org/wiki/Data_warehouse "Data warehouse") design.
 
 The approach focuses on identifying the key [business processes](https://en.wikipedia.org/wiki/Business_process "Business process") within a business and modeling and implementing these first before adding additional business processes, as a [bottom-up approach](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design "Top-down and bottom-up design").
@@ -85,6 +87,7 @@ Benefits of the dimensional model are the following:
 - [[Ralph Kimball]]
 - [[Bill Inmon]]
 - [[Data Warehousing Concepts - Facts Measures Dimensions]]
+- [[Data Warehousing Concepts - Slowly Changing Dimensions]]
 
 **Literature:**
 

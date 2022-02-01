@@ -1,4 +1,6 @@
-- 2022-02-01 at 11h13 · [[Modern Data Integration - Data Engineering]]
+- 2022-02-01 at 11h18 · [[Data Warehousing Concepts - Slowly Changing Dimensions]]
+- 2022-02-01 at 11h16 · [[Dimensional Modeling]]
+- 2022-02-01 at 11h15 · [[Modern Data Integration - Data Engineering]]
 - 2022-02-01 at 11h10 · [[Data Pipeline Architecture]]
 - 2022-02-01 at 11h06 · [[ETL]]
 - 2022-02-01 at 10h59 · [[Data Engineering and Its Main Concepts]]
@@ -496,5 +498,3 @@
 - 2022-01-30 at 19h34 · [[Architecture for a Startup]]
 - 2022-01-30 at 19h34 · [[Architecture for a Startup-2]]
 - 2022-01-30 at 19h34 · [[API Architecture  —  Performance Best Practices for REST APIs]]
-- 2022-01-30 at 19h34 · [[An Iterative Approach to Notes]]
-- 2022-01-30 at 19h34 · [[Action Items Template for Excel]]

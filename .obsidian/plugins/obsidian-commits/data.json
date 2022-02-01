@@ -1279,31 +1279,6 @@
       "tags": 2,
       "links": 0
     },
-    "1-Projects/reserver/_README.md": {
-      "size": 3278,
-      "tags": 2,
-      "links": 0
-    },
-    "1-Projects/reserver/Functions.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "1-Projects/reserver/Data.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "1-Projects/reserver/Workflows.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
-    "1-Projects/reserver/Application and API.md": {
-      "size": 0,
-      "tags": 1,
-      "links": 0
-    },
     "2-Areas/Daily-Notes/2021-12-18.md": {
       "size": 0,
       "tags": 1,
@@ -1680,7 +1655,7 @@
       "links": 14
     },
     "2-Areas/Daily-Notes/2022-01-28.md": {
-      "size": 0,
+      "size": 2341,
       "tags": 1,
       "links": 3
     },
@@ -4273,14 +4248,39 @@
       "size": 0,
       "tags": 3,
       "links": 4
+    },
+    "1-Projects/lossrx/Application and API.md": {
+      "size": 383,
+      "tags": 1,
+      "links": 0
+    },
+    "1-Projects/lossrx/Functions.md": {
+      "size": 852,
+      "tags": 1,
+      "links": 0
+    },
+    "1-Projects/lossrx/Workflows.md": {
+      "size": 1191,
+      "tags": 1,
+      "links": 0
+    },
+    "1-Projects/lossrx/Data.md": {
+      "size": 1459,
+      "tags": 1,
+      "links": 0
+    },
+    "1-Projects/lossrx/_README.md": {
+      "size": 3278,
+      "tags": 2,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1867,
-      "Create": 1792,
-      "Link": 3338,
-      "Expand": 153
+      "Refactor": 1872,
+      "Create": 1797,
+      "Link": 3343,
+      "Expand": 154
     }
   },
   "dailyCommits": {
@@ -4308,12 +4308,12 @@
       "20": 412,
       "21": 42,
       "22": 71,
-      "23": 68
+      "23": 84
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 290,
+      "Mon": 306,
       "Tue": 262,
       "Wed": 1468,
       "Thu": 2027,
@@ -4325,6 +4325,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
         "<a class=\"internal-link\" href=\"ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
@@ -4374,10 +4375,14 @@
         "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - RPostgreSQL.md\"> R Package - RPostgreSQL </a>"
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Data.md\"> Data </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
@@ -4423,12 +4428,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
@@ -4484,6 +4484,11 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Data.md\"> Data </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
@@ -4529,12 +4534,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4544,6 +4544,11 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Data.md\"> Data </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Workflows.md\"> Workflows </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Functions.md\"> Functions </a>",
+        "<a class=\"internal-link\" href=\"1-Projects/reserver/Application and API.md\"> Application and API </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md\"> What Is a Star Schema </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Part I-I  Data Warehouse Modelling Concept.md\"> Part I-I  Data Warehouse Modelling Concept </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md\"> How to Use SQL Subqueries </a>",
@@ -4589,12 +4594,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md\"> Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md\"> Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",

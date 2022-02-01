@@ -1,4 +1,4 @@
-- 2022-02-01 at 11h43 · [[Modern Data Pipeline Complexities]]
+- 2022-02-01 at 11h44 · [[Modern Data Pipeline Complexities]]
 - 2022-02-01 at 11h42 · [[Data Warehouse]]
 - 2022-02-01 at 11h38 · [[Ralph Kimball]]
 - 2022-02-01 at 11h38 · [[Bill Inmon]]

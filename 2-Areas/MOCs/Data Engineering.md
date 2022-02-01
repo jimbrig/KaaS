@@ -13,6 +13,8 @@ Alias: "Data Engineering"
 
 ### Concepts
 
+**[[Data Engineers]]**
+
 **[[Databases]]**
 
 - [[Stored Procedures - SQL Server]]

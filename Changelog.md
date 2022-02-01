@@ -1,3 +1,5 @@
+- 2022-02-01 at 11h48 · [[Data Engineers]]
+- 2022-02-01 at 11h45 · [[Data Engineering]]
 - 2022-02-01 at 11h44 · [[Modern Data Pipeline Complexities]]
 - 2022-02-01 at 11h42 · [[Data Warehouse]]
 - 2022-02-01 at 11h38 · [[Ralph Kimball]]
@@ -496,5 +498,3 @@
 - 2022-01-30 at 19h34 · [[Back to Basics Your Weekly Review]]
 - 2022-01-30 at 19h34 · [[Auto Documentation System for R Shiny - Stack Overflow]]
 - 2022-01-30 at 19h34 · [[Audiobook Review David Allen's GTD  Weekly Review]]
-- 2022-01-30 at 19h34 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
-- 2022-01-30 at 19h34 · [[Are You Making This GTD Mistake - Asian Efficiency]]

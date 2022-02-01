@@ -7,7 +7,7 @@ Alias: ["Microsoft Visio", "Visio"]
 
 # Microsoft Visio
 
-Microsoft Visio is 
+Visio web and desktop apps allow users to create and edit diagrams from the browser or desktop and save in the cloud. [[Microsoft Office|Microsoft 365]] customers can view, print, and share diagrams and insert comments on the go. Visio users can use rich features, such as those described in the following sections.
 
 
 ## Resources

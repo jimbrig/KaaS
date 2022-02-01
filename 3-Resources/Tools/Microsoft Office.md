@@ -2,7 +2,7 @@
 Date: 2022-02-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["Microsoft Office", "Office365", "Office", "Microsoft365"]
+Alias: ["Microsoft Office", "Office365", "Office", "Microsoft 365"]
 ---
 
 # Microsoft Office

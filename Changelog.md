@@ -1,4 +1,4 @@
-- 2022-02-01 at 11h18 · [[Data Warehousing Concepts - Slowly Changing Dimensions]]
+- 2022-02-01 at 11h23 · [[Data Warehousing Concepts - Slowly Changing Dimensions]]
 - 2022-02-01 at 11h16 · [[Dimensional Modeling]]
 - 2022-02-01 at 11h15 · [[Modern Data Integration - Data Engineering]]
 - 2022-02-01 at 11h10 · [[Data Pipeline Architecture]]

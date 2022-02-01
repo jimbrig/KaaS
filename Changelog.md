@@ -1,4 +1,4 @@
-- 2022-02-01 at 16h44 · [[Microsoft Visio]]
+- 2022-02-01 at 16h49 · [[Microsoft Visio]]
 - 2022-02-01 at 16h35 · [[Microsoft Office]]
 - 2022-02-01 at 16h32 · [[GCP Sketchnote Diagrams]]
 - 2022-02-01 at 16h24 · [[Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud]]

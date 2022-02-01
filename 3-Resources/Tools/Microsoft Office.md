@@ -2,7 +2,7 @@
 Date: 2022-02-01
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["Microsoft Office"]
+Alias: ["Microsoft Office", "Office365", "Office", "Microsoft365"]
 ---
 
 # Microsoft Office
@@ -19,9 +19,9 @@ Alias: ["Microsoft Office"]
 - [[Sharepoint]]
 
 - [[Project]]
-- [[Visio]]
+- [[Microsoft Visio|Visio]]
 
-- [[Whi]]
+- [[Whiteboard]]
 
 ***
 

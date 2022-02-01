@@ -9,6 +9,13 @@ Alias: "Data Pipeline Architecture"
 
 ![](https://i.imgur.com/gT7F4km.png)
 
+Operationalising a data pipeline can be tricky. Here are some tips that I have learned the hard way:
+
+-   **Scale Data Engineering before scaling the Data Science team.** ML wagons can’t run without first laying railroads.
+-   **Be industrious in clean data warehousing.** ML is only as good as data. Be disciplined in defining the schema of the data being collected, cataloging it. In absence of that, do not be surprised by how much _data_ rots for perpetuity in storage as mere _bytes_.
+-   **Start simple.** Start with serverless, with as few pieces as you can make do. Move to a full-blown pipeline, or your own deployment, only when RoI is justifiable. Bootstrap with minimal investment in the computation stage. Go even “compute-less” by implementing computations by scheduling a bunch of SQL queries and cloud functions. That will get the whole pipeline ready faster, and give you ample time to focus on getting your data strategy in place, along with data schemas and catalogs.
+-   **Build only after careful evaluation.** What are the business goals? What levers do you have to affect the business outcome? What insights will be actionable? Collect data and build ML based on that.
+
 ## Lambda Architecture
 
 -   **Batch Layer:** offers high throughput, comprehensive, economical map-reduce batch processing, but higher latency.
@@ -35,6 +42,35 @@ Scale and efficiency are controlled by the following levers:
 
 -   **Throughput** depends on the **scalability** of the ingestion (i.e. **REST/MQTT** endpoints and **message queue**), data lake **storage** capacity, and **map-reduce batch** processing.
 -   **Latency** depends on the **efficiency** of the **message queue**, **stream compute** and **databases** used for storing computation results.
+
+### Serverless
+
+With the advent of [serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), it is possible to start quickly by avoiding DevOps. Various components in the architecture can be replaced by their serverless counterparts from the chosen cloud service provider.
+
+Typical serverless architectures of big data pipelines on **Amazon Web Services**, **Microsoft Azure**, and **Google Cloud Platform (GCP)** are shown below. Each maps closely to the general big data architecture discussed in the previous section. You can use these as a reference for shortlisting technologies suitable for your needs.
+
+![](https://i.imgur.com/01bxoyQ.png)
+
+## Key Takeaways
+
+Key takeaways are:
+
+-   Tuning analytics and machine learning models is only 25% effort.
+-   Invest in the data pipeline early because analytics and ML are only as good as data.
+-   Ensure easily accessible data for exploratory work.
+-   Start from business goals, and seek actionable insights.
+
+***
+
+## Appendix: Links
+
+- [[ETL]] | [[ELT]]
+- [[Data Engineering]]
+- [[Amazon Web Services]]
+- [[Microsoft Azure]]
+- [[Google Cloud Platform]]
+- [[Data Warehouse]]
+- [[Dimensional Modeling]]
 
 *Backlinks:*
 

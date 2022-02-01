@@ -1,3 +1,5 @@
+- 2022-02-01 at 10h47 · [[Data Engineering and Its Main Concepts]]
+- 2022-02-01 at 10h45 · [[ETL]]
 - 2022-02-01 at 10h43 · [[2022-02-01]]
 - 2022-01-31 at 23h59 · [[Azure DevOps Pipelines]]
 - 2022-01-31 at 23h59 · [[API Authentication]]
@@ -496,5 +498,3 @@
 - 2022-01-30 at 19h34 · [[Action Items Template for Excel]]
 - 2022-01-30 at 19h34 · [[A ‘Jobs to Be Done’ Framework for Startups]]
 - 2022-01-30 at 19h34 · [[A Workflow for R]]
-- 2022-01-30 at 19h34 · [[A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN]]
-- 2022-01-30 at 19h34 · [[A New Year Is a Beautiful Fresh Start]]

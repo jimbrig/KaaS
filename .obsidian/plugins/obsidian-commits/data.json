@@ -1397,7 +1397,7 @@
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
       "size": 1185,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md": {
       "size": 3780,
@@ -4118,13 +4118,18 @@
       "size": 5688,
       "tags": 1,
       "links": 6
+    },
+    "2-Areas/Daily-Notes/2022-01-31.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 25,
-      "Create": 73,
-      "Link": 137,
+      "Create": 74,
+      "Link": 140,
       "Expand": 3
     }
   },
@@ -4153,12 +4158,12 @@
       "20": 0,
       "21": 0,
       "22": 0,
-      "23": 238
+      "23": 242
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 238,
+      "Mon": 242,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -4175,6 +4180,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
@@ -4224,8 +4230,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/PDFs/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Podcasts/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise.md\"> Readwise </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
@@ -4235,6 +4240,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
@@ -4284,8 +4290,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Airr.md\"> Airr </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Dictionary Plugin.md\"> Dictionary Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Zotero.md\"> Zotero </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -4306,6 +4311,8 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
@@ -4354,9 +4361,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Airr.md\"> Airr </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Dictionary Plugin.md\"> Dictionary Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Zotero.md\"> Zotero </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",

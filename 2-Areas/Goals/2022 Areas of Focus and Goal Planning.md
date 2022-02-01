@@ -9,13 +9,23 @@ Aliases: ["2022 Areas of Focus and Goal Planning"]
 
 *Source: Personal Notebook*
 
+I strive to become a modern-age [[Polymath]] (see [Polymath - Wikipedia](https://en.wikipedia.org/wiki/Polymath))
+
 ## Areas
 
 - **HEALTH**: Sleep, Good and Diet, Exercise, Vitamins, Doctor/Dentist Appointments
 - **FINANCES**: Massive amount of Credit Card debt; 2020 AND 2021 Taxes; Northwestern Mutual Decisions (Avoiding, Why?); Transamerica MMC 401K; Income; Credit Score Decreases (JEEP CARD???); Budgeting; Accounts; Subscription Overload; Lack of clarity and habits
 - **RELATIONSHIPS**: Family, Friends, Girlfriend, Phone, Chats, Weekends
 - **LEARNING**: Python, SQL, SQL Server, Clouds - Azure, AWS, GCP, Flask, Critical Thinking, Time Mgmt, Project Mgmt, Leadership, R Packages, Knowledge Mgmt
-- **WORK**: Communication, Leadership, Ownership, Clarity,  
+- **WORK**: Communication, Leadership, Ownership, Clarity
+- **EMOTIONAL AND SPIRITUAL**:
+- **HOBBIES**:
+
+## Interests and Skills
+
+- Software Engineering
+- Web application Development
+- 
 
 See Also: [[Mind_Sweep_Trigger_List.pdf]]
 

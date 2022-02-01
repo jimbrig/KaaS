@@ -1,1 +1,901 @@
-{"cachedDefinitions":[{"content":{"word":"synapse","phonetic":"ˈsʌɪnaps","phonetics":[{"text":"ˈsʌɪnaps","audio":"//ssl.gstatic.com/dictionary/static/sounds/20200429/synapse--_gb_1.mp3"},{"text":"ˈsɪnaps"}],"origin":"late 19th century: from Greek sunapsis, from sun- ‘together’ + hapsis ‘joining’, from haptein ‘to join’.","meanings":[{"partOfSpeech":"noun","definitions":[{"definition":"a junction between two nerve cells, consisting of a minute gap across which impulses pass by diffusion of a neurotransmitter.","synonyms":[],"antonyms":[]}]}]},"api":"Free Dictionary API","lang":"en_US"},{"content":{"word":"disparate","phonetic":"ˈdɪsp(ə)rət","phonetics":[{"text":"ˈdɪsp(ə)rət","audio":"//ssl.gstatic.com/dictionary/static/sounds/20200429/disparate--_gb_1.mp3"}],"origin":"late Middle English: from Latin disparatus ‘separated’, from the verb disparare, from dis- ‘apart’ + parare ‘to prepare’; influenced in sense by Latin dispar ‘unequal’.","meanings":[{"partOfSpeech":"adjective","definitions":[{"definition":"essentially different in kind; not able to be compared.","example":"they inhabit disparate worlds of thought","synonyms":["contrasting","different","differing","dissimilar","unlike","unalike","poles apart","varying","various","diverse","diversified","heterogeneous","unrelated","unconnected","distinct","separate","divergent","divers","myriad","contrastive"],"antonyms":["homogeneous"]}]},{"partOfSpeech":"noun","definitions":[{"definition":"things so unlike that there is no basis for comparison.","synonyms":[],"antonyms":[]}]}]},"api":"Free Dictionary API","lang":"en_US"}],"cachedSynonyms":[{"content":[{"word":"invalid"},{"word":"null and void"},{"word":"void"},{"word":"annulled"},{"word":"nullified"},{"word":"cancelled"},{"word":"abolished"},{"word":"revoked"},{"word":"rescinded"},{"word":"repealed"},{"word":"lacking in character"},{"word":"empty"},{"word":"characterless"},{"word":"blank"},{"word":"colourless"},{"word":"expressionless"},{"word":"vacuous"},{"word":"insipid"},{"word":"vapid"},{"word":"inane"}],"api":"Free Dictionary API","word":"null","lang":"en_US"},{"content":[],"api":"Free Dictionary API","word":"e","lang":"en_US"},{"content":[{"word":"type"},{"word":"kind"},{"word":"variety"},{"word":"class"},{"word":"category"},{"word":"classification"},{"word":"style"},{"word":"description"},{"word":"condition"},{"word":"calibre"},{"word":"quality"},{"word":"nature"},{"word":"manner"},{"word":"design"},{"word":"shape"},{"word":"form"},{"word":"pattern"},{"word":"group"},{"word":"set"},{"word":"bracket"},{"word":"genre"},{"word":"species"},{"word":"rank"},{"word":"genus"},{"word":"family"},{"word":"order"},{"word":"breed"},{"word":"race"},{"word":"strain"},{"word":"generation"},{"word":"vintage"},{"word":"make"},{"word":"model"},{"word":"brand"},{"word":"stamp"},{"word":"ilk"},{"word":"kidney"},{"word":"cast"},{"word":"grain"},{"word":"mould"},{"word":"stripe"},{"word":"classify"},{"word":"class"},{"word":"categorize"},{"word":"catalogue"},{"word":"grade"},{"word":"rank"},{"word":"group"},{"word":"divide"},{"word":"sort out"},{"word":"organize"},{"word":"arrange"},{"word":"order"},{"word":"put in order"},{"word":"marshal"},{"word":"assemble"},{"word":"collocate"},{"word":"codify"},{"word":"tabulate"},{"word":"systematize"},{"word":"systemize"},{"word":"structure"},{"word":"pigeonhole"},{"word":"triage"},{"word":"methodize"},{"word":"resolve"},{"word":"settle"},{"word":"sort out"},{"word":"solve"},{"word":"find a solution to"},{"word":"find an answer to"},{"word":"fix"},{"word":"work out"},{"word":"straighten out"},{"word":"deal with"},{"word":"put right"},{"word":"set right"},{"word":"put to rights"},{"word":"rectify"},{"word":"iron out"},{"word":"answer"},{"word":"explain"},{"word":"fathom"},{"word":"unravel"},{"word":"disentangle"},{"word":"clarify"},{"word":"clear up"},{"word":"throw light on"},{"word":"sew up"},{"word":"hammer out"},{"word":"thrash out"},{"word":"patch up"},{"word":"crack"},{"word":"figure out"}],"api":"Free Dictionary API","word":"SORT","lang":"en_US"},{"content":[{"word":"assets"},{"word":"funds"},{"word":"wealth"},{"word":"money"},{"word":"riches"},{"word":"capital"},{"word":"deep pockets"},{"word":"staff"},{"word":"people"},{"word":"supplies"},{"word":"materials"},{"word":"store(s)"},{"word":"stock(s)"},{"word":"reserve(s)"},{"word":"holding(s)"},{"word":"supply"},{"word":"reservoir"},{"word":"pool"},{"word":"fund"},{"word":"stockpile"},{"word":"accumulation"},{"word":"hoard"},{"word":"expedient"},{"word":"resort"},{"word":"means"},{"word":"measure"},{"word":"method"},{"word":"course"},{"word":"way"},{"word":"scheme"},{"word":"plan"},{"word":"plot"},{"word":"stratagem"},{"word":"manoeuvre"},{"word":"machination"},{"word":"agency"},{"word":"trick"},{"word":"ruse"},{"word":"artifice"},{"word":"device"},{"word":"tool"}],"api":"Free Dictionary API","word":"Resources","lang":"en_US"},{"content":[{"word":"contrasting"},{"word":"different"},{"word":"differing"},{"word":"dissimilar"},{"word":"unlike"},{"word":"unalike"},{"word":"poles apart"},{"word":"varying"},{"word":"various"},{"word":"diverse"},{"word":"diversified"},{"word":"heterogeneous"},{"word":"unrelated"},{"word":"unconnected"},{"word":"distinct"},{"word":"separate"},{"word":"divergent"},{"word":"divers"},{"word":"myriad"},{"word":"contrastive"}],"api":"Free Dictionary API","word":"disparate","lang":"en_US"},{"content":[],"api":"Free Dictionary API","word":"Windows","lang":"en_US"},{"content":[],"api":"Free Dictionary API","word":"T","lang":"en_US"},{"content":[],"api":"Free Dictionary API","word":"editor","lang":"en_US"},{"content":[{"word":"give rise to"},{"word":"bring about"},{"word":"cause"},{"word":"occasion"},{"word":"result in"},{"word":"lead to"},{"word":"elicit"},{"word":"produce"},{"word":"bring on"},{"word":"engender"},{"word":"induce"},{"word":"call forth"},{"word":"evoke"},{"word":"precipitate"},{"word":"trigger"},{"word":"spark off"},{"word":"provoke"},{"word":"instigate"},{"word":"remind"},{"word":"cue"},{"word":"give someone a cue"},{"word":"help out"},{"word":"coach"},{"word":"feed"},{"word":"jog someone's memory"},{"word":"refresh someone's memory"},{"word":"quick"},{"word":"swift"},{"word":"rapid"},{"word":"speedy"},{"word":"fast"},{"word":"direct"},{"word":"immediate"},{"word":"instant"},{"word":"instantaneous"},{"word":"expeditious"},{"word":"early"},{"word":"punctual"},{"word":"in good time"},{"word":"on time"},{"word":"timely"},{"word":"ready"},{"word":"willing"},{"word":"eager"},{"word":"unhesitating"},{"word":"rathe"},{"word":"exactly"},{"word":"precisely"},{"word":"sharp"},{"word":"on the dot"},{"word":"dead"},{"word":"dead on"},{"word":"promptly"},{"word":"punctually"},{"word":"on the nail"},{"word":"bang on"},{"word":"spot on"},{"word":"on the button"},{"word":"on the nose"},{"word":"on the knocker"}],"api":"Free Dictionary API","word":"prompt","lang":"en_US"},{"content":[],"api":"Free Dictionary API","word":"pager","lang":"en_US"}]}
+{
+  "cachedDefinitions": [
+    {
+      "content": {
+        "word": "synapse",
+        "phonetic": "ˈsʌɪnaps",
+        "phonetics": [
+          {
+            "text": "ˈsʌɪnaps",
+            "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/synapse--_gb_1.mp3"
+          },
+          {
+            "text": "ˈsɪnaps"
+          }
+        ],
+        "origin": "late 19th century: from Greek sunapsis, from sun- ‘together’ + hapsis ‘joining’, from haptein ‘to join’.",
+        "meanings": [
+          {
+            "partOfSpeech": "noun",
+            "definitions": [
+              {
+                "definition": "a junction between two nerve cells, consisting of a minute gap across which impulses pass by diffusion of a neurotransmitter.",
+                "synonyms": [],
+                "antonyms": []
+              }
+            ]
+          }
+        ]
+      },
+      "api": "Free Dictionary API",
+      "lang": "en_US"
+    },
+    {
+      "content": {
+        "word": "disparate",
+        "phonetic": "ˈdɪsp(ə)rət",
+        "phonetics": [
+          {
+            "text": "ˈdɪsp(ə)rət",
+            "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/disparate--_gb_1.mp3"
+          }
+        ],
+        "origin": "late Middle English: from Latin disparatus ‘separated’, from the verb disparare, from dis- ‘apart’ + parare ‘to prepare’; influenced in sense by Latin dispar ‘unequal’.",
+        "meanings": [
+          {
+            "partOfSpeech": "adjective",
+            "definitions": [
+              {
+                "definition": "essentially different in kind; not able to be compared.",
+                "example": "they inhabit disparate worlds of thought",
+                "synonyms": [
+                  "contrasting",
+                  "different",
+                  "differing",
+                  "dissimilar",
+                  "unlike",
+                  "unalike",
+                  "poles apart",
+                  "varying",
+                  "various",
+                  "diverse",
+                  "diversified",
+                  "heterogeneous",
+                  "unrelated",
+                  "unconnected",
+                  "distinct",
+                  "separate",
+                  "divergent",
+                  "divers",
+                  "myriad",
+                  "contrastive"
+                ],
+                "antonyms": [
+                  "homogeneous"
+                ]
+              }
+            ]
+          },
+          {
+            "partOfSpeech": "noun",
+            "definitions": [
+              {
+                "definition": "things so unlike that there is no basis for comparison.",
+                "synonyms": [],
+                "antonyms": []
+              }
+            ]
+          }
+        ]
+      },
+      "api": "Free Dictionary API",
+      "lang": "en_US"
+    },
+    {
+      "content": {
+        "word": "polymath",
+        "phonetic": "ˈpɒlɪmaθ",
+        "phonetics": [
+          {
+            "text": "ˈpɒlɪmaθ",
+            "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/polymath--_gb_2.mp3"
+          }
+        ],
+        "origin": "early 17th century: from Greek polumathēs ‘having learned much’, from polu- ‘much’ + the stem of manthanein ‘learn’.",
+        "meanings": [
+          {
+            "partOfSpeech": "noun",
+            "definitions": [
+              {
+                "definition": "a person of wide knowledge or learning.",
+                "example": "a Renaissance polymath",
+                "synonyms": [],
+                "antonyms": []
+              }
+            ]
+          }
+        ]
+      },
+      "api": "Free Dictionary API",
+      "lang": "en_US"
+    }
+  ],
+  "cachedSynonyms": [
+    {
+      "content": [
+        {
+          "word": "invalid"
+        },
+        {
+          "word": "null and void"
+        },
+        {
+          "word": "void"
+        },
+        {
+          "word": "annulled"
+        },
+        {
+          "word": "nullified"
+        },
+        {
+          "word": "cancelled"
+        },
+        {
+          "word": "abolished"
+        },
+        {
+          "word": "revoked"
+        },
+        {
+          "word": "rescinded"
+        },
+        {
+          "word": "repealed"
+        },
+        {
+          "word": "lacking in character"
+        },
+        {
+          "word": "empty"
+        },
+        {
+          "word": "characterless"
+        },
+        {
+          "word": "blank"
+        },
+        {
+          "word": "colourless"
+        },
+        {
+          "word": "expressionless"
+        },
+        {
+          "word": "vacuous"
+        },
+        {
+          "word": "insipid"
+        },
+        {
+          "word": "vapid"
+        },
+        {
+          "word": "inane"
+        }
+      ],
+      "api": "Free Dictionary API",
+      "word": "null",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "e",
+      "lang": "en_US"
+    },
+    {
+      "content": [
+        {
+          "word": "type"
+        },
+        {
+          "word": "kind"
+        },
+        {
+          "word": "variety"
+        },
+        {
+          "word": "class"
+        },
+        {
+          "word": "category"
+        },
+        {
+          "word": "classification"
+        },
+        {
+          "word": "style"
+        },
+        {
+          "word": "description"
+        },
+        {
+          "word": "condition"
+        },
+        {
+          "word": "calibre"
+        },
+        {
+          "word": "quality"
+        },
+        {
+          "word": "nature"
+        },
+        {
+          "word": "manner"
+        },
+        {
+          "word": "design"
+        },
+        {
+          "word": "shape"
+        },
+        {
+          "word": "form"
+        },
+        {
+          "word": "pattern"
+        },
+        {
+          "word": "group"
+        },
+        {
+          "word": "set"
+        },
+        {
+          "word": "bracket"
+        },
+        {
+          "word": "genre"
+        },
+        {
+          "word": "species"
+        },
+        {
+          "word": "rank"
+        },
+        {
+          "word": "genus"
+        },
+        {
+          "word": "family"
+        },
+        {
+          "word": "order"
+        },
+        {
+          "word": "breed"
+        },
+        {
+          "word": "race"
+        },
+        {
+          "word": "strain"
+        },
+        {
+          "word": "generation"
+        },
+        {
+          "word": "vintage"
+        },
+        {
+          "word": "make"
+        },
+        {
+          "word": "model"
+        },
+        {
+          "word": "brand"
+        },
+        {
+          "word": "stamp"
+        },
+        {
+          "word": "ilk"
+        },
+        {
+          "word": "kidney"
+        },
+        {
+          "word": "cast"
+        },
+        {
+          "word": "grain"
+        },
+        {
+          "word": "mould"
+        },
+        {
+          "word": "stripe"
+        },
+        {
+          "word": "classify"
+        },
+        {
+          "word": "class"
+        },
+        {
+          "word": "categorize"
+        },
+        {
+          "word": "catalogue"
+        },
+        {
+          "word": "grade"
+        },
+        {
+          "word": "rank"
+        },
+        {
+          "word": "group"
+        },
+        {
+          "word": "divide"
+        },
+        {
+          "word": "sort out"
+        },
+        {
+          "word": "organize"
+        },
+        {
+          "word": "arrange"
+        },
+        {
+          "word": "order"
+        },
+        {
+          "word": "put in order"
+        },
+        {
+          "word": "marshal"
+        },
+        {
+          "word": "assemble"
+        },
+        {
+          "word": "collocate"
+        },
+        {
+          "word": "codify"
+        },
+        {
+          "word": "tabulate"
+        },
+        {
+          "word": "systematize"
+        },
+        {
+          "word": "systemize"
+        },
+        {
+          "word": "structure"
+        },
+        {
+          "word": "pigeonhole"
+        },
+        {
+          "word": "triage"
+        },
+        {
+          "word": "methodize"
+        },
+        {
+          "word": "resolve"
+        },
+        {
+          "word": "settle"
+        },
+        {
+          "word": "sort out"
+        },
+        {
+          "word": "solve"
+        },
+        {
+          "word": "find a solution to"
+        },
+        {
+          "word": "find an answer to"
+        },
+        {
+          "word": "fix"
+        },
+        {
+          "word": "work out"
+        },
+        {
+          "word": "straighten out"
+        },
+        {
+          "word": "deal with"
+        },
+        {
+          "word": "put right"
+        },
+        {
+          "word": "set right"
+        },
+        {
+          "word": "put to rights"
+        },
+        {
+          "word": "rectify"
+        },
+        {
+          "word": "iron out"
+        },
+        {
+          "word": "answer"
+        },
+        {
+          "word": "explain"
+        },
+        {
+          "word": "fathom"
+        },
+        {
+          "word": "unravel"
+        },
+        {
+          "word": "disentangle"
+        },
+        {
+          "word": "clarify"
+        },
+        {
+          "word": "clear up"
+        },
+        {
+          "word": "throw light on"
+        },
+        {
+          "word": "sew up"
+        },
+        {
+          "word": "hammer out"
+        },
+        {
+          "word": "thrash out"
+        },
+        {
+          "word": "patch up"
+        },
+        {
+          "word": "crack"
+        },
+        {
+          "word": "figure out"
+        }
+      ],
+      "api": "Free Dictionary API",
+      "word": "SORT",
+      "lang": "en_US"
+    },
+    {
+      "content": [
+        {
+          "word": "assets"
+        },
+        {
+          "word": "funds"
+        },
+        {
+          "word": "wealth"
+        },
+        {
+          "word": "money"
+        },
+        {
+          "word": "riches"
+        },
+        {
+          "word": "capital"
+        },
+        {
+          "word": "deep pockets"
+        },
+        {
+          "word": "staff"
+        },
+        {
+          "word": "people"
+        },
+        {
+          "word": "supplies"
+        },
+        {
+          "word": "materials"
+        },
+        {
+          "word": "store(s)"
+        },
+        {
+          "word": "stock(s)"
+        },
+        {
+          "word": "reserve(s)"
+        },
+        {
+          "word": "holding(s)"
+        },
+        {
+          "word": "supply"
+        },
+        {
+          "word": "reservoir"
+        },
+        {
+          "word": "pool"
+        },
+        {
+          "word": "fund"
+        },
+        {
+          "word": "stockpile"
+        },
+        {
+          "word": "accumulation"
+        },
+        {
+          "word": "hoard"
+        },
+        {
+          "word": "expedient"
+        },
+        {
+          "word": "resort"
+        },
+        {
+          "word": "means"
+        },
+        {
+          "word": "measure"
+        },
+        {
+          "word": "method"
+        },
+        {
+          "word": "course"
+        },
+        {
+          "word": "way"
+        },
+        {
+          "word": "scheme"
+        },
+        {
+          "word": "plan"
+        },
+        {
+          "word": "plot"
+        },
+        {
+          "word": "stratagem"
+        },
+        {
+          "word": "manoeuvre"
+        },
+        {
+          "word": "machination"
+        },
+        {
+          "word": "agency"
+        },
+        {
+          "word": "trick"
+        },
+        {
+          "word": "ruse"
+        },
+        {
+          "word": "artifice"
+        },
+        {
+          "word": "device"
+        },
+        {
+          "word": "tool"
+        }
+      ],
+      "api": "Free Dictionary API",
+      "word": "Resources",
+      "lang": "en_US"
+    },
+    {
+      "content": [
+        {
+          "word": "contrasting"
+        },
+        {
+          "word": "different"
+        },
+        {
+          "word": "differing"
+        },
+        {
+          "word": "dissimilar"
+        },
+        {
+          "word": "unlike"
+        },
+        {
+          "word": "unalike"
+        },
+        {
+          "word": "poles apart"
+        },
+        {
+          "word": "varying"
+        },
+        {
+          "word": "various"
+        },
+        {
+          "word": "diverse"
+        },
+        {
+          "word": "diversified"
+        },
+        {
+          "word": "heterogeneous"
+        },
+        {
+          "word": "unrelated"
+        },
+        {
+          "word": "unconnected"
+        },
+        {
+          "word": "distinct"
+        },
+        {
+          "word": "separate"
+        },
+        {
+          "word": "divergent"
+        },
+        {
+          "word": "divers"
+        },
+        {
+          "word": "myriad"
+        },
+        {
+          "word": "contrastive"
+        }
+      ],
+      "api": "Free Dictionary API",
+      "word": "disparate",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "Windows",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "T",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "editor",
+      "lang": "en_US"
+    },
+    {
+      "content": [
+        {
+          "word": "give rise to"
+        },
+        {
+          "word": "bring about"
+        },
+        {
+          "word": "cause"
+        },
+        {
+          "word": "occasion"
+        },
+        {
+          "word": "result in"
+        },
+        {
+          "word": "lead to"
+        },
+        {
+          "word": "elicit"
+        },
+        {
+          "word": "produce"
+        },
+        {
+          "word": "bring on"
+        },
+        {
+          "word": "engender"
+        },
+        {
+          "word": "induce"
+        },
+        {
+          "word": "call forth"
+        },
+        {
+          "word": "evoke"
+        },
+        {
+          "word": "precipitate"
+        },
+        {
+          "word": "trigger"
+        },
+        {
+          "word": "spark off"
+        },
+        {
+          "word": "provoke"
+        },
+        {
+          "word": "instigate"
+        },
+        {
+          "word": "remind"
+        },
+        {
+          "word": "cue"
+        },
+        {
+          "word": "give someone a cue"
+        },
+        {
+          "word": "help out"
+        },
+        {
+          "word": "coach"
+        },
+        {
+          "word": "feed"
+        },
+        {
+          "word": "jog someone's memory"
+        },
+        {
+          "word": "refresh someone's memory"
+        },
+        {
+          "word": "quick"
+        },
+        {
+          "word": "swift"
+        },
+        {
+          "word": "rapid"
+        },
+        {
+          "word": "speedy"
+        },
+        {
+          "word": "fast"
+        },
+        {
+          "word": "direct"
+        },
+        {
+          "word": "immediate"
+        },
+        {
+          "word": "instant"
+        },
+        {
+          "word": "instantaneous"
+        },
+        {
+          "word": "expeditious"
+        },
+        {
+          "word": "early"
+        },
+        {
+          "word": "punctual"
+        },
+        {
+          "word": "in good time"
+        },
+        {
+          "word": "on time"
+        },
+        {
+          "word": "timely"
+        },
+        {
+          "word": "ready"
+        },
+        {
+          "word": "willing"
+        },
+        {
+          "word": "eager"
+        },
+        {
+          "word": "unhesitating"
+        },
+        {
+          "word": "rathe"
+        },
+        {
+          "word": "exactly"
+        },
+        {
+          "word": "precisely"
+        },
+        {
+          "word": "sharp"
+        },
+        {
+          "word": "on the dot"
+        },
+        {
+          "word": "dead"
+        },
+        {
+          "word": "dead on"
+        },
+        {
+          "word": "promptly"
+        },
+        {
+          "word": "punctually"
+        },
+        {
+          "word": "on the nail"
+        },
+        {
+          "word": "bang on"
+        },
+        {
+          "word": "spot on"
+        },
+        {
+          "word": "on the button"
+        },
+        {
+          "word": "on the nose"
+        },
+        {
+          "word": "on the knocker"
+        }
+      ],
+      "api": "Free Dictionary API",
+      "word": "prompt",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "pager",
+      "lang": "en_US"
+    },
+    {
+      "content": [],
+      "api": "Free Dictionary API",
+      "word": "Polymath",
+      "lang": "en_US"
+    }
+  ]
+}

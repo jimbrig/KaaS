@@ -1,4 +1,5 @@
-- 2022-01-31 at 23h40 · [[2022 Areas of Focus and Goal Planning]]
+- 2022-01-31 at 23h43 · [[2022 Areas of Focus and Goal Planning]]
+- 2022-01-31 at 23h43 · [[Polymath]]
 - 2022-01-31 at 23h35 · [[SQL Server Useful Queries]]
 - 2022-01-31 at 23h35 · [[SQL Server System Functions]]
 - 2022-01-31 at 23h35 · [[How to Build a Data Warehouse for the Insurance Industry]]
@@ -497,4 +498,3 @@
 - 2022-01-30 at 19h34 · [[A Better Way to Manage Your Github Personal Access Tokens]]
 - 2022-01-30 at 19h34 · [[9 Tips to Get More Out of Your Calendar [PMP #177]]]
 - 2022-01-30 at 19h34 · [[9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager]]
-- 2022-01-30 at 19h34 · [[8 Ways to Free Up RAM on Your Windows Computer]]

@@ -173,7 +173,9 @@ A **Data lake** is a vast pool for saving data in its native, unprocessed form. 
 - [[Data Mart]]
 - [[Data Lake]]
 - [[Data Science]]
-- [[Data]]
+- [[Data Versioning]]
+- [[Data Cataloging]]
+- [[Data Science Lifecycle]]
 
 *Backlinks:*
 

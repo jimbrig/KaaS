@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2722324,
+  "lastSavedStatusID": 2727495,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -16,7 +16,9 @@
     "3-Resources/Highlights/Readwise/Articles/Comprehensive Guide to the Data Warehouse.md": "13248874",
     "3-Resources/Highlights/Readwise/Articles/What Is a Star Schema.md": "13248875",
     "3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md": "13248876",
-    "3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md": "13279187"
+    "3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md": "13279187",
+    "3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md": "13326635",
+    "3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md": "13327566"
   },
   "reimportShowConfirmation": true
 }

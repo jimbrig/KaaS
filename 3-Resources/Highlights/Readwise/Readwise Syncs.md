@@ -36,3 +36,7 @@
 
 - [[2022-01-31]] 11:51 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-02-01]] 4:24 PM — Synced 30 highlights from 2 documents.
+    - 27 highlights from Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role
+    - 3 highlights from Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud
+

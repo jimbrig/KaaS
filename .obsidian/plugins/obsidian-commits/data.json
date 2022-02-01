@@ -4102,7 +4102,7 @@
     "2-Areas/Goals/2022 Areas of Focus and Goal Planning.md": {
       "size": 0,
       "tags": 2,
-      "links": 1
+      "links": 2
     },
     "0-Slipbox/SQL Server System Functions.md": {
       "size": 692,
@@ -4113,14 +4113,19 @@
       "size": 1369,
       "tags": 3,
       "links": 4
+    },
+    "3-Resources/Dictionary/Polymath.md": {
+      "size": 5688,
+      "tags": 1,
+      "links": 6
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 25,
-      "Create": 72,
-      "Link": 134,
-      "Expand": 1
+      "Create": 73,
+      "Link": 137,
+      "Expand": 2
     }
   },
   "dailyCommits": {
@@ -4148,12 +4153,12 @@
       "20": 0,
       "21": 0,
       "22": 0,
-      "23": 232
+      "23": 237
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 232,
+      "Mon": 237,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -4165,9 +4170,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
-        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>"
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Development.md\"> Development </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
@@ -4217,8 +4224,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Podcasts/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise.md\"> Readwise </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Hypothesis.io.md\"> Hypothesis.io </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Medium.md\"> Medium </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Kindle.md\"> Kindle </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
@@ -4228,6 +4234,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
@@ -4277,8 +4284,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Dictionary Plugin.md\"> Dictionary Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Zotero.md\"> Zotero </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -4299,6 +4305,8 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
@@ -4347,9 +4355,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Zotero.md\"> Zotero </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Citations Plugin.md\"> Citations Plugin </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Readwise Plugin.md\"> Readwise Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Obsidian Highlights.md\"> Obsidian Highlights </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snipd.md\"> Snipd </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Extract Highlights Plugin.md\"> Extract Highlights Plugin </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Three Systems I Use to Organize My Life.md\"> Three Systems I Use to Organize My Life </a>",

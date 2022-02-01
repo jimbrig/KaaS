@@ -24,8 +24,24 @@ I strive to become a modern-age [[Polymath]] (see [Polymath - Wikipedia](https:/
 ## Interests and Skills
 
 - Software Engineering
-- Web application Development
-- 
+- Web Application Development
+- Database Design and Administration
+- Cloud Computing
+- Serverless Architecture
+- Open Source Development
+- Personal Knowledge Management
+- Productivity
+- R
+- Python
+- SQL
+- PowerShell
+- Bash and Zsh
+- Linux
+- Server Administration
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
 See Also: [[Mind_Sweep_Trigger_List.pdf]]
 

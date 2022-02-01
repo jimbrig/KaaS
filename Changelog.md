@@ -1,6 +1,5 @@
-- 2022-02-01 at 12h02 · [[conflict-files-obsidian-git]]
+- 2022-02-01 at 12h07 · [[conflict-files-obsidian-git]]
 - 2022-02-01 at 12h02 · [[Data Engineers]]
-- 2022-02-01 at 12h01 · [[conflict-files-obsidian-git]]
 - 2022-02-01 at 11h53 · [[Modern Data Pipeline Complexities]]
 - 2022-02-01 at 11h45 · [[Data Engineering]]
 - 2022-02-01 at 11h42 · [[Data Warehouse]]
@@ -498,4 +497,4 @@
 - 2022-01-30 at 19h34 · [[10 Tips to Turn Microsoft To-Do Into a Serious Task Manager]]
 - 2022-01-30 at 19h34 · [[10 Guidelines to Better Table Design]]
 - 2022-01-30 at 19h34 · [[#6 Practicing - Tips From the Clean Coder - DEV]]
-- 2022-01-30 at 19h34 · [['Mustashe' Explained  Joshua Cook022-01-30 at 19h34 · [[Auto Documentation System for R Shiny - Stack Overflow]]
+- 2022-01-30 at 19h34 · [['Mustashe' Explained  Joshua Cook]]

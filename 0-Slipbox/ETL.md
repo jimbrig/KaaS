@@ -10,7 +10,7 @@ Alias: "ETL"
 *Source: [A gentle introduction to an ETL process | by Horacio Soldman | Jan, 2022 | Dev Genius](https://blog.devgenius.io/a-gentle-introduction-to-an-etl-process-19925e16367c)*
 
 
-See Also: [[ELT]]
+See Also: [[ELT]] | [[Data Pipeline Architecture]]
 
 > The process of extracting, transforming and loading the data, namely the extraction of data from its data sources to a staging area, the transformations to add structure or to clean the data and the act of loading it to its final destination.— [Real-Time Big Data Warehousing](https://doi.org/10.4018/978-1-5225-5516-2.ch002)
 

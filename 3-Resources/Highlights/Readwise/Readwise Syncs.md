@@ -34,5 +34,3 @@
 - [[2022-01-30]] 11:43 PM — Synced 4 highlights from 1 document.
     - 4 highlights from How to Build a Data Warehouse for the Insurance Industry
 
-- [[2022-01-28]] 4:57 PM — Synced 0 highlights from 0 documents.
-

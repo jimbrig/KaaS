@@ -38,6 +38,11 @@ Alias: "Actuarial Science"
 
 - [[Actuarial Development Master Resource List]]
 
+### General Reference
+
+- [[Actuarial Acronyms and Definitions]]
+- 
+
 ### Practice and Theory
 
 - [[Property Casualty Loss Reserving Methodologies]]
@@ -135,6 +140,79 @@ Alias: "Actuarial Science"
 - [[Pettifer and Pettifer - A Practical Guide to Commercial Insurance Pricing.pdf]]
 
 ## Appendix: Dataviews
+
+### Tagged as _Topic/Actuarial_
+
+-   [[Prophet Actuarial Tool|Prophet Actuarial Tool]]
+-   [[Slipbox-Actuarial-Dev-Template]]
+-   [[Random Forest Algorithms|Random Forest Algorithms]]
+-   [[R Package - imaginator|R Package - imaginator]]
+-   [[R Package - cascsim|R Package - cascsim]]
+-   [[Neural Networks|Neural Networks]]
+-   [[Loss Triangles|Loss Triangles]]
+-   [[Interpolation of Cumulative Loss Development Factors|Interpolation of Cumulative Loss Development Factors]]
+-   [[Interest Rate Theory|Interest Rate Theory]]
+-   [[Generalized Additive Models|Generalized Additive Models]]
+-   [[Generalized Linear Models|Generalized Linear Models]]
+-   [[Free Actuarial System for Loss Reserving|Free Actuarial System for Loss Reserving]]
+-   [[Data Warehousing for Insurance Data|Data Warehousing for Insurance Data]]
+-   [[Data Warehouse for Insurance|Data Warehouse for Insurance]]
+-   [[Credibility Theory|Credibility Theory]]
+-   [[CAS - Casualty Actuarial Society|CAS - Casualty Actuarial Society]]
+-   [[Actuarial Property Casualty Data Thoughts|Actuarial Property Casualty Data Thoughts]]
+-   [[Actuarial Data Science and Financial Modeling with Microsoft Azure|Actuarial Data Science and Financial Modeling with Microsoft Azure]]
+
+### 
+
+Links to this File
+
+-   [[README|README]]
+-   [[Prophet Actuarial Tool|Prophet Actuarial Tool]]
+-   [[Slipbox-Templates/Slipbox-Actuarial-Dev-Template|Slipbox-Actuarial-Dev-Template]]
+-   [[_README|_README]]
+-   [[R|R]]
+-   [[Data Science|Data Science]]
+-   [[Actuarial Science|Actuarial Science]]
+-   [[2-Areas/Meta/Unresolved-Links|Unresolved-Links]]
+-   [[Random Forest Algorithms|Random Forest Algorithms]]
+-   [[R Shiny - The Big Long - An Interactive Actuarial Simulation|R Shiny - The Big Long - An Interactive Actuarial Simulation]]
+-   [[R Packge - deeptriangle|R Packge - deeptriangle]]
+-   [[R Package - simulationmachine|R Package - simulationmachine]]
+-   [[R Package - rsvr|R Package - rsvr]]
+-   [[R Package - imaginator|R Package - imaginator]]
+-   [[R Package - raw|R Package - raw]]
+-   [[R Package - insurancerating|R Package - insurancerating]]
+-   [[R Package - conjuror|R Package - conjuror]]
+-   [[R Package - casdown|R Package - casdown]]
+-   [[R Package - casdata|R Package - casdata]]
+-   [[R Package - actuar|R Package - actuar]]
+-   [[R Package - cascsim|R Package - cascsim]]
+-   [[Python Package - tryangle|Python Package - tryangle]]
+-   [[Python Package - ChainLadder|Python Package - ChainLadder]]
+-   [[Property Casualty Data Model|Property Casualty Data Model]]
+-   [[Property Casualty Loss Reserving Methodologies|Property Casualty Loss Reserving Methodologies]]
+-   [[Problems with No-Code and Low-Code Tools|Problems with No-Code and Low-Code Tools]]
+-   [[Probability Theory|Probability Theory]]
+-   [[Neural Networks|Neural Networks]]
+-   [[Loss Triangles|Loss Triangles]]
+-   [[Loss Data Analytics|Loss Data Analytics]]
+-   [[KasaAI GitHub Organization|KasaAI GitHub Organization]]
+-   [[Interpolation of Cumulative Loss Development Factors|Interpolation of Cumulative Loss Development Factors]]
+-   [[Interest Rate Theory|Interest Rate Theory]]
+-   [[Generalized Additive Models|Generalized Additive Models]]
+-   [[Generalized Linear Models|Generalized Linear Models]]
+-   [[Free Actuarial System for Loss Reserving|Free Actuarial System for Loss Reserving]]
+-   [[Data Warehouse for Insurance|Data Warehouse for Insurance]]
+-   [[Data Science Lifecycle|Data Science Lifecycle]]
+-   [[Credibility Theory|Credibility Theory]]
+-   [[CAS - Casualty Actuarial Society|CAS - Casualty Actuarial Society]]
+-   [[Bayesian Statistics|Bayesian Statistics]]
+-   [[Actuarial Property Casualty Data Thoughts|Actuarial Property Casualty Data Thoughts]]
+-   [[Actuarial Development Master Resource List|Actuarial Development Master Resource List]]
+-   [[Actuarial Experience Studies|Actuarial Experience Studies]]
+-   [[Actuarial Data Science and Financial Modeling with Microsoft Azure|Actuarial Data Science and Financial Modeling with Microsoft Azure]]
+
+[[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 
 ### Tagged as *Topic/Actuarial*
 

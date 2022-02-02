@@ -69,7 +69,7 @@ One last word of warning, Alteryx does tend to have a fairly high pressure sales
 ### Appendix Related:
 
 - [[Actuarial Science]]
-- [[Prophet Actuarial Tool]]
+- [[Prophet]]
 - [[No-Code and Low-Code]]
 
 

@@ -2,10 +2,12 @@
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
-Alias: "Prophet Actuarial Tool"
+Alias: "Prophet"
 ---
 
-# Prophet Data Management Platform
+# Prophet
+
+## Data Management Platform
 
 
 The components of the Prophet Data Management Platform are:

@@ -184,7 +184,7 @@ Alias: "Development"
 - [[ZSH]]
 - [[Inno]]
 - [[Todoist-CLI]]
-- [[Prophet Actuarial Tool]]
+- [[Prophet]]
 - [[Zotero]]
 
 ## Best Practices, Guides, How-To's, and Setups

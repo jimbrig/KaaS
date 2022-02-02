@@ -24,7 +24,10 @@ Alias: "Web Development"
 - [[API Architecture - Performance Best Practices]]
 - [[REST API Best Practices]]
 - [[API Design]]
-
+- [[API Authentication]]
+- [[REST API Methods]]
+- [[REST API HTTP Status Codes]]
+- [[REST API Resource Naming]]
 
 ## Dataviews
 

@@ -1,11 +1,11 @@
 ---
 Date: 2022-02-02
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Cloud", "#Topic/Dev/Databases"]
-Alias: ["AWS RDS"]
+Tags: ["#Type/Tool"]
+Alias: ["Azure Key Vault"]
 ---
 
-# AWS RDS
+# Azure Key Vault
 
 ***
 

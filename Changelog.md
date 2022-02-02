@@ -1,5 +1,5 @@
+- 2022-02-02 at 10h41 · [[2022-02-02]]
 - 2022-02-02 at 10h39 · [[Awesome R Package Development]]
-- 2022-02-02 at 10h38 · [[2022-02-02]]
 - 2022-02-01 at 23h41 · [[R Package Development Resources]]
 - 2022-02-01 at 23h34 · [[Obsidian-Clipper]]
 - 2022-02-01 at 16h56 · [[Microsoft Visio]]

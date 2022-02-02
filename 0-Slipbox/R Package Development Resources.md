@@ -1,11 +1,15 @@
 ---
 Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
+Tags: ["#Type/List", "#Topic/Dev/R"]
 Alias: "R Package Development Resources"
 ---
 
 # R Package Development Resources
+
+Source: [Awesome R Package Development - GitHub](https://indrajeetpatil.github.io/awesome-r-pkgtools/)
+
+![[Awesome R Package Development.pdf]]
 
 |                                             Resource                                              |                         Source                          |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
@@ -24,6 +28,9 @@ Alias: "R Package Development Resources"
 - [[Development]]
 - [[R]]
 
+- [[Awesome R Package Development]]
+- [[R Package Development Best Practices]]
+- [[R Shiny Packages]]
 
 *Backlinks:*
 

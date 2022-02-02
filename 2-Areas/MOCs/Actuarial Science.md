@@ -84,14 +84,23 @@ Alias: "Actuarial Science"
 
 ##### R
 
-- [[R Package - ChainLadder]]
-- [[R Package - actuar]]
-- [[R Package - insurancerating]]
-- [[R Package - rsvr]]
-- [[R Packge - deeptriangle]]
-- [[R Package - casdata]]
-- [[R Package - simulationmachine]]
-- [[R Package - conjuror]]
+*See Also: [[R]] | [[Data Science]]*
+
+-   [[R Package - ChainLadder]]
+-   [[R Package - deeptriangle]]
+-   [[R Package - simulationmachine]]
+-   [[R Package - rsvr]]
+-   [[R Package - imaginator]]
+-   [[R Package - raw]]
+-   [[R Package - insurancerating]]
+-   [[R Package - conjuror]]
+-   [[R Package - casdown]]
+-   [[R Package - casdata]]
+-   [[R Package - actuar]]
+-   [[R Package - cascsim]]
+
+##### R Shin
+-   [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 
 ##### Python
 
@@ -103,6 +112,7 @@ Alias: "Actuarial Science"
 #### Data
 
 - [[Property Casualty Data Model]]
+- [[Actuarial Claims Data - Simulation R Script]]
 
 ### Organizations
 
@@ -168,27 +178,14 @@ Links to this File
 
 -   [[README|README]]
 -   [[Prophet Actuarial Tool|Prophet Actuarial Tool]]
--   [[Slipbox-Templates/Slipbox-Actuarial-Dev-Template|Slipbox-Actuarial-Dev-Template]]
--   [[_README|_README]]
--   [[R|R]]
--   [[Data Science|Data Science]]
--   [[Actuarial Science|Actuarial Science]]
--   [[2-Areas/Meta/Unresolved-Links|Unresolved-Links]]
--   [[Random Forest Algorithms|Random Forest Algorithms]]
--   [[R Shiny - The Big Long - An Interactive Actuarial Simulation|R Shiny - The Big Long - An Interactive Actuarial Simulation]]
--   [[R Packge - deeptriangle|R Packge - deeptriangle]]
--   [[R Package - simulationmachine|R Package - simulationmachine]]
--   [[R Package - rsvr|R Package - rsvr]]
--   [[R Package - imaginator|R Package - imaginator]]
--   [[R Package - raw|R Package - raw]]
--   [[R Package - insurancerating|R Package - insurancerating]]
--   [[R Package - conjuror|R Package - conjuror]]
--   [[R Package - casdown|R Package - casdown]]
--   [[R Package - casdata|R Package - casdata]]
--   [[R Package - actuar|R Package - actuar]]
--   [[R Package - cascsim|R Package - cascsim]]
--   [[Python Package - tryangle|Python Package - tryangle]]
--   [[Python Package - ChainLadder|Python Package - ChainLadder]]
+-   [[Slipbox-Actuarial-Dev-Template]]
+
+-   
+-   [[Actuarial Science]]
+-   [[Random Forest Algorithms]]
+
+
+
 -   [[Property Casualty Data Model|Property Casualty Data Model]]
 -   [[Property Casualty Loss Reserving Methodologies|Property Casualty Loss Reserving Methodologies]]
 -   [[Problems with No-Code and Low-Code Tools|Problems with No-Code and Low-Code Tools]]

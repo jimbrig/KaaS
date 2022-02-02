@@ -2,14 +2,12 @@
   "spellcheck": true,
   "readableLineLength": false,
   "foldHeading": true,
-  "defaultViewMode": "preview",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
+  "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Slipbox",
-  "showUnsupportedFiles": true,
   "attachmentFolderPath": "./_assets",
-  "promptDelete": false,
   "spellcheckDictionary": [
     "Backlinks",
     "Dataviews",
@@ -115,7 +113,8 @@
     "js",
     "Highcharter",
     "Vue",
-    "Visio"
+    "Visio",
+    "Transactional"
   ],
   "livePreview": true,
   "legacyEditor": true,

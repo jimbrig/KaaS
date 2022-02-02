@@ -17,7 +17,7 @@ Alias: "R"
 -   [[KasaAI GitHub Organization]]
 -   [[CAS - Casualty Actuarial Society]]
 <br>
--   [[R Packge - deeptriangle]]
+-   [[R Package - deeptriangle]]
 -   [[R Package - simulationmachine]]
 -   [[R Package - rsvr]]
 -   [[R Package - raw]]

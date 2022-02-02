@@ -1,3 +1,4 @@
+- 2022-02-02 at 13h28 · [[2022-02-02]]
 - 2022-02-02 at 13h02 · [[Jupyter Ecosystem in the Cloud]]
 - 2022-02-02 at 13h01 · [[Note Taking and The Internet Best Practices]]
 - 2022-02-02 at 13h01 · [[The Knowledge Cycle]]
@@ -39,7 +40,6 @@
 - 2022-02-02 at 12h29 · [[R Package - deeptriangle]]
 - 2022-02-02 at 12h26 · [[Actuarial Property Casualty Data Thoughts]]
 - 2022-02-02 at 12h25 · [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
-- 2022-02-02 at 10h41 · [[2022-02-02]]
 - 2022-02-02 at 10h39 · [[Awesome R Package Development]]
 - 2022-02-01 at 23h41 · [[R Package Development Resources]]
 - 2022-02-01 at 23h34 · [[Obsidian-Clipper]]

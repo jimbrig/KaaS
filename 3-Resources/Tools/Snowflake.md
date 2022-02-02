@@ -11,7 +11,7 @@ Alias: ["Snowflake"]
 
 Snowflake is a cloud-based data warehousing platform that is built on top of [[Amazon Web Services]] and is a true [[SaaS]] offering. 
 
-In contrast with traditional [[Data Warehouse]] solutions, Snowflake provides a [data warehouse](../Data%20Science/Data%20Warehouse.md) which is faster, easy to set up, and far more flexible. 
+In contrast with traditional [[Data Warehouse]] solutions, Snowflake provides a [[Data Warehouse]] which is faster, easy to set up, and far more flexible. 
 
 With its unique features, it soon became a leader in data management solutions for analytics.
 

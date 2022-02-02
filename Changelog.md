@@ -1,3 +1,6 @@
+- 2022-02-02 at 12h58 · [[Jupyter Ecosystem in the Cloud]]
+- 2022-02-02 at 12h57 · [[Developer Notebooks]]
+- 2022-02-02 at 12h57 · [[Google Colaboratory]]
 - 2022-02-02 at 12h54 · [[Snowflake]]
 - 2022-02-02 at 12h52 · [[Database Connection Pooling]]
 - 2022-02-02 at 12h51 · [[Developer Productivity and Collaboration with Azure Machine Learning]]
@@ -495,6 +498,3 @@
 - 2022-01-30 at 19h34 · [[Digital De-Cluttering How to Streamline Your Online Life]]
 - 2022-01-30 at 19h34 · [[Developer GTD]]
 - 2022-01-30 at 19h34 · [[Dev Environments as Code With Containers and Visual Studio Code]]
-- 2022-01-30 at 19h34 · [[Designing Better File Organization]]
-- 2022-01-30 at 19h34 · [[Delete These Windows Files and Folders to Free Up Disk Space]]
-- 2022-01-30 at 19h34 · [[Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport]]

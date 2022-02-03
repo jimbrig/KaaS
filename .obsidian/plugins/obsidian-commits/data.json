@@ -4452,20 +4452,20 @@
     "3-Resources/Tools/SQL Server List of Tools and Scripts.md": {
       "size": 10476,
       "tags": 3,
-      "links": 11
+      "links": 20
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1887,
       "Create": 1843,
-      "Link": 3440,
+      "Link": 3441,
       "Expand": 160
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 49,
+      "0": 50,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4496,7 +4496,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2040,
+      "Thu": 2041,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4777,6 +4777,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/dbDiagram.md\"> dbDiagram </a>",
@@ -4826,8 +4827,7 @@
         "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

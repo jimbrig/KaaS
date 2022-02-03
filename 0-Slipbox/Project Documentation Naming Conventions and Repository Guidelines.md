@@ -7,7 +7,7 @@ Alias: "Project Documentation Naming Conventions and Repository Guidelines"
 
 # Project Documentation Naming Conventions and Repository Guidelines
 
-*Source: [[guide_repositorysetupandnamingconv.pdf]]*
+*Source: [[Project Documentation Naming Conventions and Repository Guidelines.pdf]]*
 
 ## Purpose
 

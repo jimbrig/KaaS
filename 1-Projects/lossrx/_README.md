@@ -2,7 +2,7 @@
 Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: [ "#Type/Project", "#Topic/Dev/R" ]
-Alias: [ "lossdevt", "reserver", "reservr", "actdev" ] 
+Alias: [ "lossdevt", "reserver", "reservr", "actdev", "lossrx" ] 
 ---
 
 # R Package for Actuarial Reserving - `reserver`

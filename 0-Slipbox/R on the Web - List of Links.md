@@ -228,6 +228,13 @@ Miscellaneous
 **[reticulate](https://rstudio.github.io/reticulate/)**: combining Python & R.
 
 
+## Appendix: Links
+
+- [[R]]
+- [[R Shiny]]
+- [[R Package Development Resources]]
+- [[Development]]
+
 ***
 
 *Backlinks:*

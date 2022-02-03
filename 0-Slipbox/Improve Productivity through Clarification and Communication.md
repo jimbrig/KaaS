@@ -1,13 +1,15 @@
 ---
 Date: 2022-02-03
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
+Tags: ["#Type/Slipbox", "#Topic/Productivity"]
 Alias: "Improve Productivity through Clarification and Communication"
 ---
 
 # Improve Productivity through Clarification and Communication
 
-
+Clarify priorities and purpose.
+Communicate for transparency and validation of assumptions
+Prioritize and establish focus to produce clarified, communicated results 
 
 ## Notes
 
@@ -29,7 +31,8 @@ Regular check-ins are very important to managing expectations, ensuring you comm
 
 #### Related
 
-- [[Development]]
+- [[Productivity]]
+- [[2-Areas/Mindsweeps/_README|Mindsweeps]]
 
 *Backlinks:*
 

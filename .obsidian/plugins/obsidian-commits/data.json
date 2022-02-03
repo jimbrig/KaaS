@@ -4444,23 +4444,23 @@
       "tags": 0,
       "links": 499
     },
-    "0-Slipbox/Untitled 1.md": {
+    "0-Slipbox/Improve Productivity through Clarification and Communication.md": {
       "size": 0,
-      "tags": 0,
-      "links": 0
+      "tags": 2,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1886,
       "Create": 1842,
-      "Link": 3431,
+      "Link": 3433,
       "Expand": 159
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 37,
+      "0": 39,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4491,7 +4491,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2028,
+      "Thu": 2030,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4659,6 +4659,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Improve Productivity through Clarification and Communication.md\"> Improve Productivity through Clarification and Communication </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package - deeptriangle.md\"> R Package - deeptriangle </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/REST API HTTP Status Codes.md\"> REST API HTTP Status Codes </a>",
@@ -4708,8 +4709,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4772,6 +4772,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Improve Productivity through Clarification and Communication.md\"> Improve Productivity through Clarification and Communication </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
@@ -4821,8 +4822,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

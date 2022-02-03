@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Productivity/GTD", "#Status/Todo"]
+Tags: ["#Type/List", "#Topic/Productivity/GTD", "#Status/Todo"]
 Alias: ["GTD Setup List", "10 Step GTD Setup List"]
 ---
 

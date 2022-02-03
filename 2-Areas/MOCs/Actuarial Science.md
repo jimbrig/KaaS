@@ -38,11 +38,16 @@ Alias: "Actuarial Science"
 
 - [[Actuarial Development Master Resource List]]
 
+### General Reference
+
+- [[Actuarial Acronyms and Definitions]]
+
 ### Practice and Theory
 
 - [[Property Casualty Loss Reserving Methodologies]]
 - [[Loss Triangles]]
 - [[Interest Rate Theory]]
+- [[Loss Data Analytics]]
 - [[Actuarial Exams]]
 - [[Property Casualty vs Life Insurance]]
 - [[Self Insurance and Captive Insurance]]
@@ -52,6 +57,8 @@ Alias: "Actuarial Science"
 - [[Actuarial Risk Allocation]]
 - [[Non-Life Actuarial Coverages]]
 - [[Actuarial Experience Studies]]
+- [[Free Actuarial System for Loss Reserving]]
+- [[Credibility Theory]]
 
 ### Analytics and Statistics
 
@@ -74,19 +81,33 @@ Alias: "Actuarial Science"
 - [[Property Casualty Data Model]]
 - [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 - [[Data Warehouse for Insurance]]
+- [[Problems with No-Code and Low-Code Tools]]
+- [[Actuarial Development Master Resource List]]
 
-#### Libraries
+#### Tools
+
+- [[Prophet]]
 
 ##### R
 
-- [[R Package - ChainLadder]]
-- [[R Package - actuar]]
-- [[R Package - insurancerating]]
-- [[R Package - rsvr]]
-- [[R Packge - deeptriangle]]
-- [[R Package - casdata]]
-- [[R Package - simulationmachine]]
-- [[R Package - conjuror]]
+*See Also: [[R]] | [[Data Science]]*
+
+-   [[R Package - ChainLadder]]
+-   [[R Package - deeptriangle]]
+-   [[R Package - simulationmachine]]
+-   [[R Package - rsvr]]
+-   [[R Package - imaginator]]
+-   [[R Package - raw]]
+-   [[R Package - insurancerating]]
+-   [[R Package - conjuror]]
+-   [[R Package - casdown]]
+-   [[R Package - casdata]]
+-   [[R Package - actuar]]
+-   [[R Package - cascsim]]
+
+##### R Shiny
+
+-   [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
 
 ##### Python
 
@@ -98,6 +119,12 @@ Alias: "Actuarial Science"
 #### Data
 
 - [[Property Casualty Data Model]]
+- [[Actuarial Claims Data - Simulation R Script]]
+- [[Actuarial Property Casualty Data Thoughts]]
+- [[Data Warehousing for Insurance Data]]
+- [[Data Warehouse for Insurance]]
+- [[Data Science Lifecycle]]
+
 
 ### Organizations
 

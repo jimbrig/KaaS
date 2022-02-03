@@ -104,7 +104,17 @@
     "Nativefier",
     "webpage",
     "GSuite",
-    "deliverables"
+    "deliverables",
+    "Serverless",
+    "Zsh",
+    "jQuery",
+    "Jenga",
+    "DataTables",
+    "js",
+    "Highcharter",
+    "Vue",
+    "Visio",
+    "Transactional"
   ],
   "livePreview": true,
   "legacyEditor": true,

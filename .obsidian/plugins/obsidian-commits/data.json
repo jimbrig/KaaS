@@ -9,11 +9,6 @@
       "tags": 1,
       "links": 31
     },
-    "Changelog.md": {
-      "size": 36308,
-      "tags": 0,
-      "links": 500
-    },
     "Daily-Notes/2021-11-08.md": {
       "size": 0,
       "tags": 1,
@@ -241,7 +236,7 @@
     },
     "0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md": {
       "size": 3522,
-      "tags": 2,
+      "tags": 3,
       "links": 5
     },
     "0-Slipbox/Actuarial Experience Studies.md": {
@@ -307,7 +302,7 @@
     "0-Slipbox/Collectors Fallacy.md": {
       "size": 0,
       "tags": 1,
-      "links": 2
+      "links": 4
     },
     "0-Slipbox/Credibility Theory.md": {
       "size": 0,
@@ -352,7 +347,7 @@
     "0-Slipbox/Developer Notebooks.md": {
       "size": 0,
       "tags": 2,
-      "links": 0
+      "links": 9
     },
     "0-Slipbox/Developer Productivity and Collaboration with Azure Machine Learning.md": {
       "size": 3741,
@@ -594,11 +589,6 @@
       "tags": 5,
       "links": 4
     },
-    "0-Slipbox/R Packge - deeptriangle.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 3
-    },
     "0-Slipbox/Relational Databases.md": {
       "size": 0,
       "tags": 2,
@@ -637,7 +627,7 @@
     "0-Slipbox/REST API Methods.md": {
       "size": 9626,
       "tags": 2,
-      "links": 7
+      "links": 12
     },
     "0-Slipbox/REST API Resource Naming.md": {
       "size": 10255,
@@ -740,9 +730,9 @@
       "links": 3
     },
     "2-Areas/MOCs/Actuarial Science.md": {
-      "size": 4353,
+      "size": 5333,
       "tags": 1,
-      "links": 81
+      "links": 93
     },
     "2-Areas/MOCs/Development.md": {
       "size": 4422,
@@ -787,7 +777,7 @@
     "2-Areas/MOCs/Web Development.md": {
       "size": 0,
       "tags": 1,
-      "links": 6
+      "links": 11
     },
     "2-Areas/MOCs/_README.md": {
       "size": 0,
@@ -1159,11 +1149,6 @@
       "tags": 3,
       "links": 10
     },
-    "3-Resources/Tools/Prophet Actuarial Tool.md": {
-      "size": 0,
-      "tags": 3,
-      "links": 2
-    },
     "3-Resources/Tools/MEGA CMD.md": {
       "size": 23890,
       "tags": 1,
@@ -1302,7 +1287,7 @@
     "0-Slipbox/R Package Development Resources.md": {
       "size": 0,
       "tags": 2,
-      "links": 2
+      "links": 6
     },
     "0-Slipbox/Data Warehousing Concepts and Definitions.md": {
       "size": 2591,
@@ -1415,9 +1400,9 @@
       "links": 3
     },
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
-      "size": 231,
+      "size": 2207,
       "tags": 0,
-      "links": 9
+      "links": 12
     },
     "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md": {
       "size": 2242,
@@ -1482,7 +1467,7 @@
     "2-Areas/MOCs/Data Engineering.md": {
       "size": 0,
       "tags": 1,
-      "links": 18
+      "links": 19
     },
     "2-Areas/People/Bill Inmon.md": {
       "size": 0,
@@ -1492,7 +1477,7 @@
     "0-Slipbox/Dimensional Modeling.md": {
       "size": 8785,
       "tags": 2,
-      "links": 13
+      "links": 14
     },
     "0-Slipbox/Fact Table Structure.md": {
       "size": 0,
@@ -1582,7 +1567,7 @@
     "0-Slipbox/ETL.md": {
       "size": 3765,
       "tags": 2,
-      "links": 7
+      "links": 8
     },
     "0-Slipbox/ELT.md": {
       "size": 0,
@@ -4247,7 +4232,7 @@
     "3-Resources/Code/SQL Server Useful Queries.md": {
       "size": 0,
       "tags": 3,
-      "links": 4
+      "links": 5
     },
     "1-Projects/lossrx/Application and API.md": {
       "size": 383,
@@ -4273,19 +4258,199 @@
       "size": 3278,
       "tags": 2,
       "links": 0
+    },
+    "2-Areas/Goals/2022 Areas of Focus and Goal Planning.md": {
+      "size": 2399,
+      "tags": 2,
+      "links": 2
+    },
+    "3-Resources/Dictionary/Polymath.md": {
+      "size": 5688,
+      "tags": 1,
+      "links": 6
+    },
+    "2-Areas/Daily-Notes/2022-01-31.md": {
+      "size": 355,
+      "tags": 1,
+      "links": 3
+    },
+    "2-Areas/Daily-Notes/2022-02-01.md": {
+      "size": 357,
+      "tags": 1,
+      "links": 3
+    },
+    "0-Slipbox/Data Engineering and Its Main Concepts.md": {
+      "size": 14227,
+      "tags": 2,
+      "links": 24
+    },
+    "0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md": {
+      "size": 6382,
+      "tags": 2,
+      "links": 8
+    },
+    "0-Slipbox/Modern Data Integration - Data Engineering.md": {
+      "size": 469,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/Data Pipeline Architecture.md": {
+      "size": 5953,
+      "tags": 2,
+      "links": 8
+    },
+    "0-Slipbox/Modern Data Pipeline Complexities.md": {
+      "size": 10825,
+      "tags": 2,
+      "links": 8
+    },
+    "0-Slipbox/Data Engineers.md": {
+      "size": 20152,
+      "tags": 2,
+      "links": 22
+    },
+    "2-Areas/Daily-Notes/2022-02-02.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 3
+    },
+    "3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md": {
+      "size": 1085,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md": {
+      "size": 13437,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Microsoft Office.md": {
+      "size": 464,
+      "tags": 1,
+      "links": 11
+    },
+    "3-Resources/Tools/Microsoft Visio.md": {
+      "size": 2626,
+      "tags": 1,
+      "links": 5
+    },
+    "0-Slipbox/Awesome R Package Development.md": {
+      "size": 40,
+      "tags": 0,
+      "links": 1
+    },
+    "0-Slipbox/R Package - deeptriangle.md": {
+      "size": 364,
+      "tags": 3,
+      "links": 3
+    },
+    "3-Resources/Code/Actuarial Claims Data - Simulation R Script.md": {
+      "size": 4434,
+      "tags": 2,
+      "links": 3
+    },
+    "3-Resources/Tools/Prophet.md": {
+      "size": 1555,
+      "tags": 3,
+      "links": 2
+    },
+    "3-Resources/Tools/AWS Sagemaker.md": {
+      "size": 251,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/AWS CLI.md": {
+      "size": 259,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Tools/AWS RDS.md": {
+      "size": 283,
+      "tags": 3,
+      "links": 1
+    },
+    "0-Slipbox/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0-Slipbox/REST API HTTP Status Codes.md": {
+      "size": 2750,
+      "tags": 2,
+      "links": 7
+    },
+    "0-Slipbox/REST API Resources.md": {
+      "size": 2431,
+      "tags": 2,
+      "links": 0
+    },
+    "0-Slipbox/Authentication in Azure Key Vault.md": {
+      "size": 495,
+      "tags": 2,
+      "links": 1
+    },
+    "3-Resources/Tools/Azure Key Vault.md": {
+      "size": 255,
+      "tags": 1,
+      "links": 1
+    },
+    "3-Resources/Tools/Snowflake.md": {
+      "size": 15388,
+      "tags": 3,
+      "links": 29
+    },
+    "0-Slipbox/Agile Development.md": {
+      "size": 238,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Tools/Google Colaboratory.md": {
+      "size": 2430,
+      "tags": 1,
+      "links": 12
+    },
+    "0-Slipbox/Jupyter Ecosystem in the Cloud.md": {
+      "size": 27627,
+      "tags": 3,
+      "links": 12
+    },
+    "0-Slipbox/Note Taking and The Internet Best Practices.md": {
+      "size": 13169,
+      "tags": 1,
+      "links": 5
+    },
+    "0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md": {
+      "size": 3778,
+      "tags": 1,
+      "links": 7
+    },
+    "0-Slipbox/The Knowledge Cycle.md": {
+      "size": 268,
+      "tags": 1,
+      "links": 1
+    },
+    "0-Slipbox/Visual Studio Code Notebooks Deepdive.md": {
+      "size": 1766,
+      "tags": 2,
+      "links": 0
+    },
+    "3-Resources/Tools/SQL Server - DBA MultiTool.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1872,
-      "Create": 1797,
-      "Link": 3343,
-      "Expand": 154
+      "Refactor": 1884,
+      "Create": 1838,
+      "Link": 3429,
+      "Expand": 159
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 29,
+      "0": 36,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4295,9 +4460,9 @@
       "7": 0,
       "8": 0,
       "9": 4,
-      "10": 20,
-      "11": 114,
-      "12": 193,
+      "10": 31,
+      "11": 140,
+      "12": 198,
       "13": 79,
       "14": 502,
       "15": 163,
@@ -4306,16 +4471,16 @@
       "18": 1299,
       "19": 1760,
       "20": 412,
-      "21": 42,
+      "21": 131,
       "22": 71,
-      "23": 84
+      "23": 90
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 306,
-      "Tue": 262,
-      "Wed": 1468,
+      "Mon": 312,
+      "Tue": 311,
+      "Wed": 1557,
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
@@ -4325,6 +4490,11 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-28.md\"> 2022-01-28 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md\"> How to Build a Data Warehouse for the Insurance Industry </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ELT Architecture in Azure Cloud.md\"> ELT Architecture in Azure Cloud </a>",
@@ -4370,14 +4540,50 @@
         "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/ELT Cloud Based Pipeline Architecture.md\"> ELT Cloud Based Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"The Kimball Lifecycle.md\"> The Kimball Lifecycle </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Visual Studio Code Notebooks Deepdive.md\"> Visual Studio Code Notebooks Deepdive </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Knowledge Cycle.md\"> The Knowledge Cycle </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md\"> Rinse and Repeat - Research, Read, Assimilate </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Note Taking and The Internet Best Practices.md\"> Note Taking and The Internet Best Practices </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Jupyter Ecosystem in the Cloud.md\"> Jupyter Ecosystem in the Cloud </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Google Colaboratory.md\"> Google Colaboratory </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Agile Development.md\"> Agile Development </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snowflake.md\"> Snowflake </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Key Vault.md\"> Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Authentication in Azure Key Vault.md\"> Authentication in Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API Resources.md\"> REST API Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API HTTP Status Codes.md\"> REST API HTTP Status Codes </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS RDS.md\"> AWS RDS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS CLI.md\"> AWS CLI </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Sagemaker.md\"> AWS Sagemaker </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet.md\"> Prophet </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Code/Actuarial Claims Data - Simulation R Script.md\"> Actuarial Claims Data - Simulation R Script </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - deeptriangle.md\"> R Package - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Awesome R Package Development.md\"> Awesome R Package Development </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Visio.md\"> Microsoft Visio </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Office.md\"> Microsoft Office </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md\"> Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md\"> Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-02.md\"> 2022-02-02 </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineers.md\"> Data Engineers </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Pipeline Complexities.md\"> Modern Data Pipeline Complexities </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md\"> Data Warehousing Concepts - Slowly Changing Dimensions </a>",
+        "<a class=\"internal-link\" href=\"Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-01.md\"> 2022-02-01 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Data.md\"> Data </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
@@ -4387,50 +4593,10 @@
         "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md\"> Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md\"> Wed. 0929 – Is Amazon’s Astro Robot… Ready </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/This Is How We Change the World.md\"> This Is How We Change the World </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/The business model of open source.md\"> The business model of open source </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS.md\"> Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2.md\"> Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/SYSTEMS THINKING What Is a System.md\"> SYSTEMS THINKING What Is a System </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS.md\"> Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53.md\"> Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Stop Living on Autopilot and Take Responsibility for Your Life.md\"> Stop Living on Autopilot and Take Responsibility for Your Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Projects Lists - November 2019.md\"> Projects Lists - November 2019 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Personal Knowledge Management Reprised.md\"> Personal Knowledge Management Reprised </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Oh my! Zsh..md\"> Oh my! Zsh. </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md\"> Laurie Santos, PhD  Simple Ways to Live a Happier Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS.md\"> My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Megan McNealy on Achieving Optimal Productivity Through Well-being.md\"> Megan McNealy on Achieving Optimal Productivity Through Well-being </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Limit Your Options By Limiting Your Obligations.md\"> Limit Your Options By Limiting Your Obligations </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md\"> He Ran Across America — On Plants </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md\"> Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md\"> Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much.md\"> Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 69 —  How Do I Find Joy in Leisure.md\"> Ep. 69 —  How Do I Find Joy in Leisure </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 65 —  Is Productivity Bad.md\"> Ep. 65 —  Is Productivity Bad </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems.md\"> Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow.md\"> Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time.md\"> Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness.md\"> Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS.md\"> Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking.md\"> Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md\"> Wed. 0929 – Is Amazon’s Astro Robot… Ready </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehouse for Insurance.md\"> Data Warehouse for Insurance </a>",
@@ -4480,10 +4646,46 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/RIM - R Installation Manager CLI.md\"> RIM - R Installation Manager CLI </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/GitHub CLI.md\"> GitHub CLI </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - deeptriangle.md\"> R Package - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API HTTP Status Codes.md\"> REST API HTTP Status Codes </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API Resources.md\"> REST API Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Authentication in Azure Key Vault.md\"> Authentication in Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Agile Development.md\"> Agile Development </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Jupyter Ecosystem in the Cloud.md\"> Jupyter Ecosystem in the Cloud </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Note Taking and The Internet Best Practices.md\"> Note Taking and The Internet Best Practices </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md\"> Rinse and Repeat - Research, Read, Assimilate </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Knowledge Cycle.md\"> The Knowledge Cycle </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Visual Studio Code Notebooks Deepdive.md\"> Visual Studio Code Notebooks Deepdive </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-02.md\"> 2022-02-02 </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Code/Actuarial Claims Data - Simulation R Script.md\"> Actuarial Claims Data - Simulation R Script </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md\"> Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md\"> Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Office.md\"> Microsoft Office </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Visio.md\"> Microsoft Visio </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet.md\"> Prophet </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Sagemaker.md\"> AWS Sagemaker </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS CLI.md\"> AWS CLI </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS RDS.md\"> AWS RDS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Key Vault.md\"> Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snowflake.md\"> Snowflake </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Google Colaboratory.md\"> Google Colaboratory </a>",
+        "<a class=\"internal-link\" href=\"SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineers.md\"> Data Engineers </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Pipeline Complexities.md\"> Modern Data Pipeline Complexities </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md\"> Data Warehousing Concepts - Slowly Changing Dimensions </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-01.md\"> 2022-02-01 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
@@ -4497,44 +4699,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md\"> #447 Books I've Loved — Ann Miura-Ko-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md\"> #447 Books I've Loved — Ann Miura-Ko </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md\"> #485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md\"> #490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md\"> #493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md\"> #494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md\"> #634 How to Design Conversations That Matter-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md\"> #634 How to Design Conversations That Matter </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md\"> #88 Derek Sivers Innovation Versus Imitation-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md\"> #88 Derek Sivers Innovation Versus Imitation </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md\"> 27. The Underlying Technology Behind Fiat Standard </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md\"> 54. Listener questions #7 —  Big projects vs sub-projects and where to store support material </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md\"> 677 - The Art of Impossible With Steven Kotler! </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md\"> 68 Bits of Unsolicited Advice-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md\"> 68 Bits of Unsolicited Advice </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md\"> Austin Kleon on Writing, Creativity and the Importance of Idleness </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md\"> Borrowed Creativity </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md\"> Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md\"> Competitiveness and Mimetic Traps </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md\"> Ep. 108 —  LISTENER CALLS —  Becoming Productive </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4544,6 +4709,14 @@
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Data.md\"> Data </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/reserver/Workflows.md\"> Workflows </a>",
@@ -4586,68 +4759,60 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md\"> He Ran Across America — On Plants </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md\"> Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Find your finish line.md\"> Find your finish line </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Exponent 188 — Big Tech, Antitrust, and Democracy-2.md\"> Exponent 188 — Big Tech, Antitrust, and Democracy-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless.md\"> Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days.md\"> Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS.md\"> Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling.md\"> Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp).md\"> Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp) </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md\"> Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API Methods.md\"> REST API Methods </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Awesome R Package Development.md\"> Awesome R Package Development </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/R Package - deeptriangle.md\"> R Package - deeptriangle </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/REST API HTTP Status Codes.md\"> REST API HTTP Status Codes </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Authentication in Azure Key Vault.md\"> Authentication in Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Jupyter Ecosystem in the Cloud.md\"> Jupyter Ecosystem in the Cloud </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Note Taking and The Internet Best Practices.md\"> Note Taking and The Internet Best Practices </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Rinse and Repeat - Research, Read, Assimilate.md\"> Rinse and Repeat - Research, Read, Assimilate </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/The Knowledge Cycle.md\"> The Knowledge Cycle </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-02.md\"> 2022-02-02 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Actuarial Science.md\"> Actuarial Science </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Web Development.md\"> Web Development </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Code/Actuarial Claims Data - Simulation R Script.md\"> Actuarial Claims Data - Simulation R Script </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md\"> Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md\"> Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Office.md\"> Microsoft Office </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Microsoft Visio.md\"> Microsoft Visio </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet.md\"> Prophet </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Sagemaker.md\"> AWS Sagemaker </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS CLI.md\"> AWS CLI </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS RDS.md\"> AWS RDS </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Key Vault.md\"> Azure Key Vault </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snowflake.md\"> Snowflake </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Google Colaboratory.md\"> Google Colaboratory </a>",
+        "<a class=\"internal-link\" href=\"SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server.md\"> SQL Server </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineers.md\"> Data Engineers </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Pipeline Complexities.md\"> Modern Data Pipeline Complexities </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Data Engineering.md\"> Data Engineering </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md\"> Data Warehousing Concepts - Slowly Changing Dimensions </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
+        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD).md\"> #384 —  David Allen — The Art of Getting Things Done (GTD) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing.md\"> #401 —  Gary Keller — How to Focus on the One Important Thing </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More.md\"> #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More.md\"> #444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2.md\"> #447 Books I've Loved — Ann Miura-Ko-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko.md\"> #447 Books I've Loved — Ann Miura-Ko </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success.md\"> #485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals.md\"> #490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More.md\"> #493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More.md\"> #494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2.md\"> #634 How to Design Conversations That Matter-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter.md\"> #634 How to Design Conversations That Matter </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2.md\"> #88 Derek Sivers Innovation Versus Imitation-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation.md\"> #88 Derek Sivers Innovation Versus Imitation </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/113 —  ADHD and Cognitive Science, with Brittany Smith.md\"> 113 —  ADHD and Cognitive Science, with Brittany Smith </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/132 —  Willpower and Your Environment.md\"> 132 —  Willpower and Your Environment </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/27. The Underlying Technology Behind Fiat Standard.md\"> 27. The Underlying Technology Behind Fiat Standard </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material.md\"> 54. Listener questions #7 —  Big projects vs sub-projects and where to store support material </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/677 - The Art of Impossible With Steven Kotler!.md\"> 677 - The Art of Impossible With Steven Kotler! </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice-2.md\"> 68 Bits of Unsolicited Advice-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/68 Bits of Unsolicited Advice.md\"> 68 Bits of Unsolicited Advice </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Argo —  Kubernetes-Native Tools with Alex Collins.md\"> Argo —  Kubernetes-Native Tools with Alex Collins </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Austin Kleon on Writing, Creativity and the Importance of Idleness.md\"> Austin Kleon on Writing, Creativity and the Importance of Idleness </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2 </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS.md\"> Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Borrowed Creativity.md\"> Borrowed Creativity </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan.md\"> Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Competitiveness and Mimetic Traps.md\"> Competitiveness and Mimetic Traps </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Data Discovery with Shinji Kim.md\"> Data Discovery with Shinji Kim </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Dorie Clark on the power of Long Term Thinking.md\"> Dorie Clark on the power of Long Term Thinking </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 101 —  Does Productivity Impede the Deep Life.md\"> Ep. 101 —  Does Productivity Impede the Deep Life </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 108 —  LISTENER CALLS —  Becoming Productive.md\"> Ep. 108 —  LISTENER CALLS —  Becoming Productive </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 109 —  How Much Should I Read.md\"> Ep. 109 —  How Much Should I Read </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy.md\"> Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 125 —  What is Discipline (and How Do I Get It).md\"> Ep. 125 —  What is Discipline (and How Do I Get It) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth.md\"> Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS.md\"> Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon.md\"> Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS.md\"> Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS.md\"> Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth.md\"> Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-01.md\"> 2022-02-01 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",
@@ -4731,6 +4896,9 @@
         "<a class=\"internal-link\" href=\"3-Resources/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Unresolved-Links.md\"> Unresolved-Links </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Instapaper.md\"> Instapaper </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
       ]
     }

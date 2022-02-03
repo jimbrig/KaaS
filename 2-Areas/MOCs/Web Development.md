@@ -23,15 +23,18 @@ Alias: "Web Development"
 
 - [[API Architecture - Performance Best Practices]]
 - [[REST API Best Practices]]
-
-
+- [[API Design]]
+- [[API Authentication]]
+- [[REST API Methods]]
+- [[REST API HTTP Status Codes]]
+- [[REST API Resource Naming]]
 
 ## Dataviews
 
 ### Tagged as *Category/Web Development*
 
 ```dataview
-list from #Category/Web Development AND -"Templates" AND -"MOCs" AND -"Changelog"
+list from #Topic/Dev/APIs OR #Topic/Dev/WebDev AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```
 
 ### Links to this File

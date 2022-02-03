@@ -32,7 +32,7 @@ Alias: Tools
 -   [[SQL Server.md|SQL Server]]
 -   [[PowerShell Modules.md|PowerShell Modules]]
 -   [[RIM - R Installation Manager CLI.md|RIM - R Installation Manager CLI]]
--   [[Prophet Actuarial Tool.md|Prophet Actuarial Tool]]
+-   [[Prophet|Prophet Actuarial Tool]]
 -   [[Productivity Apps.md|Productivity Apps]]
 -   [[PowerShell Core.md|PowerShell Core]]
 -   [[powerlevel10k.md|powerlevel10k]]

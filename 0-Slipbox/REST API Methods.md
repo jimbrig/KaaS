@@ -114,6 +114,16 @@ There is a caveat about DELETE idempotence, however. Calling DELETE on a resourc
 -   _DELETE http://www.example.com/customers/12345/orders_
 -   _DELETE http://www.example.com/bucket/sample_
 
+***
+
+## Appendix: Links
+
+- [[Web Development#APIs]]
+- [[Development#Best Practices Guides How-To's and Setups]]
+- [[API Design]]
+- [[API Architecture - Performance Best Practices]]
+- [[REST API Best Practices|REST APIs]]
+
 *Backlinks:*
 
 ```dataview

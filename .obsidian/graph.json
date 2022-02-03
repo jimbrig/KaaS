@@ -1,22 +1,58 @@
 {
   "collapse-filter": false,
-  "search": "-file:Changelog -path:3-Resources/Templates -file:Unresolved-Links -file:Unlinked-Files -file:Tagless-Files",
+  "search": "-file:Changelog -path:3-Resources/Templates -file:Unresolved-Links -file:Unlinked-Files -file:Tagless-Files -path:3-Resources/Highlights",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:0-Slipbox",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:1-Projects",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:2-Areas",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:3-Resources",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:Type/MOC",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.8125,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14148812368384087,
-  "close": true
+  "scale": 0.2781028368953937,
+  "close": false
 }

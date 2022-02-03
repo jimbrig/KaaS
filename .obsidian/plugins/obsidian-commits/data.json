@@ -4438,13 +4438,18 @@
       "size": 0,
       "tags": 1,
       "links": 2
+    },
+    "Changelog.md": {
+      "size": 38052,
+      "tags": 0,
+      "links": 499
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1884,
-      "Create": 1838,
-      "Link": 3429,
+      "Refactor": 1886,
+      "Create": 1841,
+      "Link": 3430,
       "Expand": 159
     }
   },
@@ -4471,7 +4476,7 @@
       "18": 1299,
       "19": 1760,
       "20": 412,
-      "21": 131,
+      "21": 137,
       "22": 71,
       "23": 90
     }
@@ -4480,7 +4485,7 @@
     "/": {
       "Mon": 312,
       "Tue": 311,
-      "Wed": 1557,
+      "Wed": 1563,
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
@@ -4543,6 +4548,9 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Visual Studio Code Notebooks Deepdive.md\"> Visual Studio Code Notebooks Deepdive </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/The Knowledge Cycle.md\"> The Knowledge Cycle </a>",
@@ -4590,10 +4598,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
-        "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Why Can't I Complete All My Daily Tasks.md\"> Why Can't I Complete All My Daily Tasks </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS.md\"> Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Wed. 0929 – Is Amazon’s Astro Robot… Ready.md\"> Wed. 0929 – Is Amazon’s Astro Robot… Ready </a>"
+        "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
@@ -4711,6 +4716,8 @@
       "Deleted": [
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet Actuarial Tool.md\"> Prophet Actuarial Tool </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Packge - deeptriangle.md\"> R Packge - deeptriangle </a>",
         "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
@@ -4757,11 +4764,10 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Laurie Santos, PhD  Simple Ways to Live a Happier Life.md\"> Laurie Santos, PhD  Simple Ways to Live a Happier Life </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Jaime Masters on Focus, Flow, Time Tracking and Nootropics.md\"> Jaime Masters on Focus, Flow, Time Tracking and Nootropics </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Infrastructure as Code with Christian Tragesser.md\"> Infrastructure as Code with Christian Tragesser </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/He Ran Across America — On Plants.md\"> He Ran Across America — On Plants </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job.md\"> Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R Package Development Resources.md\"> R Package Development Resources </a>",
@@ -4811,8 +4817,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

@@ -4443,19 +4443,24 @@
       "size": 38052,
       "tags": 0,
       "links": 499
+    },
+    "0-Slipbox/Untitled 1.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1886,
-      "Create": 1841,
+      "Create": 1842,
       "Link": 3431,
       "Expand": 159
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 36,
+      "0": 37,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4486,7 +4491,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2027,
+      "Thu": 2028,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4548,6 +4553,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Cataloging.md\"> Data Cataloging </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
@@ -4597,8 +4603,7 @@
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>",
-        "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
-        "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>"
+        "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",

@@ -1,3 +1,4 @@
+- 2022-02-03 at 00h22 · [[Improve Productivity through Clarification and Communication]]
 - 2022-02-02 at 21h20 · [[List of Python Flask Resources]]
 - 2022-02-02 at 21h13 · [[Readwise Syncs]]
 - 2022-02-02 at 21h12 · [[SQL Server - DBA MultiTool]]
@@ -497,4 +498,3 @@
 - 2022-01-30 at 19h34 · [[Audiobook Review David Allen's GTD  Weekly Review]]
 - 2022-01-30 at 19h34 · [[Assign Global Hotkeys to Launch Any App in Windows 10]]
 - 2022-01-30 at 19h34 · [[Are You Making This GTD Mistake - Asian Efficiency]]
-- 2022-01-30 at 19h34 · [[Archivist and GitHub Integration Archivist.github]]

@@ -1592,7 +1592,7 @@
     "0-Slipbox/R on the Web - List of Links.md": {
       "size": 10481,
       "tags": 2,
-      "links": 0
+      "links": 4
     },
     "2-Areas/Daily-Notes/2022-01-27.md": {
       "size": 0,
@@ -1867,7 +1867,7 @@
     "3-Resources/Embeds/dbDiagram.md": {
       "size": 0,
       "tags": 1,
-      "links": 0
+      "links": 5
     },
     "3-Resources/Templates/Embed-Template.md": {
       "size": 0,
@@ -4454,13 +4454,13 @@
     "/": {
       "Refactor": 1886,
       "Create": 1842,
-      "Link": 3436,
+      "Link": 3438,
       "Expand": 159
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 42,
+      "0": 44,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4491,7 +4491,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2033,
+      "Thu": 2035,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4772,6 +4772,8 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Embeds/dbDiagram.md\"> dbDiagram </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Annual Goals and Life Domains.md\"> Annual Goals and Life Domains </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Project Documentation Naming Conventions and Repository Guidelines.md\"> Project Documentation Naming Conventions and Repository Guidelines </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Improve Productivity through Clarification and Communication.md\"> Improve Productivity through Clarification and Communication </a>",
@@ -4820,9 +4822,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-01.md\"> 2022-02-01 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

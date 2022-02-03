@@ -1,4 +1,4 @@
-- 2022-02-03 at 00h36 · [[SQL Server List of Tools and Scripts]]
+- 2022-02-03 at 00h40 · [[SQL Server List of Tools and Scripts]]
 - 2022-02-03 at 00h31 · [[PowerShell]]
 - 2022-02-03 at 00h31 · [[Alteryx vs Code]]
 - 2022-02-03 at 00h30 · [[R on the Web - List of Links]]

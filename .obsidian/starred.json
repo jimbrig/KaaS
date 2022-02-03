@@ -24,6 +24,11 @@
       "type": "file",
       "title": "The Ultimate Guide to an Effective Weekly Review",
       "path": "3-Resources/PDFs/The Ultimate Guide to an Effective Weekly Review.pdf"
+    },
+    {
+      "type": "file",
+      "title": "SQL Server List of Tools and Scripts",
+      "path": "3-Resources/Tools/SQL Server List of Tools and Scripts.md"
     }
   ]
 }

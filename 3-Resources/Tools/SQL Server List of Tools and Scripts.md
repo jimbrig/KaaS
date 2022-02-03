@@ -162,8 +162,20 @@ Micosoft curates a list of first and third party extensions [here][ads-extension
 
 ***
 
+## Appendix: Links
+
+- [[SQL Server]]
+- [[Microsoft]]
+- [[SQL]]
+- [[T-SQL]]
+- [[3-Resources/Tools/_README|Tools]]
+- [[Databases]]
+- [[Data Engineering]]
+- [[Development]]
+- [[Data Science]]
+
 *Backlinks:*
 
 ```dataview
-list from [[Untitled]] AND -"Changelog"
+list from [[SQL Server List of Tools and Scripts]] AND -"Changelog"
 ```

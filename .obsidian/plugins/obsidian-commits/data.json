@@ -1187,7 +1187,7 @@
     "0-Slipbox/List of Python Flask Resources.md": {
       "size": 17156,
       "tags": 2,
-      "links": 52
+      "links": 56
     },
     "2-Areas/Daily-Notes/2021-12-07.md": {
       "size": 0,
@@ -4449,7 +4449,7 @@
     "/": {
       "Refactor": 1886,
       "Create": 1841,
-      "Link": 3430,
+      "Link": 3431,
       "Expand": 159
     }
   },
@@ -4476,7 +4476,7 @@
       "18": 1299,
       "19": 1760,
       "20": 412,
-      "21": 137,
+      "21": 138,
       "22": 71,
       "23": 90
     }
@@ -4485,7 +4485,7 @@
     "/": {
       "Mon": 312,
       "Tue": 311,
-      "Wed": 1563,
+      "Wed": 1564,
       "Thu": 2027,
       "Fri": 565,
       "Sat": 0,
@@ -4767,6 +4767,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/List of Python Flask Resources.md\"> List of Python Flask Resources </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Collectors Fallacy.md\"> Collectors Fallacy </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Developer Notebooks.md\"> Developer Notebooks </a>",
@@ -4816,8 +4817,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Dictionary/Polymath.md\"> Polymath </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

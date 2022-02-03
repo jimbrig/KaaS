@@ -4453,19 +4453,24 @@
       "size": 10476,
       "tags": 3,
       "links": 20
+    },
+    "3-Resources/Embeds/thiscodeWorks Code Snippets.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1887,
-      "Create": 1843,
-      "Link": 3441,
+      "Refactor": 1888,
+      "Create": 1844,
+      "Link": 3442,
       "Expand": 160
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 50,
+      "0": 53,
       "1": 1976,
       "2": 9,
       "3": 0,
@@ -4496,7 +4501,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2041,
+      "Thu": 2044,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4559,6 +4564,7 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled 1.md\"> Untitled 1 </a>",
         "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
@@ -4607,10 +4613,10 @@
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Data.md\"> Data </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Application and API.md\"> Application and API </a>"
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"3-Resources/Embeds/thiscodeWorks Code Snippets.md\"> thiscodeWorks Code Snippets </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
@@ -4660,10 +4666,10 @@
         "<a class=\"internal-link\" href=\"2-Areas/Meta/Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"2-Areas/Tagless-Files.md\"> Tagless-Files </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/PowerShell Core.md\"> PowerShell Core </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/CLI Tools.md\"> CLI Tools </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"thiscodeWorks Code Snippets.md\"> thiscodeWorks Code Snippets </a>",
         "<a class=\"internal-link\" href=\"SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Improve Productivity through Clarification and Communication.md\"> Improve Productivity through Clarification and Communication </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Actuarial Data Science and Financial Modeling with Microsoft Azure.md\"> Actuarial Data Science and Financial Modeling with Microsoft Azure </a>",
@@ -4713,8 +4719,7 @@
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog.md\"> #23 Nat Eliason on Starting a Life-Changing Blog </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",

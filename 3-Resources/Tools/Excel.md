@@ -12,7 +12,7 @@ Alias: ["Excel"]
 ## Appendix: Related
 
 - [[Tools]]
-- [[Excel Automation Resources]]
+- [[Excel Automation Resources 1]]
 
 *Backlinks:*
 

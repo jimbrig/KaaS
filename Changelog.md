@@ -6,7 +6,7 @@
 - 2022-02-03 at 22h56 · [[A New Year Is a Beautiful Fresh Start]]
 - 2022-02-03 at 22h56 · [[A Hierarchy First Approach to Note Taking]]
 - 2022-02-03 at 22h56 · [[9 Tricks for Boosting SQL Query Performance]]
-- 2022-02-03 at 22h56 · [[9 Tips to Get More Out of Your Calendar [PMP #177]]]
+- 2022-02-03 at 22h56 · [[9 Tips to Get More Out of Your Calendar [PMP #177]]
 - 2022-02-03 at 22h56 · [[9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager]]
 - 2022-02-03 at 22h56 · [[8 Ways to Free Up RAM on Your Windows Computer]]
 - 2022-02-03 at 22h56 · [[8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry]]

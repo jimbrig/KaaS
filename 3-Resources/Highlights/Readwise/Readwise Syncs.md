@@ -36,7 +36,19 @@
 
 - [[2022-01-31]] 11:51 PM — Synced 0 highlights from 0 documents.
 
+<<<<<<< HEAD
+- [[2022-02-02]] 9:07 PM — Synced 0 highlights from 0 documents.
+
+=======
+>>>>>>> develop
 - [[2022-02-01]] 4:24 PM — Synced 30 highlights from 2 documents.
     - 27 highlights from Data Engineering and Its Main Concepts: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role
     - 3 highlights from Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud
+
+- [[2022-02-03]] 7:14 PM — Synced 50 highlights from 5 documents.
+    - 20 highlights from What Is Data Modeling?
+    - 4 highlights from 4 Modern Tools to Automate Manual Spreadsheet Work
+    - 13 highlights from How to Choose Data Models and Databases for Your Use Case
+    - 3 highlights from Build Data Warehouse Using Talend
+    - 10 highlights from Change Data Capture in DWBI
 

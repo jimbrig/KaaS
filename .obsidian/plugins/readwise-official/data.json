@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2727495,
+  "lastSavedStatusID": 2742835,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -18,7 +18,12 @@
     "3-Resources/Highlights/Readwise/Articles/How to Use SQL Subqueries.md": "13248876",
     "3-Resources/Highlights/Readwise/Articles/How to Build a Data Warehouse for the Insurance Industry.md": "13279187",
     "3-Resources/Highlights/Readwise/Articles/Data Engineering and Its Main Concepts Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role.md": "13326635",
-    "3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md": "13327566"
+    "3-Resources/Highlights/Readwise/Articles/Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud.md": "13327566",
+    "3-Resources/Highlights/Readwise/Articles/What Is Data Modeling.md": "13365239",
+    "3-Resources/Highlights/Readwise/Articles/4 Modern Tools to Automate Manual Spreadsheet Work.md": "13365241",
+    "3-Resources/Highlights/Readwise/Articles/How to Choose Data Models and Databases for Your Use Case.md": "13365242",
+    "3-Resources/Highlights/Readwise/Articles/Build Data Warehouse Using Talend.md": "13365243",
+    "3-Resources/Highlights/Readwise/Articles/Change Data Capture in DWBI.md": "13365244"
   },
   "reimportShowConfirmation": true
 }

@@ -44,3 +44,11 @@ SMARTER: ?
 
 *Best goals are risky and exciting.*
 
+
+- [[Productivity]]
+- [[2-Areas/Mindsweeps/_README|Mindsweeps]]
+- [[Reflection]]
+- [[Full Focus Planner]]
+- [[Michael Hyatt]]
+- [[GTD]]
+

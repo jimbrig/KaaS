@@ -44,6 +44,12 @@ GO
 
 
 
+***
+
+## Appendix: Links
+
+- [[SQL Server - DBA MultiTool]]
+
 
 
 

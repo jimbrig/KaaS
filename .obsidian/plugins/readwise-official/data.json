@@ -3,7 +3,7 @@
   "readwiseDir": "3-Resources/Highlights/Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
   "lastSavedStatusID": 2743687,
   "currentSyncStatusID": 0,

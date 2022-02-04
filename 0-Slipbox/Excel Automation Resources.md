@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-03
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List"]
+Tags: ["#Type/List", "#Topic/Productivity/Tools", "#Topic/Windows/Office"]
 Alias: Excel Automation Resources
 ---
 
@@ -22,6 +22,15 @@ Alias: Excel Automation Resources
 
 
 ***
+
+## Appendix: Links
+
+- [[Excel]]
+- [[Microsoft Office]]
+- [[Productivity]]
+- [[Excel VBA]]
+- [[3-Resources/Tools/_README|Tools]]
+- [[Spreadsheets]]
 
 *Backlinks:*
 

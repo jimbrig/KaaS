@@ -4458,13 +4458,18 @@
       "size": 0,
       "tags": 1,
       "links": 0
+    },
+    "2-Areas/Daily-Notes/2022-02-03.md": {
+      "size": 358,
+      "tags": 1,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1888,
-      "Create": 1844,
-      "Link": 3442,
+      "Create": 1845,
+      "Link": 3444,
       "Expand": 160
     }
   },
@@ -4493,7 +4498,7 @@
       "20": 412,
       "21": 138,
       "22": 71,
-      "23": 90
+      "23": 93
     }
   },
   "weeklyCommits": {
@@ -4501,7 +4506,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2044,
+      "Thu": 2047,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4563,6 +4568,7 @@
         "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-03.md\"> 2022-02-03 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Untitled 1.md\"> Untitled 1 </a>",
@@ -4612,8 +4618,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Goals/2022 Areas of Focus and Goal Planning.md\"> 2022 Areas of Focus and Goal Planning </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/_README.md\"> _README </a>",
         "<a class=\"internal-link\" href=\"1-Projects/lossrx/Data.md\"> Data </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>",
-        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Functions.md\"> Functions </a>"
+        "<a class=\"internal-link\" href=\"1-Projects/lossrx/Workflows.md\"> Workflows </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/thiscodeWorks Code Snippets.md\"> thiscodeWorks Code Snippets </a>",
@@ -4669,6 +4674,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-03.md\"> 2022-02-03 </a>",
         "<a class=\"internal-link\" href=\"thiscodeWorks Code Snippets.md\"> thiscodeWorks Code Snippets </a>",
         "<a class=\"internal-link\" href=\"SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Improve Productivity through Clarification and Communication.md\"> Improve Productivity through Clarification and Communication </a>",
@@ -4718,8 +4724,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Code/SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
         "<a class=\"internal-link\" href=\"SQL Server System Functions.md\"> SQL Server System Functions </a>",
         "<a class=\"internal-link\" href=\"SQL Server Useful Queries.md\"> SQL Server Useful Queries </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons.md\"> #110 —  How to Clear Your Calendar in Your Busiest Seasons </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming.md\"> #101 Jane McGonigal The Psychology of Gaming </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4782,6 +4787,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-03.md\"> 2022-02-03 </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/R on the Web - List of Links.md\"> R on the Web - List of Links </a>",
@@ -4831,8 +4837,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Dimensional Modeling.md\"> Dimensional Modeling </a>",
         "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/ETL.md\"> ETL </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

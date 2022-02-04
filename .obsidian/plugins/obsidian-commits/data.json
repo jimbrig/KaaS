@@ -745,9 +745,9 @@
       "links": 5
     },
     "2-Areas/MOCs/Databases.md": {
-      "size": 0,
+      "size": 3183,
       "tags": 1,
-      "links": 0
+      "links": 72
     },
     "2-Areas/MOCs/Finance.md": {
       "size": 0,
@@ -1400,9 +1400,9 @@
       "links": 3
     },
     "3-Resources/Highlights/Readwise/Readwise Syncs.md": {
-      "size": 2207,
+      "size": 2606,
       "tags": 0,
-      "links": 12
+      "links": 13
     },
     "0-Slipbox/R - Connect Shiny to PostgreSQL Database.md": {
       "size": 2242,
@@ -4523,14 +4523,29 @@
       "size": 290,
       "tags": 1,
       "links": 2
+    },
+    "0-Slipbox/Excel Automation Resources.md": {
+      "size": 1807,
+      "tags": 3,
+      "links": 6
+    },
+    "0-Slipbox/Primary Key Constraints in Relational Databases.md": {
+      "size": 3069,
+      "tags": 3,
+      "links": 7
+    },
+    "0-Slipbox/Foreign Key Constraints in Relational Databases.md": {
+      "size": 13659,
+      "tags": 4,
+      "links": 15
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 1888,
-      "Create": 1857,
-      "Link": 3465,
-      "Expand": 160
+      "Create": 1860,
+      "Link": 3473,
+      "Expand": 162
     }
   },
   "dailyCommits": {
@@ -4558,7 +4573,7 @@
       "20": 412,
       "21": 138,
       "22": 71,
-      "23": 126
+      "23": 139
     }
   },
   "weeklyCommits": {
@@ -4566,7 +4581,7 @@
       "Mon": 312,
       "Tue": 311,
       "Wed": 1564,
-      "Thu": 2080,
+      "Thu": 2093,
       "Fri": 565,
       "Sat": 0,
       "Sun": 2538
@@ -4575,6 +4590,8 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Databases.md\"> Databases </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"SQL Server List of Tools and Scripts.md\"> SQL Server List of Tools and Scripts </a>",
         "<a class=\"internal-link\" href=\"2-Areas/MOCs/Actuarial Science.md\"> Actuarial Science </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
@@ -4623,11 +4640,12 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Ten Step GTD Setup List.md\"> Ten Step GTD Setup List </a>",
-        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>",
-        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>",
-        "<a class=\"internal-link\" href=\"Data Warehousing Roadmap.md\"> Data Warehousing Roadmap </a>"
+        "<a class=\"internal-link\" href=\"Data Engineering Master List of Resources.md\"> Data Engineering Master List of Resources </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Foreign Key Constraints in Relational Databases.md\"> Foreign Key Constraints in Relational Databases </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Primary Key Constraints in Relational Databases.md\"> Primary Key Constraints in Relational Databases </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Excel Automation Resources.md\"> Excel Automation Resources </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Excel.md\"> Excel </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/CHECK Constraints in Relational Databases.md\"> CHECK Constraints in Relational Databases </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Database Design Best Practices.md\"> Database Design Best Practices </a>",
@@ -4675,10 +4693,7 @@
         "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-02.md\"> 2022-02-02 </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineers.md\"> Data Engineers </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Pipeline Complexities.md\"> Modern Data Pipeline Complexities </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Warehousing Concepts - Slowly Changing Dimensions.md\"> Data Warehousing Concepts - Slowly Changing Dimensions </a>",
-        "<a class=\"internal-link\" href=\"Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>"
+        "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3-Resources/Embeds/thiscodeWorks Code Snippets.md\"> thiscodeWorks Code Snippets </a>",
@@ -4734,6 +4749,9 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Windows PowerShell.md\"> Windows PowerShell </a>"
       ],
       "Tagged": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Foreign Key Constraints in Relational Databases.md\"> Foreign Key Constraints in Relational Databases </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Excel Automation Resources.md\"> Excel Automation Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Primary Key Constraints in Relational Databases.md\"> Primary Key Constraints in Relational Databases </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Definition Language.md\"> Data Definition Language </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Database Design Best Practices.md\"> Database Design Best Practices </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/CHECK Constraints in Relational Databases.md\"> CHECK Constraints in Relational Databases </a>",
@@ -4781,10 +4799,7 @@
         "<a class=\"internal-link\" href=\"0-Slipbox/Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
         "<a class=\"internal-link\" href=\"0-Slipbox/Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
         "<a class=\"internal-link\" href=\"Modern Data Integration - Data Engineering.md\"> Modern Data Integration - Data Engineering </a>",
-        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>",
-        "<a class=\"internal-link\" href=\"0-Slipbox/Data Engineering and Its Main Concepts.md\"> Data Engineering and Its Main Concepts </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-02-01.md\"> 2022-02-01 </a>",
-        "<a class=\"internal-link\" href=\"2-Areas/Daily-Notes/2022-01-31.md\"> 2022-01-31 </a>"
+        "<a class=\"internal-link\" href=\"Data Pipeline Architecture.md\"> Data Pipeline Architecture </a>"
       ],
       "Refactored": [
         "<a class=\"internal-link\" href=\"Slipbox/Loss Data Analytics.md\"> Loss Data Analytics </a>",
@@ -4847,6 +4862,11 @@
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Podcasts/How To Recover From A Bad Day (TPS374).md\"> How To Recover From A Bad Day (TPS374) </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"0-Slipbox/Foreign Key Constraints in Relational Databases.md\"> Foreign Key Constraints in Relational Databases </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Excel Automation Resources.md\"> Excel Automation Resources </a>",
+        "<a class=\"internal-link\" href=\"0-Slipbox/Primary Key Constraints in Relational Databases.md\"> Primary Key Constraints in Relational Databases </a>",
+        "<a class=\"internal-link\" href=\"2-Areas/MOCs/Databases.md\"> Databases </a>",
+        "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Readwise Syncs.md\"> Readwise Syncs </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/Build Data Warehouse Using Talend.md\"> Build Data Warehouse Using Talend </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/4 Modern Tools to Automate Manual Spreadsheet Work.md\"> 4 Modern Tools to Automate Manual Spreadsheet Work </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Highlights/Readwise/Articles/How to Choose Data Models and Databases for Your Use Case.md\"> How to Choose Data Models and Databases for Your Use Case </a>",
@@ -4892,12 +4912,7 @@
         "<a class=\"internal-link\" href=\"3-Resources/Tools/Prophet.md\"> Prophet </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS Sagemaker.md\"> AWS Sagemaker </a>",
         "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS CLI.md\"> AWS CLI </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS RDS.md\"> AWS RDS </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Azure Key Vault.md\"> Azure Key Vault </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Snowflake.md\"> Snowflake </a>",
-        "<a class=\"internal-link\" href=\"3-Resources/Tools/Google Colaboratory.md\"> Google Colaboratory </a>",
-        "<a class=\"internal-link\" href=\"SQL Server - DBA MultiTool.md\"> SQL Server - DBA MultiTool </a>",
-        "<a class=\"internal-link\" href=\"Changelog.md\"> Changelog </a>"
+        "<a class=\"internal-link\" href=\"3-Resources/Tools/AWS RDS.md\"> AWS RDS </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Resources/Highlights/Readwise/Articles/The Official Guide to Using Todoist Build Your Perfect Productivity Workfl.md\"> The Official Guide to Using Todoist Build Your Perfect Productivity Workfl </a>",

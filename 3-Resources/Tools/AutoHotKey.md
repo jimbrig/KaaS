@@ -1,20 +1,17 @@
 ---
-Date: 2022-02-03
+Date: 2022-02-04
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["Excel", "Microsoft Excel"]
+Alias: ["AutoHotKey"]
 ---
 
-# Excel
-
-Excel 
+# AutoHotKey
 
 ***
 
 ## Appendix: Related
 
 - [[Tools]]
-- [[Excel Automation Resources 1]]
 
 *Backlinks:*
 

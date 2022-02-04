@@ -7,7 +7,7 @@ Alias: "Project Documentation Naming Conventions and Repository Guidelines"
 
 # Project Documentation Naming Conventions and Repository Guidelines
 
-*Source: [guide_repositorysetupandnamingconv.doc (live.com)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fregents.ohio.gov%2Fobrpmcop%2Fforms%2Fguidelines%2Fguide_repositorysetupandnamingconv.doc&wdOrigin=BROWSELINK)*
+*Source: [[Project Documentation Naming Conventions and Repository Guidelines.pdf]]*
 
 ## Purpose
 

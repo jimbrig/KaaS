@@ -3,9 +3,9 @@
   "readwiseDir": "3-Resources/Highlights/Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2742835,
+  "lastSavedStatusID": 2743687,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -23,7 +23,10 @@
     "3-Resources/Highlights/Readwise/Articles/4 Modern Tools to Automate Manual Spreadsheet Work.md": "13365241",
     "3-Resources/Highlights/Readwise/Articles/How to Choose Data Models and Databases for Your Use Case.md": "13365242",
     "3-Resources/Highlights/Readwise/Articles/Build Data Warehouse Using Talend.md": "13365243",
-    "3-Resources/Highlights/Readwise/Articles/Change Data Capture in DWBI.md": "13365244"
+    "3-Resources/Highlights/Readwise/Articles/Change Data Capture in DWBI.md": "13365244",
+    "3-Resources/Highlights/Readwise/Articles/6 Months a Data Engineer….md": "13385862",
+    "3-Resources/Highlights/Readwise/Articles/What in the World Is Data Engineering.md": "13385863",
+    "3-Resources/Highlights/Readwise/Articles/The Best  Git Workflow for Your Software Engineering Team.md": "13385864"
   },
   "reimportShowConfirmation": true
 }

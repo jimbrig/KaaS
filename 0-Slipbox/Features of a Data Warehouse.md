@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-17
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/DataScience"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
 Alias: "Features of a Data Warehouse"
 ---
 

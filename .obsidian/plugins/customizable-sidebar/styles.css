@@ -32,3 +32,26 @@ a[href="https://www.buymeacoffee.com/phibr0"]{
     width: var(--workspace-drawer-ribbon-width) !important;
     margin-top: 50px;
 } */
+
+body.is-mobile .pin-sidebar {
+	display: none;
+}
+body:not(.is-mobile) .pin-sidebar {
+	padding: 8px 6px;
+	cursor: pointer;
+}
+body:not(.is-mobile) .pin-sidebar.is-pinned {
+	color: var(--interactive-accent);
+}
+body:not(.is-mobile) .mod-left-split.is-floating,
+body:not(.is-mobile) .mod-right-split.is-floating {
+	position: absolute;
+	z-index: var(--layer-sidedock);
+}
+/** Based on ribbon width of default theme */
+body:not(.is-mobile) .mod-left-split.is-floating {
+	left: 30px;
+}
+body:not(.is-mobile) .mod-right-split.is-floating {
+	right: 30px;
+}

@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags: ["#Type/Slipbox", "#Topic/Productivity/GTD"]
 Alias: "<% tp.file.title %>"
 ---
 
@@ -9,11 +9,10 @@ Alias: "<% tp.file.title %>"
 
 ***
 
-#### Related
+## Appendix: Links
 
-- [[Development]]
-- [[Python]]
-
+- [[Productivity]]
+- [[GTD]]
 
 *Backlinks:*
 

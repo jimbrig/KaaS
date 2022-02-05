@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
+Tags: ["#Type/Slipbox", "#Topic/PKM"]
 Alias: "<% tp.file.title %>"
 ---
 
@@ -11,7 +11,10 @@ Alias: "<% tp.file.title %>"
 
 ## Appendix: Links
 
-- 
+- [[Development]]
+- [[CLI Tools]]
+- [[Command Line]]
+
 
 *Backlinks:*
 

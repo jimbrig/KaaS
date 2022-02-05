@@ -114,7 +114,8 @@
     "Highcharter",
     "Vue",
     "Visio",
-    "Transactional"
+    "Transactional",
+    "Slipbox"
   ],
   "livePreview": true,
   "legacyEditor": true,

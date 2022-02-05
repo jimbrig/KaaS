@@ -11,16 +11,33 @@ Topic:: #Topic/Dev/APIs
 
 # API Authentication
 
+## Basic Authentication
 
-## Basic Auth
+## API Key
 
-## JWTs
+## Bearer Tokens
+
+## Cookies and Sessions
+
+## Two-Factor Authentication
+
+## oAuth
+
+## oAuth2
+
+## 
+
+
+
+## JSON Web Tokens (JWTs)
 
 ## Request Headers
 
+
+
 ***
 
-
+## Appendix: Links
 
 *Backlinks:*
 

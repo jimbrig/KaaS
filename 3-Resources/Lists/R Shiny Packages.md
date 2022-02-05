@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List"]
+Tags: ["#Type/List", "#Topic/Dev/R"]
 Alias: R Shiny Packages
 ---
 

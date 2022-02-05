@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
+Tags: ["#Type/Slipbox", "#Topic/Productivity"]
 Alias: "<% tp.file.title %>"
 ---
 
@@ -9,10 +9,9 @@ Alias: "<% tp.file.title %>"
 
 ***
 
-#### Related
+## Appendix: Links
 
-- [[Development]]
-- [[Actuarial Science]]
+- [[Productivity]]
 
 
 *Backlinks:*

@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud"]
 Alias: "<% tp.file.title %>"
 ---
 
@@ -11,7 +11,9 @@ Alias: "<% tp.file.title %>"
 
 ## Appendix: Links
 
-- 
+- [[Development]]
+- [[Cloud Computing]]
+
 
 *Backlinks:*
 

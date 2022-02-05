@@ -1,3 +1,5 @@
+- 2022-02-04 at 21h35 · [[Tools]]
+- 2022-02-04 at 21h32 · [[How To Properly Manage Your Time - Modern Wisdom]]
 - 2022-02-04 at 21h29 · [[Workflows]]
 - 2022-02-04 at 21h29 · [[Ten Step GTD Setup List]]
 - 2022-02-04 at 21h29 · [[Unresolved-Links]]
@@ -496,5 +498,3 @@
 - 2022-02-04 at 20h40 · [[7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff]]
 - 2022-02-04 at 20h40 · [[62 Productive Things to Do When Bored at Home]]
 - 2022-02-04 at 20h40 · [[6 YAML Features Most Programmers Don’t Know]]
-- 2022-02-04 at 20h40 · [[6 Windows Apps That Automatically Organize Files for You]]
-- 2022-02-04 at 20h40 · [[6 Months a Data Engineer…]]

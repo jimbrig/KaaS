@@ -16,5 +16,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[Tool-Template]] AND -"Changelog"
+list from [[<% tp.file.title %>]] AND -"Changelog"
 ```

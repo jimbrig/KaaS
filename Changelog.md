@@ -1,3 +1,4 @@
+- 2022-02-05 at 23h00 · [[CAS - Casualty Actuarial Society]]
 - 2022-02-05 at 22h55 · [[R Package - keyring]]
 - 2022-02-05 at 22h55 · [[R Package - config]]
 - 2022-02-05 at 22h55 · [[R Package - rscontract]]
@@ -135,7 +136,6 @@
 - 2022-02-04 at 21h27 · [[List-Template]]
 - 2022-02-04 at 21h26 · [[Functions]]
 - 2022-02-04 at 21h26 · [[Data]]
-- 2022-02-04 at 21h26 · [[CAS - Casualty Actuarial Society]]
 - 2022-02-04 at 21h25 · [[Application and API]]
 - 2022-02-04 at 21h25 · [[Advanced Programming Concepts]]
 - 2022-02-04 at 21h24 · [[Actuarial Development Master Resource List]]

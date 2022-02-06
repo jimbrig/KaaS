@@ -1,3 +1,5 @@
+- 2022-02-05 at 23h16 · [[README]]
+- 2022-02-05 at 23h08 · [[R]]
 - 2022-02-05 at 23h07 · [[_README]]
 - 2022-02-05 at 23h03 · [[REST API HTTP Status Codes]]
 - 2022-02-05 at 23h02 · [[Azure Setup Guide]]
@@ -496,5 +498,3 @@
 - 2022-02-04 at 20h40 · [[How to Be More Productive Build a System and 10x Your Output - The Monk Life]]
 - 2022-02-04 at 20h40 · [[How to Be More Organized Declutter, Take Control, and Achieve More at Work]]
 - 2022-02-04 at 20h40 · [[How to Be Mentally Strong - James Altucher]]
-- 2022-02-04 at 20h40 · [[How to Automate Your Project and Github Repo Setup From the Command Line]]
-- 2022-02-04 at 20h40 · [[How to Achieve Your Daily Goals]]

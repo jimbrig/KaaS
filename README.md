@@ -7,7 +7,7 @@ Tags: ["#Type/Readme"]
 
 # KaaS - Knowledge as a Service
 
-*[KaaS - Obsidian Publish](https://publish.obsidian.md/kaas/README) | [KaaS (jimbrig.github.io)](https://jimbrig.github.io/KaaS-New/)*
+*[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)](https://publish.obsidian.md/kaas/README) | [KaaS - GitHub Pages (kaas.jimbrig.com)](http://kaas.jimbrig.com/)*
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 

@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
+Tags: ["#Type/Tool/RPackage", "#Topic/Dev/R"]
 Alias: ["R Package - DBI", "DBI"]
 ---
 
@@ -149,6 +149,7 @@ All classes are *virtual*: they cannot be instantiated directly and instead must
 
 ## Appendix: Links
 
+- [[Tools]]
 - [[Development]]
 - [[R]]
 - [[Databases]]

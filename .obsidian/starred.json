@@ -28,7 +28,12 @@
     {
       "type": "file",
       "title": "SQL Server List of Tools and Scripts",
-      "path": "3-Resources/Lists/SQL Server List of Tools and Scripts.md"
+      "path": "2-Areas/Lists/SQL Server List of Tools and Scripts.md"
+    },
+    {
+      "type": "file",
+      "title": "R Database Packages",
+      "path": "2-Areas/Lists/R Database Packages.md"
     }
   ]
 }

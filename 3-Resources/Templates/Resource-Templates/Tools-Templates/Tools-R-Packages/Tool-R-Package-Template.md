@@ -1,17 +1,23 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Tool/RPackage", "#Topic/Dev/R", "#Type/Tool"]
+Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 ---
 
 # <% tp.file.title %>
 
+*Source: `<GitHub Repo>`*
+
 ***
 
-## Appendix: Related
+## Appendix: Links
 
 - [[Tools]]
+- [[Development]]
+- [[R]]
+- [[R Packages]]
+
 
 *Backlinks:*
 

@@ -9,7 +9,6 @@
 - 2022-02-05 at 22h44 · [[R Package - dbx]]
 - 2022-02-05 at 22h42 · [[R Package - SciDB]]
 - 2022-02-05 at 22h38 · [[R Package - RMariaDB]]
-- 2022-02-05 at 22h33 · [[R Package dbr]]
 - 2022-02-05 at 22h32 · [[GitHub]]
 - 2022-02-05 at 22h30 · [[R Package - influxdb]]
 - 2022-02-05 at 22h29 · [[Database Management System (DBMS)]]
@@ -498,3 +497,4 @@
 - 2022-02-04 at 20h40 · [[How to Achieve Your Daily Goals]]
 - 2022-02-04 at 20h40 · [[How the Web Works]]
 - 2022-02-04 at 20h40 · [[How I Use Evernote to Organize Client Projects]]
+- 2022-02-04 at 20h40 · [[How I Organize My Knowledge as a Software Engineer]]

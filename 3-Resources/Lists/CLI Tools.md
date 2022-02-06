@@ -67,7 +67,7 @@ Alias: CLI Tools
 - [[ps2exe]]
 - [[keeper commander]]
 - [[docker]]
-- [[dotnet]]
+- [[DotNet]]
 - [[minikube]]
 - [[obsidian-export]]
 - [[mkdocs]]

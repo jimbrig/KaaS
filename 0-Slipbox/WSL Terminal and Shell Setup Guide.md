@@ -8,7 +8,7 @@ Alias: "WSL Terminal and Shell Setup Guide"
 # WSL Terminal and Shell Setup Guide
 
 - Terminal Emulator: [[Microsoft Windows Terminal]] (Preview)
-- Shell: [[ZSH]] (or z-shell) + [[oh-my-zsh]]
+- Shell: [[zsh]] (or z-shell) + [[oh-my-zsh]]
 - Theme: [[powerlevel10k]] + a [[Nerdfont]]
 
 ## Install Zsh

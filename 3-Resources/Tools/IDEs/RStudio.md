@@ -1,11 +1,11 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: []
+Alias: ["RStudio"]
 ---
 
-# Microsoft Windows Terminal
+# RStudio
 
 ***
 
@@ -16,5 +16,5 @@ Alias: []
 *Backlinks:*
 
 ```dataview
-list from [[Tool-Template]] AND -"Changelog"
+list from [[RStudio]] AND -"Changelog"
 ```

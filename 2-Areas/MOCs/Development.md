@@ -127,7 +127,7 @@ Alias: "Development"
 
 **Package Managers:**
 
-- [[WinGet]]
+- [[Winget]]
 - [[Chocolatey]]
 - [[Scoop]]
 - [[Homebrew]]
@@ -181,7 +181,7 @@ Alias: "Development"
 - [[Nativefier]]
 - [[Topgrade]]
 - [[Electron]]
-- [[ZSH]]
+- [[zsh]]
 - [[Inno]]
 - [[Todoist-CLI]]
 - [[Prophet]]

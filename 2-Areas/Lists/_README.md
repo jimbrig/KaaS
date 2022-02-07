@@ -23,6 +23,7 @@ Alias: Lists
 -   [[R Shiny Packages]]
 -   [[R Package Development Resources]]
 -   [[R on the Web - List of Links]]
+-   [[Learn to Code Platforms Master List]]
 
 
 ## Appendix: Dataviews

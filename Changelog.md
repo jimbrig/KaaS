@@ -1,3 +1,5 @@
+- 2022-02-06 at 23h55 · [[README]]
+- 2022-02-06 at 23h53 · [[_README]]
 - 2022-02-06 at 23h51 · [[Learn to Code Platforms Master List]]
 - 2022-02-06 at 23h18 · [[Visual Studio]]
 - 2022-02-06 at 21h44 · [[What's a Successful Shiny Application - Rtask]]
@@ -496,5 +498,3 @@
 - 2022-02-06 at 18h46 · [[4 Solid Ways to Get the Best of the Web]]
 - 2022-02-06 at 18h46 · [[How to Declutter Your Data With No Regrets]]
 - 2022-02-06 at 18h46 · [[RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas]]
-- 2022-02-06 at 18h46 · [[Writing Technical Design Docs, Revisited - Machine Words - Medium]]
-- 2022-02-06 at 18h46 · [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]

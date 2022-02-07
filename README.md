@@ -24,10 +24,13 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ## Contents
 
 - [[#Maps of Content|Maps of Content]]
+- [[#Lists|Lists]]
 - [[#Roadmap|Roadmap]]
 - [[#About|About]]
 	- [[#Notes|Notes]]
 	- [[#Structure: Maps of Content|Structure: Maps of Content]]
+- [[#Resources|Resources]]
+
 
 
 ## Maps of Content
@@ -49,6 +52,28 @@ Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault ef
 - [[Personal Knowledge Management]]
 - [[Mathematics and Statistics]]
 - [[Finance]]
+
+## Lists
+
+Under [[2-Areas/Lists/_README|2-Areas/Lists]] I have curated lists for various topics you may find helpful:
+
+-   [[Actuarial Development Master Resource List]]
+-   [[Advanced Programming Concepts]]
+-   [[Awesome R Package Development]]
+-   [[CLI Tools]]
+-   [[Data Engineering Master List of Resources]]
+-   [[Excel Automation Resources]]
+-   [[List of Python Flask Resources]]
+-   [[Productivity Apps]]
+-   [[R Database Packages]]
+-   [[Online Developer Tools]]
+-   [[Ten Step GTD Setup List]]
+-   [[SQL Server List of Tools and Scripts]]
+-   [[REST API Resources]]
+-   [[R Shiny Packages]]
+-   [[R Package Development Resources]]
+-   [[R on the Web - List of Links]]
+-   [[Learn to Code Platforms Master List]]
 
 
 ## Roadmap

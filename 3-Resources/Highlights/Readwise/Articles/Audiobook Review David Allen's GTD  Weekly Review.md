@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["Audiobook Review: David Allen's "GTD > Weekly Review"", "Audiobook Review: David Allen's "GTD > Weekly Review""]
+Aliases: ["Audiobook Review: David Allens GTD > Weekly Review"]
 ---
 # Audiobook Review: David Allen's "GTD > Weekly Review"
 

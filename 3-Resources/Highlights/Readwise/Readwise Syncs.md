@@ -499,3 +499,6 @@
 
 - [[2022-02-06]] 8:27 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-02-06]] 9:27 PM — Synced 6 highlights from 1 document.
+    - 6 highlights from 6 Key Lessons From August Bradley's Notion — Keep Productive
+

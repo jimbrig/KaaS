@@ -1,3 +1,4 @@
+- 2022-02-06 at 21h38 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
 - 2022-02-06 at 21h34 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
 - 2022-02-06 at 21h33 · [[4 Efficient Workflow  Efficient R Programming]]
 - 2022-02-06 at 21h33 · [[3 Steps to Managing Your Time and Maximizing Your Workday]]
@@ -244,7 +245,6 @@
 - 2022-02-06 at 18h46 · [[Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan]]
 - 2022-02-06 at 18h46 · [[Personal Knowledge Management Reprised]]
 - 2022-02-06 at 18h46 · [[This Is How We Change the World]]
-- 2022-02-06 at 18h46 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
 - 2022-02-06 at 18h46 · [[68 Bits of Unsolicited Advice-2]]
 - 2022-02-06 at 18h46 · [[#447 Books I've Loved — Ann Miura-Ko-2]]
 - 2022-02-06 at 18h46 · [[Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2]]

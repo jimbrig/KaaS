@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.zettlr.com/post/what-is-a-zettelkasten
 Tags: ["#Type/Highlight/Article"]
-Aliases: [""Wtf Is a Zettelkasten?" | Zettlr", ""Wtf Is a Zettelkasten?" | Zettlr"]
+Aliases: [Wtf Is a Zettelkasten]
 ---
 # "Wtf Is a Zettelkasten?" | Zettlr
 

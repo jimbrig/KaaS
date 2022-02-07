@@ -1,3 +1,4 @@
+- 2022-02-06 at 21h33 · [[Wtf Is a Zettelkasten  Zettlr]]
 - 2022-02-06 at 21h28 · [[Audiobook Review David Allen's GTD  Weekly Review]]
 - 2022-02-06 at 21h27 · [[Readwise Syncs]]
 - 2022-02-06 at 21h27 · [[6 Key Lessons From August Bradley's Notion — Keep Productive]]
@@ -493,7 +494,6 @@
 - 2022-02-06 at 18h46 · [[RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas]]
 - 2022-02-06 at 18h46 · [[Writing Technical Design Docs, Revisited - Machine Words - Medium]]
 - 2022-02-06 at 18h46 · [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]
-- 2022-02-06 at 18h46 · [[Wtf Is a Zettelkasten  Zettlr]]
 - 2022-02-06 at 18h46 · [[How to Export Evernote to Google Drive]]
 - 2022-02-06 at 18h46 · [[Your Productivity Obsession Might Be Making You Less Productive]]
 - 2022-02-06 at 18h46 · [[Zen and the Art of File and Folder Organization]]

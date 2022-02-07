@@ -1,3 +1,5 @@
+- 2022-02-06 at 23h51 · [[Learn to Code Platforms Master List]]
+- 2022-02-06 at 23h18 · [[Visual Studio]]
 - 2022-02-06 at 21h44 · [[What's a Successful Shiny Application - Rtask]]
 - 2022-02-06 at 21h40 · [[Why Ongoing Is the Worst Word in the History of Project Management]]
 - 2022-02-06 at 21h38 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
@@ -496,5 +498,3 @@
 - 2022-02-06 at 18h46 · [[RopenscilabsDataspice Create Lightweight schema.org Descriptions of Datas]]
 - 2022-02-06 at 18h46 · [[Writing Technical Design Docs, Revisited - Machine Words - Medium]]
 - 2022-02-06 at 18h46 · [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]
-- 2022-02-06 at 18h46 · [[How to Export Evernote to Google Drive]]
-- 2022-02-06 at 18h46 · [[Your Productivity Obsession Might Be Making You Less Productive]]

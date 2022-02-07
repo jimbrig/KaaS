@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://learning.linkedin.com/blog/working-together/why--ongoing--is-the-worst-word-in-the-history-of-project-manage
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["Why "Ongoing" Is the Worst Word in the History of Project Management", "Why "Ongoing" Is the Worst Word in the History of Project Management"]
+Aliases: ["Why Ongoing Is the Worst Word in the History of Project Management"]
 ---
 # Why "Ongoing" Is the Worst Word in the History of Project Management
 

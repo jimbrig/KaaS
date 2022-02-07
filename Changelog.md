@@ -1,3 +1,4 @@
+- 2022-02-06 at 21h40 · [[Why Ongoing Is the Worst Word in the History of Project Management]]
 - 2022-02-06 at 21h38 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
 - 2022-02-06 at 21h34 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
 - 2022-02-06 at 21h33 · [[4 Efficient Workflow  Efficient R Programming]]
@@ -497,4 +498,3 @@
 - 2022-02-06 at 18h46 · [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]
 - 2022-02-06 at 18h46 · [[How to Export Evernote to Google Drive]]
 - 2022-02-06 at 18h46 · [[Your Productivity Obsession Might Be Making You Less Productive]]
-- 2022-02-06 at 18h46 · [[Zen and the Art of File and Folder Organization]]

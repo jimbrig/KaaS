@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.nickmilton.com/2014/07/whats-unique-about-knowledge-management.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Knoco Stories: What's Unique About Knowledge Management?", "Knoco Stories: What's Unique About Knowledge Management?"]
 ---
 # Knoco Stories: What's Unique About Knowledge Management?
 

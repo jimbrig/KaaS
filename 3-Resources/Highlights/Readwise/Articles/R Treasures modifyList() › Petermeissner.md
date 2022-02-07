@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["R Treasures: modifyList() › Petermeissner", "R Treasures: modifyList() › Petermeissner"]
 ---
 # R Treasures: modifyList() › Petermeissner
 

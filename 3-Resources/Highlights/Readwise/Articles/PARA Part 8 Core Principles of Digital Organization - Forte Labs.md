@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/p-a-r-a-viii-core-principles/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["PARA Part 8: Core Principles of Digital Organization - Forte Labs", "PARA Part 8: Core Principles of Digital Organization - Forte Labs"]
 ---
 # PARA Part 8: Core Principles of Digital Organization - Forte Labs
 

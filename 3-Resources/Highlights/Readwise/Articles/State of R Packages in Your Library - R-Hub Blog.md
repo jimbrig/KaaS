@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.r-hub.io/2020/09/03/keep.source/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["State of R Packages in Your Library - R-Hub Blog", "State of R Packages in Your Library - R-Hub Blog"]
 ---
 # State of R Packages in Your Library - R-Hub Blog
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-26
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: mobile_share
-Link: null
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Loss Data Analytics - Loss Reserving", "Loss Data Analytics - Loss Reserving"]
 ---
 # Loss Data Analytics - Loss Reserving
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Can't Stay Focused While Processing - Have Tried for Months", "Can't Stay Focused While Processing - Have Tried for Months"]
 ---
 # Can't Stay Focused While Processing - Have Tried for Months
 

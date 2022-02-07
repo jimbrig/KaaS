@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.shortform.com/blog/best-filing-system-getting-things-done/#:~:text=The%20GTD%20reference%20system%20is%20the%20best%20filing,next%20action%20Know%20when%20you%E2%80%99ve%20completed%20a%20project
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["GTD Reference: The Best Filing System for Busy Lives | Shortform Books", "GTD Reference: The Best Filing System for Busy Lives | Shortform Books"]
 ---
 # GTD Reference: The Best Filing System for Busy Lives | Shortform Books
 

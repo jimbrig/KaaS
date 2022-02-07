@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d64fbc73291c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Productivity System You Use Doesn’t Matter", "The Productivity System You Use Doesn’t Matter"]
 ---
 # The Productivity System You Use Doesn’t Matter
 

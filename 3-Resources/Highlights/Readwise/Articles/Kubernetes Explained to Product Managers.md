@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/strio/kubernetes-explained-to-product-managers-4b1a
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Kubernetes Explained to Product Managers", "Kubernetes Explained to Product Managers"]
 ---
 # Kubernetes Explained to Product Managers
 

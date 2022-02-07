@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5dd2651612887dcb57a86ef4
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["He Ran Across America — On Plants", "He Ran Across America — On Plants"]
 ---
 # He Ran Across America — On Plants
 

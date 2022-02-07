@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN", "A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN"]
 ---
 # A Re-Introduction to JavaScript (JS Tutorial) - JavaScript | MDN
 

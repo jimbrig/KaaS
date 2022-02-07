@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/eb755048c982
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Workflow for Serverless — Cloud Functions + Workflow [Basic]", "Workflow for Serverless — Cloud Functions + Workflow [Basic]"]
 ---
 # Workflow for Serverless — Cloud Functions + Workflow [Basic]
 

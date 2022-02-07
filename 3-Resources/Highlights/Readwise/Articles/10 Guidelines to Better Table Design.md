@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://paulvanderlaken.com/2020/09/01/10-guidelines-to-better-table-design/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["10 Guidelines to Better Table Design", "10 Guidelines to Better Table Design"]
 ---
 # 10 Guidelines to Better Table Design
 

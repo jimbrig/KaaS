@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2f2c9f9fcdbf
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["RESTful API Design — Step by Step Guide", "RESTful API Design — Step by Step Guide"]
 ---
 # RESTful API Design — Step by Step Guide
 

@@ -1,15 +1,15 @@
 ---
-Date: 2021-12-07
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://winaero.com/blog/assign-global-hotkeys-to-launch-any-app-in-windows-10/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Assign Global Hotkeys to Launch Any App in Windows 10", "Assign Global Hotkeys to Launch Any App in Windows 10"]
 ---
 # Assign Global Hotkeys to Launch Any App in Windows 10
 
 ## Metadata
-- Author: www.winaero.com
+- Author: [[winaero.com]]
 - Full Title: Assign Global Hotkeys to Launch Any App in Windows 10
 - Category: #Type/Highlight/Article
 - URL: https://winaero.com/blog/assign-global-hotkeys-to-launch-any-app-in-windows-10/

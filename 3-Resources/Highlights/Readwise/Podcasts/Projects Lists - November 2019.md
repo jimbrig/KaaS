@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/60177110dd6600f5640c1865
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Projects Lists - November 2019", "Projects Lists - November 2019"]
 ---
 # Projects Lists - November 2019
 

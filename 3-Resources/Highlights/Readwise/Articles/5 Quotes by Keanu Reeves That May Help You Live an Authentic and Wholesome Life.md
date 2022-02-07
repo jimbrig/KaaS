@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d2a51d80a9d9
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life", "5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life"]
 ---
 # 5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life
 

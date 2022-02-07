@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry/o+Hb/2SWhsHwOl228ffK1QcYzBlMK3lVyz/Zz4ArACM=_17695237c7c:35e4f3:1e82ad8f
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Guest Post: Using Todoist With MYN and 1MTD by Charles Olsen", "Guest Post: Using Todoist With MYN and 1MTD by Charles Olsen"]
 ---
 # Guest Post: Using Todoist With MYN and 1MTD by Charles Olsen
 

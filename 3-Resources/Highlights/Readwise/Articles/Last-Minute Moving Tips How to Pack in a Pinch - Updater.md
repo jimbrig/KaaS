@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://updater.com/moving-tips/last-minute-moving-tips/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Last-Minute Moving Tips: How to Pack in a Pinch - Updater", "Last-Minute Moving Tips: How to Pack in a Pinch - Updater"]
 ---
 # Last-Minute Moving Tips: How to Pack in a Pinch - Updater
 

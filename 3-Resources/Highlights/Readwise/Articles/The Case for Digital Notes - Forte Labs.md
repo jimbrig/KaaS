@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/the-case-for-digital-notes/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Case for Digital Notes - Forte Labs", "The Case for Digital Notes - Forte Labs"]
 ---
 # The Case for Digital Notes - Forte Labs
 

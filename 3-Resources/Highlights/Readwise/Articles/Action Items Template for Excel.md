@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.techno-pm.com/2017/06/action-item-tracker-excel-template.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Action Items Template for Excel", "Action Items Template for Excel"]
 ---
 # Action Items Template for Excel
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.markwk.com/article-tracking-with-instapaper.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester", "Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester"]
 ---
 # Instapaper: Empowering How I Read Articles With Highlights and Tracking - Mark Koester
 

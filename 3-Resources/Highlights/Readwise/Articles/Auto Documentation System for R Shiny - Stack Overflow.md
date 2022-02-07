@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://stackoverflow.com/questions/53373290/auto-documentation-system-for-r-shiny
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Auto Documentation System for R Shiny - Stack Overflow", "Auto Documentation System for R Shiny - Stack Overflow"]
 ---
 # Auto Documentation System for R Shiny - Stack Overflow
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/164762343af3
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["6 YAML Features Most Programmers Don’t Know", "6 YAML Features Most Programmers Don’t Know"]
 ---
 # 6 YAML Features Most Programmers Don’t Know
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.open-meta.org/technology/one-observer-for-all-buttons-in-shiny-using-javascriptjquery/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["One Observer for All Buttons in Shiny Using JavaScript / jQuery", "One Observer for All Buttons in Shiny Using JavaScript / jQuery"]
 ---
 # One Observer for All Buttons in Shiny Using JavaScript / jQuery
 

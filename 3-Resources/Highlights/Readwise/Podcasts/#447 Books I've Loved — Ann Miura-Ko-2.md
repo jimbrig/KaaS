@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f11eac050033468655fd9f2
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#447: Books I've Loved — Ann Miura-Ko", "#447: Books I've Loved — Ann Miura-Ko"]
 ---
 # #447: Books I've Loved — Ann Miura-Ko
 

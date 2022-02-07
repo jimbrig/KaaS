@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["R at Scale on the Google Cloud Platform", "R at Scale on the Google Cloud Platform"]
 ---
 # R at Scale on the Google Cloud Platform
 

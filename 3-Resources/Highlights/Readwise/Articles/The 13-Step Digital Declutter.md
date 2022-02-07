@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.theguardian.com/technology/2017/jul/30/13-step-digital-declutter-clean-up-online
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The 13-Step Digital Declutter", "The 13-Step Digital Declutter"]
 ---
 # The 13-Step Digital Declutter
 

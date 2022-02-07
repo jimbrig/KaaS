@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow", "Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow"]
 ---
 # Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
 

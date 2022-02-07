@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://smallbusinessprogramming.com/how-to-crush-it-at-the-start-of-your-new-developer-job/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Crush It at the Start of Your New Developer Job - Small Business Programming", "How to Crush It at the Start of Your New Developer Job - Small Business Programming"]
 ---
 # How to Crush It at the Start of Your New Developer Job - Small Business Programming
 

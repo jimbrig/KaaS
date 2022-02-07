@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://foolishlycreative.com/5-pitfalls-of-being-an-information-hoarder/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["5 Pitfalls of Being an Information Hoarder | Foolishly Creative", "5 Pitfalls of Being an Information Hoarder | Foolishly Creative"]
 ---
 # 5 Pitfalls of Being an Information Hoarder | Foolishly Creative
 

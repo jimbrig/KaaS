@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/5e316c6071c2
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Zen to Done: The Habit-Building Productivity System", "Zen to Done: The Habit-Building Productivity System"]
 ---
 # Zen to Done: The Habit-Building Productivity System
 

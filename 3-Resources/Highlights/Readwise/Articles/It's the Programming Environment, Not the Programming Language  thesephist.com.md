@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://thesephist.com/posts/programming-environment/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["It's the Programming Environment, Not the Programming Language | thesephist.com", "It's the Programming Environment, Not the Programming Language | thesephist.com"]
 ---
 # It's the Programming Environment, Not the Programming Language | thesephist.com
 

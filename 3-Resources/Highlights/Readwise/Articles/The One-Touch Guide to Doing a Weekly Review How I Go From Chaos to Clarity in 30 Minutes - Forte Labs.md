@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-04
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The One-Touch Guide to Doing a Weekly Review: How I Go From Chaos to Clarity in 30 Minutes - Forte Labs", "The One-Touch Guide to Doing a Weekly Review: How I Go From Chaos to Clarity in 30 Minutes - Forte Labs"]
 ---
 # The One-Touch Guide to Doing a Weekly Review: How I Go From Chaos to Clarity in 30 Minutes - Forte Labs
 

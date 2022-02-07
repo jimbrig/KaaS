@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["{yHat} - Reproducible Work in R", "{yHat} - Reproducible Work in R"]
 ---
 # {yHat} - Reproducible Work in R
 

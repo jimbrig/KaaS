@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://tamarakerr.com/blogs/post/the-best-way-to-organize-your-to-dos
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Best Way to Organize Your To-Dos", "The Best Way to Organize Your To-Dos"]
 ---
 # The Best Way to Organize Your To-Dos
 

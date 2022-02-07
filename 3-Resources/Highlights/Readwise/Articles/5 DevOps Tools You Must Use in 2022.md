@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-28
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/6e830a7db7ba
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["5 DevOps Tools You Must Use in 2022", "5 DevOps Tools You Must Use in 2022"]
 ---
 # 5 DevOps Tools You Must Use in 2022
 

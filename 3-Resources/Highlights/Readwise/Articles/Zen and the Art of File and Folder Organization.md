@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.howtogeek.com/howto/15677/zen-and-the-art-of-file-and-folder-organization/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Zen and the Art of File and Folder Organization", "Zen and the Art of File and Folder Organization"]
 ---
 # Zen and the Art of File and Folder Organization
 

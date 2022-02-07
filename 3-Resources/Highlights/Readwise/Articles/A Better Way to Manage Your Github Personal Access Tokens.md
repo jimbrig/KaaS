@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://ropensci.org/technotes/2020/07/07/github-pat/?utm_campaign=Feed%3A+rweekly-live+%28R+Weekly+Live%29&utm_medium=feed&utm_source=feedburner
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A Better Way to Manage Your Github Personal Access Tokens", "A Better Way to Manage Your Github Personal Access Tokens"]
 ---
 # A Better Way to Manage Your Github Personal Access Tokens
 

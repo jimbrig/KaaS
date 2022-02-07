@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://niklasblog.com/?p=25043
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Obsidian: My New Knowledge Base or Base for Knowledge", "Obsidian: My New Knowledge Base or Base for Knowledge"]
 ---
 # Obsidian: My New Knowledge Base or Base for Knowledge
 

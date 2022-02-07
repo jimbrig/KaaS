@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://guides.lib.berkeley.edu/c.php?g=652220&p=4575532
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Managing Your Project - How to Make Your Research Reproducible - Library Gu", "Managing Your Project - How to Make Your Research Reproducible - Library Gu"]
 ---
 # Managing Your Project - How to Make Your Research Reproducible - Library Gu
 

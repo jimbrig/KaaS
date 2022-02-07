@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://jianghao.wang/post/2017-12-08-rmarkdown-templates/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Templates for R Markdown | Jianghao", "Templates for R Markdown | Jianghao"]
 ---
 # Templates for R Markdown | Jianghao
 

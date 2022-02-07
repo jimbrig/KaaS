@@ -1,10 +1,10 @@
 ---
-Date: 2022-01-23
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/e86535665c07
 Tags: ["#Type/Highlight/Article"]
-Aliases: []
+Aliases: ["A Detailed Guide to User Registration, Login, and Logout in Flask", "A Detailed Guide to User Registration, Login, and Logout in Flask"]
 ---
 # A Detailed Guide to User Registration, Login, and Logout in Flask
 

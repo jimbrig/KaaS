@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dallisonlee.com/organize-your-digital-life/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Digital Life in Disarray? Use These 6 Steps to Get Organized.", "Digital Life in Disarray? Use These 6 Steps to Get Organized."]
 ---
 # Digital Life in Disarray? Use These 6 Steps to Get Organized.
 

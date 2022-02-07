@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://eoda.de/en/wissen/blog/shiny-load-testing-und-horizontale-skalierung
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Shiny: Load Testing and Horizontal Scaling", "Shiny: Load Testing and Horizontal Scaling"]
 ---
 # Shiny: Load Testing and Horizontal Scaling
 

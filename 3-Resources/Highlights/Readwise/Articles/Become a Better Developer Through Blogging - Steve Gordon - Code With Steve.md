@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.stevejgordon.co.uk/become-a-better-developer-through-blogging-part-1
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Become a Better Developer Through Blogging - Steve Gordon - Code With Steve", "Become a Better Developer Through Blogging - Steve Gordon - Code With Steve"]
 ---
 # Become a Better Developer Through Blogging - Steve Gordon - Code With Steve
 

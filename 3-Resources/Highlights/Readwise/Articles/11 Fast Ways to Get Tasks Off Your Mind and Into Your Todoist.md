@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://doist.com/blog/add-tasks-todoist/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist", "11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist"]
 ---
 # 11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist
 
@@ -18,12 +18,12 @@ Aliases: []
 - Add a new task from anywhere within the Todoist app by pressing q
 - To add tasks to the bottom of a list, press a
 - To add a new task to the top of a list, use Shift + A. (Note: These two shortcuts will only work inside a project view.)
-    - Tags: [[tip]] [[Todoist]] [[favorite]] 
+    - Tags: [[tip]] [[todoist]] [[favorite]] 
 - While you’re editing a task, you can change the indentation of the task by pressing Ctrl + Alt + → (Windows legacy app), Alt + Shift + → (Windows 10) or ⌘ + Option + → (Mac). If you indent a task, it becomes the sub-task of the task above it which can be highly useful for breaking down large to-dos into multi-step tasks.
 - The desktop apps also have a universal shortcut you can use whenever the Todoist app is open. Just press Shift + Command + A (Mac) or Ctrl + Alt + A (Windows legacy app) to open the Quick Add. (Unfortunately, Windows 10 doesn’t support global shortcuts.)
 - Dictate tasks to Todoist
 - If you use an iPhone or iPad, all you have to do is ask Siri to add a task — and even set a due date — in Todoist. For example, say “Hey Siri, add a task to start drafting the blog post tomorrow in Todoist”.
-    - Tags: [[Todoist]] [[favorite]] 
+    - Tags: [[todoist]] [[favorite]] 
 - Add tasks from your web browser
 - Add tasks by sharing content from any other mobile app
 - Add tasks from shortcuts on your phone

@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-18
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/553409238509
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks", "ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks"]
 ---
 # ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks
 

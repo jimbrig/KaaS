@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/60016bcbb457c03c15be5323
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["This Is How We Change the World", "This Is How We Change the World"]
 ---
 # This Is How We Change the World
 

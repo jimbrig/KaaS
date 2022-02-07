@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://theautomatic.net/2018/08/24/getting-data-from-pdfs-the-easy-way-with-r/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Getting Data From PDFs the Easy Way With R - Open Source Automation", "Getting Data From PDFs the Easy Way With R - Open Source Automation"]
 ---
 # Getting Data From PDFs the Easy Way With R - Open Source Automation
 
@@ -21,4 +21,4 @@ Aliases: []
   matrix_results <- extract_tables(site)
   # get back the tables as data frames, keeping their headers
   df_results <- extract_tables(site, output = "data.frame", header = TRUE)
-    - Tags: [[R]] 
+    - Tags: [[r]] 

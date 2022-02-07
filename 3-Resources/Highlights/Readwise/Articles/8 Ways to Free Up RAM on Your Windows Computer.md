@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["8 Ways to Free Up RAM on Your Windows Computer", "8 Ways to Free Up RAM on Your Windows Computer"]
 ---
 # 8 Ways to Free Up RAM on Your Windows Computer
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.zettlr.com/post/what-is-a-zettelkasten
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: [""Wtf Is a Zettelkasten?" | Zettlr", ""Wtf Is a Zettelkasten?" | Zettlr"]
 ---
 # "Wtf Is a Zettelkasten?" | Zettlr
 

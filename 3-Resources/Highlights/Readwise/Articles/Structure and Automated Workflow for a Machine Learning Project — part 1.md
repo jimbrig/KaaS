@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://towardsdatascience.com/structure-and-automated-workflow-for-a-machine-learning-project-2fa30d661c1e
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Structure and Automated Workflow for a Machine Learning Project — part 1", "Structure and Automated Workflow for a Machine Learning Project — part 1"]
 ---
 # Structure and Automated Workflow for a Machine Learning Project — part 1
 

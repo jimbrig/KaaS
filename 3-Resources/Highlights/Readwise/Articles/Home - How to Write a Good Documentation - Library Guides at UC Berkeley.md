@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://guides.lib.berkeley.edu/c.php?g=652311&p=4575543
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Home - How to Write a Good Documentation - Library Guides at UC Berkeley", "Home - How to Write a Good Documentation - Library Guides at UC Berkeley"]
 ---
 # Home - How to Write a Good Documentation - Library Guides at UC Berkeley
 

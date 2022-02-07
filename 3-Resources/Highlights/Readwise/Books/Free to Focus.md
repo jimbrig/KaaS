@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: kindle
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Book"]
+Aliases: ["Free to Focus", "Free to Focus"]
 ---
 # Free to Focus
 

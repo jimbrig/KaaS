@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/833077/daily-checklist
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["13 Things to Put on Your Daily Checklist for Boosted Productivity", "13 Things to Put on Your Daily Checklist for Boosted Productivity"]
 ---
 # 13 Things to Put on Your Daily Checklist for Boosted Productivity
 

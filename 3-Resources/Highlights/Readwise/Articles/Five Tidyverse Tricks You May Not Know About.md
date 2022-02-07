@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/c5026d5a19da
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Five Tidyverse Tricks You May Not Know About", "Five Tidyverse Tricks You May Not Know About"]
 ---
 # Five Tidyverse Tricks You May Not Know About
 

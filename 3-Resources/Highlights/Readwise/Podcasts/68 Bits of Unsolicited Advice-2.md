@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5ecad6cdbd1f2ba3d8f40197
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["68 Bits of Unsolicited Advice", "68 Bits of Unsolicited Advice"]
 ---
 # 68 Bits of Unsolicited Advice
 

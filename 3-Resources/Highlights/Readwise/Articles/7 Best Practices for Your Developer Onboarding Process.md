@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.codementor.io/blog/developer-onboarding-process-32y3zqg1vc
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["7 Best Practices for Your Developer Onboarding Process", "7 Best Practices for Your Developer Onboarding Process"]
 ---
 # 7 Best Practices for Your Developer Onboarding Process
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.reddit.com/r/datascience/comments/howrzj/career_tips_from_an_old_timer/?utm_content=body&utm_medium=post_embed&utm_name=aa1cc514de924595ae1b3b72e5a846f8&utm_source=embedly&utm_term=howrzj
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["R/Datascience - Career Tips From an Old Timer", "R/Datascience - Career Tips From an Old Timer"]
 ---
 # R/Datascience - Career Tips From an Old Timer
 

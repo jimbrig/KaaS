@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-07
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://winaero.com/blog/list-of-shell-commands-in-windows-10/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["List of Shell Commands in Windows 10", "List of Shell Commands in Windows 10"]
 ---
 # List of Shell Commands in Windows 10
 

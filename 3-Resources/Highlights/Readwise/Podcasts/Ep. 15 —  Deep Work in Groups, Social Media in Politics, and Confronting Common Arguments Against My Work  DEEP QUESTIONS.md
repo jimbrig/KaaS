@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS", "Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS"]
 ---
 # Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
 

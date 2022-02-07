@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fd21fa7c5e8436a9eda66d3
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Personal Knowledge Management Reprised", "Personal Knowledge Management Reprised"]
 ---
 # Personal Knowledge Management Reprised
 

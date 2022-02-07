@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.process.st/weekly-review/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software", "Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software"]
 ---
 # Weekly Review Checklist: An Insanely Productive Week in 14 Steps | Process Street | Checklist, Workflow and SOP Software
 

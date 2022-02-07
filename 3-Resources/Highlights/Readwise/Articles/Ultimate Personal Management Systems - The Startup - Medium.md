@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/swlh/ultimate-personal-management-systems-41f376f4ec2c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Ultimate Personal Management Systems - The Startup - Medium", "Ultimate Personal Management Systems - The Startup - Medium"]
 ---
 # Ultimate Personal Management Systems - The Startup - Medium
 

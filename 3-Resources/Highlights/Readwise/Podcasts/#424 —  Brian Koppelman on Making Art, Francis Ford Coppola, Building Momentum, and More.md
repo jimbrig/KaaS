@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More", "#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More"]
 ---
 # #424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More
 

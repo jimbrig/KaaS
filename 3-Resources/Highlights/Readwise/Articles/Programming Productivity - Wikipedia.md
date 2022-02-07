@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://en.wikipedia.org/wiki/Programming_productivity
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Programming Productivity - Wikipedia", "Programming Productivity - Wikipedia"]
 ---
 # Programming Productivity - Wikipedia
 

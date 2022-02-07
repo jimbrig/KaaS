@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://radreads.co/productivity-workflow-and-pkm-design-with-tiago-forte-and-khe-hy-325783bb3ea2/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["First Principles of Workflow Design (A 2-Part Episode) | RadReads", "First Principles of Workflow Design (A 2-Part Episode) | RadReads"]
 ---
 # First Principles of Workflow Design (A 2-Part Episode) | RadReads
 
@@ -73,7 +73,7 @@ Aliases: []
 - Tiago has an “Idea Tickler” that he uses instead of checking social media.
   You’re tapping into human idea to want novelty and distraction. Don’t treat this desire like a moral failure, use it to your advantage!
 - Text expanders
-  Text expanders have quite valuable to Tiago. A text expander = when you type a keyword it replaces that text with your phone number.
+  Text expanders have quite valuable to Tiago. A text expander = when you type a keyword (such as: `#p`) it replaces that text with your phone number.
   People use them all the time time on mobile, but Tiago believes the most valuable is on desktop. [computer emoji]
   There are a few different options for text expanders:
   TextExpander

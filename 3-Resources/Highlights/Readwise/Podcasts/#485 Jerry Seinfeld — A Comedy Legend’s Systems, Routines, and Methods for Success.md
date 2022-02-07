@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fcf95229301da59515a521a
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#485: Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success", "#485: Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success"]
 ---
 # #485: Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success
 

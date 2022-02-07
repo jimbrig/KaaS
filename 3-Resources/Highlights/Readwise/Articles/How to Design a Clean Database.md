@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-28
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2c7158114e2f
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Design a Clean Database", "How to Design a Clean Database"]
 ---
 # How to Design a Clean Database
 

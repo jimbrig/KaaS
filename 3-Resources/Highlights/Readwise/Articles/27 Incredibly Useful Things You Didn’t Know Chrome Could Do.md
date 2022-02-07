@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.fastcompany.com/40557798/27-incredibly-useful-things-you-didnt-know-chrome-could-do
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["27 Incredibly Useful Things You Didn’t Know Chrome Could Do", "27 Incredibly Useful Things You Didn’t Know Chrome Could Do"]
 ---
 # 27 Incredibly Useful Things You Didn’t Know Chrome Could Do
 

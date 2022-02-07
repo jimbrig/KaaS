@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-01
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/d0a3c0de9906
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Designing Better File Organization", "Designing Better File Organization"]
 ---
 # Designing Better File Organization
 

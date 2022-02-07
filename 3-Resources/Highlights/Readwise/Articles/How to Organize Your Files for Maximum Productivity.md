@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/swlh/how-to-organize-your-files-for-maximum-productivity-afdc6430126a
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Organize Your Files for Maximum Productivity", "How to Organize Your Files for Maximum Productivity"]
 ---
 # How to Organize Your Files for Maximum Productivity
 

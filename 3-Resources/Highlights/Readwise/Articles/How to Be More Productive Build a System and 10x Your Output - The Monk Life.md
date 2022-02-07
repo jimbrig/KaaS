@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.themonklife.net/how-to-be-more-productive/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Be More Productive: Build a System and 10x Your Output - The Monk Life", "How to Be More Productive: Build a System and 10x Your Output - The Monk Life"]
 ---
 # How to Be More Productive: Build a System and 10x Your Output - The Monk Life
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.danfletcherblog.ca/2017/01/beginners-tip-organize-coding-projects/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Beginner's Tip: Organize Your Coding Projects - Dan Fletcher Blog", "Beginner's Tip: Organize Your Coding Projects - Dan Fletcher Blog"]
 ---
 # Beginner's Tip: Organize Your Coding Projects - Dan Fletcher Blog
 

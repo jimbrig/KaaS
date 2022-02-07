@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5d1d03cb5cae25de51e2096c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["SYSTEMS THINKING: What Is a System?", "SYSTEMS THINKING: What Is a System?"]
 ---
 # SYSTEMS THINKING: What Is a System?
 

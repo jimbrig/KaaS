@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9d4b176bd5ec
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A Hierarchy First Approach to Note Taking", "A Hierarchy First Approach to Note Taking"]
 ---
 # A Hierarchy First Approach to Note Taking
 

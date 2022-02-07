@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.carlpullein.com/blog/why-organising-you-to-dos-by-project-does-not-work/19/2/2020
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Why Organising Your To-Dos by Project Does Not Work.", "Why Organising Your To-Dos by Project Does Not Work."]
 ---
 # Why Organising Your To-Dos by Project Does Not Work.
 

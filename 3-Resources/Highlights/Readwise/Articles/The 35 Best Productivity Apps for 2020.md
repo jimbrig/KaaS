@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://doist.com/blog/best-productivity-apps/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The 35 Best Productivity Apps for 2020", "The 35 Best Productivity Apps for 2020"]
 ---
 # The 35 Best Productivity Apps for 2020
 

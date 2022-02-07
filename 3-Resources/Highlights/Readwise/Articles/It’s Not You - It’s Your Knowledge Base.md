@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["It’s Not You - It’s Your Knowledge Base", "It’s Not You - It’s Your Knowledge Base"]
 ---
 # It’s Not You - It’s Your Knowledge Base
 

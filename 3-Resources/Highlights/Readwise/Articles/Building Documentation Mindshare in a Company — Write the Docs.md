@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.writethedocs.org/guide/writing/mindshare/#build-a-taxonomy
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Building Documentation Mindshare in a Company — Write the Docs", "Building Documentation Mindshare in a Company — Write the Docs"]
 ---
 # Building Documentation Mindshare in a Company — Write the Docs
 

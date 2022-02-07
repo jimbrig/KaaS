@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://quickbooost.com/productivity-tips/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Feeling Overwhelmed? 33 Productivity Tips to Get You Unstuck", "Feeling Overwhelmed? 33 Productivity Tips to Get You Unstuck"]
 ---
 # Feeling Overwhelmed? 33 Productivity Tips to Get You Unstuck
 

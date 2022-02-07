@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Building an Open Source Personal Knowledge Base | Hacker Noon", "Building an Open Source Personal Knowledge Base | Hacker Noon"]
 ---
 # Building an Open Source Personal Knowledge Base | Hacker Noon
 

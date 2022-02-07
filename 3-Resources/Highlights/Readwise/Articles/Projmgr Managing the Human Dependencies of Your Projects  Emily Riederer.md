@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://emilyriederer.netlify.app/post/projmgr/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer", "Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer"]
 ---
 # Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
 

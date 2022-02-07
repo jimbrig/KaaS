@@ -1,10 +1,10 @@
 ---
-Date: 2022-01-26
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b3180a303d96
 Tags: ["#Type/Highlight/Article"]
-Aliases: []
+Aliases: ["Three Systems I Use to Organize My Life", "Three Systems I Use to Organize My Life"]
 ---
 # Three Systems I Use to Organize My Life
 

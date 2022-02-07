@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://media.blubrry.com/exponent/content.blubrry.com/exponent/exponent188.mp3
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Exponent 188 — Big Tech, Antitrust, and Democracy", "Exponent 188 — Big Tech, Antitrust, and Democracy"]
 ---
 # Exponent 188 — Big Tech, Antitrust, and Democracy
 

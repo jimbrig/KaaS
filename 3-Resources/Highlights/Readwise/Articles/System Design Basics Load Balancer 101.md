@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/adc4f602d08f
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["System Design Basics: Load Balancer 101", "System Design Basics: Load Balancer 101"]
 ---
 # System Design Basics: Load Balancer 101
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.developer.com/design/the-impact-of-the-cloud-on-software-development/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Impact of the Cloud on Software Development | Developer.com", "The Impact of the Cloud on Software Development | Developer.com"]
 ---
 # The Impact of the Cloud on Software Development | Developer.com
 

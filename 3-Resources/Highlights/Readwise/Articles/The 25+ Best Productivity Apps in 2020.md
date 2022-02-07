@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://collegeinfogeek.com/productivity-apps/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The 25+ Best Productivity Apps in 2020", "The 25+ Best Productivity Apps in 2020"]
 ---
 # The 25+ Best Productivity Apps in 2020
 

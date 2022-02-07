@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://baucemag.com/get-more-things-done-with-the-weekly-review-dan-allen/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The 'Weekly Review' Method Will Help You Get Things Done", "The 'Weekly Review' Method Will Help You Get Things Done"]
 ---
 # The 'Weekly Review' Method Will Help You Get Things Done
 

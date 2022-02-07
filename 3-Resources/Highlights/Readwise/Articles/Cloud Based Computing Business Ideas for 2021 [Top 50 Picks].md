@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.profitableventure.com/cloud-computing-based-business-ideas/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]", "Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]"]
 ---
 # Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]
 

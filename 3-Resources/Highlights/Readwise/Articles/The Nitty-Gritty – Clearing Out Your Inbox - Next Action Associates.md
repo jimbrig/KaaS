@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.next-action.co.uk/2014/02/18/nitty-gritty-clearing-inbox-2/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates", "The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates"]
 ---
 # The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates
 

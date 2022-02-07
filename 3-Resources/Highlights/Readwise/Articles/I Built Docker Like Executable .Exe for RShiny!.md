@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/3f1421d75d09
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["I Built Docker Like Executable .Exe for RShiny!", "I Built Docker Like Executable .Exe for RShiny!"]
 ---
 # I Built Docker Like Executable .Exe for RShiny!
 

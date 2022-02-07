@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/6006b12697881f08a112da92
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#101 Jane McGonigal: The Psychology of Gaming", "#101 Jane McGonigal: The Psychology of Gaming"]
 ---
 # #101 Jane McGonigal: The Psychology of Gaming
 

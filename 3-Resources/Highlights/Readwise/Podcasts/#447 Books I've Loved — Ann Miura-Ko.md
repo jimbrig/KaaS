@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://rss.art19.com/episodes/9dfc22de-1799-4987-8523-d288e0603378.mp3
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#447: Books I've Loved — Ann Miura-Ko", "#447: Books I've Loved — Ann Miura-Ko"]
 ---
 # #447: Books I've Loved — Ann Miura-Ko
 

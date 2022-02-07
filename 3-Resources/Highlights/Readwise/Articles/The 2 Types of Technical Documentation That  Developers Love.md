@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/c07db236b367
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The 2 Types of Technical Documentation That  Developers Love", "The 2 Types of Technical Documentation That  Developers Love"]
 ---
 # The 2 Types of Technical Documentation That  Developers Love
 

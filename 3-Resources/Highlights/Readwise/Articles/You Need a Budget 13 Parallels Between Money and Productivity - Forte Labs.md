@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://fortelabs.co/blog/you-need-a-budget-13-parallels-between-money-and-productivity/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["You Need a Budget: 13 Parallels Between Money and Productivity - Forte Labs", "You Need a Budget: 13 Parallels Between Money and Productivity - Forte Labs"]
 ---
 # You Need a Budget: 13 Parallels Between Money and Productivity - Forte Labs
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.reddit.com/r/Windows10/wiki/tipsandtricks
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Tipsandtricks - Windows10", "Tipsandtricks - Windows10"]
 ---
 # Tipsandtricks - Windows10
 

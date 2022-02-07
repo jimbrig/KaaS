@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/358baff9a61c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["RShiny Authentication With Polished on AWS Kubernetes", "RShiny Authentication With Polished on AWS Kubernetes"]
 ---
 # RShiny Authentication With Polished on AWS Kubernetes
 

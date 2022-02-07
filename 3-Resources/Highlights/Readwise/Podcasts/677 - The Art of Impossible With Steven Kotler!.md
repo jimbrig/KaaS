@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5ffd7dd09c64866ef3055b71
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["677 - The Art of Impossible With Steven Kotler!", "677 - The Art of Impossible With Steven Kotler!"]
 ---
 # 677 - The Art of Impossible With Steven Kotler!
 

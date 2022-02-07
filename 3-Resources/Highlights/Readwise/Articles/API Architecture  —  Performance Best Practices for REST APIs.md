@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/1d4a5922dae1
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["API Architecture  —  Performance Best Practices for REST APIs", "API Architecture  —  Performance Best Practices for REST APIs"]
 ---
 # API Architecture  —  Performance Best Practices for REST APIs
 

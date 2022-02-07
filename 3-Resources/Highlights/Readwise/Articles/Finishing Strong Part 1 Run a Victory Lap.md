@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry/d4UeDsw6o7c52AhcP1SziyOM7sQPVaBTOJSjij0oNtE=_176aa91deb5:fcfbb9:7edf6590
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Finishing Strong Part 1: Run a Victory Lap", "Finishing Strong Part 1: Run a Victory Lap"]
 ---
 # Finishing Strong Part 1: Run a Victory Lap
 

@@ -1,5 +1,5 @@
 ---
-Date: 2022-02-01
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/4d59efc092b5

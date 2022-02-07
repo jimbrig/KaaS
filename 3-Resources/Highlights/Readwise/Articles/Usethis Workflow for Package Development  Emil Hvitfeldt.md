@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Usethis Workflow for Package Development | Emil Hvitfeldt", "Usethis Workflow for Package Development | Emil Hvitfeldt"]
 ---
 # Usethis Workflow for Package Development | Emil Hvitfeldt
 

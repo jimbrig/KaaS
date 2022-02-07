@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f171edb00ecbc05747284f7
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#88 Derek Sivers: Innovation Versus Imitation", "#88 Derek Sivers: Innovation Versus Imitation"]
 ---
 # #88 Derek Sivers: Innovation Versus Imitation
 

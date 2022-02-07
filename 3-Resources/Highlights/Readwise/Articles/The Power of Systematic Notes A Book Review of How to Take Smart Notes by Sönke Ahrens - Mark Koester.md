@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://www.markwk.com/smart-notes.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester", "The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester"]
 ---
 # The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester
 

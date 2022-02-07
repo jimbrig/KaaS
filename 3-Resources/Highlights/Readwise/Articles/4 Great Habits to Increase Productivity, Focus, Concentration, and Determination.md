@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/55b7d687498b
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["4 Great Habits to Increase Productivity, Focus, Concentration, and Determination", "4 Great Habits to Increase Productivity, Focus, Concentration, and Determination"]
 ---
 # 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
 

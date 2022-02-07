@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-18
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://codemag.com/article/1803051
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Better Extract/Transform/Load (ETL) Practices in Data Warehousing", "Better Extract/Transform/Load (ETL) Practices in Data Warehousing"]
 ---
 # Better Extract/Transform/Load (ETL) Practices in Data Warehousing
 

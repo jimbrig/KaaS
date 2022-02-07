@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/backup-windows-files-folders/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Backup 101: Windows Files and Folders You Should Always Back Up", "Backup 101: Windows Files and Folders You Should Always Back Up"]
 ---
 # Backup 101: Windows Files and Folders You Should Always Back Up
 

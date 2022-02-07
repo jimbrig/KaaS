@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: manual
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Book"]
+Aliases: ["Tribe of Mentors", "Tribe of Mentors"]
 ---
 # Tribe of Mentors
 

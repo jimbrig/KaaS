@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/355332ae5991
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Build an Efficient Personal Knowledge Management System", "How to Build an Efficient Personal Knowledge Management System"]
 ---
 # How to Build an Efficient Personal Knowledge Management System
 

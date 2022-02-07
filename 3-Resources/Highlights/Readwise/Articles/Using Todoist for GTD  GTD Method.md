@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://gtdmethod.com/2016/using-todoist-for-gtd/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Using Todoist for GTD | GTD Method", "Using Todoist for GTD | GTD Method"]
 ---
 # Using Todoist for GTD | GTD Method
 

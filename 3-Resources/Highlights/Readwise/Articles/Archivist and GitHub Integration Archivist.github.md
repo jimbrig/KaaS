@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://r-addict.com/archivist.github/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Archivist and GitHub Integration: Archivist.github", "Archivist and GitHub Integration: Archivist.github"]
 ---
 # Archivist and GitHub Integration: Archivist.github
 

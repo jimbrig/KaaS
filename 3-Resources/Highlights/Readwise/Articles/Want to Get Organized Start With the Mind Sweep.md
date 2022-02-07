@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://facilethings.com/blog/en/the-mind-sweep
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Want to Get Organized? Start With the Mind Sweep", "Want to Get Organized? Start With the Mind Sweep"]
 ---
 # Want to Get Organized? Start With the Mind Sweep
 

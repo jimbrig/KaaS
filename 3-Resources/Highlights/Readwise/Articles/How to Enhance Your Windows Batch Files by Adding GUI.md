@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/7287d89ebad6
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Enhance Your Windows Batch Files by Adding GUI", "How to Enhance Your Windows Batch Files by Adding GUI"]
 ---
 # How to Enhance Your Windows Batch Files by Adding GUI
 

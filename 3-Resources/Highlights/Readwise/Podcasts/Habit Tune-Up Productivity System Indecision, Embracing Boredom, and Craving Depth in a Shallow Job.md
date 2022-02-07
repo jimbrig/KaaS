@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job", "Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job"]
 ---
 # Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
 

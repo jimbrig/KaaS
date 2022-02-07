@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)", "Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)"]
 ---
 # Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
 

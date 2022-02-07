@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://learning.linkedin.com/blog/working-together/why--ongoing--is-the-worst-word-in-the-history-of-project-manage
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Why "Ongoing" Is the Worst Word in the History of Project Management", "Why "Ongoing" Is the Worst Word in the History of Project Management"]
 ---
 # Why "Ongoing" Is the Worst Word in the History of Project Management
 

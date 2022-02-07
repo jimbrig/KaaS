@@ -11,6 +11,7 @@ Alias: "Resources"
 
 - [[3-Resources/Citations/_README|Citations]]: Citation files sync'd to the Vault using the [[Citations Plugin]] with [[Zotero]].
 - [[3-Resources/Clippings/_README|Clippings]]: Web Clippings brought into the Vault via the [[Obsidian-Clipper]] browser extension.
+- [[Code]]
 - [[3-Resources/Dictionary/_README|Dictionary]]: Definitions using the [[Dictionary Plugin]].
 - [[3-Resources/Embeds/_README|Embeds]]: Embedded web pages (Todoist, Readwise, GitHub, etc.)
 - [[3-Resources/Highlights/_README|Highlights]]: Synced Highlights from various resources.

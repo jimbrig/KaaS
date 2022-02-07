@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Create a GitHub Profile README", "How to Create a GitHub Profile README"]
 ---
 # How to Create a GitHub Profile README
 

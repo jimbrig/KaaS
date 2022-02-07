@@ -1,12 +1,12 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://doist.com/blog/how-to-use-todoist-effectively/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Official Guide to Using Todoist: Build Your Perfect Productivity Workfl", "The Official Guide to Using Todoist: Build Your Perfect Productivity Workfl"]
 ---
-# The Official Guide to Using Todoist: Build Your Perfect Productivity Workflow
+# The Official Guide to Using Todoist: Build Your Perfect Productivity Workfl
 
 ## Metadata
 - Author: 

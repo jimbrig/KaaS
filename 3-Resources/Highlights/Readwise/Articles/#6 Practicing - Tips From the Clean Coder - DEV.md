@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/yurishenrique/6-practicing-tips-from-the-clean-coder-18cf
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["#6 Practicing - Tips From the Clean Coder - DEV", "#6 Practicing - Tips From the Clean Coder - DEV"]
 ---
 # #6 Practicing - Tips From the Clean Coder - DEV
 

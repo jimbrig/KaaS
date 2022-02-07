@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.exploratory.io/why-factor-is-one-of-the-most-amazing-things-in-r-e967fe27d292
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali", "Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali"]
 ---
 # Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali
 

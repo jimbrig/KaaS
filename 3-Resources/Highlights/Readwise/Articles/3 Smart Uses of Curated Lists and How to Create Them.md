@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cminds.com/3-uses-curated-lists-manager/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["3 Smart Uses of Curated Lists and How to Create Them", "3 Smart Uses of Curated Lists and How to Create Them"]
 ---
 # 3 Smart Uses of Curated Lists and How to Create Them
 

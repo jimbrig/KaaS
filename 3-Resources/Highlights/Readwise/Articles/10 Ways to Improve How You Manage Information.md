@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://sourcesofinsight.com/10-ways-to-improve-how-you-manage-information/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["10 Ways to Improve How You Manage Information", "10 Ways to Improve How You Manage Information"]
 ---
 # 10 Ways to Improve How You Manage Information
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/machine-words/writing-technical-design-docs-revisited-850d36570ec
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Writing Technical Design Docs, Revisited - Machine Words - Medium", "Writing Technical Design Docs, Revisited - Machine Words - Medium"]
 ---
 # Writing Technical Design Docs, Revisited - Machine Words - Medium
 

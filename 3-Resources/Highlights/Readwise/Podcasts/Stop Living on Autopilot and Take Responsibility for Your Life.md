@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/6005c79683ecdb50f8bb8426
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Stop Living on Autopilot and Take Responsibility for Your Life", "Stop Living on Autopilot and Take Responsibility for Your Life"]
 ---
 # Stop Living on Autopilot and Take Responsibility for Your Life
 

@@ -1,5 +1,5 @@
 ---
-Date: 2022-01-30
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://aptitive.com/blog/how-to-build-a-data-warehouse-for-insurance/
@@ -20,7 +20,6 @@ Aliases: ["How to Build a Data Warehouse for the Insurance Industry", "How to Bu
   Billing Transactions: Invoice, Taxes
   Claim Transactions: Payment, Reserve
   Payment transactions: Received amount ([View Highlight](https://instapaper.com/read/1479629171/18661325))
-## New highlights added January 30, 2022 at 11:43 PM
 - Isolate your source data in a “common landing area”: I have been working on an insurance client with 20+ data sources (many acquisitions). The first step of our process is to identify the source tables that we need to build out the warehouse and load the information in a staging database. (We create a schema per source and automate most of the development work.) ([View Highlight](https://instapaper.com/read/1479629171/18661478))
 - Denormalize and combine data into a data hub: After staging the data in the CLA, our team creates “Get” Stored Procedures to combine the data into common tables. For example, at one client, I have 13 sources with policy information (policy number, holder, effective date, etc.) that I combined into a single [Business].[Policy] table in my database. I also created tables for tracking other dimensions and facts such as claims, billing, and payment. ([View Highlight](https://instapaper.com/read/1479629171/18661479))
 - Create a star schema warehouse: Finally, the team loads the business layer into the data warehouse by assigning surrogate keys to the dimensions, creating references in the facts, and structuring the tables in a star schema. If designed correctly, any modern reporting tool, from Tableau to SSRS, will be able to connect to the data warehouse and generate high-performance reporting. ([View Highlight](https://instapaper.com/read/1479629171/18661480))

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/fdae68e0dbc
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Clean Up Your Productivity System to Be More Productive", "Clean Up Your Productivity System to Be More Productive"]
 ---
 # Clean Up Your Productivity System to Be More Productive
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["An Iterative Approach to Notes", "An Iterative Approach to Notes"]
 ---
 # An Iterative Approach to Notes
 

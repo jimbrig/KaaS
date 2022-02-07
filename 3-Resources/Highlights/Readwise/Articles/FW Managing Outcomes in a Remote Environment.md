@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["FW: Managing Outcomes in a Remote Environment", "FW: Managing Outcomes in a Remote Environment"]
 ---
 # FW: Managing Outcomes in a Remote Environment
 

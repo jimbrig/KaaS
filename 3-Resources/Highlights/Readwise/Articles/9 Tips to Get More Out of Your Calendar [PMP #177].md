@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://paulminors.com/blog/9-tips-to-get-more-out-of-your-calendar/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["9 Tips to Get More Out of Your Calendar [PMP #177]", "9 Tips to Get More Out of Your Calendar [PMP #177]"]
 ---
 # 9 Tips to Get More Out of Your Calendar [PMP #177]
 

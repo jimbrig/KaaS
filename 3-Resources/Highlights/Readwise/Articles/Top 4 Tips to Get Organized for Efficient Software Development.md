@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://kitelytech.com/4-tips-get-organized-efficient-software-development/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Top 4 Tips to Get Organized for Efficient Software Development", "Top 4 Tips to Get Organized for Efficient Software Development"]
 ---
 # Top 4 Tips to Get Organized for Efficient Software Development
 

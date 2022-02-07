@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux", "The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux"]
 ---
 # The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux
 

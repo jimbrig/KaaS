@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/microsoft-todo-task-manager/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["10 Tips to Turn Microsoft To-Do Into a Serious Task Manager", "10 Tips to Turn Microsoft To-Do Into a Serious Task Manager"]
 ---
 # 10 Tips to Turn Microsoft To-Do Into a Serious Task Manager
 

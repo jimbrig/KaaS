@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fa968fde59866046ac2782c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Austin Kleon on Writing, Creativity and the Importance of Idleness", "Austin Kleon on Writing, Creativity and the Importance of Idleness"]
 ---
 # Austin Kleon on Writing, Creativity and the Importance of Idleness
 

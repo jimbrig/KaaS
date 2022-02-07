@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.easeus.com/todo-backup-guide/winpe-bootable-disk.html#:~:text=1%20Connect%20your%20USB%20to%20your%20computer.%202,Click%20Proceed%20to%20create%20a%20bootable%20USB%20drive.
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Create EaseUS Bootable USB, CD/DVD, and ISO Image With EaseUS Todo Backup - EaseUS", "How to Create EaseUS Bootable USB, CD/DVD, and ISO Image With EaseUS Todo Backup - EaseUS"]
 ---
 # How to Create EaseUS Bootable USB, CD/DVD, and ISO Image With EaseUS Todo Backup - EaseUS
 

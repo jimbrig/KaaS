@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.developgoodhabits.com/home-office-setup/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Ultimate Home Office Setup Guide: 18 Must-Have Items", "The Ultimate Home Office Setup Guide: 18 Must-Have Items"]
 ---
 # The Ultimate Home Office Setup Guide: 18 Must-Have Items
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.indiehackers.com/post/building-a-community-digital-garden-7e941d107c
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Future of Communities Is Increasingly More About Digital Community Gardening", "The Future of Communities Is Increasingly More About Digital Community Gardening"]
 ---
 # The Future of Communities Is Increasingly More About Digital Community Gardening
 

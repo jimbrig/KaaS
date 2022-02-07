@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Building a Data Pipeline From Scratch - The Data Experience - Medium", "Building a Data Pipeline From Scratch - The Data Experience - Medium"]
 ---
 # Building a Data Pipeline From Scratch - The Data Experience - Medium
 

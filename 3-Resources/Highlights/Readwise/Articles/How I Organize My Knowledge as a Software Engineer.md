@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How I Organize My Knowledge as a Software Engineer", "How I Organize My Knowledge as a Software Engineer"]
 ---
 # How I Organize My Knowledge as a Software Engineer
 

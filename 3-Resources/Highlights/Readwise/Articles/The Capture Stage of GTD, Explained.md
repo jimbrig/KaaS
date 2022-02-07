@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-28
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/682c91aa11c2
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Capture Stage of GTD, Explained", "The Capture Stage of GTD, Explained"]
 ---
 # The Capture Stage of GTD, Explained
 

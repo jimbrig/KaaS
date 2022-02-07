@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://help.evernote.com/hc/en-us/articles/208313828
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Use Evernote's Advanced Search Syntax", "How to Use Evernote's Advanced Search Syntax"]
 ---
 # How to Use Evernote's Advanced Search Syntax
 
@@ -22,7 +22,7 @@ Aliases: []
 - any:
   Searches for notes that match any of the search terms listed. Without this operator, Evernote search will return only those notes that match all of the specified search terms.
   any: pizza beer will return all notes containing either "pizza" or "beer" (removing this operator would return only notes containing "pizza" and "beer").
-    - Tags: [[Evernote]] 
+    - Tags: [[evernote]] 
 - tag:
   Searches for notes tagged with the specified tag.
   tag:medical will return notes that have the tag "medical".

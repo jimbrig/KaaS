@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f9a8f3f960a543cc5fb5ba6
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Laurie Santos, PhD | Simple Ways to Live a Happier Life", "Laurie Santos, PhD | Simple Ways to Live a Happier Life"]
 ---
 # Laurie Santos, PhD | Simple Ways to Live a Happier Life
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f2d2283257ee251cc1707fd
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Exponent 188 — Big Tech, Antitrust, and Democracy", "Exponent 188 — Big Tech, Antitrust, and Democracy"]
 ---
 # Exponent 188 — Big Tech, Antitrust, and Democracy
 

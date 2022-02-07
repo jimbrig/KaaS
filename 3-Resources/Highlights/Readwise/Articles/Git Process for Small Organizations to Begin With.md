@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/161189cd32b4
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Git Process for Small Organizations to Begin With", "Git Process for Small Organizations to Begin With"]
 ---
 # Git Process for Small Organizations to Begin With
 

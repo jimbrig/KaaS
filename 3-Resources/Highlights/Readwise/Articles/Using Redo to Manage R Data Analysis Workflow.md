@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Using Redo to Manage R Data Analysis Workflow", "Using Redo to Manage R Data Analysis Workflow"]
 ---
 # Using Redo to Manage R Data Analysis Workflow
 

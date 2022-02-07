@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.mindtools.com/blog/reflect-recover-reset-life-plan-2021/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Reflect, Recover, Reset – Your Life Plan 2021", "Reflect, Recover, Reset – Your Life Plan 2021"]
 ---
 # Reflect, Recover, Reset – Your Life Plan 2021
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Solutions for Taking Notes When Listening to Podcasts", "Solutions for Taking Notes When Listening to Podcasts"]
 ---
 # Solutions for Taking Notes When Listening to Podcasts
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://chtbl.com/track/99553/media.transistor.fm/cf22f16f.mp3
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["68 Bits of Unsolicited Advice", "68 Bits of Unsolicited Advice"]
 ---
 # 68 Bits of Unsolicited Advice
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://code.markedmondson.me/shiny-cloudrun/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Shiny on Google Cloud Run - Scale-To-Zero R Web Apps", "Shiny on Google Cloud Run - Scale-To-Zero R Web Apps"]
 ---
 # Shiny on Google Cloud Run - Scale-To-Zero R Web Apps
 

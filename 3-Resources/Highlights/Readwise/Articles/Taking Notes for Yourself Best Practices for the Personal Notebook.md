@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/47a78084c750
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Taking Notes for Yourself: Best Practices for the Personal Notebook", "Taking Notes for Yourself: Best Practices for the Personal Notebook"]
 ---
 # Taking Notes for Yourself: Best Practices for the Personal Notebook
 

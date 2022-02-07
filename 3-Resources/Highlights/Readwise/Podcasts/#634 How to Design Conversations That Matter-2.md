@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f319072f3a8e12e79e0f4e8
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#634: How to Design Conversations That Matter", "#634: How to Design Conversations That Matter"]
 ---
 # #634: How to Design Conversations That Matter
 

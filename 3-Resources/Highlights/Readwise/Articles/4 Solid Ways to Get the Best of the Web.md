@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/4-solid-ways-get-best-web/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["4 Solid Ways to Get the Best of the Web", "4 Solid Ways to Get the Best of the Web"]
 ---
 # 4 Solid Ways to Get the Best of the Web
 
@@ -23,7 +23,7 @@ Aliases: []
     - Tags: [[favorite]] 
 - Substance Over Style
   On many occasions, I browsed through websites and installed apps for the only reason that they were shiny and inviting. On the other hand, I ignored some really informative websites because they did not hold much aesthetic appeal. Only after I decided to declutter did I notice that I spent too much time being taken in by clever marketing strategies and slick interfaces, while not spending enough of it on things that provided something of use to me.
-    - Tags: [[pkm]] [[declutter]] [[Productivity]] [[favorite]] 
+    - Tags: [[pkm]] [[declutter]] [[productivity]] [[favorite]] 
 - A simple way to deal with information onslaught online is by limiting yourself to a magic number, of your choice of course. For example, if you’re an RSS packrat who doesn’t read most of the articles in his feed, decide on a certain number, say, 20. Go through your subscriptions and retain only the top 20 — the ones that appeal to you the most. The idea here is not to put a damper on your exploration of the Web, but to help you devote your attention to what you consider the best of the best.
     - Tags: [[favorite]] 
     - Note: TODO - do this across accounts (Feedly, etc.)

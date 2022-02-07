@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://feedly.com/i/entry//XL293970xQc4/LKdILhU11EYv7L/n1qAwSKIkwfhDI=_176e2659ec3:2cefb3:c3a04210
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A New Year Is a Beautiful Fresh Start", "A New Year Is a Beautiful Fresh Start"]
 ---
 # A New Year Is a Beautiful Fresh Start
 

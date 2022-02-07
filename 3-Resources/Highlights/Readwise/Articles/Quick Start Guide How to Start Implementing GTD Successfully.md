@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-28
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2d1637f0ce0c
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Quick Start Guide: How to Start Implementing GTD Successfully", "Quick Start Guide: How to Start Implementing GTD Successfully"]
 ---
 # Quick Start Guide: How to Start Implementing GTD Successfully
 

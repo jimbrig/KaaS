@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.frankbuck.org/getting-more-done/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Getting More Done at Work With Evernote - Frank Buck Consulting", "Getting More Done at Work With Evernote - Frank Buck Consulting"]
 ---
 # Getting More Done at Work With Evernote - Frank Buck Consulting
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.macobserver.com/tips/deep-dive/intro-to-pim/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer", "How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer"]
 ---
 # How to Organize Your Files: An Introduction to Personal File Management - The Mac Observer
 

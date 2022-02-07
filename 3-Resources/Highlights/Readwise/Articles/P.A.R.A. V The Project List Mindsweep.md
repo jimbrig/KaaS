@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-26
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/afff12bb1d02
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["P.A.R.A. V: The Project List Mindsweep", "P.A.R.A. V: The Project List Mindsweep"]
 ---
 # P.A.R.A. V: The Project List Mindsweep
 

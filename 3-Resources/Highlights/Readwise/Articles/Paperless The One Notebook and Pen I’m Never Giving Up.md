@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/9537b2a7cd72
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Paperless: The One Notebook and Pen I’m Never Giving Up", "Paperless: The One Notebook and Pen I’m Never Giving Up"]
 ---
 # Paperless: The One Notebook and Pen I’m Never Giving Up
 

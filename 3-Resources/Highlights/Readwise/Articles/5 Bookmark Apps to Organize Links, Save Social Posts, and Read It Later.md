@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.makeuseof.com/tag/bookmark-apps-organize-links-save-social-posts-read-later/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later", "5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later"]
 ---
 # 5 Bookmark Apps to Organize Links, Save Social Posts, and Read It Later
 

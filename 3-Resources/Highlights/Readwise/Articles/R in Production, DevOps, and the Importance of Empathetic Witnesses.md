@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/78ecf4430e36
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["R in Production, DevOps, and the Importance of Empathetic Witnesses", "R in Production, DevOps, and the Importance of Empathetic Witnesses"]
 ---
 # R in Production, DevOps, and the Importance of Empathetic Witnesses
 

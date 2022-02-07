@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Obsidian, Taming a Collective Consciousness - TrustedSec", "Obsidian, Taming a Collective Consciousness - TrustedSec"]
 ---
 # Obsidian, Taming a Collective Consciousness - TrustedSec
 

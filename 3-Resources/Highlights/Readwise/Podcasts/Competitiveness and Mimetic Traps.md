@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f8440e3a264773e06433dc6
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Competitiveness and Mimetic Traps", "Competitiveness and Mimetic Traps"]
 ---
 # Competitiveness and Mimetic Traps
 

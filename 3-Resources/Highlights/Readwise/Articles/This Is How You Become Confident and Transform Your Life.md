@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://benjaminhardy.com/thisishowyoubecomeconfidentandtransformyourlife/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["This Is How You Become Confident and Transform Your Life", "This Is How You Become Confident and Transform Your Life"]
 ---
 # This Is How You Become Confident and Transform Your Life
 

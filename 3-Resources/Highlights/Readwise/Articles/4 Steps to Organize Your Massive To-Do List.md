@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://kalynbrooke.com/life-and-style/time-management/brain-dump-101/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["4 Steps to Organize Your Massive To-Do List", "4 Steps to Organize Your Massive To-Do List"]
 ---
 # 4 Steps to Organize Your Massive To-Do List
 

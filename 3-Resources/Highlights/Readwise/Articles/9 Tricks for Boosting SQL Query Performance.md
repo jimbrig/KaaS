@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/2c03ea4873b2
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["9 Tricks for Boosting SQL Query Performance", "9 Tricks for Boosting SQL Query Performance"]
 ---
 # 9 Tricks for Boosting SQL Query Performance
 

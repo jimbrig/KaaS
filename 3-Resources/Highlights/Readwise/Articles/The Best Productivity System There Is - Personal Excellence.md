@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://personalexcellence.co/blog/productivity-system/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Best Productivity System There Is - Personal Excellence", "The Best Productivity System There Is - Personal Excellence"]
 ---
 # The Best Productivity System There Is - Personal Excellence
 

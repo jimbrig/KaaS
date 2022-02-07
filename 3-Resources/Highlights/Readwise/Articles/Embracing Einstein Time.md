@@ -1,10 +1,10 @@
 ---
-Date: 2022-01-23
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/b3e8b5f0176e
 Tags: ["#Type/Highlight/Article"]
-Aliases: []
+Aliases: ["Embracing Einstein Time", "Embracing Einstein Time"]
 ---
 # Embracing Einstein Time
 

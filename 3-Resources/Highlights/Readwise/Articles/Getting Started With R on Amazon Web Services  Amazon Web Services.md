@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-25
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://aws.amazon.com/blogs/opensource/getting-started-with-r-on-amazon-web-services/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Getting Started With R on Amazon Web Services | Amazon Web Services", "Getting Started With R on Amazon Web Services | Amazon Web Services"]
 ---
 # Getting Started With R on Amazon Web Services | Amazon Web Services
 

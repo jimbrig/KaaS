@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.yujun.org/post/project/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Project Management With RStudio and Github | Yujun Zhou's Website", "Project Management With RStudio and Github | Yujun Zhou's Website"]
 ---
 # Project Management With RStudio and Github | Yujun Zhou's Website
 

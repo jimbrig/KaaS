@@ -1,17 +1,17 @@
 ---
-Date: 2022-01-12
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://www.seagate.com/do-more/organizing-your-digital-files-master-dm/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Dos and Don’ts for Organizing Your Digital Files | Seagate US", "Dos and Don’ts for Organizing Your Digital Files | Seagate US"]
 ---
 # Dos and Don’ts for Organizing Your Digital Files | Seagate US
 
 ## Metadata
 - Author: [[seagate.com]]
 - Full Title: Dos and Don’ts for Organizing Your Digital Files | Seagate US
-- Category: #Type/Highlight/Article 
+- Category: #Type/Highlight/Article
 - URL: https://www.seagate.com/do-more/organizing-your-digital-files-master-dm/
 
 ## Highlights

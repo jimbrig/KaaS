@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cio.com/article/2384870/get-new-it-pros-up-to-speed-fast-with-this-onboarding-checklist.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Get New IT Pros Up to Speed Fast With This Onboarding Checklist", "Get New IT Pros Up to Speed Fast With This Onboarding Checklist"]
 ---
 # Get New IT Pros Up to Speed Fast With This Onboarding Checklist
 

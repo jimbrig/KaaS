@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.dnsstuff.com/dns-monitoring-software
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff", "7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff"]
 ---
 # 7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff
 

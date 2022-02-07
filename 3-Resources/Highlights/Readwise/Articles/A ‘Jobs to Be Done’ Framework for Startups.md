@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://firstround.com/review/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A ‘Jobs to Be Done’ Framework for Startups", "A ‘Jobs to Be Done’ Framework for Startups"]
 ---
 # A ‘Jobs to Be Done’ Framework for Startups
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5ee6d7109070069bd377b8f4
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS", "My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS"]
 ---
 # My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times | DEEP QUESTIONS
 

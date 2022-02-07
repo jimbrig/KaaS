@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.multcloud.com/tutorials/export-evernote-to-google-drive-0708.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Export Evernote to Google Drive?", "How to Export Evernote to Google Drive?"]
 ---
 # How to Export Evernote to Google Drive?
 

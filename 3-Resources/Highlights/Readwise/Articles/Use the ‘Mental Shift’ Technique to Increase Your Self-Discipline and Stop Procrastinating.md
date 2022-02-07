@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/7f70b729fa55
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating", "Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating"]
 ---
 # Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating
 

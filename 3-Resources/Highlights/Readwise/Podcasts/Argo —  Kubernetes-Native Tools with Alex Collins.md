@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Argo —  Kubernetes-Native Tools with Alex Collins", "Argo —  Kubernetes-Native Tools with Alex Collins"]
 ---
 # Argo —  Kubernetes-Native Tools with Alex Collins
 

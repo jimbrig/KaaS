@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.calnewport.com/blog/2009/08/25/the-unsinkable-student-organization-system/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Unsinkable Student Organization System - Study Hacks - Cal Newport", "The Unsinkable Student Organization System - Study Hacks - Cal Newport"]
 ---
 # The Unsinkable Student Organization System - Study Hacks - Cal Newport
 

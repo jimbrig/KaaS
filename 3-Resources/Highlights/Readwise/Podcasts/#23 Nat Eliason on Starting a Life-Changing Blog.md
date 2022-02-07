@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fa92a255a451217781934c8
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#23: Nat Eliason on Starting a Life-Changing Blog", "#23: Nat Eliason on Starting a Life-Changing Blog"]
 ---
 # #23: Nat Eliason on Starting a Life-Changing Blog
 

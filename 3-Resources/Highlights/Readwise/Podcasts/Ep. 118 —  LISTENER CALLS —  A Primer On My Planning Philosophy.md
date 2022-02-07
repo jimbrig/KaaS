@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy", "Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy"]
 ---
 # Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy
 

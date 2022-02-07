@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/a8e53d04b4a7
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Habits You Must Have to Be a Highly Effective Programmers", "Habits You Must Have to Be a Highly Effective Programmers"]
 ---
 # Habits You Must Have to Be a Highly Effective Programmers
 

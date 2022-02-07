@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://jon.bo/posts/digital-tools/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Digital Tools I Wish Existed", "Digital Tools I Wish Existed"]
 ---
 # Digital Tools I Wish Existed
 

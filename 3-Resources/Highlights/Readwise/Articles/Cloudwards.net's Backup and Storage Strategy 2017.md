@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cloudwards.net/backup-storage-strategy-2017/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Cloudwards.net's Backup and Storage Strategy 2017", "Cloudwards.net's Backup and Storage Strategy 2017"]
 ---
 # Cloudwards.net's Backup and Storage Strategy 2017
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5fd769b0749e68ed4258bc93
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Ep. 53: Covey's Quads, "Perfect" Productivity Systems, and Reducing Laziness", "Ep. 53: Covey's Quads, "Perfect" Productivity Systems, and Reducing Laziness"]
 ---
 # Ep. 53: Covey's Quads, "Perfect" Productivity Systems, and Reducing Laziness
 

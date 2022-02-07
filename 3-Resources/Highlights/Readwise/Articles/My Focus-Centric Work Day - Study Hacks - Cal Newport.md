@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.calnewport.com/blog/2009/05/13/my-focus-centric-work-day/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["My Focus-Centric Work Day - Study Hacks - Cal Newport", "My Focus-Centric Work Day - Study Hacks - Cal Newport"]
 ---
 # My Focus-Centric Work Day - Study Hacks - Cal Newport
 

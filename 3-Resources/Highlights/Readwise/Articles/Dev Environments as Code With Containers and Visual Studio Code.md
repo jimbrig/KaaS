@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/690897a2be59
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Dev Environments as Code With Containers and Visual Studio Code", "Dev Environments as Code With Containers and Visual Studio Code"]
 ---
 # Dev Environments as Code With Containers and Visual Studio Code
 

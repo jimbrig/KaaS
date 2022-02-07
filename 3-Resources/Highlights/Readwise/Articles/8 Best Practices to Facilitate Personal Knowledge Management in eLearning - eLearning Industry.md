@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://elearningindustry.com/best-practices-facilitate-personal-knowledge-management-elearning
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry", "8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry"]
 ---
 # 8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry
 

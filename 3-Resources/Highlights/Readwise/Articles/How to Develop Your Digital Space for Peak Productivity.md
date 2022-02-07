@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://deanyeong.com/develop-your-digital-space/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Develop Your Digital Space for Peak Productivity", "How to Develop Your Digital Space for Peak Productivity"]
 ---
 # How to Develop Your Digital Space for Peak Productivity
 

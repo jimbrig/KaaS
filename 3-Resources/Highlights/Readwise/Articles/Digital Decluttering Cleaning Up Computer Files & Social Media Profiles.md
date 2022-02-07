@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://howtogyst.com/digital-decluttering/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles", "Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles"]
 ---
 # Digital Decluttering: Cleaning Up Computer Files & Social Media Profiles
 

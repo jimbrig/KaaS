@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.cloudwards.net/how-to-partition-a-hard-drive/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Partition a Hard Drive in 2020", "How to Partition a Hard Drive in 2020"]
 ---
 # How to Partition a Hard Drive in 2020
 

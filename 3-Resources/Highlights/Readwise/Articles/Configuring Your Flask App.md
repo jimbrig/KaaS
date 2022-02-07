@@ -1,10 +1,10 @@
 ---
-Date: 2021-12-07
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: hypothesis
 Link: https://hackersandslackers.com/configure-flask-applications/
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Configuring Your Flask App", "Configuring Your Flask App"]
 ---
 # Configuring Your Flask App
 

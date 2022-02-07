@@ -1,11 +1,10 @@
 ---
-
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://towardsdatascience.com/the-data-science-workflow-43859db0415
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Data Science Workflow", "The Data Science Workflow"]
 ---
 # The Data Science Workflow
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://grantammons.me/2017/11/26/efficiently-managing-dotfiles/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Grant Ammons - How to Efficiently Manage Your Dotfiles", "Grant Ammons - How to Efficiently Manage Your Dotfiles"]
 ---
 # Grant Ammons - How to Efficiently Manage Your Dotfiles
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.projectmanager.com/training/define-workflow-process
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["3 Steps to Designing a Powerful Project Workflow - ProjectManager.com", "3 Steps to Designing a Powerful Project Workflow - ProjectManager.com"]
 ---
 # 3 Steps to Designing a Powerful Project Workflow - ProjectManager.com
 

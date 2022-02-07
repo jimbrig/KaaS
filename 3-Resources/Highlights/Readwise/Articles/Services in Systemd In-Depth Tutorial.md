@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/7e47c485edbf
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Services in Systemd: In-Depth Tutorial", "Services in Systemd: In-Depth Tutorial"]
 ---
 # Services in Systemd: In-Depth Tutorial
 

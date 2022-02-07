@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://thezeroed.com/productivity-system-the-definitive-guide-2019/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Productivity System: The Definitive Guide (2020) - THEZEROED", "Productivity System: The Definitive Guide (2020) - THEZEROED"]
 ---
 # Productivity System: The Definitive Guide (2020) - THEZEROED
 

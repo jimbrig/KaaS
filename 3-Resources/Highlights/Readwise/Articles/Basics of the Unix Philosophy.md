@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Basics of the Unix Philosophy", "Basics of the Unix Philosophy"]
 ---
 # Basics of the Unix Philosophy
 

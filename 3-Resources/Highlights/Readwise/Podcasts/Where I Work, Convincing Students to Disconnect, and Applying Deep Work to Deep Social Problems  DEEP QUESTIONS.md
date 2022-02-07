@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f1f353ebd1db96b415f8bd4
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems | DEEP QUESTIONS", "Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems | DEEP QUESTIONS"]
 ---
 # Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems | DEEP QUESTIONS
 

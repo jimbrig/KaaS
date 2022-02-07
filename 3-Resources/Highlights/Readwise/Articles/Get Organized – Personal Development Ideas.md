@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://personaldevelopmentideas.com/tag/get-organized-2/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Get Organized – Personal Development Ideas", "Get Organized – Personal Development Ideas"]
 ---
 # Get Organized – Personal Development Ideas
 

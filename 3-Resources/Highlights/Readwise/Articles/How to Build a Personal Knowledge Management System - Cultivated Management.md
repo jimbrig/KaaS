@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://cultivatedmanagement.com/personal-knowledge-management-system/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Build a Personal Knowledge Management System - Cultivated Management", "How to Build a Personal Knowledge Management System - Cultivated Management"]
 ---
 # How to Build a Personal Knowledge Management System - Cultivated Management
 

@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://traffic.libsyn.com/secure/theknowledgeproject/88_Derek_Sivers.mp3?dest-id=271299
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["#88 Derek Sivers: Innovation Versus Imitation", "#88 Derek Sivers: Innovation Versus Imitation"]
 ---
 # #88 Derek Sivers: Innovation Versus Imitation
 

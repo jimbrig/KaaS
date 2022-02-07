@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["A Preview of WSL in the Microsoft Store Is Now Available!", "A Preview of WSL in the Microsoft Store Is Now Available!"]
 ---
 # A Preview of WSL in the Microsoft Store Is Now Available!
 

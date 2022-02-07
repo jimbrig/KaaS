@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://blog.finxter.com/minimalism-in-programming/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Keep It Simple, Stupid! Minimalism in Programming: How Complexity Harms Your Productivity | Finxter", "Keep It Simple, Stupid! Minimalism in Programming: How Complexity Harms Your Productivity | Finxter"]
 ---
 # Keep It Simple, Stupid! Minimalism in Programming: How Complexity Harms Your Productivity | Finxter
 

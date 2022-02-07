@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/34a1e8b1b724
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Writing Well: A Must-Have Skill That No One Teaches Data Scientists", "Writing Well: A Must-Have Skill That No One Teaches Data Scientists"]
 ---
 # Writing Well: A Must-Have Skill That No One Teaches Data Scientists
 

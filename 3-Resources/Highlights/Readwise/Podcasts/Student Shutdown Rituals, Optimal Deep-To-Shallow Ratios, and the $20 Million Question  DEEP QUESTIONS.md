@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f55660fd5c7dd4ffa2bd6d7
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS", "Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS"]
 ---
 # Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question | DEEP QUESTIONS
 

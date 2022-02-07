@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://www.carlpullein.com/blog/how-to-do-a-weekly-planning-session/18/11/2020-1
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Do a Weekly Planning Session.", "How to Do a Weekly Planning Session."]
 ---
 # How to Do a Weekly Planning Session.
 

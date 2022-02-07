@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: podcast
 Link: https://www.airr.io/episode/5f610cf4e619d2f6e6690d28
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan", "Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan"]
 ---
 # Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan
 

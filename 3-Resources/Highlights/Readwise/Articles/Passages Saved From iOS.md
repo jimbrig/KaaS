@@ -1,10 +1,10 @@
 ---
-Date: 2022-01-08
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: mobile_share
-Link: null
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["Passages Saved From iOS", "Passages Saved From iOS"]
 ---
 # Passages Saved From iOS
 

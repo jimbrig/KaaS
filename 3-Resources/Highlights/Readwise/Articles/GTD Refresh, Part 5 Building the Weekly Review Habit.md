@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.lifehack.org/articles/featured/gtd-refresh-part-5-building-the-weekly-review-habit.html
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["GTD Refresh, Part 5: Building the Weekly Review Habit", "GTD Refresh, Part 5: Building the Weekly Review Habit"]
 ---
 # GTD Refresh, Part 5: Building the Weekly Review Habit
 

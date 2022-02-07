@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-28
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/f68bd6c4c90a
-Tags: [ "#Type/Highlight/Article" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["The Second Brain Method", "The Second Brain Method"]
 ---
 # The Second Brain Method
 

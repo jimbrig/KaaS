@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/91a5945b3644
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021", "How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021"]
 ---
 # How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021
 

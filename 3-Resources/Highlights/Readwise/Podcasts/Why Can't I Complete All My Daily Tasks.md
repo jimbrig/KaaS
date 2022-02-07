@@ -1,15 +1,15 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: snipd
-Link: null
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Why Can't I Complete All My Daily Tasks?", "Why Can't I Complete All My Daily Tasks?"]
 ---
 # Why Can't I Complete All My Daily Tasks?
 
 ## Metadata
-- Author: **The Working With... Podcast**
+- Author: [[The Working With... Podcast]]
 - Full Title: Why Can't I Complete All My Daily Tasks?
 - Category: #Type/Highlight/Podcast
 

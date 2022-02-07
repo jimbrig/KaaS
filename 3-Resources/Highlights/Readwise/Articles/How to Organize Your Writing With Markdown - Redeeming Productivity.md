@@ -1,10 +1,10 @@
 ---
-Date: 2021-11-17
+Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://www.redeemingproductivity.com/markdown/
-Tags: [ "#Type/Highlight" ]
-Aliases: []
+Tags: ["#Type/Highlight/Article"]
+Aliases: ["How to Organize Your Writing With Markdown - Redeeming Productivity", "How to Organize Your Writing With Markdown - Redeeming Productivity"]
 ---
 # How to Organize Your Writing With Markdown - Redeeming Productivity
 

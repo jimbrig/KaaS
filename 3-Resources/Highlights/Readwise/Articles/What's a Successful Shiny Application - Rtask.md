@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://rtask.thinkr.fr/whats-a-successful-shiny-application/
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["What's a "Successful" Shiny Application? - Rtask", "What's a "Successful" Shiny Application? - Rtask"]
+Aliases: ["Whats a Successful Shiny Application? - Rtask"]
 ---
 # What's a "Successful" Shiny Application? - Rtask
 

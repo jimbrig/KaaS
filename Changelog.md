@@ -1,3 +1,4 @@
+- 2022-02-06 at 21h44 · [[What's a Successful Shiny Application - Rtask]]
 - 2022-02-06 at 21h40 · [[Why Ongoing Is the Worst Word in the History of Project Management]]
 - 2022-02-06 at 21h38 · [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]]
 - 2022-02-06 at 21h34 · [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
@@ -459,7 +460,6 @@
 - 2022-02-06 at 18h46 · [[R Tips and Tricks – Utilities]]
 - 2022-02-06 at 18h46 · [[Getting Started With GTD Templates  Evernote  Evernote Blog]]
 - 2022-02-06 at 18h46 · [[Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali]]
-- 2022-02-06 at 18h46 · [[What's a Successful Shiny Application - Rtask]]
 - 2022-02-06 at 18h46 · [[Bioconductor - Package Guidelines]]
 - 2022-02-06 at 18h46 · [[Clean Up and Declutter Your Computer]]
 - 2022-02-06 at 18h46 · [[10 Ways to Improve How You Manage Information]]

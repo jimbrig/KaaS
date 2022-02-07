@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: instapaper
 Link: https://csgillespie.github.io/efficientR/
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["4 Efficient Workflow | Efficient R Programming", "4 Efficient Workflow | Efficient R Programming"]
+Aliases: ["4 Efficient Workflow | Efficient R Programming"]
 ---
 # 4 Efficient Workflow | Efficient R Programming
 

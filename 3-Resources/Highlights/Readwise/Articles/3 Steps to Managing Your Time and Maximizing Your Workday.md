@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: feedly
 Link: https://addicted2success.com/success-advice/3-steps-to-managing-your-time-and-maximizing-your-workday/
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["3 Steps to Managing Your Time and Maximizing Your Workday", "3 Steps to Managing Your Time and Maximizing Your Workday"]
+Aliases: ["3 Steps to Managing Your Time and Maximizing Your Workday"]
 ---
 # 3 Steps to Managing Your Time and Maximizing Your Workday
 

@@ -4,7 +4,7 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Source: medium
 Link: https://medium.com/p/55b7d687498b
 Tags: ["#Type/Highlight/Article"]
-Aliases: ["4 Great Habits to Increase Productivity, Focus, Concentration, and Determination", "4 Great Habits to Increase Productivity, Focus, Concentration, and Determination"]
+Aliases: ["4 Great Habits to Increase Productivity, Focus, Concentration, and Determination"]
 ---
 # 4 Great Habits to Increase Productivity, Focus, Concentration, and Determination
 

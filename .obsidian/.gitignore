@@ -1,2 +1,10 @@
 *
 !.gitignore
+!themes/*
+!templates.json
+!command-palette.json
+!core-plugins.json
+!graph.json
+!hotkeys.json
+!starred.json
+

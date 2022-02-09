@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Python", "#Topic/Dev/Python"]
+Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
 Alias: ["<% tp.file.title %>"]
 ---
 
@@ -9,7 +9,7 @@ Alias: ["<% tp.file.title %>"]
 
 *Source: *
 
-```Python
+```powershell
 
 ```
 
@@ -18,8 +18,11 @@ Alias: ["<% tp.file.title %>"]
 ## Appendix: Links
 
 - [[3-Resources/Code/_README|Code]]
-- [[Python]]
 - [[Development]]
+- [[Windows]]
+- [[Windows CMD]]
+- [[Command Line]]
+- [[PowerShell]]
 
 *Backlinks:*
 

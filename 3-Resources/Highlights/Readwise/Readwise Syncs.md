@@ -502,3 +502,19 @@
 - [[2022-02-06]] 9:27 PM — Synced 6 highlights from 1 document.
     - 6 highlights from 6 Key Lessons From August Bradley's Notion — Keep Productive
 
+- [[2022-02-09]] 2:42 PM — Synced 259 highlights from 14 documents.
+    - 6 highlights from 10 Killer Web Apps That Will Increase Your Productivity
+    - 25 highlights from How I Structure My Software Design Document
+    - 15 highlights from How to Manage Your Time Effectively as a Software Engineer
+    - 11 highlights from Building a Data Pipeline From Scratch on AWS
+    - 36 highlights from Python Best Practices.
+    - 24 highlights from SQL Best Practices
+    - 3 highlights from Learn From Google’s Data Engineers: Dimensional Data Modeling Is Dead
+    - 17 highlights from The Clean Architecture — Beginner’s Guide
+    - 54 highlights from Building a Platform: Part 2
+    - 8 highlights from Create Your Own Delicious Slice of Text-Based Productivity in Obsidian—A Step-By-Step Guide
+    - 2 highlights from 3 Cool Things You Didn’t Know You Could Do With Obsidian
+    - 52 highlights from Data Warehouse Tips and Best Practices I Wish I Knew Earlier
+    - 4 highlights from Why You Should Learn to Manually Code Data Warehouse Processes
+    - 2 highlights from If You Want to Be a Great Programmer, Learn to Write
+

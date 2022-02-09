@@ -2,10 +2,14 @@
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool/Language", "#Topic/Dev"]
-Alias: ["Javascript"]
+Alias: ["Javascript", "JS", "JavaScript"]
 ---
 
 # Javascript
+
+## Code Snippets
+
+- [[Javascript - Remove all YouTube Watch Later Videos]]
 
 ***
 

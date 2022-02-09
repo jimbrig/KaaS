@@ -52,7 +52,7 @@ I have gained access to some of these platforms with my [[Visual Studio]] Enterp
 
 - [edX](https://www.edx.org/): Free Online Courses by Harvard, MIT, & more; Non-Profit that works with world-class universities, like Harvard and NYU, to provide **3,000+** free online courses.
 
-- [Khan Academy](https://www.khanacademy.org/): Another non-profit company, Khan Academy, offers excellent beginner-friendly resources to learn to code for free. The topics are mainly basic computer programming principles, [[HTML]], [[CSS]], [[JavaScript]], [[jQuery]], and [[SQL]]. While the collection isn’t as vast as in other platforms, it is sufficient for novice web developers.
+- [Khan Academy](https://www.khanacademy.org/): Another non-profit company, Khan Academy, offers excellent beginner-friendly resources to learn to code for free. The topics are mainly basic computer programming principles, [[HTML]], [[CSS]], [[3-Resources/Tools/Web Development/Javascript]], [[jQuery]], and [[SQL]]. While the collection isn’t as vast as in other platforms, it is sufficient for novice web developers.
 
 - [Code.org](https://code.org/): Code.org is a non-profit company that aims to make programming a part of the mainstream education curriculum.
 

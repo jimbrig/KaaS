@@ -115,7 +115,8 @@
     "Vue",
     "Visio",
     "Transactional",
-    "Slipbox"
+    "Slipbox",
+    "Javascript"
   ],
   "livePreview": true,
   "legacyEditor": true,

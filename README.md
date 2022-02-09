@@ -17,7 +17,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ***
 
-<center><img src="https://i.imgur.com/gKyrewF.png" height="75%" width="75%"/></center>
+<center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
 
 ***
 

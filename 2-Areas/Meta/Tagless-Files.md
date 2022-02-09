@@ -1,6 +1,6 @@
 - [[RIM - R Installation Manager CLI]]
 - [[3-Resources/Tools/Untitled 1.md]]
-- [[3-Resources/Highlights/Readwise/Readwise Syncs.md]]
+- [[Readwise Syncs]]
 - [[Highlights for REST API Best Practices]]
 - [[3-Resources/Embeds/Todoist-Embed.md]]
 - [[3-Resources/Clippings/Obsidian-Clipper.md]]

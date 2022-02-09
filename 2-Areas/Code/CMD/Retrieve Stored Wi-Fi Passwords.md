@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Code", "#Topic/Dev"]
+Alias: ["Retrieve Stored Wi-Fi Passwords"]
 ---
 
-# <% tp.file.title %>
+# Retrieve Stored Wi-Fi Passwords
 
 *Source: *
 
 ```powershell
-
+netsh wlan show profile name=fossbytes key=clear
 ```
 
 ***
@@ -24,8 +24,9 @@ Alias: ["<% tp.file.title %>"]
 - [[Command Line]]
 - [[PowerShell]]
 
+
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Retrieve Stored Wi-Fi Passwords]] AND -"Changelog"
 ```

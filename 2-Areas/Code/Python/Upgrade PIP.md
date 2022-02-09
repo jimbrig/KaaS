@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/Python", "#Topic/Dev/Python"]
-Alias: ["<% tp.file.title %>"]
+Alias: ["Upgrade PIP"]
 ---
 
-# <% tp.file.title %>
+# Upgrade PIP
 
 *Source: *
 
 ```Python
-
+python -m pip install --upgrade pip
 ```
 
 ***
@@ -24,5 +24,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Upgrade PIP]] AND -"Changelog"
 ```

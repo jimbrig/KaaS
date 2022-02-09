@@ -18,7 +18,7 @@ Alias: ["<% tp.file.title %>"]
 
 ## Appendix: Links
 
-- [[3-Resources/Code/_README|Code]]
+- [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
 - [[SQL Server]]

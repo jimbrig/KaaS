@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI"]
-Alias: ["<% tp.file.title %>"]
+Alias: ["Delete Windows Update Leftover Files"]
 ---
 
-# <% tp.file.title %>
+# Delete Windows Update Leftover Files
 
 *Source: *
 
 ```powershell
-
+del /s /q /f "%SYSTEMROOT%\Logs\WindowsUpdate\*"
 ```
 
 ***
@@ -27,5 +27,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Delete Windows Update Leftover Files]] AND -"Changelog"
 ```

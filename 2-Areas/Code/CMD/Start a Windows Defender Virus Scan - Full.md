@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Code", "#Topic/Dev"]
+Alias: ["Start a Windows Defender Virus Scan - Full"]
 ---
 
-# <% tp.file.title %>
+# Start a Windows Defender Virus Scan - Full
 
 *Source: *
 
 ```powershell
-
+start-mpscan -scantype fullscan
 ```
 
 ***
@@ -27,5 +27,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Start a Windows Defender Virus Scan - Full]] AND -"Changelog"
 ```

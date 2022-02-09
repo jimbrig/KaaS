@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI"]
+Alias: ["FlushDNS"]
 ---
 
-# <% tp.file.title %>
+# FlushDNS
 
 *Source: *
 
 ```powershell
-
+Ipconfig /flushdns
 ```
 
 ***
@@ -27,5 +27,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[FlushDNS]] AND -"Changelog"
 ```

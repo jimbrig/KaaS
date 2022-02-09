@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Code", "#Topic/Dev"]
+Alias: ["Run the WinSAT Diagnostics Score"]
 ---
 
-# <% tp.file.title %>
+# Run the WinSAT Diagnostics Score
 
 *Source: *
 
 ```powershell
-
+Get-CimInstance Win32_WinSat
 ```
 
 ***
@@ -24,8 +24,9 @@ Alias: ["<% tp.file.title %>"]
 - [[Command Line]]
 - [[PowerShell]]
 
+
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Run the WinSAT Diagnostics Score]] AND -"Changelog"
 ```

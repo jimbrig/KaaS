@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Tags: ["#Type/Code", "#Topic/Dev"]
+Alias: ["View Available Disks on Windows"]
 ---
 
-# <% tp.file.title %>
+# View Available Disks on Windows
 
 *Source: *
 
 ```powershell
-
+wmic diskdrive list brief
 ```
 
 ***
@@ -27,5 +27,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[View Available Disks on Windows]] AND -"Changelog"
 ```

@@ -518,3 +518,6 @@
     - 4 highlights from Why You Should Learn to Manually Code Data Warehouse Processes
     - 2 highlights from If You Want to Be a Great Programmer, Learn to Write
 
+- [[2022-02-11]] 6:22 PM — Synced 7 highlights from 1 document.
+    - 7 highlights from Bits vs Bytes
+

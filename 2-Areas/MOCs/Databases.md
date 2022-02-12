@@ -68,7 +68,7 @@ Alias: "Databases"
 ### GUI Interfaces
 
 -   [[SQL Server Management Studio]]
--   [[dBeaver]]
+-   [[DBeaver]]
 -   [[BeeKeeper]]
 -   [[pgAdmin]]
 -   [[dbgate]]

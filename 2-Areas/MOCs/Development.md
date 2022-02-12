@@ -145,7 +145,7 @@ Alias: "Development"
 - [[SQL Server Management Studio]]
 - [[dbgate]]
 - [[BeeKeeper]]
-- [[DBEaver]]
+- [[DBeaver]]
 
 ### Microsoft and Windows Tools
 

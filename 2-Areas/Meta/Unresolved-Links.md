@@ -239,7 +239,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[linkedin.com]] in [[3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn]]
 - [[updater.com]] in [[Last-Minute Moving Tips How to Pack in a Pinch - Updater]]
 - [[winaero.com]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
-- [[windows]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
+- [[Windows]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
 - [[shell]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
 - [[reference]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
 - [[Thomas Kainrad]] in [[Managing My Personal Knowledge Base]]

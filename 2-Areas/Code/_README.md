@@ -67,7 +67,7 @@ Alias: "Code"
 - [[3-Resources/Tools/Web Development/Javascript|JavaScript]]
 - [[HTML]]
 - [[CSS]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Markdown]]
 - [[Docker]]
 - [[Excel VBA]]

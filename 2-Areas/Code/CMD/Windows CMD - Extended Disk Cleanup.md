@@ -22,7 +22,7 @@ cmd.exe /c Cleanmgr /sageset:65535 & Cleanmgr /sagerun:65535
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Windows]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Command Line]]
 - [[PowerShell]]
 

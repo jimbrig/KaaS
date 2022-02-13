@@ -20,7 +20,7 @@ del /s /q /f "%SYSTEMROOT%\Logs\WindowsUpdate\*"
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Windows]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Command Line]]
 - [[PowerShell]]
 

@@ -20,7 +20,7 @@ netsh wlan show profile name=fossbytes key=clear
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Windows]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Command Line]]
 - [[PowerShell]]
 

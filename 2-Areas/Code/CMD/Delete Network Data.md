@@ -20,7 +20,7 @@ del /s /q /f "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\qm
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Windows]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Command Line]]
 - [[PowerShell]]
 

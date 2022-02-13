@@ -20,7 +20,7 @@ Alias: ["Bash"]
 - [[zsh]]
 - [[oh-my-zsh]]
 - [[Windows Terminal]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Windows PowerShell]]
 - [[PowerShell Core]]
 

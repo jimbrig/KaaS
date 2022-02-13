@@ -20,7 +20,7 @@ reg export HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\Favori
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Windows]]
-- [[Windows CMD]]
+- [[Microsoft DOS]]
 - [[Command Line]]
 - [[PowerShell]]
 

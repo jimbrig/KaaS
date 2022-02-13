@@ -1,3 +1,4 @@
+- 2022-02-13 at 18h02 · [[Ideas for Organizing Digital Files and Folders - Microsoft 365]]
 - 2022-02-13 at 17h44 · [[Learn to Code Platforms Master List]]
 - 2022-02-13 at 17h44 · [[_README]]
 - 2022-02-13 at 17h44 · [[Javascript - Remove all YouTube Watch Later Videos]]
@@ -497,4 +498,3 @@
 - 2022-02-06 at 18h46 · [[#384 —  David Allen — The Art of Getting Things Done (GTD)]]
 - 2022-02-06 at 18h46 · [[Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days]]
 - 2022-02-06 at 18h46 · [[Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon]]
-- 2022-02-06 at 18h46 · [[Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much]]

@@ -9,6 +9,8 @@ Alias: ["SQL - DataDictionary"]
 
 *Source: [sql_scripts/data_dict_dump.sql at main · DataResearchLabs/sql_scripts (github.com)](https://github.com/DataResearchLabs/sql_scripts/blob/main/postgresql/data_dictionary/data_dict_dump.sql)*
 
+See Also: [[Creating a data dictionary with SQL]]
+
 ```SQL
 ------------------------------------------------------------------------------------
 -- Data Dictionary Dump:  

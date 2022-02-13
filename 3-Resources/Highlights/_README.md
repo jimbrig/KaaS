@@ -23,7 +23,7 @@ Collection of highlights and annotations from:
 - [[Twitter]]
 - [[Reddit]]
 - [[StackOverflow]]
-- [[Obsidian Highlights]] via [[Extract Highlights Plugin]]
+- [[Obsidian Highlights Plugin]] via [[Extract Highlights Plugin]]
 
 Plus,
 

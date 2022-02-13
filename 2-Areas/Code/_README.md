@@ -64,7 +64,7 @@ Alias: "Code"
 - [[PowerShell]]
 - [[Bash]]
 - [[Python]]
-- [[3-Resources/Tools/Web Development/Javascript|JavaScript]]
+- [[Javascript|JavaScript]]
 - [[HTML]]
 - [[CSS]]
 - [[Microsoft DOS]]

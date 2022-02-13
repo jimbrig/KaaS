@@ -3,7 +3,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Obsidian"]
+Tags: ["#Type/Tool/Obsidian", "#Topic/PKM/Obsidian"]
 Alias: ["Obsidian-Clipper"]
 ---
 

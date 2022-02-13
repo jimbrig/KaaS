@@ -113,7 +113,7 @@ This section includes packages that provides tools for working and testing with 
 - [[R Package - dittodb|dittodb]] - The `r pkg("dittodb")` package provides functionality to test database interactions with any `r pkg("DBI")` compliant database backend. It includes functionality to use fixtures instead of direct database calls during testing as well as functionality to record those fixtures when interacting with a real database for later use in tests.
 - [[R Package - tfio|tfio]] - The `r pkg("tfio")` package provides the ability to use [Apache Ignite](https://ignite.apache.org/), which handles distributed database management for high-performance computing with in-memory speed.
 - [[R Package dbr|dbr]] - The `r github("daroczig/dbr")` package on GitHub provides convenient database connections and queries from R using YAML configuration files and templates.
-- [[R Package - rocker|rocker]] - The `r pkg("rocker")` package provides a `r pkg("R6")` class interface for handling relational database connections using `r pkg("DBI")` as backend. The purpose is having an intuitive object allowing straightforward handling of SQL databases.
+- [[R Package - rocker 1|rocker]] - The `r pkg("rocker")` package provides a `r pkg("R6")` class interface for handling relational database connections using `r pkg("DBI")` as backend. The purpose is having an intuitive object allowing straightforward handling of SQL databases.
 
 ## Resources
 

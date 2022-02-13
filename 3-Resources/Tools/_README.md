@@ -14,7 +14,7 @@ Alias: Tools
 -   [[Citations Plugin]]
 -   [[Readwise Plugin]]
 -   [[Extract Highlights Plugin]]
--   [[Obsidian Highlights]]
+-   [[Obsidian Highlights Plugin]]
 -   [[Snipd]]
 -   [[Feedly]]
 -   [[Medium]]

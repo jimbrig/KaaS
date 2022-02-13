@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Databases"]
+Tags: ["#Type/Code/SQL", "#Topic/Dev/Data/Databases"]
 Alias: ["SQL - DataDictionary"]
 ---
 

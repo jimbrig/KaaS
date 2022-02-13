@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/PKM", "#Topic/Obsidian"]
+Tags: ["#Type/Tool", "#Topic/PKM", "#Topic/PKM/Obsidian"]
 Alias: ["Kanban Plugin"]
 ---
 

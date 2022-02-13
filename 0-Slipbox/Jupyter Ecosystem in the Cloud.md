@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-02
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python", "#Topic/Dev/Cloud"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Python/Jupyter", "#Topic/Dev/Cloud"]
 Alias: "Jupyter Ecosystem in the Cloud"
 ---
 

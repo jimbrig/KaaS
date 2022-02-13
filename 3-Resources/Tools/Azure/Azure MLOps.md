@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
+Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Math/Statistics/Modeling"]
 Alias: "Azure MLOps"
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases"]
 Alias: ["DBMS", "Database Management System"]
 ---
 

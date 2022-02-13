@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Azure"]
+Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Math/Statistics/Modeling"]
 Alias: "Azure Machine Learning"
 ---
 

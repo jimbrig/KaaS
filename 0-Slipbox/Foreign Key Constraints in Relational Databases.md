@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-03
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Databases", "#Topic/Dev/Design", "#Topic/Dev/SQL"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases", "#Topic/Dev/WebDev/Design", "#Topic/Dev/Data/SQL"]
 Alias: "Foreign Key Constraints in Relational Databases"
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-02
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Azure"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud/Azure"]
 Alias: "Authentication in Azure Key Vault"
 ---
 

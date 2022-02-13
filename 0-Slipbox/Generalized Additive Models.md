@@ -5,8 +5,8 @@ Tags:
   [
     "#Type/Slipbox",
     "#Topic/Dev",
-    "#Topic/Actuarial",
-    "#Topic/Math",
+    "#Topic/Actuarial/Modeling",
+    "#Topic/Math/Statistics",
     "#Topic/Dev/Data"
   ]
 Alias: "Generalized Additive Models"

@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
+Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/VersionControl/CICD"]
 Alias: "Azure DevOps Pipelines"
 ---
 
@@ -9,7 +9,7 @@ Alias: "Azure DevOps Pipelines"
 
 ## Configuration
 
-#Topic/Dev/Azure  
+#Topic/Dev/Cloud/Azure  
 
 Backlink: [[Azure DevOps]]
 See also: [[Microsoft Azure]]

@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev/PowerShell"]
+Tags: ["#Type/Code", "#Topic/Dev/CLI/PowerShell"]
 Alias: "Backup Edge User Preferences PowerShell Script"
 ---
 

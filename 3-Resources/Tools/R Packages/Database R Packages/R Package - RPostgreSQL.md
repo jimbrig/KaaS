@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Dev/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Dev/Data/Databases"]
 Alias: ["R Package - RPostgreSQL", "RPostgreSQL"]
 ---
 

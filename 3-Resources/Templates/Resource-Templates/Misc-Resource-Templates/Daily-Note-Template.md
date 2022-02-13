@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Daily"]
+Tags: ["#Type/DailyNote"]
 Alias: <% tp.date.now() %>
 ---
 

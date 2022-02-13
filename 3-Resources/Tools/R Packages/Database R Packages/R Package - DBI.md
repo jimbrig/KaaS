@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/RPackage", "#Topic/Dev/R"]
+Tags: ["#Type/Tool/R/RPackage", "#Topic/Dev/R"]
 Alias: ["R Package - DBI", "DBI"]
 ---
 

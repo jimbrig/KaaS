@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Dev/Windows"]
+Tags: ["#Type/Guide", "#Topic/Dev/OS/Windows"]
 Alias: "Add a GUI to Batch File Scripts on Windows"
 ---
 

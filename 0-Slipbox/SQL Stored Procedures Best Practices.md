@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases"]
 Alias: "SQL Stored Procedures Best Practices"
 ---
 

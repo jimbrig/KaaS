@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags: ["#Type/Tool/Python/PythonPackage", "#Topic/Dev/Python", "#Topic/Actuarial"]
 Alias: "Python Package - ChainLadder"
 ---
 

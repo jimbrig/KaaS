@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-03
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Databases", "#Topic/Dev/SQL"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases", "#Topic/Dev/Data/SQL"]
 Alias: "Primary Key Constraints in Relational Databases"
 ---
 

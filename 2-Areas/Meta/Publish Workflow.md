@@ -16,7 +16,7 @@ Alias: "Publish Workflow"
 
 *Check out the various [GitHub Actions](https://github.com/jimbrig/KaaS-New/tree/main/.github/workflows) utilized to enable this entire process.*
 
-
+*NOTE: The `.obsidian` directory has been git-ignore'd due to continuously having to deal with git and sync issues between vaults in different locations (i.e. multiple laptops, mobile, etc.*
 ***
 
 *Backlinks:*

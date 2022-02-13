@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Databases", "#Topic/Windows"]
+Tags: ["#Type/Tool", "#Topic/Dev/Data/Databases", "#Topic/Windows"]
 Alias: ["SQL Server Management Studio", "SSMS"]
 ---
 

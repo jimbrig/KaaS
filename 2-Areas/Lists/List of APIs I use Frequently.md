@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Dev/WebDev", "#Topic/Dev/APIs"]
+Tags: ["#Type/List", "#Topic/Dev/WebDev", "#Topic/Dev/WebDev/APIs"]
 Alias: ["List of APIs I use Frequently", "APIs I use"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Registry", "#Topic/Dev/Windows"]
+Tags: ["#Type/Code/Registry", "#Topic/Dev/OS/Windows"]
 Alias: ["Export Saved Registry Favorites"]
 ---
 

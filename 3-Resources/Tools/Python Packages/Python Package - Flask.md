@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags: ["#Type/Tool/Python/PythonPackage", "#Topic/Dev/Python/Flask", "#Topic/Dev/WebDev"]
 Alias: "Python Package - Flask"
 ---
 

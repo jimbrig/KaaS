@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Linux", "#Type/Tool/CLI", "#Topic/Dev/CLI", "#Topic/Dev/Linux"]
+Tags: ["#Type/Tool/Linux", "#Type/Tool/CLI", "#Topic/Dev/CLI", "#Topic/Dev/OS/Linux"]
 Alias: ["Bash"]
 ---
 

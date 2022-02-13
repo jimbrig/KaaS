@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Documentation", "#Topic/Dev/SQL", "#Status/Todo"]
+Tags: ["#Type/Documentation", "#Topic/Dev/Data/SQL", "#Status/Todo"]
 Alias: "SQL Server System Functions"
 ---
 

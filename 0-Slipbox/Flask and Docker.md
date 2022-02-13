@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Python/Flask", "#Topic/Dev/Containers/Docker"]
 Alias: "Flask and Docker"
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
+Tags: ["#Type/Tool/Cloud/Azure", "#Type/Tool/Databases", "#Topic/Dev/Cloud/Azure"]
 Alias: "Azure Data Studio"
 ---
 

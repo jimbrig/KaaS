@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Databases", "#Topic/Dev/Databases"]
+Tags: ["#Type/Tool/Databases", "#Topic/Dev/Data/Databases"]
 Alias: ["DBeaver"]
 ---
 

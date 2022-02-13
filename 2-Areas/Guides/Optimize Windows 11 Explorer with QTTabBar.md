@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Tool", "#Topic/Windows", "#Topic/Dev"]
+Tags: ["#Type/Guide", "#Topic/Windows", "#Topic/Dev"]
 Alias: "Optimize Windows 11 Explorer with QTTabBar"
 ---
 

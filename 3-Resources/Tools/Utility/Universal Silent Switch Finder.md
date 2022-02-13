@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-04
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Type/Dev"]
+Tags: ["#Topic/Dev", "#Type/Tool/Utility"]
 Alias: ["Universal Silent Switch Finder", "ussf"]
 ---
 

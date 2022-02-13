@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/RPackage", "#Topic/Dev/R", "#Type/Tool"]
+Tags: ["#Type/Tool/R/RPackage", "#Topic/Dev/R", "#Type/Tool"]
 Alias: ["R Package - RODBC", "RODBC"]
 ---
 

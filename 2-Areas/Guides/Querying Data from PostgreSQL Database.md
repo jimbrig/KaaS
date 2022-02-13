@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Dev/Databases"]
+Tags: ["#Type/Guide", "#Topic/Dev/Data/Databases"]
 Alias: "Querying Data from PostgreSQL Database"
 ---
 

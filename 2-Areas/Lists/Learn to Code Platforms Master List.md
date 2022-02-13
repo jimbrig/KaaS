@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Dev", "#Topic/Learning"]
+Tags: ["#Type/List", "#Topic/Dev", "#Topic/Personal/Learning"]
 Alias: Learn to Code Platforms Master List
 ---
 

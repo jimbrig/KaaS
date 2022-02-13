@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/List", "#Topic/Dev/Python" ]
+Tags: [ "#Type/List", "#Topic/Dev/Python/Flask" ]
 Alias: "List of Python Flask Resources"
 ---
 

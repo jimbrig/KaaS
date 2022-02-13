@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Project", "#Topic/PwC" ]
+Tags: [ "#Type/Project", "#Topic/Work/PwC" ]
 Alias: <% tp.file.cursor() %>
 ---
 

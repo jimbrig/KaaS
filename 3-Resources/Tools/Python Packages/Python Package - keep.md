@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/PythonPackage", "#Topic/Dev/Python", "#Type/Tool/CLI", "#Topic/Productivity"]
+Tags: ["#Type/Tool/Python/PythonPackage", "#Topic/Dev/Python/Utility", "#Type/Tool/CLI", "#Topic/Productivity"]
 Alias: ["Python Package - keep", "keep"]
 ---
 

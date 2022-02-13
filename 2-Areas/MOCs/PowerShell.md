@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC", "#Topic/Dev/PowerShell"]
+Tags: ["#Type/MOC", "#Topic/Dev/CLI/PowerShell"]
 Alias: "PowerShell"
 ---
 

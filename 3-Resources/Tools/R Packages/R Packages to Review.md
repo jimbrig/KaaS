@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Todo", "#Status/Todo"]
+Tags: ["#Type/List", "#Status/Todo"]
 Alias: "R Packages to Review"
 ---
 

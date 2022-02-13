@@ -11,7 +11,7 @@
 Dimension tables contain the master table business entities (product categories, customer markets, etc.).
 As a starter, link fact tables and dimension tables are linked by surrogate integer keys.
 Dimensional modeling relates to how you specifically define and relate these tables so that the business people can use the data to answer many questions, such as viewing aggregations by this business entity, by that business entity, over time, etc. Within those scenarios, there are a myriad of possibilities. The Kimball methodology shows many patterns for covering these possibilities. — [Updated on 2021-12-16 16:25:06](https://hyp.is/o4SsUF62Eeyj6_v-aiMWpw/www.codemag.com/Article/1709051/The-Baker%E2%80%99s-Dozen-13-Tips-for-Better-Extract-Transform-Load-ETL-Practices-in-Data-Warehousing-Part-1-of-2)  — Group: #Topic/Dev
-   - Tags: #Topic/Dev/DataScience #Topic/Dev/Cloud #Topic/Dev/Data/ETL #Topic/Dev 
+   - Tags: #Topic/Dev/Data/DataScience #Topic/Dev/Cloud #Topic/Dev/Data/ETL #Topic/Dev 
    - Annotation: Regarding Data Warehousing and ETL.
 
 Fact Tables: Measures that get aggregated (i.e. values)

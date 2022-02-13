@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Python/SQLAlchemy", "#Topic/Dev/Data/Databases"]
 Alias: "SQLAlchemy ORM"
 ---
 

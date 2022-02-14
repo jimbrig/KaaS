@@ -1,3 +1,4 @@
+
 ---
 Date: 2021-10-27
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
@@ -130,6 +131,11 @@ The others are still works in progress as I collect and curate more notes into t
 <iframe style="border: 0; width: 100%; height: 550px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/embed/me/theme=dark"></iframe>
 
 ***
+
+![[InVideo___Project_ID__902pprenderfs_1644809043258_Trim.gif]]
+
+***
+
 
 ![](https://i.imgur.com/k85OzqX.png)
 

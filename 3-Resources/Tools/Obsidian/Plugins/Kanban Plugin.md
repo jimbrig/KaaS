@@ -7,6 +7,8 @@ Alias: ["Kanban Plugin"]
 
 # Kanban Plugin
 
+-   [jimsforks/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian. (github.com)](https://github.com/jimsforks/obsidian-kanban)
+
 ***
 
 ## Appendix: Links

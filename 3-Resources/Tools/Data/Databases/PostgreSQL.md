@@ -7,6 +7,8 @@ Alias: "PostgreSQL"
 
 # PostgreSQL
 
+See Also: [[Database GUIs#PostgreSQL Specific]]
+
 *Backlinks:*
 
 ```dataview

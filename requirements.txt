@@ -4,4 +4,4 @@ mkdocs-awesome-pages-plugin
 mkdocs-macros-plugin
 mkdocs-material
 mkdocstrings
-mkdocs-roamlinks
+mkdocs-roamlinks-plugin

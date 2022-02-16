@@ -7,7 +7,7 @@ Alias: "PostgreSQL"
 
 # PostgreSQL
 
-*See Also: [[Database GUIs#PostgreSQL Specific]]*
+*See Also: [[Database GUIs#PostgreSQL Specific]] and [[2-Areas/Code/SQL/_README|SQL Code Snippets]]*
 
 <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">
 

@@ -1,4 +1,4 @@
-- 2022-02-16 at 10h20 · [[R Package - pkgsearch]]
+- 2022-02-16 at 10h23 · [[R Package - pkgsearch]]
 - 2022-02-16 at 10h20 · [[2022-02-15]]
 - 2022-02-16 at 10h20 · [[2022-02-14]]
 - 2022-02-16 at 10h20 · [[RStudio Package Manager]]

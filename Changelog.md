@@ -1,4 +1,5 @@
-- 2022-02-16 at 09h29 · [[SQL - Simulate `IIF` in PostgreSQL]]
+- 2022-02-16 at 09h31 · [[SQL - MONTH() Equivalent]]
+- 2022-02-16 at 09h30 · [[SQL - Simulate `IIF` in PostgreSQL]]
 - 2022-02-16 at 09h29 · [[SQL - Find Recent Activity]]
 - 2022-02-16 at 09h27 · [[SQL - Clone Schema]]
 - 2022-02-16 at 09h22 · [[PostgreSQL]]
@@ -497,4 +498,3 @@
 - 2022-02-09 at 08h49 · [[The business model of open source]]
 - 2022-02-09 at 08h49 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS]]
 - 2022-02-09 at 08h49 · [[SYSTEMS THINKING What Is a System]]
-- 2022-02-09 at 08h49 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2]]

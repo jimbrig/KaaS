@@ -5,13 +5,12 @@ Alias: "KaaS"
 Tags: ["#Type/Readme"]
 ---
 
-<center><img src="https://i.imgur.com/FB2il3N.png"/></center>
-
-
 # KaaS - Knowledge as a Service
 
-
 *[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)] | [KaaS - GitHub Pages (kaas.jimbrig.com)]*
+
+<center><img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/></center>
+
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 

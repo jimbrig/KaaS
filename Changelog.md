@@ -1,3 +1,5 @@
+- 2022-02-16 at 09h28 · [[SQL - Find Recent Activity]]
+- 2022-02-16 at 09h27 · [[SQL - Clone Schema]]
 - 2022-02-16 at 09h22 · [[PostgreSQL]]
 - 2022-02-16 at 09h19 · [[SQL - Get Last Day of Month]]
 - 2022-02-16 at 09h00 · [[YAML]]
@@ -496,5 +498,3 @@
 - 2022-02-09 at 08h49 · [[SYSTEMS THINKING What Is a System]]
 - 2022-02-09 at 08h49 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2]]
 - 2022-02-09 at 08h49 · [[Stop Living on Autopilot and Take Responsibility for Your Life]]
-- 2022-02-09 at 08h49 · [[Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
-- 2022-02-09 at 08h49 · [[Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS]]

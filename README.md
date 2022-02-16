@@ -1,4 +1,3 @@
-
 ---
 Date: 2021-10-27
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
@@ -6,19 +5,19 @@ Alias: "KaaS"
 Tags: ["#Type/Readme"]
 ---
 
+<center><img src="https://i.imgur.com/FB2il3N.png"/></center>
+
+
 # KaaS - Knowledge as a Service
 
-*[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)](https://publish.obsidian.md/kaas/README) | [KaaS - GitHub Pages (kaas.jimbrig.com)](http://kaas.jimbrig.com/)*
+
+*[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)] | [KaaS - GitHub Pages (kaas.jimbrig.com)]*
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 
 Inside is my personal, customized, digital knowledge note-base structured loosely as a *[[Zettelkasten]]*, a collection of interlinked *[[Atomic Notes]]* about anything that interests me.
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
-
-***
-
-<center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
 
 ***
 
@@ -93,14 +92,14 @@ The [[Changelog]] is also a good _Meta_ resource.
 
 ### Notes
 
-- This repository has three main branches: [main](https://github.com/jimbrig/KaaS-New/tree/main), [develop](https://github.com/jimbrig/KaaS-New/tree/develop), and [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages). 
-	- The [main](https://github.com/jimbrig/KaaS-New/tree/main) branch is a representation of the [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
-	- The [develop](https://github.com/jimbrig/KaaS-New/tree/develop) branch mirrors what I actually work with while inside the Obsidian application and gets sync'd automatically.
-	- The [gh-pages](https://github.com/jimbrig/KaaS-New/tree/gh-pages) branch is deployed using [MkDocs]() and [GitHub Actions]().
-	- Links are converted using the rust library [Obsidian-Export](https://github.com/zoni/obsidian-export).
+- This repository has three main branches: [main], [develop], and [gh-pages]. 
+	- The [main] branch is a representation of the [develop] branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
+	- The [develop] branch mirrors what I actually work with while inside the Obsidian application and gets sync'd automatically.
+	- The [gh-pages] branch is deployed using [MkDocs]() and [GitHub Actions]().
+	- Links are converted using the rust library [Obsidian-Export].
 	- Links for deployment are converted using the [mkdocs-roamlinks]() plugin.
 
-*Check out the various [GitHub Actions](https://github.com/jimbrig/KaaS-New/tree/main/.github/workflows) utilized to enable this entire process.*
+*Check out the various [GitHub Actions] utilized to enable this entire process.*
 
 **Meta Notes**
 
@@ -137,5 +136,14 @@ The others are still works in progress as I collect and curate more notes into t
 ***
 
 
-![](https://i.imgur.com/k85OzqX.png)
+<center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
 
+***
+
+[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)]: https://publish.obsidian.md/kaas/README
+[KaaS - GitHub Pages (kaas.jimbrig.com)]: http://kaas.jimbrig.com/
+[main]: https://github.com/jimbrig/KaaS-New/tree/main
+[develop]: https://github.com/jimbrig/KaaS-New/tree/develop
+[gh-pages]: https://github.com/jimbrig/KaaS-New/tree/gh-pages
+[Obsidian-Export]: https://github.com/zoni/obsidian-export
+[GitHub Actions]: https://github.com/jimbrig/KaaS-New/tree/main/.github/workflows

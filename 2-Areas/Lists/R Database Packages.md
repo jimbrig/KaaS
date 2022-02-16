@@ -55,7 +55,7 @@ This section includes packages that provides access to relational databases with
 - [[R Package - RMySQL|RMySQL]] - The `r pkg("RMySQL")` package provides the interface to [[MySQL]]. Note that this is the legacy DBI interface to MySQL and MariaDB based on old code ported from S-PLUS. A modern MySQL client based on `Rcpp` is available from the RMariaDB package we listed above.
 
 - Packages for [PostgreSQL](https://www.postgresql.org/), an open-source relational database:
-    - [[R Package - RPostgreSQL|RPostgreSQL]] and [[R Package - RPostgres|RPostgres]] - The `r pkg("RPostgreSQL")` package and `r pkg("RPostgres")` package both provide fully DBI-compliant, Rcpp-backed interfaces to [[PostgreSQL]].
+    - [[R Package - RPostgreSQL|RPostgreSQL]] and [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres|RPostgres]] - The `r pkg("RPostgreSQL")` package and `r pkg("RPostgres")` package both provide fully DBI-compliant, Rcpp-backed interfaces to [[PostgreSQL]].
     - [[R Package - rpostgis|rpostgis]] - The `r pkg("rpostgis")` package provides the interface to its spatial extension [PostGIS](http://postgis.net/).
     - [[R Package - RGreenplum|RGreenplum]] - The `r pkg("RGreenplum")` provides a fully DBI-compliant interface to [Greenplum](https://greenplum.org/), an open-source parallel database on top of [[PostgreSQL]].
 - [[R Package - ROracle|ROracle]] - The `r pkg("ROracle")` package is a DBI-compliant [Oracle database](https://www.oracle.com/database/) driver based on the OCI. 
@@ -139,7 +139,7 @@ This section includes packages that provides tools for working and testing with 
 
 ### PostgreSQL
 
-- [[R Package - RPostgres|RPostgres]]
+- [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres|RPostgres]]
 - [[R Package - RPostgreSQL|RPostgreSQL]]
 - [[R Package - rpostgis|rpostgis]]
 

@@ -292,7 +292,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 - [[Data Engineering]]
 - [[Data Warehouse]]
 - [[Data Mart]]
-- [[R Package - RPostgres]]
+- [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres]]
 - [[Data Engineers]]
 - [[Database GUIs#PostgreSQL Specific]]
 - [[Database Views vs Materialized Views]]

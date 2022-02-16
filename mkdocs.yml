@@ -57,5 +57,5 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
+  # - roamlinks
   - awesome-pages

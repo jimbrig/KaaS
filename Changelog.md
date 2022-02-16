@@ -1,3 +1,4 @@
+- 2022-02-16 at 11h46 · [[SQL - PostgreSQL Stored Procedure - Merge Tables]]
 - 2022-02-16 at 11h39 · [[SQL - PostgreSQL ETL Function Template]]
 - 2022-02-16 at 10h49 · [[README]]
 - 2022-02-16 at 10h36 · [[The 35 Best Productivity Apps for 2020]]
@@ -497,4 +498,3 @@
 - 2022-02-09 at 17h59 · [[Building a Platform Part 2]]
 - 2022-02-09 at 17h59 · [[Create Your Own Delicious Slice of Text-Based Productivity in Obsidian—A Step-By-Step Guide]]
 - 2022-02-09 at 17h59 · [[Data Warehouse Tips and Best Practices I Wish I Knew Earlier]]
-- 2022-02-09 at 17h59 · [[10 Killer Web Apps That Will Increase Your Productivity]]

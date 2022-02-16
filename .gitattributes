@@ -2,3 +2,4 @@
 *.html linguist-vendored
 *.js linguist-vendored
 *.rtf linguist-vendored
+*.tex linguist-vendored

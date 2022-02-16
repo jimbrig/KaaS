@@ -1,17 +1,28 @@
 name: Publish Vault
+
 on:
-  push:
-    branches: [ develop ]
   workflow_dispatch:
+  push:
+    branches: [ main ]
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      - run: mkdir .docs && cp * .docs -r -f
-      - run: mkdocs gh-deploy --force
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup
+        run: mkdir .docs && cp * .docs -r -f
+
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          REQUIREMENTS: requirements.txt
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        # uses: actions/setup-python@v2
+        # with:
+        #   python-version: 3.x
+      # - run: pip install mkdocs-material
+      # - run: pip install mkdocs-roamlinks-plugin
+      # - run: mkdocs gh-deploy --force

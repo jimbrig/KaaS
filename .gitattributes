@@ -1,0 +1,4 @@
+# linguist - ignore HTML, JS, and Rich Text Format
+*.html linguist-vendored
+*.js linguist-vendored
+*.rtf linguist-vendored

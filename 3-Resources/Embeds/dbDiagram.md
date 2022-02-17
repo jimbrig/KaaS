@@ -22,7 +22,7 @@ Alias: "dbDiagram"
 - [[Databases]]
 - [[Actuarial Science]]
 - [[Actuarial Claims Data - Simulation R Script]]
-- [[1-Projects/lossrx/_README|lossrx]]
+- [[1-Projects/Personal/lossrx/_README|lossrx]]
 
 *Backlinks:*
 

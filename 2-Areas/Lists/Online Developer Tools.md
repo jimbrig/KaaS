@@ -9,6 +9,7 @@ Alias: "Online Developer Tools"
 
 Curated Listing of various developer related tools online.
 
+- [Sqlines - Convert between Databases](https://www.sqlines.com/online) | [Homepage - sqlines.com](https://sqlines.com)
 - [Badgen - Fast badge generating service](https://badgen.net/)
 - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 - [Inspiration - dotfiles.github.io](https://dotfiles.github.io/inspiration/)

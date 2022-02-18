@@ -288,14 +288,17 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ## Appendix: Links
 
+- [[PostgreSQL Tools]]
+- [[Database GUIs#PostgreSQL Specific]]
+- [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres|RPostgres]]
+- [[Database Views vs Materialized Views]]
 - [[Databases]]
 - [[Data Engineering]]
 - [[Data Warehouse]]
 - [[Data Mart]]
-- [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres]]
 - [[Data Engineers]]
-- [[Database GUIs#PostgreSQL Specific]]
-- [[Database Views vs Materialized Views]]
+
+- [[PostgreSQL Stored Procedures and Functions Notes]]
 
 *Backlinks:*
 

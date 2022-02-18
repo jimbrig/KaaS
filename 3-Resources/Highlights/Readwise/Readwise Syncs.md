@@ -525,3 +525,9 @@
 
 - [[2022-02-13]] 10:05 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-02-15]] 5:57 PM — Synced 0 highlights from 0 documents.
+
+- [[2022-02-18]] 6:42 PM — Synced 2 highlights from 2 documents.
+    - 1 highlights from Getting Started With Data Lake
+    - 1 highlights from The Best Tools for Capturing Your Many Different Notes
+

@@ -1,6 +1,6 @@
+- 2022-02-27 at 15h48 · [[_README]]
 - 2022-02-27 at 15h43 · [[Getting to know .Renviron]]
 - 2022-02-27 at 15h43 · [[_README]]
-- 2022-02-27 at 15h42 · [[_README]]
 - 2022-02-27 at 15h41 · [[Workbench]]
 - 2022-02-27 at 15h40 · [[Setting up an Optimal Developer Environment on Windows]]
 - 2022-02-27 at 15h35 · [[Guide-Template]]

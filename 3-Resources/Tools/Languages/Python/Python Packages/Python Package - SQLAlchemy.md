@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Tool/Python/PythonPackage", "#Topic/Dev/Python/SQLAlchemy"]
+Tags: ["#Type/Tool/Python", "#Topic/Dev/Python/SQLAlchemy"]
 Alias: ["SQLAlchemy", "sqlalchemy"]
 ---
 

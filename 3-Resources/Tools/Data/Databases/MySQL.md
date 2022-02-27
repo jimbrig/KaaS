@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Databases", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Tool/Database", "#Topic/Dev/Database"]
 Alias: ["MySQL"]
 ---
 

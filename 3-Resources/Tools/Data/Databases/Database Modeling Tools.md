@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Type/Tool/Database", "#Topic/Dev/Databases", "#Topic/Dev/Tools"]
+Tags: ["#Type/List", "#Type/Tool/Database", "#Topic/Dev/Database", "#Topic/Dev/Data"]
 Alias: Database Modeling Tools
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/CLI/PowerShell"]
+Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
 Alias: ["<% tp.file.title %>"]
 ---
 

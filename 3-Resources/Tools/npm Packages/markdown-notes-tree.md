@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-21
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Node/npm", "#Topic/Dev/Nodejs", "#Type/Tool"]
+Tags: ["#Type/Tool/NPM", "#Topic/Dev/Nodejs", "#Type/Tool"]
 Alias: ["markdown-notes-tree"]
 ---
 

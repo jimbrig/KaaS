@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Type/Tool/Databases", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/List", "#Type/Tool/Database", "#Topic/Dev/Database"]
 Alias: "Database GUIs"
 ---
 

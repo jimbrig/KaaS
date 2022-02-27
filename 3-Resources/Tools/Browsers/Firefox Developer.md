@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Web", "#Topic/Dev/WebDevelopment"]
+Tags: ["#Type/Tool/Browser", "#Topic/Dev/WebDev"]
 Alias: ["Firefox Developer"]
 ---
 

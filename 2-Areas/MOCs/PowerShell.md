@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC", "#Topic/Dev/CLI/PowerShell"]
+Tags: ["#Type/MOC", "#Topic/Dev/PowerShell"]
 Alias: "PowerShell"
 ---
 
@@ -12,7 +12,7 @@ Alias: "PowerShell"
 ## PowerShell Related Notes 
 
 - [[Documenting PowerShell Modules]]
-- [[Backup Edge User Preferences PowerShell Script]]
+- [[PowerShell - Backup Edge User Preferences Script]]
 
 ## Modules
 

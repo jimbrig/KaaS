@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Code/R", "#Topic/Dev/R", "#Topic/Dev/Database"]
 Alias: ["R Code - mssql_rstudio", "mssql_rstudio"]
 ---
 

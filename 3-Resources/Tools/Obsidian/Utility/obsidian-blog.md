@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Obsidian", "#Type/Tool/Python/PythonPackage", "#Type/Tool/CLI", "#Topic/PKM/Obsidian", "Topic/Dev/CLI"]
+Tags: ["#Type/Tool/Obsidian", "#Type/Tool/Python", "#Type/Tool/CLI", "#Topic/PKM/Obsidian", "Topic/Dev/CLI"]
 Alias: ["obsidian-blog"]
 ---
 

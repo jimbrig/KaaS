@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Node/npm", "#Topic/Dev/Nodejs", "#Type/Tool"]
+Tags: ["#Type/Tool/NPM", "#Topic/Dev/Nodejs", "#Type/Tool"]
 Alias: ["<% tp.file.title %>"]
 ---
 

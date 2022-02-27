@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Dev/Documentation", "#Topic/Actuarial/Modeling", "#Topic/Dev/Cloud/Azure"]
+Tags: ["#Type/Slipbox/Dev", "#Topic/Actuarial/Modeling", "#Topic/Dev/Cloud/Azure"]
 Alias: "Actuarial Data Science and Financial Modeling with Microsoft Azure"
 ---
 

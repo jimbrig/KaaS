@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-02
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Data", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Tool", "#Topic/Dev/Data", "#Topic/Dev/Database"]
 Alias: ["Snowflake"]
 ---
 

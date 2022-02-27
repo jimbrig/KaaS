@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-04
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/CLI", "#Topic/Dev/CLI", "#Topic/Windows"]
+Tags: ["#Type/Tool/CLI", "#Topic/Dev/CLI", "#Topic/Windows", "#Topic/Dev/PowerShell"]
 Alias: ["Windows Terminal", "Microsoft Windows Terminal", "Windows Terminal Preview", "wt.exe"]
 ---
 

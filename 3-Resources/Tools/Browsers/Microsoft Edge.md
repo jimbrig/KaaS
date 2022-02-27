@@ -10,7 +10,7 @@ Alias: [ "Microsoft Edge", "Edge" ]
 ## Notes
 
 - [[Edge Search Engines]]
-- [[Backup Edge User Preferences PowerShell Script]]
+- [[PowerShell - Backup Edge User Preferences Script]]
 - 
 
 

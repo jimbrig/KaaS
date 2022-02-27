@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - Clone Schema"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["<% tp.file.title %>"]
 ---
 

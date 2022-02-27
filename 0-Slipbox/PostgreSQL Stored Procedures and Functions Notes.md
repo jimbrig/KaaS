@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
 Alias: "PostgreSQL Stored Procedures and Functions"
 ---
 

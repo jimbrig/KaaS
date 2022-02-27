@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R/RPackage", "#Topic/Dev/R", "#Type/Tool"]
+Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool"]
 Alias: ["R Package - usethis", "R Package - usethis"]
 ---
 

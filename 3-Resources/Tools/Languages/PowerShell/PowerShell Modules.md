@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-30
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/CLI/PowerShell"]
+Tags: ["#Type/Tool", "#Topic/Dev/PowerShell"]
 Alias: ["PowerShell Modules"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2021-10-27
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: [ "#Type/Slipbox/Dev", "#Topic/Dev/WebDev/APIs" ]
+Tags: [ "#Type/Slipbox/Dev", "#Topic/Dev/WebDev/API" ]
 Alias: "REST APIs"
 ---
 

@@ -7,7 +7,7 @@ Alias: "API Authentication"
 
 Status:: #Status/Todo  
 Type:: #Type/Documentation  
-Topic:: #Topic/Dev/WebDev/APIs  
+Topic:: #Topic/Dev/WebDev/API  
 
 # API Authentication
 

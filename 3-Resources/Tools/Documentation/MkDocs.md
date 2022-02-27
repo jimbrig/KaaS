@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Documentation", "#Type/Tool/Python/PythonPackage", "#Topic/Dev/Documentation"]
+Tags: ["#Type/Tool/Documentation", "#Type/Tool/Python", "#Topic/Dev/Documentation"]
 Alias: ["MkDocs"]
 ---
 

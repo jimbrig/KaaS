@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/CLI", "#Type/Tool/Databases", "#Topic/Dev/Data/DataEngineering", "#Topic/Dev/Data/Databases", "#Topic/Dev/CLI", "#Topic/Dev/Cloud"]
+Tags: ["#Type/Tool/CLI", "#Type/Tool/Database", "#Topic/Dev/Database", "#Topic/Dev/Database", "#Topic/Dev/CLI", "#Topic/Dev/Cloud"]
 Alias: ["dbt - Data Build Tool", "dbt", "data build tool"]
 ---
 

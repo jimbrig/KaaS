@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Code", "#Topic/Dev/Data/Databases", "#Type/Code/SQL", "#Topic/Dev/Data/DataEngineering"]
+Tags: ["#Type/Slipbox/Code", "#Topic/Dev/Database", "#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: "Creating a data dictionary with SQL"
 ---
 

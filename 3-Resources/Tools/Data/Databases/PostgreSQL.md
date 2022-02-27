@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Tool/Database", "#Topic/Dev/Databases/PostgreSQL"]
+Tags: ["#Type/Tool/Database", "#Topic/Dev/Database/PostgreSQL"]
 Alias: "PostgreSQL"
 ---
 

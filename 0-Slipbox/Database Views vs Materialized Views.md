@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
 Alias: "Database Views vs Materialized Views"
 ---
 

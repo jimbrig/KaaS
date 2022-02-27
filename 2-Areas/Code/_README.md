@@ -47,7 +47,7 @@ Alias: "Code"
 
 ### PowerShell
 
-- [[Backup Edge User Preferences PowerShell Script]]
+- [[PowerShell - Backup Edge User Preferences Script]]
 
 ### JavaScript
 

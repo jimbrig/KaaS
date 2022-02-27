@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-22
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Cloud/AWS", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Tool", "#Topic/Dev/Cloud/AWS", "#Topic/Dev/Database"]
 Alias: ["AWS Aurora"]
 ---
 

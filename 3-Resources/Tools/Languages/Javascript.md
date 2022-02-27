@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Language", "#Topic/Dev"]
+Tags: ["#Type/Tool/Javascript", "#Topic/Dev"]
 Alias: ["Javascript", "JS", "JavaScript"]
 ---
 

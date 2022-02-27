@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Tool/Python/PythonPackage", "#Topic/Dev/Python/Utility"]
+Tags: ["#Type/Tool/Python", "#Topic/Dev/Python/Utility"]
 Alias: "Python Package - tryangle"
 ---
 

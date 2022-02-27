@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Dev", "#Topic/Dev/Data/Databases/PostgreSQL", "Topic/Dev/Data/SQL"]
+Tags: ["#Type/Slipbox/Dev", "#Topic/Dev/Database/PostgreSQL", "Topic/Dev/Database/SQL"]
 Alias: "Export CSV from PostgreSQL Table"
 ---
 

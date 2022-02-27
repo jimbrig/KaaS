@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI"]
+Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI", "#Topic/Dev/OS/Windows", "#Topic/Dev/PowerShell"]
 Alias: ["Windows Troubleshooter Commands"]
 ---
 

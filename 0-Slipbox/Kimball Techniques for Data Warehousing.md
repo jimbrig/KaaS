@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-14
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
 Alias: "Kimball Techniques for Data Warehousing"
 ---
 

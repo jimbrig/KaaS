@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data/Databases", "#Topic/Dev/Data"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Database", "#Topic/Dev/Data"]
 Alias: "Data Warehousing Concepts and Definitions"
 ---
 

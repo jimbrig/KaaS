@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Topic/Dev/VersionControl/GitHub", "#Type/Slipbox/Dev/R", "#Topic/Actuarial"]
+Tags: ["#Topic/Dev/GitHub", "#Type/Slipbox/Dev", "#Topic/Actuarial"]
 Alias: "KasaAI GitHub Organization"
 ---
 

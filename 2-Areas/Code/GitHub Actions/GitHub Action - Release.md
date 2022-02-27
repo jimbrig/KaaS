@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Topic/Dev/VersionControl/GitHub"]
+Tags: ["#Type/Code/GHA", "#Topic/Dev/GitHub"]
 Alias: ["GitHub Action - Release"]
 ---
 

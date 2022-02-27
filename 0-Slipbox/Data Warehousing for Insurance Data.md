@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-15
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data", "#Topic/Dev/Data/Databases", "#Topic/Actuarial"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Data", "#Topic/Dev/Database", "#Topic/Actuarial"]
 Alias: "Data Warehousing for Insurance Data"
 ---
 

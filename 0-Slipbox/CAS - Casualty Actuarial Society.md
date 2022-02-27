@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-12
 Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Type/List", "#Topic/Dev/VersionControl/GitHub", "#Topic/Actuarial"]
+Tags: ["#Type/Slipbox", "#Type/List", "#Topic/Dev/GitHub", "#Topic/Actuarial"]
 Alias: ["CAS - Casualty Actuarial Society", "CAS", "Casualty Actuarial Society"]
 ---
 

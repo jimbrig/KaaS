@@ -1,7 +1,7 @@
 ---
 Date: 2022-01-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Type/Tool/R/RPackage", "#Type/Tool/Databases", "#Topic/Dev/R", "#Topic/Dev/R/Databases", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/List", "#Type/Tool/R", "#Type/Tool/Database", "#Topic/Dev/R", "#Topic/Dev/R", "#Topic/Dev/Database"]
 Alias: R Database Packages
 ---
 

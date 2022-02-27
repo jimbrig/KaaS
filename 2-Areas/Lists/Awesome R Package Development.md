@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Dev/R/PackageDevelopment"]
+Tags: ["#Type/List", "#Topic/Dev/R"]
 Alias: Awesome R Package Development
 ---
 

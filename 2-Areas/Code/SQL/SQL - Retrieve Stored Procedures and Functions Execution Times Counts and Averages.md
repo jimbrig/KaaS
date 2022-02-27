@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages"]
 ---
 

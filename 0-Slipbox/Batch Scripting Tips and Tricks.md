@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-12
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Code", "#Topic/Dev/OS/Windows"]
+Tags: ["#Type/Slipbox/Dev", "#Topic/Dev/OS/Windows"]
 Alias: "Batch Scripts"
 ---
 

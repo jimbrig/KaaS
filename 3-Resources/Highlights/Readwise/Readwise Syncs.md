@@ -537,3 +537,20 @@
 
 - [[2022-02-25]] 3:13 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-02-26]] 5:36 PM — Synced 0 highlights from 0 documents.
+
+- [[2022-02-27]] 2:17 PM — Synced 71 highlights from 12 documents.
+    - 16 highlights from How I Do My Weekly Review in Obsidian
+    - 8 highlights from PL/SQL for Data Engineers
+    - 8 highlights from SQL Like a Pro: How to Write a “For Loop” in SQL
+    - 1 highlights from SQL Join : A Common Mistake
+    - 1 highlights from SQL Like a Pro: Looks Do Matter!
+    - 4 highlights from How to Write Programming Notes Like a PRO
+    - 10 highlights from Data Warehousing for Data Engineering
+    - 9 highlights from Digital Brain as a Knowledge Base for Data Science
+    - 1 highlights from Introduction to CDC System — 
+An Efficient Way to Replicate Transactional Data Into Data Lake
+    - 5 highlights from Advanced PostgreSQL Features: A Guide
+    - 7 highlights from Creating a Metadata Architecture From the Ground Up
+    - 1 highlights from Modernize Your ETL Processes to Unleash Better Business Intelligence
+

@@ -1,7 +1,7 @@
 ---
 Date: <% tp.date.now() %>
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R/RPackage", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
 Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 ---
 

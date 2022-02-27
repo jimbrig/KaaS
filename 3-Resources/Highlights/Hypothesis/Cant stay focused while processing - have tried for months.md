@@ -6,6 +6,11 @@
 - Reference: https://forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/
 - Category: #Type/Highlight/Article
 
+Tags: 
+- #Topic/Productivity/GTD 
+- #Type/Advice
+
+
 ## Highlights
 - My perception is that your mind has been operating in distraction mode for so long that you need to retrain it to operate with focus and clarity.  It's going to take a great deal of forceful conscious effort at first.  If you're already in an overwhelmed state your subconscious will be tempted to give up and go back to busy trap because it's familiar and comfortable yet far from optimal. Additionally, your mind is not going to trust your GTD system right away even if it is "perfect" by all standards. The system has to *prove* itself to your subconcious that it can do a better job of managing your commitments. That process took six weeks for me.  For the system to prove its worth, you must work the system diligently — [Updated on 2021-11-17 18:28:28](https://hyp.is/EfVehEf-Eeyz7m96w1B1CQ/forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/)  — Group: #Type/Highlight/Hypothesis/Public
 
@@ -15,8 +20,8 @@
 
 2.  Eliminate distraction - especially during processing and weekly reviews.  Processing your inboxes and doing your weekly reviews requires focus and elimination of outside distractions.  Those times must be *sacred* to you.  When you're not processing, don't allow yourself to get distracted.  Turn off chimes that alert you to incoming e-mail.  Don't permit yourself to check your social media every 5 minutes.  Unsubscribe from RSS feeds and newsletters that aren't really benefiting your life.  Be more selective about what you let into your life.
 
-3.  Don't rush the processing and organizing decisions and *NEVER* file any of them in your head.  Your action lists must be complete and current with real outcomes and actions, not stuff.  You mentioned that your concious says "I already know how to do this...I don't need to track it."  But your subconcious will nag you and bug you that you should be working on that thing that you already know how to do every single second until you externalize it or finish it.  Your conscious will not know where the source of stress is coming from, either. — [Updated on 2021-11-17 18:31:12](https://hyp.is/TxOf9kf-EeynnEsif8E_bA/forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/)  — Group: #Topic/Productivity
-   - Tags: #Topic/Productivity/GTD #Type/Advice 
+3.  Don't rush the processing and organizing decisions and *NEVER* file any of them in your head.  Your action lists must be complete and current with real outcomes and actions, not stuff.  You mentioned that your concious says "I already know how to do this...I don't need to track it."  But your subconcious will nag you and bug you that you should be working on that thing that you already know how to do every single second until you externalize it or finish it.  Your conscious will not know where the source of stress is coming from, either. — [Updated on 2021-11-17 18:31:12](https://hyp.is/TxOf9kf-EeynnEsif8E_bA/forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/)  
+4.  
 - My perception is that your mind has been operating in distraction mode for so long that you need to retrain it to operate with focus and clarity.  It's going to take a great deal of forceful conscious effort at first.  If you're already in an overwhelmed state your subconscious will be tempted to give up and go back to busy trap because it's familiar and comfortable yet far from optimal. Additionally, your mind is not going to trust your GTD system right away even if it is "perfect" by all standards. The system has to *prove* itself to your subconcious that it can do a better job of managing your commitments. That process took six weeks for me.  For the system to prove its worth, you must work the system diligently. — [Updated on 2021-11-17 18:31:14](https://hyp.is/Qo7ZOkf-Eey8sssRc_By9Q/forum.gettingthingsdone.com/threads/cant-stay-focused-while-processing-have-tried-for-months.9492/)  — Group: #Topic/Productivity
    - Tags: #Topic/Productivity/GTD #Type/Advice 
 - I often write each action on a single sheet of paper, and I often have a few

@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-03
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Type/Tool", "#Topic/Dev/Data/Databases"]
+Tags: ["#Type/List", "#Type/Tool", "#Topic/Dev/Database"]
 Alias: "SQL Server List of Tools and Scripts"
 ---
 

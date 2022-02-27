@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CSS", "#Topic/Dev/WebDev", "#Topic/Dev/Design", "#Topic/Obsidian"]
+Tags: ["#Type/Code/CSS", "#Topic/Dev/WebDev", "#Topic/Dev/WebDev/Design", "#Topic/PKM/Obsidian"]
 Alias: ["Default Obsidian Theme CSS Styling"]
 ---
 

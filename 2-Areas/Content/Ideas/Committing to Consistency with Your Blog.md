@@ -5,6 +5,8 @@ Tags: ["#Type/Mindsweep", "#Type/Brainstorm", "#Topic/Writing"]
 Alias: ["Committing to Consistency with Your Blog", "Consistency - Pick and Stick to Your Blog Posting Schedule"]
 ---
 
+# Committing to Consistency with Your Blog
+
 ## Questions to Answer
 
 ## Contents

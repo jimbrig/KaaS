@@ -1,3 +1,4 @@
+- 2022-02-28 at 00h37 · [[_README]]
 - 2022-02-28 at 00h32 · [[SQL - SQL Server - Search for Text Within Stored Procedures]]
 - 2022-02-28 at 00h30 · [[_README]]
 - 2022-02-28 at 00h29 · [[SQL - Window Functions]]
@@ -6,7 +7,6 @@
 - 2022-02-28 at 00h25 · [[SQL - SQL Server - Concatenate Strings]]
 - 2022-02-28 at 00h23 · [[SQL - SQL Server - Check if a Column is Accessible]]
 - 2022-02-28 at 00h21 · [[SQL - SQL Server - Cumulative Distribution Functions]]
-- 2022-02-28 at 00h13 · [[_README]]
 - 2022-02-28 at 00h07 · [[Google Cloud BigQuery]]
 - 2022-02-28 at 00h06 · [[SQL Server]]
 - 2022-02-28 at 00h02 · [[SQL - PostgreSQL - Multi-Replace (plpgsql)]]

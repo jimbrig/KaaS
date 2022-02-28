@@ -113,6 +113,10 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 ### PowerShell
 
 - [[PowerShell - Backup Edge User Preferences Script]]
+- [[PowerShell - Useful Profile Utility Functions]]
+- [[PowerShell - Retrieve Local Public IPv4 IP Address]]
+- [[PowerShell - Install Azure-CLI]]
+- [[PowerShell - Install AWS CLI]]
 
 ### JavaScript
 
@@ -121,6 +125,10 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 ### GitHub Actions
 
 - [[GitHub Action - git-cliff]] - automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
+
+## Mind Map
+
+![](https://i.imgur.com/zwMq06G.png)
 
 ## Languages
 

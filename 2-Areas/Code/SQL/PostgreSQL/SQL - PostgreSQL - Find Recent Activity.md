@@ -2,10 +2,10 @@
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Find Recent Activity"]
+Alias: ["SQL - PostgreSQL - Find Recent Activity"]
 ---
 
-# SQL - Find Recent Activity
+# SQL - PostgreSQL - Find Recent Activity
 
 *Source: https://wiki.postgresql.org/wiki/Find_recent_activity*
 

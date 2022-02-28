@@ -2,7 +2,7 @@
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - DataDictionary"]
+Alias: ["SQL - PostgreSQL - Data Dictionary"]
 ---
 
 # SQL - Data Dictionary
@@ -131,7 +131,7 @@ ORDER BY md.SCHEMA_NM, md.TABLE_NM, md.ORD_POS
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
 - [[Development]]
 
 *Backlinks:*

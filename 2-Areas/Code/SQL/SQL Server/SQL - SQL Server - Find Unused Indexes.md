@@ -5,7 +5,7 @@ Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - Find Unused Indexes"]
 ---
 
-# SQL - Find Unused Indexes
+# SQL - SQL Server - Find Unused Indexes
 
 *Source: [Helpful functions when you need to find out what is going on on SQL Server (github.com)](https://gist.github.com/jimbrig/5d91eef57ce1de7d7f799e92d565631d)*
 

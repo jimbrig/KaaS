@@ -2,12 +2,14 @@
 Date: 2022-02-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Multi-Replace (plpgsql)"]
+Alias: ["SQL - PostgreSQL - Multi-Replace (plpgsql)"]
 ---
 
-# SQL - Multi-Replace (plpgsql)
+# SQL - PostgreSQL - Multi-Replace (plpgsql)
 
 *Source: https://wiki.postgresql.org/wiki/Multi_Replace_plpgsql*
+
+*NOTE: This function is generic [[SQL]]:*
 
 ```SQL
 /* This function quotes characters that may be interpreted as special in a regular expression.
@@ -16,6 +18,8 @@ CREATE FUNCTION quote_meta(text) RETURNS text AS $$
   select regexp_replace($1, '([\[\]\\\^\$\.\|\?\*\+\(\)])', '\\\1', 'g');
 $$ language sql strict immutable;
 ```
+
+*NOTE: This function uses the [[PLPGSQL]] language.*
 
 ```SQL
 /* Substitute a set of substrings within a larger string.
@@ -76,7 +80,8 @@ $$ LANGUAGE plpgsql strict immutable;
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
+- [[PLPGSQL]]
 - [[Development]]
 
 *Backlinks:*

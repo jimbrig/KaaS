@@ -2,7 +2,7 @@
 Date: 2022-01-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["SQL Server"]
+Alias: ["SQL Server", "MSSQL"]
 ---
 
 # SQL Server
@@ -18,7 +18,7 @@ Alias: ["SQL Server"]
 
 ## Code Snippets
 
-- [[SQL Server Useful Queries]]
+- [[SQL - SQL Server - Useful Queries]]
 
 ## Parent Topics
 

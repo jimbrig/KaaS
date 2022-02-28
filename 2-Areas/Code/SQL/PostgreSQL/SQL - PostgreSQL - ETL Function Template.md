@@ -5,7 +5,7 @@ Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - PostgreSQL ETL Function Template"]
 ---
 
-# SQL - PostgreSQL ETL Function Template
+# SQL - PostgreSQL - ETL Function Template
 
 *Source: [A "best practice" Postgresql function template for ETL processes - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/122052/a-best-practice-postgresql-function-template-for-etl-processes)*
 

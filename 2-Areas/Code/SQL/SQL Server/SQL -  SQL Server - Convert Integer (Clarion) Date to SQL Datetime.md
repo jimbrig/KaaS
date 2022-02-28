@@ -2,10 +2,13 @@
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Convert Integer (Clarion) Date to SQL Datetime"]
+Alias: [
+    "SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime", 
+    "SQL - Convert Integer (Clarion) Date to SQL Datetime"
+    ]
 ---
 
-# SQL - Convert Integer (Clarion) Date to SQL Datetime
+# SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime
 
 *Source: [Convert Integer (Clarion) Date to SQL DateTime | thiscodeWorks](https://www.thiscodeworks.com/61faf4d2b783be0015bbaf87)*
 

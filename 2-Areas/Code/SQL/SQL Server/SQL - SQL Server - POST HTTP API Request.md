@@ -2,10 +2,10 @@
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - POST HTTP API Request with SQL Server"]
+Alias: ["SQL - SQL Server - POST HTTP API Request"]
 ---
 
-# SQL - POST HTTP API Request with SQL Server
+# SQL - SQL Server - POST HTTP API Request
 
 *Source: [Send POST HTTP API Request with SQL Server | thiscodeWorks](https://www.thiscodeworks.com/61faf47fb783be0015bbaf85)*
 

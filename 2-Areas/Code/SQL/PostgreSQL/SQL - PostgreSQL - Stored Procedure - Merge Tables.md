@@ -2,10 +2,10 @@
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL Stored Procedure - Merge Tables"]
+Alias: ["SQL - PostgreSQL - Stored Procedure - Merge Tables"]
 ---
 
-# SQL - PostgreSQL Stored Procedure - Merge Tables
+# SQL - PostgreSQL - Stored Procedure - Merge Tables
 
 *Source: [postgres_stored_procedures/sp_merge_tables.sql at main · thevillagers/postgres_stored_procedures](https://github.com/thevillagers/postgres_stored_procedures/blob/main/procedures/sp_merge_tables.sql)*
 
@@ -97,6 +97,7 @@ LANGUAGE 'plpgsql';
 - [[SQL]]
 - [[Databases]]
 - [[PostgreSQL]]
+- [[PLPGSQL]]
 - [[Development]]
 
 *Backlinks:*

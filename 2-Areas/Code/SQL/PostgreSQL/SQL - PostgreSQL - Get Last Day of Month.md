@@ -2,10 +2,10 @@
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Get Last Day of Month"]
+Alias: ["SQL - PostgreSQL - Get Last Day of Month"]
 ---
 
-# SQL - Get Last Day of Month
+# SQL - PostgreSQL - Get Last Day of Month
 
 *Source: https://wiki.postgresql.org/wiki/Date_LastDay*
 

@@ -17,6 +17,7 @@ WHERE dbid > 0
 GROUP BY dbid, loginame;
 ```
 
+For [[SQL Server]].
 
 ***
 

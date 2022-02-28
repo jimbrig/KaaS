@@ -2,10 +2,10 @@
 Date: 2022-02-06
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Monitor Query Plans"]
+Alias: ["SQL - SQL Server - Monitor Query Plans"]
 ---
 
-# SQL - Monitor Query Plans
+# SQL - SQL Server - Monitor Query Plans
 
 *Source: [Monitor Query Plans | thiscodeWorks](https://www.thiscodeworks.com/61faf27fb783be0015bbaf7e)*
 
@@ -31,6 +31,7 @@ FROM
 ORDER BY highest_cpu_queries.total_worker_time desc;
 ```
 
+For [[SQL Server]].
 
 ***
 

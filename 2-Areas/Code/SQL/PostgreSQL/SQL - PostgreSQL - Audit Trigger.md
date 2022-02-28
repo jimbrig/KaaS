@@ -2,10 +2,10 @@
 Date: 2022-02-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL Audit Trigger"]
+Alias: ["SQL - PostgreSQL - Audit Trigger"]
 ---
 
-# SQL - PostgreSQL Audit Trigger
+# SQL - PostgreSQL - Audit Trigger
 
 *Source: https://wiki.postgresql.org/wiki/Audit_trigger*
 
@@ -172,7 +172,7 @@ It's fairly trivial to extend the above trigger function so you can turn query t
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
 - [[Development]]
 
 *Backlinks:*

@@ -2,10 +2,10 @@
 Date: 2022-02-18
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL Information Schema Queries"]
+Alias: ["SQL - PostgreSQL - Information Schema Queries"]
 ---
 
-# SQL - PostgreSQL Information Schema Queries
+# SQL - PostgreSQL - Information Schema Queries
 
 *Source: *
 
@@ -30,7 +30,7 @@ SELECT * FROM information_schema.tables WHERE table_schema = '<schema_name>';
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
 - [[Development]]
 
 *Backlinks:*

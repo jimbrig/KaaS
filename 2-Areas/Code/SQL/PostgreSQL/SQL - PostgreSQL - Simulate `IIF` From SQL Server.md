@@ -2,14 +2,14 @@
 Date: 2022-02-16
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Simulate `IIF` in PostgreSQL"]
+Alias: ["SQL - PostgreSQL - Simulate `IIF` From SQL Server"]
 ---
 
-# SQL - Simulate `IIF` in PostgreSQL
+# SQL - PostgreSQL - Simulate `IIF` From SQL Server
 
 *Source: https://wiki.postgresql.org/wiki/Simulating_iif_function*
 
-Some developers are accustomed to some 'Access' (and others db's) functions. One of them is the 'iif' function that works very simple and sometimes add to the query more intelligence.
+Some developers are accustomed to some 'Access' (and others db's) functions. One of them is the `iif` function that works very simple and sometimes add to the query more intelligence.
 
 Well, you will surprising to know that in [[PostgreSQL]] is possible and is quite simple to add this function.
 
@@ -21,7 +21,11 @@ $body$ select case $1 when true then $2 else $3 end $body$
 LANGUAGE sql IMMUTABLE;
 ```
 
-while you can cover all datatypes at once with this polymorphic function, the type needs to be defined or specified using casts. A simple iif_sql(8<9,'yes','no') will fail. To solve this, you could add an overloaded method to cover this specific case: 
+while you can cover all data types at once with this [[polymorphic function]], the type needs to be defined or specified using casts. 
+
+A simple `iif_sql(8<9,'yes','no')` will fail.
+
+To solve this, you could add an overloaded method to cover this specific case: 
 
 ```SQL
 CREATE OR REPLACE FUNCTION iif_sql(boolean, unknown, unknown) returns text as
@@ -29,7 +33,7 @@ $body$ select case $1 when true then textin(unknownout($2)) else ﻿﻿textin(un
 LANGUAGE sql IMMUTABLE;
 ```
 
-In PL/Pgsql:
+In [[PLPGSQL|PL/Pgsql]]:
 
 ```SQL
 CREATE OR REPLACE FUNCTION iif_(boolean, double precision, double precision) RETURNS double precision AS
@@ -51,7 +55,8 @@ LANGUAGE 'plpgsql' IMMUTABLE CALLED ON NULL INPUT SECURITY INVOKER;
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
+- [[PLPGSQL]]
 - [[Development]]
 
 *Backlinks:*

@@ -5,7 +5,7 @@ Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - PostgreSQL Pivot Query"]
 ---
 
-# SQL - PostgreSQL Pivot Query
+# SQL - PostgreSQL - Pivot Query
 
 *Source: https://wiki.postgresql.org/wiki/Pivot_query*
 
@@ -109,7 +109,7 @@ SELECT * FROM pivoted;
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
 - [[Development]]
 
 *Backlinks:*

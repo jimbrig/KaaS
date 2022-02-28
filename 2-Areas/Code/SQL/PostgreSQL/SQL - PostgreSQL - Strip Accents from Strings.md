@@ -2,10 +2,10 @@
 Date: 2022-02-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Strip Whitespace"]
+Alias: ["SQL - PostgreSQL - Strip Whitespace"]
 ---
 
-# SQL - Strip Accents from Strings
+# SQL - PostgreSQL - Strip Accents from Strings
 
 ## Strip Accents Default
 
@@ -63,7 +63,9 @@ $$;
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
+- [[PLPGSQL]]
+- [[PLPERL]]
 - [[Development]]
 
 *Backlinks:*

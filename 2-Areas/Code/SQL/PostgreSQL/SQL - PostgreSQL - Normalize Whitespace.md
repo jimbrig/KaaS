@@ -2,12 +2,14 @@
 Date: 2022-02-23
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Normalize Whitespace"]
+Alias: ["SQL - PostgreSQL -Normalize Whitespace"]
 ---
 
-# SQL - Normalize Whitespace
+# SQL - PostgreSQL -Normalize Whitespace
 
 *Source: https://wiki.postgresql.org/wiki/Normalize_whitespace*
+
+*NOTE: This function uses generic [[SQL]].*
 
 ```SQL
 CREATE OR REPLACE FUNCTION normalize_space(TEXT)
@@ -41,7 +43,9 @@ DROP IF EXISTS trigger n_space on pepito;
 CREATE TRIGGER n_space BEFORE INSERT OR UPDATE ON pepito FOR EACH ROW EXECUTE PROCEDURE n_space();
 ```
 
-This function trigger, looks up fields of text type and touch NEW values with the replace expression.
+This function trigger, looks up fields of text type and touch `NEW` values with the replace expression.
+
+*NOTE: This function uses the [[PLPERL]] language based off of [[PERL]].*
 
 ```SQL
 CREATE OR REPLACE FUNCTION n_space() 
@@ -88,7 +92,8 @@ SELECT * FROM pepito;
 - [[2-Areas/Code/_README|Code]]
 - [[SQL]]
 - [[Databases]]
-- [[SQL Server]]
+- [[PostgreSQL]]
+- [[PLPERL]]
 - [[Development]]
 
 *Backlinks:*

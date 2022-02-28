@@ -2,10 +2,10 @@
 Date: 2022-02-27
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: ["Posts", "Blog Posts"]
+Alias: Content
 ---
 
-# Posts
+# Content
 
 ## My Content Sites
 
@@ -17,13 +17,10 @@ Alias: ["Posts", "Blog Posts"]
 - [R-universe: jimbrig](https://jimbrig.r-universe.dev/ui#builds)
 - [jimbrig (raindrop.io)](https://raindrop.io/jimbrig)
 
-
-
-
-*Contents*
+## Notes
 
 ```dataview
-list from "2-Areas/Posts" AND !#Type/Readme
+list from "2-Areas/Content" AND !#Type/Readme
 ```
 
 ***

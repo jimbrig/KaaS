@@ -1,22 +1,16 @@
 ---
-Date: 2022-02-09
+Date: 2022-02-27
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: "Guides"
+Alias: Posts
 ---
 
-# Guides
-
-- [[Azure Setup Guide]]
-- [[Optimize Windows 11 Explorer with QTTabBar]]
-
-***
-
+# Posts
 
 *Contents*
 
 ```dataview
-list from "2-Areas/Guides" AND !#Type/Readme
+list from "2-Areas/Content/Posts" AND !#Type/Readme
 ```
 
 ***

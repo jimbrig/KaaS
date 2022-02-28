@@ -79,6 +79,11 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 -   [[SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
 -   [[SQL - SQL Server - POST HTTP API Request]]
 -   [[SQL - SQL Server - Monitor Query Plans]]
+-   [[SQL - SQL Server - Cumulative Distribution Functions]]
+-   [[SQL - SQL Server - Check if a Column is Accessible]]
+-   [[SQL - SQL Server - Concatenate Strings]]
+-   [[SQL - SQL Server - Find the First Row of Each Group]]
+-   [[SQL - SQL Server - Search for Text Within Stored Procedures]]
 
 
 ***

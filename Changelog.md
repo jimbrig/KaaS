@@ -1,3 +1,4 @@
+- 2022-02-28 at 00h48 · [[GitHub Linguist]]
 - 2022-02-28 at 00h38 · [[_README]]
 - 2022-02-28 at 00h37 · [[_README]]
 - 2022-02-28 at 00h32 · [[SQL - SQL Server - Search for Text Within Stored Procedures]]
@@ -497,4 +498,3 @@
 - 2022-02-16 at 08h59 · [[Authentication in Azure Key Vault]]
 - 2022-02-15 at 17h57 · [[Tools]]
 - 2022-02-13 at 21h37 · [[GitHub Actions for R]]
-- 2022-02-13 at 21h35 · [[GCP - Google Cloud SDK - gcloud]]

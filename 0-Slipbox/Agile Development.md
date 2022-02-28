@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-02
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Concept", "#Topic/Dev"]
+Tags: ["#Type/Concept", "#Topic/Dev"]
 Alias: "Agile Development"
 ---
 

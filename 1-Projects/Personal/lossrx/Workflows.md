@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Scratch"]
+Tags: ["#Type/Brainstorm"]
 Alias: Workflows
 ---
 

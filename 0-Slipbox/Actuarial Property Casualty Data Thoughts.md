@@ -1,7 +1,7 @@
 ---
 Date: 2021-12-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Brainstorm", "#Topic/Actuarial/PropertyCasualty", "#Topic/Dev/Data"]
+Tags: ["#Type/Brainstorm", "#Topic/Actuarial/PropertyCasualty", "#Topic/Dev/Data"]
 Alias: "Actuarial Property Casualty Data Thoughts"
 ---
 

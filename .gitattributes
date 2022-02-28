@@ -3,6 +3,7 @@
 *.js linguist-vendored
 *.rtf linguist-vendored
 *.tex linguist-vendored
+*.bib linguist-vendored
 
 # Allow Markdown
 *.md -linguist-documentation

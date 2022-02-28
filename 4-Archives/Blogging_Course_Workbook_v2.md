@@ -1,4 +1,4 @@
----
+
 
 Hey there, I’m John Sonmez, the founder of Programmer and the author of this blogging course.Simple 
 
@@ -12,7 +12,7 @@ But... I would advise you to actually work at the pace in which the email course
 
 ## introduction 
 
----
+
 
 First, after having nearly 14,000 developers graduate from the blogging course, and having changed the frequency of when the lessons are sent out, I can tell you that successful developers were the ones who received and followed the lessons twice a week.the most 
 
@@ -28,54 +28,13 @@ With that said, you are of course free to go about this blogging course however 
 
  INTRODUCTION 
 
----
+
 
 Let’s brainstorm some possible themes for your blog by trying to figure out what would make a good specialty for you. 
 
 First, let’s start with areas of expertise you either have or would like to acquire. 
 
-- Areas of Expertise I Have Currently:
-    - Problem Solving
-    - Mathematics and Statistics
-    - Searching the Web Efficiently
-    - R Programming
-    - Web Application Development
-    - Database Development and SQL
-    - SQL Server and T-SQL
-    - PostgreSQL and pgpsql
-    - PowerShell
-    - Windows Imaging and Deployment
-    - Software Engineering
-    - Knowledge Management
-    - API Development and REST API Design
-        - Postman
-        - Swagger
-    - Version Control
-        - Git
-        - GitHub
-    - DevOps
-        - CI/CD
-        - Automated Testing
-        - Deployments
-    - Containers and Docker
-    - Cloud Computing and Serverless
-    - Clouds
-        - Azure
-        - AWS
-        - GCP
-    - Linux / Bash
-    - IT Support and Server Admin
-    - Web Design
-        - CSS
-        - HTML
 
-- Areas of Expertise I Want to acquire:
-    - Javascript
-    - React
-    - Microsoft's FluentUI
-    - Bootstrap/jQuery
-    - Next.js
-    - Kubernetes
     - 
 
  Next, list some of the things that interest you the most or you are most passionate about. 
@@ -88,7 +47,7 @@ First, let’s start with areas of expertise you either have or would like to ac
 
 ### Lesson 1 
 
----
+
 
  LESSON 1: CHOOSING A THEME 
 
@@ -124,7 +83,7 @@ You may have other skills and abilities, but it is difficult to be perceived as 
 
 People like to put you in a box and identify you by a label—good or bad. So, rather than letting other people do it for you, you are going to pick your own label. 
 
----
+
 
 The key here is to be very, very specific—at least at first. You can always expand later, but when you are starting out, it is critical that you have a very specific and narrow specialty that will be the theme of your blog. 
 
@@ -144,7 +103,7 @@ The key is starting off with the biggest advantage you can, which is being the b
 
  LESSON 1: CHOOSING A THEME 
 
----
+
 
  LESSON 1: CHOOSING A THEME 
 
@@ -166,7 +125,7 @@ That’s right. You are actually going to pick your theme today so that you can 
 
 When you choose a theme for your blog, you are going to want your scope to be very narrow and focused. This is also called specialization or “niching down.” The idea is that you shouldn’t create a general blog about software development, but instead should create a blog that is much more specific to a targeted area of software development, technology or other smaller specialized topic. 
 
----
+
 
  LESSON 1: CHOOSING A THEME 
 
@@ -178,7 +137,7 @@ That is what will get you noticed! The number one biggest mistake that most soft
 
 For now, I’ll assume you agree that specialization of some sort is important. 
 
----
+
 
 ##### SELECTING A THEME 
 
@@ -196,7 +155,7 @@ Here are some ideas to help you select a theme: f Some specialization you alread
 
  LESSON 1: CHOOSING A THEME 
 
----
+
 
 ##### YOUR ASSIGNMENT 
 
@@ -206,7 +165,7 @@ And, if you want my opinion on whether you should blog in your native language, 
 
  LESSON 1: CHOOSING A THEME 
 
----
+
 
 Here are all the steps in one place for creating a new WordPress blog on Bluehost. 
 
@@ -246,7 +205,7 @@ Want a video of the whole process? Here it is. Alternatives: A little more expen
 
 ### Lesson 2 
 
----
+
 
  It’s even easier to create a new blog with them. Go here to sign up and see the plans. I’d actually recommend this over Bluehost, but I know the starting plan is $29 a month so it’s not in everyone’s budget. But, if you can afford WPEngine, do it. It’s going to be much better in the long run. 
 
@@ -264,7 +223,7 @@ One of the main reasons I like WordPress so much is since I don’t really know 
 
  LESSON 2: CREATING YOUR BLOG 
 
----
+
 
 I can install a theme or a plugin to handle just about everything I need. Right now this might not seem like a big concern, but just like utilizing free hosting, this one can come back to bite you. WordPress is easy. That is very good when you are starting out. You can literally create your blog in 5 minutes and get going with it. 
 
@@ -282,7 +241,7 @@ I also used Bluehost to host my blogs, earlier on, because they let you create a
 
  LESSON 2: CREATING YOUR BLOG 
 
----
+
 
  LESSON 2: CREATING YOUR BLOG 
 
@@ -298,7 +257,7 @@ So, really the biggest thing you need to know about signing up for a Bluehost ac
 
 You can use an existing domain that you registered somewhere else, but I’d recommend registering it with Bluehost, since with that special discount link, you’ll get it for free—plus, it’s a lot less hassle. 
 
----
+
 
 Just go through the screens and fill in your information. At this point, I wouldn’t worry too much about the different options and add-ons they offer you. You can always uncheck everything and add anything you want later. Don’t spend too much time making a decision here, since everything is refundable and all the options are changeable after you sign up. They key thing is to get your blog up today. The only real choice you have to make is how long of a term to sign up for and if you want any of the add-ons they offer. 
 
@@ -312,7 +271,7 @@ You should end up at the main Welcome screen (after a few more offers for upgrad
 
  LESSON 2: CREATING YOUR BLOG 
 
----
+
 
 Just scroll down the page and find the section “Website Builders.” Now, click the WordPress logo and when you get to the next page, click the WordPress logo again (it should be under blogs.) A screen with “Install WordPress” on it will appear. Just click the start button and select your domain. Click “Check Domain” and you’ll get an error message that you can ignore. It just tells you that you are deleting whatever is already there, and you’ll overwrite the files. But, since you don’t have anything there, no need to worry about it. Finally, click the “Install Now” button and you are good to go. Ok, so it wasn’t exactly “one click,” but still, you have to admit it’s pretty easy. 
 
@@ -324,7 +283,7 @@ Just go to the link and login and you are all set up and ready to go. Once you a
 
  LESSON 2: CREATING YOUR BLOG 
 
----
+
 
 Oh, I almost forgot... your homework for today’s lesson. Actually, it’s pretty simple: Reply to this email and send me the URL to your new blog. P.S. Once you have your WordPress blog up and running, probably the next thing that’ll pop into your head is, “Hmmm, this default WordPress theme looks pretty boring. What can I do to make my site look a little more professional?” Well the great thing about WordPress is there are literally thousands of great themes to choose from, both free and “premium” (i.e. paid). 
 
@@ -332,7 +291,7 @@ My recommendation for this though is to go with the Thrive suite of premium them
 
  LESSON 2: CREATING YOUR BLOG 
 
----
+
 
 Rules: 
 
@@ -354,7 +313,7 @@ f Interviews with people in your field f Lists of things (Top 10 ways to ___, My
 
 ### Lesson 3 
 
----
+
 
  Top 3 best ideas: 
 
@@ -378,7 +337,7 @@ You don’t need perfect titles, just ideas for your posts.
 
  LESSON 3: COMING UP WITH POST IDEAS 
 
----
+
 
  LESSON 3: COMING UP WITH POST IDEAS 
 
@@ -402,7 +361,7 @@ You’ll have a lot easier time coming up with blog post ideas for your blog if 
 
 So, your secret weapon for deciding what to write about is... 
 
----
+
 
 ##### A LIST! 
 
@@ -420,7 +379,7 @@ Well, first of all, don’t call me Johnny-boy, and second, you can think of 50 
 
  LESSON 3: COMING UP WITH POST IDEAS 
 
----
+
 
 But, don’t just assume you can’t come up with 50 blog posts ideas, actually take the half hour to brainstorm as many ideas as possible. Brainstorming Tip: Some of my best ideas and biggest traffic generating blog posts were based off of ideas that Don’t be picky. Let the ideas flow. It doesn’t matter if they are good or not. I first thought were no good. Now, if you honestly can’t find 50 blog post ideas that fit your theme, it actually may be time to go back to the drawing board. If that is the case, perhaps you actually niched down too small and have too specific of a theme (this is very rare), or you just don’t know or care enough about the theme you picked. If that is the case, don’t despair. You just learned something. Just go back and pick another theme or change your theme a little bit and try again. 
 
@@ -438,7 +397,7 @@ In the next lesson, I’ll help you pick—and stick to—a posting schedule.
 
  LESSON 3: COMING UP WITH POST IDEAS 
 
----
+
 
 How often will you commit to writing a blog post? Fill it in here. _Example: I commit to writing a blog post once a week._ ................................................................................................... ................................................................................................... 
 
@@ -454,7 +413,7 @@ Stick it to your monitor.
 
 # I WILL SHIP! 
 
----
+
 
 ##### ADDITIONAL HELP 
 
@@ -472,7 +431,7 @@ Or just push through it and get something out there—even if you feel it’s no
 
  LESSON 4: COMMITTING TO CONSISTENCY 
 
----
+
 
  LESSON 4: COMMITTING TO CONSISTENCY 
 
@@ -494,7 +453,7 @@ If you have a blog that has 10 blog posts on it, it’s not going to get a lot o
 
 On the other hand, if you have a blog that has 200 blog posts on it, because you wrote one blog post every week for 4 years, you are probably going to be getting a lot of traffic. It’s very difficult to imagine someone who is that consistent and is not successful. In fact, I challenge you to find one such person. Find me a person who has written a blog post every week for 4 years and doesn’t have a decent amount of traffic or success—you just can’t find a person like that, because they don’t exist. I’m not going to lie to you, it might take you some time for your career to really start benefiting from creating a blog, but that is exactly why you should start now. Besides, I’m giving you a short-cut—at least as short of a short-cut you can take. You don’t have to go down all the wrong paths that I did. If you follow the advice in this email course, you’ll be starting off with every advantage that I didn’t have. 
 
----
+
 
 Now to address the second point—since I know you may be thinking that you just aren’t a good writer, so you’ll never have a successful blog. Here is the thing. these emails and thinking—dang, he STILL is a horrible writer—and that may very well be the When I first started my blog I was a horrible writer. You may be reading case, but I’ve improved a great deal from some of my first blog posts. In fact, blogging allowed me to do something I never thought I’d ever do: I published an actual book—and not a short one either, we are talking 504 pages. Writing and communication in general, was always something I sucked at. No, really. In high school I was in all the advanced classes for math, history, science, etc., but the one area where I was not only not in an advanced class, but I consistently got C’s in was English. But, despite my sad start and my general inaptitude for writing, consistency moved me from a crappy writer to a decent one. I even sometimes think I might be starting—starting—to become a good one. (But I’m not getting my hopes up.) 
 
@@ -514,7 +473,7 @@ Yes, posting once a week is a big commitment, but if you can sit at your desk an
 
  LESSON 4: COMMITTING TO CONSISTENCY 
 
----
+
 
 But, if you can’t commit to once a week, at least pick some level of commitment that you can absolutely stick to. With that said, if you are just starting out and would really like to get out of the gates running, you might try to commit to a schedule of 2-3 blog posts a week for at least a few months. This won’t be easy, but it will let you build up your blog much quicker and you can always slow down the pace later on. Once you’ve picked the frequency of how often you are going to post, the next thing I would suggest is to pick exactly when you will write your posts. 
 
@@ -532,7 +491,7 @@ You will be much more successful if you can ship every week than you will be if 
 
  LESSON 4: COMMITTING TO CONSISTENCY 
 
----
+
 
 Some of my most successful posts of all time have been blog posts that I almost hit the delete button on because I thought they were utter trash. So, just remember consistency trumps all—there is no excuse for not shipping. 
 
@@ -546,7 +505,7 @@ Finally, reply to this email and tell me how often you are going to blog and whe
 
  LESSON 4: COMMITTING TO CONSISTENCY 
 
----
+
 
  Pick a few other software developer blogs that you will leave relevant, valuable comments on every day or whenever there is a new post. List them here: ................................................................................................... ................................................................................................... ................................................................................................... Commit to leaving a certain number of comments on one of those blog or other blogs every day. How many comments will you shoot for each day? ................................................................................................... ................................................................................................... ................................................................................................... Search engine traffic will eventually be your main traffic source. The best way to get search engine traffic is to: 
 
@@ -558,7 +517,7 @@ Finally, reply to this email and tell me how often you are going to blog and whe
 
 ### Lesson 5 
 
----
+
 
 You also might consider using a theme from Thrive Themes, since Thrive Themes has many sharing features built in and can also help you build a list of subscribers. If you start collecting email addresses to build a list of subscribers, you can email them whenever you create a new post and you’ll send additional traffic. This can really build up over time. Here are the two best resources I recommend for building an email list of subscribers for your blog: 
 
@@ -580,7 +539,7 @@ Link building You have to be careful with this one, because if you pay for link-
 
  LESSON 5: GETTING TRAFFIC 
 
----
+
 
  LESSON 5: GETTING TRAFFIC 
 
@@ -596,7 +555,7 @@ The problem with these sites is that some of the people who lurk there and comme
 
 But, just shake it off. Haters gonna hate! 
 
----
+
 
  LESSON 5: GETTING TRAFFIC 
 
@@ -614,7 +573,7 @@ Eventually, people will notice your comments and hopefully will be interested in
 
 (^) You can even post a relevant link to a blog post you wrote in the comments section of someone else’s blog. (^) But, before you get all comment happy, we need to have a little talk. 
 
----
+
 
  LESSON 5: GETTING TRAFFIC 
 
@@ -632,7 +591,7 @@ Search engine traffic usually takes some time to acquire, because it is mainly b
 
 (^) Now, there are lots of ways to build backlinks. But, large portions of them are questionable. You should primarily focus on creating quality, highly targeted content, consistently. this, as people find your blog, they will link to it and share it. Over time, these links will result If you do in increased search engine traffic. If you try to do what is known as “black-hat” techniques to artificially build links, you may get some good search engine traffic for a while, but most likely Google will eventually figure out what you are doing and you can lose all your traffic literally overnight. (^) So, focus on writing high quality posts consistently. Sure, it will take time, but it will be well worth the effort. 
 
----
+
 
 The first year I started Simple Programmer, I got less than 50 views on my blog each day, but now Simple Programmer gets over 7,000 views a day. There are a few other tricks I discovered to help me get to that level of traffic—which we’ll talk about next—but, a majority of it came from just consistently writing blog posts every week. 
 
@@ -654,7 +613,7 @@ You should already know why this is valuable. SimpleProgrammer gets over 7,000 v
 
  LESSON 5: GETTING TRAFFIC 
 
----
+
 
 #### How to Earn Income on the 
 
@@ -670,7 +629,7 @@ I know, kind of pitiful right? Let me tell you though, I was RIDICULOUSLY proud 
 
 Six years later Simple Programmer generates close to $30,000 per month. Which is fantastic. I never thought the blog would come so far. I still can’t help but kick myself sometimes though... 
 
----
+
 
 Because even after I made my first few dollars from my blog, it wasn’t until the last couple of years when I really started to see a decent chunk of income from Simple Programmer every month. 
 
@@ -684,7 +643,7 @@ This program truly is the resource I wish I’d had when I was starting out. It�
 
  NEXT STEPS: HOW TO EARN INCOME ON THE SIDE FROM YOUR SOFTWARE DEVELOPMENT BLOG 
 
----
+
 
 I’ll show you every technique I’m using with Simple Programmer—and even several revenue streams that I haven’t had a chance to implement yet. You’ll see live examples of how other bloggers are using these income-generating approaches... And even get a few “sneak peeks” at the revenue I’m generating with Simple Programmer. In this video series, you’ll discover: f What’s a REALISTIC goal for how much you can earn with your blog? f How to earn more from advertising by cutting out the middle man f How to collect money “passively” whenever someone else makes a sale f One question to ask before you try to make money with your blog if you want to maximize what you’ll earn (and keep the trust of your readers) f How to find companies that will pay you for access to your audience f 3 non-obvious ways to sell advertising (much more profitably too) f How I turn every blog post at Simple Programmer into an income-boosting opportunity f Not making money yet? Step 1a to start earning money with your blog today f A tempting trap that can make you some money today, but destroy your blog before you have a chance to really earn more down the road 
 
@@ -696,7 +655,7 @@ f How the “podcast king” makes money by borrowing the expertise of other dev
 
  NEXT STEPS: HOW TO EARN INCOME ON THE SIDE FROM YOUR SOFTWARE DEVELOPMENT BLOG 
 
----
+
 
 And I’m throwing in a bonus too... Recently I hosted a “look over my shoulder” presentation for a select few diehard supporters of Simple Programmer. In this video, which is not for sale anywhere else, I fire up my screen sharing software, open up the Simple Programmer books, and step through my income streams line by line. You’ll see exactly what strategies I’m using to monetize Simple Programmer—and how much revenue each channel brings in. 
 

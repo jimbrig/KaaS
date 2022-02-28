@@ -2,7 +2,7 @@
 Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: "SQL Code"
+Alias: ["SQL Code", "SQL"]
 ---
 
 # SQL Code

@@ -1,14 +1,26 @@
 ---
-Date: 2022-02-09
+Date: 2022-02-27
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: Python
+Alias: CMD
 ---
 
-# Python
+# CMD
 
 <!-- optional markdown-notes-tree directory description starts here -->
-Python Code Snippets.
+Command Line Code Snippets.
 <!-- optional markdown-notes-tree directory description ends here -->
 
-- [[Python - Upgrade PIP]]
+*Contents*
+
+```dataview
+list from "2-Areas/Code/CMD" AND !#Type/Readme
+```
+
+***
+
+*Backlinks*
+
+```dataview
+list from [[_README]] AND -"Changelog"
+```

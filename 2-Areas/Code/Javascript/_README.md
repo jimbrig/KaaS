@@ -7,6 +7,10 @@ Alias: ["Javascript Code"]
 
 # Javascript Code
 
+<!-- optional markdown-notes-tree directory description starts here -->
+Javascript Code Snippets.
+<!-- optional markdown-notes-tree directory description ends here -->
+
 *Source: *
 
 

@@ -1,3 +1,12 @@
+---
+Date: 2022-02-27
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Meta"]
+Alias: "Unresolved-Links"
+---
+
+# Unresolved-Links
+
 Don't forget that creating the file from here may create the file in the wrong directory!
 - [[List of Links for Data Science Notebooks and the Cloud]] in [[0-Slipbox/Actuarial Experience Studies]]
 - [[Business Intelligence]] in [[0-Slipbox/Data Warehousing Concepts and Definitions]]
@@ -394,3 +403,12 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177]] in [[Unlinked-Files]]
 - [[3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV]] in [[Unlinked-Files]]
 - [[3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application]] in [[Unlinked-Files]]
+
+
+***
+
+*Backlinks:*
+
+```dataview
+list from [[Unresolved-Links]] AND -"Changelog"
+```

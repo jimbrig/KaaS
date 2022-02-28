@@ -1,35 +1,17 @@
-- [[desktop.files.json]]
-- [[Weekly_Review_Checklist.pdf]]
-- [[Unconfirmed 876002.crdownload]]
-- [[Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf]]
-- [[3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
-- [[3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD)]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming]]
-- [[Workflow for Serverless — Cloud Functions + Workflow [Basic]]]
-- [[Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]]]
+---
+Date: 2022-02-27
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Meta"]
+Alias: "Unlinked-Files"
+---
+
+# Unlinked-Files
+
 - [[Best GTD Tools and Productivity Software Tips. Life Improvement With GTD (Getting Things Done).]]
 - [[Backup 101 Windows Files and Folders You Should Always Back Up]]
 - [[Auto Documentation System for R Shiny - Stack Overflow]]
 - [[An Iterative Approach to Notes]]
 - [[A Better Way to Manage Your Github Personal Access Tokens]]
-- [[3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177]]]
 - [[7 Effective Tools to Increase Your Hard Drive Performance on Windows]]
 - [[7 Best Practices for Your Developer Onboarding Process]]
 - [[6 Windows Apps That Automatically Organize Files for You]]
@@ -37,8 +19,6 @@
 - [[4 Efficient Workflow  Efficient R Programming]]
 - [[10 Ways to Improve How You Manage Information]]
 - [['Mustashe' Explained  Joshua Cook]]
-- [[3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV]]
-- [[3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application]]
 - [[Obsidian-Clipper]]
 - [[Actuarial Science.rtf]]
 - [[Whitson - UNPAID LOSS & ALAE RANGES AND PERCENTILES.pdf]]
@@ -55,10 +35,7 @@
 - [[3-Resources/Citations/Actuarial Science/files/146/Stanard - A SIMULATION TEST OF PREDICTION ERRORS OF LOSS RES.pdf]]
 - [[3-Resources/Citations/Actuarial Science/files/144/Gabrielli and Wüthrich - Individual Claims Simulation Machine Description .pdf]]
 - [[Actuarial Science.bib]]
-- [[2-Areas/People/_README]]
 - [[2-Areas/Mindsweeps/2021-12-07]]
-- [[2-Areas/Agendas/_README]]
-- [[1-Projects/reserver/_README]]
 - [[Functions]]
 - [[Data]]
 - [[Application and API]]
@@ -68,7 +45,6 @@
 - [[WSL Initial Setup Notes]]
 - [[Windows Shell Commands]]
 - [[Unix Philosophy]]
-- [[REST API Resources List]]
 - [[R Package Development Resources]]
 - [[Problems with No-Code and Low-Code Tools]]
 - [[Flask and Docker]]
@@ -78,3 +54,12 @@
 - [[Azure Setup Guide]]
 - [[API Authentication]]
 - [[Alteryx vs Code]]
+
+
+***
+
+*Backlinks:*
+
+```dataview
+list from [[Unlinked-Files]] AND -"Changelog"
+```

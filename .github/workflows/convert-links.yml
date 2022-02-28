@@ -19,7 +19,7 @@ jobs:
           profile: minimal
           toolchain: stable
           override: true
-      - name: install obsidian-exort
+      - name: install obsidian-export
         uses: actions-rs/cargo@v1
         with:
           command: install

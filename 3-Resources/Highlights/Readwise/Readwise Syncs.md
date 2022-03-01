@@ -554,3 +554,11 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
     - 7 highlights from Creating a Metadata Architecture From the Ground Up
     - 1 highlights from Modernize Your ETL Processes to Unleash Better Business Intelligence
 
+- [[2022-02-28]] 8:24 PM — Synced 23 highlights from 6 documents.
+    - 1 highlights from Unattended Install of the Latest SQL Server Management Studio Using PowerShell
+    - 1 highlights from How to Configure Windows Settings for SQL Server With PowerShell
+    - 3 highlights from Unattended Install of 7-Zip Using PowerShell
+    - 5 highlights from How to Bootstrapping Linux & Windows Azure VMs With Terraform
+    - 12 highlights from Get Started With Obsidian as a Developer
+    - 1 highlights from 🌱 My Blog Is a Digital Garden, Not a Blog
+

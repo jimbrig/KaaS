@@ -119,7 +119,7 @@ Alias: "Actuarial Science"
 #### Data
 
 - [[Property Casualty Data Model]]
-- [[Actuarial Claims Data - Simulation R Script]]
+- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
 - [[Actuarial Property Casualty Data Thoughts]]
 - [[Data Warehousing for Insurance Data]]
 - [[Data Warehouse for Insurance]]

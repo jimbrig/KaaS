@@ -108,11 +108,11 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 - [[mssql_rstudio]]
 - [[docker_shiny_mssql]]
-- [[Actuarial Claims Data - Simulation R Script]]
+- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
 
 ### PowerShell
 
-- [[PowerShell - Backup Edge User Preferences Script]]
+- [[PowerShell - Edge Scripts]]
 - [[PowerShell - Useful Profile Utility Functions]]
 - [[PowerShell - Retrieve Local Public IPv4 IP Address]]
 - [[PowerShell - Install Azure-CLI]]

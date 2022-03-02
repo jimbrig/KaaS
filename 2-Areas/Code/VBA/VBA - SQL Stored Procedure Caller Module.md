@@ -335,7 +335,7 @@ End Sub
 
 ## Appendix: Links
 
-- [[Code]]
+- [[2-Areas/Code/_README|Code]]
 - [[Development]]
 - [[Excel]]
 - [[Microsoft Office]]

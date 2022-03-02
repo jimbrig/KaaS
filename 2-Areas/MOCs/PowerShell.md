@@ -12,7 +12,7 @@ Alias: "PowerShell"
 ## PowerShell Related Notes 
 
 - [[Documenting PowerShell Modules]]
-- [[PowerShell - Backup Edge User Preferences Script]]
+- [[PowerShell - Edge Scripts]]
 
 ## Modules
 

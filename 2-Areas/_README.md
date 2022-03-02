@@ -11,7 +11,7 @@ Alias: "Areas"
 - [[2-Areas/Daily-Notes/_README|Daily-Notes]]
 - [[2-Areas/Goals/_README|Goals]]
 - [[2-Areas/Content/Guides/_README|Guides]]
-- [[2-Areas/Lists/_README|Lists]]
+- [[2-Areas/Content/Lists/_README|Lists]]
 - [[2-Areas/Meta/_README|Meta]]
 - [[2-Areas/Mindsweeps/_README|Mindsweeps]]
 - [[2-Areas/MOCs/_README|MOCs]]

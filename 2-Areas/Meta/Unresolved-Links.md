@@ -7,6 +7,15 @@ Alias: "Unresolved-Links"
 
 # Unresolved-Links
 
+---
+Date: 2022-02-27
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Meta"]
+Alias: "Unresolved-Links"
+---
+
+# Unresolved-Links
+
 Don't forget that creating the file from here may create the file in the wrong directory!
 - [[List of Links for Data Science Notebooks and the Cloud]] in [[0-Slipbox/Actuarial Experience Studies]]
 - [[Business Intelligence]] in [[0-Slipbox/Data Warehousing Concepts and Definitions]]

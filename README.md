@@ -130,11 +130,6 @@ The others are still works in progress as I collect and curate more notes into t
 
 ***
 
-![[InVideo___Project_ID__902pprenderfs_1644809043258_Trim.gif]]
-
-***
-
-
 <center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
 
 ***

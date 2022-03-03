@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-
+  workflow_run:
+    workflows: [ Convert-Links ]
 jobs:
   deploy:
     runs-on: ubuntu-latest

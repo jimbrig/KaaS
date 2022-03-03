@@ -9,6 +9,47 @@ Alias: Tools
 
 - [Tools](Tools.md)
 
+## Contents
+
+- [[#Cloud|Cloud]]
+	- [[#Amazon Web Services (AWS)|Amazon Web Services (AWS)]]
+	- [[#Azure|Azure]]
+	- [[#Google Cloud Platform (GCP)|Google Cloud Platform (GCP)]]
+- [[#Business Intelligence (BI)|Business Intelligence (BI)]]
+- [[#Web Browsers|Web Browsers]]
+- [[#Command Line (CLI)|Command Line (CLI)]]
+- [[#Data|Data]]
+	- [[#Databases|Databases]]
+	- [[#Database GUIs|Database GUIs]]
+	- [[#Data Utilities|Data Utilities]]
+	- [[#Docker|Docker]]
+- [[#Documentation|Documentation]]
+- [[#Integrated Development Environments (IDEs)|Integrated Development Environments (IDEs)]]
+- [[#iOS|iOS]]
+- [[#Programming Languages|Programming Languages]]
+- [[#Linux|Linux]]
+- [[#Modeling|Modeling]]
+- [[#NPM|NPM]]
+- [[#Obsidian|Obsidian]]
+	- [[#Plugins|Plugins]]
+	- [[#Utility|Utility]]
+- [[#Online Tools|Online Tools]]
+- [[#Package Managers|Package Managers]]
+- [[#PowerShell|PowerShell]]
+- [[#Productivity|Productivity]]
+- [[#Python|Python]]
+- [[#R|R]]
+	- [[#Actuarial|Actuarial]]
+	- [[#API Development|API Development]]
+	- [[#Data Manipulation|Data Manipulation]]
+	- [[#Databases|Databases]]
+	- [[#General|General]]
+	- [[#R Package Tools|R Package Tools]]
+- [[#Utility|Utility]]
+- [[#Version Control|Version Control]]
+- [[#Windows|Windows]]
+
+
 ## Cloud
 
 ### Amazon Web Services (AWS)

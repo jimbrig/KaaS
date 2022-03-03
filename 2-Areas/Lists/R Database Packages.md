@@ -150,8 +150,8 @@ This section includes packages that provides tools for working and testing with 
 
 *Code:*
 
-- [[mssql_rstudio|mssql_rstudio]]
-- [[docker_shiny_mssql|docker_shiny_mssql]]
+- [[R - mssql_rstudio|mssql_rstudio]]
+- [[R - docker_shiny_mssql|docker_shiny_mssql]]
 
 *Outdated:*
 

@@ -107,8 +107,8 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 ### R
 
-- [[mssql_rstudio]]
-- [[docker_shiny_mssql]]
+- [[R - mssql_rstudio]]
+- [[R - docker_shiny_mssql]]
 - [[R - Simulate Actuarial Claims Data - Simulation R Script]]
 
 ### PowerShell

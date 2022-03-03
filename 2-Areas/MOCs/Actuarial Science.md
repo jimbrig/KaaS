@@ -92,18 +92,18 @@ Alias: "Actuarial Science"
 
 *See Also: [[R]] | [[Data Science]]*
 
--   [[R Package - ChainLadder]]
--   [[R Package - deeptriangle]]
--   [[R Package - simulationmachine]]
--   [[R Package - rsvr]]
--   [[R Package - imaginator]]
--   [[R Package - raw]]
--   [[R Package - insurancerating]]
--   [[R Package - conjuror]]
--   [[R Package - casdown]]
--   [[R Package - casdata]]
--   [[R Package - actuar]]
--   [[R Package - cascsim]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - ChainLadder]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - deeptriangle]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - simulationmachine]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - rsvr]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - imaginator]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - raw]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - insurancerating]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - conjuror]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - casdown]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - casdata]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - actuar]]
+-   [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - cascsim]]
 
 ##### R Shiny
 
@@ -111,8 +111,8 @@ Alias: "Actuarial Science"
 
 ##### Python
 
-- [[Python Package - ChainLadder]]
-- [[Python Package - tryangle]]
+- [[3-Resources/Tools/Python/Python Packages 1/Python Package - ChainLadder]]
+- [[3-Resources/Tools/Python/Python Packages 1/Python Package - tryangle]]
 - [[Python Package - trikit]]
 
 

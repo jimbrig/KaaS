@@ -63,7 +63,7 @@ In those days, the game kind of went like this. I would ask my boss if they knew
 
 ## Overview
 
-PCDM is a [[Python Package - SQLAlchemy|SQLAlchemy]] implementation of [Object Management Group's Property Casualty Data Model](https://www.omg.org/spec/PC/About-PC/). 
+PCDM is a [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|SQLAlchemy]] implementation of [Object Management Group's Property Casualty Data Model](https://www.omg.org/spec/PC/About-PC/). 
 
 The [[Property Casualty Data Model]] is a [[Relational Databases|relational database]] schema that closely resembles the backend of an insurance company. 
 
@@ -99,7 +99,7 @@ According to the [Object Management Group](https://www.omg.org/gettingstarted/ov
 
 ## Installation and Deployment
 
-This repository requires [[Python Package - SQLAlchemy|sqlalchemy]], so install it if you don't have it:
+This repository requires [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|sqlalchemy]], so install it if you don't have it:
 
 ```python
 pip3 install sqlalchemy

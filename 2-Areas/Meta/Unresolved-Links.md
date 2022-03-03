@@ -22,7 +22,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Dimensional Approach to Data Warehousing]] in [[0-Slipbox/Data Warehousing Concepts and Definitions]]
 - [[Data Warehousing Concepts - Facts Measures Dimensions]] in [[0-Slipbox/Dimensional Modeling]]
 - [[Stored Procedure]] in [[0-Slipbox/ELT Cloud Based Pipeline Architecture]]
-- [[Flask Extensions]] in [[List of Python Flask Resources]], [[Python Package - SQLAlchemy]]
+- [[Flask Extensions]] in [[List of Python Flask Resources]], [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy]]
 - [[Flask-SQLAlchemy]] in [[List of Python Flask Resources]]
 - [[Flask-Login]] in [[List of Python Flask Resources]]
 - [[Flask-User]] in [[List of Python Flask Resources]]

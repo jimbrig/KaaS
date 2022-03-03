@@ -130,8 +130,8 @@ saveRDS(trans, file = "trans.RDS")
 
 ### Related Work
 
-- [[R Package - simulationmachine|Simulation Machine]] by [[KasaAI GitHub Organization|KasaAI]]
-- [[R Package - rsvr|rsvr package]] by [[KasaAI GitHub Organization|KasaAI]] and it corresponding [Google Design Doc](https://docs.google.com/document/d/1x2Pi7tujWLAQlqd0chBXb0Ml0Ga2HK797OVJSaQQjv0/edit)
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - simulationmachine|Simulation Machine]] by [[KasaAI GitHub Organization|KasaAI]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - rsvr|rsvr package]] by [[KasaAI GitHub Organization|KasaAI]] and it corresponding [Google Design Doc](https://docs.google.com/document/d/1x2Pi7tujWLAQlqd0chBXb0Ml0Ga2HK797OVJSaQQjv0/edit)
 
 #### Related
 

@@ -5,9 +5,7 @@ Tags: ["#Type/Slipbox"]
 Alias: "The Ultimate Guide to an Effective Weekly Review"
 ---
 
-
-
-## The Ultimate Guide to an Effective 
+# The Ultimate Guide to an Effective 
 
 *Source: [[The Ultimate Guide to an Effective Weekly Review.pdf]]*
 *Highlights:* [[The Ultimate Guide to an Effective Weekly Review- Highlights]]

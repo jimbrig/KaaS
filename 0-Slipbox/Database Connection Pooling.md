@@ -25,7 +25,7 @@ Instead of opening and closing a connection per request/endpoint, you now acquir
 
 In Python you can utilize [PySQLPool](http://packages.python.org/PySQLPool/) for `mysql` for example.
 
-For production applications with Python you should by using [[Python Package - SQLAlchemy|SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with [[Python Package - SQLAlchemy|SQLAlchemy]] and [[Python Package - Flask|Flask]].
+For production applications with Python you should by using [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|SQLAlchemy]] and [[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask|Flask]].
 
 ## Reference
 
@@ -40,8 +40,8 @@ For production applications with Python you should by using [[Python Package - S
 ***
 
 Backlinks:
--	[[Python Package - Flask]]
-- [[Python Package - SQLAlchemy]]
+-	[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
+- [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy]]
 - [[System Design]]
 -	[[Web Development]]
 

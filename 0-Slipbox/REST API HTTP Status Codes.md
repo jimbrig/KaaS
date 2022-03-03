@@ -170,5 +170,5 @@ This page is created from HTTP status code information found at [ietf.org](https
 [[REST API HTTP Status Codes]]
 [[REST API Resource Naming]]
 [[REST API Idempotence]]
-[[R Package - plumber]]
-[[Python Package - Flask]]
+[[3-Resources/Tools/R/R Packages/API R Packages/R Package - plumber]]
+[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]

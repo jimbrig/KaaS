@@ -16,7 +16,7 @@ Alias: ["markdown-notes-tree"]
 - [[Tools]]
 - [[Development]]
 - [[Nodejs]]
-- [[3-Resources/Tools/npm Packages/_README|npm Packages]]
+- [[3-Resources/Tools/NPM Packages/_README|npm Packages]]
 - [[Web Development]]
 - [[CLI Tools]]
 

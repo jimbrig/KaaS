@@ -11,7 +11,7 @@ Alias: "dplyr as a Database Interface for R"
 
 ## Overview
 
-The [[R Package - dplyr|dplyr]] package simplifies data transformation. It provides a consistent set of functions, called verbs, that can be used in succession and interchangeably to gain understanding of the data interactively.
+The [[3-Resources/Tools/R/R Packages/Data Manipulation Packages/R Package - dplyr|dplyr]] package simplifies data transformation. It provides a consistent set of functions, called verbs, that can be used in succession and interchangeably to gain understanding of the data interactively.
 
 ### **dplyr** as a database interface
 
@@ -80,8 +80,8 @@ tbl(con, "FLIGHTS") %>%
 ## Appendix: Links
 
 - [[R Database Packages]]
-- [[R Package - dplyr]]
-- [[R Package - dbplyr]]
+- [[3-Resources/Tools/R/R Packages/Data Manipulation Packages/R Package - dplyr]]
+- [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - dbplyr]]
 - [[Development]]
 - [[R]]
 

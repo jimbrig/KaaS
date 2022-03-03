@@ -587,3 +587,6 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
     - 12 highlights from Get Started With Obsidian as a Developer
     - 1 highlights from 🌱 My Blog Is a Digital Garden, Not a Blog
 
+- [[2022-03-02]] 6:33 PM — Synced 3 highlights from 1 document.
+    - 3 highlights from How to Be a 10x Software Engineer
+

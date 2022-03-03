@@ -149,10 +149,10 @@ See Also: [[Actuarial Science]]
 
 ### R Packages
 
-- [[R Package - actuar]]
-- [[R Package - ChainLadder]]
-- [[R Package - insurancerating]]
-- [[R Package - conjuror]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - actuar]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - ChainLadder]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - insurancerating]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - conjuror]]
 
 ### Other
 

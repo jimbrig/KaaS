@@ -293,7 +293,7 @@ Alias: "List of Python Flask Resources"
 
 *Backlinks:*
 
-[[Python Package - Flask]]
+[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
 [[Python]]
 [[Development]]
 [[Tools]]

@@ -290,7 +290,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 - [[PostgreSQL Tools]]
 - [[Database GUIs#PostgreSQL Specific]]
-- [[3-Resources/Tools/R Packages/Database R Packages/R Package - RPostgres|RPostgres]]
+- [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgres|RPostgres]]
 - [[Database Views vs Materialized Views]]
 - [[Databases]]
 - [[Data Engineering]]

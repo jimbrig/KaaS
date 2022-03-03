@@ -13,13 +13,13 @@ Alias: ["CAS - Casualty Actuarial Society", "CAS", "Casualty Actuarial Society"]
 
 - [[Free Actuarial System for Loss Reserving]]
 - [[Property Casualty Data Model]]
-- [[R Package - cascsim]]
-- [[R Package - imaginator]]
-- [[R Package - casdown]]
-- [[R Package - raw]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - cascsim]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - imaginator]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - casdown]]
+- [[3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - raw]]
 - [[R Shiny - The Big Long - An Interactive Actuarial Simulation]]
-- [[Python Package - ChainLadder]]
-- [[Python Package - tryangle]]
+- [[3-Resources/Tools/Python/Python Packages 1/Python Package - ChainLadder]]
+- [[3-Resources/Tools/Python/Python Packages 1/Python Package - tryangle]]
 
 ## Links
 

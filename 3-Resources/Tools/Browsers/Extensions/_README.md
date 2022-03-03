@@ -11,9 +11,9 @@ Alias: ["Web Browser Extensions", "Browser Extensions"]
 - [[Markdownload]]
 - [[Zotero Connector]]
 - [[Dark Reader]]
-- [[Raindrop.io (Browser Extension)]]
+- [[Raindrop.io]]
 - [[OneTab]]
-- [[Keeper Password Manager (Browser Extension)]]
+- [[Keeper Password Manager]]
 - [[Momentum]]
 
 

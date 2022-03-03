@@ -129,5 +129,5 @@ Links:
 [[REST API Methods]]
 [[REST API Resource Naming]]
 [[REST API Idempotence]]
-[[R Package - plumber]]
-[[Python Package - Flask]]
+[[3-Resources/Tools/R/R Packages/API R Packages/R Package - plumber]]
+[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]

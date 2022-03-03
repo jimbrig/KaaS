@@ -29,8 +29,8 @@ Sources:
 - [[Git]]
 - [[R]]
 - [[Code Coverage]]
-- [[R Package - covr]]
-- [[R Package - usethis]]
+- [[3-Resources/Tools/R/R Packages/R Package Tools/R Package - covr]]
+- [[3-Resources/Tools/R/R Packages/R Package Tools/R Package - usethis]]
 - [[R Package Development Resources]]
 
 *Backlinks:*

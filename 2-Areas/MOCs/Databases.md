@@ -116,19 +116,19 @@ Alias: "Databases"
 
 ### R
 
--   [[R Package - RPostgreSQL]]
--   [[R Package - DBI]]
--   [[R Package - dbx]]
--   [[R Package - pool]]
+-   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgreSQL]]
+-   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI]]
+-   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - dbx]]
+-   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - pool]]
 -   [[R Package - sqlmlutils]]
--   [[R Package - dbplyr]]
--   [[R Package - config]]
+-   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - dbplyr]]
+-   [[3-Resources/Tools/R/R Packages/General R Packages/R Package - config]]
 
 -   [[R - Connect Shiny to PostgreSQL Database]]
 
 ### Python
 
--   [[Python Package - SQLAlchemy]]
+-   [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy]]
 
 ## People
 

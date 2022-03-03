@@ -5,7 +5,7 @@ Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - PostgreSQL - Simulate `IIF` From SQL Server"]
 ---
 
-# SQL - PostgreSQL - Simulate `IIF` From SQL Server
+# SQL - PostgreSQL - Simulate IIF From SQL Server
 
 *Source: https://wiki.postgresql.org/wiki/Simulating_iif_function*
 

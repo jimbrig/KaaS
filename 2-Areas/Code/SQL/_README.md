@@ -37,7 +37,7 @@ Code Snippets for [[Google Cloud BigQuery|BigQuery]]:
 Code Snippets for [[PostgreSQL]]:
 
 -   [[SQL - PostgreSQL - Strip Accents from Strings]]
--   [[SQL - PostgreSQL - Simulate `IIF` From SQL Server]]
+-   [[SQL - PostgreSQL - Simulate IIF From SQL Server]]
 -   [[SQL - PostgreSQL - Stored Procedure - Merge Tables]]
 -   [[SQL - PostgreSQL - Information Schema Queries]]
 -   [[SQL - PostgreSQL - Split a Single Column into Separate Rows]]
@@ -60,7 +60,7 @@ Code Snippets for [[PostgreSQL]]:
 -   [[SQL - PostgreSQL - Dynamic Trigger]]
 -   [[SQL - PostgreSQL - DataDictionary]]
 -   [[SQL - PostgreSQL - Cumulative Distribution]]
--   [[SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`]]
+-   [[SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile]]
 -   [[SQL - PostgreSQL - Count NULLs]]
 -   [[SQL - PostgreSQL - Clone Schema]]
 -   [[SQL - PostgreSQL - Calculating the Median]]

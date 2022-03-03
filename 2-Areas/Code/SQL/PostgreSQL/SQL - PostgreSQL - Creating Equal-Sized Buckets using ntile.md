@@ -5,7 +5,7 @@ Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
 Alias: ["SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`"]
 ---
 
-# SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`
+# SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile
 
 *Source: [sql-snippets/ntile.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/ntile.md)*
 

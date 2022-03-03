@@ -18,6 +18,7 @@ tree_title: "Code Snippets"
 
 ## Contents
 
+- [[#Bash|Bash]]
 - [[#Batch Scripts|Batch Scripts]]
 - [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
 - [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
@@ -30,11 +31,10 @@ tree_title: "Code Snippets"
 - [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
 	- [[#BigQuery|BigQuery]]
 	- [[#PostgreSQL|PostgreSQL]]
-	- [[#Microsoft SQL Server (`MSSQL`)|Microsoft SQL Server (`MSSQL`)]]
+	- [[#Microsoft SQL Server (MSSQL)|Microsoft SQL Server (MSSQL)]]
 	- [[#Visual Basic for Applications (VBA)|Visual Basic for Applications (VBA)]]
 - [[#MindMap|MindMap]]
 - [[#Appendix: Links|Appendix: Links]]
-
 
 ## Bash
 
@@ -82,7 +82,7 @@ tree_title: "Code Snippets"
     - [GitHub Action - R Package Validation](<GitHub Actions/GitHub Action - R Package Validation.md>)
     - [GitHub Action - R Spelling Checks](<GitHub Actions/GitHub Action - R Spelling Checks.md>)
     - [GitHub Action - Release](<GitHub Actions/GitHub Action - Release.md>)
-    - [GitHub Action - `roxygen`](<GitHub Actions/GitHub Action - roxygen.md>)
+    - [GitHub Action - roxygen](<GitHub Actions/GitHub Action - roxygen.md>)
     - [GitHub Actions for R](<GitHub Actions/GitHub Actions for R.md>)
 
 ## JavaScript
@@ -120,7 +120,7 @@ tree_title: "Code Snippets"
 
 - [**R**](R) - R Code Snippets.
     - [R - docker_shiny_mssql](<R/R - docker_shiny_mssql.md>)
-    - [R - `mssql_rstudio`](<R/R - mssql_rstudio.md>)
+    - [R - mssql_rstudio](<R/R - mssql_rstudio.md>)
     - [R - Handle long polling process in Plumber or Shiny](<R/R - Handle long polling process in Plumber or Shiny.md>)
     - [R - Package Management Scripts](<R/R - Package Management Scripts.md>)
     - [R - Retrieve GitHub Starred Repo Data](<R/R - Retrieve GitHub Starred Repo Data.md>)
@@ -154,7 +154,7 @@ tree_title: "Code Snippets"
     - [SQL - Clone Schema](<SQL/PostgreSQL/SQL - PostgreSQL - Clone Schema.md>)
     - [SQL - PostgreSQL - Count NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Count NULLs.md>)
     - [SQL - PostgreSQL - Create modified_at columns and triggers](<SQL/PostgreSQL/SQL - PostgreSQL - Create modified_at columns and triggers.md>)
-    - [SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`](<SQL/PostgreSQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using \`ntile\`.md>)
+    - [SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile](<SQL/PostgreSQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md>)
     - [SQL - PostgreSQL - Cumulative Distribution](<SQL/PostgreSQL/SQL - PostgreSQL - Cumulative Distribution.md>)
     - [SQL - Data Dictionary](<SQL/PostgreSQL/SQL - PostgreSQL - DataDictionary.md>)
     - [SQL - PostgreSQL - Date Dimension Table](<SQL/PostgreSQL/SQL - PostgreSQL - Date Dimension Table.md>)
@@ -175,7 +175,7 @@ tree_title: "Code Snippets"
     - [SQL - PostgreSQL - Human-Readable Timestamps](<SQL/PostgreSQL/SQL - PostgreSQL - Human-Readable Timestamps.md>)
     - [SQL - PostgreSQL - Information Schema Queries](<SQL/PostgreSQL/SQL - PostgreSQL - Information Schema Queries.md>)
     - [SQL - PostgreSQL - Kill Running or Idle Connections](<SQL/PostgreSQL/SQL - PostgreSQL - Kill Running or Idle Connections.md>)
-    - [SQL - PostgreSQL - `MONTH()` Equivalent](<SQL/PostgreSQL/SQL - PostgreSQL - MONTH() Equivalent.md>)
+    - [SQL - PostgreSQL - MONTH() Equivalent](<SQL/PostgreSQL/SQL - PostgreSQL - MONTH() Equivalent.md>)
     - [SQL - PostgreSQL - Moving Average](<SQL/PostgreSQL/SQL - PostgreSQL - Moving Average.md>)
     - [SQL - PostgreSQL - Multi-Replace (plpgsql)](<SQL/PostgreSQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md>)
     - [SQL - PostgreSQL -Normalize Whitespace](<SQL/PostgreSQL/SQL - PostgreSQL - Normalize Whitespace.md>)
@@ -187,14 +187,14 @@ tree_title: "Code Snippets"
     - [SQL - PostgreSQL - Replace NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Replace NULLs.md>)
     - [SQL - PostgreSQL - Reverse an Array](<SQL/PostgreSQL/SQL - PostgreSQL - Reverse an Array.md>)
     - [SQL - PostgreSQL - Set Default UTF8 Encoding](<SQL/PostgreSQL/SQL - PostgreSQL - Set Default UTF8 Encoding.md>)
-    - [SQL - PostgreSQL - Simulate `IIF` From SQL Server](<SQL/PostgreSQL/SQL - PostgreSQL - Simulate \`IIF\` From SQL Server.md>)
+    - [SQL - PostgreSQL - Simulate IIF From SQL Server](<SQL/PostgreSQL/SQL - PostgreSQL - Simulate IIF From SQL Server.md>)
     - [SQL - PostgreSQL - Split a Single Column into Separate Rows](<SQL/PostgreSQL/SQL - PostgreSQL - Split a Single Column into Separate Rows.md>)
     - [SQL - PostgreSQL - Stored Procedure - Merge Tables](<SQL/PostgreSQL/SQL - PostgreSQL - Stored Procedure - Merge Tables.md>)
     - [SQL - PostgreSQL - Strip Accents from Strings](<SQL/PostgreSQL/SQL - PostgreSQL - Strip Accents from Strings.md>)
     - [SQL - PostgreSQL - UPSERT](<SQL/PostgreSQL/SQL - PostgreSQL - UPSERT.md>)
     - [SQL - PostgreSQL String Manipulation](<SQL/PostgreSQL/SQL - PostgreSQL String Manipulation.md>)
     
-### Microsoft SQL Server (`MSSQL`)
+### Microsoft SQL Server (MSSQL)
 
 Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 

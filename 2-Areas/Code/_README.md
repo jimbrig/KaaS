@@ -18,154 +18,231 @@ tree_title: "Code Snippets"
 
 ## Contents
 
-- [[#Code Snippets|Code Snippets]]
-	- [[#SQL|SQL]]
-		- [[#BigQuery|BigQuery]]
-		- [[#PostgreSQL|PostgreSQL]]
-		- [[#SQL Server (`MSSQL`)|SQL Server (`MSSQL`)]]
-	- [[#R|R]]
-	- [[#PowerShell|PowerShell]]
-	- [[#JavaScript|JavaScript]]
-	- [[#GitHub Actions|GitHub Actions]]
-- [[#Languages|Languages]]
-- [[#See Also|See Also]]
+- [[#Batch Scripts|Batch Scripts]]
+- [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
+- [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
+- [[#GitHub Actions|GitHub Actions]]
+- [[#JavaScript|JavaScript]]
+- [[#PowerShell|PowerShell]]
+- [[#Python|Python]]
+- [[#R|R]]
+- [[#Windows Registry (RegEdit)|Windows Registry (RegEdit)]]
+- [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
+	- [[#BigQuery|BigQuery]]
+	- [[#PostgreSQL|PostgreSQL]]
+	- [[#Microsoft SQL Server (`MSSQL`)|Microsoft SQL Server (`MSSQL`)]]
+	- [[#Visual Basic for Applications (VBA)|Visual Basic for Applications (VBA)]]
+- [[#MindMap|MindMap]]
+- [[#Appendix: Links|Appendix: Links]]
 
 
+## Bash
 
-## Code Snippets
+- [**Bash**](Bash) - Linux Bash Code Snippets.
+    - [Bash - Git-Auto](<Bash/Bash - Git-Auto.md>)
+    - [Bash - Install NVM](<Bash/Bash - Install NVM.md>)
+    - [Bash - Install oh-my-zsh](<Bash/Bash - Install oh-my-zsh.md>)
 
-### SQL
+## Batch Scripts
 
-[[2-Areas/Code/SQL/_README|SQL]]:
+- [**Batch**](Batch)
+    - [Batch - MediaCreationTool](<Batch/Batch - MediaCreationTool.md>)
 
-- [[#BigQuery|BigQuery]]
-- [[#PostgreSQL|PostgreSQL]]
-- [[#SQL Server (`MSSQL`)|SQL Server (`MSSQL`)]]
+## Windows Command Line (CMD/MS-DOS)
 
-#### BigQuery
+- [**CMD**](CMD) - Command Line Code Snippets.
+    - [CMD - Create a Network Performance Windows Report](<CMD/CMD - Create a Network Performance Windows Report.md>)
+    - [CMD - Delete Network Data](<CMD/CMD - Delete Network Data.md>)
+    - [CMD - Delete Windows Update Leftover Files](<CMD/CMD - Delete Windows Update Leftover Files.md>)
+    - [CMD - DISM Commands](<CMD/CMD - DISM Commands.md>)
+    - [CMD - FlushDNS](<CMD/CMD - FlushDNS.md>)
+    - [CMD - Retrieve Stored Wi-Fi Passwords](<CMD/CMD - Retrieve Stored Wi-Fi Passwords.md>)
+    - [CMD - Retrieve Windows Credential Manager Saved Secrets](<CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md>)
+    - [CMD - Run the Hardware Diagnostic Troubleshooter](<CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md>)
+    - [CMD - Run the WinSAT Diagnostics Score](<CMD/CMD - Run the WinSAT Diagnostics Score.md>)
+    - [CMD - Start a Windows Defender Virus Scan](<CMD/CMD - Start a Windows Defender Virus Scan.md>)
+    - [CMD - View Available Disks on Windows](<CMD/CMD - View Available Disks on Windows.md>)
+    - [CMD - Extended Disk Cleanup](<CMD/CMD - Extended Disk Cleanup.md>)
+    - [CMD - Memory Diagnostic](<CMD/CMD - Memory Diagnostic.md>)
+    - [CMD - Windows Troubleshooter Commands](<CMD/CMD - Troubleshooter Commands.md>)
 
-Code Snippets for [[Google Cloud BigQuery|BigQuery]]:
+## Cascading Style Sheets (CSS)
+
+- [**CSS**](CSS) - CSS Code Snippets.
+    - [CSS - Default Obsidian Theme Styling](<CSS/CSS - Default Obsidian Theme Styling.md>)
+    - [CSS - GitHub Obsidian Theme](<CSS/CSS - GitHub Obsidian Theme.md>)
+
+## GitHub Actions
+
+- [**GitHub Actions**](<GitHub Actions>) - GitHub Action Code Snippets.
+    - [GitHub Action - Build-Check-Install R Package](<GitHub Actions/GitHub Action - Build-Check-Install R Package.md>)
+    - [Code Coverage for R GitHub Action](<GitHub Actions/GitHub Action - Code Coverage for R.md>)
+    - [GitHub Action - git-cliff](<GitHub Actions/GitHub Action - git-cliff.md>): automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
+    - [GitHub Action - pkgdown](<GitHub Actions/GitHub Action - pkgdown.md>)
+    - [GitHub Action - R Package Validation](<GitHub Actions/GitHub Action - R Package Validation.md>)
+    - [GitHub Action - R Spelling Checks](<GitHub Actions/GitHub Action - R Spelling Checks.md>)
+    - [GitHub Action - Release](<GitHub Actions/GitHub Action - Release.md>)
+    - [GitHub Action - `roxygen`](<GitHub Actions/GitHub Action - roxygen.md>)
+    - [GitHub Actions for R](<GitHub Actions/GitHub Actions for R.md>)
+
+## JavaScript
+
+- [**Javascript Code**](Javascript) - Javascript Code Snippets.
+    - [Javascript - Remove all YouTube Watch Later Videos](<Javascript/Javascript - Remove all YouTube Watch Later Videos.md>)
+
+## PowerShell
+
+- [**PowerShell**](PowerShell) - PowerShell Code Snippets.
+    - [PowerShell - Cleanup Windows Script](<PowerShell/PowerShell - Cleanup Windows Script.md>)
+    - [PowerShell - Custom Installation Helpers](<PowerShell/PowerShell - Custom Installation Helpers.md>)
+    - [PowerShell - Edge Scripts](<PowerShell/PowerShell - Edge Scripts.md>)
+    - [PowerShell - Git AutoCommit](<PowerShell/PowerShell - Git AutoCommit.md>)
+    - [Install AWS CLI](<PowerShell/PowerShell - Install AWS CLI.md>)
+    - [Install Azure-CLI](<PowerShell/PowerShell - Install Azure-CLI.md>)
+    - [PowerShell - Install Backblaze Client](<PowerShell/PowerShell - Install Backblaze Client.md>)
+    - [PowerShell - Install Chocolatey](<PowerShell/PowerShell - Install Chocolatey.md>)
+    - [PowerShell - Map Drives Function](<PowerShell/PowerShell - Map Drives Function.md>)
+    - [PowerShell - Open Obsidian Vault](<PowerShell/PowerShell - Open Obsidian Vault.md>)
+    - [PowerShell - QuickAccess Utilities](<PowerShell/PowerShell - QuickAccess Utilities.md>)
+    - [Retrieve Local Public IPv4 IP Address](<PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md>)
+    - [PowerShell - Scoop Import](<PowerShell/PowerShell - Scoop Import.md>)
+    - [PowerShell - System PATH Helpers](<PowerShell/PowerShell - System PATH Helpers.md>)
+    - [PowerShell - Toast Notification Example](<PowerShell/PowerShell - Toast Notification Example.md>)
+    - [PowerShell - Useful Profile Utility Functions](<PowerShell/PowerShell - Useful Profile Utility Functions.md>)
+
+
+## Python
+
+- [**Python**](Python) - Python Code Snippets.
+    - [Python - Upgrade PIP](<Python/Python - Upgrade PIP.md>)
+
+## R
+
+- [**R**](R) - R Code Snippets.
+    - [R - docker_shiny_mssql](<R/R - docker_shiny_mssql.md>)
+    - [R - `mssql_rstudio`](<R/R - mssql_rstudio.md>)
+    - [R - Handle long polling process in Plumber or Shiny](<R/R - Handle long polling process in Plumber or Shiny.md>)
+    - [R - Package Management Scripts](<R/R - Package Management Scripts.md>)
+    - [R - Retrieve GitHub Starred Repo Data](<R/R - Retrieve GitHub Starred Repo Data.md>)
+    - [R - Run Shiny App in Background for Development](<R/R - Run Shiny App in Background for Development.md>)
+    - [Actuarial Claims Data - Simulation R Script](<R/R - Simulate Actuarial Claims Data - Simulation R Script.md>)
+    - [R - Upgrade R and Migrate Packages](<R/R - Upgrade R and Migrate Packages.md>)
+
+## Windows Registry (RegEdit)
+
+- [**Registry**](Registry)
+    - [Regedit - Enable Long Path Support on Windows](<Registry/Regedit - Enable Long Path Support on Windows.md>)
+    - [Regedit - Export Saved Registry Favorites](<Registry/Regedit - Export Saved Registry Favorites.md>)
+
+
+## Structured Query Language (SQL)
+
+- [**SQL Code Snippets**](SQL)
+
+### BigQuery
 
 #Status/WIP 
 
-#### PostgreSQL
+- [**BigQuery**](SQL/BigQuery)
 
-Code Snippets for [[PostgreSQL]]:
+### PostgreSQL
 
--   [[SQL - PostgreSQL - Strip Accents from Strings]]
--   [[SQL - PostgreSQL - Simulate `IIF` From SQL Server]]
--   [[SQL - PostgreSQL - Stored Procedure - Merge Tables]]
--   [[SQL - PostgreSQL - Information Schema Queries]]
--   [[SQL - PostgreSQL - Split a Single Column into Separate Rows]]
--   [[SQL - PostgreSQL - Reverse an Array]]
--   [[SQL - PostgreSQL - Replace NULLs]]
--   [[SQL - PostgreSQL - Replace Empty Strings with NULLs]]
--   [[SQL - PostgreSQL - RegEx to Validate an Email Address]]
--   [[SQL - PostgreSQL - RegEx to Parse URL String]]
--   [[SQL - PostgreSQL - Ranking Data]]
--   [[SQL - PostgreSQL - Pivot Query]]
--   [[SQL - PostgreSQL - Moving Average]]
--   [[SQL - PostgreSQL - Human-Readable Timestamps]]
--   [[SQL - PostgreSQL - Histogram Bins]]
--   [[SQL - PostgreSQL - Get the Last Element of an Array]]
--   [[SQL - PostgreSQL - Generate Timeseries of Dates and Times]]
--   [[SQL - PostgreSQL - Formatting Dates and Timestamps]]
--   [[SQL - PostgreSQL - Filter for the Last x Days]]
--   [[SQL - PostgreSQL - Extracting Values from JSON Strings]]
--   [[SQL - PostgreSQL - ETL Function Template]]
--   [[SQL - PostgreSQL - Dynamic Trigger]]
--   [[SQL - PostgreSQL - DataDictionary]]
--   [[SQL - PostgreSQL - Cumulative Distribution]]
--   [[SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`]]
--   [[SQL - PostgreSQL - Count NULLs]]
--   [[SQL - PostgreSQL - Clone Schema]]
--   [[SQL - PostgreSQL - Calculating the Median]]
--   [[SQL - PostgreSQL - Audit Trigger]]
--   [[SQL - PostgreSQL - Normalize Whitespace]]
--   [[SQL - PostgreSQL - MONTH() Equivalent]]
--   [[SQL - PostgreSQL - Multi-Replace (plpgsql)]]
--   [[SQL - PostgreSQL - Get Last Day of Month]]
--   [[SQL - PostgreSQL - Find Recent Activity]]
-
-#### SQL Server (`MSSQL`)
+- [**PostgreSQL**](SQL/PostgreSQL)
+    - [SQL - PostgreSQL - Audit Trigger](<SQL/PostgreSQL/SQL - PostgreSQL - Audit Trigger.md>)
+    - [SQL - PostgreSQL - Basic Instance Information](<SQL/PostgreSQL/SQL - PostgreSQL - Basic Instance Information.md>)
+    - [SQL - PostgreSQL - Calculating the Median](<SQL/PostgreSQL/SQL - PostgreSQL - Calculating the Median.md>)
+    - [SQL - Clone Schema](<SQL/PostgreSQL/SQL - PostgreSQL - Clone Schema.md>)
+    - [SQL - PostgreSQL - Count NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Count NULLs.md>)
+    - [SQL - PostgreSQL - Create modified_at columns and triggers](<SQL/PostgreSQL/SQL - PostgreSQL - Create modified_at columns and triggers.md>)
+    - [SQL - PostgreSQL - Creating Equal-Sized Buckets using `ntile`](<SQL/PostgreSQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using \`ntile\`.md>)
+    - [SQL - PostgreSQL - Cumulative Distribution](<SQL/PostgreSQL/SQL - PostgreSQL - Cumulative Distribution.md>)
+    - [SQL - Data Dictionary](<SQL/PostgreSQL/SQL - PostgreSQL - DataDictionary.md>)
+    - [SQL - PostgreSQL - Date Dimension Table](<SQL/PostgreSQL/SQL - PostgreSQL - Date Dimension Table.md>)
+    - [SQL - PostgreSQL - Dump Entire Database to CSV](<SQL/PostgreSQL/SQL - PostgreSQL - Dump Entire Database to CSV.md>)
+    - [SQL - PostgreSQL Dynamic Trigger](<SQL/PostgreSQL/SQL - PostgreSQL - Dynamic Trigger.md>)
+    - [SQL - PostgreSQL - ETL Function Template](<SQL/PostgreSQL/SQL - PostgreSQL - ETL Function Template.md>)
+    - [SQL - PostgreSQL - Extensions](<SQL/PostgreSQL/SQL - PostgreSQL - Extensions.md>)
+    - [SQL - PostgreSQL - Extracting Values from JSON Strings](<SQL/PostgreSQL/SQL - PostgreSQL - Extracting Values from JSON Strings.md>)
+    - [SQL - PostgreSQL - Filter for the Last x Days](<SQL/PostgreSQL/SQL - PostgreSQL - Filter for the Last x Days.md>)
+    - [SQL - PostgreSQL - Find Recent Activity](<SQL/PostgreSQL/SQL - PostgreSQL - Find Recent Activity.md>)
+    - [SQL - PostgreSQL - Formatting Dates and Timestamps](<SQL/PostgreSQL/SQL - PostgreSQL - Formatting Dates and Timestamps.md>)
+    - [SQL - PostgreSQL - Generate Timeseries of Dates and Times](<SQL/PostgreSQL/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md>)
+    - [SQL - PostgreSQL - Get all Primary Keys and Columns](<SQL/PostgreSQL/SQL - PostgreSQL - Get all Primary Keys and Columns.md>)
+    - [SQL - PostgreSQL - Get Current DB Sessions](<SQL/PostgreSQL/SQL - PostgreSQL - Get Current DB Sessions.md>)
+    - [SQL - PostgreSQL - Get Last Day of Month](<SQL/PostgreSQL/SQL - PostgreSQL - Get Last Day of Month.md>)
+    - [SQL - PostgreSQL - Get the Last Element of an Array](<SQL/PostgreSQL/SQL - PostgreSQL - Get the Last Element of an Array.md>)
+    - [SQL - PostgreSQL - Histogram Bins](<SQL/PostgreSQL/SQL - PostgreSQL - Histogram Bins.md>)
+    - [SQL - PostgreSQL - Human-Readable Timestamps](<SQL/PostgreSQL/SQL - PostgreSQL - Human-Readable Timestamps.md>)
+    - [SQL - PostgreSQL - Information Schema Queries](<SQL/PostgreSQL/SQL - PostgreSQL - Information Schema Queries.md>)
+    - [SQL - PostgreSQL - Kill Running or Idle Connections](<SQL/PostgreSQL/SQL - PostgreSQL - Kill Running or Idle Connections.md>)
+    - [SQL - PostgreSQL - `MONTH()` Equivalent](<SQL/PostgreSQL/SQL - PostgreSQL - MONTH() Equivalent.md>)
+    - [SQL - PostgreSQL - Moving Average](<SQL/PostgreSQL/SQL - PostgreSQL - Moving Average.md>)
+    - [SQL - PostgreSQL - Multi-Replace (plpgsql)](<SQL/PostgreSQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md>)
+    - [SQL - PostgreSQL -Normalize Whitespace](<SQL/PostgreSQL/SQL - PostgreSQL - Normalize Whitespace.md>)
+    - [SQL - PostgreSQL - Pivot Query](<SQL/PostgreSQL/SQL - PostgreSQL - Pivot Query.md>)
+    - [SQL - PostgreSQL - Ranking Data](<SQL/PostgreSQL/SQL - PostgreSQL - Ranking Data.md>)
+    - [SQL - PostgreSQL - RegEx to Parse URL String](<SQL/PostgreSQL/SQL - PostgreSQL - RegEx to Parse URL String.md>)
+    - [SQL - PostgreSQL - RegEx to Validate an Email Address](<SQL/PostgreSQL/SQL - PostgreSQL - RegEx to Validate an Email Address.md>)
+    - [SQL - PostgreSQL - Replace Empty Strings with NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Replace Empty Strings with NULLs.md>)
+    - [SQL - PostgreSQL - Replace NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Replace NULLs.md>)
+    - [SQL - PostgreSQL - Reverse an Array](<SQL/PostgreSQL/SQL - PostgreSQL - Reverse an Array.md>)
+    - [SQL - PostgreSQL - Set Default UTF8 Encoding](<SQL/PostgreSQL/SQL - PostgreSQL - Set Default UTF8 Encoding.md>)
+    - [SQL - PostgreSQL - Simulate `IIF` From SQL Server](<SQL/PostgreSQL/SQL - PostgreSQL - Simulate \`IIF\` From SQL Server.md>)
+    - [SQL - PostgreSQL - Split a Single Column into Separate Rows](<SQL/PostgreSQL/SQL - PostgreSQL - Split a Single Column into Separate Rows.md>)
+    - [SQL - PostgreSQL - Stored Procedure - Merge Tables](<SQL/PostgreSQL/SQL - PostgreSQL - Stored Procedure - Merge Tables.md>)
+    - [SQL - PostgreSQL - Strip Accents from Strings](<SQL/PostgreSQL/SQL - PostgreSQL - Strip Accents from Strings.md>)
+    - [SQL - PostgreSQL - UPSERT](<SQL/PostgreSQL/SQL - PostgreSQL - UPSERT.md>)
+    - [SQL - PostgreSQL String Manipulation](<SQL/PostgreSQL/SQL - PostgreSQL String Manipulation.md>)
+    
+### Microsoft SQL Server (`MSSQL`)
 
 Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
--   [[SQL - SQL Server - Useful Queries]]
--   [[SQL - SQL Server - Installation Script for DBA MultiTool]]
--   [[SQL - SQL Server - Retrieve Who is Doing What]]
--   [[SQL - SQL Server - Retrieve Top Slow Requests]]
--   [[SQL - SQL Server - Re-build all Indexes]]
--   [[SQL - SQL Server - Get Number of Open Connections]]
--   [[SQL - SQL Server - Find Unused Indexes]]
--   [[SQL - SQL Server - Create Date Dimension with Fiscal Years]]
--   [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime|SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
--   [[SQL - SQL Server - Check Size of DB Objects]]
--   [[SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
--   [[SQL - SQL Server - POST HTTP API Request]]
--   [[SQL - SQL Server - Monitor Query Plans]]
+- [**SQL Server**](<SQL/SQL Server>)
+    - [SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime](<SQL/SQL Server/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md>)
+    - [SQL - SQL Server - Check if a Column is Accessible](<SQL/SQL Server/SQL - SQL Server - Check if a Column is Accessible.md>)
+    - [SQL - Check Size of DB Objects](<SQL/SQL Server/SQL - SQL Server - Check Size of DB Objects.md>)
+    - [SQL - SQL Server - Concatenate Strings](<SQL/SQL Server/SQL - SQL Server - Concatenate Strings.md>)
+    - [SQL - Create Date Dimension with Fiscal Years](<SQL/SQL Server/SQL - SQL Server - Create Date Dimension with Fiscal Years.md>)
+    - [SQL - SQL Server - Cumulative Distribution Functions](<SQL/SQL Server/SQL - SQL Server - Cumulative Distribution Functions.md>)
+    - [SQL - SQL Server - Find the First Row of Each Group](<SQL/SQL Server/SQL - SQL Server - Find the First Row of Each Group.md>)
+    - [SQL - SQL Server - Find Unused Indexes](<SQL/SQL Server/SQL - SQL Server - Find Unused Indexes.md>)
+    - [SQL - Get Number of Open Connections](<SQL/SQL Server/SQL - SQL Server - Get Number of Open Connections.md>)
+    - [SQL Script - Installation for DBA MultiTool](<SQL/SQL Server/SQL - SQL Server - Installation Script for DBA MultiTool.md>)
+    - [SQL - SQL Server - Monitor Query Plans](<SQL/SQL Server/SQL - SQL Server - Monitor Query Plans.md>)
+    - [SQL - SQL Server - POST HTTP API Request](<SQL/SQL Server/SQL - SQL Server - POST HTTP API Request.md>)
+    - [SQL - Re-build all Indexes](<SQL/SQL Server/SQL - SQL Server - Re-build all Indexes.md>)
+    - [SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages](<SQL/SQL Server/SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md>)
+    - [SQL - Retrieve Top Slow Requests](<SQL/SQL Server/SQL - SQL Server - Retrieve Top Slow Requests.md>)
+    - [SQL - Retrieve Who is Doing What](<SQL/SQL Server/SQL - SQL Server - Retrieve Who is Doing What.md>)
+    - [SQL - SQL Server - Search for Text Within Stored Procedures](<SQL/SQL Server/SQL - SQL Server - Search for Text Within Stored Procedures.md>)
+    - [SQL Server Useful Queries](<SQL/SQL Server/SQL - SQL Server - Useful Queries.md>)
 
-### R
+### Visual Basic for Applications (VBA)
 
-- [[R - mssql_rstudio]]
-- [[R - docker_shiny_mssql]]
-- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
+- [**VBA**](VBA)
+    - [VBA - SQL Stored Procedure Caller Module](<VBA/VBA - SQL Stored Procedure Caller Module.md>)
 
-### PowerShell
+## MindMap
 
-- [[PowerShell - Edge Scripts]]
-- [[PowerShell - Useful Profile Utility Functions]]
-- [[PowerShell - Retrieve Local Public IPv4 IP Address]]
-- [[PowerShell - Install Azure-CLI]]
-- [[PowerShell - Install AWS CLI]]
+![](https://i.imgur.com/wJCIHVX.png)
 
-### JavaScript
-
-- [[Javascript - Remove all YouTube Watch Later Videos]]
-
-### GitHub Actions
-
-- [[GitHub Action - git-cliff]] - automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
-
-## Mind Map
-
-![](https://i.imgur.com/zwMq06G.png)
-
-## Languages
-
-- [[R]]
-- [[SQL]] and [[T-SQL]]
-- [[PowerShell]]
-- [[Bash]]
-- [[Python]]
-- [[Javascript|JavaScript]]
-- [[HTML]]
-- [[CSS]]
-- [[Microsoft DOS]]
-- [[Markdown]]
-- [[Docker]]
-- [[Excel VBA]]
-- [[Git]]
-- [[YAML]]
-- and more
-
-## See Also
-
-- My [[thiscodeWorks]] Dashboard: [jimbrig - Dashboard | thiscodeWorks](https://www.thiscodeworks.com/user/dashboard#)
-- My [[GitHub]] Gists: [jimbrig’s gists (github.com)](https://gist.github.com/jimbrig)
-- My stashed [[3-Resources/Tools/Python/Python Packages 1/Python Package - keep|keep]] commands: [Backup for keep - https://github.com/OrkoHunter/keep](https://gist.github.com/jimbrig/da88cb0d6ad1ff9037ce4e209728adfa)
-
-
-*Contents*
-
-```dataview
-list from "3-Resources/Code" AND !#Type/Readme
-```
 
 ***
 
-*Backlinks*
+## Appendix: Links
 
-```dataview
-list from [[_README]] AND -"Changelog"
-```
+**See Also:**
+
+- My [[thiscodeWorks]] Dashboard: [jimbrig - Dashboard | thiscodeWorks](https://www.thiscodeworks.com/user/dashboard#)
+- My [[GitHub]] Gists: [jimbrig’s gists (github.com)](https://gist.github.com/jimbrig)
+- My stashed [[Python Package - keep|keep]] commands: [Backup for keep - https://github.com/OrkoHunter/keep](https://gist.github.com/jimbrig/da88cb0d6ad1ff9037ce4e209728adfa)
+
+**Backlinks:**
+
+- [[Tools]]
+- [[Programming Languages]]
+- [[Development]]
+- [[Web Development]]
+- [[Data Engineering]]
+- [[Databases]]

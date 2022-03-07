@@ -590,3 +590,5 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
 - [[2022-03-02]] 6:33 PM — Synced 3 highlights from 1 document.
     - 3 highlights from How to Be a 10x Software Engineer
 
+- [[2022-03-07]] 5:56 PM — Synced 0 highlights from 0 documents.
+

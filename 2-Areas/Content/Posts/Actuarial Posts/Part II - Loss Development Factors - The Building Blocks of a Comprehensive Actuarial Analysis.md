@@ -2,7 +2,7 @@
 Date: 2022-03-08
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
-Alias: "Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis"]
+Alias: ["Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis"]
 ---
 
 # Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis 

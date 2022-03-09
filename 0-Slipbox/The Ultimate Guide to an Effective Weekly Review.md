@@ -4,7 +4,6 @@ Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox"]
 Alias: "The Ultimate Guide to an Effective Weekly Review"
 ---
-
 # The Ultimate Guide to an Effective 
 
 *Source: [[The Ultimate Guide to an Effective Weekly Review.pdf]]*

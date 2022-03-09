@@ -13,18 +13,18 @@ Alias: "Data Engineering"
 
 ### Concepts
 
-**[[Data Engineers]]**
+- **[[Data Engineers]]**
+- **[[Data Cataloging]]**
+- **[[Databases]]**
+- **[[Data Warehouse]]**
+- **[[Dimensional Modeling]]**
+- **[[Data Lake]]**
+- **[[Data Mart]]**
+- **[[Business Intelligence]]**
+- **[[Data Science]]**
+- **[[Modeling]]**
 
-**[[Databases]]**
-
-- [[Stored Procedures - SQL Server]]
-- **[[SQL Stored Procedures Best Practices]]**
-
-**[[Data Lake]]**
-
-**[[Data Cataloging]]**
-
-**[[Data Warehouse]]**
+### Data Modeling
 
 -   [[Features of a Data Warehouse]]
 -   [[Fact Table Structure]]
@@ -32,9 +32,33 @@ Alias: "Data Engineering"
 -   [[Data Warehousing Roadmap]]
 -   [[Data Warehousing for Insurance Data]]
 
-**[[ETL Data Warehousing Best Practices]]**
+#### Databases
 
-**[[Data Mart]]**
+- [[SQL Server]]
+- [[PostgreSQL]]
+- [[MySQL]]
+- [[SQLite]]
+- [[MongoDB]]
+- [[AWS DynamoDB]]
+
+- [[AWS Redshift]]
+- [[Google Cloud BigQuery]]
+- [[Azure SQL Database]]
+
+- [[SQL]]
+- [[T-SQL]]
+- [[PLPGSQL]]
+- [[Python]]
+
+### Data Lineage and Processing (ETL)
+
+- **[[SQL Stored Procedures Best Practices]]**
+- [[Stored Procedures - SQL Server]]
+- **[[ETL Data Warehousing Best Practices]]**\
+- [[ELT]]
+- [[ETL]]
+- [[SQL - PostgreSQL - ETL Function Template|SQL - PostgreSQL ETL Function Template]]
+
 
 ### People
 
@@ -43,11 +67,42 @@ Alias: "Data Engineering"
 
 ### Tools
 
-- [[SQL Server]]
 - [[SQL Server Management Studio]]
 - [[Azure Data Studio]]
+- [[dbt - Data Build Tool]]
+- [[R Package - dbx]]
+
+### Lists
+
+- [[SQL Server List of Tools and Scripts]]
+- [[R Database Packages]]
+- [[R - Data Validation Packages]]
+- [[Learn to Code Platforms Master List]]
+- [[Data Engineering and Its Main Concepts]]
+- [[Data Engineering Master List of Resources]]
+- [[Querying Data from PostgreSQL Database]]
+- [[SQL Stored Procedures - Cursors]]
+- [[SQL - Window Functions]]
+- [[Modern Data Pipeline Complexities]]
+- [[Data Warehousing Concepts - Slowly Changing Dimensions]]
+- [[Data Pipelines]]
+- [[Data Pipeline Architecture]]
+- [[PostgreSQL Tools]]
+- [[PostgreSQL Triggers]]
+
 
 ***
+
+## Appendix: Links
+
+**Backlinks:**
+
+- [[Development]]
+- [[Databases]]
+- [[Data Science]]
+- [[Software Development]]
+- [[Web Development]]
+- [[Actuarial Science]]
 
 Topic/Dev/DataScience
 

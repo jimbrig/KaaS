@@ -2,7 +2,7 @@
 Date: 2022-02-05
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["AWS - S3", "Amazon S3", "AWS Simple Storage"]
+Alias: ["AWS - S3", "Amazon S3", "AWS Simple Storage", "Amazon Simple Storage Service"]
 ---
 
 # AWS - S3

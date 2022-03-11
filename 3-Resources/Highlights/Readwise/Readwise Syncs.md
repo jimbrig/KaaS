@@ -592,3 +592,19 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
 
 - [[2022-03-07]] 5:56 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-03-10]] 9:23 PM — Synced 107 highlights from 12 documents.
+    - 10 highlights from Data Platform — What Does It Take to Build One?
+    - 6 highlights from 5 Essential Terraform Tools to Use Everyday
+    - 2 highlights from Data Ingestion — Demystified
+    - 3 highlights from Useful Database/Sql Tricks for Data Engineering
+    - 4 highlights from Data Build Tool (DBT): SQL on Steroids
+    - 1 highlights from Data Quality and Reliability
+    - 4 highlights from Data Ecosystem
+    - 11 highlights from The Best  Git Workflow for Your Software Engineering Team
+    - 3 highlights from Learn From Silicon Valley’s Data Engineers: Dimensional Data Modeling Is Dead
+    - 10 highlights from Do You Use:
+• Roam
+• Log...
+    - 9 highlights from Dashboard++ — a Simple Organization and Navigation Method for Obsidian Vaults
+    - 44 highlights from Liked Tweets
+

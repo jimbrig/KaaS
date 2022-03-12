@@ -9,6 +9,14 @@ Alias: ["Enable Long Path Support on Windows"]
 
 *Source: *
 
+## Registry Edit
+
+```regedit
+
+```
+
+## PowerShell
+
 ```powershell
 Set-ItemProperty 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
 ```

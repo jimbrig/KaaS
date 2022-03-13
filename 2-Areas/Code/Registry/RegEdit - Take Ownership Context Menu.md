@@ -11,7 +11,9 @@ Alias: ["RegEdit - Take Ownership Context Menu"]
 
 Add a simple context menu entry to Take Ownership of a selected file or directory from within Windows File Explorer:
 
-![](https://i.imgur.com/e3LnYMO.png)
+![](https://i.imgur.com/SGf6VlL.png)
+
+For other Context Menu Registry Edits see [[RegEdit - Customizing Windows Explorer Context Menu]].
 
 
 ## Registration File

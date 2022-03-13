@@ -12,7 +12,10 @@ Alias: ["Enable Long Path Support on Windows"]
 ## Registry Edit
 
 ```regedit
+Windows Registry Editor Version 5.00
 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:00000001
 ```
 
 ## PowerShell

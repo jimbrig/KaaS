@@ -10,6 +10,41 @@ Alias: ["VBA - Optimize Speed"]
 *Source: *
 
 ```VBA
+Public Sub OptimizeCodeSpeed()
+
+  On Error Resume Next
+
+    Application.EnableEvents = False
+    Application.DisplayAlerts = False
+    Application.ScreenUpdating = False
+    Application.EnableAnimations = False
+    ActiveSheet.DisplayPageBreaks = False
+    Application.DisplayStatusBar = False
+    Application.Calculation = xlCalculationManual
+         
+  On Error GoTo 0
+                   
+End Sub
+```
+
+```VBA
+Public Sub OptimizeCodeSpeedRestore()
+
+  On Error Resume Next
+
+    Application.EnableEvents = True
+    Application.DisplayAlerts = True
+    Application.ScreenUpdating = True
+    ActiveSheet.DisplayPageBreaks = False
+    Application.DisplayStatusBar = True
+    Application.Calculation = xlCalculationAutomatic
+
+  On Error GoTo 0
+
+End Sub
+```
+
+```VBA
 'Adjusts Excel settings for faster VBA processing
 Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.ScreenUpdating = Not Toggle

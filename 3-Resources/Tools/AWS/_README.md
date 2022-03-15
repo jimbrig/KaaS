@@ -7,27 +7,41 @@ Alias: ["AWS", "Amazon Web Services", "Amazon Web Services (AWS)"]
 
 # Amazon Web Services - AWS
 
--   [AWS Schema Conversion Tool](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Schema%20Conversion%20Tool.md)
--   [AWS Sagemaker](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Sagemaker.md)
--   [AWS S3](app://obsidian.md/3-Resources/Tools/AWS/AWS%20S3.md)
--   [AWS Redshift](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Redshift.md)
--   [AWS RDS](app://obsidian.md/3-Resources/Tools/AWS/AWS%20RDS.md)
--   [AWS QuickSight](app://obsidian.md/3-Resources/Tools/AWS/AWS%20QuickSight.md)
--   [AWS Glue](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Glue.md)
--   [AWS Aurora](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Aurora.md)
--   [AWS Athena](app://obsidian.md/3-Resources/Tools/AWS/AWS%20Athena.md)
--   [AWS CLI](app://obsidian.md/3-Resources/Tools/AWS/AWS%20CLI.md)
+*See Also: [[AWS Components Master List]]*
 
-*Contents*
-
-```dataview
-list from "3-Resources/Tools/AWS" AND !#Type/Readme
-```
+-   [[AWS Schema Conversion Tool]]
+-   [[AWS Sagemaker]]
+-   [[AWS S3]]
+-   [[AWS Redshift]]
+-   [[AWS RDS]]
+-   [[AWS Lake Formation]]
+-   [[AWS QuickSight]]
+-   [[AWS Glue]]
+-   [[AWS Aurora]]
+-   [[AWS CLI]]
+-   [[AWS Athena]]
+-   [[Amazon Redshift]]
+-   [[Amazon OpenSearch Service]]
+-   [[Amazon Kinesis]]
+-   [[Amazon EC2]]
+-   [[Amazon Kinesis Data Firehose]]
+-   [[Amazon EMR]]
+-   [[Amazon Athena]]
 
 ***
 
 *Backlinks*
 
-```dataview
-list from [[_README]] AND -"Changelog"
-```
+-   [[Modern Data Architecture on AWS]]
+-   [[Build a Lakehouse Architecture on AWS]]
+
+*Dataview*
+
+    ```dataview
+    list from [[_README]] AND -"Changelog"
+    ```
+
+    ```dataview
+    list from "3-Resources/Tools/AWS" AND !#Type/Readme
+    ```
+

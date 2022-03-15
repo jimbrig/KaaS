@@ -608,3 +608,12 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
     - 9 highlights from Dashboard++ — a Simple Organization and Navigation Method for Obsidian Vaults
     - 44 highlights from Liked Tweets
 
+<<<<<<< Updated upstream
+=======
+- [[2022-03-11]] 8:34 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Supercharge Your Git Experience
+
+- [[2022-03-11]] 11:43 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from 10 Quick SQL Tips After Writing Daily in SQL for 3 Years
+
+>>>>>>> Stashed changes

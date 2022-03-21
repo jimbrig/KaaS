@@ -18,23 +18,56 @@ tree_title: "Code Snippets"
 
 ## Contents
 
+- [[#Contents|Contents]]
 - [[#Bash|Bash]]
-- [[#Batch Scripts|Batch Scripts]]
-- [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
 - [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
 - [[#GitHub Actions|GitHub Actions]]
 - [[#JavaScript|JavaScript]]
-- [[#PowerShell|PowerShell]]
+- [[#PowerShell (Core)|PowerShell (Core)]]
 - [[#Python|Python]]
 - [[#R|R]]
-- [[#Windows Registry (RegEdit)|Windows Registry (RegEdit)]]
 - [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
 	- [[#BigQuery|BigQuery]]
 	- [[#PostgreSQL|PostgreSQL]]
 	- [[#Microsoft SQL Server (MSSQL)|Microsoft SQL Server (MSSQL)]]
-	- [[#Visual Basic for Applications (VBA)|Visual Basic for Applications (VBA)]]
+- [[#Windows|Windows]]
+	- [[#Batch Scripts|Batch Scripts]]
+	- [[#Miscellaneous|Miscellaneous]]
+	- [[#Registry (RegEdit)|Registry (RegEdit)]]
+	- [[#Run Commands|Run Commands]]
+	- [[#Visual Basic|Visual Basic]]
+		- [[#Visual Basic for Applications (VBA) - Excel VBA|Visual Basic for Applications (VBA) - Excel VBA]]
+	- [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
+	- [[#Windows PowerShell|Windows PowerShell]]
 - [[#MindMap|MindMap]]
 - [[#Appendix: Links|Appendix: Links]]
+
+## Contents
+
+- [[#Bash|Bash]]
+- [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
+- [[#GitHub Actions|GitHub Actions]]
+- [[#JavaScript|JavaScript]]
+- [[#Pandoc|Pandoc]]
+- [[#PowerShell (Core)|PowerShell (Core)]]
+- [[#Python|Python]]
+- [[#R|R]]
+- [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
+    - [[#BigQuery|BigQuery]]
+	- [[#PostgreSQL|PostgreSQL]]
+	- [[#Microsoft SQL Server (MSSQL)|Microsoft SQL Server (MSSQL)]]
+- [[#Windows|Windows]]
+    - [[#Batch Scripts|Batch Scripts]]
+    - [[#Miscellaneous|Miscellaneous]]
+    - [[#Registry (RegEdit)|Windows Registry (RegEdit)]]
+    - [[#Run Commands|Run Commands]]
+    - [[#Visual Basic]]
+        - [[#Visual Basic for Applications (VBA)|Visual Basic for Applications (VBA)]]
+    - [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
+    - [[#Windows PowerShell|Windows PowerShell]]
+- [[#MindMap|MindMap]]
+- [[#Appendix: Links|Appendix: Links]]
+
 
 ## Bash
 
@@ -42,39 +75,16 @@ tree_title: "Code Snippets"
     - [Bash - Git-Auto](<Bash/Bash - Git-Auto.md>)
     - [Bash - Install NVM](<Bash/Bash - Install NVM.md>)
     - [Bash - Install oh-my-zsh](<Bash/Bash - Install oh-my-zsh.md>)
-
-## Batch Scripts
-
-- [**Batch**](Batch)
-    - [Batch - MediaCreationTool](Batch%20-%20MediaCreationTool.md - MediaCreationTool.md>)
-
-## Windows Command Line (CMD/MS-DOS)
-
-- [**CMD**](CMD) - Command Line Code Snippets.
-    - [CMD - Create a Network Performance Windows Report](CMD%20-%20Create%20a%20Network%20Performance%20Windows%20Report.md - Create a Network Performance Windows Report.md>)
-    - [CMD - Delete Network Data](CMD%20-%20Delete%20Network%20Data.md - Delete Network Data.md>)
-    - [CMD - Delete Windows Update Leftover Files](CMD%20-%20Delete%20Windows%20Update%20Leftover%20Files.md - Delete Windows Update Leftover Files.md>)
-    - [CMD - DISM Commands](CMD%20-%20DISM%20Commands.md - DISM Commands.md>)
-    - [CMD - FlushDNS](CMD%20-%20FlushDNS.md - FlushDNS.md>)
-    - [CMD - Retrieve Stored Wi-Fi Passwords](CMD%20-%20Retrieve%20Stored%20Wi-Fi%20Passwords.md - Retrieve Stored Wi-Fi Passwords.md>)
-    - [CMD - Retrieve Windows Credential Manager Saved Secrets](CMD%20-%20Retrieve%20Windows%20Credential%20Manager%20Saved%20Secrets.md - Retrieve Windows Credential Manager Saved Secrets.md>)
-    - [CMD - Run the Hardware Diagnostic Troubleshooter](CMD%20-%20Run%20the%20Hardware%20Diagnostic%20Troubleshooter.md - Run the Hardware Diagnostic Troubleshooter.md>)
-    - [CMD - Run the WinSAT Diagnostics Score](CMD%20-%20Run%20the%20WinSAT%20Diagnostics%20Score.md - Run the WinSAT Diagnostics Score.md>)
-    - [CMD - Start a Windows Defender Virus Scan](CMD%20-%20Start%20a%20Windows%20Defender%20Virus%20Scan.md - Start a Windows Defender Virus Scan.md>)
-    - [CMD - View Available Disks on Windows](CMD%20-%20View%20Available%20Disks%20on%20Windows.md - View Available Disks on Windows.md>)
-    - [CMD - Extended Disk Cleanup](CMD%20-%20Extended%20Disk%20Cleanup.md - Extended Disk Cleanup.md>)
-    - [CMD - Memory Diagnostic](CMD%20-%20Memory%20Diagnostic.md - Memory Diagnostic.md>)
-    - [CMD - Windows Troubleshooter Commands](CMD%20-%20Troubleshooter%20Commands.md - Troubleshooter Commands.md>)
-
+   
 ## Cascading Style Sheets (CSS)
 
-- [**CSS**](CSS) - CSS Code Snippets.
+- [[2-Areas/Code/CSS/_README|CSS]] - CSS Code Snippets.
     - [CSS - Default Obsidian Theme Styling](<CSS/CSS - Default Obsidian Theme Styling.md>)
     - [CSS - GitHub Obsidian Theme](<CSS/CSS - GitHub Obsidian Theme.md>)
 
 ## GitHub Actions
 
-- [**GitHub Actions**](<GitHub Actions>) - GitHub Action Code Snippets.
+- [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]] - GitHub Action Code Snippets.
     - [GitHub Action - Build-Check-Install R Package](<GitHub Actions/GitHub Action - Build-Check-Install R Package.md>)
     - [Code Coverage for R GitHub Action](<GitHub Actions/GitHub Action - Code Coverage for R.md>)
     - [GitHub Action - git-cliff](<GitHub Actions/GitHub Action - git-cliff.md>): automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
@@ -87,24 +97,24 @@ tree_title: "Code Snippets"
 
 ## JavaScript
 
-- [**Javascript Code**](Javascript.md) - Javascript Code Snippets.
+- [[2-Areas/Code/Javascript/_README|Javascript Code]] - Javascript Code Snippets.
     - [Javascript - Remove all YouTube Watch Later Videos](<Javascript/Javascript - Remove all YouTube Watch Later Videos.md>)
 
-## PowerShell
+## PowerShell (Core)
 
 - [**PowerShell**](2-Areas/MOCs/PowerShell.md) - PowerShell Code Snippets.
     - [PowerShell - Cleanup Windows Script](<PowerShell/PowerShell - Cleanup Windows Script.md>)
     - [PowerShell - Custom Installation Helpers](<PowerShell/PowerShell - Custom Installation Helpers.md>)
     - [PowerShell - Edge Scripts](<PowerShell/PowerShell - Edge Scripts.md>)
     - [PowerShell - Git AutoCommit](<PowerShell/PowerShell - Git AutoCommit.md>)
-    - [Install AWS CLI](<PowerShell/PowerShell - Install AWS CLI.md>)
-    - [Install Azure-CLI](<PowerShell/PowerShell - Install Azure-CLI.md>)
+    - [PowerShell - Install AWS CLI](<PowerShell/PowerShell - Install AWS CLI.md>)
+    - [PowerShell - Install Azure-CLI](<PowerShell/PowerShell - Install Azure-CLI.md>)
     - [PowerShell - Install Backblaze Client](<PowerShell/PowerShell - Install Backblaze Client.md>)
     - [PowerShell - Install Chocolatey](<PowerShell/PowerShell - Install Chocolatey.md>)
     - [PowerShell - Map Drives Function](<PowerShell/PowerShell - Map Drives Function.md>)
     - [PowerShell - Open Obsidian Vault](<PowerShell/PowerShell - Open Obsidian Vault.md>)
     - [PowerShell - QuickAccess Utilities](<PowerShell/PowerShell - QuickAccess Utilities.md>)
-    - [Retrieve Local Public IPv4 IP Address](<PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md>)
+    - [PowerShell - Retrieve Local Public IPv4 IP Address](<PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md>)
     - [PowerShell - Scoop Import](<PowerShell/PowerShell - Scoop Import.md>)
     - [PowerShell - System PATH Helpers](<PowerShell/PowerShell - System PATH Helpers.md>)
     - [PowerShell - Toast Notification Example](<PowerShell/PowerShell - Toast Notification Example.md>)
@@ -122,18 +132,13 @@ tree_title: "Code Snippets"
     - [R - docker_shiny_mssql](<R/R - docker_shiny_mssql.md>)
     - [R - mssql_rstudio](<R/R - mssql_rstudio.md>)
     - [R - Handle long polling process in Plumber or Shiny](<R/R - Handle long polling process in Plumber or Shiny.md>)
+    - [[R - Handle long polling process in Plumber or Shiny]]
+    - [[R - Excel Helpers]]
     - [R - Package Management Scripts](<R/R - Package Management Scripts.md>)
     - [R - Retrieve GitHub Starred Repo Data](<R/R - Retrieve GitHub Starred Repo Data.md>)
     - [R - Run Shiny App in Background for Development](<R/R - Run Shiny App in Background for Development.md>)
-    - [Actuarial Claims Data - Simulation R Script](<R/R - Simulate Actuarial Claims Data - Simulation R Script.md>)
+    - [R - Simulate Actuarial Claims Data - Simulation R Script](<R/R - Simulate Actuarial Claims Data - Simulation R Script.md>)
     - [R - Upgrade R and Migrate Packages](<R/R - Upgrade R and Migrate Packages.md>)
-
-## Windows Registry (RegEdit)
-
-- [**Registry**](Registry)
-    - [Regedit - Enable Long Path Support on Windows](Regedit%20-%20Enable%20Long%20Path%20Support%20on%20Windows.md - Enable Long Path Support on Windows.md>)
-    - [Regedit - Export Saved Registry Favorites](Regedit%20-%20Export%20Saved%20Registry%20Favorites.md - Export Saved Registry Favorites.md>)
-
 
 ## Structured Query Language (SQL)
 
@@ -218,10 +223,72 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
     - [SQL - SQL Server - Search for Text Within Stored Procedures](<SQL/SQL Server/SQL - SQL Server - Search for Text Within Stored Procedures.md>)
     - [SQL Server Useful Queries](<SQL/SQL Server/SQL - SQL Server - Useful Queries.md>)
 
-### Visual Basic for Applications (VBA)
+## Windows
 
-- [**VBA**](VBA)
-    - [VBA - SQL Stored Procedure Caller Module](VBA%20-%20SQL%20Stored%20Procedure%20Caller%20Module.md - SQL Stored Procedure Caller Module.md>)
+### Batch Scripts
+
+- [[2-Areas/Code/Windows/Batch/_README|Batch]]
+    - [[Batch - MediaCreationTool]]
+
+### Miscellaneous
+
+- [[Add Tabs to Windows 11 Explorer]]
+
+### Registry (RegEdit)
+
+- [[Regedit - Enable Long Path Support on Windows]]
+- [[Regedit - Export Saved Registry Favorites]]
+- [[RegEdit - Restart Explorer and StartMenu Context Bar]]
+- [[RegEdit - Take Ownership Context Menu]]
+
+### Run Commands
+
+- [[Run - Cleanup]]
+- [[Run - GodMode All Tasks]]
+- [[Run - Obsidian Vault Launcher]]
+- [[Run - Resource Monitor]]
+- [[Run - Startup]]
+
+### Visual Basic
+
+#### Visual Basic for Applications (VBA) - Excel VBA
+
+- [[VBA - Alert]]
+- [[VBA - Balloon Notification]]
+- [[VBA - Check for Broken Links in Workbook]]
+- [[VBA - Copy Module from one Workbook to Another]]
+- [[VBA - Create and Run a SQL Query]]
+- [[VBA - Module Template]]
+- [[VBA - Optimize Speed]]
+- [[VBA - Refresh All]]
+- [[VBA - SQL Stored Procedure Caller Module]]
+- [[VBA - Unhide All Worksheets]]
+- [[VBA - Unhide all Rows and Columns]]
+- [[VBA - Useful Utilities]]
+
+### Windows Command Line (CMD/MS-DOS)
+
+- [[2-Areas/Code/Windows/Windows CMD/_README|Windows Command Line]] - Windows Command Line Code Snippets.
+    - [[CMD - Create a Network Performance Windows Report]]
+    - [[CMD - Delete Network Data]]
+    - [[CMD - Delete Windows Update Leftover Files]]
+    - [[CMD - DISM Commands]]
+    - [[CMD - FlushDNS]]
+    - [[CMD - Retrieve Stored Wi-Fi Passwords]]
+    - [[CMD - Retrieve Windows Credential Manager Saved Secrets]]
+    - [[CMD - Run the Hardware Diagnostic Troubleshooter]]
+    - [[CMD - Run the WinSAT Diagnostics Score]]
+    - [[CMD - Start a Windows Defender Virus Scan]]
+    - [[CMD - View Available Disks on Windows]]
+    - [[CMD - Extended Disk Cleanup]]
+    - [[CMD - Memory Diagnostic]]
+    - [[CMD - Troubleshooter Commands]]
+    - [[CMD - View Available Disks on Windows]]
+
+### Windows PowerShell
+
+Nothing Yet.
+
 
 ## MindMap
 

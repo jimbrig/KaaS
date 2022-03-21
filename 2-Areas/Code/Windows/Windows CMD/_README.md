@@ -2,7 +2,7 @@
 Date: 2022-02-27
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: CMD
+Alias: ["Windows Command Line", "DOS", "CMD"]
 ---
 
 # CMD

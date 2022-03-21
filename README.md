@@ -22,13 +22,17 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ## Contents
 
-- [[#Maps of Content|Maps of Content]]
-- [[#Lists|Lists]]
+- [[#Where to Browse Next?|Where to Browse Next?]]
+	- [[#Latest|Latest]]
+	- [[#Maps of Content|Maps of Content]]
+	- [[#Code Snippets|Code Snippets]]
+	- [[#Lists|Lists]]
 - [[#Roadmap|Roadmap]]
 - [[#About|About]]
 	- [[#Notes|Notes]]
 	- [[#Structure: Maps of Content|Structure: Maps of Content]]
 - [[#Resources|Resources]]
+
 
 ## Where to Browse Next?
 

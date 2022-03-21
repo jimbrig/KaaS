@@ -22,7 +22,7 @@ msdt.exe -id DeviceDiagnostic
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 
 *Backlinks:*

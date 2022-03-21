@@ -324,7 +324,7 @@ Alias: AWS Components Master List
 
 ***
 
-- [[3-Resources/Tools/AWS/_README|AWS]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|AWS]]
 
 *Backlinks:*
 

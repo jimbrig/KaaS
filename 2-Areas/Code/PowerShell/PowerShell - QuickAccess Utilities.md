@@ -128,7 +128,7 @@ https://gallery.technet.microsoft.com/Set-QuickAccess-117e9a89
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

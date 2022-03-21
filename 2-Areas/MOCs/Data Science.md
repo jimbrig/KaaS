@@ -13,7 +13,7 @@ Alias: "Data Science"
 
 - [[Actuarial Science]]
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 
 ## Notes
 

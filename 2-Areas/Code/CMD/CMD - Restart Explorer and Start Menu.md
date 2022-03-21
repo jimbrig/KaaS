@@ -86,7 +86,7 @@ start C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txy
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

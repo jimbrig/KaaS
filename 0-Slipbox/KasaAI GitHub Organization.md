@@ -30,7 +30,7 @@ Alias: "KasaAI GitHub Organization"
 #### Related
 
 - [[Actuarial Science]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[Development]]
 - [[Simulating Actuarial Claims Data with R]]
 

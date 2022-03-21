@@ -128,7 +128,7 @@ Runs the exported [[SQL]] script against the `Web Data` file which is actually a
 - [[2-Areas/Code/CMD/_README|CMD]]
 - [[Microsoft DOS|MS-DOS]]
 - [[Automation]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[SQLite]]
 - [[Databases]]
 

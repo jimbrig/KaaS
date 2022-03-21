@@ -294,7 +294,7 @@ Alias: "List of Python Flask Resources"
 *Backlinks:*
 
 [[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
-[[Python]]
+[[2-Areas/MOCs/Python]]
 [[Development]]
 [[Tools]]
 

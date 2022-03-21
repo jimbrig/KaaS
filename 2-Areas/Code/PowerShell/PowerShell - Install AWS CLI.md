@@ -18,7 +18,7 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ## Appendix: Links
 
 - [[2-Areas/Code/_README|Code]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[AWS CLI]]
 - [[Development]]
 

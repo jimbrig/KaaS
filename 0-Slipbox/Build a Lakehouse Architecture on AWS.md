@@ -342,7 +342,7 @@ For detailed architectural patterns, walkthroughs, and sample code for building 
 ## Appendix: Links
 
 - [[Modern Data Architecture on AWS]]
-- [[3-Resources/Tools/AWS/_README|Amazon Web Services]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|Amazon Web Services]]
 - [[AWS S3]]
 - [[Data Lake]]
 - [[Data Engineering]]

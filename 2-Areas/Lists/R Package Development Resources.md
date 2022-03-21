@@ -26,7 +26,7 @@ Source: [Awesome R Package Development - GitHub](https://indrajeetpatil.github.i
 #### Related
 
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 
 - [[Awesome R Package Development]]
 - [[R Package Development Best Practices]]

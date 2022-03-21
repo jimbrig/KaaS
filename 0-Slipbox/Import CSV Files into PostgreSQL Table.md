@@ -101,7 +101,7 @@ Notice that the file must be read directly by the PostgreSQL server, not by the 
 
 ## Import CSV file into a table using pgAdmin 
 
-See Also: [[pgAdmin]]
+See Also: [[PgAdmin]]
 
 
 In case you need to import a CSV file from your computer into a table on the PostgreSQL database server, you can use the pgAdmin.

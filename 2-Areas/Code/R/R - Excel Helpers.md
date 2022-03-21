@@ -9,7 +9,7 @@ Alias: ["R - Excel Helpers"]
 
 *Source: https://kotamine.github.io/excel_shiny/tips-from-excel-tool-to-shiny.html*
 
-Some [[R]] functions related to familiar [[Excel]] functions:
+Some [[2-Areas/MOCs/R]] functions related to familiar [[Excel]] functions:
 
 ## Net Present Value - NPV
 

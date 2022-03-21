@@ -121,7 +121,7 @@ See Also: [mohabouje/WinToast (github.com)](https://github.com/mohabouje/WinToas
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Batch Scripting Tips and Tricks]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Development]]
 - [[CLI Tools]]
 

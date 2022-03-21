@@ -56,7 +56,7 @@ The lapse probability will vary by class. This may be randomly assigned using a 
 #### Related
 
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[Actuarial Science]]
 - [[CAS - Casualty Actuarial Society]]
 

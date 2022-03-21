@@ -48,7 +48,7 @@ Alias: "Data Engineering"
 - [[SQL]]
 - [[T-SQL]]
 - [[PLPGSQL]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 
 ### Data Lineage and Processing (ETL)
 

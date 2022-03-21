@@ -22,7 +22,7 @@ Aliases: ["Bioconductor - Package Guidelines", "Bioconductor - Package Guideline
 - The raw package directory should not contain unnecessary files, system files, or hidden files such as .DS_Store, .project, .git, cache file, log files, .Rproj, .so, etc.. These files may be present in your local directory but should not be commited to git (see ).
 - set through environment variable R_CHECK_ENVIRON with a command similar to
   export R_CHECK_ENVIRON = <path to downloaded file>
-    - Tags: [[r]] [[favorite]] 
+    - Tags: [[2-Areas/MOCs/R]] [[favorite]] 
 - use an x.y.z version scheme
 - x is usually 0 for packages that have not yet been released
 - y is even for packages in release, and odd for packages in devel.
@@ -101,7 +101,7 @@ Aliases: ["Bioconductor - Package Guidelines", "Bioconductor - Package Guideline
 - Avoid large chunks of repeated code. If code is being repeated this is generally a good indication a helper function could be implemented.
 - Excessively long functions should also be avoided. Write small functions. It’s best if each function has only one job that needs to do. And it’s also best if it does that job in as few lines of code as possible. If you find yourself writing great big functions that wrap on for more than a screen then you should probably take a moment to split it up into smaller helper functions. Smaller functions are easier to read, debug and to reuse.
 - Argument names to functions should be descriptive and well documented. Arguments should generally have default values. Check arguments against a validity check.
-    - Tags: [[pkgdevt]] [[r]] [[favorite]] 
+    - Tags: [[pkgdevt]] [[2-Areas/MOCs/R]] [[favorite]] 
 - Vectorize! Many R operations are performed on the whole object, not just the elements of the object (e.g., sum(x), not x[1] + x[2] + x[2] + ...). In particular, relatively few situations require an explicit for loop. See the Vectorize section of Robust and Efficient Code for additional detail.
 - The following are files that are checked by Bioconductor and flagged as unacceptable:
   hidden_file_ext = (

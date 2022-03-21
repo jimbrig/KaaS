@@ -95,5 +95,5 @@ Alias: "Advanced Programming Concepts"
 #### Appendix: Links
 
 - [[Development]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 - [[Windows PowerShell]]

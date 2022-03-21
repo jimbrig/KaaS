@@ -27,7 +27,7 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
 
-- DISM online repair image with [[PowerShell]] cmdlet:
+- DISM online repair image with [[2-Areas/MOCs/PowerShell]] cmdlet:
 
 ```powershell
 Repair-WindowsImage -Online -RestoreHealth
@@ -54,7 +54,7 @@ Repair-WindowsImage -Online -RestoreHealth
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

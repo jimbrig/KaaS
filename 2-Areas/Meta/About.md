@@ -17,7 +17,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 ## Features
 
 - Notes are stored locally and are written in [[Markdown]]
-- Notes are versioned and tracked in [[Version Control]] with [[Git]] and [[GitHub]]
+- Notes are versioned and tracked in [[3-Resources/Tools/Developer Tools/Version Control/_README]] with [[Git]] and [[GitHub]]
 - Notes are published in two separate manners: 
 	- Open Source Method: Uses [[GitHub Actions]] and [[MkDocs]] 
 	- [[Obsidian Publish]]

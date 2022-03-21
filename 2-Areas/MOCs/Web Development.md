@@ -13,8 +13,8 @@ Alias: "Web Development"
 
 - [[Development]]
 - [[Data Science]]
-- [[Python]]
-- [[R]]
+- [[2-Areas/MOCs/Python]]
+- [[2-Areas/MOCs/R]]
 
 ## Notes about Web Development
 

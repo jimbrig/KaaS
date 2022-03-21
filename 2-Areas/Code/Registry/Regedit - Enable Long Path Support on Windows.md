@@ -33,7 +33,7 @@ Set-ItemProperty 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'Long
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

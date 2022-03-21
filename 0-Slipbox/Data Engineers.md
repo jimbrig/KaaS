@@ -250,7 +250,7 @@ Data scientists use statistical tools such as [k-means clustering](https://realp
 - [[Google Cloud Platform]]
 - [[Data Warehouse]]
 - [[Dimensional Modeling]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 
 *Backlinks:*
 

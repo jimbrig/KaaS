@@ -398,13 +398,13 @@ You can specify a key called `remote_topgrades` in the configuration file. This 
 - [[CLI Tools]] | [[CLI Tools#Package Managers]]
 - [[Windows Subsystem for Linux]]
 - [[WSL Initial Setup Notes]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Chocolatey]]
 - [[Scoop]]
-- [[Cargo]]
+- [[Rust - Cargo]]
 - [[Rust]]
 - [[Git]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[Winget]]
 
 *Backlinks:*

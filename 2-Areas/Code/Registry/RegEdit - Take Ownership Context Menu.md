@@ -54,7 +54,7 @@ Windows Registry Editor Version 5.00
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Microsoft]]
 - [[2-Areas/Code/Registry/_README|Registry]]
 

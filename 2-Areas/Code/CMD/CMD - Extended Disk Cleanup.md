@@ -24,7 +24,7 @@ cmd.exe /c Cleanmgr /sageset:65535 & Cleanmgr /sagerun:65535
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

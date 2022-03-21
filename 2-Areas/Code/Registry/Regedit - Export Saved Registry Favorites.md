@@ -22,7 +22,7 @@ reg export HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\Favori
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

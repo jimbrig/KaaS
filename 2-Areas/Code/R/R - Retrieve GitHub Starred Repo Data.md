@@ -58,7 +58,7 @@ qs::qsave(out, paste0("data/", Sys.Date(), "-jimbrig-github-starred-repos.qs"))
 ## Appendix: Links
 
 - [[Code]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[Development]]
 
 *Backlinks:*

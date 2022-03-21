@@ -45,7 +45,7 @@ Alias: CLI Tools
 - [[NuGet]]
 - [[Python - pip]]
 - [[R - pak]]
-- [[Cargo]] (Rust)
+- [[Rust - Cargo]] (Rust)
 - [[apt]] (Debian, Ubuntu, Kali Linux, etc.)
 - [[Homebrew]] (MacOS, Linux, WSL)
 - [[Node - npm]]
@@ -63,14 +63,14 @@ Alias: CLI Tools
 - [[lastversion]]
 - [[keep]]
 - [[s-search]]
-- [[gcalcli]]
+- [[GCalCLI]]
 - [[ps2exe]]
 - [[keeper commander]]
-- [[docker]]
+- [[Docker]]
 - [[DotNet]]
 - [[minikube]]
 - [[obsidian-export]]
-- [[mkdocs]]
+- [[MkDocs]]
 - [[doctoc]]
 - [[devdash]]
 - [[espanso]]

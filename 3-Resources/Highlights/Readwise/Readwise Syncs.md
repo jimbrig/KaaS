@@ -621,3 +621,6 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
 
 - [[2022-03-16]] 7:41 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-03-20]] 10:21 PM — Synced 5 highlights from 1 document.
+    - 5 highlights from 4 Design Principles for Robust Data Pipelines
+

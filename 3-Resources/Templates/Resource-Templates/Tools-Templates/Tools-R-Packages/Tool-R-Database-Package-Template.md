@@ -15,7 +15,7 @@ Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 
 - [[Tools]]
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[R Database Packages]]
 
 

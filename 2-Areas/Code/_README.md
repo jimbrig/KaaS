@@ -38,7 +38,7 @@ tree_title: "Code Snippets"
 
 ## Bash
 
-- [**Bash**](Bash) - Linux Bash Code Snippets.
+- [**Bash**](Bash.md) - Linux Bash Code Snippets.
     - [Bash - Git-Auto](<Bash/Bash - Git-Auto.md>)
     - [Bash - Install NVM](<Bash/Bash - Install NVM.md>)
     - [Bash - Install oh-my-zsh](<Bash/Bash - Install oh-my-zsh.md>)
@@ -87,12 +87,12 @@ tree_title: "Code Snippets"
 
 ## JavaScript
 
-- [**Javascript Code**](Javascript) - Javascript Code Snippets.
+- [**Javascript Code**](Javascript.md) - Javascript Code Snippets.
     - [Javascript - Remove all YouTube Watch Later Videos](<Javascript/Javascript - Remove all YouTube Watch Later Videos.md>)
 
 ## PowerShell
 
-- [**PowerShell**](PowerShell) - PowerShell Code Snippets.
+- [**PowerShell**](2-Areas/MOCs/PowerShell.md) - PowerShell Code Snippets.
     - [PowerShell - Cleanup Windows Script](<PowerShell/PowerShell - Cleanup Windows Script.md>)
     - [PowerShell - Custom Installation Helpers](<PowerShell/PowerShell - Custom Installation Helpers.md>)
     - [PowerShell - Edge Scripts](<PowerShell/PowerShell - Edge Scripts.md>)
@@ -113,12 +113,12 @@ tree_title: "Code Snippets"
 
 ## Python
 
-- [**Python**](Python) - Python Code Snippets.
+- [**Python**](2-Areas/MOCs/Python.md) - Python Code Snippets.
     - [Python - Upgrade PIP](<Python/Python - Upgrade PIP.md>)
 
 ## R
 
-- [**R**](R) - R Code Snippets.
+- [**R**](2-Areas/MOCs/R.md) - R Code Snippets.
     - [R - docker_shiny_mssql](<R/R - docker_shiny_mssql.md>)
     - [R - mssql_rstudio](<R/R - mssql_rstudio.md>)
     - [R - Handle long polling process in Plumber or Shiny](<R/R - Handle long polling process in Plumber or Shiny.md>)
@@ -137,7 +137,7 @@ tree_title: "Code Snippets"
 
 ## Structured Query Language (SQL)
 
-- [**SQL Code Snippets**](SQL)
+- [**SQL Code Snippets**](SQL.md)
 
 ### BigQuery
 

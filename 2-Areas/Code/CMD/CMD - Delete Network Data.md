@@ -22,7 +22,7 @@ del /s /q /f "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\qm
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

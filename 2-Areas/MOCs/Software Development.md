@@ -12,8 +12,8 @@ Alias: "Software Development"
 ## Related MOCs
 
 - [[Web Development]]
-- [[R]]
-- [[Python]]
+- [[2-Areas/MOCs/R]]
+- [[2-Areas/MOCs/Python]]
 - [[Databases]]
 - [[Development]]
 

@@ -46,25 +46,25 @@ tree_title: "Code Snippets"
 ## Batch Scripts
 
 - [**Batch**](Batch)
-    - [Batch - MediaCreationTool](<Batch/Batch - MediaCreationTool.md>)
+    - [Batch - MediaCreationTool](Batch%20-%20MediaCreationTool.md - MediaCreationTool.md>)
 
 ## Windows Command Line (CMD/MS-DOS)
 
 - [**CMD**](CMD) - Command Line Code Snippets.
-    - [CMD - Create a Network Performance Windows Report](<CMD/CMD - Create a Network Performance Windows Report.md>)
-    - [CMD - Delete Network Data](<CMD/CMD - Delete Network Data.md>)
-    - [CMD - Delete Windows Update Leftover Files](<CMD/CMD - Delete Windows Update Leftover Files.md>)
-    - [CMD - DISM Commands](<CMD/CMD - DISM Commands.md>)
-    - [CMD - FlushDNS](<CMD/CMD - FlushDNS.md>)
-    - [CMD - Retrieve Stored Wi-Fi Passwords](<CMD/CMD - Retrieve Stored Wi-Fi Passwords.md>)
-    - [CMD - Retrieve Windows Credential Manager Saved Secrets](<CMD/CMD - Retrieve Windows Credential Manager Saved Secrets.md>)
-    - [CMD - Run the Hardware Diagnostic Troubleshooter](<CMD/CMD - Run the Hardware Diagnostic Troubleshooter.md>)
-    - [CMD - Run the WinSAT Diagnostics Score](<CMD/CMD - Run the WinSAT Diagnostics Score.md>)
-    - [CMD - Start a Windows Defender Virus Scan](<CMD/CMD - Start a Windows Defender Virus Scan.md>)
-    - [CMD - View Available Disks on Windows](<CMD/CMD - View Available Disks on Windows.md>)
-    - [CMD - Extended Disk Cleanup](<CMD/CMD - Extended Disk Cleanup.md>)
-    - [CMD - Memory Diagnostic](<CMD/CMD - Memory Diagnostic.md>)
-    - [CMD - Windows Troubleshooter Commands](<CMD/CMD - Troubleshooter Commands.md>)
+    - [CMD - Create a Network Performance Windows Report](CMD%20-%20Create%20a%20Network%20Performance%20Windows%20Report.md - Create a Network Performance Windows Report.md>)
+    - [CMD - Delete Network Data](CMD%20-%20Delete%20Network%20Data.md - Delete Network Data.md>)
+    - [CMD - Delete Windows Update Leftover Files](CMD%20-%20Delete%20Windows%20Update%20Leftover%20Files.md - Delete Windows Update Leftover Files.md>)
+    - [CMD - DISM Commands](CMD%20-%20DISM%20Commands.md - DISM Commands.md>)
+    - [CMD - FlushDNS](CMD%20-%20FlushDNS.md - FlushDNS.md>)
+    - [CMD - Retrieve Stored Wi-Fi Passwords](CMD%20-%20Retrieve%20Stored%20Wi-Fi%20Passwords.md - Retrieve Stored Wi-Fi Passwords.md>)
+    - [CMD - Retrieve Windows Credential Manager Saved Secrets](CMD%20-%20Retrieve%20Windows%20Credential%20Manager%20Saved%20Secrets.md - Retrieve Windows Credential Manager Saved Secrets.md>)
+    - [CMD - Run the Hardware Diagnostic Troubleshooter](CMD%20-%20Run%20the%20Hardware%20Diagnostic%20Troubleshooter.md - Run the Hardware Diagnostic Troubleshooter.md>)
+    - [CMD - Run the WinSAT Diagnostics Score](CMD%20-%20Run%20the%20WinSAT%20Diagnostics%20Score.md - Run the WinSAT Diagnostics Score.md>)
+    - [CMD - Start a Windows Defender Virus Scan](CMD%20-%20Start%20a%20Windows%20Defender%20Virus%20Scan.md - Start a Windows Defender Virus Scan.md>)
+    - [CMD - View Available Disks on Windows](CMD%20-%20View%20Available%20Disks%20on%20Windows.md - View Available Disks on Windows.md>)
+    - [CMD - Extended Disk Cleanup](CMD%20-%20Extended%20Disk%20Cleanup.md - Extended Disk Cleanup.md>)
+    - [CMD - Memory Diagnostic](CMD%20-%20Memory%20Diagnostic.md - Memory Diagnostic.md>)
+    - [CMD - Windows Troubleshooter Commands](CMD%20-%20Troubleshooter%20Commands.md - Troubleshooter Commands.md>)
 
 ## Cascading Style Sheets (CSS)
 
@@ -131,8 +131,8 @@ tree_title: "Code Snippets"
 ## Windows Registry (RegEdit)
 
 - [**Registry**](Registry)
-    - [Regedit - Enable Long Path Support on Windows](<Registry/Regedit - Enable Long Path Support on Windows.md>)
-    - [Regedit - Export Saved Registry Favorites](<Registry/Regedit - Export Saved Registry Favorites.md>)
+    - [Regedit - Enable Long Path Support on Windows](Regedit%20-%20Enable%20Long%20Path%20Support%20on%20Windows.md - Enable Long Path Support on Windows.md>)
+    - [Regedit - Export Saved Registry Favorites](Regedit%20-%20Export%20Saved%20Registry%20Favorites.md - Export Saved Registry Favorites.md>)
 
 
 ## Structured Query Language (SQL)
@@ -221,7 +221,7 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 ### Visual Basic for Applications (VBA)
 
 - [**VBA**](VBA)
-    - [VBA - SQL Stored Procedure Caller Module](<VBA/VBA - SQL Stored Procedure Caller Module.md>)
+    - [VBA - SQL Stored Procedure Caller Module](VBA%20-%20SQL%20Stored%20Procedure%20Caller%20Module.md - SQL Stored Procedure Caller Module.md>)
 
 ## MindMap
 

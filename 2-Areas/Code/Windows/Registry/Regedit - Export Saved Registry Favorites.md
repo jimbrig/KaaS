@@ -1,16 +1,16 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/Registry", "#Topic/Dev/OS/Windows"]
-Alias: ["<% tp.file.title %>"]
+Alias: ["Export Saved Registry Favorites"]
 ---
 
-# <% tp.file.title %>
+# Export Saved Registry Favorites
 
 *Source: *
 
-```regedit
-
+```powershell
+reg export HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\Favorites registry-favorites.reg
 ```
 
 ***
@@ -23,11 +23,9 @@ Alias: ["<% tp.file.title %>"]
 - [[Microsoft DOS]]
 - [[Command Line]]
 - [[2-Areas/MOCs/PowerShell]]
-- [[Microsoft]]
-- [[2-Areas/Code/Windows/Registry/_README|Registry]]
 
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[Export Saved Registry Favorites]] AND -"Changelog"
 ```

@@ -40,7 +40,7 @@ Once you enable Inquire, you have a new tab in the Ribbon called Inquire that pr
 
 - [[Tools]]
 - [[Excel]]
-- [[2-Areas/Code/VBA/_README|VBA]]
+- [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
 - [[Data Engineering]]
 
 *Backlinks:*

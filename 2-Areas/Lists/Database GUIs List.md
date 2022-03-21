@@ -2,7 +2,7 @@
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/List", "#Type/Tool/Database", "#Topic/Dev/Database"]
-Alias: "Database GUIs"
+Alias: ["Database GUIs List"]
 ---
 
 # Database GUIs

@@ -13,7 +13,7 @@ Alias: ["Microsoft DOS", "MS-DOS", "Windows Command Line"]
 
 - [[Microsoft]]
 - [[Command Line]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 *Backlinks:*
 

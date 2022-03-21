@@ -204,7 +204,7 @@ and this is what the application looks like while running:
 **Notes:**
 
 - [[Tools]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Nodejs]] | [[Node - npm]]
 - [[Electron]]
 - [[Portable Apps]]

@@ -18,7 +18,7 @@ Alias: ["<% tp.file.title %>"]
 - [[Nodejs]]
 - [[3-Resources/Tools/NPM Packages/_README|npm Packages]]
 - [[Web Development]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 
 *Backlinks:*

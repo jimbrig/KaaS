@@ -173,7 +173,7 @@ PROG=todoist source "$GOPATH/src/github.com/urfave/cli/autocomplete/zsh_autocomp
 
 - [[Tools]]
 - [[Todoist]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 *Backlinks:*
 

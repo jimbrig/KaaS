@@ -75,8 +75,8 @@ Alias: "Data Engineering"
 ### Lists
 
 - [[SQL Server List of Tools and Scripts]]
-- [[R Database Packages]]
-- [[R - Data Validation Packages]]
+- [[R - Database Packages List]]
+- [[R - Data Validation Packages List]]
 - [[Learn to Code Platforms Master List]]
 - [[Data Engineering and Its Main Concepts]]
 - [[Data Engineering Master List of Resources]]
@@ -87,7 +87,7 @@ Alias: "Data Engineering"
 - [[Data Warehousing Concepts - Slowly Changing Dimensions]]
 - [[Data Pipelines]]
 - [[Data Pipeline Architecture]]
-- [[PostgreSQL Tools]]
+- [[PostgreSQL Tools List]]
 - [[PostgreSQL Triggers]]
 
 

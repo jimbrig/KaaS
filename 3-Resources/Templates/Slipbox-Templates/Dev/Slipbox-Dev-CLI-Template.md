@@ -12,7 +12,7 @@ Alias: "<% tp.file.title %>"
 ## Appendix: Links
 
 - [[Development]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Command Line]]
 
 

@@ -7,7 +7,7 @@ Alias: "PostgreSQL"
 
 # PostgreSQL
 
-*See Also: [[Database GUIs#PostgreSQL Specific]] and [[2-Areas/Code/SQL/_README|SQL Code Snippets]]*
+*See Also: [[Database GUIs List#PostgreSQL Specific]] and [[2-Areas/Code/SQL/_README|SQL Code Snippets]]*
 
 <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">
 
@@ -288,8 +288,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ## Appendix: Links
 
-- [[PostgreSQL Tools]]
-- [[Database GUIs#PostgreSQL Specific]]
+- [[PostgreSQL Tools List]]
+- [[Database GUIs List#PostgreSQL Specific]]
 - [[R Package - RPostgres|RPostgres]]
 - [[Database Views vs Materialized Views]]
 - [[Databases]]

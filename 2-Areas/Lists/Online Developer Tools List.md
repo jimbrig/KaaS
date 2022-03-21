@@ -2,7 +2,7 @@
 Date: 2021-11-21
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool", "#Topic/Dev"]
-Alias: "Online Developer Tools"
+Alias: "Online Developer Tools List"
 ---
 
 # Online Developer Tools

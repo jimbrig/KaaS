@@ -123,7 +123,7 @@ See Also: [mohabouje/WinToast (github.com)](https://github.com/mohabouje/WinToas
 - [[Batch Scripting Tips and Tricks]]
 - [[2-Areas/MOCs/PowerShell]]
 - [[Development]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 *Backlinks:*
 

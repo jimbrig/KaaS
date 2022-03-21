@@ -1,16 +1,16 @@
 ---
-Date: 2022-03-01
+Date: 2022-03-21
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: ["Excel VBA", "Visual Basic for Applications", "VBA"]
+Alias: Windows PowerShell
 ---
 
-# VBA
+# Windows PowerShell
 
 *Contents*
 
 ```dataview
-list from "2-Areas/Code/VBA" AND !#Type/Readme
+list from "2-Areas/Code/Windows/Windows PowerShell" AND !#Type/Readme
 ```
 
 ***

@@ -31,7 +31,7 @@ Sources:
 - [[Code Coverage]]
 - [[R Package - covr]]
 - [[R Package - usethis]]
-- [[R Package Development Resources]]
+- [[R Package Development Resources List]]
 
 *Backlinks:*
 

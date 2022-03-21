@@ -1,16 +1,16 @@
 ---
-Date: 2022-03-01
+Date: 2022-03-21
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: ["Excel VBA", "Visual Basic for Applications", "VBA"]
+Alias: Actuarial Posts
 ---
 
-# VBA
+# Actuarial Posts
 
 *Contents*
 
 ```dataview
-list from "2-Areas/Code/VBA" AND !#Type/Readme
+list from "2-Areas/Content/Posts/Actuarial Posts" AND !#Type/Readme
 ```
 
 ***

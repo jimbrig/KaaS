@@ -116,7 +116,7 @@ What makes scope powerful is that it is client-based restrictions. Unlike an API
 - [[API Design]]
 - [[API Architecture - Performance Best Practices]]
 - [[REST API Best Practices]]
-- [[REST API Resources]]
+- [[REST API Resources List]]
 - [[Development]]
 - [[Web Development]]
 

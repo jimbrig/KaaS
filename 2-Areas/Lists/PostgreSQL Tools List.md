@@ -2,7 +2,7 @@
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/List", "#Type/Tool/Database", "#Topic/Dev/Database/PostgreSQL"]
-Alias: PostgreSQL Tools
+Alias: "PostgreSQL Tools List"
 ---
 
 # PostgreSQL Tools
@@ -51,7 +51,7 @@ Alias: PostgreSQL Tools
 
 ## GUI
 
-![[Database GUIs#PostgreSQL Specific]]
+![[Database GUIs List#PostgreSQL Specific]]
 
 ## Developer Tools
 
@@ -105,7 +105,7 @@ docker run \
 
 - [[PostgreSQL]]
 - [[Databases]]
-- [[Database GUIs]]
+- [[Database GUIs List]]
 - [[3-Resources/Tools/_README|Tools]]
 - [[Database Tools]]
 

@@ -395,7 +395,7 @@ You can specify a key called `remote_topgrades` in the configuration file. This 
 ## Appendix: Links
 
 - [[Tools]]
-- [[CLI Tools]] | [[CLI Tools#Package Managers]]
+- [[CLI Tools List]] | [[CLI Tools List#Package Managers]]
 - [[Windows Subsystem for Linux]]
 - [[WSL Initial Setup Notes]]
 - [[2-Areas/MOCs/PowerShell]]

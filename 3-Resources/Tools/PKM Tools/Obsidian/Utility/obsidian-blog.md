@@ -125,7 +125,7 @@ Just text me in [telegram](https://t.me/a_shuvalov) or file an issue. I'd be hap
 
 - [[Tools]]
 - [[Obsidian]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 *Backlinks:*
 

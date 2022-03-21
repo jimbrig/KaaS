@@ -80,5 +80,5 @@ DBI::dbGetQuery(conn, "SELECT * FROM <table name> LIMIT 10")
 - [[R Shiny]]
 - [[Databases]]
 - [[PostgreSQL]]
-- [[R Database Packages]]
-- [[R Shiny Packages]]
+- [[R - Database Packages List]]
+- [[R Shiny Packages List]]

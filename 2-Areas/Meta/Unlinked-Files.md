@@ -45,7 +45,7 @@ Alias: "Unlinked-Files"
 - [[WSL Initial Setup Notes]]
 - [[Windows Shell Commands]]
 - [[Unix Philosophy]]
-- [[R Package Development Resources]]
+- [[R Package Development Resources List]]
 - [[Problems with No-Code and Low-Code Tools]]
 - [[Flask and Docker]]
 - [[GCP Sketchnote Diagrams]]

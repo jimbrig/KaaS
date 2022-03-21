@@ -28,7 +28,7 @@ Alias: Database Modeling Tools
 
 - [[PostgreSQL]]
 - [[Databases]]
-- [[Database GUIs]]
+- [[Database GUIs List]]
 - [[3-Resources/Tools/_README|Tools]]
 - [[Database Tools]]
 

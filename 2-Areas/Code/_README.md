@@ -100,6 +100,11 @@ tree_title: "Code Snippets"
 - [[2-Areas/Code/Javascript/_README|Javascript Code]] - Javascript Code Snippets.
     - [Javascript - Remove all YouTube Watch Later Videos](<Javascript/Javascript - Remove all YouTube Watch Later Videos.md>)
 
+
+## Pandoc
+
+- [[Pandoc - Convert Word to Markdown]]
+
 ## PowerShell (Core)
 
 - [**PowerShell**](2-Areas/MOCs/PowerShell.md) - PowerShell Code Snippets.
@@ -149,6 +154,10 @@ tree_title: "Code Snippets"
 #Status/WIP 
 
 - [**BigQuery**](SQL/BigQuery)
+
+### General
+
+#Statup/WIP
 
 ### PostgreSQL
 
@@ -227,14 +236,20 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 ### Batch Scripts
 
+#Statup/WIP
+
 - [[2-Areas/Code/Windows/Batch/_README|Batch]]
     - [[Batch - MediaCreationTool]]
 
 ### Miscellaneous
 
+#Statup/WIP
+
 - [[Add Tabs to Windows 11 Explorer]]
 
 ### Registry (RegEdit)
+
+#Statup/WIP
 
 - [[Regedit - Enable Long Path Support on Windows]]
 - [[Regedit - Export Saved Registry Favorites]]
@@ -243,6 +258,8 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 ### Run Commands
 
+#Statup/WIP
+
 - [[Run - Cleanup]]
 - [[Run - GodMode All Tasks]]
 - [[Run - Obsidian Vault Launcher]]
@@ -250,6 +267,8 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 - [[Run - Startup]]
 
 ### Visual Basic
+
+#Statup/WIP
 
 #### Visual Basic for Applications (VBA) - Excel VBA
 
@@ -287,10 +306,14 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 ### Windows PowerShell
 
+#Statup/WIP
+
 Nothing Yet.
 
 
 ## MindMap
+
+#Statup/WIP
 
 ![](https://i.imgur.com/wJCIHVX.png)
 

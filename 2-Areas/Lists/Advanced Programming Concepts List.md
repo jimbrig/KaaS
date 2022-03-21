@@ -2,7 +2,7 @@
 Date: 2022-01-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/List", "#Topic/Dev"]
-Alias: "Advanced Programming Concepts"
+Alias: "Advanced Programming Concepts List"
 ---
 
 # Advanced Programming Concepts

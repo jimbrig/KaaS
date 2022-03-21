@@ -28,9 +28,9 @@ Source: [Awesome R Package Development - GitHub](https://indrajeetpatil.github.i
 - [[Development]]
 - [[2-Areas/MOCs/R]]
 
-- [[Awesome R Package Development]]
+- [[Awesome R Package Development List]]
 - [[R Package Development Best Practices]]
-- [[R Shiny Packages]]
+- [[R Shiny Packages List]]
 
 *Backlinks:*
 

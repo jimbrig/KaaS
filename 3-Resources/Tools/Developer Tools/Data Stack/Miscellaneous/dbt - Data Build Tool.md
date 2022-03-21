@@ -15,7 +15,7 @@ Alias: ["dbt - Data Build Tool", "dbt", "data build tool"]
 
 - [[Tools]]
 - [[Data Engineering]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Databases]]
 - [[Open Source]]
 - [[Data]]

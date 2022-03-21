@@ -166,7 +166,7 @@ This page is created from HTTP status code information found at [ietf.org](https
 ---
 
 [[0-Slipbox/_README]]
-[[REST API Resources]]
+[[REST API Resources List]]
 [[REST API HTTP Status Codes]]
 [[REST API Resource Naming]]
 [[REST API Idempotence]]

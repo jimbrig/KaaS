@@ -406,7 +406,7 @@ hardstatus "[ %1` ]"
 - [[Tools]]
 - [[Google Calendar]]
 - [[Productivity]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Google Cloud Platform]]
 - [[2-Areas/MOCs/Python]]
 - [[Python - pip]]

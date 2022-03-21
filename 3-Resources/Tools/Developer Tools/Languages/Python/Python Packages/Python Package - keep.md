@@ -128,7 +128,7 @@ Not a command line fanatic? Here are some resources for you :
 - [[Development]]
 - [[2-Areas/MOCs/Python]]
 - [[Python Packages]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 
 *Backlinks:*

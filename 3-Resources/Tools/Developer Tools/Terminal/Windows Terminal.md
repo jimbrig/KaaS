@@ -16,7 +16,7 @@ Check out my [[Windows Terminal Setup and Configuration]]
 ## Appendix: Related
 
 - [[Tools]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Windows Developer Environment]]
 - [[Windows Subsystem for Linux]]
 - [[Microsoft]]

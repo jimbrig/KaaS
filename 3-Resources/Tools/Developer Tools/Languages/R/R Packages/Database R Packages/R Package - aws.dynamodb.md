@@ -16,7 +16,7 @@ Alias: ["R Package - aws.dynamodb", "R Package - aws.dynamodb"]
 - [[Tools]]
 - [[Development]]
 - [[2-Areas/MOCs/R]]
-- [[R Database Packages]]
+- [[R - Database Packages List]]
 
 
 *Backlinks:*

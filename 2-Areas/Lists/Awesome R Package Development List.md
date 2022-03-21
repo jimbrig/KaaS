@@ -5,7 +5,9 @@ Tags: ["#Type/List", "#Topic/Dev/R"]
 Alias: Awesome R Package Development
 ---
 
-# Awesome R Package Development
+# Awesome R Package Development List
+
+#Status/Todo 
 
 
 

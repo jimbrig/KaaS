@@ -14,7 +14,7 @@ Alias: ["Bash"]
 ## Appendix: Links
 
 - [[Tools]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[Kali Linux]]
 - [[Linux]]
 - [[zsh]]

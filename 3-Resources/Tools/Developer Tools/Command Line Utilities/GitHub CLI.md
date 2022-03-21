@@ -82,7 +82,7 @@ Current respected settings:
 ## Appendix: Related
 
 - [[Tools]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 - [[GitHub]]
 - [[Top GitHub Best Practices for Developers]]
 

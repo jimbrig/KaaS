@@ -60,8 +60,8 @@ Alias: "Development"
 
 ### Lists
 
-- [[Online Developer Tools]]
-- [[CLI Tools]]
+- [[Online Developer Tools List]]
+- [[CLI Tools List]]
 
 ### Version Control
 

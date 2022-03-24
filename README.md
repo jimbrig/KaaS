@@ -65,22 +65,45 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 	- [[#Notes|Notes]]
 	- [[#Structure: Maps of Content|Structure: Maps of Content]]
 
+## Roadmap
 
+Currently I am persistently perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
 
-## Where to Browse Next?
+## About
 
-### Latest
+Check out the `Meta/` Folder for details about this Vault and its setup:
 
-- See my latest added [[2-Areas/Code/_README|Code]] Snippets.
+- [[2-Areas/Meta/_README|Meta]]
+    - [[About]]
+    - [[Publish Workflow]] _(MkDocs version only, not Obsidian Publish)_
+    - [[How I Take Notes]]
+    - [[Vault Setup]]
+    - [[Structure]]
 
-- New [[2-Areas/Content/_README|Content]]:
-    - Plus my [[Blog Post Ideas List]]
+The [[Changelog]] is also a good _Meta_ resource.
 
-- Added my [[2022 Learning List]]
+*Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.*
 
-### Maps of Content
+### Publishing Setup
+
+- This repository has three main branches: [main], [develop], and [gh-pages]. 
+	- The [main] branch is a representation of the [develop] branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
+	- The [develop] branch mirrors what I actually work with while inside the Obsidian application and gets sync'd automatically.
+	- The [gh-pages] branch is deployed using [MkDocs]() and [GitHub Actions]().
+	- Links are converted using the rust library [Obsidian-Export].
+	- Links for deployment are converted using the [mkdocs-roamlinks]() plugin.
+
+*Check out the various [GitHub Actions] utilized to enable this entire process.*
+
+### Structure: Maps of Content
+
+If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
+
+In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
 
 Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault efficiently: 
+
+Some Maps of Content to consider are:
 
 -   [[Actuarial Science]]
 -   [[Development]]
@@ -89,14 +112,45 @@ Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault ef
 	- [[Databases]]
 	- [[Web Development]]
 	- [[Software Development]]
-	- [[2-Areas/MOCs/R]] 
+	- [[R]] 
 	- [[R Shiny]]
-	- [[2-Areas/MOCs/Python]]
-	- [[2-Areas/MOCs/PowerShell]]
+	- [[Python]]
+	- [[PowerShell]]
 - [[Productivity]]
 - [[Personal Knowledge Management]]
 - [[Mathematics and Statistics]]
 - [[Finance]]
+
+The others are still works in progress as I collect and curate more notes into the vault.
+
+## Content
+
+The vault has a variety of content including, but not limited to:
+
+- Code Snippets
+- Lists of Resources
+- Checklists
+- Slipbox Atomic Notes
+- Guides and How-To's
+- Lessons Learned
+- Daily Notes
+- Templates 
+- Best Practices
+- Documentation
+- Tools by Category
+- Mindsweeps 
+- Goals and Learning Notes
+- Project Support Notes
+- Notes about People and Agendas
+- Definitions
+- Embedded Websites
+- Kanban Boards
+- MindMaps
+- Highlights from a variety of sources
+- Clippings from the Web
+- Podcast Notes
+
+And More!
 
 ### Code Snippets
 
@@ -161,52 +215,41 @@ Under [[2-Areas/Lists/_README|2-Areas/Lists]] I have curated lists for various t
 - [[R Package Development Resources List]]
 - [[R on the Web - List of Links]]
 
-## Roadmap
+### Tools
 
-Currently I am persistently perusing and curating my 10,000+ various notes houses across various platforms and locations: I would say I am about **18%** complete in this endeavor.
+See [[3-Resources/Tools/_README|Tools]] for a vast listing of useful tools I've come across split into categories:
 
-## About
+- [[3-Resources/Tools/Developer Tools/_README|Developer Tools]]
+    - [[3-Resources/Tools/Developer Tools/Cloud Services/_README|Cloud Services]]
+        - [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|AWS]]
+        - [[3-Resources/Tools/Developer Tools/Cloud Services/Azure/_README|Azure]]
+        - [[3-Resources/Tools/Developer Tools/Cloud Services/GCP/_README|GCP]]
+    - [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utilities]]
+    - [[3-Resources/Tools/Developer Tools/Data Stack/_README|Data Stack]]
+        - [[3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/_README|Business Intelligence]]
+        - [[3-Resources/Tools/Developer Tools/Data Stack/Database GUI/_README|Database GUI]]
+        - [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
+        - [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/_README|Procedural Languages]]
+        - [[3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/_README|Miscellaneous]]
+    - [[3-Resources/Tools/Developer Tools/Docker/_README|Docker]]
+    - [[3-Resources/Tools/Developer Tools/Documentation/_README|Documentation]]
+        - [[3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/_README|Static Site Generators]]
+        - [[3-Resources/Tools/Developer Tools/Documentation/Text Editors/_README|Text Editors]]
+        - [[3-Resources/Tools/Developer Tools/Documentation/Utility/_README|Utility]]
+    - [[3-Resources/Tools/Developer Tools/IDE/_README|IDE]]
+    - [[3-Resources/Tools/Developer Tools/Languages/_README|Languages]]
+        - [[3-Resources/Tools/Developer Tools/Languages/JavaScript/_README|JavaScript]]
+        - [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
+        - [[3-Resources/Tools/Developer Tools/Languages/Python/_README|Python]]
+        - [[3-Resources/Tools/Developer Tools/Languages/R/_README|R]]
+    - [[3-Resources/Tools/Developer Tools/Linux/_README|Linux]]
+    - [[3-Resources/Tools/Developer Tools/Package Managers/_README|Package Managers]]
+    - [[3-Resources/Tools/Developer Tools/Shell/_README|Shell]]
+    - [[3-Resources/Tools/Developer Tools/Terminal/_README|Terminal]]
+    - [[3-Resources/Tools/Developer Tools/Version Control/_README|Version Control]]
+    - [[3-Resources/Tools/Developer Tools/Websites and Online Tools/_README|Websites and Online Tools]]
 
-Check out the `Meta/` Folder for details about this Vault and its setup:
-
--   [[About]]
--   [[Publish Workflow]] _(MkDocs version only, not Obsidian Publish)_
--   [[Structure]]
-
-The [[Changelog]] is also a good _Meta_ resource.
-
-### Notes
-
-- This repository has three main branches: [main], [develop], and [gh-pages]. 
-	- The [main] branch is a representation of the [develop] branch, but with all obsidian wiki-links converted to GitHub markdown links for display on GitHub as well as `_README.md` files converted to `README.md` for display on GitHub. 
-	- The [develop] branch mirrors what I actually work with while inside the Obsidian application and gets sync'd automatically.
-	- The [gh-pages] branch is deployed using [MkDocs]() and [GitHub Actions]().
-	- Links are converted using the rust library [Obsidian-Export].
-	- Links for deployment are converted using the [mkdocs-roamlinks]() plugin.
-
-*Check out the various [GitHub Actions] utilized to enable this entire process.*
-
-**Meta Notes**
-
-- Launch this vault directly via the **Obsidian URI Schema**: `obsidian://open?vault=KaaS`.
-
-- [[Changelog]]
-- [[Workbench]]
-- [[Vault Setup]]
-
-### Structure: Maps of Content
-
-If this vault serves as my version of [[Building a Second Brain|a second brain]], then [[2-Areas/MOCs/_README|Maps of Content]] or _MOC's_ are the underlying [[Synapse|synapse]]'s connecting the neurotransmitters of the brain together to form a complex, structured system.
-
-In other words MOC's serve as structural, index notes that list related [[Atomic Notes]] in a single location.
-
-Some Maps of Content to consider are:
-
--   [[Development]]
--   [[Actuarial Science]]
--   [[Productivity]]
-
-The others are still works in progress as I collect and curate more notes into the vault.
+And many others!
 
 ***
 

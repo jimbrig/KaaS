@@ -5,6 +5,21 @@ Alias: "KaaS"
 Tags: ["#Type/Readme"]
 ---
 
+<head>
+<link rel="apple-touch-icon" sizes="76x76" href="/.assets/apple-touch-icon.png?v=1.0">
+<link rel="icon" type="image/png" sizes="32x32" href="/.assets/favicon-32x32.png?v=1.0">
+<link rel="icon" type="image/png" sizes="16x16" href="/.assets/favicon-16x16.png?v=1.0">
+<link rel="manifest" href="/.assets/site.webmanifest?v=1.0">
+<link rel="mask-icon" href="/.assets/safari-pinned-tab.svg?v=1.0" color="#5bbad5">
+<link rel="shortcut icon" href="/.assets/favicon.ico?v=1.0">
+<meta name="apple-mobile-web-app-title" content="KaaS">
+<meta name="application-name" content="KaaS">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="/.assets/browserconfig.xml?v=1.0">
+<meta name="theme-color" content="#ffffff">
+</head>
+
+
 <h1 align="center">KaaS - Knowledge as a Service</h1>
 <br>
 <p align="center">

@@ -25,7 +25,7 @@ Alias: "PowerShell"
 - [[PowerShell Module - PoshCode]]
 - [[PowerShell Module - PSScaffold]]
 - [[PowerShell Module - devblackops]]
-- [[PowerShell Module - ModuleBuilder]]
+- [[PowerShell Module - ModuleBuilder 1]]
 
 ## Module Development
 
@@ -44,7 +44,7 @@ Other modules aiding in module development:
 - [[PowerShell Module - devblackops]]
 - [[PowerShell Module - psake]]
 - [[PowerShell Module - PoshCode]]
-- [[PowerShell Module - ModuleBuilder]]
+- [[PowerShell Module - ModuleBuilder 1]]
 - [[PowerShell Module - PSScaffold]]
 
 ### Tagged as *Topic/Dev/PowerShell*

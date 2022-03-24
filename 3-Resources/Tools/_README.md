@@ -55,62 +55,62 @@ Alias: Tools
 ### Amazon Web Services (AWS)
 
 - [**AWS**](AWS)
-    - [AWS Athena](<AWS/AWS Athena.md>)
-    - [AWS Aurora](<AWS/AWS Aurora.md>)
-    - [AWS CLI](<AWS/AWS CLI.md>)
-    - [AWS Glue](<AWS/AWS Glue.md>)
-    - [AWS QuickSight](<AWS/AWS QuickSight.md>)
-    - [Amazon Relational Database Service (Amazon RDS)](<AWS/AWS RDS.md>)
-    - [AWS Redshift](<AWS/AWS Redshift.md>)
-    - [AWS - S3](<AWS/AWS S3.md>)
-    - [AWS Sagemaker](<AWS/AWS Sagemaker.md>)
-    - [AWS Schema Conversion Tool](<AWS/AWS Schema Conversion Tool.md>)
+    - [AWS Athena](AWS%20Athena.md Athena.md>)
+    - [AWS Aurora](AWS%20Aurora.md Aurora.md>)
+    - [AWS CLI](AWS%20CLI.md CLI.md>)
+    - [AWS Glue](AWS%20Glue.md Glue.md>)
+    - [AWS QuickSight](AWS%20QuickSight.md QuickSight.md>)
+    - [Amazon Relational Database Service (Amazon RDS)](AWS%20RDS.md RDS.md>)
+    - [AWS Redshift](AWS%20Redshift.md Redshift.md>)
+    - [AWS - S3](AWS%20S3.md S3.md>)
+    - [AWS Sagemaker](AWS%20Sagemaker.md Sagemaker.md>)
+    - [AWS Schema Conversion Tool](AWS%20Schema%20Conversion%20Tool.md Schema Conversion Tool.md>)
 
 ### Azure
 
 - [**Azure**](Azure)
-    - [Azure Data Studio](<Azure/Azure Data Studio.md>)
-    - [Azure DevOps Pipelines](<Azure/Azure DevOps Pipelines.md>)
-    - [Azure DevOps](<Azure/Azure DevOps.md>)
-    - [Azure Key Vault](<Azure/Azure Key Vault.md>)
-    - [Azure Machine Learning](<Azure/Azure Machine Learning.md>)
-    - [Azure ML Compute Instances](<Azure/Azure ML Compute Instances.md>)
-    - [Azure MLOps: DevOps for Machine Learning](<Azure/Azure MLOps.md>)
-    - [Azure SQL Databases](<Azure/Azure SQL Databases.md>)
-    - [Microsoft Azure Data Lake Store](<Azure/Microsoft Azure Data Lake Store.md>)
-    - [Microsoft Azure](<Azure/Microsoft Azure.md>)
+    - [Azure Data Studio](Azure%20Data%20Studio.md Data Studio.md>)
+    - [Azure DevOps Pipelines](Azure%20DevOps%20Pipelines.md DevOps Pipelines.md>)
+    - [Azure DevOps](Azure%20DevOps.md DevOps.md>)
+    - [Azure Key Vault](Azure%20Key%20Vault.md Key Vault.md>)
+    - [Azure Machine Learning](Azure%20Machine%20Learning.md Machine Learning.md>)
+    - [Azure ML Compute Instances](Azure%20ML%20Compute%20Instances.md ML Compute Instances.md>)
+    - [Azure MLOps: DevOps for Machine Learning](Azure%20MLOps.md MLOps.md>)
+    - [Azure SQL Databases](Azure%20SQL%20Databases.md SQL Databases.md>)
+    - [Microsoft Azure Data Lake Store](Microsoft%20Azure%20Data%20Lake%20Store.md Azure Data Lake Store.md>)
+    - [Microsoft Azure](Microsoft%20Azure.md Azure.md>)
 
 ### Google Cloud Platform (GCP)
 
 - [**GCP**](GCP)
-    - [Google Cloud SDK CLI Notes](<GCP/GCP - Google Cloud SDK - gcloud.md>)
-    - [GCP Service Accounts](<GCP/GCP API Services.md>)
-    - [GCP Services Table](<GCP/GCP Services Table.md>)
-    - [Google Cloud BigQuery](<GCP/Google Cloud BigQuery.md>)
-    - [Google Colaboratory](<GCP/Google Colaboratory.md>)
+    - [Google Cloud SDK CLI Notes](GCP%20-%20Google%20Cloud%20SDK%20-%20gcloud.md - Google Cloud SDK - gcloud.md>)
+    - [GCP Service Accounts](GCP%20API%20Services.md API Services.md>)
+    - [GCP Services Table](GCP%20Services%20Table.md Services Table.md>)
+    - [Google Cloud BigQuery](Google%20Cloud%20BigQuery.md Cloud BigQuery.md>)
+    - [Google Colaboratory](Google%20Colaboratory.md Colaboratory.md>)
 
 
 ## Business Intelligence (BI)
 
 - [**BI**](BI)
-    - [Alteryx](BI/Alteryx.md)
+    - [Alteryx](Alteryx.md)
 
 ## Web Browsers
 
 - [**Web Browsers**](Browsers)
     - [**Extensions**](Browsers/Extensions)
-    - [Firefox Developer](<Browsers/Firefox Developer.md>)
-    - [Google Chrome](<Browsers/Google Chrome.md>)
-    - [Microsoft Edge](<Browsers/Microsoft Edge.md>)
+    - [Firefox Developer](Firefox%20Developer.md Developer.md>)
+    - [Google Chrome](Google%20Chrome.md Chrome.md>)
+    - [Microsoft Edge](Microsoft%20Edge.md Edge.md>)
 
 ## Command Line (CLI)
 
 - [**CLI**](CLI)
-    - [gcalcli](CLI/gcalcli.md)
-    - [MEGA CMD](<CLI/MEGA CMD.md>)
-    - [Microsoft DOS - Windows Command Line](<CLI/Microsoft DOS.md>)
-    - [Nerdfont](CLI/Nerdfont.md)
-    - [Todoist CLI](CLI/Todoist-CLI.md)
+    - [GCalCLI](GCalCLI.md)
+    - [MEGA CMD](MEGA%20CMD.md CMD.md>)
+    - [Microsoft DOS - Windows Command Line](Microsoft%20DOS.md DOS.md>)
+    - [Nerdfont](Nerdfont.md)
+    - [Todoist CLI](Todoist-CLI.md)
 
 ## Data
 
@@ -118,79 +118,79 @@ Alias: Tools
 
 ### Databases
 - [**Databases**](Data/Databases)
-    - [Database Modeling Tools](<Data/Databases/Database Modeling Tools.md>)
-    - [Elasticsearch](Data/Databases/Elasticsearch.md)
-    - [Hadoop](Data/Databases/Hadoop.md)
-    - [MariaDB](Data/Databases/MariaDB.md)
-    - [MySQL](Data/Databases/MySQL.md)
-    - [PostgreSQL Procedural Language - `PLPGSQL`](Data/Databases/PLPGSQL.md)
-    - [PostgreSQL Tools](<Data/Databases/PostgreSQL Tools.md>)
-    - [PostgreSQL](Data/Databases/PostgreSQL.md)
-    - [Snowflake](Data/Databases/Snowflake.md)
-    - [SQL Server](<Data/Databases/SQL Server.md>)
-    - [SQLite](Data/Databases/SQLite.md)
-    - [T-SQL](Data/Databases/T-SQL.md)
+    - [Database Modeling Tools](Database%20Modeling%20Tools.md Modeling Tools.md>)
+    - [Elasticsearch](Elasticsearch.md)
+    - [Hadoop](Hadoop.md)
+    - [MariaDB](MariaDB.md)
+    - [MySQL](MySQL.md)
+    - [PostgreSQL Procedural Language - `PLPGSQL`](PLPGSQL.md)
+    - [PostgreSQL Tools](PostgreSQL%20Tools.md Tools.md>)
+    - [PostgreSQL](PostgreSQL.md)
+    - [Snowflake](Snowflake.md)
+    - [SQL Server](SQL%20Server.md Server.md>)
+    - [SQLite](SQLite.md)
+    - [T-SQL](T-SQL.md)
     
 ### Database GUIs
 
-- [Database GUIs](<Data/GUIs/Database GUIs.md>)
-    - [DBeaver](Data/GUIs/DBeaver.md)
-    - [PgAdmin](Data/GUIs/PgAdmin.md)
-    - [SQL Server Management Studio](<Data/GUIs/SQL Server Management Studio.md>)
+- [Database GUIs](Database%20GUIs.md GUIs.md>)
+    - [DBeaver](DBeaver.md)
+    - [PgAdmin](PgAdmin.md)
+    - [SQL Server Management Studio](SQL%20Server%20Management%20Studio.md Server Management Studio.md>)
 
 ### Data Utilities
 
 - [**Utilities**](Data/Utilities)
-    - [`dbt` - Data Build Tool](<Data/Utilities/dbt - Data Build Tool.md>)
-    - [SQL Server - DBA MultiTool](<Data/Utilities/SQL Server - DBA MultiTool.md>)
-    - [SQLFlow](Data/Utilities/SQLFlow.md)
+    - [`dbt` - Data Build Tool](dbt%20-%20Data%20Build%20Tool.md - Data Build Tool.md>)
+    - [SQL Server - DBA MultiTool](SQL%20Server%20-%20DBA%20MultiTool.md Server - DBA MultiTool.md>)
+    - [SQLFlow](SQLFlow.md)
 
 ### Docker
 
-- [**Docker**](Docker)
-    - [Docker CLI](<Docker/Docker CLI.md>)
-    - [Docker Compose](<Docker/Docker Compose.md>)
-    - [Docker](Docker/Docker.md)
-    - [Dockerfiles](Docker/Dockerfiles.md)
+- [**Docker**](Docker.md)
+    - [Docker CLI](Docker%20CLI.md CLI.md>)
+    - [Docker Compose](Docker%20Compose.md Compose.md>)
+    - [Docker](Docker.md)
+    - [Dockerfiles](Dockerfiles.md)
 
 ## Documentation
 
 - [**Documentation**](Documentation)
-    - [Git-Cliff](Documentation/Git-Cliff.md)
-    - [MkDocs](Documentation/MkDocs.md)
+    - [Git-Cliff](Git-Cliff.md)
+    - [MkDocs](MkDocs.md)
 
 ## Integrated Development Environments (IDEs)
 
 - [**IDEs**](IDEs)
-    - [Obsidian](IDEs/Obsidian.md)
-    - [RStudio](IDEs/RStudio.md)
-    - [Visual Studio Code](<IDEs/Visual Studio Code.md>)
+    - [Obsidian](Obsidian.md)
+    - [RStudio](RStudio.md)
+    - [Visual Studio Code](Visual%20Studio%20Code.md Studio Code.md>)
 
 ## iOS
 
 - [**iOS**](iOS)
-    - [Airr](iOS/Airr.md)
-    - [Snipd](iOS/Snipd.md)
-    - [Streaks](iOS/Streaks.md)
+    - [Airr](Airr.md)
+    - [Snipd](Snipd.md)
+    - [Streaks](Streaks.md)
 
 ## Programming Languages
 
 - [**Languages**](Languages)
-    - [HTML - HyperText Markup Language](Languages/HTML.md)
-    - [Javascript](Languages/Javascript.md)
-    - [Nodejs](Languages/Nodejs.md)
-    - [ruby](Languages/Ruby.md)
-    - [Rust](Languages/Rust.md)
-    - [SQL](Languages/SQL.md)
-    - [YAML](Languages/YAML.md)
+    - [HTML - HyperText Markup Language](HTML.md)
+    - [Javascript](Javascript.md)
+    - [Nodejs](Nodejs.md)
+    - [ruby](Ruby.md)
+    - [Rust](Rust.md)
+    - [SQL](SQL.md)
+    - [YAML](YAML.md)
 
 ## Linux
 
 - [**Linux**](Linux)
-    - [Bash](Linux/Bash.md)
-    - [oh-my-zsh](Linux/oh-my-zsh.md)
-    - [powerlevel10k](Linux/powerlevel10k.md)
-    - [zsh](Linux/zsh.md)
+    - [Bash](Bash.md)
+    - [oh-my-zsh](oh-my-zsh.md)
+    - [powerlevel10k](powerlevel10k.md)
+    - [zsh](zsh.md)
 
 ## Modeling
 
@@ -204,87 +204,87 @@ Alias: Tools
 
 ## Obsidian
 
-- [**Obsidian**](Obsidian)
+- [**Obsidian**](Obsidian.md)
 
 ### Plugins
 
 - [**Plugins**](Obsidian/Plugins)
-    - [Advanced Tables Obsidian Plugin](<Obsidian/Plugins/Advanced Tables Plugin.md>)
-    - [Citations Plugin](<Obsidian/Plugins/Citations Plugin.md>)
-    - [Dictionary Plugin](<Obsidian/Plugins/Dictionary Plugin.md>)
-    - [Extract Highlights Plugin](<Obsidian/Plugins/Extract Highlights Plugin.md>)
-    - [Kanban Plugin](<Obsidian/Plugins/Kanban Plugin.md>)
-    - [Obsidian Git Plugin](<Obsidian/Plugins/Obsidian Git Plugin.md>)
-    - [Obsidian Highlights](<Obsidian/Plugins/Obsidian Highlights Plugin.md>)
-    - [Readwise Plugin](<Obsidian/Plugins/Readwise Plugin.md>)
+    - [Advanced Tables Obsidian Plugin](Advanced%20Tables%20Plugin.md Tables Plugin.md>)
+    - [Citations Plugin](Citations%20Plugin.md Plugin.md>)
+    - [Dictionary Plugin](Dictionary%20Plugin.md Plugin.md>)
+    - [Extract Highlights Plugin](Extract%20Highlights%20Plugin.md Highlights Plugin.md>)
+    - [Kanban Plugin](Kanban%20Plugin.md Plugin.md>)
+    - [Obsidian Git Plugin](Obsidian%20Git%20Plugin.md Git Plugin.md>)
+    - [Obsidian Highlights](Obsidian%20Highlights%20Plugin.md Highlights Plugin.md>)
+    - [Readwise Plugin](Readwise%20Plugin.md Plugin.md>)
 
 ### Utility
 
 - [**Utility**](Obsidian/Utility)
-    - [obsidian-blog](Obsidian/Utility/obsidian-blog.md)
-    - [obsidian-export](Obsidian/Utility/obsidian-export.md)
+    - [obsidian-blog](obsidian-blog.md)
+    - [obsidian-export](obsidian-export.md)
 
 ## Online Tools
 
 - [**Online**](Online)
-    - [Goodreads](Online/Goodreads.md)
-    - [Reddit](Online/Reddit.md)
-    - [StackOverflow](Online/StackOverflow.md)
-    - [thiscodeWorks](Online/thiscodeWorks.md)
-    - [Twitter](Online/Twitter.md)
+    - [Goodreads](Goodreads.md)
+    - [Reddit](Reddit.md)
+    - [StackOverflow](StackOverflow.md)
+    - [thiscodeWorks](thiscodeWorks.md)
+    - [Twitter](Twitter.md)
 
 ## Package Managers
 
 - [**Package Managers**](<Package Managers>)
-    - [Cargo](<Package Managers/Cargo.md>)
-    - [Chocolatey](<Package Managers/Chocolatey.md>)
-    - [Node - npm](<Package Managers/Node - npm.md>)
-    - [RIM - R Installation Manager CLI](<Package Managers/RIM - R Installation Manager CLI.md>)
-    - [Scoop](<Package Managers/Scoop.md>)
-    - [Winget](<Package Managers/Winget.md>)
+    - [Cargo](Cargo.md Managers/Cargo.md>)
+    - [Chocolatey](Chocolatey.md Managers/Chocolatey.md>)
+    - [Node - npm](Node%20-%20npm.md Managers/Node - npm.md>)
+    - [RIM - R Installation Manager CLI](RIM%20-%20R%20Installation%20Manager%20CLI.md Managers/RIM - R Installation Manager CLI.md>)
+    - [Scoop](Scoop.md Managers/Scoop.md>)
+    - [Winget](Winget.md Managers/Winget.md>)
 
 ## PowerShell
 
-- [**PowerShell**](PowerShell)
-    - [PowerShell Core](<PowerShell/PowerShell Core.md>)
-    - [PowerShell Module - devblackops](<PowerShell/PowerShell Module - devblackops.md>)
-    - [PowerShell Module - ModuleBuilder](<PowerShell/PowerShell Module - ModuleBuilder.md>)
-    - [PowerShell Module - Pester](<PowerShell/PowerShell Module - Pester.md>)
-    - [PowerShell Module - Plaster](<PowerShell/PowerShell Module - Plaster.md>)
-    - [PowerShell Module - PoshCode](<PowerShell/PowerShell Module - PoshCode.md>)
-    - [PowerShell Module - psake](<PowerShell/PowerShell Module - psake.md>)
-    - [PowerShell Module - PSScaffold](<PowerShell/PowerShell Module - PSScaffold.md>)
-    - [PowerShell Module - Stucco](<PowerShell/PowerShell Module - Stucco.md>)
-    - [PowerShell Modules](<PowerShell/PowerShell Modules.md>)
-    - [Windows PowerShell](<PowerShell/Windows PowerShell.md>)
+- [**PowerShell**](2-Areas/MOCs/PowerShell.md)
+    - [PowerShell Core](PowerShell%20Core.md Core.md>)
+    - [PowerShell Module - devblackops](PowerShell%20Module%20-%20devblackops.md Module - devblackops.md>)
+    - [PowerShell Module - ModuleBuilder](PowerShell%20Module%20-%20ModuleBuilder.md Module - ModuleBuilder.md>)
+    - [PowerShell Module - Pester](PowerShell%20Module%20-%20Pester.md Module - Pester.md>)
+    - [PowerShell Module - Plaster](PowerShell%20Module%20-%20Plaster.md Module - Plaster.md>)
+    - [PowerShell Module - PoshCode](PowerShell%20Module%20-%20PoshCode.md Module - PoshCode.md>)
+    - [PowerShell Module - psake](PowerShell%20Module%20-%20psake.md Module - psake.md>)
+    - [PowerShell Module - PSScaffold](PowerShell%20Module%20-%20PSScaffold.md Module - PSScaffold.md>)
+    - [PowerShell Module - Stucco](PowerShell%20Module%20-%20Stucco.md Module - Stucco.md>)
+    - [PowerShell Modules](PowerShell%20Modules.md Modules.md>)
+    - [Windows PowerShell](Windows%20PowerShell.md PowerShell.md>)
 
 ## Productivity
 
 - [**Productivity**](Productivity)
-    - [Evernote](Productivity/Evernote.md)
-    - [Feedly](Productivity/Feedly.md)
-    - [Google Calendar](<Productivity/Google Calendar.md>)
-    - [Hypothesis.io](Productivity/Hypothesis.io.md)
-    - [Instapaper](Productivity/Instapaper.md)
-    - [Kindle](Productivity/Kindle.md)
-    - [Medium](Productivity/Medium.md)
-    - [Readwise](Productivity/Readwise.md)
-    - [Todoist](Productivity/Todoist.md)
-    - [Toggl](Productivity/Toggl.md)
-    - [Zotero](Productivity/Zotero.md)
+    - [Evernote](Evernote.md)
+    - [Feedly](Feedly.md)
+    - [Google Calendar](Google%20Calendar.md Calendar.md>)
+    - [Hypothesis.io](Hypothesis.io.md)
+    - [Instapaper](Instapaper.md)
+    - [Kindle](Kindle.md)
+    - [Medium](Medium.md)
+    - [Readwise](Readwise.md)
+    - [Todoist](Todoist.md)
+    - [Toggl](Toggl.md)
+    - [Zotero](Zotero.md)
 
 ## Python
 
 - [**Python Packages**](<Python Packages>)
-    - [Python Package - ChainLadder](<Python Packages/Python Package - ChainLadder.md>)
-    - [Python Package - Flask](<Python Packages/Python Package - Flask.md>)
-    - [Python Package - keep](<Python Packages/Python Package - keep.md>)
-    - [Python Package - SQLAlchemy](<Python Packages/Python Package - SQLAlchemy.md>)
-    - [Python Package - tryangle](<Python Packages/Python Package - tryangle.md>)
+    - [Python Package - ChainLadder](Python%20Package%20-%20ChainLadder.md Packages/Python Package - ChainLadder.md>)
+    - [Python Package - Flask](Python%20Package%20-%20Flask.md Packages/Python Package - Flask.md>)
+    - [Python Package - keep](Python%20Package%20-%20keep.md Packages/Python Package - keep.md>)
+    - [Python Package - SQLAlchemy](Python%20Package%20-%20SQLAlchemy.md Packages/Python Package - SQLAlchemy.md>)
+    - [Python Package - tryangle](Python%20Package%20-%20tryangle.md Packages/Python Package - tryangle.md>)
 
 ## R
 
-- [**R**](R)
+- [**R**](2-Areas/MOCs/R.md)
 
 ### Actuarial
 
@@ -387,8 +387,8 @@ Alias: Tools
     - [R Package - usethis](<R/R Package Tools/R Package - usethis.md>)
     - [RStudio Package Manager](<R/R Package Tools/RStudio Package Manager.md>)
 
-- [R Packages to Review](<R/R Packages to Review.md>)
-    - [R Packages](<R/R Packages.md>)
+- [R Packages to Review](3-Resources/Tools/Developer%20Tools/R/R%20Packages%20to%20Review.md Packages to Review.md>)
+    - [R Packages](3-Resources/Tools/Developer%20Tools/R/R%20Packages.md Packages.md>)
 
 ## Utility
 
@@ -405,26 +405,26 @@ Alias: Tools
 
 ## Version Control
 
-- [**Version Control**](<Version Control>)
-    - [Git-Extras](<Version Control/Git Extras.md>)
-    - [Git](<Version Control/Git.md>)
-    - [GitHub CLI](<Version Control/GitHub CLI.md>)
-    - [GitHub](<Version Control/GitHub.md>)
-    - [Version Control](<Version Control/Version Control.md>)
+- [**Version Control**](Version%20Control.md Control>)
+    - [Git-Extras](Git%20Extras.md Control/Git Extras.md>)
+    - [Git](Git.md Control/Git.md>)
+    - [GitHub CLI](GitHub%20CLI.md Control/GitHub CLI.md>)
+    - [GitHub](GitHub.md Control/GitHub.md>)
+    - [Version Control](Version%20Control.md Control/Version Control.md>)
 
 ## Windows
 
 - [**Windows**](Windows)
     - [**Office**](Windows/Office)
-        - [Excel - VBA](<Windows/Office/Excel - VBA.md>)
-        - [Excel](Windows/Office/Excel.md)
-        - [Microsoft Access](<Windows/Office/Microsoft Access.md>)
-        - [Microsoft Office](<Windows/Office/Microsoft Office.md>)
-        - [Microsoft Visio](<Windows/Office/Microsoft Visio.md>)
-    - [DotNet](Windows/DotNet.md)
-    - [Visual Studio](<Windows/Visual Studio.md>)
-    - [Windows Subsystem for Linux](<Windows/Windows Subsystem for Linux.md>)
-    - [Windows Terminal](<Windows/Windows Terminal.md>)
+        - [Excel - VBA](Excel%20-%20VBA.md - VBA.md>)
+        - [Excel](Excel.md)
+        - [Microsoft Access](Microsoft%20Access.md Access.md>)
+        - [Microsoft Office](Microsoft%20Office.md Office.md>)
+        - [Microsoft Visio](Microsoft%20Visio.md Visio.md>)
+    - [DotNet](DotNet.md)
+    - [Visual Studio](Visual%20Studio.md Studio.md>)
+    - [Windows Subsystem for Linux](Windows%20Subsystem%20for%20Linux.md Subsystem for Linux.md>)
+    - [Windows Terminal](Windows%20Terminal.md Terminal.md>)
     - [Windows](Windows/Windows.md)
 
 

@@ -21,4 +21,4 @@ Aliases: ["Getting Data From PDFs the Easy Way With R - Open Source Automation",
   matrix_results <- extract_tables(site)
   # get back the tables as data frames, keeping their headers
   df_results <- extract_tables(site, output = "data.frame", header = TRUE)
-    - Tags: [[r]] 
+    - Tags: [[2-Areas/MOCs/R]] 

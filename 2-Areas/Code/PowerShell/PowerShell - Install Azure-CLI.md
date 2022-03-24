@@ -19,7 +19,7 @@ Remove-Item .\AzureCLI.msi
 ## Appendix: Links
 
 - [[2-Areas/Code/_README|Code]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Azure CLI]]
 - [[Development]]
 

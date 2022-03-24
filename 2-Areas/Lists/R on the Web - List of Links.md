@@ -230,9 +230,9 @@ Miscellaneous
 
 ## Appendix: Links
 
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[R Shiny]]
-- [[R Package Development Resources]]
+- [[R Package Development Resources List]]
 - [[Development]]
 
 ***

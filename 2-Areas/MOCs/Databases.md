@@ -70,7 +70,7 @@ Alias: "Databases"
 -   [[SQL Server Management Studio]]
 -   [[DBeaver]]
 -   [[BeeKeeper]]
--   [[pgAdmin]]
+-   [[PgAdmin]]
 -   [[dbgate]]
 
 ### Documentation
@@ -116,13 +116,13 @@ Alias: "Databases"
 
 ### R
 
--   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgreSQL]]
--   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI]]
--   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - dbx]]
--   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - pool]]
+-   [[R Package - RPostgreSQL]]
+-   [[R Package - DBI]]
+-   [[R Package - dbx]]
+-   [[R Package - pool]]
 -   [[R Package - sqlmlutils]]
--   [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - dbplyr]]
--   [[3-Resources/Tools/R/R Packages/General R Packages/R Package - config]]
+-   [[R Package - dbplyr]]
+-   [[R Package - config]]
 
 -   [[R - Connect Shiny to PostgreSQL Database]]
 

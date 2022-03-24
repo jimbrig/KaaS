@@ -112,9 +112,9 @@ Used to open Windows programs. For example, **START C:\WINDOW\CALC** would run t
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Add a GUI to Batch File Scripts on Windows]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Development]]
-- [[CLI Tools]]
+- [[CLI Tools List]]
 
 
 *Backlinks:*

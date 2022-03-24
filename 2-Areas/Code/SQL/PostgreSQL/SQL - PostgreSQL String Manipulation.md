@@ -74,9 +74,9 @@ SELECT TRIM('     Hello, world!     ')
 
 ## `SUBSTRING()`
 
-[[Python]] doesn't have a function that extracts a sub-string since we can just do it by directly indexing through the string. 
+[[2-Areas/MOCs/Python]] doesn't have a function that extracts a sub-string since we can just do it by directly indexing through the string. 
 
-If you're familiar with [[R]] though, then you'll recognize this is similar to the `substr()` function.
+If you're familiar with [[2-Areas/MOCs/R]] though, then you'll recognize this is similar to the `substr()` function.
 
 Syntax for this function:
 
@@ -120,7 +120,7 @@ will return `'friend! Hehe.`
 
 ## Concatenation
 
-This is the equivalent of string concatenation in Python using `+`. The `+` in [[Python]] is replaced by `||` in [[PostgreSQL]]. 
+This is the equivalent of string concatenation in Python using `+`. The `+` in [[2-Areas/MOCs/Python]] is replaced by `||` in [[PostgreSQL]]. 
 
 Alternatively, you can use the `CONCAT()` function.
 

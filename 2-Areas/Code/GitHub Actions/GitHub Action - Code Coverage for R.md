@@ -27,11 +27,11 @@ Sources:
 - [[Git-Cliff]]
 - [[Keep a Changelog]]
 - [[Git]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[Code Coverage]]
-- [[3-Resources/Tools/R/R Packages/R Package Tools/R Package - covr]]
-- [[3-Resources/Tools/R/R Packages/R Package Tools/R Package - usethis]]
-- [[R Package Development Resources]]
+- [[R Package - covr]]
+- [[R Package - usethis]]
+- [[R Package Development Resources List]]
 
 *Backlinks:*
 

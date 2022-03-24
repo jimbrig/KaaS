@@ -22,8 +22,11 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 
 ## Contents
 
-- [[#Maps of Content|Maps of Content]]
-- [[#Lists|Lists]]
+- [[#Where to Browse Next?|Where to Browse Next?]]
+	- [[#Latest|Latest]]
+	- [[#Maps of Content|Maps of Content]]
+	- [[#Code Snippets|Code Snippets]]
+	- [[#Lists|Lists]]
 - [[#Roadmap|Roadmap]]
 - [[#About|About]]
 	- [[#Notes|Notes]]
@@ -31,8 +34,18 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 - [[#Resources|Resources]]
 
 
+## Where to Browse Next?
 
-## Maps of Content
+### Latest
+
+- See my latest added [[2-Areas/Code/_README|Code]] Snippets.
+
+- New [[2-Areas/Content/_README|Content]]:
+    - Plus my [[Blog Post Ideas List]]
+
+- Added my [[2022 Learning List]]
+
+### Maps of Content
 
 Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault efficiently: 
 
@@ -43,37 +56,77 @@ Utilize [[2-Areas/MOCs/_README|Maps of Content]] (MOCs) to navigate the vault ef
 	- [[Databases]]
 	- [[Web Development]]
 	- [[Software Development]]
-	- [[R]] 
+	- [[2-Areas/MOCs/R]] 
 	- [[R Shiny]]
-	- [[Python]]
-	- [[PowerShell]]
+	- [[2-Areas/MOCs/Python]]
+	- [[2-Areas/MOCs/PowerShell]]
 - [[Productivity]]
 - [[Personal Knowledge Management]]
 - [[Mathematics and Statistics]]
 - [[Finance]]
 
-## Lists
+### Code Snippets
+
+See the [[2-Areas/Code/_README|Code]] folder's README for details on all of the code snippets included inside this vault. 
+
+Currently I have code snippets for the following categories:
+
+- [[2-Areas/Code/PowerShell/_README|PowerShell]] (Core)
+- [[2-Areas/Code/Python/_README|Python]]
+- [[2-Areas/Code/R/_README|R]]
+
+- [[2-Areas/Code/SQL/_README|SQL Code]]
+    - [[2-Areas/Code/SQL/General/_README|SQL - General]]
+    - [[2-Areas/Code/SQL/PostgreSQL/_README|PostgreSQL SQL Code Snippets]] 
+    - [[2-Areas/Code/SQL/SQL Server/_README|SQL Server]]
+    - [[2-Areas/Code/SQL/BigQuery/_README|BigQuery]]
+
+- [[2-Areas/Code/Windows/_README|Windows]]
+    - [[2-Areas/Code/Windows/Miscellaneous/_README|Miscellaneous]]
+    - [[2-Areas/Code/Windows/Batch/_README|Batch]]
+    - [[2-Areas/Code/Windows/Windows CMD/_README|Windows Command Line]]
+    - [[2-Areas/Code/Windows/Run/_README|Run]]
+    - [[2-Areas/Code/Windows/Registry/_README|Registry]]
+    - [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
+    - [[2-Areas/Code/Windows/Windows PowerShell/_README|Windows PowerShell]]
+
+Plus:
+
+- [[2-Areas/Code/Bash/_README|Bash]]
+- [[2-Areas/Code/CSS/_README|CSS]]
+- [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]]
+- [[2-Areas/Code/Javascript/_README|Javascript Code]]
+- [[2-Areas/Code/Pandoc/_README|Pandoc]]
+
+### Lists
 
 Under [[2-Areas/Lists/_README|2-Areas/Lists]] I have curated lists for various topics you may find helpful:
 
--   [[Actuarial Development Master Resource List]]
--   [[Advanced Programming Concepts]]
--   [[Awesome R Package Development]]
--   [[CLI Tools]]
--   [[Data Engineering Master List of Resources]]
--   [[Excel Automation Resources]]
--   [[List of Python Flask Resources]]
--   [[Productivity Apps]]
--   [[R Database Packages]]
--   [[Online Developer Tools]]
--   [[Ten Step GTD Setup List]]
--   [[SQL Server List of Tools and Scripts]]
--   [[REST API Resources]]
--   [[R Shiny Packages]]
--   [[R Package Development Resources]]
--   [[R on the Web - List of Links]]
--   [[Learn to Code Platforms Master List]]
+[[2-Areas/Lists/_README|Lists]]:
 
+- [[Actuarial Development Master Resource List]]
+- [[Advanced Programming Concepts List]]
+- [[AWS Components Master List]]
+- [[CLI Tools List|Command Line Tools List]]
+- [[Data Engineering Master List of Resources]]
+- [[Database GUIs List]]
+- [[Database Modeling Tools]]
+- [[Excel Automation Resources]]
+- [[Learn to Code Platforms Master List]]
+- [[REST API Resources List]]
+- [[Learn to Code Platforms Master List]]
+- [[List of Python Flask Resources]]
+- [[Obsidian Plugins List]]
+- [[Online Developer Tools List]]
+- [[Awesome R Package Development List]]
+- [[Productivity Apps List]]
+- [[R - Database Packages List]]
+- [[Online Developer Tools List]]
+- [[Ten Step GTD Setup List]]
+- [[SQL Server List of Tools and Scripts]]
+- [[R Shiny Packages List]]
+- [[R Package Development Resources List]]
+- [[R on the Web - List of Links]]
 
 ## Roadmap
 

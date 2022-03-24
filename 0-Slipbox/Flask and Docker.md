@@ -179,7 +179,7 @@ ENTRYPOINT [ "python", "/cookiecutter_spec.py" ]
 #### Related
 
 - [[Development]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 
 
 *Backlinks:*

@@ -12,7 +12,7 @@ Alias: "<% tp.file.title %>"
 #### Related
 
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 
 
 *Backlinks:*

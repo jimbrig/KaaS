@@ -18,7 +18,7 @@ Alias: ["<% tp.file.title %>"]
 ## Appendix: Links
 
 - [[2-Areas/Code/_README|Code]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 - [[Development]]
 
 *Backlinks:*

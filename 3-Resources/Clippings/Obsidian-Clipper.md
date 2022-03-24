@@ -1,5 +1,3 @@
-
-
 ---
 Date: 2022-02-13
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>

@@ -45,9 +45,9 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
   Hemingway called it "Leaving water in the well." ([View Tweet](https://twitter.com/joshduffney/status/1471558822535827466))
 - @joshduffney: You don't need a college degree if you love reading books. ([View Tweet](https://twitter.com/joshduffney/status/1472220683467825154))
 - @fortelabs: What is an extremely obscure controversial opinion from your field that no one outside of it would even understand ? ([View Tweet](https://twitter.com/fortelabs/status/1478572167138844674))
-- @guyrleech: mstsc/console logon to a VM wasn't working so I made poor man's "top" for Windows using #PowerShell, run once PS remoted to VM via Enter-PSSession
+- @guyrleech: mstsc/console logon to a VM wasn't working so I made poor man's "top" for Windows using #Topic/Dev/PowerShell, run once PS remoted to VM via Enter-PSSession
   while($true) { cls ; '' ; ps |sort cpu -Descending|select -first 20 |ft -auto; Start-Sleep -Milliseconds 500 } https://t.co/mZeUck9mIW ([View Tweet](https://twitter.com/guyrleech/status/1478773221642186757))
-- @AnthonyBaker: This looks interesting for those of us working with Apple Shortcuts as part of our #pkm stack and with tools like @craftdocsapp and @obsdmd (among others). cc @chris_lawley @curtismchale https://t.co/OK1Gzmwd78 ([View Tweet](https://twitter.com/AnthonyBaker/status/1497453994058268673))
+- @AnthonyBaker: This looks interesting for those of us working with Apple Shortcuts as part of our #Topic/PKM stack and with tools like @craftdocsapp and @obsdmd (among others). cc @chris_lawley @curtismchale https://t.co/OK1Gzmwd78 ([View Tweet](https://twitter.com/AnthonyBaker/status/1497453994058268673))
 - @gh_trending_: 📦 the-book-of-secret-knowledge
   👤 @trimstray
   ⭐ 60,749 (+119)
@@ -98,7 +98,7 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
 - @TfTHacker: Sleep is so important to clear thinking. 
   I declare sleep as an official and powerful Tool for Thought.
   Do you agree?
-  https://t.co/2qJGPvehFs #TfT ([View Tweet](https://twitter.com/TfTHacker/status/1500557513095327751))
+  https://t.co/2qJGPvehFs ([View Tweet](https://twitter.com/TfTHacker/status/1500557513095327751))
 - @fortelabs: My workflow:
   Capture: @readwiseio
   Organize: @evernote
@@ -109,7 +109,7 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
 - @obsdmd: We now have an online page to see & share plugins! 🔌
   https://t.co/Mgo8XYDdwK
   Links to plugins will directly open Obsidian if the viewer has Obsidian installed. ([View Tweet](https://twitter.com/obsdmd/status/1500862666310656003))
-- @henrikbengtsson: Fresh out of the #RStats oven:
+- @henrikbengtsson: Fresh out of the #Topic/Dev/R oven:
   It is now (= R-devel to become R 4.2.0) possible to use underscore (_) as a placeholder on the right-hand side (RHS) of a forward pipe, e.g.
   mtcars |> subset(cyl == 4) |> lm(mpg ~ disp, data = _)
   https://t.co/Yc0xNDJgwS https://t.co/1nuuBWFZdf 

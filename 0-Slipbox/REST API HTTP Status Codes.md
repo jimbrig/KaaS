@@ -166,9 +166,9 @@ This page is created from HTTP status code information found at [ietf.org](https
 ---
 
 [[0-Slipbox/_README]]
-[[REST API Resources]]
+[[REST API Resources List]]
 [[REST API HTTP Status Codes]]
 [[REST API Resource Naming]]
 [[REST API Idempotence]]
-[[3-Resources/Tools/R/R Packages/API R Packages/R Package - plumber]]
+[[R Package - plumber]]
 [[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]

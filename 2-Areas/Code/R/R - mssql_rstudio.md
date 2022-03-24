@@ -68,8 +68,8 @@ dbGetQuery(con,'
 
 - [[Code]]
 - [[Development]]
-- [[R]]
-- [[R Database Packages]]
+- [[2-Areas/MOCs/R]]
+- [[R - Database Packages List]]
 
 
 *Backlinks:*

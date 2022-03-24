@@ -106,7 +106,7 @@ PowerShell Standard Module       psmodule           [C#]              Library/Po
 #### Related
 
 - [[Development]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

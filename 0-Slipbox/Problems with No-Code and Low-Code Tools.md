@@ -35,7 +35,7 @@ It's just very slow and cumbersome to run, especially as you get to more complex
 
 ***
 
-Ultimately the big value add of [[Alteryx]] is a low/no code approach to building data pipelines and creating business processes (think 'every month we need to grab x financial data from here, do these transformations, and outputting some insights). As you mentioned you can use it with [[R]] or [[Python]], but its unnecessary for a data scientist or software engineer already experienced with creating and managing data pipelines manually (and as pointed out makes the process slower and more cumbersome).
+Ultimately the big value add of [[Alteryx]] is a low/no code approach to building data pipelines and creating business processes (think 'every month we need to grab x financial data from here, do these transformations, and outputting some insights). As you mentioned you can use it with [[2-Areas/MOCs/R]] or [[2-Areas/MOCs/Python]], but its unnecessary for a data scientist or software engineer already experienced with creating and managing data pipelines manually (and as pointed out makes the process slower and more cumbersome).
 
 ***
 
@@ -43,7 +43,7 @@ Alteryx has certain advantages over Python and R, but the majority of them are a
 
 ***
 
-For data prep and manipulation, [[Alteryx]] is always going to be considerably slower than pure [[Python]] or [[R]]. 
+For data prep and manipulation, [[Alteryx]] is always going to be considerably slower than pure [[2-Areas/MOCs/Python]] or [[2-Areas/MOCs/R]]. 
 
 There is a bit of overhead it requires to run it also has issues with multi-threading or multi-core, parallel processing. 
 

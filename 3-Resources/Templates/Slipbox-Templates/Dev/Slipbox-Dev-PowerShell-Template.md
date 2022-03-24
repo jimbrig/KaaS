@@ -12,7 +12,7 @@ Alias: "<% tp.file.title %>"
 #### Related
 
 - [[Development]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

@@ -22,9 +22,9 @@ Alias: ["<% tp.file.title %>"]
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 - [[Microsoft]]
-- [[2-Areas/Code/Registry/_README|Registry]]
+- [[2-Areas/Code/Windows/Registry/_README|Registry]]
 
 *Backlinks:*
 

@@ -9,7 +9,7 @@ Alias: "Data Versioning"
 
 *Source: [leeper/data-versioning: Collecting thoughts about data versioning](https://github.com/leeper/data-versioning)*
 
-See Also: [[Databases]] | [[Data Science]] | [[Version Control]]
+See Also: [[Databases]] | [[Data Science]] | [[3-Resources/Tools/Developer Tools/Version Control/_README]]
 
 ## Contents
 

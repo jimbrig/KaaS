@@ -12,7 +12,7 @@ Alias: "Documenting PowerShell Modules"
 #### Related
 
 - [[Development]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

@@ -56,7 +56,7 @@ Due to the dominance of Windows in most modern-day actuarial departments, FASLR 
 #### Related
 
 - [[Development]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 - [[Actuarial Science]]
 - [[CAS - Casualty Actuarial Society]]
 

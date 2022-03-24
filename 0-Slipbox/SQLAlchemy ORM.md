@@ -12,7 +12,7 @@ Alias: "SQLAlchemy ORM"
 #### Related
 
 - [[Development]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 
 
 *Backlinks:*

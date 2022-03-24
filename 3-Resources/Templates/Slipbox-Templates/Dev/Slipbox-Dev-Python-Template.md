@@ -12,7 +12,7 @@ Alias: "<% tp.file.title %>"
 ## Appendix: Links
 
 - [[Development]]
-- [[Python]]
+- [[2-Areas/MOCs/Python]]
 
 
 *Backlinks:*

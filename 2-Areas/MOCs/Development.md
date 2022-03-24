@@ -44,15 +44,15 @@ Alias: "Development"
 
 **Languages and Frameworks:**
 
-- [[R]] & [[R Shiny]]
-- [[Python]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/R]] & [[R Shiny]]
+- [[2-Areas/MOCs/Python]]
+- [[2-Areas/MOCs/PowerShell]]
 
 ## Languages and Frameworks
 
-- [[R]] & [[R Shiny]]
-- [[Python]]
-- [[PowerShell]], [[PowerShell Core]], [[Windows PowerShell]], [[PowerShell Modules]]
+- [[2-Areas/MOCs/R]] & [[R Shiny]]
+- [[2-Areas/MOCs/Python]]
+- [[2-Areas/MOCs/PowerShell]], [[PowerShell Core]], [[Windows PowerShell]], [[PowerShell Modules]]
 - [[Nodejs]]
 
 
@@ -60,8 +60,8 @@ Alias: "Development"
 
 ### Lists
 
-- [[Online Developer Tools]]
-- [[CLI Tools]]
+- [[Online Developer Tools List]]
+- [[CLI Tools List]]
 
 ### Version Control
 

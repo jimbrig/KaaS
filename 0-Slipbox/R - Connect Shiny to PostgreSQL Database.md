@@ -21,8 +21,8 @@ Alias: "R - Connect Shiny to PostgreSQL Database"
 
 ## Install Necessary Packages
 
-- [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI]]
-- [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgreSQL]]
+- [[R Package - DBI]]
+- [[R Package - RPostgreSQL]]
 
 ```R
 pak::pak(c("DBI", "RPostgreSQL"))
@@ -40,7 +40,7 @@ pak::pak(c("DBI", "RPostgreSQL"))
 
 ## Connect to the Database
 
-In R, to connect to a database using [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI|DBI]], you create an [[R - R6|R6]] object housing the connection, in this case the connection object is assigned to `conn`. 
+In R, to connect to a database using [[R Package - DBI|DBI]], you create an [[R - R6|R6]] object housing the connection, in this case the connection object is assigned to `conn`. 
 
 ```R
 library(DBI)
@@ -76,9 +76,9 @@ DBI::dbGetQuery(conn, "SELECT * FROM <table name> LIMIT 10")
 ## Appendix: Links
 
 - [[Development]]
-- [[R]]
+- [[2-Areas/MOCs/R]]
 - [[R Shiny]]
 - [[Databases]]
 - [[PostgreSQL]]
-- [[R Database Packages]]
-- [[R Shiny Packages]]
+- [[R - Database Packages List]]
+- [[R Shiny Packages List]]

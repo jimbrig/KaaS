@@ -106,7 +106,7 @@ In addition to industry-leading price performance for analytics services, S3 int
 ## Appendix: Links
 
 - [[Build a Lakehouse Architecture on AWS]]
-- [[3-Resources/Tools/AWS/_README|Amazon Web Services]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|Amazon Web Services]]
 - [[AWS S3]]
 - [[Data Lake]]
 - [[Data Engineering]]

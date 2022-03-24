@@ -21,7 +21,7 @@ Retrieve Local Public IPv4 IP Address via <https://ipify.org>'s API:
 
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 

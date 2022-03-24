@@ -15,8 +15,8 @@ Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 
 - [[Tools]]
 - [[Development]]
-- [[R]]
-- [[3-Resources/Tools/R/R Packages/R Packages]]
+- [[2-Areas/MOCs/R]]
+- [[3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages]]
 
 
 *Backlinks:*

@@ -41,10 +41,10 @@ Function Open-RProject { Rscript -e 'jimstools::open_project()' }
 - [[Windows]]
 - [[Microsoft DOS]]
 - [[Command Line]]
-- [[PowerShell]]
+- [[2-Areas/MOCs/PowerShell]]
 
 *Backlinks:*
 
 ```dataview
-list from [[PowerShell - Usefule Profile Utility Functions]] AND -"Changelog"
+list from [[2-Areas/MOCs/PowerShell - Usefule Profile Utility Functions]] AND -"Changelog"
 ```

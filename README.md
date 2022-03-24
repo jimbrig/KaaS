@@ -20,15 +20,13 @@ Tags: ["#Type/Readme"]
 
 
 <h1 align="center">KaaS - Knowledge as a Service</h1>
-<h4 align="center">Curated Knowledge for the Masses</h4>
-<h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
-<br>
 <p align="center">
     <a href="https://publish.obsidian.md/kaas-published/">KaaS - Obsidian Publish</a> | 
     <a href="https://kaas.jimbrig.com">KaaS - GitHub Pages</a> | 
     <a href="https://github.com/jimbrig/kaas">GitHub Repo</a>
 </p>
-<br>
+<h4 align="center">Curated Knowledge for the Masses</h4>
+<h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
 <p align="center">
     <img src="https://i.imgur.com/FB2il3N.png"; height="30%"; width="30%"/>
 </p>

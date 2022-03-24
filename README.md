@@ -51,19 +51,17 @@ Inside is my personal, customized, digital knowledge note-base structured loosel
 
 Consider this my *Digital Garden*. It is a garden that needs to be maintained and cared for overtime to produce fruitful outcomes.
 
-***
-
 ## Contents
 
-- [[#Where to Browse Next?|Where to Browse Next?]]
-	- [[#Latest|Latest]]
-	- [[#Maps of Content|Maps of Content]]
-	- [[#Code Snippets|Code Snippets]]
-	- [[#Lists|Lists]]
+- [[#Welcome|Welcome]]
 - [[#Roadmap|Roadmap]]
 - [[#About|About]]
-	- [[#Notes|Notes]]
+	- [[#Publishing Setup|Publishing Setup]]
 	- [[#Structure: Maps of Content|Structure: Maps of Content]]
+- [[#Content|Content]]
+	- [[#Code Snippets|Code Snippets]]
+	- [[#Lists|Lists]]
+	- [[#Tools|Tools]]
 
 ## Roadmap
 

@@ -1,12 +1,13 @@
 ---
 Author: AB Satyaprakash
-Source: [10 Free must-use Tools for Developers you probably have never of…](https://medium.com/nerd-for-tech/10-free-must-use-tools-for-developers-you-probably-have-never-of-ac6a78e87766)
-Date: [[2022-03-23]]
-Published: 
+Date: 2022-03-23
 Tags: ["#Type/Clipping"]
 ---
 
-## Boost your productivity 10x with these 10 tools
+
+# Boost your productivity 10x with these 10 tools
+
+*Source: [10 Free must-use Tools for Developers you probably have never of…](https://medium.com/nerd-for-tech/10-free-must-use-tools-for-developers-you-probably-have-never-of-ac6a78e87766)*
 
 As developers, we often have a lot of requirements, be it proper documentation, easy snippets, design aspects or content creation! And just like functions in our code, ready made easy to use tools are always a great bonus! In this article let’s look at 10 tools that will blow your mind and amplify your productivity.
 

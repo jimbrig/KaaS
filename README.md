@@ -6,29 +6,32 @@ Tags: ["#Type/Readme"]
 ---
 
 <head>
-<link rel="apple-touch-icon" sizes="76x76" href="/.assets/apple-touch-icon.png?v=1.0">
-<link rel="icon" type="image/png" sizes="32x32" href="/.assets/favicon-32x32.png?v=1.0">
-<link rel="icon" type="image/png" sizes="16x16" href="/.assets/favicon-16x16.png?v=1.0">
-<link rel="manifest" href="/.assets/site.webmanifest?v=1.0">
-<link rel="mask-icon" href="/.assets/safari-pinned-tab.svg?v=1.0" color="#5bbad5">
-<link rel="shortcut icon" href="/.assets/favicon.ico?v=1.0">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon.png?v=2.0">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2.0">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2.0">
+<link rel="manifest" href="/site.webmanifest?v=2.0">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=2.0" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=2.0">
 <meta name="apple-mobile-web-app-title" content="KaaS">
 <meta name="application-name" content="KaaS">
 <meta name="msapplication-TileColor" content="#2b5797">
-<meta name="msapplication-config" content="/.assets/browserconfig.xml?v=1.0">
 <meta name="theme-color" content="#ffffff">
 </head>
 
 
 <h1 align="center">KaaS - Knowledge as a Service</h1>
+<h4 align="center">Curated Knowledge for the Masses</h4>
+<h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
 <br>
 <p align="center">
-    <a href="https://publish.obsidian.md/kaas/">KaaS - Obsidian Publish</a> | 
+    <a href="https://publish.obsidian.md/kaas-published/">KaaS - Obsidian Publish</a> | 
     <a href="https://kaas.jimbrig.com">KaaS - GitHub Pages</a> | 
     <a href="https://github.com/jimbrig/kaas">GitHub Repo</a>
 </p>
 <br>
-<center><img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/></center>
+<p align="center">
+    <img src="https://i.imgur.com/FB2il3N.png"; height="30%"; width="30%"/>
+</p>
 <br>
 <p align="center">
     <a href="https://github.com/jimbrig/KaaS/actions/workflows/convert-links.yml">

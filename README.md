@@ -5,12 +5,28 @@ Alias: "KaaS"
 Tags: ["#Type/Readme"]
 ---
 
-# KaaS - Knowledge as a Service
-
-*[KaaS - Obsidian Publish (publish.obsidian.md/kaas/)] | [KaaS - GitHub Pages (kaas.jimbrig.com)]*
-
+<h1 align="center">KaaS - Knowledge as a Service</h1>
+<br>
+<p align="center">
+    <a href="https://publish.obsidian.md/kaas/">KaaS - Obsidian Publish</a> | 
+    <a href="https://kaas.jimbrig.com">KaaS - GitHub Pages</a> | 
+    <a href="https://github.com/jimbrig/kaas">GitHub Repo</a>
+</p>
+<br>
 <center><img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/></center>
-
+<br>
+<p align="center">
+    <a href="https://github.com/jimbrig/KaaS/actions/workflows/convert-links.yml">
+        <img src="https://github.com/jimbrig/KaaS/actions/workflows/convert-links.yml/badge.svg"></img>
+    </a>
+    <a href="https://github.com/jimbrig/KaaS/actions/workflows/mkdocs.yml">
+        <img src="https://github.com/jimbrig/KaaS/actions/workflows/mkdocs.yml/badge.svg"></img>
+    </a>
+    <a href="https://github.com/jimbrig/KaaS/actions/workflows/pages/pages-build-deployment">
+        <img src="https://github.com/jimbrig/KaaS/actions/workflows/pages/pages-build-deployment/badge.svg"></img>
+    </a>
+</p>    
+<br>
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 
@@ -31,7 +47,7 @@ Consider this my *Digital Garden*. It is a garden that needs to be maintained an
 - [[#About|About]]
 	- [[#Notes|Notes]]
 	- [[#Structure: Maps of Content|Structure: Maps of Content]]
-- [[#Resources|Resources]]
+
 
 
 ## Where to Browse Next?
@@ -174,12 +190,6 @@ Some Maps of Content to consider are:
 -   [[Productivity]]
 
 The others are still works in progress as I collect and curate more notes into the vault.
-
-## Resources
-
-*View my Links:*
-
-<iframe style="border: 0; width: 100%; height: 550px;" allowfullscreen frameborder="0" src="https://raindrop.io/jimbrig/embed/me/theme=dark"></iframe>
 
 ***
 

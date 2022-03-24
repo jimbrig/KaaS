@@ -44,7 +44,8 @@ Tags: ["#Type/Readme"]
         <img src="https://github.com/jimbrig/KaaS/actions/workflows/pages/pages-build-deployment/badge.svg"></img>
     </a>
 </p>    
-<br>
+
+## Welcome
 
 Welcome to my personal knowledge base - **KaaS** or Knowledge as a Service.
 

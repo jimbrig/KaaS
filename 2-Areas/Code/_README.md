@@ -18,87 +18,72 @@ tree_title: "Code Snippets"
 
 ## Contents
 
-- [[#Contents|Contents]]
-- [[#Bash|Bash]]
 - [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
 - [[#GitHub Actions|GitHub Actions]]
 - [[#JavaScript|JavaScript]]
-- [[#PowerShell (Core)|PowerShell (Core)]]
-- [[#Python|Python]]
-- [[#R|R]]
-- [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
-	- [[#BigQuery|BigQuery]]
-	- [[#PostgreSQL|PostgreSQL]]
-	- [[#Microsoft SQL Server (MSSQL)|Microsoft SQL Server (MSSQL)]]
-- [[#Windows|Windows]]
-	- [[#Batch Scripts|Batch Scripts]]
-	- [[#Miscellaneous|Miscellaneous]]
-	- [[#Registry (RegEdit)|Registry (RegEdit)]]
-	- [[#Run Commands|Run Commands]]
-	- [[#Visual Basic|Visual Basic]]
-		- [[#Visual Basic for Applications (VBA) - Excel VBA|Visual Basic for Applications (VBA) - Excel VBA]]
-	- [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
-	- [[#Windows PowerShell|Windows PowerShell]]
-- [[#MindMap|MindMap]]
-- [[#Appendix: Links|Appendix: Links]]
-
-## Contents
-
-- [[#Bash|Bash]]
-- [[#Cascading Style Sheets (CSS)|Cascading Style Sheets (CSS)]]
-- [[#GitHub Actions|GitHub Actions]]
-- [[#JavaScript|JavaScript]]
+- [[#Linux|Linux]]
+	- [[#Linux#Bash|Bash]]
+	- [[#Linux#WSL|WSL]]
 - [[#Pandoc|Pandoc]]
 - [[#PowerShell (Core)|PowerShell (Core)]]
 - [[#Python|Python]]
 - [[#R|R]]
 - [[#Structured Query Language (SQL)|Structured Query Language (SQL)]]
-    - [[#BigQuery|BigQuery]]
-	- [[#PostgreSQL|PostgreSQL]]
-	- [[#Microsoft SQL Server (MSSQL)|Microsoft SQL Server (MSSQL)]]
+	- [[#Structured Query Language (SQL)#BigQuery|BigQuery]]
+	- [[#Structured Query Language (SQL)#PostgreSQL|PostgreSQL]]
+	- [[#Structured Query Language (SQL)#Microsoft SQL Server (MSSQL / T-SQL)|Microsoft SQL Server (MSSQL / T-SQL)]]
 - [[#Windows|Windows]]
-    - [[#Batch Scripts|Batch Scripts]]
-    - [[#Miscellaneous|Miscellaneous]]
-    - [[#Registry (RegEdit)|Windows Registry (RegEdit)]]
-    - [[#Run Commands|Run Commands]]
-    - [[#Visual Basic]]
-        - [[#Visual Basic for Applications (VBA)|Visual Basic for Applications (VBA)]]
-    - [[#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
-    - [[#Windows PowerShell|Windows PowerShell]]
+	- [[#Windows#Batch Scripts|Batch Scripts]]
+	- [[#Windows#Miscellaneous|Miscellaneous]]
+	- [[#Windows#Registry (RegEdit)|Registry (RegEdit)]]
+	- [[#Windows#Run Commands|Run Commands]]
+	- [[#Windows#Visual Basic|Visual Basic]]
+		- [[#Visual Basic#Visual Basic for Applications (VBA) - Excel VBA|Visual Basic for Applications (VBA) - Excel VBA]]
+	- [[#Windows#Windows Command Line (CMD/MS-DOS)|Windows Command Line (CMD/MS-DOS)]]
+	- [[#Windows#Windows PowerShell|Windows PowerShell]]
 - [[#MindMap|MindMap]]
 - [[#Appendix: Links|Appendix: Links]]
 
 
-## Bash
-
-- [**Bash**](Bash.md) - Linux Bash Code Snippets.
-    - [Bash - Git-Auto](Bash%20-%20Git-Auto.md - Git-Auto.md>)
-    - [Bash - Install NVM](Bash%20-%20Install%20NVM.md - Install NVM.md>)
-    - [Bash - Install oh-my-zsh](Bash%20-%20Install%20oh-my-zsh.md - Install oh-my-zsh.md>)
-   
 ## Cascading Style Sheets (CSS)
 
 - [[2-Areas/Code/CSS/_README|CSS]] - CSS Code Snippets.
-    - [CSS - Default Obsidian Theme Styling](<CSS/CSS - Default Obsidian Theme Styling.md>)
-    - [CSS - GitHub Obsidian Theme](<CSS/CSS - GitHub Obsidian Theme.md>)
+    - [[CSS - Default Obsidian Theme Styling]]
+    - [[CSS - GitHub Obsidian Theme]] 
 
 ## GitHub Actions
 
 - [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]] - GitHub Action Code Snippets.
-    - [GitHub Action - Build-Check-Install R Package](<GitHub Actions/GitHub Action - Build-Check-Install R Package.md>)
-    - [Code Coverage for R GitHub Action](<GitHub Actions/GitHub Action - Code Coverage for R.md>)
-    - [GitHub Action - git-cliff](<GitHub Actions/GitHub Action - git-cliff.md>): automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
-    - [GitHub Action - pkgdown](<GitHub Actions/GitHub Action - pkgdown.md>)
-    - [GitHub Action - R Package Validation](<GitHub Actions/GitHub Action - R Package Validation.md>)
-    - [GitHub Action - R Spelling Checks](<GitHub Actions/GitHub Action - R Spelling Checks.md>)
-    - [GitHub Action - Release](<GitHub Actions/GitHub Action - Release.md>)
-    - [GitHub Action - roxygen](<GitHub Actions/GitHub Action - roxygen.md>)
-    - [GitHub Actions for R](<GitHub Actions/GitHub Actions for R.md>)
+    - [[GitHub Actions/GitHub Action - Build-Check-Install R Package]]: Build, Check, and Install R Package
+    - [[GitHub Actions/GitHub Action - Code Coverage for R]]: Run Code Coverage on an R Package
+    - [[GitHub Actions/GitHub Action - git-cliff]]: automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
+    - [[GitHub Actions/GitHub Action - pkgdown]]: Generate and deploy a dedicated [[R Package - pkgdown|pkgdown]] Documentation Website
+    - [[GitHub Actions/GitHub Action - R Package Validation]]: Perform R Package Validations
+    - [[GitHub Actions/GitHub Action - R Spelling Checks]]: Run `spelling::spellcheck()` on your R Package
+    - [[GitHub Actions/GitHub Action - Release]]: Create a new GitHub Release
+    - [[GitHub Actions/GitHub Action - roxygen]]: Document your R package via [[R Package - roxygen2|roxygen2]]
+    - [[GitHub Actions/GitHub Actions for R]]: List of various R Github Actions
 
 ## JavaScript
 
 - [[2-Areas/Code/Javascript/_README|Javascript Code]] - Javascript Code Snippets.
-    - [Javascript - Remove all YouTube Watch Later Videos](<Javascript/Javascript - Remove all YouTube Watch Later Videos.md>)
+    - [[Javascript - Remove all YouTube Watch Later Videos]]
+    - [[JavaScript - Obsidian Web Clipper Bookmarklet]]
+
+## Linux
+
+### Bash
+
+- [[2-Areas/Code/Linux/Bash/_README|Bash]] - Linux Bash Code Snippets.
+    - [[Bash - Git-Auto]]
+    - [[Bash - Install NVM]]
+	- [[Bash - Install oh-my-zsh]]
+	- [[Bash - GitHub Downloader]]
+
+### WSL
+
+- [[2-Areas/Code/Linux/WSL/_README|WSL]] - Code Snippets and Scripts Specific to [[Windows Subsystem for Linux]] (WSL)
+	- [[WSL - Install WSLU]]
 
 
 ## Pandoc
@@ -108,129 +93,124 @@ tree_title: "Code Snippets"
 ## PowerShell (Core)
 
 - [**PowerShell**](2-Areas/MOCs/PowerShell.md) - PowerShell Code Snippets.
-    - [PowerShell - Cleanup Windows Script](<PowerShell/PowerShell - Cleanup Windows Script.md>)
-    - [PowerShell - Custom Installation Helpers](<PowerShell/PowerShell - Custom Installation Helpers.md>)
-    - [PowerShell - Edge Scripts](<PowerShell/PowerShell - Edge Scripts.md>)
-    - [PowerShell - Git AutoCommit](<PowerShell/PowerShell - Git AutoCommit.md>)
-    - [PowerShell - Install AWS CLI](<PowerShell/PowerShell - Install AWS CLI.md>)
-    - [PowerShell - Install Azure-CLI](<PowerShell/PowerShell - Install Azure-CLI.md>)
-    - [PowerShell - Install Backblaze Client](<PowerShell/PowerShell - Install Backblaze Client.md>)
-    - [PowerShell - Install Chocolatey](<PowerShell/PowerShell - Install Chocolatey.md>)
-    - [PowerShell - Map Drives Function](<PowerShell/PowerShell - Map Drives Function.md>)
-    - [PowerShell - Open Obsidian Vault](<PowerShell/PowerShell - Open Obsidian Vault.md>)
-    - [PowerShell - QuickAccess Utilities](<PowerShell/PowerShell - QuickAccess Utilities.md>)
-    - [PowerShell - Retrieve Local Public IPv4 IP Address](<PowerShell/PowerShell - Retrieve Local Public IPv4 IP Address.md>)
-    - [PowerShell - Scoop Import](<PowerShell/PowerShell - Scoop Import.md>)
-    - [PowerShell - System PATH Helpers](<PowerShell/PowerShell - System PATH Helpers.md>)
-    - [PowerShell - Toast Notification Example](<PowerShell/PowerShell - Toast Notification Example.md>)
-    - [PowerShell - Useful Profile Utility Functions](<PowerShell/PowerShell - Useful Profile Utility Functions.md>)
+    - [[PowerShell - Cleanup Windows Script]]: Cleanup and Debloat Windows
+    - [[PowerShell - Custom Installation Helpers]]: Some of my custom installation helper functions
+    - [[PowerShell - Edge Scripts]]: Edge related functions
+    - [[PowerShell - Git AutoCommit]]: Autocommit with [[Git]]
+    - [[PowerShell - Install AWS CLI]]: Install [[AWS CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
+    - [[PowerShell - Install Azure-CLI]]: Install [[Azure CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
+    - [[PowerShell - Install Backblaze Client]]: Install the [[Backblaze]] Client 
+    - [[PowerShell - Install Chocolatey]]: Install [[Chocolatey]] Package Manager
+    - [[PowerShell - Map Drives Function]]: Map Drives
+    - [[PowerShell - Open Obsidian Vault]]: Launch an [[Obsidian]] Vault using the [[Obsidian URI]]
+    - [[PowerShell - QuickAccess Utilities]]: QAT utilities
+    - [[PowerShell - Retrieve Local Public IPv4 IP Address]]: Retrieve your IPv4 IP Address
+    - [[PowerShell - Scoop Import]]: Custom [[Scoop]] Import
+    - [[PowerShell - System PATH Helpers]]: Helper functions for working with your system `%PATH%` environment variables
+    - [[PowerShell - Toast Notification Example]]: Toast notifications
+    - [[PowerShell - Useful Profile Utility Functions]]: Miscellaneous utility functions
 
 
 ## Python
 
-- [**Python**](2-Areas/MOCs/Python.md) - Python Code Snippets.
-    - [Python - Upgrade PIP](<Python/Python - Upgrade PIP.md>)
+- [[2-Areas/Code/Python/_README|Python]] - Python Code Snippets.
+    - [[Python - Upgrade PIP]]: Upgrade [[Python - pip|pip]]
 
 ## R
 
-- [**R**](2-Areas/MOCs/R.md) - R Code Snippets.
-    - [R - docker_shiny_mssql](<R/R - docker_shiny_mssql.md>)
-    - [R - mssql_rstudio](<R/R - mssql_rstudio.md>)
-    - [R - Handle long polling process in Plumber or Shiny](<R/R - Handle long polling process in Plumber or Shiny.md>)
+- [[2-Areas/Code/R/_README|R]] - R Code Snippets.
+    - [[R - docker_shiny_mssql]]
+    - [[R - mssql_rstudio]]
     - [[R - Handle long polling process in Plumber or Shiny]]
     - [[R - Excel Helpers]]
-    - [R - Package Management Scripts](<R/R - Package Management Scripts.md>)
-    - [R - Retrieve GitHub Starred Repo Data](<R/R - Retrieve GitHub Starred Repo Data.md>)
-    - [R - Run Shiny App in Background for Development](<R/R - Run Shiny App in Background for Development.md>)
-    - [R - Simulate Actuarial Claims Data - Simulation R Script](<R/R - Simulate Actuarial Claims Data - Simulation R Script.md>)
-    - [R - Upgrade R and Migrate Packages](<R/R - Upgrade R and Migrate Packages.md>)
+    - [[R - Package Management Scripts]]
+    - [[R - Retrieve GitHub Starred Repo Data]]
+    - [[R - Run Shiny App in Background for Development]]
+    - [[R - Simulate Actuarial Claims Data - Simulation R Script]]
+    - [[R - Upgrade R and Migrate Packages]]
 
 ## Structured Query Language (SQL)
 
-- [**SQL Code Snippets**](SQL.md)
+- [[SQL]]
 
 ### BigQuery
 
 #Status/WIP 
 
-- [**BigQuery**](SQL/BigQuery)
-
-### General
-
-#Status/WIP
+- [[2-Areas/Code/SQL/BigQuery/_README|BigQuery]]
 
 ### PostgreSQL
 
-- [**PostgreSQL**](SQL/PostgreSQL)
-    - [SQL - PostgreSQL - Audit Trigger](<SQL/PostgreSQL/SQL - PostgreSQL - Audit Trigger.md>)
-    - [SQL - PostgreSQL - Basic Instance Information](<SQL/PostgreSQL/SQL - PostgreSQL - Basic Instance Information.md>)
-    - [SQL - PostgreSQL - Calculating the Median](<SQL/PostgreSQL/SQL - PostgreSQL - Calculating the Median.md>)
-    - [SQL - Clone Schema](<SQL/PostgreSQL/SQL - PostgreSQL - Clone Schema.md>)
-    - [SQL - PostgreSQL - Count NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Count NULLs.md>)
-    - [SQL - PostgreSQL - Create modified_at columns and triggers](<SQL/PostgreSQL/SQL - PostgreSQL - Create modified_at columns and triggers.md>)
-    - [SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile](<SQL/PostgreSQL/SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile.md>)
-    - [SQL - PostgreSQL - Cumulative Distribution](<SQL/PostgreSQL/SQL - PostgreSQL - Cumulative Distribution.md>)
-    - [SQL - Data Dictionary](<SQL/PostgreSQL/SQL - PostgreSQL - DataDictionary.md>)
-    - [SQL - PostgreSQL - Date Dimension Table](<SQL/PostgreSQL/SQL - PostgreSQL - Date Dimension Table.md>)
-    - [SQL - PostgreSQL - Dump Entire Database to CSV](<SQL/PostgreSQL/SQL - PostgreSQL - Dump Entire Database to CSV.md>)
-    - [SQL - PostgreSQL Dynamic Trigger](<SQL/PostgreSQL/SQL - PostgreSQL - Dynamic Trigger.md>)
-    - [SQL - PostgreSQL - ETL Function Template](<SQL/PostgreSQL/SQL - PostgreSQL - ETL Function Template.md>)
-    - [SQL - PostgreSQL - Extensions](<SQL/PostgreSQL/SQL - PostgreSQL - Extensions.md>)
-    - [SQL - PostgreSQL - Extracting Values from JSON Strings](<SQL/PostgreSQL/SQL - PostgreSQL - Extracting Values from JSON Strings.md>)
-    - [SQL - PostgreSQL - Filter for the Last x Days](<SQL/PostgreSQL/SQL - PostgreSQL - Filter for the Last x Days.md>)
-    - [SQL - PostgreSQL - Find Recent Activity](<SQL/PostgreSQL/SQL - PostgreSQL - Find Recent Activity.md>)
-    - [SQL - PostgreSQL - Formatting Dates and Timestamps](<SQL/PostgreSQL/SQL - PostgreSQL - Formatting Dates and Timestamps.md>)
-    - [SQL - PostgreSQL - Generate Timeseries of Dates and Times](<SQL/PostgreSQL/SQL - PostgreSQL - Generate Timeseries of Dates and Times.md>)
-    - [SQL - PostgreSQL - Get all Primary Keys and Columns](<SQL/PostgreSQL/SQL - PostgreSQL - Get all Primary Keys and Columns.md>)
-    - [SQL - PostgreSQL - Get Current DB Sessions](<SQL/PostgreSQL/SQL - PostgreSQL - Get Current DB Sessions.md>)
-    - [SQL - PostgreSQL - Get Last Day of Month](<SQL/PostgreSQL/SQL - PostgreSQL - Get Last Day of Month.md>)
-    - [SQL - PostgreSQL - Get the Last Element of an Array](<SQL/PostgreSQL/SQL - PostgreSQL - Get the Last Element of an Array.md>)
-    - [SQL - PostgreSQL - Histogram Bins](<SQL/PostgreSQL/SQL - PostgreSQL - Histogram Bins.md>)
-    - [SQL - PostgreSQL - Human-Readable Timestamps](<SQL/PostgreSQL/SQL - PostgreSQL - Human-Readable Timestamps.md>)
-    - [SQL - PostgreSQL - Information Schema Queries](<SQL/PostgreSQL/SQL - PostgreSQL - Information Schema Queries.md>)
-    - [SQL - PostgreSQL - Kill Running or Idle Connections](<SQL/PostgreSQL/SQL - PostgreSQL - Kill Running or Idle Connections.md>)
-    - [SQL - PostgreSQL - MONTH() Equivalent](<SQL/PostgreSQL/SQL - PostgreSQL - MONTH() Equivalent.md>)
-    - [SQL - PostgreSQL - Moving Average](<SQL/PostgreSQL/SQL - PostgreSQL - Moving Average.md>)
-    - [SQL - PostgreSQL - Multi-Replace (plpgsql)](<SQL/PostgreSQL/SQL - PostgreSQL - Multi-Replace (plpgsql).md>)
-    - [SQL - PostgreSQL -Normalize Whitespace](<SQL/PostgreSQL/SQL - PostgreSQL - Normalize Whitespace.md>)
-    - [SQL - PostgreSQL - Pivot Query](<SQL/PostgreSQL/SQL - PostgreSQL - Pivot Query.md>)
-    - [SQL - PostgreSQL - Ranking Data](<SQL/PostgreSQL/SQL - PostgreSQL - Ranking Data.md>)
-    - [SQL - PostgreSQL - RegEx to Parse URL String](<SQL/PostgreSQL/SQL - PostgreSQL - RegEx to Parse URL String.md>)
-    - [SQL - PostgreSQL - RegEx to Validate an Email Address](<SQL/PostgreSQL/SQL - PostgreSQL - RegEx to Validate an Email Address.md>)
-    - [SQL - PostgreSQL - Replace Empty Strings with NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Replace Empty Strings with NULLs.md>)
-    - [SQL - PostgreSQL - Replace NULLs](<SQL/PostgreSQL/SQL - PostgreSQL - Replace NULLs.md>)
-    - [SQL - PostgreSQL - Reverse an Array](<SQL/PostgreSQL/SQL - PostgreSQL - Reverse an Array.md>)
-    - [SQL - PostgreSQL - Set Default UTF8 Encoding](<SQL/PostgreSQL/SQL - PostgreSQL - Set Default UTF8 Encoding.md>)
-    - [SQL - PostgreSQL - Simulate IIF From SQL Server](<SQL/PostgreSQL/SQL - PostgreSQL - Simulate IIF From SQL Server.md>)
-    - [SQL - PostgreSQL - Split a Single Column into Separate Rows](<SQL/PostgreSQL/SQL - PostgreSQL - Split a Single Column into Separate Rows.md>)
-    - [SQL - PostgreSQL - Stored Procedure - Merge Tables](<SQL/PostgreSQL/SQL - PostgreSQL - Stored Procedure - Merge Tables.md>)
-    - [SQL - PostgreSQL - Strip Accents from Strings](<SQL/PostgreSQL/SQL - PostgreSQL - Strip Accents from Strings.md>)
-    - [SQL - PostgreSQL - UPSERT](<SQL/PostgreSQL/SQL - PostgreSQL - UPSERT.md>)
-    - [SQL - PostgreSQL String Manipulation](<SQL/PostgreSQL/SQL - PostgreSQL String Manipulation.md>)
+- [[SQL/PostgreSQL]]
+    - [[SQL - PostgreSQL - Audit Trigger]]
+    - [[SQL - PostgreSQL - Basic Instance Information]]
+    - [[SQL - PostgreSQL - Calculating the Median]]
+    - [[SQL - PostgreSQL - Clone Schema]]
+    - [[SQL - PostgreSQL - Count NULLs]]
+    - [[SQL - PostgreSQL - Create modified_at columns and triggers]]
+    - [[SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile]]
+    - [[SQL - PostgreSQL - Cumulative Distribution]]
+    - [[SQL - PostgreSQL - DataDictionary]]
+    - [[SQL - PostgreSQL - Date Dimension Table]]
+    - [[SQL - PostgreSQL - Dump Entire Database to CSV]]
+    - [[SQL - PostgreSQL - Dynamic Trigger]]
+    - [[SQL - PostgreSQL - ETL Function Template]]
+    - [[SQL - PostgreSQL - Extensions]]
+    - [[SQL - PostgreSQL - Extracting Values from JSON Strings]]
+    - [[SQL - PostgreSQL - Filter for the Last x Days]]
+    - [[SQL - PostgreSQL - Find Recent Activity]]
+    - [[SQL - PostgreSQL - Formatting Dates and Timestamps]]
+    - [[SQL - PostgreSQL - Generate Timeseries of Dates and Times]]
+    - [[SQL - PostgreSQL - Get all Primary Keys and Columns]]
+    - [[SQL - PostgreSQL - Get Current DB Sessions]]
+    - [[SQL - PostgreSQL - Get Last Day of Month]]
+    - [[SQL - PostgreSQL - Get the Last Element of an Array]]
+    - [[SQL - PostgreSQL - Histogram Bins]]
+    - [[SQL - PostgreSQL - Human-Readable Timestamps]]
+    - [[SQL - PostgreSQL - Information Schema Queries]]
+    - [[SQL - PostgreSQL - Kill Running or Idle Connections]]
+    - [[SQL - PostgreSQL - MONTH() Equivalent]]
+    - [[SQL - PostgreSQL - Moving Average]]
+    - [[SQL - PostgreSQL - Multi-Replace (plpgsql)]]
+    - [[SQL - PostgreSQL - Normalize Whitespace]]
+    - [[SQL - PostgreSQL - Pivot Query]]
+    - [[SQL - PostgreSQL - Ranking Data]]
+    - [[SQL - PostgreSQL - RegEx to Parse URL String]]
+    - [[SQL - PostgreSQL - RegEx to Validate an Email Address]]
+    - [[SQL - PostgreSQL - Replace Empty Strings with NULLs]]
+    - [[SQL - PostgreSQL - Replace NULLs]]
+    - [[SQL - PostgreSQL - Reverse an Array]]
+    - [[SQL - PostgreSQL - Set Default UTF8 Encoding]]
+    - [[SQL - PostgreSQL - Simulate IIF From SQL Server]]
+    - [[SQL - PostgreSQL - Split a Single Column into Separate Rows]]
+    - [[SQL - PostgreSQL - Stored Procedure - Merge Tables]]
+    - [[SQL - PostgreSQL - Strip Accents from Strings]]
+    - [[SQL - PostgreSQL - UPSERT]]
+    - [[SQL - PostgreSQL String Manipulation]]
     
-### Microsoft SQL Server (MSSQL)
+### Microsoft SQL Server (MSSQL / T-SQL)
 
 Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
-- [**SQL Server**](<SQL/SQL Server>)
-    - [SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime](<SQL/SQL Server/SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime.md>)
-    - [SQL - SQL Server - Check if a Column is Accessible](<SQL/SQL Server/SQL - SQL Server - Check if a Column is Accessible.md>)
-    - [SQL - Check Size of DB Objects](<SQL/SQL Server/SQL - SQL Server - Check Size of DB Objects.md>)
-    - [SQL - SQL Server - Concatenate Strings](<SQL/SQL Server/SQL - SQL Server - Concatenate Strings.md>)
-    - [SQL - Create Date Dimension with Fiscal Years](<SQL/SQL Server/SQL - SQL Server - Create Date Dimension with Fiscal Years.md>)
-    - [SQL - SQL Server - Cumulative Distribution Functions](<SQL/SQL Server/SQL - SQL Server - Cumulative Distribution Functions.md>)
-    - [SQL - SQL Server - Find the First Row of Each Group](<SQL/SQL Server/SQL - SQL Server - Find the First Row of Each Group.md>)
-    - [SQL - SQL Server - Find Unused Indexes](<SQL/SQL Server/SQL - SQL Server - Find Unused Indexes.md>)
-    - [SQL - Get Number of Open Connections](<SQL/SQL Server/SQL - SQL Server - Get Number of Open Connections.md>)
-    - [SQL Script - Installation for DBA MultiTool](<SQL/SQL Server/SQL - SQL Server - Installation Script for DBA MultiTool.md>)
-    - [SQL - SQL Server - Monitor Query Plans](<SQL/SQL Server/SQL - SQL Server - Monitor Query Plans.md>)
-    - [SQL - SQL Server - POST HTTP API Request](<SQL/SQL Server/SQL - SQL Server - POST HTTP API Request.md>)
-    - [SQL - Re-build all Indexes](<SQL/SQL Server/SQL - SQL Server - Re-build all Indexes.md>)
-    - [SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages](<SQL/SQL Server/SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages.md>)
-    - [SQL - Retrieve Top Slow Requests](<SQL/SQL Server/SQL - SQL Server - Retrieve Top Slow Requests.md>)
-    - [SQL - Retrieve Who is Doing What](<SQL/SQL Server/SQL - SQL Server - Retrieve Who is Doing What.md>)
-    - [SQL - SQL Server - Search for Text Within Stored Procedures](<SQL/SQL Server/SQL - SQL Server - Search for Text Within Stored Procedures.md>)
-    - [SQL Server Useful Queries](<SQL/SQL Server/SQL - SQL Server - Useful Queries.md>)
+- [[SQL Server]]
+    - [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
+    - [[SQL - SQL Server - Check if a Column is Accessible]]
+    - [[SQL - SQL Server - Check Size of DB Objects]]
+    - [[SQL - SQL Server - Concatenate Strings]]
+    - [[SQL - SQL Server - Create Date Dimension with Fiscal Years]]
+    - [[SQL - SQL Server - Cumulative Distribution Functions]]
+    - [[SQL - SQL Server - Find the First Row of Each Group]]
+    - [[SQL - SQL Server - Find Unused Indexes]]
+    - [[SQL - SQL Server - Get Number of Open Connections]]
+    - [[SQL - SQL Server - Installation Script for DBA MultiTool]]
+    - [[SQL - SQL Server - Monitor Query Plans]]
+    - [[SQL - SQL Server - POST HTTP API Request]]
+    - [[SQL - SQL Server - Re-build all Indexes]]
+    - [[SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
+    - [[SQL - SQL Server - Retrieve Top Slow Requests]]
+    - [[SQL - SQL Server - Retrieve Who is Doing What]]
+    - [[SQL - SQL Server - Search for Text Within Stored Procedures]]
+    - [[SQL - SQL Server - Useful Queries]]
 
 ## Windows
 
@@ -240,10 +220,9 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 - [[2-Areas/Code/Windows/Batch/_README|Batch]]
     - [[Batch - MediaCreationTool]]
+    - [[Batch - Magic Variables]]
 
 ### Miscellaneous
-
-#Status/WIP
 
 - [[Add Tabs to Windows 11 Explorer]]
 
@@ -272,18 +251,26 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 #### Visual Basic for Applications (VBA) - Excel VBA
 
+- [[VBA Notes]]
+
 - [[VBA - Alert]]
 - [[VBA - Balloon Notification]]
 - [[VBA - Check for Broken Links in Workbook]]
 - [[VBA - Copy Module from one Workbook to Another]]
 - [[VBA - Create and Run a SQL Query]]
+- [[VBA - File Dialog]]
+- [[VBA - ListLinks Module]]
+- [[VBA - Make All Open Files Read Only]]
 - [[VBA - Module Template]]
 - [[VBA - Optimize Speed]]
+- [[VBA - Page Setup and Print Macros]]
 - [[VBA - Refresh All]]
+- [[VBA - Save All]]
 - [[VBA - SQL Stored Procedure Caller Module]]
 - [[VBA - Unhide All Worksheets]]
 - [[VBA - Unhide all Rows and Columns]]
 - [[VBA - Useful Utilities]]
+
 
 ### Windows Command Line (CMD/MS-DOS)
 

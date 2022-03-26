@@ -251,7 +251,8 @@ And many others!
 
 ***
 
-<center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
+
+<p align="center"><img src="https://i.imgur.com/6msNgxN.png" height="55%" width="55%"/></p>
 
 ***
 

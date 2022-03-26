@@ -28,7 +28,7 @@ Tags: ["#Type/Readme"]
 <h4 align="center">Curated Knowledge for the Masses</h4>
 <h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
 <p align="center">
-    <img src="https://i.imgur.com/FB2il3N.png"; height="30%"; width="30%"/>
+    <img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/>
 </p>
 <br>
 <p align="center">

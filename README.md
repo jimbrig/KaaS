@@ -177,7 +177,7 @@ Currently I have code snippets for the following categories:
 
 Plus:
 
-- [[2-Areas/Code/Bash/_README|Bash]]
+- [[2-Areas/Code/Linux/Bash/_README|Bash]]
 - [[2-Areas/Code/CSS/_README|CSS]]
 - [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]]
 - [[2-Areas/Code/Javascript/_README|Javascript Code]]

@@ -72,9 +72,9 @@ tree_title: "Code Snippets"
 ## Bash
 
 - [**Bash**](Bash.md) - Linux Bash Code Snippets.
-    - [Bash - Git-Auto](<Bash/Bash - Git-Auto.md>)
-    - [Bash - Install NVM](<Bash/Bash - Install NVM.md>)
-    - [Bash - Install oh-my-zsh](<Bash/Bash - Install oh-my-zsh.md>)
+    - [Bash - Git-Auto](Bash%20-%20Git-Auto.md - Git-Auto.md>)
+    - [Bash - Install NVM](Bash%20-%20Install%20NVM.md - Install NVM.md>)
+    - [Bash - Install oh-my-zsh](Bash%20-%20Install%20oh-my-zsh.md - Install oh-my-zsh.md>)
    
 ## Cascading Style Sheets (CSS)
 

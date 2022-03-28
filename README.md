@@ -156,7 +156,7 @@ See the [[2-Areas/Code/_README|Code]] folder's README for details on all of the 
 
 Currently I have code snippets for the following categories:
 
-- [[2-Areas/Code/PowerShell/_README|PowerShell]] (Core)
+- [[2-Areas/Code/Windows/PowerShell/_README|PowerShell]] (Core)
 - [[2-Areas/Code/Python/_README|Python]]
 - [[2-Areas/Code/R/_README|R]]
 

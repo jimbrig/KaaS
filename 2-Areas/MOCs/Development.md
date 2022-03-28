@@ -178,7 +178,7 @@ Alias: "Development"
 - [[s-search]]
 - [[oh-my-posh]]
 - [[powerlevel10k]]
-- [[Nativefier]]
+- [[3-Resources/Tools/Utility/Nativefier]]
 - [[Topgrade]]
 - [[Electron]]
 - [[zsh]]

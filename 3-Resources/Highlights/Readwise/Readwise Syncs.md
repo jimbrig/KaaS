@@ -628,3 +628,5 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
 
 - [[2022-03-25]] 7:34 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-03-28]] 7:33 PM — Synced 0 highlights from 0 documents.
+

@@ -28,7 +28,7 @@ Tags: ["#Type/Readme"]
 <h4 align="center">Curated Knowledge for the Masses</h4>
 <h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
 <p align="center">
-    <img src="https://i.imgur.com/FB2il3N.png"; height="30%"; width="30%"/>
+    <img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/>
 </p>
 <br>
 <p align="center">
@@ -156,7 +156,7 @@ See the [[2-Areas/Code/_README|Code]] folder's README for details on all of the 
 
 Currently I have code snippets for the following categories:
 
-- [[2-Areas/Code/PowerShell/_README|PowerShell]] (Core)
+- [[2-Areas/Code/Windows/PowerShell/_README|PowerShell]] (Core)
 - [[2-Areas/Code/Python/_README|Python]]
 - [[2-Areas/Code/R/_README|R]]
 
@@ -177,7 +177,7 @@ Currently I have code snippets for the following categories:
 
 Plus:
 
-- [[2-Areas/Code/Bash/_README|Bash]]
+- [[2-Areas/Code/Linux/Bash/_README|Bash]]
 - [[2-Areas/Code/CSS/_README|CSS]]
 - [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]]
 - [[2-Areas/Code/Javascript/_README|Javascript Code]]
@@ -251,7 +251,8 @@ And many others!
 
 ***
 
-<center><img src="https://i.imgur.com/j70aDp9.png" height="75%" width="75%"/></center>
+
+<p align="center"><img src="https://i.imgur.com/6msNgxN.png" height="55%" width="55%"/></p>
 
 ***
 

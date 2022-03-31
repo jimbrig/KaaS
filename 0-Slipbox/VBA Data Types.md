@@ -1,7 +1,7 @@
 ---
 Date: 2022-03-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
+Tags: ["#Type/Documentation", "#Topic/Dev/Documentation"]
 Alias: "VBA Data Types"
 ---
 
@@ -22,6 +22,18 @@ Alias: "VBA Data Types"
 | String                  | 10 bytes + 1 byte per char | $                          | Series of any ASCII characters.                                                                                                                                 |
 | String (_fixed-length_) | length of string           | none                       | Series of any ASCII characters, of a pre-defined length.                                                                                                        |
 | Variant                 | min 16 bytes               | none                       | Any kind of data except fixed-length String data and user-defined types.                                                                                        |
+
+***
+
+## Appendix: Links
+
+- [[Excel - VBA]]
+- [[Excel - VBA|Visual Basic]]
+- [[2-Areas/Code/Windows/_README|Windows]]
+- [[Microsoft]]
+- [[Excel]]
+- [[Microsoft Office]]
+- [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
 
 *Backlinks:*
 

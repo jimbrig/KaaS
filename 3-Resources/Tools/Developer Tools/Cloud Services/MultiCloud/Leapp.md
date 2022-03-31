@@ -1,20 +1,20 @@
 ---
-Date: 2022-01-28
+Date: 2022-03-26
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["Scoop"]
+Alias: ["Leapp"]
 ---
 
-# Scoop
+# Leapp
 
 ***
 
-## Appendix: Related
+## Appendix: Links
 
 - [[Tools]]
 
 *Backlinks:*
 
 ```dataview
-list from [[Tool-Template]] AND -"Changelog"
+list from [[Leapp]] AND -"Changelog"
 ```

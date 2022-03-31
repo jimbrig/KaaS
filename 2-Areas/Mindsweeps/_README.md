@@ -15,8 +15,9 @@ Alias: Mindsweeps
 
 ## See Also
 
-[[GTD]]
+[[Getting Things Done]]
 [[GTD Mindsweep]]
+[[Ten Step GTD Setup List|GTD Setup List]]
 [[GTD Weekly Review]]
 [[GTD-WildSuccess-MindSweep.pdf]]
 [[GTD Refresh, Part 5 Building the Weekly Review Habit]]

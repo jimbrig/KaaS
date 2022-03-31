@@ -16,7 +16,9 @@ VBA is primarily used within the context of [[Excel]] and creating Excel macros,
 
 ## Appendix: Related
 
-- [[Tools]]
+- [[3-Resources/Tools/_README|Tools]]
+
+![[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
 
 *Backlinks:*
 

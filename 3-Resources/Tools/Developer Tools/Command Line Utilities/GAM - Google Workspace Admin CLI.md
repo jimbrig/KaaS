@@ -43,7 +43,14 @@ The GAM documentation is hosted in the [GitHub Wiki]
 
 ## Appendix: Links
 
-- [[Tools]]
+- [[3-Resources/Tools/_README|Tools]]
+- [[Google Cloud APIs]]
+- [[Google]]
+- [[Google Chrome]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/GCP/_README|GCP]]
+- [[Google Calendar]]
+- [[GCalCLI|Google Calendar CLI]]
+- [[Creating a Google Suite Desktop Electron App with Nativefier]]
 
 *Backlinks:*
 

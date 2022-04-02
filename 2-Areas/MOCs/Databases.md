@@ -71,7 +71,7 @@ Alias: "Databases"
 -   [[DBeaver]]
 -   [[BeeKeeper]]
 -   [[PgAdmin]]
--   [[dbgate]]
+-   [[Dbgate]]
 
 ### Documentation
 

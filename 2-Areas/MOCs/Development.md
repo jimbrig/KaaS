@@ -143,7 +143,7 @@ Alias: "Development"
 - [[Azure Data Studio]]
 - [[SQL Server]]
 - [[SQL Server Management Studio]]
-- [[dbgate]]
+- [[Dbgate]]
 - [[BeeKeeper]]
 - [[DBeaver]]
 

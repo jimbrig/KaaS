@@ -147,3 +147,7 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
   ![](https://pbs.twimg.com/media/EjHkJGKWoAA_pDP.jpg) 
   ![](https://pbs.twimg.com/media/EjHkJfxWsAApcg9.jpg) 
   ![](https://pbs.twimg.com/media/EjHkJ0xX0AA2h5L.jpg) ([View Tweet](https://twitter.com/obsdmd/status/1311079839726817282))
+## New highlights added April 2, 2022 at 12:07 PM
+- @brodriguesco: Experimenting with monads in #RStats. Inspired by https://t.co/eBVTjVRsNz @kupac 
+  ![](https://pbs.twimg.com/media/FJJ-ptMWYAQUhsK.png) ([View Tweet](https://twitter.com/brodriguesco/status/1482386753268981762))
+- @EcoLaurenY: Going to start an R package called: loneR for when you're the only R data scientist at your company. 😟#rstats ([View Tweet](https://twitter.com/EcoLaurenY/status/1507344746737553412))

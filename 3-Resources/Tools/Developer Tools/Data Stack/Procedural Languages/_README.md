@@ -7,6 +7,10 @@ Alias: Procedural Languages
 
 # Procedural Languages
 
+-   [[T-SQL]]
+-   [[SQL]]
+-   [[PLPGSQL]]
+
 *Contents*
 
 ```dataview

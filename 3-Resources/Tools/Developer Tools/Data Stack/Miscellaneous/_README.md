@@ -7,6 +7,15 @@ Alias: Miscellaneous
 
 # Miscellaneous
 
+-   [[SQLFlow]]
+-   [[SQL Server - DBA MultiTool]]
+-   [[Pyrseas]]
+-   [[franchise]]
+-   [[Great Expectations]]
+-   [[pgAudit]]
+-   [[dbt - Data Build Tool]]
+-   [[dbhub.io]]
+
 *Contents*
 
 ```dataview

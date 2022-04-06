@@ -132,3 +132,22 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
 - @HunterEddins: @PGATOUR @TigerWoods Can we watch this anywhere? ([View Tweet](https://twitter.com/HunterEddins/status/1501749920071573510))
 - @kathleenstron13: @PGATOUR @TigerWoods Where can I watch this?? ([View Tweet](https://twitter.com/kathleenstron13/status/1501751545045479425))
 - @CTVBlair: @PGATOUR @TigerWoods The word GOAT gets thrown around a lot in sports, but that’s a GOAT right there. ([View Tweet](https://twitter.com/CTVBlair/status/1501753337359732737))
+## New highlights added March 31, 2022 at 7:39 PM
+- @Ken_Rosenthal: RIP Julio. https://t.co/OzlwX20ndL ([View Tweet](https://twitter.com/Ken_Rosenthal/status/1460363345496883200))
+- @this_is_silvia: hi ([View Tweet](https://twitter.com/this_is_silvia/status/1459973656424206340))
+- @patitotective: @jimbrig2011 Hi Jimmy, I'm the PREFS Python library developer and I was wondering how did you find PREFS? From where?
+  It can help me to know how to promote PREFS efficiently. 🙃 ([View Tweet](https://twitter.com/patitotective/status/1459888882116435970))
+- @joshduffney: @jimbrig2011 @gumroad Thank you, Jimmy! 🙏 ([View Tweet](https://twitter.com/joshduffney/status/1456743449563176962))
+- @DatPiff: 10 years ago today, @LilTunechi’s "Da Drought 3" was added to #DatPiff!
+  Disc 1: https://t.co/evzWonFH4m
+  Disc 2: https://t.co/0VVBl46t3n 
+  ![](https://pbs.twimg.com/media/C_jnrn4XkAQYTOs.jpg) ([View Tweet](https://twitter.com/DatPiff/status/862709895564582912))
+- @obsdmd: Stunning graph of @krishnanunnihm with different force settings: 
+  ![](https://pbs.twimg.com/media/EjHkHfKXYAEdwp4.jpg) 
+  ![](https://pbs.twimg.com/media/EjHkJGKWoAA_pDP.jpg) 
+  ![](https://pbs.twimg.com/media/EjHkJfxWsAApcg9.jpg) 
+  ![](https://pbs.twimg.com/media/EjHkJ0xX0AA2h5L.jpg) ([View Tweet](https://twitter.com/obsdmd/status/1311079839726817282))
+## New highlights added April 2, 2022 at 12:07 PM
+- @brodriguesco: Experimenting with monads in #RStats. Inspired by https://t.co/eBVTjVRsNz @kupac 
+  ![](https://pbs.twimg.com/media/FJJ-ptMWYAQUhsK.png) ([View Tweet](https://twitter.com/brodriguesco/status/1482386753268981762))
+- @EcoLaurenY: Going to start an R package called: loneR for when you're the only R data scientist at your company. 😟#rstats ([View Tweet](https://twitter.com/EcoLaurenY/status/1507344746737553412))

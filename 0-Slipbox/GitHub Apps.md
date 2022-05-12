@@ -1,16 +1,16 @@
 ---
-Date: 2022-02-27
+Date: 2022-04-14
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "2022 Learning List"
+Alias: "GitHub Apps"
 ---
 
-# 2022 Learning List
+# GitHub Apps
 
-
+ 
 
 *Backlinks:*
 
 ```dataview
-list from [[2022 Learning List]] AND -"Changelog"
+list from [[GitHub Apps]] AND -"Changelog"
 ```

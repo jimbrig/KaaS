@@ -4,22 +4,22 @@
 
 %% Begin Waypoint %%
 - **[[2-Areas]]**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- **Agendas**
-		- [[_README]]
+		- [[2-Areas/_README]]
 	- **Code**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- **Bash**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Bash - Git-Auto]]
 			- [[Bash - Install NVM]]
 			- [[Bash - Install oh-my-zsh]]
 		- **CSS**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[CSS - Default Obsidian Theme Styling]]
 			- [[CSS - GitHub Obsidian Theme]]
 		- **GitHub Actions**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[GitHub Action - Build-Check-Install R Package]]
 			- [[GitHub Action - Code Coverage for R]]
 			- [[GitHub Action - git-cliff]]
@@ -31,36 +31,36 @@
 			- [[GitHub Action - roxygen]]
 			- [[GitHub Actions for R]]
 		- **Javascript**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[JavaScript - Obsidian Web Clipper Bookmarklet]]
 			- [[Javascript - Remove all YouTube Watch Later Videos]]
 		- **Linux**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- **Bash**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Bash - Git-Auto]]
 				- [[Bash - GitHub Downloader]]
 				- [[Bash - Install NVM]]
 				- [[Bash - Install oh-my-zsh]]
 			- **Kali**
 			- **WSL**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[WSL - Install WSLU]]
 			- **Zsh**
 		- **Pandoc**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Pandoc - Convert Word to Markdown]]
 		- **PowerShell**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[PowerShell - Cleanup Windows Script]]
 			- [[PowerShell - Custom Installation Helpers]]
 			- [[PowerShell - Edge Scripts]]
 			- [[PowerShell - Git AutoCommit]]
 		- **Python**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Python - Upgrade PIP]]
 		- **R**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[R - docker_shiny_mssql]]
 			- [[R - Excel Helpers]]
 			- [[R - Handle long polling process in Plumber or Shiny]]
@@ -71,13 +71,13 @@
 			- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
 			- [[R - Upgrade R and Migrate Packages]]
 		- **SQL**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- **BigQuery**
-				- [[_README]]
+				- [[2-Areas/_README]]
 			- **General**
-				- [[_README]]
+				- [[2-Areas/_README]]
 			- **PostgreSQL**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[SQL - PostgreSQL - Audit Trigger]]
 				- [[SQL - PostgreSQL - Basic Instance Information]]
 				- [[SQL - PostgreSQL - Calculating the Median]]
@@ -128,7 +128,7 @@
 				- [[SQL - PostgreSQL - Using Tables as Templates]]
 				- [[SQL - PostgreSQL String Manipulation]]
 			- **SQL Server**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
 				- [[SQL - SQL Server - Check if a Column is Accessible]]
 				- [[SQL - SQL Server - Check Size of DB Objects]]
@@ -148,17 +148,17 @@
 				- [[SQL - SQL Server - Search for Text Within Stored Procedures]]
 				- [[SQL - SQL Server - Useful Queries]]
 		- **Windows**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- **Batch**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Batch - Magic Variables]]
 				- [[Batch - MediaCreationTool]]
 				- [[Batch - Python Virtual Environment]]
 			- **Miscellaneous**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Add Tabs to Windows 11 Explorer]]
 			- **PowerShell**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[PowerShell - Cleanup Windows Script]]
 				- [[PowerShell - Custom Installation Helpers]]
 				- [[PowerShell - Edge Scripts]]
@@ -177,13 +177,13 @@
 				- [[PowerShell - Toast Notification Example]]
 				- [[PowerShell - Useful Profile Utility Functions]]
 			- **Registry**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Regedit - Enable Long Path Support on Windows]]
 				- [[Regedit - Export Saved Registry Favorites]]
 				- [[RegEdit - Restart Explorer and StartMenu Context Bar]]
 				- [[RegEdit - Take Ownership Context Menu]]
 			- **Run**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Run - Check for Windows Store App Updates]]
 				- [[Run - Cleanup]]
 				- [[Run - GodMode All Tasks]]
@@ -194,7 +194,7 @@
 				- **Excel VBA**
 					- **_assets**
 
-					- [[_README]]
+					- [[2-Areas/_README]]
 					- [[VBA - Alert]]
 					- [[VBA - Balloon Notification]]
 					- [[VBA - Check for Broken Links in Workbook]]
@@ -216,7 +216,7 @@
 					- [[VBA - Useful Utilities]]
 					- [[VBA Notes]]
 			- **Windows CMD**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[CMD - Create a Network Performance Windows Report]]
 				- [[CMD - Delete Network Data]]
 				- [[CMD - Delete Windows Update Leftover Files]]
@@ -235,11 +235,11 @@
 				- [[CMD - Troubleshooter Commands]]
 				- [[CMD - View Available Disks on Windows]]
 			- **Windows PowerShell**
-				- [[_README]]
+				- [[2-Areas/_README]]
 	- **Content**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- **Guides**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Add a GUI to Batch File Scripts on Windows]]
 			- [[Azure Setup Guide]]
 			- [[Optimize Windows 11 Explorer with QTTabBar]]
@@ -248,33 +248,33 @@
 			- [[Windows Developer Environment]]
 			- [[WSL Terminal and Shell Setup Guide]]
 		- **Ideas**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Blog Post Ideas Brainstorming Helpers]]
 			- [[Blog Post Ideas List]]
 			- [[Committing to Consistency with Your Blog]]
 			- [[The Best Weapon for Deciding What to Write About]]
 		- **Posts**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- **Actuarial Posts**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses]]
 				- [[Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis]]
 				- [[Part III - Actuarial Reserve and Cash Flow Analyses]]
 			- **Drafts**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Setting up an Optimal Developer Environment on Windows]]
 			- **Published**
-				- [[_README]]
+				- [[2-Areas/_README]]
 				- [[Getting to know .Renviron]]
 		- **Sites**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Devfolio]]
 			- [[JimsDocs]]
 			- [[JimsVault]]
 			- [[The 'jimbrig' Universe]]
 			- [[The R Dispatch]]
 	- **Daily-Notes**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- **2021-11**
 			- [[2021-11-08]]
 			- [[2021-11-10]]
@@ -332,14 +332,14 @@
 			- [[2022-02-18]]
 		- [[2022-04-03]]
 	- **Goals**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[2022 Areas of Focus and Goal Planning]]
 	- **Learning**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[2022 Learning List]]
 		- [[Areas of Expertise]]
 	- **Lists**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[Actuarial Development Master Resource List]]
 		- [[Advanced Programming Concepts List]]
 		- [[Awesome R Package Development List]]
@@ -367,7 +367,7 @@
 		- [[SQL Server List of Tools and Scripts]]
 		- [[Ten Step GTD Setup List]]
 	- **Meta**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[About]]
 		- [[How I Take Notes]]
 		- [[Publish Workflow]]
@@ -379,10 +379,10 @@
 	- **Mindsweeps**
 		- **_assets**
 
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[2021-12-07]]
 	- **MOCs**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[Actuarial Science]]
 		- [[Data Engineering]]
 		- [[Data Science]]
@@ -400,7 +400,7 @@
 		- [[Software Development]]
 		- [[Web Development]]
 	- **People**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[Bill Inmon]]
 		- [[John Sonmez]]
 		- [[Justin DiRose]]

@@ -2,7 +2,7 @@
 - **[[0-Slipbox]]**
 	- **_assets**
 
-	- [[_README]]
+	- [[0-Slipbox/_README]]
 	- [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
 	- [[Actuarial Exams]]
 	- [[Actuarial Experience Studies]]

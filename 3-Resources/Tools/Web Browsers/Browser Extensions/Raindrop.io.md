@@ -7,6 +7,11 @@ Alias: ["Raindrop.io"]
 
 # Raindrop.io
 
+Integrations: YouTube Favorites
+Backup to GDrive
+Share Collections
+API
+
 ***
 
 ## Appendix: Links

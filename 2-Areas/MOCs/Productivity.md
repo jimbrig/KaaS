@@ -13,10 +13,11 @@ Alias: "Productivity"
 
 - [[Personal Knowledge Management]]
 - [[Getting Things Done]]
-- [[Tools]]
 
 ## Notes
 
+- [[Productivity System]]
+- [[Productivity Apps List]]
 - [[GTD Mindsweep]]
 
 ## Dataviews

@@ -7,6 +7,10 @@ Alias: Mindsweeps
 
 # Mindsweeps
 
+## Flow Chart
+
+![[GTD_Todoist_Flowchart.jpg]]
+
 - Refer to the [[Mind_Sweep_Trigger_List.pdf]] for determining what's on my mind.
 
 ## Incompletion Trigger List 

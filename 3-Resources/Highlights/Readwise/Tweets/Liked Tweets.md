@@ -138,7 +138,7 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
 - @patitotective: @jimbrig2011 Hi Jimmy, I'm the PREFS Python library developer and I was wondering how did you find PREFS? From where?
   It can help me to know how to promote PREFS efficiently. 🙃 ([View Tweet](https://twitter.com/patitotective/status/1459888882116435970))
 - @joshduffney: @jimbrig2011 @gumroad Thank you, Jimmy! 🙏 ([View Tweet](https://twitter.com/joshduffney/status/1456743449563176962))
-- @DatPiff: 10 years ago today, @LilTunechi’s "Da Drought 3" was added to #DatPiff!
+- @DatPiff: 10 years ago today, @LilTunechi’s "Da Drought 3" was added to DatPiff!
   Disc 1: https://t.co/evzWonFH4m
   Disc 2: https://t.co/0VVBl46t3n 
   ![](https://pbs.twimg.com/media/C_jnrn4XkAQYTOs.jpg) ([View Tweet](https://twitter.com/DatPiff/status/862709895564582912))
@@ -148,6 +148,6 @@ Aliases: ["Liked Tweets", "Liked Tweets"]
   ![](https://pbs.twimg.com/media/EjHkJfxWsAApcg9.jpg) 
   ![](https://pbs.twimg.com/media/EjHkJ0xX0AA2h5L.jpg) ([View Tweet](https://twitter.com/obsdmd/status/1311079839726817282))
 ## New highlights added April 2, 2022 at 12:07 PM
-- @brodriguesco: Experimenting with monads in #RStats. Inspired by https://t.co/eBVTjVRsNz @kupac 
+- @brodriguesco: Experimenting with monads in RStats. Inspired by https://t.co/eBVTjVRsNz @kupac 
   ![](https://pbs.twimg.com/media/FJJ-ptMWYAQUhsK.png) ([View Tweet](https://twitter.com/brodriguesco/status/1482386753268981762))
 - @EcoLaurenY: Going to start an R package called: loneR for when you're the only R data scientist at your company. 😟#rstats ([View Tweet](https://twitter.com/EcoLaurenY/status/1507344746737553412))

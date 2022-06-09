@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Topic/Dev/R"]
+Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
 Alias: ["GitHub Action - roxygen"]
 ---
 

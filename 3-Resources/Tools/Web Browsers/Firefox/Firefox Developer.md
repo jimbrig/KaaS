@@ -21,15 +21,28 @@ The key killer feature of Firefox is *containers*.
 
 ## Themes
 
-Currently using the [Matte Black (Red) Theme](https://addons.mozilla.org/en-US/firefox/addon/matte-black-red/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured)
+Currently using the [Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme).
+
+Previous themes:
+- ~~[Matte Black (Red) Theme](https://addons.mozilla.org/en-US/firefox/addon/matte-black-red/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured)~~
+
+
 
 ## Extensions
 
-- [Keeper Password Manager & Digital Vault](https://addons.mozilla.org/en-US/firefox/addon/keeper-password-manager-digita/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Raindrop.io](https://addons.mozilla.org/en-US/firefox/addon/raindropio/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Drak Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [[Keeper Password Manager]] (Link: [Keeper Password Manager & Digital Vault](https://addons.mozilla.org/en-US/firefox/addon/keeper-password-manager-digita/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search))
+
+- [[Momentum]] (Link: [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search))
+
+- [[OneTab]] (Link: [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search))
+
+- [[Raindrop.io]] (Link: [Raindrop.io](https://addons.mozilla.org/en-US/firefox/addon/raindropio/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search))
+
+- [Add Custom Search Engine](https://github.com/evilpie/add-custom-search-engine)
+
+- [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+- 
 
 
 Non-Essential Extensions:

@@ -54,14 +54,14 @@ tree_title: "Code Snippets"
 ## GitHub Actions
 
 - [[2-Areas/Code/GitHub Actions/_README|GitHub Actions]] - GitHub Action Code Snippets.
-    - [[GitHub Actions/GitHub Action - Build-Check-Install R Package]]: Build, Check, and Install R Package
-    - [[GitHub Actions/GitHub Action - Code Coverage for R]]: Run Code Coverage on an R Package
-    - [[GitHub Actions/GitHub Action - git-cliff]]: automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
-    - [[GitHub Actions/GitHub Action - pkgdown]]: Generate and deploy a dedicated [[R Package - pkgdown|pkgdown]] Documentation Website
-    - [[GitHub Actions/GitHub Action - R Package Validation]]: Perform R Package Validations
-    - [[GitHub Actions/GitHub Action - R Spelling Checks]]: Run `spelling::spellcheck()` on your R Package
-    - [[GitHub Actions/GitHub Action - Release]]: Create a new GitHub Release
-    - [[GitHub Actions/GitHub Action - roxygen]]: Document your R package via [[R Package - roxygen2|roxygen2]]
+    - [[GHA - R Build-Check-Install]]: Build, Check, and Install R Package
+    - [[GHA - R Code Coverage]]: Run Code Coverage on an R Package
+    - [[GHA - Git-Cliff]]: automate the generation of `CHANGELOG.md`'s using [[Git-Cliff]].
+    - [[GHA - R pkgdown]]: Generate and deploy a dedicated [[R Package - pkgdown|pkgdown]] Documentation Website
+    - [[GHA - R Package Validation]]: Perform R Package Validations
+    - [[GHA - R Spelling]]: Run `spelling::spellcheck()` on your R Package
+    - [[GHA - Release]]: Create a new GitHub Release
+    - [[GHA - R roxygen]]: Document your R package via [[R Package - roxygen2|roxygen2]]
     - [[GitHub Actions/GitHub Actions for R]]: List of various R Github Actions
 
 ## JavaScript

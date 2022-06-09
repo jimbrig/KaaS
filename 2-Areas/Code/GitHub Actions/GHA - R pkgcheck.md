@@ -1,7 +1,7 @@
 ---
 Date: 2022-03-29
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R"]
+Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
 Alias: ["GitHub Action - R pkgcheck"]
 ---
 

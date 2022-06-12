@@ -1,7 +1,7 @@
 ---
 Date: 2022-06-07
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Dev/CLI]
+Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Dev/CLI"]
 Alias: "Azure CLI"
 ---
 

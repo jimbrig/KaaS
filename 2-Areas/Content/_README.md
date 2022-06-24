@@ -7,7 +7,7 @@ Alias: Content
 
 # Content
 
-- [[2-Areas/Content/Guides/_README|Guides]]
+- [[2-Areas/Guides/_README|Guides]]
 - [[2-Areas/Content/Ideas/_README|Ideas]]
 - [[2-Areas/Content/Posts/_README|Posts]]
     - [[2-Areas/Content/Posts/Actuarial Posts/_README|Actuarial Posts]]

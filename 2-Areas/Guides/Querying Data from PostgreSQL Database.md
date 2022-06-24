@@ -110,7 +110,7 @@ You can now be confident when it comes to querying your PostgreSQL database.
 - [[Databases]]
 - [[Data Engineering]]
 - [[SQL]]
-- [[2-Areas/Content/Guides/_README|Guides]]
+- [[2-Areas/Guides/_README|Guides]]
  
 
 *Backlinks:*

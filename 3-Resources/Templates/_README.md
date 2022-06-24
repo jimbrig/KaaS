@@ -56,7 +56,7 @@ All of my [[Obsidian]] Templates!
 
 ## Resource Templates
 
--   [[Daily-Note-Template]]
+-   [[3-Resources/Templates/Resource-Templates/Misc-Resource-Templates/Daily-Note-Template]]
 -   [[Tool-Template]]
 -   [[List-Template]]
 -   [[Kanban-Template]]

@@ -118,7 +118,7 @@ See Also: [mohabouje/WinToast (github.com)](https://github.com/mohabouje/WinToas
 
 ## Appendix: Links
 
-- [[Windows]]
+- [[2-Areas/Code/Windows/_README|Windows]]
 - [[Microsoft DOS]]
 - [[Batch Scripting Tips and Tricks]]
 - [[2-Areas/MOCs/PowerShell]]

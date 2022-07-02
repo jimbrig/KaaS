@@ -9,34 +9,36 @@ Alias: "Physics"
 
 _Physics_ Map of Content houses all notes related to Physics in general.
 
-
+<center>
+<img href="" src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="50%" width="50%" />
+</center>
 
 ## Contents
 
--   [Overview](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Overview)
--   [Contents](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Contents)
--   [Mechanics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Mechanics)
-    -   [Kinematics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Mechanics#Kinematics)
-    -   [Rigid Bodies and Physics Engines](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Mechanics#Rigid%20Bodies%20and%20Physics%20Engines)
-    -   [Fluid Mechanics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Mechanics#Fluid%20Mechanics)
-    -   [Gravity](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Mechanics#Gravity)
--   [Waves and Acoustics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Waves%20and%20Acoustics)
-    -   [Mechanical Waves](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Waves%20and%20Acoustics#Mechanical%20Waves)
-    -   [Sound](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Waves%20and%20Acoustics#Sound)
--   [Thermodynamics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Thermodynamics)
--   [Electromagnetism](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Electromagnetism)
--   [Optics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Optics)
--   [Relativity](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Relativity)
--   [Quantum Physics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Quantum%20Physics)
--   [Astrophysics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Astrophysics)
--   [Geophysics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Geophysics)
--   [Organizations](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Organizations)
--   [Programming Physics](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Programming%20Physics)
--   [Notes](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Notes)
--   [Related MOCs](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Related%20MOCs)
--   [Dataviews](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Dataviews)
-    -   [Tagged as \*Category/Physics\*](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Dataviews#Tagged%20as%20*Category/Physics*)
-    -   [Links to this File](https://publish.obsidian.md/kaas-published/2-Areas/MOCs/Physics#Dataviews#Links%20to%20this%20File)
+- [[#Overview|Overview]]
+- [[#Mechanics|Mechanics]]
+	- [[#Mechanics#Kinematics|Kinematics]]
+	- [[#Mechanics#Rigid Bodies and Physics Engines|Rigid Bodies and Physics Engines]]
+	- [[#Mechanics#Fluid Mechanics|Fluid Mechanics]]
+	- [[#Mechanics#Gravity|Gravity]]
+- [[#Waves and Acoustics|Waves and Acoustics]]
+	- [[#Waves and Acoustics#Mechanical Waves|Mechanical Waves]]
+	- [[#Waves and Acoustics#Sound|Sound]]
+- [[#Thermodynamics|Thermodynamics]]
+- [[#Electromagnetism|Electromagnetism]]
+- [[#Optics|Optics]]
+- [[#Relativity|Relativity]]
+- [[#Quantum Physics|Quantum Physics]]
+- [[#Astrophysics|Astrophysics]]
+- [[#Geophysics|Geophysics]]
+- [[#Organizations|Organizations]]
+- [[#Programming Physics|Programming Physics]]
+- [[#Notes|Notes]]
+- [[#Related MOCs|Related MOCs]]
+- [[#Dataviews|Dataviews]]
+	- [[#Dataviews#Tagged as _Category/Physics_|Tagged as _Category/Physics_]]
+	- [[#Dataviews#Links to this File|Links to this File]]
+
 
 ## Overview
 
@@ -188,6 +190,9 @@ _Physics_ Map of Content houses all notes related to Physics in general.
 ## Notes
 
 
+## People
+
+## 
 
 
 

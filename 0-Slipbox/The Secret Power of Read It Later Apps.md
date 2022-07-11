@@ -303,7 +303,7 @@ Join 50,000+ people receiving my best ideas on learning, productivity & knowledg
 - [[Personal Knowledge Management]]
 - [[Feedly]]
 - [[Evernote]]
-- [[Digital Tools I Wish Existed]]
+- [[3-Resources/Highlights/Readwise 1/Articles/Digital Tools I Wish Existed]]
 - [[Hypothesis.io]]
 - [[3-Resources/Highlights/_README|Highlights]]
 

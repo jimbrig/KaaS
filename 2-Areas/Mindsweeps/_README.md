@@ -24,7 +24,7 @@ Alias: Mindsweeps
 [[Ten Step GTD Setup List|GTD Setup List]]
 [[GTD Weekly Review]]
 [[GTD-WildSuccess-MindSweep.pdf]]
-[[GTD Refresh, Part 5 Building the Weekly Review Habit]]
+[[3-Resources/Highlights/Readwise 1/Articles/GTD Refresh, Part 5 Building the Weekly Review Habit]]
 
 *Contents*
 

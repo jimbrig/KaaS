@@ -115,7 +115,7 @@ Don’t place blame, but do demonstrate that your team is doing their very best 
 - [[Development]]
 - [[Software Development]]
 - [[Agile Development]]
-- [[RDatascience - Career Tips From an Old Timer]]
+- [[3-Resources/Highlights/Readwise 1/Articles/RDatascience - Career Tips From an Old Timer]]
 
 *Backlinks:*
 

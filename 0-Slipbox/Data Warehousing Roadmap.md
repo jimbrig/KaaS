@@ -82,5 +82,5 @@ Your data warehouse is set to stand the tests of time and granularity. It has to
 - [[Data Mart]]
 - [[Data Lake]]
 - [[Data Warehousing for Insurance Data]]
-- [[Data Warehouse Insurance - Kimball Group]]
+- [[3-Resources/Highlights/Readwise 1/Articles/Data Warehouse Insurance - Kimball Group]]
 - [[Data Warehousing Concepts and Definitions]]

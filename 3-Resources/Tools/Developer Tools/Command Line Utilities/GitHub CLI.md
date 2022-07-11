@@ -84,7 +84,7 @@ Current respected settings:
 - [[Tools]]
 - [[CLI Tools List]]
 - [[GitHub]]
-- [[Top GitHub Best Practices for Developers]]
+- [[3-Resources/Highlights/Readwise 1/Articles/Top GitHub Best Practices for Developers]]
 
 *Backlinks:*
 

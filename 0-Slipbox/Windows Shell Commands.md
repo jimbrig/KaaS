@@ -154,7 +154,7 @@ Alias: "Windows Shell Commands"
 
 - [[Windows Dotfiles Musings]]
 - [[Windows Developer Environment]]
-- [[Tipsandtricks - Windows10]]
+- [[3-Resources/Highlights/Readwise 1/Articles/Tipsandtricks - Windows10]]
 
 *Backlinks:*
 

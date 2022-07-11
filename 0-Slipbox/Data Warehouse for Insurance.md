@@ -9,7 +9,7 @@ Alias: "Data Warehouse for Insurance"
 
 *Source: [How to Build a Data Warehouse for Insurance | Blog Post (aptitive.com)](https://aptitive.com/blog/how-to-build-a-data-warehouse-for-insurance/)*
 
-*Highlights: [[How to Build a Data Warehouse for the Insurance Industry]]*
+*Highlights: [[3-Resources/Highlights/Readwise 1/Articles/How to Build a Data Warehouse for the Insurance Industry]]*
 
 ## Contents
 

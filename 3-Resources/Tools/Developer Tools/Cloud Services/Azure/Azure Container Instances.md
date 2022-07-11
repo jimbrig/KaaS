@@ -171,7 +171,7 @@ az group delete --name az204-aci-rg --no-wait
 - [[Cloud Computing]]
 - [[Azure CLI]]
 - [[Azure Container Registry]]
-- [[Dev Environments as Code With Containers and Visual Studio Code]]
+- [[3-Resources/Highlights/Readwise 1/Articles/Dev Environments as Code With Containers and Visual Studio Code]]
 - [[3-Resources/Tools/Developer Tools/Docker/_README|Docker]]
 - [[Dockerfiles]]
 - [[Docker Compose]]

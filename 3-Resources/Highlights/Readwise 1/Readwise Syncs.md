@@ -565,3 +565,5 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
     - 2 highlights from My Personal Note About Note-Taking
     - 76 highlights from Liked Tweets
 
+- [[2022-07-11]] 9:18 AM — Synced 0 highlights from 0 documents.
+

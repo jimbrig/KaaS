@@ -47,7 +47,7 @@ Once you’ve collected things in your in-tray, you can figure out how to action
 ### Related
 
 - [[Getting Things Done]]
-- [[How to Get and Remain Organized During Chaotic Times]]
+- [[3-Resources/Highlights/Readwise 1/Articles/How to Get and Remain Organized During Chaotic Times]]
 
 ### External Resources
 

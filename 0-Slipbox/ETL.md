@@ -47,7 +47,7 @@ It is also important to have a logging system in the pipeline in order to keep t
 
 *Backlinks:*
 
--   [[The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
+-   [[3-Resources/Highlights/Readwise 1/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
 -   [[Stored Procedures - SQL Server]]
 -   [[Data Warehousing Concepts and Definitions]]
 

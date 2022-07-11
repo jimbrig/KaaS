@@ -204,7 +204,7 @@ The true business advantage of having a data warehouse is that it offers a signi
 - [[AWS Glue]]
 - [[Amazon Athena]]
 - [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|AWS]]
-- [[What Is Data Modeling]]
+- [[3-Resources/Highlights/Readwise 1/Articles/What Is Data Modeling]]
 - [[Data Engineers]]
 - [[Data Engineering]]
 

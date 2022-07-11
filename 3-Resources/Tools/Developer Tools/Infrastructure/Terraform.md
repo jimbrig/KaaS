@@ -54,7 +54,7 @@ Some of Terraform's core components include:
 
 - [[Tools]]
 - [[Infrastructure as Code]]
-- [[Infrastructure as Code with Christian Tragesser]]
+- [[3-Resources/Highlights/Readwise 1/Podcasts/Infrastructure as Code with Christian Tragesser]]
 - [[Azure Terraform Bootstrap Walkthrough]]
 - [[Exploring Terraform on Azure]]
 

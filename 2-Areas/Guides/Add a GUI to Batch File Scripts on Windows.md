@@ -7,7 +7,7 @@ Alias: "Add a GUI to Batch File Scripts on Windows"
 
 # Add a GUI to Batch File Scripts on Windows
 
-Callback: [[How to Enhance Your Windows Batch Files by Adding GUI]]
+Callback: [[3-Resources/Highlights/Readwise 1/Articles/How to Enhance Your Windows Batch Files by Adding GUI]]
 
 ## Contents
 

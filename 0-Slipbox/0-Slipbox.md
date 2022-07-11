@@ -159,7 +159,7 @@
 	- [[VBA Classes and Solid Programming Principles]]
 	- [[VBA Data Types]]
 	- [[Visual Studio Code Notebooks Deepdive]]
-	- [[Web Application Architecture]]
+	- [[0-Slipbox/Web Application Architecture]]
 	- [[Weekly Review Musings]]
 	- [[Windows Dotfiles Musings]]
 	- [[Windows Shell Commands]]

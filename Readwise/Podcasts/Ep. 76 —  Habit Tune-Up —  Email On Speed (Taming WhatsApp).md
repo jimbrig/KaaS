@@ -1,0 +1,26 @@
+---
+Date: 2022-07-11
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Source: snipd
+Link: 
+Tags: ["#Type/Highlight/Podcast"]
+Aliases: ["Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)", "Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)"]
+---
+# Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
+
+## Metadata
+- Author: [[Deep Questions with Cal Newport]]
+- Full Title: Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
+- Category: #Type/Highlight/Podcast
+
+## Highlights
+- Is There a Strategic Plan For Small Projects?
+  Summary:
+  Artless Thursday is a weekly, offbeat look at how the pod cast stays on track. This week we're talking about task archiving and using Trello to help you get ahead in your work life. We'll also be looking at some of the challenges that come with working from home.
+  Transcript:
+  Speaker 1
+  I
+  Speaker 2
+  do newport totanis from germany, a question regarding quarterly planning. So is a project engineer im confronted with projects that om yet popup like some time and or due in the next, like, two to three weeks? So em, i don't usually put them on my quality plan because they like so r just just popping up. And er, i wonder what what your approach would be like a eve separate project masterlist, where i put those things on and just work through them, or also implement them into my
+  Speaker 1
+  so denis is using the phrase quarterly plan. In the previous question. Shan used the term strategic plan. They're talking about the same thing, this plan that you up date roughly once a quarter and use to influence your weekly plan. Now, as i talked about with shan, i tend to just include what i call big rocks projects on the strategic plan, things, things that are important, large scale, and not otherwise have progress made on them. I should probably give credit, by the way. Big rocks in this context is an allusion to stephen covey. So stephen covey talked about making room for the big rock projects, and then all the other things need to do can fill into, fill into cracks between the big rocks, like sand. Whereas, if you put the small things in first, you don't have room for the big rocks. It was one of his productivity metaphors that's had along along long life afterward. So that's where that phrase comes from. With that in mind, theyd, know, i probably would not put most small projects on to my strategic plan. So the question is, where should they exist? I think it depends on the scope of the project. If it's really something that's going to just take a day or two of work, you know, a boss says he can you put together a slide deck for this client, somethig you're ging to do in four or five hours? I usualy wy just put a note on my calendar for the beginning of the week in which i plan to work on it. And then when i get to that week and i'm doing my weekly plan and i look at my calendar, i'll see that note and say, a i got to make time on my calendar for, i got to make time in my weekly plan rather, for working on this project. If it's slightly bigger, i'll give it its own category in my task system. For example, the book launch i just did had its own column on the writer board in trello. So all the tasks related to this book launch had its own column. And a lot of those popped up. There's a lot of small tasks that arise for this particular project. Even this relatively short term, it takes place over a few weeks, there's a lot to do and keep track of. And so i kept it in that column. And then when im just working on my weekly plan, whan i'm working on my daily plan, i see those tasks right there, and i can know what i need to get done and make progress on it. Also, as new things pop up on my radar that's important for the launch, i can drop em in that list and know i will see them and they won't be lost. So for small to mid size projects, that's probably where things are going to exist for me, either a calendar reminder to make time in that upcoming week or its own column in my tast system, on the relevant board. So i will see those tasks very clearly, see them alltogether, and and therefore make sure to make progress on them as the time is right. Whereas if you look at my strategic plan and look under the section for writing, there's can be bigger picture things on there. There can be some bigger picture thoughts about where i'm going with this pod cast. There's some bigger picture thoughts on the next book i want to write. There'se some bigger picture thoughts what i'm trying to do with my article writing. That's the type of thing that's on my strategic plan, not pulling together excerpts for my book launch, or getting the pastorad protection working properly on my pre order bonus, et cetera. That's going to just be on a separate task list, right? So i hope that denis clarifies things for you. And by the way, i appreciate the fact thatyo walking when you ask that question. Because what's the benefit of having this moment of force remote work if we can't do more of it outside or in other types of more aspirational context. So good for you. Artless to a question now, about task archiving. ([Time 0:08:26](https://share.snipd.com/snip/fa332d91-c9b1-451c-baf1-a270dc843d53))

@@ -11,7 +11,7 @@ Alias: ["<% tp.file.title %>"]
 
 ## Appendix: Links
 
-- [[Tools]]
+- [[3-Resources/Tools/_README|Tools]]
 
 *Backlinks:*
 

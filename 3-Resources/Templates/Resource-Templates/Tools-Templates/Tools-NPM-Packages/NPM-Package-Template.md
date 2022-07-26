@@ -13,7 +13,7 @@ Alias: ["<% tp.file.title %>"]
 
 ## Appendix: Links
 
-- [[Tools]]
+- [[3-Resources/Tools/_README|Tools]]
 - [[Development]]
 - [[Nodejs]]
 - [[3-Resources/Tools/NPM Packages/_README|npm Packages]]

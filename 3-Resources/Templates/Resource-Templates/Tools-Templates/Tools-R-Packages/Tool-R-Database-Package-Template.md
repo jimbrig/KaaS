@@ -13,7 +13,7 @@ Alias: ["<% tp.file.title %>", "<% tp.file.title %>"]
 
 ## Appendix: Links
 
-- [[Tools]]
+- [[3-Resources/Tools/_README|Tools]]
 - [[Development]]
 - [[2-Areas/MOCs/R]]
 - [[R - Database Packages List]]

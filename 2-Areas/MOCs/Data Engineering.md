@@ -23,6 +23,7 @@ Alias: "Data Engineering"
 - **[[Business Intelligence]]**
 - **[[Data Science]]**
 - **[[Modeling]]**
+- **[[Data Transformation]]
 
 ### Data Modeling
 
@@ -71,6 +72,8 @@ Alias: "Data Engineering"
 - [[Azure Data Studio]]
 - [[dbt - Data Build Tool]]
 - [[R Package - dbx]]
+- [[Excel]], [[Excel VBA]], and [[Power Query]] / [[Power Pivot]]
+- [[Power BI]], [[Tableau]], [[AWS QuickSight]]
 
 ### Lists
 
@@ -89,6 +92,8 @@ Alias: "Data Engineering"
 - [[Data Pipeline Architecture]]
 - [[PostgreSQL Tools List]]
 - [[PostgreSQL Triggers]]
+- [[Excel VBA Resource List]]
+
 
 
 ***

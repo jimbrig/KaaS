@@ -587,3 +587,8 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
     - 4 highlights from The Importance of Cleaning Up Data | AccountingWEB
     - 1 highlights from Who Is a Good Communicator? - DEV Community 👩‍💻👨‍💻
 
+- [[2022-07-28]] 12:53 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from RStudio Is Becoming Posit
+
+- [[2022-07-26]] 7:10 PM — Synced 0 highlights from 0 documents.
+

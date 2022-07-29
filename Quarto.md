@@ -26,4 +26,4 @@ The following is a Quarto document with the extension `.qmd` (on the left) alo
 
 ```dataview
 list from [[Quarto]] AND -"Changelog"
-`
+```

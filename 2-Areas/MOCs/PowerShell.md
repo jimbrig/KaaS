@@ -13,6 +13,7 @@ Alias: "PowerShell"
 
 - [[Documenting PowerShell Modules]]
 - [[PowerShell - Edge Scripts]]
+- [[Working with the Registry from PowerShell]]
 
 ## Modules
 

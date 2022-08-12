@@ -197,6 +197,11 @@ rules:
 ## Appendix: Links
 
 - [[3-Resources/Tools/_README|Tools]]
+- [[Log - New Discoveries]]
+- [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utilities]]
+- [[CLI Tools List]]
+- [[Python]]
+- [[Development]]
 
 *Backlinks:*
 

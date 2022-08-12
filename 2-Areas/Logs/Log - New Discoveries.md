@@ -24,7 +24,6 @@ Alias: "Log - New Discoveries"
 	- Discovered a new [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utility]] built with [[Python]] called [[3-Resources/Tools/Developer Tools/Command Line Utilities/organize|organize]]. This is a great tool and I have already implemented it to run various cleanup commands on my work machine.
 - [[2022-08-11]]: 
 	- Discovered how to map a network drive and assign it a drive letter using [[PowerShell]]. See the corresponding note here: [[PowerShell - Map Network Drive]].
-- [[2022-08-11]]: 
 	- Discovered how to set the default browser in [[WSL]] to utilize the Window's host machines browser via `x-www-browser`: See corresponding note here: [[Bash - WSL - Set Default Browser to Windows Host]].
 - **PRIOR**:
 	- [[dbdiagram.io]] / [[DBML]] / [[dbdocs]]

@@ -237,7 +237,7 @@ See [[3-Resources/Tools/_README|Tools]] for a vast listing of useful tools I've 
     - [[3-Resources/Tools/Developer Tools/IDE/_README|IDE]]
     - [[3-Resources/Tools/Developer Tools/Languages/_README|Languages]]
         - [[3-Resources/Tools/Developer Tools/Languages/JavaScript/_README|JavaScript]]
-        - [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
+        - [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell]]
         - [[3-Resources/Tools/Developer Tools/Languages/Python/_README|Python]]
         - [[3-Resources/Tools/Developer Tools/Languages/R/_README|R]]
     - [[3-Resources/Tools/Developer Tools/Linux/_README|Linux]]
@@ -251,8 +251,7 @@ And many others!
 
 ***
 
-
-<p align="center"><img src="https://i.imgur.com/6msNgxN.png" height="55%" width="55%"/></p>
+![[Pasted image 20220812204915.png]]
 
 ***
 

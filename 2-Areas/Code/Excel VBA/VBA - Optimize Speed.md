@@ -9,6 +9,28 @@ Alias: ["VBA - Optimize Speed"]
 
 *Source: *
 
+## Contents
+
+- [[#OptimizeCodeSpeed|OptimizeCodeSpeed]]
+- [[#OptimizeCodeSpeedRestore|OptimizeCodeSpeedRestore]]
+- [[#LudicrousMode|LudicrousMode]]
+- [[#Example|Example]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+## OptimizeVBA
+
+```VBA
+Sub OptimizeVBA(isOn As Boolean)
+    Application.Calculation = IIf(isOn, xlCalculationManual, xlCalculationAutomatic)
+    Application.EnableEvents = Not (isOn)
+    Application.ScreenUpdating = Not (isOn)
+    ActiveSheet.DisplayPageBreaks = Not (isOn)
+End Sub
+```
+
+## OptimizeCodeSpeed
+
 ```VBA
 Public Sub OptimizeCodeSpeed()
 
@@ -27,6 +49,8 @@ Public Sub OptimizeCodeSpeed()
 End Sub
 ```
 
+## OptimizeCodeSpeedRestore
+
 ```VBA
 Public Sub OptimizeCodeSpeedRestore()
 
@@ -44,6 +68,8 @@ Public Sub OptimizeCodeSpeedRestore()
 End Sub
 ```
 
+## LudicrousMode
+
 ```VBA
 'Adjusts Excel settings for faster VBA processing
 Public Sub LudicrousMode(ByVal Toggle As Boolean)
@@ -56,6 +82,8 @@ Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.Calculation = IIf(Toggle, xlCalculationManual, xlCalculationAutomatic)
 End Sub
 ```
+
+## Example
 
 ```VBA
 Sub example()

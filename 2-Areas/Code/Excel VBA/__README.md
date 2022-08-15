@@ -7,7 +7,7 @@ Alias: ["Excel VBA", "Visual Basic for Applications", "VBA"]
 
 # VBA
 
--   [[VBA Notes]]
+-   [[VBA - Notes]]
 -   [[VBA - Refresh All]]
 -   [[VBA - Unhide All Worksheets]]
 -   [[VBA - Useful Utilities]]
@@ -30,7 +30,7 @@ Alias: ["Excel VBA", "Visual Basic for Applications", "VBA"]
 
 ### VBA - Notes
 
-![[VBA Notes]]
+![[VBA - Notes]]
 
 ### VBA - Useful Utilities
 

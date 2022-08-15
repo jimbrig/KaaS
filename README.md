@@ -156,7 +156,7 @@ See the [[2-Areas/Code/_README|Code]] folder's README for details on all of the 
 
 Currently I have code snippets for the following categories:
 
-- [[2-Areas/Code/Windows/PowerShell/_README|PowerShell]] (Core)
+- [[2-Areas/Code/PowerShell 1/_README|PowerShell]] (Core)
 - [[2-Areas/Code/Python/_README|Python]]
 - [[2-Areas/Code/R/_README|R]]
 
@@ -167,13 +167,13 @@ Currently I have code snippets for the following categories:
     - [[2-Areas/Code/SQL/BigQuery/_README|BigQuery]]
 
 - [[2-Areas/Code/Windows/_README|Windows]]
-    - [[2-Areas/Code/Windows/Miscellaneous/_README|Miscellaneous]]
-    - [[2-Areas/Code/Windows/Batch/_README|Batch]]
-    - [[2-Areas/Code/Windows/Windows CMD/_README|Windows Command Line]]
-    - [[2-Areas/Code/Windows/Run/_README|Run]]
-    - [[2-Areas/Code/Windows/Registry/_README|Registry]]
-    - [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
-    - [[2-Areas/Code/Windows/Windows PowerShell/_README|Windows PowerShell]]
+    - [[2-Areas/Code/Windows Misc/_README|Miscellaneous]]
+    - [[2-Areas/Code/Windows Batch/_README|Batch]]
+    - [[2-Areas/Code/Windows CMD/_README|Windows Command Line]]
+    - [[2-Areas/Code/Windows Run/_README|Run]]
+    - [[2-Areas/Code/Windows Registry/_README|Registry]]
+    - [[__README|VBA]]
+    - [[2-Areas/Code/Windows PowerShell/_README|Windows PowerShell]]
 
 Plus:
 

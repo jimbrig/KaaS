@@ -12,7 +12,7 @@ Alias: ["MZ Tools For VBA Development"]
 ## Appendix: Links
 
 - [[3-Resources/Tools/_README|Tools]]
-- [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
+- [[__README|VBA]]
 
 *Backlinks:*
 

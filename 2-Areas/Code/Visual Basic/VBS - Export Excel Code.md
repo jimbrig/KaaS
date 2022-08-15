@@ -575,7 +575,7 @@ Dim sFileName
 	End if
 ```
 
-Then, use the helper [[2-Areas/Code/Windows/Windows CMD/_README|CMD]] script to call this Visual Basic script with a single parameter/argument for the excel file to export from:
+Then, use the helper [[2-Areas/Code/Windows CMD/_README|CMD]] script to call this Visual Basic script with a single parameter/argument for the excel file to export from:
 
 ```cmd
 cscript excel_export_code.vbs demo.xlsm //nologo

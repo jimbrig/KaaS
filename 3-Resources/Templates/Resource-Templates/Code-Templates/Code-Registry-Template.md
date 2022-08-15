@@ -24,7 +24,7 @@ Alias: ["<% tp.file.title %>"]
 - [[Command Line]]
 - [[2-Areas/MOCs/PowerShell]]
 - [[Microsoft]]
-- [[2-Areas/Code/Windows/Registry/_README|Registry]]
+- [[2-Areas/Code/Windows Registry/_README|Registry]]
 
 *Backlinks:*
 

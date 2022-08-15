@@ -44,7 +44,7 @@ cmd.exe /c @echo off &
 
 ### Original Solution
 
-- Using a [[2-Areas/Code/Windows/Batch/_README|Batch]] File: `restart-explorer.bat`:
+- Using a [[2-Areas/Code/Windows Batch/_README|Batch]] File: `restart-explorer.bat`:
 
 ```powershell
 taskkill /f /im explorer.exe

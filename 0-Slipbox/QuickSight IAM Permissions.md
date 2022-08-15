@@ -1,7 +1,7 @@
 ---
 Date: 2022-05-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud/AWS"]
 Alias: "QuickSight IAM Permissions"
 ---
 

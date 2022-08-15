@@ -13,9 +13,13 @@ Alias: ["PowerShell - Map Network Drive"]
 
 ## Used at Work
 
+Used to map the *Philadelphia* network drive (`\\Mphiafilefsp001\ABS_PHI1_GRP\Assurance\FS\AIMS`) to drive letter `Y:`:
+
 ```powershell
-(New-Object -ComObject WScript.Network).MapNetworkDrive('Y:','\\',$true)
+(New-Object -ComObject WScript.Network).MapNetworkDrive("Y:", "\\Mphiafilefsp001\ABS_PHI1_GRP\Assurance\FS\AIMS",$true)
 ```
+
+## Implementation
 
 ```powershell
 $drv = $(New-Object -Com WScript.Network)
@@ -27,6 +31,8 @@ or a one-liner:
 ```powershell
 (New-Object -ComObject WScript.Network).MapNetworkDrive('Z:','\\server\folder')
 ```
+
+## Persistent Mapped Drive
 
 This will not map the drive persistently. In other words, the drive will disappear after reboot or when a user logs out. To ensure the drive mapping is persistent a third argument should be added–a _Boolean_ value set to true:
 

@@ -1,7 +1,7 @@
 ---
 Date: 2021-11-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
+Tags: ["#Type/Tool/Cloud/AWS", "#Topic/Dev/Cloud/AWS"]
 Alias: "AWS Athena"
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: 2022-02-09
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
+Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell", "#Topic/Dev/Cloud/AWS"]
 Alias: ["Install AWS CLI"]
 ---
 

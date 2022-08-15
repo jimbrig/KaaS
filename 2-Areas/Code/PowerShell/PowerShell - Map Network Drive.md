@@ -11,6 +11,12 @@ Alias: ["PowerShell - Map Network Drive"]
 *See Also: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wscript*
 *Backlink: [[Log - New Discoveries#Map Network Drive with PowerShell]]*
 
+## Used at Work
+
+```powershell
+(New-Object -ComObject WScript.Network).MapNetworkDrive('Y:','\\',$true)
+```
+
 ```powershell
 $drv = $(New-Object -Com WScript.Network)
 $drv.MapNetworkDrive("Y:", "\\<server>\<path\to\folder>")

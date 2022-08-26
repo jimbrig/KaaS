@@ -84,5 +84,5 @@ list from "2-Areas/Code/Windows/Visual Basic" AND !#Type/Readme
 *Backlinks*
 
 ```dataview
-list from [[_README]] AND -"Changelog"
+list from [[[[2-Areas/Content/Ideas/_README|_README]]]] AND -"Changelog"
 ```

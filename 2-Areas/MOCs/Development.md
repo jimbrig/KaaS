@@ -7,7 +7,7 @@ Alias: "Development"
 
 # Development
 
-*Development* Map of Content houses all notes related to Development in general.
+*Development* [[2-Areas/MOCs/_README|Map of Content]] houses all notes related to [[Development]] in general.
 
 ## Contents
 
@@ -93,7 +93,7 @@ Alias: "Development"
 - [[AWS QuickSight]]
 - [[AWS Redshift]]
 
-**Azure Tools:**
+**Azure [[3-Resources/Tools/_README|Tools]]:**
 
 - [[Azure Data Studio]]
 - [[Azure DevOps]]
@@ -167,6 +167,8 @@ Alias: "Development"
 
 ### Miscellaneous
 
+- [[Online Developer Tools List]]
+
 **Miscellaneous:**
 
 - [[Lepton]]
@@ -213,6 +215,8 @@ Alias: "Development"
 
 - [[Unified Architecture Framework]] | [[Unified Architecture Framework|Model Based Systems Engineering]]
 - [[Business Process Model and Notation]]
+- [[Web Application Architecture]]
+- 
 
 ## Development Links
 
@@ -231,3 +235,4 @@ list from #Topic/Dev AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```dataview
 list from [[Development]] AND -"Changelog"
 ```
+

@@ -1,6 +1,15 @@
-# command index
+---
+Date: 2022-08-26
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Clipping", "#Topic/Dev/PowerShell", "#Topic/Dev/SQL"]
+Alias: ["dbatools commands"]
+---
 
-dbatools is a free PowerShell module with over 500 SQL Server best practice, administration, development and migration commands included. Currently, other components of SQL Server such as SSIS, SSRS and SSAS are not supported, but they are part of the overall goal.
+# dbatools Command Index
+
+*Source: https://dbatools.io/commands/*
+
+[[dbatools]] is a free [[PowerShell]] module with over 500 [[SQL Server]] best practice, administration, development and migration commands included. Currently, other components of SQL Server such as SSIS, SSRS and SSAS are not supported, but they are part of the overall goal.
 
 The high number of commands may seem overwhelming but think of it like learning SQL Server. Start with the basics like Logins, Jobs, or Backup/Restore and later on, you can move on to Extended Events. To make it easier, we’ve included [simplified usage examples](https://dbatools.io/getting-started) that can help you get started.
 
@@ -888,3 +897,22 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Install-DbatoolsWatchUpdate](http://docs.dbatools.io/Install-DbatoolsWatchUpdate)  
 [Uninstall-DbatoolsWatchUpdate](http://docs.dbatools.io/Uninstall-DbatoolsWatchUpdate)  
 [Watch-DbatoolsUpdate](http://docs.dbatools.io/Watch-DbatoolsUpdate)
+
+***
+
+## Appendix: Links and References
+
+- [[2022-08-26]]
+- [[PowerShell]]
+- [[PowerShell Modules]]
+- [[Development]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
+- [[SQL]]
+- [[SQL Server]]
+- [[Microsoft]]
+- [[Windows Terminal]]
+- [[CLI Tools List]]
+
+***
+
+Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

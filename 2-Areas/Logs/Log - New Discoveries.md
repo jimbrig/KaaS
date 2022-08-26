@@ -20,7 +20,7 @@ Alias: "Log - New Discoveries"
 
 ## Logged Discoveries
 
-- [[2022-08-12]]: 
+- [[2022-08-12 1]]: 
 	- Discovered a new [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utility]] built with [[Python]] called [[3-Resources/Tools/Developer Tools/Command Line Utilities/organize|organize]]. This is a great tool and I have already implemented it to run various cleanup commands on my work machine.
 - [[2022-08-11]]: 
 	- Discovered how to map a network drive and assign it a drive letter using [[PowerShell]]. See the corresponding note here: [[PowerShell - Map Network Drive]].
@@ -34,7 +34,7 @@ Alias: "Log - New Discoveries"
 
 ### Organize CLI
 
-- [[2022-08-12]]: Discovered a new [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utility]] built with [[Python]] called [[3-Resources/Tools/Developer Tools/Command Line Utilities/organize|organize]]. This is a great tool and I have already implemented it to run various cleanup commands on my work machine.
+- [[2022-08-12 1]]: Discovered a new [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utility]] built with [[Python]] called [[3-Resources/Tools/Developer Tools/Command Line Utilities/organize|organize]]. This is a great tool and I have already implemented it to run various cleanup commands on my work machine.
 
 ### Map Network Drive with PowerShell
 
@@ -66,4 +66,4 @@ list from [[Log - New Discoveries]] AND -"Changelog"
 
 ***
 
-Jimmy Briggs | [[2022-08-12]]
+Jimmy Briggs | [[2022-08-12 1]]

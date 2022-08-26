@@ -11,26 +11,32 @@ Alias: "Log - New Discoveries"
 
 ## Contents
 
-- [[#Contents|Contents]]
 - [[#Logged Discoveries|Logged Discoveries]]
-	- [[#Logged Discoveries#Organize CLI|Organize CLI]]
-	- [[#Logged Discoveries#Map Network Drive with PowerShell|Map Network Drive with PowerShell]]
-	- [[#Logged Discoveries#Set Default Browser in WSL to Windows Host|Set Default Browser in WSL to Windows Host]]
+- [[#Prior Discoveries Worth Noting|Prior Discoveries Worth Noting]]
+	- [[#Prior Discoveries Worth Noting#Organize CLI|Organize CLI]]
+	- [[#Prior Discoveries Worth Noting#Map Network Drive with PowerShell|Map Network Drive with PowerShell]]
+	- [[#Prior Discoveries Worth Noting#Set Default Browser in WSL to Windows Host|Set Default Browser in WSL to Windows Host]]
 - [[#Appendix: Links and References|Appendix: Links and References]]
+
 
 ## Logged Discoveries
 
-- [[2022-08-12 1]]: 
+- [[2022-08-26]]:
+	- https://addons.mozilla.org/en-US/firefox/addon/obsidian-clipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+- [[2022-08-12]]: 
 	- Discovered a new [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README|Command Line Utility]] built with [[Python]] called [[3-Resources/Tools/Developer Tools/Command Line Utilities/organize|organize]]. This is a great tool and I have already implemented it to run various cleanup commands on my work machine.
 - [[2022-08-11]]: 
 	- Discovered how to map a network drive and assign it a drive letter using [[PowerShell]]. See the corresponding note here: [[PowerShell - Map Network Drive]].
-	- Discovered how to set the default browser in [[WSL]] to utilize the Window's host machines browser via `x-www-browser`: See corresponding note here: [[Bash - WSL - Set Default Browser to Windows Host]].
-- **PRIOR**:
-	- [[dbdiagram.io]] / [[DBML]] / [[dbdocs]]
-	- [[ffsend]] / [[send.vis.ee]]
-	- [[topgrade]]
-	- [[git-cliff]]
-	- [[git-crypt]]
+	- Discovered how to set the default browser in [[Windows Subsystem for Linux|WSL]] to utilize the Window's host machines browser via `x-www-browser`: See corresponding note here: [[Bash - WSL - Set Default Browser to Windows Host]].
+
+## Prior Discoveries Worth Noting
+
+- [[dbdiagram.io]] / [[DBML]] / [[dbdocs]]
+- [[ffsend]] / [[send.vis.ee]]
+- [[topgrade]]
+- [[git-cliff]]
+- [[git-crypt]]
 
 ### Organize CLI
 

@@ -21,9 +21,9 @@ and we may turn it into something more informative, such as this:
 
 ![Informative table](https://www.accountingweb.co.uk/sites/default/files/styles/content_full_width/public/2_65.png?itok=XBD8ox5i)
 
-Each attribute (known as a **field**) in a table typically contains a category of data. A **[[crosstab query]]** _(similar to the one pictured, above)_ summarizes the data from one or more of these fields that are separated into groups based on one or more fields.
+Each attribute (known as a **field**) in a table typically contains a category of data. A **[[SQL Crosstab Query]]** _(similar to the one pictured, above)_ summarizes the data from one or more of these fields that are separated into groups based on one or more fields.
 
-Essentially, a [[crosstab query]] summarizes data in more than one [[dimension]] to provide insight that may not be immediately forthcoming otherwise. 
+Essentially, a [[SQL Crosstab Query]] summarizes data in more than one [[dimension]] to provide insight that may not be immediately forthcoming otherwise. 
 
 For example, given the source data, how could you possibly notice that Sales for Quarter 4 in the South are very low relative to other quarters and regions?
 

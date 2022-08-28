@@ -9,6 +9,28 @@ Alias: "US GAAP LDTI - Considerations for the Modeling Actuary"
 
 *Source: https://www.ey.com/en_us/insurance/finance-risk-actuarial-change/us-gaap-ldti-considerations-for-the-modeling-actuary*
 
+## Contents
+
+- [[#Overview|Overview]]
+- [[#Migrating Toward a Defined, yet Adaptive, Future State Vision|Migrating Toward a Defined, yet Adaptive, Future State Vision]]
+- [[#End-to-End Considerations|End-to-End Considerations]]
+	- [[#End-to-End Considerations#Consolidation and Centralization|Consolidation and Centralization]]
+		- [[#Consolidation and Centralization#Single Source of Truth Database Solutions|Single Source of Truth Database Solutions]]
+		- [[#Consolidation and Centralization#Consolidate and Standardize to Reduce Complexity|Consolidate and Standardize to Reduce Complexity]]
+		- [[#Consolidation and Centralization#Future Operating Model|Future Operating Model]]
+	- [[#End-to-End Considerations#Systems Integration and Automation|Systems Integration and Automation]]
+		- [[#Systems Integration and Automation#Data Staging and Preparation|Data Staging and Preparation]]
+		- [[#Systems Integration and Automation#Disclosures|Disclosures]]
+		- [[#Systems Integration and Automation#Integration-Centric Workflow|Integration-Centric Workflow]]
+	- [[#End-to-End Considerations#Advanced Analytical Capabilities|Advanced Analytical Capabilities]]
+		- [[#Advanced Analytical Capabilities#Dashboard Reporting|Dashboard Reporting]]
+		- [[#Advanced Analytical Capabilities#Artificial intelligence and machine learning (AIML)|Artificial intelligence and machine learning (AIML)]]
+- [[#Testing and validation: gaining comfort without a point of comparison|Testing and validation: gaining comfort without a point of comparison]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+## Overview
+
 > Whether largely a compliance or modernization exercise, the considerations for the modeling actuary are numerous.
 
 **In brief:**

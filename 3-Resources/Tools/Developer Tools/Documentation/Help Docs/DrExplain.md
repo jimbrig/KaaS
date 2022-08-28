@@ -44,7 +44,7 @@ You can also associate the CHM file with your VBA project via the VBE Editor's P
 
 - [[3-Resources/Tools/_README|Tools]]
 - [[Excel - VBA|VBA]]
-- [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
+- [[__README|VBA]]
 - [[Microsoft]]
 - [[Development]]
 - [[3-Resources/Tools/Developer Tools/Documentation/_README|Documentation]]

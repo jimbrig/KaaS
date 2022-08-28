@@ -93,10 +93,10 @@ tree_title: "Code Snippets"
 ## PowerShell (Core)
 
 - [**PowerShell**](2-Areas/MOCs/PowerShell.md) - PowerShell Code Snippets.
-    - [[PowerShell - Cleanup Windows Script]]: Cleanup and Debloat Windows
-    - [[PowerShell - Custom Installation Helpers]]: Some of my custom installation helper functions
-    - [[PowerShell - Edge Scripts]]: Edge related functions
-    - [[PowerShell - Git AutoCommit]]: Autocommit with [[Git]]
+    - [[2-Areas/Code/PowerShell/PowerShell - Cleanup Windows Script]]: Cleanup and Debloat Windows
+    - [[2-Areas/Code/PowerShell/PowerShell - Custom Installation Helpers]]: Some of my custom installation helper functions
+    - [[2-Areas/Code/PowerShell/PowerShell - Edge Scripts]]: Edge related functions
+    - [[2-Areas/Code/PowerShell/PowerShell - Git AutoCommit]]: Autocommit with [[Git]]
     - [[PowerShell - Install AWS CLI]]: Install [[AWS CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
     - [[PowerShell - Install Azure-CLI]]: Install [[Azure CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
     - [[PowerShell - Install Backblaze Client]]: Install the [[Backblaze]] Client 
@@ -218,7 +218,7 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 #Status/WIP
 
-- [[2-Areas/Code/Windows/Batch/_README|Batch]]
+- [[2-Areas/Code/Windows Batch/_README|Batch]]
     - [[Batch - MediaCreationTool]]
     - [[Batch - Magic Variables]]
 
@@ -251,7 +251,7 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 #### Visual Basic for Applications (VBA) - Excel VBA
 
-- [[VBA Notes]]
+- [[VBA - Notes]]
 
 - [[VBA - Alert]]
 - [[VBA - Balloon Notification]]
@@ -274,7 +274,7 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 ### Windows Command Line (CMD/MS-DOS)
 
-- [[2-Areas/Code/Windows/Windows CMD/_README|Windows Command Line]] - Windows Command Line Code Snippets.
+- [[2-Areas/Code/Windows CMD/_README|Windows Command Line]] - Windows Command Line Code Snippets.
     - [[CMD - Create a Network Performance Windows Report]]
     - [[CMD - Delete Network Data]]
     - [[CMD - Delete Windows Update Leftover Files]]

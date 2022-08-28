@@ -1,7 +1,7 @@
 ---
 Date: 2022-03-10
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud/AWS"]
+Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud/AWS", "#Topic/Dev/Cloud/DataLake"]
 Alias: "AWS S3 Data Lake Layers and Buckets Best Practices"
 ---
 

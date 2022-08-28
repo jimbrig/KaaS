@@ -80,7 +80,7 @@ Rename-ItemProperty -Path HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion -Name 
 
 ## Deleting Registry Entries
 
-To delete a key/entry from a specific path in the [[2-Areas/Code/Windows/Registry/_README|Registry]] use the `Remove-ItemProperty` cmdlet:
+To delete a key/entry from a specific path in the [[2-Areas/Code/Windows Registry/_README|Registry]] use the `Remove-ItemProperty` cmdlet:
 
 ```powershell
 Remove-ItemProperty -Path HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion -Name PSHome
@@ -95,10 +95,10 @@ Remove-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion -Name 
 
 - [[Development]]
 - [[PowerShell]]
-- [[2-Areas/Code/Windows/Windows PowerShell/_README|Windows PowerShell]]
+- [[2-Areas/Code/Windows PowerShell/_README|Windows PowerShell]]
 - [[2-Areas/Code/PowerShell/_README|PowerShell Code Snippets]]
 - [[2-Areas/Code/Windows/_README|Windows]]
-- [[2-Areas/Code/Windows/Registry/_README|Registry]]
+- [[2-Areas/Code/Windows Registry/_README|Registry]]
 
 *Backlinks:*
 

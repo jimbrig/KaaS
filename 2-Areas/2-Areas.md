@@ -52,10 +52,10 @@
 			- [[Pandoc - Convert Word to Markdown]]
 		- **PowerShell**
 			- [[2-Areas/_README]]
-			- [[PowerShell - Cleanup Windows Script]]
-			- [[PowerShell - Custom Installation Helpers]]
-			- [[PowerShell - Edge Scripts]]
-			- [[PowerShell - Git AutoCommit]]
+			- [[2-Areas/Code/PowerShell/PowerShell - Cleanup Windows Script]]
+			- [[2-Areas/Code/PowerShell/PowerShell - Custom Installation Helpers]]
+			- [[2-Areas/Code/PowerShell/PowerShell - Edge Scripts]]
+			- [[2-Areas/Code/PowerShell/PowerShell - Git AutoCommit]]
 		- **Python**
 			- [[2-Areas/_README]]
 			- [[Python - Upgrade PIP]]
@@ -159,10 +159,10 @@
 				- [[Add Tabs to Windows 11 Explorer]]
 			- **PowerShell**
 				- [[2-Areas/_README]]
-				- [[PowerShell - Cleanup Windows Script]]
-				- [[PowerShell - Custom Installation Helpers]]
-				- [[PowerShell - Edge Scripts]]
-				- [[PowerShell - Git AutoCommit]]
+				- [[2-Areas/Code/PowerShell/PowerShell - Cleanup Windows Script]]
+				- [[2-Areas/Code/PowerShell/PowerShell - Custom Installation Helpers]]
+				- [[2-Areas/Code/PowerShell/PowerShell - Edge Scripts]]
+				- [[2-Areas/Code/PowerShell/PowerShell - Git AutoCommit]]
 				- [[PowerShell - Install AWS CLI]]
 				- [[PowerShell - Install Azure-CLI]]
 				- [[PowerShell - Install Backblaze Client]]
@@ -214,7 +214,7 @@
 					- [[VBA - Unhide all Rows and Columns]]
 					- [[VBA - Unhide All Worksheets]]
 					- [[VBA - Useful Utilities]]
-					- [[VBA Notes]]
+					- [[VBA - Notes]]
 			- **Windows CMD**
 				- [[2-Areas/_README]]
 				- [[CMD - Create a Network Performance Windows Report]]

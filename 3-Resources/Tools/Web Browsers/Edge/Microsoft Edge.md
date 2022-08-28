@@ -10,7 +10,7 @@ Alias: [ "Microsoft Edge", "Edge" ]
 ## Notes
 
 - [[Edge Search Engines]]
-- [[PowerShell - Edge Scripts]]
+- [[2-Areas/Code/PowerShell/PowerShell - Edge Scripts]]
 - 
 
 

@@ -24,8 +24,11 @@ Get-NetAdapter | Where-Object {$_.InterfaceDescription -Match "PANGP Virtual Eth
 - [[Development]]
 - [[Windows Links]]
 - [[Microsoft DOS]]
-- [[Command Line]]
+- [[2-Areas/Code/Windows CMD/_README|Windows Command Line]]
+- [[2-Areas/Code/Linux/WSL/_README|WSL]]
+- [[Scripts]]
 - [[2-Areas/MOCs/PowerShell]]
+- [[Microsoft]]
 
 *Backlinks:*
 

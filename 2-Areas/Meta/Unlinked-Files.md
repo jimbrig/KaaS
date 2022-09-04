@@ -153,7 +153,7 @@
 - [[3-Resources/Highlights/Hypothesis/Configuring Your Flask App.md]]
 - [[3-Resources/Highlights/Hypothesis/Assign global hotkeys to launch any app in Windows 10.md]]
 - [[3-Resources/Highlights/Hypothesis/An Easy 5-Step Guide to Auditing Your Subscriptions, According to Experts.md]]
-- [[3-Resources/Highlights/Hypothesis/(25) Knowledge Management in Real Life  LinkedIn.md]]
+- [[Knowledge Management in Real Life  LinkedIn]]
 - [[Table Loading Strategies in Data warehousing.md]]
 - [[Selectively modernizing and migrating applications to AWS.md]]
 - [[Next in insurance Top insurance industry issues in 2022.md]]

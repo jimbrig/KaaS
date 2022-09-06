@@ -251,7 +251,7 @@ And many others!
 
 ***
 
-![[Pasted image 20220812204915.png]]
+![[graph.png]]
 
 ***
 

@@ -1,4 +1,4 @@
-# (25) Knowledge Management in Real Life | LinkedIn
+# Knowledge Management in Real Life | LinkedIn
 
 ## Metadata
 - Author: [linkedin.com]()

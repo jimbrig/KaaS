@@ -1,3 +1,23 @@
+---
+Date: 2022-09-09
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
+Alias: ["PowerShell - Extract Icon from EXE"]
+---
+
+# PowerShell - Extract Icon from EXE
+
+## Contents
+
+- [[#Function|Function]]
+- [[#Extract Multiple Icons from Exe’s in a Folder:|Extract Multiple Icons from Exe’s in a Folder:]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
+## Function
+
+*Source: Originally from [Extract Icon from .EXE Powershell (spiceworks.com)](https://community.spiceworks.com/topic/592770-extract-icon-from-exe-powershell) but altered for my needs.*
+
 ```powershell
 Function Get-ExeIcon {
 
@@ -38,26 +58,24 @@ Function Get-ExeIcon {
 }
 ```
 
+## Extract Multiple Icons from Exe’s in a Folder:
 
 ```powershell
-Function Get-ExeIcon {
+Function Get-ExeIconsFromFolder {
 	<#
-		.SYNOPSIS
-		Get-Icon extracts the icon image from an exe file 			and saves it as a .ico file in the same directory as
-the .exe file.
-.DESCRIPTION
-Get-DiskInventory will run on every .exe file in the specified
-directory by the folder PARAMETER then save a .ico file for
-every .exe discovered.
-.PARAMETER folder
-The directory containing the .exe files.
-.EXAMPLE
-Get-Icon -folder c:\exelocation -name
+	.SYNOPSIS
+	Retrieves icons for each exe file in a folder and saves it as an icon (.ico) file in the same directory as the .exe file.
+	.DESCRIPTION
+	Get-DiskInventory will run on every .exe file in the specified directory by the folder PARAMETER then save a .ico file for every .exe discovered.
+	.PARAMETER Folder
+	The directory containing the .exe files.
+	.EXAMPLE
+	Get-ExeIconsFromFolder -Folder "C:\Program Files\Google\Chrome\Application"
 	#>
 
     Param ( 
     [Parameter(Mandatory=$true)]
-    [string]$folder
+    [string]$Folder
     )
 
     [System.Reflection.Assembly]::LoadWithPartialName('System.Drawing')  | Out-Null
@@ -73,3 +91,25 @@ Get-Icon -folder c:\exelocation -name
 
 }
 ```
+
+***
+
+## Appendix: Links
+
+- [[2-Areas/Code/_README|Code]]
+- [[Development]]
+- [[Microsoft]]
+- [[Microsoft DOS]]
+- [[Microsoft DOS|Windows Command Line]]
+- [[2-Areas/MOCs/PowerShell]]
+- [[Batch Scripting Tips and Tricks]]
+
+*Backlinks:*
+
+```dataview
+list from [[PowerShell - Extract Icon from EXE]] AND -"Changelog"
+```
+
+
+
+

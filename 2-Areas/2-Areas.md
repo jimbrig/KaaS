@@ -180,8 +180,8 @@
 				- [[2-Areas/_README]]
 				- [[Regedit - Enable Long Path Support on Windows]]
 				- [[Regedit - Export Saved Registry Favorites]]
-				- [[RegEdit - Restart Explorer and StartMenu Context Bar]]
-				- [[RegEdit - Take Ownership Context Menu]]
+				- [[Regedit - Restart Explorer and StartMenu Context Bar]]
+				- [[Regedit - Take Ownership Context Menu]]
 			- **Run**
 				- [[2-Areas/_README]]
 				- [[Run - Check for Windows Store App Updates]]

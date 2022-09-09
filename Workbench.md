@@ -25,6 +25,45 @@ LIST FROM #Status/Todo
 
 ## Scratchpad
 
+[[2022-09-09]]
+
+- Organize [[Feedly]]:
+
+FEEDS:
+
+Development Related Categories:
+- R & R Shiny
+- PowerShell
+- Windows
+- Clouds
+	- Azure
+	- AWS
+	- GCP
+
+- Data Engineering
+
+- Databases
+	- PostgreSQL
+	- SQL Server
+	
+	- Command Line
+	
+	- Tools
+		- Git
+		
+	- Linux
+
+PKM
+
+- Obsidian
+- ZettelKasten
+- BASB
+- 
+
+PRODUCTIVITY
+
+
+
 
 ***
 

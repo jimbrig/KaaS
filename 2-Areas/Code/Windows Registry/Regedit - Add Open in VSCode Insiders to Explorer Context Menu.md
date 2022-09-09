@@ -12,6 +12,13 @@ Alias: ["Regedit - Add Open in VSCode Insiders to Explorer Context Menu"]
 ```registry
 Windows Registry Editor Version 5.00
 
+[HKEY_CLASSES_ROOT\Directory\shell\VSCodeInsiders]
+@="Open Folder as VS Code Insiders Project"
+"Icon"="\"C:\\Users\\jimmy\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\Code - Insiders.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\VSCodeInsiders\command]
+@="\"C:\\Users\\jimmy\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\Code - Insiders.exe\" \"%1\""
+
 ; Adds 'Open in VS Code - Insiders' to context menu (when you right click) in Windows Explorer.
 ; Based on http://thisdavej.com/right-click-on-windows-folder-and-open-with-visual-studio-code/
 ; and 
@@ -20,7 +27,8 @@ Windows Registry Editor Version 5.00
 ; Open files
 [HKEY_CLASSES_ROOT\*\shell\VSCodeInsiders]
 @="Edit with VS Code Insiders"
-"Icon"="\"C:\\Program Files (x86)\\Microsoft VS Code Insiders\\Code - Insiders.exe\",0"
+"Icon"="C:\\Users\\jimmy\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\Code - Insiders.exe"
+
 [HKEY_CLASSES_ROOT\*\shell\VSCodeInsiders\command]
 @="\"C:\\Program Files (x86)\\Microsoft VS Code Insiders\\Code - Insiders.exe\" \"%1\""
 

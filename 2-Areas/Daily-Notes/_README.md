@@ -10,7 +10,7 @@ Alias: ["Daily Notes"]
 *Contents*
 
 ```dataview
-list from "Daily-Notes" AND !#Type/Readme
+list from "2-Areas/Daily-Notes" AND !#Type/Readme
 ```
 
 ***

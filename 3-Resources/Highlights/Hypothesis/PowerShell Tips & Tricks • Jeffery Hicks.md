@@ -11,43 +11,43 @@ url: 'https://jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/'
 - Category: #Type/Highlight/Article
 
 ## Highlights
-- If you can’t run PowerShell effectively in the console, you’ll never be able to write an effective script. — [Updated on 2022-08-28 18:40:24](https://hyp.is/Z9SMuCciEe2-RB9bKkvc7A/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- If you can’t run PowerShell effectively in the console, you’ll never be able to write an effective script. — [Updated on 2022-08-28 18:40:24](https://hyp.is/Z9SMuCciEe2-RB9bKkvc7A/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Using PowerShell interactively at the console to do your job and writing PowerShell scripts and tools are separate tasks each with its own set of best practices and recommendations. — [Updated on 2022-08-28 18:40:43](https://hyp.is/c1gtTCciEe2LtXeX_Cafqw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Using PowerShell interactively at the console to do your job and writing PowerShell scripts and tools are separate tasks each with its own set of best practices and recommendations. — [Updated on 2022-08-28 18:40:43](https://hyp.is/c1gtTCciEe2LtXeX_Cafqw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Take advantage of Tee-Object. This will allow you to see the results of your command and save them to a variable: get-process | tee -Variable p — [Updated on 2022-08-28 18:40:53](https://hyp.is/eR5YKCciEe2xfB_k4RsFzQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Take advantage of Tee-Object. This will allow you to see the results of your command and save them to a variable: get-process | tee -Variable p — [Updated on 2022-08-28 18:40:53](https://hyp.is/eR5YKCciEe2xfB_k4RsFzQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Consider Get-WmiObject deprecated. Learn to use the CIM cmdlets like Get-CimInstance. — [Updated on 2022-08-28 18:40:58](https://hyp.is/fHcz8CciEe2qxOcydHdbjw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Consider Get-WmiObject deprecated. Learn to use the CIM cmdlets like Get-CimInstance. — [Updated on 2022-08-28 18:40:58](https://hyp.is/fHcz8CciEe2qxOcydHdbjw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Run Update-Help once a month. Better yet, learn how to set it up as a scheduled job in Windows PowerShell. — [Updated on 2022-08-28 18:41:03](https://hyp.is/fwHUhiciEe2ZmOeixeW3Jw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Run Update-Help once a month. Better yet, learn how to set it up as a scheduled job in Windows PowerShell. — [Updated on 2022-08-28 18:41:03](https://hyp.is/fwHUhiciEe2ZmOeixeW3Jw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Use Invoke-Item or its alias ii, to open a folder in Windows Explorer: ii c:\windows — [Updated on 2022-08-28 18:42:58](https://hyp.is/w5ucTiciEe2pSX9gO6KZsw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Use Invoke-Item or its alias ii, to open a folder in Windows Explorer: ii c:\windows — [Updated on 2022-08-28 18:42:58](https://hyp.is/w5ucTiciEe2pSX9gO6KZsw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Use Invoke-Item or its alias ii, to open a folder in Windows Explorer: ii c:\windows — [Updated on 2022-08-28 18:43:21](https://hyp.is/0aIpDCciEe22tW-xVhq0Pg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Use Invoke-Item or its alias ii, to open a folder in Windows Explorer: ii c:\windows — [Updated on 2022-08-28 18:43:21](https://hyp.is/0aIpDCciEe22tW-xVhq0Pg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-   - Annotation: Change current `expl` alias to utilize this method.- Expose yourself to PowerShell every day. Even if you do nothing but closely read full help and examples for a few cmdlets or an about topic. — [Updated on 2022-08-28 18:43:30](https://hyp.is/1q9TAiciEe2_LQ9yqc8qzg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+   - Annotation: Change current `expl` alias to utilize this method.- Expose yourself to PowerShell every day. Even if you do nothing but closely read full help and examples for a few cmdlets or an about topic. — [Updated on 2022-08-28 18:43:30](https://hyp.is/1q9TAiciEe2_LQ9yqc8qzg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Those who fail to automate are doomed to repeat their work. — [Updated on 2022-08-28 18:43:32](https://hyp.is/1_cSpCciEe2xgd-zBX8ITQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Those who fail to automate are doomed to repeat their work. — [Updated on 2022-08-28 18:43:32](https://hyp.is/1_cSpCciEe2xgd-zBX8ITQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Don’t forget to look through the PowerShell about topics for help. — [Updated on 2022-08-28 18:43:35](https://hyp.is/2c9VqiciEe2ZoN8ORnH1dQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Don’t forget to look through the PowerShell about topics for help. — [Updated on 2022-08-28 18:43:35](https://hyp.is/2c9VqiciEe2ZoN8ORnH1dQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- If you don’t do something with PowerShell every day, you’ll never really learn it. — [Updated on 2022-08-28 18:43:39](https://hyp.is/2_T9TiciEe2_LvdIPba4gg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- If you don’t do something with PowerShell every day, you’ll never really learn it. — [Updated on 2022-08-28 18:43:39](https://hyp.is/2_T9TiciEe2_LvdIPba4gg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Enabling PowerShell Remoting is the easy first step. You still need to do your job and properly secure it. — [Updated on 2022-08-28 18:43:41](https://hyp.is/3V-6oiciEe2Zda9AjO1SmA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Enabling PowerShell Remoting is the easy first step. You still need to do your job and properly secure it. — [Updated on 2022-08-28 18:43:41](https://hyp.is/3V-6oiciEe2Zda9AjO1SmA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- View the content of any loaded function: (get-item function:prompt).scriptblock Or get-content function:prompt — [Updated on 2022-08-28 18:43:48](https://hyp.is/4ap5iiciEe2ry3d66r-VhA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- View the content of any loaded function: (get-item function:prompt).scriptblock Or get-content function:prompt — [Updated on 2022-08-28 18:43:48](https://hyp.is/4ap5iiciEe2ry3d66r-VhA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- The forums at PowerShell.org are your best option for accurate and timely help and answers. — [Updated on 2022-08-28 18:43:56](https://hyp.is/5p_8lCciEe2KuUfxWqiVsw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- The forums at PowerShell.org are your best option for accurate and timely help and answers. — [Updated on 2022-08-28 18:43:56](https://hyp.is/5p_8lCciEe2KuUfxWqiVsw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Open the current directory in VSCode. Great when working on a PowerShell module: code . — [Updated on 2022-08-28 18:44:12](https://hyp.is/8B2P1CciEe2qhB-PUnu0Dg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Open the current directory in VSCode. Great when working on a PowerShell module: code . — [Updated on 2022-08-28 18:44:12](https://hyp.is/8B2P1CciEe2qhB-PUnu0Dg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-   - Annotation: Need support/alias for code-insiders- Get in the habit of using -full when looking at cmdlet help. You could even add a PSDefaultParameterValue. — [Updated on 2022-08-28 18:44:39](https://hyp.is/ADbIGCcjEe2WMJ--9xMwyQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+   - Annotation: Need support/alias for code-insiders- Get in the habit of using -full when looking at cmdlet help. You could even add a PSDefaultParameterValue. — [Updated on 2022-08-28 18:44:39](https://hyp.is/ADbIGCcjEe2WMJ--9xMwyQ/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-   - Annotation: Setup `$PSDefaultParameterValue` 's in PowerShell `$PROFILE`- Take advantage of the Is* variables in your PowerShell scripts like $IsLinux and $IsWindows. — [Updated on 2022-08-28 18:45:01](https://hyp.is/DWK6GicjEe2WMl_3kIvCmw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+   - Annotation: Setup `$PSDefaultParameterValue` 's in PowerShell `$PROFILE`- Take advantage of the Is* variables in your PowerShell scripts like $IsLinux and $IsWindows. — [Updated on 2022-08-28 18:45:01](https://hyp.is/DWK6GicjEe2WMl_3kIvCmw/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-   - Annotation: ?- Is your expression not working the way you expect? Learn how to use Trace-Command. — [Updated on 2022-08-28 18:45:08](https://hyp.is/ETmxXCcjEe2y-Z_1aKTSHg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+   - Annotation: ?- Is your expression not working the way you expect? Learn how to use Trace-Command. — [Updated on 2022-08-28 18:45:08](https://hyp.is/ETmxXCcjEe2y-Z_1aKTSHg/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
-- Having trouble installing for finding things from the PowerShell Gallery or GitHub? Add this line to your PowerShell profile script: [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12 — [Updated on 2022-08-28 18:46:08](https://hyp.is/NNA0OCcjEe2aWZep-1glxA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Development
+- Having trouble installing for finding things from the PowerShell Gallery or GitHub? Add this line to your PowerShell profile script: [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12 — [Updated on 2022-08-28 18:46:08](https://hyp.is/NNA0OCcjEe2aWZep-1glxA/jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)  — Group: #Topic/Dev
 
    - Annotation: This is huge!
 

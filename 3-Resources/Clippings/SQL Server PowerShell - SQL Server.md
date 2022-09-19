@@ -31,7 +31,7 @@ If you have any PowerShell scripts that run `Import-Module -Name SQLPS`, and you
 
 It is recommended to start your script with _Import-Module SQLServer_ to avoid side-by-side issues if the SQLPS module is installed on the same machine.
 
-This section applies to scripts executed from PowerShell and not the SQL Agent. The new module can be used with SQL Agent job steps using [#NOSQLPS](https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell?view=sql-server-ver16&ns-enrollment-id=peyph4gpmzd0yn&viewFallbackFrom=sql-server-ver16%3Fns-enrollment-type%3DCollection#sql-server-agent).
+This section applies to scripts executed from PowerShell and not the SQL Agent. The new module can be used with SQL Agent job steps using [NOSQLPS](https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell?view=sql-server-ver16&ns-enrollment-id=peyph4gpmzd0yn&viewFallbackFrom=sql-server-ver16%3Fns-enrollment-type%3DCollection#sql-server-agent).
 
 ## Cmdlet reference
 

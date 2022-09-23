@@ -1,4 +1,11 @@
 ## Metadata
+<<<<<<< HEAD
+* URL: [https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/](https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/)
+* Author: [[Narendra Gupta]]
+* Publisher: [[aws.amazon.com]]
+* Published Date: 2022-09-14
+* Tags: #Article, #Cloud_Architecture, #Cloud:_AWS, #Data_Engineering, #Data_Pipelines, #Development
+=======
 
 * URL: [https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/](https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/)
 * Author: [[Narendra Gupta]]
@@ -8,6 +15,7 @@
 * Links:
 	* [[AWS]]
 	* [[Data_Pipelines]]
+>>>>>>> origin/develop
 
 ## Highlights
 * To extract information from the data, it’s usually stored in a data lake built on Amazon Simple Storage Service (S3). The data lake provides an important characteristic called schema on read, which allows you to bring data in the data lake without worrying about the schema or changes in the schema on the data source. This enables faster ingestion of data or building data pipelines.

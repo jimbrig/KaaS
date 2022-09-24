@@ -48,26 +48,28 @@ Additionally, you can 'parameterize' any of the text variables (other than date 
 -   `{variable:snake}` - snake_case: underscores between words, all lowercase
 
 ## My Settings
+*Source: https://gist.github.com/jimbrig/2ac3be895c54ad1672b49b3e6a27f6b7*
 
-
-
+```gist
+2ac3be895c54ad1672b49b3e6a27f6b7
+```
 
 ```json
 {
-  "backmatter": "\n***\n\n## Appendix: Links\n\n- [[3-Resources/Clippings/MarkDownloads/README|MarkDownloads]]\n\n***\n\nJimmy Briggs | 2022",
+  "backmatter": "\n***\n\n## Appendix: Links\n\n- [[3-Resources/Clippings/MarkDownloads/README|MarkDownloads]]\n\n***\n\nJimmy Briggs | [[{date}]]",
   "bulletListMarker": "-",
   "codeBlockStyle": "fenced",
   "contextMenus": true,
   "disallowedChars": "[]#^",
-  "downloadImages": false,
+  "downloadImages": true,
   "downloadMode": "downloadsApi",
   "emDelimiter": "*",
   "fence": "```",
-  "frontmatter": "---\nDate: {date:YYYY-MM-DD}\nAuthor: Jimmy Briggs <jimmy.briggs@jimbrig.com>\nTags: [\"#Type/Clipping\"]\nSource: {baseURI}\nOriginalAuthor: {byline}\nKeywords: [{keywords}]\nAlias: [\"{pageTitle}\"]\n---\n\n# {pageTitle}\n\n*Source: [{pageTitle}]({baseURI})*\n\n> ## Excerpt\n> {excerpt}\n\n\n",
+  "frontmatter": "---\nDate: [[{date:YYYY-MM-DD}]]\nAuthor: Jimmy Briggs <jimmy.briggs@jimbrig.com>\nTags: [\"#Type/Clipping/Markdownload\"]\nKeywords: [{keywords:, }]\nAlias: [\"{{title}\"]\n---\n\n# {title}\n\n*Source: [{title}]({baseURI})*\n\n*Clip is {length} characters long.*\n\nAuthor: {byline}\n\n> ## Excerpt\n> {excerpt}\n\n\n",
   "headingStyle": "atx",
   "hr": "***",
   "imagePrefix": "{pageTitle}/",
-  "imageStyle": "originalSource",
+  "imageStyle": "markdown",
   "includeTemplate": true,
   "linkReferenceStyle": "full",
   "linkStyle": "inlined",

@@ -1,0 +1,174 @@
+/* Needs refactoring*/
+/* stylelint-disable selector-max-compound-selectors*/
+/* stylelint-disable no-invalid-position-at-import-rule*/
+
+/* Legit disabled because this code is going on other sites*/
+/* stylelint-disable selector-no-qualifying-type, selector-max-type*/
+
+/* Gist Embeds*/
+/* Make sure these styles get scoped to .gist contexts*/
+
+.gist {
+  /* Import Light colors only*/
+  /* Will be scoped as .gist { --color-scale-black: #1b1f23; } to not pollute the host's :root*/
+  @import '@primer/primitives/dist/scss/colors/_light.scss';
+
+  @include primer-colors-light;
+
+  @import '../../variables/primer-static-colors.scss';
+  @import '@primer/css/support/index.scss';
+  @import '@primer/css/markdown/index.scss';
+  @import 'github-syntax-light/lib/github-light';
+  @import '../../components/breadcrumb.scss';
+  @import '../../bundles/github/mixins.scss';
+  @import '../../bundles/github/blob.scss';
+  @import '../../components/diffs-blobs.scss';
+  @import '../../bundles/global/task-lists.scss';
+
+  font-size: $h4-size;
+  /* stylelint-disable-next-line primer/colors*/
+  color: #333;
+  text-align: left;
+  direction: ltr;
+
+  /* stylelint-disable-next-line primer/no-override*/
+  .highlight {
+    padding: 0;
+    margin: 0;
+    font-family: $mono-font;
+    font-size: $h6-size;
+    font-weight: $font-weight-normal;
+    /* stylelint-disable-next-line primer/typography*/
+    line-height: 1.4;
+    /* stylelint-disable-next-line primer/colors*/
+    color: #333;
+    background: var(--color-canvas-default);
+    border: 0;
+  }
+
+  .render-viewer-error,
+  .render-viewer-fatal,
+  .render-viewer-invalid,
+  .octospinner {
+    display: none;
+  }
+
+  iframe.render-viewer {
+    width: 100%;
+    height: 480px;
+    overflow: hidden;
+    border: 0;
+  }
+
+  pre,
+  code {
+    font-family: $mono-font !important;
+    white-space: pre;
+  }
+
+  .gist-meta {
+    /* stylelint-disable-next-line primer/spacing*/
+    padding: 10px;
+    overflow: hidden;
+    font: 12px $body-font;
+    color: var(--color-fg-muted);
+    /* stylelint-disable-next-line primer/colors*/
+    background-color: #f7f7f7;
+    border-radius: 0 0 $border-radius $border-radius;
+
+    a {
+      font-weight: $font-weight-bold;
+      /* stylelint-disable-next-line primer/colors*/
+      color: #666;
+      text-decoration: none;
+      border: 0;
+    }
+  }
+
+  .gist-data {
+    overflow: auto;
+    word-wrap: normal;
+    background-color: var(--color-canvas-default);
+    /* stylelint-disable-next-line primer/borders*/
+    border-bottom: $border-width $border-style #ddd;
+    border-radius: $border-radius $border-radius 0 0;
+  }
+
+  .gist-file {
+    /* stylelint-disable-next-line primer/spacing*/
+    margin-bottom: 1em;
+    font-family: $mono-font;
+    /* stylelint-disable-next-line primer/borders*/
+    border: $border-width $border-style #ddd;
+    /* stylelint-disable-next-line primer/borders*/
+    border-bottom: $border-width $border-style #ccc;
+    border-radius: $border-radius;
+
+    /* Rendered content (e.g. markdown)*/
+    article {
+      /* stylelint-disable-next-line primer/spacing*/
+      padding: 6px;
+    }
+
+    .scroll {
+      .gist-data {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 30px;
+        left: 0;
+        overflow: scroll;
+      }
+
+      .gist-meta {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+      }
+    }
+  }
+
+  /* stylelint-disable-next-line primer/no-override*/
+  .blob-num {
+    min-width: inherit;
+    /* stylelint-disable-next-line primer/spacing*/
+    padding: 1px 10px !important;
+    /* stylelint-disable-next-line primer/colors*/
+    background: rgba(0, 0, 0, 0);
+  }
+
+  .blob-code {
+    /* stylelint-disable-next-line primer/spacing*/
+    padding: 1px 10px !important;
+    text-align: left;
+    /* stylelint-disable-next-line primer/colors*/
+    background: rgba(0, 0, 0, 0);
+    border: 0;
+  }
+
+  /* text selection*/
+  .blob-code-inner {
+    &::selection,
+    *::selection {
+      /* stylelint-disable-next-line primer/colors*/
+      background-color: $static-color-blue-200;
+    }
+  }
+
+  .blob-wrapper {
+    table {
+      border-collapse: collapse;
+    }
+
+    tr:first-child td {
+      padding-top: $spacer-1;
+    }
+  }
+
+  /* Needed for correct indentation of markdown headers in embedded gists.*/
+  /* stylelint-disable-next-line primer/no-override*/
+  .markdown-body .anchor {
+    display: none;
+  }
+}

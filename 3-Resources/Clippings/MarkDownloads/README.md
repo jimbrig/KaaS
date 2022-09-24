@@ -50,6 +50,7 @@ Additionally, you can 'parameterize' any of the text variables (other than date 
 ## My Settings
 *Source: https://gist.github.com/jimbrig/2ac3be895c54ad1672b49b3e6a27f6b7*
 
+
 ```gist
 2ac3be895c54ad1672b49b3e6a27f6b7
 ```

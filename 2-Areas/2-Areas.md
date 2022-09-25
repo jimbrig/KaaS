@@ -29,14 +29,13 @@ Alias: ["Areas"]
 	- **[[Python]]**
 	- **[[R]]**
 	- **Registry**
+		- [[Regedit - Add Open in VSCode Insiders to Explorer Context Menu]]
 		- [[RegEdit - Enable Long Path Support on Windows]]
 		- [[RegEdit - Export Saved Registry Favorites]]
 	- **[[SQL]]**
 	- **[[VBA]]**
 	- **[[Visual Basic]]**
 	- **[[Windows Batch]]**
-	- **Windows CMD**
-		- [[_README]]
 	- **Windows Misc**
 		- [[_README]]
 		- [[Add Tabs to Windows 11 Explorer]]
@@ -44,7 +43,6 @@ Alias: ["Areas"]
 		- **_assets**
 
 		- [[_README]]
-		- [[Regedit - Add Open in VSCode Insiders to Explorer Context Menu]]
 		- [[Regedit - Enable Long Path Support on Windows]]
 		- [[Regedit - Export Saved Registry Favorites]]
 		- [[Regedit - Restart Explorer and StartMenu Context Bar]]

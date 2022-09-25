@@ -3,5 +3,6 @@
   "translucency": true,
   "interfaceFontFamily": "",
   "baseFontSize": 14,
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "Cascadia Code"
 }

@@ -1,4 +1,13 @@
+# Obsidian
 desktop.files.json
-Changelog.md
 .vault-stats
+.trash
+.archive
 
+# Node
+/node_modules
+/npm-debug.log
+
+# Cargo
+/target
+/src

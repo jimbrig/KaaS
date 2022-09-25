@@ -12,16 +12,16 @@ GitHub Action Code Snippets.
 <!-- optional markdown-notes-tree directory description ends here -->
 
 -   [[GitHub Actions for R]]
-    -   [[GHA - R roxygen]]
-    -   [[GHA - R pkgdown]]
-    -   [[GHA - R Spelling]]
-    -   [[GHA - R Package Validation]]
-    -   [[GHA - R Code Coverage]]
-    -   [[GHA - R Build-Check-Install]]
+    -   [[GitHub Action - roxygen]]
+    -   [[GitHub Action - pkgdown]]
+    -   [[GitHub Action - R Spelling Checks]]
+    -   [[GitHub Action - R Package Validation]]
+    -   [[GitHub Action - Code Coverage for R]]
+    -   [[GitHub Action - Build-Check-Install R Package]]
 
 
--   [[GHA - Release]]
--   [[GHA - Git-Cliff]]
+-   [[GitHub Action - Release]]
+-   [[GitHub Action - git-cliff]]
 
 ## Appendix: Links
 

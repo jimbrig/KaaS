@@ -17,7 +17,8 @@ gcloud services enable [SERVICE]
 
 - Navigation Menu > IAM & Admin > Service Accounts > Create Service Account
 - Enter details for `Name` and `Description`
-- Grant `Roles`# GCP Service Accounts
+- Grant `Roles`
+# GCP Service Accounts
 
 
 - Grant yourself permission to use the service account

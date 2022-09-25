@@ -72,3 +72,6 @@ PRODUCTIVITY
 ```dataview
 list from [[Workbench]] AND -"Changelog"
 ```
+
+
+Data Validation Testing" ensures that the data you work with is accurate and complete, that any necesary transformations occur without loss, that your processes can handle incorrect data, and the final output is correct.

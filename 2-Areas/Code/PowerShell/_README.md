@@ -24,7 +24,7 @@ PowerShell Code Snippets.
 -   [[PowerShell - Install Backblaze Client]]
 -   [[PowerShell - Custom Installation Helpers]]
 -   [[PowerShell - Cleanup Windows Script]]
--   [[PowerShell - Install Azure-CLI]]
+-   [[2-Areas/Code/PowerShell/PowerShell - Install Azure-CLI]]
 -   [[PowerShell - Install AWS CLI]]
 -   [[PowerShell - Git AutoCommit]]
 -   [[PowerShell - Edge Scripts]]

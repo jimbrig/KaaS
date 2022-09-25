@@ -2,7 +2,7 @@
 Date: 2022-01-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool"]
-Alias: ["npm"]
+Alias: ["Node - npm"]
 ---
 
 # Node - npm

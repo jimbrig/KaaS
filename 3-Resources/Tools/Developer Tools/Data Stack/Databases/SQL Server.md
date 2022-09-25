@@ -44,12 +44,12 @@ Alias: ["SQL Server", "MSSQL"]
     - [[SQL Stored Procedures Best Practices]]
     - [[SQL Stored Procedures - Cursors]]
 
-- [[3-Resources/Highlights/Readwise 1/Articles/How to Use SQL Subqueries]]
+- [[How to Use SQL Subqueries]]
 
 
 ## Highlights about SQL Server
 
-- [[3-Resources/Highlights/Readwise 1/Articles/9 Tricks for Boosting SQL Query Performance]]
+- [[9 Tricks for Boosting SQL Query Performance]]
 
 
 

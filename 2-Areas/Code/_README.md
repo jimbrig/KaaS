@@ -98,7 +98,7 @@ tree_title: "Code Snippets"
     - [[2-Areas/Code/PowerShell/PowerShell - Edge Scripts]]: Edge related functions
     - [[2-Areas/Code/PowerShell/PowerShell - Git AutoCommit]]: Autocommit with [[Git]]
     - [[PowerShell - Install AWS CLI]]: Install [[AWS CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
-    - [[PowerShell - Install Azure-CLI]]: Install [[Azure CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
+    - [[2-Areas/Code/PowerShell/PowerShell - Install Azure-CLI]]: Install [[Azure CLI]] using [[3-Resources/Tools/Developer Tools/Languages/PowerShell]]
     - [[PowerShell - Install Backblaze Client]]: Install the [[Backblaze]] Client 
     - [[PowerShell - Install Chocolatey]]: Install [[Chocolatey]] Package Manager
     - [[PowerShell - Map Drives Function]]: Map Drives

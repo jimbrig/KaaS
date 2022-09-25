@@ -643,3 +643,35 @@ An Efficient Way to Replicate Transactional Data Into Data Lake
 
 - [[2022-04-03 1]] 12:53 PM — Synced 0 highlights from 0 documents.
 
+- [[2022-07-02]] 11:10 AM — Synced 17 highlights from 4 documents.
+    - 1 highlights from 15 Benefits of Keeping a Mindfulness Journal
+    - 6 highlights from Shiny and Arrow
+    - 1 highlights from A Simple System for Being More Effective at Work
+    - 9 highlights from Liked Tweets
+
+- [[2022-08-01]] 10:57 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Passages Saved From iOS
+
+- [[2022-08-18]] 9:09 AM — Synced 36 highlights from 4 documents.
+    - 21 highlights from Liked Tweets
+    - 10 highlights from Workflow automation tools for package developers
+    - 1 highlights from R is for actuaRies
+    - 4 highlights from Learn How PowerShell CmdletBinding Enhances Functions
+
+- [[2022-09-03]] 11:50 PM — Synced 84 highlights from 10 documents.
+    - 37 highlights from PowerShell Tips & Tricks • Jeffery Hicks
+    - 1 highlights from Essential PowerShell Learning Resources • the Lonely Administrator
+    - 8 highlights from Perfect Fantasy Football Draft Strategy
+    - 5 highlights from Data Dictionary: A How to and Best Practices
+    - 2 highlights from How to Create and Maintain a Data Dictionary With Dataedo - Dataedo Blog
+    - 7 highlights from What Is Data Dictionary - Data Terminology
+    - 4 highlights from The LANA Method to Build an Obsidian Structure.
+    - 11 highlights from 5 Note-Taking Tips for Building a Super Second Brain
+    - 5 highlights from Stop Using So Many CTEs
+    - 4 highlights from How to Take Notes While Reading on the Web With Obsidian
+
+- [[2022-09-05]] 1:30 AM — Synced 19 highlights from 3 documents.
+    - 1 highlights from The Many Layers of Data Lineage
+    - 10 highlights from Minimum Viable PKM
+    - 8 highlights from How to Design Better Data Pipelines? Start With the Basics
+

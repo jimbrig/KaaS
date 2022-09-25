@@ -115,7 +115,7 @@ Used to open Windows programs. For example, **START C:\WINDOW\CALC** would run t
 - [[2-Areas/MOCs/PowerShell]]
 - [[Development]]
 - [[CLI Tools List]]
-- [[Windows Batch Scripting Common Shortcuts]]
+
 
 *Backlinks:*
 

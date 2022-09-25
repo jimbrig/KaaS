@@ -33,7 +33,7 @@ Alias: "VBA Data Types"
 - [[Microsoft]]
 - [[Excel]]
 - [[Microsoft Office]]
-- [[__README|VBA]]
+- [[2-Areas/Code/Windows/Visual Basic/Excel VBA/_README|VBA]]
 
 *Backlinks:*
 

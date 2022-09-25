@@ -67,7 +67,7 @@ Notice how the browser starts to automatically remove each video one-by-one afte
 
 - [[2-Areas/Code/_README|Code]]
 - [[Development]]
-- [[Javascript]]
+- [[JavaScript]]
 - [[YouTube]]
 - [[Browser DevTools]]
 

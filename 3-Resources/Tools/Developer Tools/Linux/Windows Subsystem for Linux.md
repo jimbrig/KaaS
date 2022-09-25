@@ -12,9 +12,6 @@ Alias: ["Windows Subsystem for Linux", "WSL"]
 ## Appendix: Related
 
 - [[Tools]]
-- [[The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux]]
-- [[Windows Developer Environment]]
-- [[Windows Terminal]]
 
 *Backlinks:*
 

@@ -24,7 +24,7 @@ Alias: ["R Package - covr", "R Package - covr"]
 - [[2-Areas/MOCs/R]]
 - [[3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages]]
 >>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/R Package - covr.md
-- [[GHA - R Code Coverage]]
+- [[GitHub Action - Code Coverage for R]]
 
 *Backlinks:*
 

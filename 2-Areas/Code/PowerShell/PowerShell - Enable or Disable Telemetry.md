@@ -1,11 +1,11 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-09-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["<% tp.file.title %>"]
+Alias: ["PowerShell - Enable or Disable Telemetry"]
 ---
 
-# <% tp.file.title %>
+# PowerShell - Enable or Disable Telemetry
 
 *Source: *
 
@@ -27,5 +27,5 @@ Alias: ["<% tp.file.title %>"]
 *Backlinks:*
 
 ```dataview
-list from [[<% tp.file.title %>]] AND -"Changelog"
+list from [[PowerShell - Enable or Disable Telemetry]] AND -"Changelog"
 ```

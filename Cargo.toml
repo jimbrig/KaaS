@@ -1,0 +1,22 @@
+[package]
+name = "kaas"
+version = "1.0.0"
+authors = ["Jimmy Briggs <jimmy.briggs@jimbrig.com"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/jimbrig/KaaS"
+documentation = "https://publish.obsidian.md/kaas-published/"
+description = """
+Obsidian Knowledge as a Service Vault
+"""
+categories = ["obsidian", "knowledge", "vault", "publishing"]
+keywords = ["obsidian", "knowledge", "vault", "publishing"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+obsidian-export = "22.1.0"
+
+[dev-dependencies]
+obsidian-export = "22.1.0"

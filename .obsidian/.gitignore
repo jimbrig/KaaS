@@ -1,2 +1,12 @@
 *
 !.gitignore
+!app.json
+!appearance.json
+!backlink.json
+!command-palette.json
+!core-plugins.json
+!community-plugins.json
+!daily-notes.json
+!hotkeys.json
+!templates.json
+!themes/*.css

@@ -232,8 +232,8 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 - [[2-Areas/Code/Windows Registry/Regedit - Enable Long Path Support on Windows]]
 - [[2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites]]
-- [[Regedit - Restart Explorer and StartMenu Context Bar]]
-- [[Regedit - Take Ownership Context Menu]]
+- [[RegEdit - Restart Explorer and StartMenu Context Bar]]
+- [[RegEdit - Take Ownership Context Menu]]
 
 ### Run Commands
 

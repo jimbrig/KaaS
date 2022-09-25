@@ -7,7 +7,7 @@ Alias: ["CMD - Restart Explorer and Start Menu"]
 
 # CMD - Restart Explorer and Start Menu
 
-*See Also: [[Regedit - Restart Explorer and StartMenu Context Bar]]*
+*See Also: [[RegEdit - Restart Explorer and StartMenu Context Bar]]*
 
 ## Contents
 

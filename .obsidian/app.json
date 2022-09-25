@@ -174,5 +174,16 @@
   ],
   "livePreview": true,
   "useTab": true,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "src/",
+    "target",
+    "android-chrome-96x96.png",
+    "apple-touch-icon.png",
+    "favicon-16x16.png",
+    "logo.png",
+    "mstile-150x150.png",
+    "safari-pinned-tab.svg"
+  ]
 }

@@ -2,7 +2,7 @@
 Date: 2022-03-25
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Code/Linux", "#Type/Code/Bash", "#Type/Code/Script", "#Topic/Dev/Linux", "#Topic/Dev/WSL"]
-Alias: ["WSL - Install WSLU"]
+Alias: ["Install WSLU"]
 ---
 
 # WSL - Install WSLU

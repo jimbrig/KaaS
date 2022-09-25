@@ -171,5 +171,5 @@ By submitting your email address, you acknowledge that you have read the [Privac
 
 ## Appendix: Links
 
-- [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
+- [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]

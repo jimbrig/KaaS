@@ -62,13 +62,13 @@ tree_title: "Code Snippets"
     - [[GHA - R Spelling]]: Run `spelling::spellcheck()` on your R Package
     - [[GHA - Release]]: Create a new GitHub Release
     - [[GHA - R roxygen]]: Document your R package via [[R Package - roxygen2|roxygen2]]
-    - [[GitHub Actions/GitHub Actions for R]]: List of various R Github Actions
+    - [[GHA - GitHub Actions for R]]: List of various R Github Actions
 
 ## JavaScript
 
 - [[2-Areas/Code/Javascript/_README|Javascript Code]] - Javascript Code Snippets.
-    - [[Javascript - Remove all YouTube Watch Later Videos]]
-    - [[JavaScript - Obsidian Web Clipper Bookmarklet]]
+    - [[JS - Remove all YouTube Watch Later Videos]]
+    - [[JS - Obsidian Web Clipper Bookmarklet]]
 
 ## Linux
 
@@ -83,7 +83,7 @@ tree_title: "Code Snippets"
 ### WSL
 
 - [[2-Areas/Code/Linux/WSL/_README|WSL]] - Code Snippets and Scripts Specific to [[Windows Subsystem for Linux]] (WSL)
-	- [[WSL - Install WSLU]]
+	- [[Bash - Install WSLU]]
 
 
 ## Pandoc
@@ -230,8 +230,8 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 
 #Status/WIP
 
-- [[Regedit - Enable Long Path Support on Windows]]
-- [[Regedit - Export Saved Registry Favorites]]
+- [[2-Areas/Code/Windows Registry/Regedit - Enable Long Path Support on Windows]]
+- [[2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites]]
 - [[Regedit - Restart Explorer and StartMenu Context Bar]]
 - [[Regedit - Take Ownership Context Menu]]
 
@@ -275,18 +275,18 @@ Code Snippets for Microsoft's [[SQL Server]] or [[SQL Server|MSSQL]]:
 ### Windows Command Line (CMD/MS-DOS)
 
 - [[2-Areas/Code/Windows CMD/_README|Windows Command Line]] - Windows Command Line Code Snippets.
-    - [[CMD - Create a Network Performance Windows Report]]
-    - [[CMD - Delete Network Data]]
-    - [[CMD - Delete Windows Update Leftover Files]]
-    - [[CMD - DISM Commands]]
+    - [[CMD - Create a Network Performance Windows Report 1]]
+    - [[CMD - Delete Network Data 1]]
+    - [[CMD - Delete Windows Update Leftover Files 1]]
+    - [[CMD - DISM Commands 1]]
     - [[CMD - FlushDNS]]
-    - [[CMD - Retrieve Stored Wi-Fi Passwords]]
-    - [[CMD - Retrieve Windows Credential Manager Saved Secrets]]
-    - [[CMD - Run the Hardware Diagnostic Troubleshooter]]
-    - [[CMD - Run the WinSAT Diagnostics Score]]
+    - [[CMD - Retrieve Stored Wi-Fi Passwords 1]]
+    - [[CMD - Retrieve Windows Credential Manager Saved Secrets 1]]
+    - [[CMD - Run the Hardware Diagnostic Troubleshooter 1]]
+    - [[CMD - Run the WinSAT Diagnostics Score 1]]
     - [[CMD - Start a Windows Defender Virus Scan]]
     - [[CMD - View Available Disks on Windows]]
-    - [[CMD - Extended Disk Cleanup]]
+    - [[CMD - Extended Disk Cleanup 1]]
     - [[CMD - Memory Diagnostic]]
     - [[CMD - Troubleshooter Commands]]
     - [[CMD - View Available Disks on Windows]]

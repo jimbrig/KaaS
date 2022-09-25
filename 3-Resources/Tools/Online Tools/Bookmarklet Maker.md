@@ -284,7 +284,7 @@ document.querySelector("body").style.setProperty("background", "white")
 - [[3-Resources/Tools/_README|Tools]]
 - [[Javascript]]
 - [[2-Areas/Code/Javascript/_README|Javascript Code]]
-- [[JavaScript - Obsidian Web Clipper Bookmarklet]]
+- [[JS - Obsidian Web Clipper Bookmarklet]]
 - [[Web Development]]
 - [[Browsers]]
 - [[Browser DevTools]]

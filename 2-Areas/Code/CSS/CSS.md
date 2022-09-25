@@ -1,0 +1,34 @@
+---
+Date: 2022-09-24
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Folder", "#Type/ReadMe"]
+Alias: ["CSS"]
+---
+
+# CSS Overview
+
+%% Begin Waypoint %%
+- [[2-Areas/Code/CSS/_README]]
+- [[CSS - Default Obsidian Theme Styling]]
+- [[CSS - GitHub Obsidian Theme]]
+- [[CSS - Obsidian Dashboard]]
+- [[CSS]]
+
+%% End Waypoint %%
+
+***
+
+## CSS Gallery
+
+ 
+```ccard
+type: folder_brief_live
+```
+ 
+
+***
+
+Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
+
+
+

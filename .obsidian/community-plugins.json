@@ -74,5 +74,6 @@
   "obsidian-static-file-server",
   "obsidian-stack-overflow",
   "obsidian-ghost-publish",
-  "plugins-galore"
+  "plugins-galore",
+  "waypoint"
 ]

@@ -13,9 +13,9 @@ I have this setup in [[Firefox Developer]] as a *Bookmarklet* with a keyword `cl
 
 ## Code
 
-See [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]:
+See [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]:
 
-![[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
+![[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 
 ***
 

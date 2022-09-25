@@ -2,5 +2,6 @@
   "cssTheme": "",
   "translucency": true,
   "interfaceFontFamily": "",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "accentColor": ""
 }

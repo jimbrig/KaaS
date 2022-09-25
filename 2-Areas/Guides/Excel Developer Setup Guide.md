@@ -71,7 +71,7 @@ flowchart LR
 
 - [[2022-09-04]]
 - [[2-Areas/Code/Excel/_README|Excel]]
-- [[2-Areas/Code/Excel VBA/_README|VBA]]
+- [[2-Areas/Code/VBA/_README|VBA]]
 
 ***
 

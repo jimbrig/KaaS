@@ -62,7 +62,7 @@ Windows Registry Editor Version 5.00
 - [[Development]]
 - [[2-Areas/Code/Windows Registry/_README|Registry]]
 - [[Windows Registry Hacks]]
-- [[Regedit - Export Saved Registry Favorites]]
+- [[2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites]]
 - [[RegEdit - Customizing Windows Explorer Context Menu]]
 - [[PowerShell - Extract Icon from EXE]]
 - [[Working with the Registry from PowerShell]]

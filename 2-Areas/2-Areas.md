@@ -1,332 +1,96 @@
-# 2-Areas 
+---
+Date: 2022-09-24
+Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
+Tags: ["#Type/Folder", "#Type/ReadMe"]
+Alias: ["Areas"]
+---
 
-## Contents
+# 2-Areas Overview
 
 %% Begin Waypoint %%
-- **[[2-Areas]]**
+- [[_README]]
+- [[2-Areas]]
+- **Agendas**
 	- [[_README]]
-	- **Agendas**
-		- [[_README]]
-	- **Code**
-		- [[_README]]
-		- **Bash**
-			- [[_README]]
-			- [[Bash - Git-Auto]]
-			- [[Bash - Install NVM]]
-			- [[Bash - Install oh-my-zsh]]
-		- **CMD**
-			- [[Create a Network Performance Windows Report]]
-			- [[Delete Network Data]]
-			- [[Delete Windows Update Leftover Files]]
-			- [[DISM Commands]]
-			- [[Retrieve Stored Wi-Fi Passwords]]
-			- [[Retrieve Windows Credential Manager Saved Secrets]]
-			- [[Run the Hardware Diagnostic Troubleshooter]]
-			- [[Run the WinSAT Diagnostics Score]]
-			- [[Start a Windows Defender Virus Scan - Full]]
-			- [[Windows CMD - Extended Disk Cleanup]]
-		- **CSS**
-			- [[_README]]
-			- [[CSS - Default Obsidian Theme Styling]]
-			- [[CSS - GitHub Obsidian Theme]]
-		- **GitHub Actions**
-			- [[_README]]
-			- [[GHA - Git-Cliff]]
-			- [[GHA - R Build Blogdown]]
-			- [[GHA - R Build Bookdown]]
-			- [[GHA - R Build-Check-Install]]
-			- [[GHA - R Check (Standard)]]
-			- [[GHA - R Code Coverage]]
-			- [[GHA - R Docker]]
-			- [[GHA - R Lint]]
-			- [[GHA - R Package Validation]]
-			- [[GHA - R pkgcheck]]
-			- [[GHA - R pkgdown]]
-			- [[GHA - R Render RMD]]
-			- [[GHA - R roxygen]]
-			- [[GHA - R ShinyApp Deploy]]
-			- [[GHA - R Spelling]]
-			- [[GHA - R Test Coverage]]
-			- [[GHA - Release]]
-			- [[GitHub Action - Build-Check-Install R Package]]
-			- [[GitHub Action - Code Coverage for R]]
-			- [[GitHub Action - R Package Validation]]
-			- [[GitHub Action - R pkgcheck]]
-			- [[GitHub Action - R Spelling Checks]]
-			- [[GitHub Action - Release]]
-			- [[GitHub Actions for R]]
-		- **Javascript**
-			- [[_README]]
-			- [[JavaScript - Obsidian Web Clipper Bookmarklet]]
-			- [[Javascript - Remove all YouTube Watch Later Videos]]
-		- **Linux**
-			- [[_README]]
-			- **Bash**
-				- [[_README]]
-				- [[Bash - Git-Auto]]
-				- [[Bash - GitHub Downloader]]
-				- [[Bash - Install NVM]]
-				- [[Bash - Install oh-my-zsh]]
-			- **Kali**
-			- **WSL**
-				- [[_README]]
-				- [[WSL - Install WSLU]]
-			- **Zsh**
-		- **Pandoc**
-			- [[_README]]
-			- [[Pandoc - Convert Word to Markdown]]
-		- **PowerShell**
-			- [[_README]]
-			- [[Powershell - Backup Edge User Preferences PowerShell Script]]
-			- [[2-Areas/Code/PowerShell/Powershell - Install Azure-CLI]]
-			- [[PowerShell - Cleanup Windows Script]]
-			- [[PowerShell - Custom Installation Helpers]]
-			- [[PowerShell - Edge Scripts]]
-			- [[PowerShell - Git AutoCommit]]
-			- [[Retrieve Local Public IPv4 IP Address]]
-		- **Python**
-			- [[_README]]
-			- [[Python - Upgrade PIP]]
-		- **R**
-			- [[_README]]
-			- [[Actuarial Claims Data - Simulation R Script]]
-			- [[docker_shiny_mssql]]
-			- [[mssql_rstudio]]
-			- [[R - docker_shiny_mssql]]
-			- [[R - Excel Helpers]]
-			- [[R - Handle long polling process in Plumber or Shiny]]
-			- [[R - mssql_rstudio]]
-			- [[R - Package Management Scripts]]
-			- [[R - Retrieve GitHub Starred Repo Data]]
-			- [[R - Run Shiny App in Background for Development]]
-			- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
-			- [[R - Upgrade R and Migrate Packages]]
-			- [[R - VSCode devcontainer]]
-		- **Registry**
-			- [[Enable Long Path Support on Windows]]
-			- [[Export Saved Registry Favorites]]
-		- **SQL**
-			- [[_README]]
-			- **BigQuery**
-				- [[_README]]
-			- **General**
-				- [[_README]]
-			- **PostgreSQL**
-				- [[_README]]
-				- [[SQL - PostgreSQL - Audit Trigger]]
-				- [[SQL - PostgreSQL - Basic Instance Information]]
-				- [[SQL - PostgreSQL - Calculating the Median]]
-				- [[SQL - PostgreSQL - Clone Schema]]
-				- [[SQL - PostgreSQL - Count NULLs]]
-				- [[SQL - PostgreSQL - Create modified_at columns and triggers]]
-				- [[SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile]]
-				- [[SQL - PostgreSQL - Cumulative Distribution]]
-				- [[SQL - PostgreSQL - DataDictionary]]
-				- [[SQL - PostgreSQL - Date Dimension Table]]
-				- [[SQL - PostgreSQL - Dump Entire Database to CSV]]
-				- [[SQL - PostgreSQL - Dynamic Trigger]]
-				- [[SQL - PostgreSQL - ETL Function Template]]
-				- [[SQL - PostgreSQL - Extensions]]
-				- [[SQL - PostgreSQL - Extracting Values from JSON Strings]]
-				- [[SQL - PostgreSQL - Filter for the Last x Days]]
-				- [[SQL - PostgreSQL - Find Recent Activity]]
-				- [[SQL - PostgreSQL - Formatting Dates and Timestamps]]
-				- [[SQL - PostgreSQL - Generate Password]]
-				- [[SQL - PostgreSQL - Generate Timeseries of Dates and Times]]
-				- [[SQL - PostgreSQL - Get all Primary Keys and Columns]]
-				- [[SQL - PostgreSQL - Get Current DB Sessions]]
-				- [[SQL - PostgreSQL - Get Last Day of Month]]
-				- [[SQL - PostgreSQL - Get the Last Element of an Array]]
-				- [[SQL - PostgreSQL - Histogram Bins]]
-				- [[SQL - PostgreSQL - Human-Readable Timestamps]]
-				- [[SQL - PostgreSQL - Information Schema Queries]]
-				- [[SQL - PostgreSQL - Kill Running or Idle Connections]]
-				- [[SQL - PostgreSQL - MONTH() Equivalent]]
-				- [[SQL - PostgreSQL - Moving Average]]
-				- [[SQL - PostgreSQL - Multi-Replace (plpgsql)]]
-				- [[SQL - PostgreSQL - Normalize Whitespace]]
-				- [[SQL - PostgreSQL - Pivot Query]]
-				- [[SQL - PostgreSQL - Ranking Data]]
-				- [[SQL - PostgreSQL - Refresh All Materialize Views]]
-				- [[SQL - PostgreSQL - RegEx to Parse URL String]]
-				- [[SQL - PostgreSQL - RegEx to Validate an Email Address]]
-				- [[SQL - PostgreSQL - Replace Empty Strings with NULLs]]
-				- [[SQL - PostgreSQL - Replace NULLs]]
-				- [[SQL - PostgreSQL - Reverse an Array]]
-				- [[SQL - PostgreSQL - SERIAL Example]]
-				- [[SQL - PostgreSQL - Set Default UTF8 Encoding]]
-				- [[SQL - PostgreSQL - Simulate IIF From SQL Server]]
-				- [[SQL - PostgreSQL - Split a Single Column into Separate Rows]]
-				- [[SQL - PostgreSQL - Stored Procedure - Merge Tables]]
-				- [[SQL - PostgreSQL - Strip Accents from Strings]]
-				- [[SQL - PostgreSQL - UPSERT]]
-				- [[SQL - PostgreSQL - Using Tables as Templates]]
-				- [[SQL - PostgreSQL String Manipulation]]
-			- [[SQL - Check Size of DB Objects]]
-			- [[SQL - Convert Integer (Clarion) Date to SQL Datetime]]
-			- [[SQL - Create Date Dimension with Fiscal Years]]
-			- [[SQL - Find Unused Indexes]]
-			- [[SQL - Get Number of Open Connections]]
-			- [[SQL - Monitor Query Plans]]
-			- [[SQL - POST HTTP API Request with SQL Server]]
-			- [[SQL - Re-build all Indexes]]
-			- [[SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
-			- [[SQL - Retrieve Top Slow Requests]]
-			- [[SQL - Retrieve Who is Doing What]]
-			- [[SQL Script - Installation for DBA MultiTool]]
-			- **SQL Server**
-				- [[_README]]
-				- [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
-				- [[SQL - SQL Server - Check if a Column is Accessible]]
-				- [[SQL - SQL Server - Check Size of DB Objects]]
-				- [[SQL - SQL Server - Concatenate Strings]]
-				- [[SQL - SQL Server - Create Date Dimension with Fiscal Years]]
-				- [[SQL - SQL Server - Cumulative Distribution Functions]]
-				- [[SQL - SQL Server - Find the First Row of Each Group]]
-				- [[SQL - SQL Server - Find Unused Indexes]]
-				- [[SQL - SQL Server - Get Number of Open Connections]]
-				- [[SQL - SQL Server - Installation Script for DBA MultiTool]]
-				- [[SQL - SQL Server - Monitor Query Plans]]
-				- [[SQL - SQL Server - POST HTTP API Request]]
-				- [[SQL - SQL Server - Re-build all Indexes]]
-				- [[SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
-				- [[SQL - SQL Server - Retrieve Top Slow Requests]]
-				- [[SQL - SQL Server - Retrieve Who is Doing What]]
-				- [[SQL - SQL Server - Search for Text Within Stored Procedures]]
-				- [[SQL - SQL Server - Useful Queries]]
-			- [[SQL Server Useful Queries]]
-		- **Windows**
-			- [[_README]]
-			- **Batch**
-				- [[_README]]
-				- [[Batch - Magic Variables]]
-				- [[Batch - MediaCreationTool]]
-				- [[Batch - Python Virtual Environment]]
-			- **Miscellaneous**
-				- [[_README]]
-				- [[Add Tabs to Windows 11 Explorer]]
-			- **PowerShell**
-				- [[_README]]
-				- [[PowerShell - Cleanup Windows Script]]
-				- [[PowerShell - Custom Installation Helpers]]
-				- [[PowerShell - Edge Scripts]]
-				- [[PowerShell - Git AutoCommit]]
-				- [[PowerShell - Install AWS CLI]]
-				- [[2-Areas/Code/PowerShell/PowerShell - Install Azure-CLI]]
-				- [[PowerShell - Install Backblaze Client]]
-				- [[PowerShell - Install Chocolatey]]
-				- [[PowerShell - Map Drives Function]]
-				- [[PowerShell - Open Obsidian Vault]]
-				- [[PowerShell - QuickAccess Utilities]]
-				- [[PowerShell - Reset Windows Update Registry Settings]]
-				- [[PowerShell - Retrieve Local Public IPv4 IP Address]]
-				- [[PowerShell - Scoop Import]]
-				- [[PowerShell - System PATH Helpers]]
-				- [[PowerShell - Toast Notification Example]]
-				- [[PowerShell - Useful Profile Utility Functions]]
-			- **Registry**
-				- [[_README]]
-				- [[Regedit - Enable Long Path Support on Windows]]
-				- [[Regedit - Export Saved Registry Favorites]]
-				- [[RegEdit - Restart Explorer and StartMenu Context Bar]]
-				- [[RegEdit - Take Ownership Context Menu]]
-			- **Run**
-				- [[_README]]
-				- [[Run - Check for Windows Store App Updates]]
-				- [[Run - Cleanup]]
-				- [[Run - GodMode All Tasks]]
-				- [[Run - Obsidian Vault Launcher]]
-				- [[Run - Resource Monitor]]
-				- [[Run - Startup]]
-			- **Visual Basic**
-				- **Excel VBA**
-					- **_assets**
+- **Code**
+	- **_assets**
 
-					- [[_README]]
-					- [[VBA - Alert]]
-					- [[VBA - Balloon Notification]]
-					- [[VBA - Check for Broken Links in Workbook]]
-					- [[VBA - Copy Module from one Workbook to Another]]
-					- [[VBA - Create and Run a SQL Query]]
-					- [[VBA - Display Message on Status Bar]]
-					- [[VBA - File Dialog]]
-					- [[VBA - ListLinks Module]]
-					- [[VBA - Make All Open Files Read Only]]
-					- [[VBA - Module Template]]
-					- [[VBA - Optimize Speed]]
-					- [[VBA - Page Setup and Print Macros]]
-					- [[VBA - Progress Bar in the Status Bar]]
-					- [[VBA - Refresh All]]
-					- [[VBA - Save All]]
-					- [[VBA - SQL Stored Procedure Caller Module]]
-					- [[VBA - Unhide all Rows and Columns]]
-					- [[VBA - Unhide All Worksheets]]
-					- [[VBA - Useful Utilities]]
-					- [[VBA Notes]]
-			- **Windows CMD**
-				- [[_README]]
-				- [[CMD - Create a Network Performance Windows Report]]
-				- [[CMD - Delete Network Data]]
-				- [[CMD - Delete Windows Update Leftover Files]]
-				- [[CMD - DISM Commands]]
-				- [[CMD - Export and Import Edge Custom SearchEngines]]
-				- [[CMD - Export Edge Custom Search Engines]]
-				- [[CMD - Extended Disk Cleanup]]
-				- [[CMD - FlushDNS]]
-				- [[CMD - Memory Diagnostic]]
-				- [[CMD - Restart Explorer and Start Menu]]
-				- [[CMD - Retrieve Stored Wi-Fi Passwords]]
-				- [[CMD - Retrieve Windows Credential Manager Saved Secrets]]
-				- [[CMD - Run the Hardware Diagnostic Troubleshooter]]
-				- [[CMD - Run the WinSAT Diagnostics Score]]
-				- [[CMD - Start a Windows Defender Virus Scan]]
-				- [[CMD - Troubleshooter Commands]]
-				- [[CMD - View Available Disks on Windows]]
-			- **Windows PowerShell**
-				- [[_README]]
-	- **Content**
+	- [[_README]]
+	- **[[Bash]]**
+	- **[[CMD]]**
+	- **[[CSS]]**
+	- **Excel**
 		- [[_README]]
-		- **Guides**
-			- [[_README]]
-			- [[Azure Setup Guide]]
-			- [[Optimize Windows 11 Explorer with QTTabBar]]
-			- [[Querying Data from PostgreSQL Database]]
-			- [[VBA Coding Standards]]
-			- [[Windows Developer Environment]]
-			- [[WSL Terminal and Shell Setup Guide]]
-		- **Ideas**
-			- [[_README]]
-			- [[Blog Post Ideas Brainstorming Helpers]]
-			- [[Blog Post Ideas List]]
-			- [[Committing to Consistency with Your Blog]]
-			- [[The Best Weapon for Deciding What to Write About]]
-		- **Posts**
-			- [[_README]]
-			- **Actuarial Posts**
-				- [[_README]]
-				- [[Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses]]
-				- [[Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis]]
-				- [[Part III - Actuarial Reserve and Cash Flow Analyses]]
-			- **Drafts**
-				- [[_README]]
-				- [[Setting up an Optimal Developer Environment on Windows]]
-			- **Published**
-				- [[_README]]
-				- [[Getting to know .Renviron]]
-		- **Sites**
-			- [[_README]]
-			- [[Devfolio]]
-			- [[JimsDocs]]
-			- [[JimsVault]]
-			- [[The 'jimbrig' Universe]]
-			- [[The R Dispatch]]
-	- **Daily-Notes**
+		- [[Excel - Formula to get ActiveSheet Name]]
+	- **[[GitHub Actions]]**
+	- **[[Javascript]]**
+	- **[[Pandoc]]**
+	- **[[PowerShell]]**
+	- **[[Python]]**
+	- **[[R]]**
+	- **Registry**
+		- [[RegEdit - Enable Long Path Support on Windows]]
+		- [[RegEdit - Export Saved Registry Favorites]]
+	- **[[SQL]]**
+	- **[[VBA]]**
+	- **[[Visual Basic]]**
+	- **[[Windows Batch]]**
+	- **Windows CMD**
 		- [[_README]]
-		- **2021**
-			- **2021-11**
-				- [[2021-11-08]]
-				- [[2021-11-10]]
-			- **2021-12**
+	- **Windows Misc**
+		- [[_README]]
+		- [[Add Tabs to Windows 11 Explorer]]
+	- **Windows Registry**
+		- **_assets**
+
+		- [[_README]]
+		- [[Regedit - Add Open in VSCode Insiders to Explorer Context Menu]]
+		- [[Regedit - Enable Long Path Support on Windows]]
+		- [[Regedit - Export Saved Registry Favorites]]
+		- [[Regedit - Restart Explorer and StartMenu Context Bar]]
+		- [[Regedit - Take Ownership Context Menu]]
+	- **Windows Run**
+		- [[_README]]
+		- [[Run - Check for Windows Store App Updates]]
+		- [[Run - Cleanup]]
+		- [[Run - GodMode All Tasks]]
+		- [[Run - Obsidian Vault Launcher]]
+		- [[Run - Resource Monitor]]
+		- [[Run - Startup]]
+- **Content**
+	- [[_README]]
+	- **Guides**
+
+	- **Ideas**
+		- [[_README]]
+		- [[Blog Post Ideas Brainstorming Helpers]]
+		- [[Blog Post Ideas List]]
+		- [[Committing to Consistency with Your Blog]]
+		- [[RMarkdown Template for Developing a Package with Best Practices]]
+		- [[The Best Weapon for Deciding What to Write About]]
+	- **Posts**
+		- [[_README]]
+		- **Actuarial Posts**
+			- [[_README]]
+			- [[Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses]]
+			- [[Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis]]
+			- [[Part III - Actuarial Reserve and Cash Flow Analyses]]
+		- **Drafts**
+			- [[_README]]
+			- [[Setting up an Optimal Developer Environment on Windows]]
+		- **Published**
+			- [[_README]]
+			- [[Getting to know .Renviron]]
+	- **Sites**
+		- [[_README]]
+		- [[Devfolio]]
+		- [[JimsDocs]]
+		- [[JimsVault]]
+		- [[The 'jimbrig' Universe]]
+		- [[The R Dispatch]]
+- **Daily-Notes**
+	- [[_README]]
+	- **2021**
 		- **2021-11**
 			- [[2021-11-08]]
 			- [[2021-11-10]]
@@ -348,23 +112,7 @@
 			- [[2021-12-18]]
 			- [[2021-12-26]]
 			- [[2021-12-28]]
-		- **2022**
-			- **2022-01**
-			- **2022-02**
-				- [[2022-02-12]]
-				- [[2022-02-13]]
-				- [[2022-02-14]]
-				- [[2022-02-15]]
-				- [[2022-02-16]]
-				- [[2022-02-18]]
-			- **2022-03**
-			- **2022-04**
-				- [[2022-04-03]]
-			- **2022-05**
-			- **2022-06**
-				- [[2022-06-02]]
-				- [[2022-06-03]]
-				- [[2022-06-24]]
+	- **2022**
 		- **2022-01**
 			- [[2022-01-02]]
 			- [[2022-01-08]]
@@ -399,98 +147,153 @@
 			- [[2022-02-15]]
 			- [[2022-02-16]]
 			- [[2022-02-18]]
-		- [[2022-04-03]]
-		- [[2022-04-24]]
-	- **Goals**
-		- [[_README]]
-		- [[2022 Areas of Focus and Goal Planning]]
-	- **Guides**
-		- [[Add a GUI to Batch File Scripts on Windows]]
-		- [[WSL Terminal and Shell Setup Guide]]
-	- **Learning**
-		- [[_README]]
-		- [[2022 Learning List]]
-		- [[Areas of Expertise]]
-		- [[Technical Learning List]]
-	- **Lists**
-		- [[_README]]
-		- [[Actuarial Development Master Resource List]]
-		- [[Advanced Programming Concepts List]]
-		- [[APIs I Use]]
-		- [[Awesome R Package Development List]]
-		- [[AWS Components Master List]]
-		- [[CLI Tools List]]
-		- [[Data Engineering Master List of Resources]]
-		- [[Database GUIs List]]
-		- [[Database Modeling Tools]]
-		- [[Excel Automation Resources]]
-		- [[Excel VBA Resource List]]
-		- [[Global Inbox Zero Checklist]]
-		- [[Learn to Code Platforms Master List]]
-		- [[List of APIs I use Frequently]]
-		- [[List of Python Flask Resources]]
-		- [[Obsidian Plugins List]]
-		- [[Online Developer Tools List]]
-		- [[PostgreSQL Tools List]]
-		- [[Productivity Apps List]]
-		- [[R - Data Validation Packages List]]
-		- [[R - Database Packages List]]
-		- [[R on the Web - List of Links]]
-		- [[R Package Development Resources List]]
-		- [[R Shiny Packages List]]
-		- [[REST API Resources List]]
-		- [[SQL Server List of Tools and Scripts]]
-		- [[Ten Step GTD Setup List]]
-	- **Meta**
-		- [[_README]]
-		- [[About]]
-		- [[How I Take Notes]]
-		- [[Publish Workflow]]
-		- [[Structure]]
-		- [[Tagless-Files]]
-		- [[Unresolved-Links]]
-		- [[Vault Setup]]
-	- **Mindsweeps**
-		- **_assets**
+		- **2022-03**
+		- **2022-04**
+			- [[2022-04-03]]
+		- **2022-05**
+		- **2022-06**
+			- [[2022-06-02]]
+			- [[2022-06-03]]
+			- [[2022-06-24]]
+		- **2022-07**
+		- **2022-08**
+			- [[2022-08-11]]
+			- [[2022-08-12]]
+			- [[2022-08-15]]
+			- [[2022-08-16]]
+			- [[2022-08-18]]
+			- [[2022-08-25]]
+			- [[2022-08-28]]
+			- [[2022-08-31]]
+		- **2022-09**
+			- [[2022-09-02]]
+			- [[2022-09-03]]
+			- [[2022-09-04]]
+			- [[2022-09-05]]
+			- [[2022-09-06]]
+			- [[2022-09-09]]
+			- [[2022-09-10]]
+	- [[2022-04-24]]
+	- [[2022-09-05]]
+	- [[2022-09-07]]
+	- [[2022-09-17]]
+	- [[2022-09-18]]
+	- [[2022-09-20]]
+	- [[2022-09-23]]
+	- [[2022-09-24]]
+- **Goals**
+	- [[_README]]
+	- [[2022 Areas of Focus and Goal Planning]]
+- **Guides**
+	- [[_README]]
+	- [[Add a GUI to Batch File Scripts on Windows]]
+	- [[Azure Setup Guide]]
+	- [[Excel Developer Setup Guide]]
+	- [[Guide for Developing and Designing a Relational Database]]
+	- [[Optimize Windows 11 Explorer with QTTabBar]]
+	- [[Querying Data from PostgreSQL Database]]
+	- [[VBA Coding Standards]]
+	- [[Windows Developer Environment]]
+	- [[WSL Terminal and Shell Setup Guide]]
+- **Learning**
+	- [[_README]]
+	- [[2022 Learning List]]
+	- [[Areas of Expertise]]
+	- [[Technical Learning List]]
+- **Lists**
+	- [[_README]]
+	- [[Actuarial Development Master Resource List]]
+	- [[Advanced Programming Concepts List]]
+	- [[APIs I Use]]
+	- [[Awesome R Package Development List]]
+	- [[AWS Components Master List]]
+	- [[CLI Tools List]]
+	- [[Data Engineering Master List of Resources]]
+	- [[Database GUIs List]]
+	- [[Database Modeling Tools]]
+	- [[Excel Automation Resources]]
+	- [[Excel VBA Resource List]]
+	- [[Global Inbox Zero Checklist]]
+	- [[Learn to Code Platforms Master List]]
+	- [[List of APIs I use Frequently]]
+	- [[List of Python Flask Resources]]
+	- [[Obsidian Plugins List]]
+	- [[Online Developer Tools List]]
+	- [[PostgreSQL Tools List]]
+	- [[Productivity Apps List]]
+	- [[R - Data Validation Packages List]]
+	- [[R - Database Packages List]]
+	- [[R on the Web - List of Links]]
+	- [[R Package Development Resources List]]
+	- [[R Shiny Packages List]]
+	- [[REST API Resources List]]
+	- [[SQL Server List of Tools and Scripts]]
+	- [[Ten Step GTD Setup List]]
+- **Logs**
+	- [[_README]]
+	- [[Log - New Discoveries]]
+- **Meta**
+	- [[_README]]
+	- [[About]]
+	- [[How I Take Notes]]
+	- [[Publish Workflow]]
+	- [[Structure]]
+	- [[Tagless-Files]]
+	- [[Unlinked-Files]]
+	- [[Unresolved-Links]]
+	- [[Vault Setup]]
+- **Mindsweeps**
+	- **_assets**
 
-		- [[_README]]
-		- [[2021-12-07]]
-	- **MOCs**
-		- [[_README]]
-		- [[Actuarial Science]]
-		- [[Data Engineering]]
-		- [[Data Science]]
-		- [[Databases]]
-		- [[Development]]
-		- [[Finance]]
-		- [[Frontend Development]]
-		- [[Mathematics and Statistics]]
-		- [[Microsoft]]
-		- [[Personal Knowledge Management]]
-		- [[Physics]]
-		- [[PowerShell]]
-		- [[Productivity]]
-		- [[Python]]
-		- [[R Shiny]]
-		- [[R]]
-		- [[Software Development]]
-		- [[Web Development]]
-	- **People**
-		- [[_README]]
-		- [[Bill Inmon]]
-		- [[John Sonmez]]
-		- [[Justin DiRose]]
-		- [[Niklas Luhmann]]
-		- [[Ralph Kimball]]
-		- [[Scott Hanselman]]
-		- [[Tiago Forte]]
+	- [[_README]]
+	- [[2021-12-07]]
+- **MOCs**
+	- [[_README]]
+	- [[Actuarial Science]]
+	- [[Data Engineering]]
+	- [[Data Science]]
+	- [[Databases]]
+	- [[Development]]
+	- [[Finance]]
+	- [[Frontend Development]]
+	- [[Mathematics and Statistics]]
+	- [[Microsoft]]
+	- [[Personal Knowledge Management]]
+	- [[Physics]]
+	- [[PowerShell]]
+	- [[Productivity]]
+	- [[Python]]
+	- [[R Shiny]]
+	- [[R]]
+	- [[Software Development]]
+	- [[Web Development]]
+- **People**
+	- [[_README]]
+	- [[Bill Inmon]]
+	- [[Democritas - The Father of Atoms]]
+	- [[John Sonmez]]
+	- [[Justin DiRose]]
+	- [[Nick Janetakis]]
+	- [[Niklas Luhmann]]
+	- [[Ralph Kimball]]
+	- [[Scott Hanselman]]
+	- [[Tiago Forte]]
 
 %% End Waypoint %%
 
-## Overview
+***
+
+## 2-Areas Gallery
 
  
 ```ccard
 type: folder_brief_live
 ```
  
+
+***
+
+Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
+
+
+

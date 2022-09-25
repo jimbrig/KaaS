@@ -115,5 +115,5 @@ For most applications that generate less business value and come saddled with de
 
 ## Appendix: Links
 
-- [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
+- [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]

@@ -1,16 +1,14 @@
 ---
-Date: 2022-02-27
+Date: 2022-09-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Readme"]
-Alias: PowerShell
+Tags: ["#Type/Folder", "#Type/ReadMe"]
+Alias: ["PowerShell"]
 ---
 
-# PowerShell
+# PowerShell Overview
 
-<!-- optional markdown-notes-tree directory description starts here -->
-PowerShell Code Snippets.
-<!-- optional markdown-notes-tree directory description ends here -->
-
+%% Begin Waypoint %%
+- [[_README]]
 - [[Powershell - Backup Edge User Preferences PowerShell Script]]
 - [[PowerShell - Cleanup Windows Script]]
 - [[PowerShell - Custom Installation Helpers]]
@@ -35,18 +33,24 @@ PowerShell Code Snippets.
 - [[PowerShell - System PATH Helpers]]
 - [[PowerShell - Toast Notification Example]]
 - [[PowerShell - Useful Profile Utility Functions]]
+- [[PowerShell]]
+- [[README]]
 
-*Contents*
-
-```dataview
-list from "2-Areas/Code/PowerShell" AND !#Type/Readme
-```
+%% End Waypoint %%
 
 ***
 
-*Backlinks*
+## PowerShell Gallery
 
-```dataview
-list from [[_README]] AND -"Changelog"
+ 
+```ccard
+type: folder_brief_live
 ```
+ 
+
+***
+
+Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
+
+
 

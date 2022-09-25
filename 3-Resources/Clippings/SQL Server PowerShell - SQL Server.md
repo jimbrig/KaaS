@@ -42,5 +42,5 @@ This section applies to scripts executed from PowerShell and not the SQL Agent. 
 
 ## Appendix: Links
 
-- [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
+- [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]

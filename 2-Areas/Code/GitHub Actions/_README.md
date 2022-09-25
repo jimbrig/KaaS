@@ -11,13 +11,13 @@ Alias: GitHub Actions
 GitHub Action Code Snippets.
 <!-- optional markdown-notes-tree directory description ends here -->
 
--   [[GitHub Actions for R]]
+-   [[GHA - GitHub Actions for R]]
     -   [[GitHub Action - roxygen]]
     -   [[GitHub Action - pkgdown]]
-    -   [[GitHub Action - R Spelling Checks]]
+    -   [[GHA - R Spelling Checks]]
     -   [[GitHub Action - R Package Validation]]
-    -   [[GitHub Action - Code Coverage for R]]
-    -   [[GitHub Action - Build-Check-Install R Package]]
+    -   [[GHA - Code Coverage for R]]
+    -   [[GHA - Build-Check-Install R Package]]
 
 
 -   [[GitHub Action - Release]]

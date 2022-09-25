@@ -276,5 +276,5 @@ Here we go! Now, we successfully transferred data from MySQL to PostgreSQL using
 
 ## Appendix: Links
 
-- [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
+- [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]]
 - [[3-Resources/Clippings/_README|Clippings]]

@@ -64,7 +64,7 @@ Enhancements I added to fit my custom needs:
     - Added the source below the title (i.e. `*Source: [title](url)*`)
     - Added an Appendix: Links section (i.e. `## Appendix: Links`)
     - Added references for:
-        - [[JavaScript - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]] (this note!)
+        - [[JS - Obsidian Web Clipper Bookmarklet|Obsidian Web Clipper Bookmarklet]] (this note!)
         - [[3-Resources/Clippings/_README|Clippings]] Folder's README
 
 ```javascript

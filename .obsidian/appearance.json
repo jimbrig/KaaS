@@ -1,8 +1,9 @@
 {
   "cssTheme": "",
-  "translucency": true,
+  "translucency": false,
   "interfaceFontFamily": "",
   "baseFontSize": 14,
   "accentColor": "",
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "theme": "system"
 }

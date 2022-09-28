@@ -185,5 +185,6 @@
     "logo.png",
     "mstile-150x150.png",
     "safari-pinned-tab.svg"
-  ]
+  ],
+  "showInlineTitle": false
 }

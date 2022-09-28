@@ -25,7 +25,7 @@ Alias: ["Clippings"]
 - **[[MarkDownloads]]**
 - [[Next in insurance Top insurance industry issues in 2022]]
 - **[[Obsidian-Bookmarks]]**
-- **[[Obsidian-Clipper]]**
+- **Obsidian-Clipper**
 - [[Obsidian-Clipper]]
 - [[Selectively modernizing and migrating applications to AWS]]
 - [[SQL Command Prompt Utilities - SQL Server]]

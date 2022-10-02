@@ -1,3 +1,5 @@
+- 2022-10-02 at 14h26 · [[Highlights]]
+- 2022-10-02 at 14h26 · [[Don’t default to Shiny. Go Quarto instead]]
 - 2022-09-28 at 21h00 · [[Untitled]]
 - 2022-09-28 at 20h06 · [[Code-R-Template]]
 - 2022-09-28 at 20h04 · [[Meta-Template]]
@@ -71,7 +73,6 @@
 - 2022-09-24 at 21h04 · [[PDFs]]
 - 2022-09-24 at 21h04 · [[Literature-Notes]]
 - 2022-09-24 at 21h04 · [[Kanbans]]
-- 2022-09-24 at 21h04 · [[Highlights]]
 - 2022-09-24 at 21h04 · [[Embeds]]
 - 2022-09-24 at 21h04 · [[Dictionary]]
 - 2022-09-24 at 21h04 · [[Obsidian-Bookmarks]]
@@ -497,4 +498,3 @@
 - 2022-08-18 at 09h13 · [[Can't Stay Focused While Processing - Have Tried for Months]]
 - 2022-08-18 at 09h13 · [[How to Use Evernote for Your Creative Workflow - Forte Labs]]
 - 2022-08-18 at 09h13 · [[10 Tips to Turn Microsoft To-Do Into a Serious Task Manager]]
-- 2022-08-18 at 09h13 · [[Productivity System The Definitive Guide (2020) - THEZEROED]]

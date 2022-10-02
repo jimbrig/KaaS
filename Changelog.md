@@ -1,3 +1,4 @@
+- 2022-10-02 at 14h59 · [[Untitled]]
 - 2022-10-02 at 14h48 · [[XDG Base Directory Specification]]
 - 2022-10-02 at 14h33 · [[xdg-user-dirs]]
 - 2022-10-02 at 14h32 · [[Linux]]
@@ -497,4 +498,3 @@
 - 2022-08-18 at 09h12 · [[Writing Well A Must-Have Skill That No One Teaches Data Scientists]]
 - 2022-08-18 at 09h12 · [[LeaRning Path on R - Step by Step Guide to Learn Data Science on R]]
 - 2022-08-18 at 09h12 · [[Taking Notes for Yourself Best Practices for the Personal Notebook]]
-- 2022-08-18 at 09h12 · [[Getting Started With R on Amazon Web Services  Amazon Web Services]]

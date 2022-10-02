@@ -192,6 +192,7 @@ Alias: "Development"
 ## Best Practices, Guides, How-To's, and Setups
 
 - [[Windows Developer Environment]]
+- [[XDG Base Directory Specification]]
 - [[Windows Registry Hacks]]
 - [[Windows Subsystem for Linux Setup Guide]]
 - [[Nodejs Setup Guide]]

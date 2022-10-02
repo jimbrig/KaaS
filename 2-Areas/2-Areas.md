@@ -137,6 +137,7 @@ Alias: ["Areas"]
 	- [[2022-09-20]]
 	- [[2022-09-23]]
 	- [[2022-09-24]]
+	- [[2022-10-02]]
 - **Goals**
 	- [[_README]]
 	- [[2022 Areas of Focus and Goal Planning]]

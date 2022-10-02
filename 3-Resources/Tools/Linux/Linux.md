@@ -10,6 +10,7 @@ Alias: ["Linux"]
 %% Begin Waypoint %%
 - [[Bash]]
 - [[Linux]]
+- [[xdg-user-dirs]]
 
 %% End Waypoint %%
 

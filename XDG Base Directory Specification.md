@@ -19,6 +19,63 @@ Alias: ["XDG Base Directory Specification", "XDG", "xdg-user-dirs"]
 - [[#Referencing this specification|Referencing this specification]]
 - [[#Appendix: Links and References|Appendix: Links and References]]
 
+## Table
+
+| XDG | XDG variable | Path |
+| --- | --- | --- |
+| Config | XDG_CONFIG_HOME | `$HOME/.config` |
+| Data | XDG_DATA_HOME | `$HOME/.local/share` |
+| Cache | XDG_CACHE_HOME | `$HOME/.cache` |
+| State | XDG_STATE_HOME | `$HOME/.local/state` |
+
+| Variable | Function | Recommended default |
+| --- | --- | --- |
+| `$XDG_DATA_HOME` | user specific data files | `$HOME/.local/share` |
+| `$XDG_CONFIG_HOME` | user specific configuration files | `$HOME/.config` |
+| `$XDG_DATA_DIRS` | set of ordered directories for data files | `/usr/local/share/:/usr/share/` |
+| `$XDG_CONFIG_DIRS` | set of ordered directorries for configuration files | `/etc/xdg` |
+| `$XDG_CACHE_HOME` | user specific, non-essential (cached) data | `$HOME/.cache` |
+| `$XDG_RUNTIME_DIR` | user specific runtime files | not defined |
+
+For the `$XDG_RUNTIME_DIR` there is no default, but there are a couple of requirements:
+
+-   The directory MUST be owned by the user
+-   The user MUST be the only one having read and write access to it
+-   Its access mode MUST be `0700`
+-   The lifetime of the directory MUST be bound to the user being logged in
+-   It MUST be created when the user first logs in and if the user fully logs out the directory MUST be removed
+-   If the user logs in more than once he should get pointed to the same directory
+-   Files in the directory MUST not survive reboot or a full logout/login cycle
+
+## Setup
+
+One must choose a sensible place to set these variables. I chose `/etc/profile.d/xdg.sh`. Create the file and add the following:
+
+```sh
+# XDG base directories
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_CACHE_HOME="$HOME/.cache"
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_DATA_DIRS="/usr/local/share:/usr/share"
+export XDG_CONFIG_DIRS="/etc/xdg"
+
+# Setting $XDG_RUNTIME_DIR
+if test -z "${XDG_RUNTIME_DIR}"; then
+     export XDG_RUNTIME_DIR=/tmp/${UID}-runtime-dir
+     if ! test -d "${XDG_RUNTIME_DIR}"; then
+         mkdir "${XDG_RUNTIME_DIR}"
+         chmod 0700 "${XDG_RUNTIME_DIR}"
+     fi
+ fi
+```
+
+At this point it may be a good idea to reboot and check whether all the variables have been set correctly using `printenv`.
+
+
+## Moving Config Files
+
+Applications that already implemented the XDG specification will now attempt to create their config files inside `$XDG_CONFIG_HOME`. For example `$XDG_CONFIG_HOME/polybar`. To find out whether or net an application supports the specification already or if one has to do some extra work to get it done, use the [ArchWiki](https://wiki.archlinux.org/index.php/XDG_Base_Directory) page. Simply search for your application. For example `CTRL-F: zsh`.
+
 
 ## User Directories
 

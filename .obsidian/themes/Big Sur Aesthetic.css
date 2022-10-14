@@ -1,0 +1,276 @@
+.theme-dark {
+    --background-primary: rgb(30, 30, 30);
+    --background-primary-alt: rgb(0, 0, 0);
+    --background-secondary: rgb(42, 45, 45);
+    --background-secondary-alt: rgb(54, 56, 56);
+    --background-modifier-border: rgb(0, 0, 0);
+    --background-modifier-form-field: rgba(0, 0, 0, 0.3);
+    --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
+    --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+    --background-modifier-success: #197300;
+    --background-modifier-error: #3d0000;
+    --background-modifier-error-rgb: 61, 0, 0;
+    --background-modifier-error-hover: #470000;
+    --background-modifier-cover: rgba(0, 0, 0, 0.6);
+    --text-accent: rgb(242, 109, 109);
+    --text-accent-hover: rgb(242, 109, 109);
+    --text-normal: rgb(241, 244, 244);
+    --text-muted: rgb(230, 230, 230);
+    --text-faint: rgb(126, 127, 127);
+    --text-error: #ff3333;
+    --text-error-hover: #990000;
+    --text-highlight-bg: rgba(255, 255, 0, 0.4);
+    --text-selection: rgba(23, 48, 77, 0.99);
+    --text-on-accent: #dcddde;
+    --interactive-normal: #2a2a2a;
+    --interactive-hover: #303030;
+    --interactive-accent: #993636;
+    --interactive-accent-rgb: 153, 54, 54;
+    --interactive-accent-hover: #a63c3c;
+    --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
+    --scrollbar-bg: rgba(255, 255, 255, 0.05);
+    --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
+    --btn-bg: rgb(103, 106, 106);
+    --btn-content: rgb(230, 233, 233);
+    --btn-highlight-bg: rgb(69, 71, 71);
+    --btn-highlight-content: rgb(182, 184, 184);
+    --divider-border: rgb(0, 0, 0);
+}
+.theme-light {
+    --background-primary: #ffffff;
+    --background-primary-alt: #f5f6f8;
+    --background-secondary: #f2f3f5;
+    --background-secondary-alt: #e3e5e8;
+    --background-accent: #fff;
+    --background-modifier-border: #ddd;
+    --background-modifier-form-field: #fff;
+    --background-modifier-form-field-highlighted: #fff;
+    --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
+    --background-modifier-success: #A4E7C3;
+    --background-modifier-error: #e68787;
+    --background-modifier-error-rgb: 230, 135, 135;
+    --background-modifier-error-hover: #FF9494;
+    --background-modifier-cover: rgba(0, 0, 0, 0.8);
+    --text-accent: #ef5d5d;
+    --text-accent-hover: #e66a6a;
+    --text-normal: #2e3338;
+    --text-muted: #888888;
+    --text-faint: #999999;
+    --text-error: #800000;
+    --text-error-hover: #990000;
+    --text-highlight-bg: rgba(255, 255, 0, 0.4);
+    --text-selection: rgba(204, 230, 255, 0.99);
+    --text-on-accent: #f2f2f2;
+    --interactive-normal: #f2f3f5;
+    --interactive-hover: #e9e9e9;
+    --interactive-accent: #d96c6c;
+    --interactive-accent-rgb: 217, 108, 108;
+    --interactive-accent-hover: #e67373;
+    --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
+    --scrollbar-bg: rgba(0, 0, 0, 0.05);
+    --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
+    --btn-bg: #ddd;
+    --btn-content: #ddd;
+    --btn-highlight-bg: #ddd;
+    --btn-highlight-content: #666;
+    --divider-border: rgb(235, 226, 228);
+}
+
+html, body {
+    font-family: "Source Sans Pro", -apple-system,  sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.view-header,
+.workspace-leaf.mod-active .view-header {
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-top: 2px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.view-header .view-header-title {
+    font-size: 12px;
+}
+
+.view-header:not(:hover) .view-actions {
+    opacity: 0.1;
+    transition: opacity .40s ease-in-out;
+}
+
+.view-header .view-action:hover {
+    color: var(--btn-highlight-content);
+}
+
+.status-bar:not(:hover) .status-bar-item {
+    opacity: 0.25;
+    transition: opacity .40s ease-in-out;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    font-weight: 600;
+}
+
+.markdown-preview-view p,
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.CodeMirror pre.CodeMirror-line {
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.markdown-preview-view hr {
+    border: none;
+    border-top: 1px solid var(--text-faint);
+}
+
+.markdown-preview-view .internal-embed {
+    margin: 0 0 0 16px;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.markdown-preview-view .file-embed .file-embed-title {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+    padding-right: 32px;
+}
+
+.markdown-preview-view .file-embed {
+    margin: 0;
+    padding: 0px 10px;
+    border: 0;
+    background: var(--text-faint);
+    border-radius: 32px;
+}
+
+.markdown-preview-view .file-embed-link {
+    color: var(--text-normal);
+}
+
+.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
+.workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+    background: transparent;
+    border-right: 1px solid var(--divider-border);
+}
+
+.workspace-tabs {
+    padding: 0;
+}
+
+.nav-header {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.nav-buttons-container {
+    padding: 0px 1px 0px 0px;
+    justify-content: flex-end;
+}
+
+.nav-buttons-container:hover {
+    cursor: default;
+}
+
+.nav-action-button {
+    height: 28px;
+    margin: 0px;
+    border-radius: 0;
+    color: var(--btn-content);
+}
+
+.nav-action-button svg {
+    height: 80%;
+}
+
+.nav-action-button:hover {
+    background-color: var(--btn-highlight-bg);
+    color: var(--btn-highlight-content);
+    border-radius: 4px;
+    cursor: default;
+}
+
+.nav-files-container {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.nav-folder.mod-root > .nav-file-title, .nav-folder.mod-root > .nav-folder-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: var(--text-faint);
+    letter-spacing: 0.05rem;
+}
+
+.nav-folder.mod-root > .nav-file-title, .nav-folder.mod-root > .nav-folder-title:hover {
+    color: var(--text-faint);
+}
+
+.nav-folder {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.nav-folder-title, .nav-file-title, .nav-file-title-content {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    line-height: 19px;
+    font-weight: normal;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: break-word;
+    border-radius: 0;
+}
+
+.nav-folder-children, .nav-file {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.outline .collapsible-item-children {
+    margin-left: 16px;
+    border-left: 1px solid var(--background-secondary-alt);
+    transition: all 0.5s ease-in-out;
+}
+.outline .collapsible-item-children:hover {
+    border-left-color: var(--background-secondary-alt);
+}
+.nav-folder-children .nav-folder-children {
+    margin-left: 16px;
+    padding-left: 0;
+    border-left: 1px solid var(--background-secondary-alt);
+    transition: all 0.5s ease-in-out;
+}
+.nav-folder-children .nav-folder-children:hover {
+    border-left-color: var(--background-secondary-alt);
+}
+
+.menu-item,
+.view-action,
+.workspace-ribbon-collapse-btn,
+.side-dock-ribbon-tab,
+.side-dock-ribbon-action,
+.side-dock-collapse-btn,
+.side-bar-item.mod-clickable,
+.nav-action-button,
+.nav-file-title,
+.nav-folder-title,
+.search-result-file-match,
+.titlebar-button {
+    cursor: default;
+}

@@ -7,7 +7,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Slipbox",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "foldHeading": true,
   "attachmentFolderPath": "./_assets",
   "spellcheckDictionary": [
@@ -172,7 +172,7 @@
     "SwaggerHub",
     "GitHubRelease"
   ],
-  "livePreview": true,
+  "livePreview": false,
   "useTab": true,
   "communityPluginSortOrder": "download",
   "userIgnoreFilters": [

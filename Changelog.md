@@ -1,4 +1,4 @@
-- 2022-10-02 at 14h59 · [[Untitled]]
+- 2022-10-02 at 14h59 · [[Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain]]
 - 2022-10-02 at 14h48 · [[XDG Base Directory Specification]]
 - 2022-10-02 at 14h33 · [[xdg-user-dirs]]
 - 2022-10-02 at 14h32 · [[Linux]]

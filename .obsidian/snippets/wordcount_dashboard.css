@@ -1,0 +1,66 @@
+/* used to properly align the numbers of the dataviewjs wordcount snippet
+https://gist.github.com/chrisgrieser/ac16a80cdd9e8e0e84606cc24e35ad99 */
+
+.wordcountTable table.dataview.table-view-table td:first-child,
+.wordcountTable table.dataview.table-view-table th:first-child {
+	text-align: center;
+	padding: 4px 7px;
+	border-left: none;
+}
+
+.wordcountTable table.dataview.table-view-table td:first-child {
+	color: var(--text-muted) !important;
+}
+
+.wordcountTable table.dataview.table-view-table td:nth-child(3),
+.wordcountTable table.dataview.table-view-table td:nth-child(4) {
+	text-align: end;
+}
+
+.wordcountTable table.dataview.table-view-table th:nth-child(3),
+.wordcountTable table.dataview.table-view-table td:nth-child(3),
+.wordcountTable table.dataview.table-view-table th:nth-child(4),
+.wordcountTable table.dataview.table-view-table td:nth-child(4),
+.wordcountTable table.dataview.table-view-table th:nth-child(5),
+.wordcountTable table.dataview.table-view-table td:nth-child(5) {
+	padding-right: 7px;
+	padding-left: 7px;
+}
+
+.wordcountTable table.dataview.table-view-table td:nth-child(2) {
+	text-align: start;
+}
+
+.wordcountTable table.dataview.table-view-table td:nth-child(5),
+.wordcountTable table.dataview.table-view-table td:last-child {
+	text-align: center;
+}
+
+.wordcountTable .markdown-preview-section {
+	max-width: 100% !important;
+}
+
+.wordcountTable table.dataview.table-view-table th {
+	font-size: 1.1em;
+	text-align: center;
+}
+
+.wordcountTable table.dataview.table-view-table {
+	font-size: 0.9em;
+}
+
+.wordcountTable table.dataview.table-view-table a.internal-link {
+	text-decoration: none;
+}
+
+.wordcountTable progress {
+	margin-bottom: 3px;
+}
+
+/* target NA field */
+.wordcountTable table.dataview.table-view-table tr:last-child td:nth-child(4) {
+	text-align: center;
+}
+
+/* Supercharged Links */
+.data-link-icon[data-link-cssclass*="wordcount" i]::BEFORE { content: "🔢 " }

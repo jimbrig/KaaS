@@ -3,7 +3,7 @@
 !themes/
 !assets/
 !snippets/
-
+!plugins/
 !app.json
 !appearance.json
 !backlink.json

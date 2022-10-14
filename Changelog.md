@@ -1,5 +1,5 @@
+- 2022-10-14 at 16h28 · [[Data Lake Testing Strategy]]
 - 2022-10-14 at 16h27 · [[0-Slipbox]]
-- 2022-10-14 at 16h27 · [[Data Lake Testing Strategy]]Testing Strategy]]
 - 2022-10-14 at 16h26 · [[Tracking estimated required reserve changes for captives]]
 - 2022-10-14 at 16h26 · [[Getting Started with Julia for Actuaries]]
 - 2022-10-14 at 16h26 · [[Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain]]

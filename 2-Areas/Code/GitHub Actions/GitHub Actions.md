@@ -30,7 +30,7 @@ Alias: ["GitHub Actions"]
 - [[GHA - R Spelling]]
 - [[GHA - R Test Coverage]]
 - [[GHA - Release]]
-- [[GitHub Actions]]
+- [[GHA -]]
 
 %% End Waypoint %%
 

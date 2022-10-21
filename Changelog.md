@@ -1,3 +1,5 @@
+- 2022-10-21 at 14h24 · [[GitHub Actions]]
+- 2022-10-21 at 14h24 · [[GHA -]]
 - 2022-10-14 at 16h28 · [[Data Lake Testing Strategy]]
 - 2022-10-14 at 16h27 · [[0-Slipbox]]
 - 2022-10-14 at 16h26 · [[Tracking estimated required reserve changes for captives]]
@@ -496,5 +498,3 @@
 - 2022-10-04 at 17h54 · [[This Is How We Change the World]]
 - 2022-10-04 at 17h54 · [[The business model of open source]]
 - 2022-10-04 at 17h54 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS]]
-- 2022-10-04 at 17h54 · [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2]]
-- 2022-10-04 at 17h54 · [[Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS]]

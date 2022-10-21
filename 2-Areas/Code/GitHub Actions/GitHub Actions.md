@@ -9,10 +9,13 @@ Alias: ["GitHub Actions"]
 
 %% Begin Waypoint %%
 - [[_README]]
+- [[GHA - AWS Deployment]]
+- [[GHA - Azure Container WebApp Deployment]]
 - [[GHA - Build-Check-Install R Package]]
 - [[GHA - Code Coverage for R]]
 - [[GHA - Git-Cliff]]
 - [[GHA - GitHub Actions for R]]
+- [[GHA - Labeler]]
 - [[GHA - R Build Blogdown]]
 - [[GHA - R Build Bookdown]]
 - [[GHA - R Build-Check-Install]]
@@ -30,7 +33,7 @@ Alias: ["GitHub Actions"]
 - [[GHA - R Spelling]]
 - [[GHA - R Test Coverage]]
 - [[GHA - Release]]
-- [[GHA -]]
+- [[GHA - Stale Issues]]
 
 %% End Waypoint %%
 

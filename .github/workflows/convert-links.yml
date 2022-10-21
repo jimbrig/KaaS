@@ -7,24 +7,41 @@ jobs:
   setup:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Check Out
+        uses: actions/checkout@v3
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Rename _READMEs
         run: find . -name '*_README.md' -execdir mv -i {} README.md ";"
-      - name: setup rust
+      - name: Install Rust
         uses: actions-rs/toolchain@v1
         with:
           profile: minimal
           toolchain: stable
           override: true
-      - name: install obsidian-export
-        uses: actions-rs/cargo@v1
+          # components: rustfmt, clippy
+      - name: Set up Cargo Cache
+        uses: actions/cache@v3
+        continue-on-error: false
         with:
-          command: install
-          args: obsidian-export
-      - name: obsidian-export
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            target/            
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: ${{ runner.os }}-cargo-
+      - name: Install obsidian-export
+        run: |
+          cargo install --locked obsidian-export || true
+      #- name: Install obsidian-export
+      #  uses: actions-rs/cargo@v1
+      #  with:
+      #    command: install
+      #    args: obsidian-export
+      - name: Run obsidian-export
         run: mkdir tmp && obsidian-export . tmp --frontmatter never && cp tmp/* . -f -r && rm -r tmp
       - name: Commit & Push changes
         uses: actions-js/push@master

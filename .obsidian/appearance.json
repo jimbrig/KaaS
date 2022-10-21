@@ -5,5 +5,8 @@
   "baseFontSize": 14,
   "accentColor": "",
   "monospaceFontFamily": "Cascadia Code",
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "style-settings"
+  ]
 }

@@ -8,7 +8,7 @@ Alias: ["JavaScript"]
 # JavaScript Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/JavaScript/_README]]
 - [[JavaScript]]
 - [[Reactjs]]
 

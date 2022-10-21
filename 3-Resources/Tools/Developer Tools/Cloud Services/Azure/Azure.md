@@ -8,7 +8,7 @@ Alias: ["Azure"]
 # Azure Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/Azure/_README]]
 - [[Azure CLI]]
 - [[Azure Container Instances]]
 - [[Azure Container Registry]]

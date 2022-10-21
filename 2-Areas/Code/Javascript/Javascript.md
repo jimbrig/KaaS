@@ -8,7 +8,7 @@ Alias: ["Javascript"]
 # Javascript Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Javascript/_README]]
 - [[Javascript]]
 - [[JS - Obsidian Web Clipper Bookmarklet]]
 - [[JS - Remove all YouTube Watch Later Videos]]

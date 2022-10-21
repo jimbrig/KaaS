@@ -8,7 +8,7 @@ Alias: ["Windows Batch"]
 # Windows Batch Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Windows Batch/_README]]
 - [[Batch - Magic Variables]]
 - [[Batch - MediaCreationTool]]
 - [[Batch - Python Virtual Environment]]

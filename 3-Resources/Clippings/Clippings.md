@@ -8,7 +8,7 @@ Alias: ["Clippings"]
 # Clippings Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Clippings/_README]]
 - [[5 steps for closing the cloud value gap with AWS]]
 - [[10 Free must-use Tools for Developers you probably have never of]]
 - [[Actuarial risk analysis and financial modeling]]

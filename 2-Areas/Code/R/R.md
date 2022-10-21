@@ -8,7 +8,7 @@ Alias: ["R"]
 # R Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/R/_README]]
 - [[R - Docker with Shiny and SQL Server]]
 - [[R - docker_shiny_mssql]]
 - [[R - Excel Helpers]]

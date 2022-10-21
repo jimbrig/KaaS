@@ -8,7 +8,7 @@ Alias: ["Browser Extensions"]
 # Browser Extensions Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Web Browsers/Browser Extensions/_README]]
 - [[Browser Extensions]]
 - [[Dark Reader]]
 - [[Keeper Password Manager]]

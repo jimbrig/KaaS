@@ -8,7 +8,7 @@ Alias: ["3-Resources"]
 # 3-Resources Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/_README]]
 - [[3-Resources]]
 - **[[Citations]]**
 - **[[Clippings]]**
@@ -22,7 +22,7 @@ Alias: ["3-Resources"]
 - [[README]]
 - **[[Templates]]**
 - **[[Tools]]**
-	- [[_README]]
+	- [[3-Resources/_README]]
 	- **[[Developer Tools]]**
 	- **[[iOS Apps]]**
 	- **[[Linux]]**

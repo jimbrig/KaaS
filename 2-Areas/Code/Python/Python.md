@@ -8,7 +8,7 @@ Alias: ["Python"]
 # Python Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Python/_README]]
 - [[Python - Upgrade PIP]]
 - [[Python]]
 

@@ -8,7 +8,7 @@ Alias: ["Dictionary"]
 # Dictionary Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Dictionary/_README]]
 - [[Dictionary]]
 - [[Disparate]]
 - [[Liaise (en-US)]]

@@ -8,7 +8,7 @@ Alias: ["Literature-Notes"]
 # Literature-Notes Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Literature-Notes/_README]]
 - [[Literature-Notes]]
 
 %% End Waypoint %%

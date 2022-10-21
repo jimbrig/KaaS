@@ -8,7 +8,7 @@ Alias: ["Shell"]
 # Shell Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Shell/_README]]
 - [[Bash]]
 - [[Microsoft DOS]]
 - [[Nerdfont]]

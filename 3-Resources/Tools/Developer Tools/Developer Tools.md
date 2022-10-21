@@ -8,14 +8,14 @@ Alias: ["Developer Tools"]
 # Developer Tools Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/_README]]
 - **[[APIs]]**
 - **[[Cloud Services]]**
 - **[[Command Line Utilities]]**
 - **[[Data Stack]]**
 - [[Developer Tools]]
 - **[[Docker]]**
-	- [[_README]]
+	- [[3-Resources/Tools/Developer Tools/_README]]
 	- [[Docker CLI]]
 	- [[Docker Compose]]
 	- [[Docker]]

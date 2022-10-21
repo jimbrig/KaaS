@@ -8,7 +8,7 @@ Alias: ["Documentation"]
 # Documentation Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Documentation/_README]]
 - [[Documentation]]
 - **[[Help Docs]]**
 - **[[Static Site Generators]]**

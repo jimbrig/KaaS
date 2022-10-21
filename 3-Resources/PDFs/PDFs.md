@@ -8,7 +8,7 @@ Alias: ["PDFs"]
 # PDFs Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/PDFs/_README]]
 - [[PDFs]]
 
 %% End Waypoint %%

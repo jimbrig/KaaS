@@ -10,7 +10,7 @@ Alias: ["Web Browsers"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[3-Resources/Tools/Web Browsers/_README]]
 - **[[Browser Extensions]]**
 - **[[Chrome]]**
 - **[[Edge]]**

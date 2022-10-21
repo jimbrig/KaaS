@@ -8,7 +8,7 @@ Alias: ["Package Managers"]
 # Package Managers Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Package Managers/_README]]
 - **[[Chocolatey]]**
 	- [[choco-archiver]]
 	- [[choco-cleaner]]

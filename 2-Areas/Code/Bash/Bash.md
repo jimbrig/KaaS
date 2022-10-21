@@ -8,7 +8,7 @@ Alias: ["Bash"]
 # Bash Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Bash/_README]]
 - [[Bash - Download Private GitHub Repo Release Assets]]
 - [[Bash - Git-Auto]]
 - [[Bash - GitHub Downloader]]

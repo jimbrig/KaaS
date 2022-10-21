@@ -8,7 +8,7 @@ Alias: ["CSS"]
 # CSS Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/CSS/_README]]
 - [[CSS]]
 
 %% End Waypoint %%

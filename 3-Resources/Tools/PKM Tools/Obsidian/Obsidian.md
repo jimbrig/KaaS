@@ -8,7 +8,7 @@ Alias: ["Obsidian"]
 # Obsidian Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/PKM Tools/Obsidian/_README]]
 - [[Obsidian]]
 - **[[Plugins]]**
 - **[[Themes]]**

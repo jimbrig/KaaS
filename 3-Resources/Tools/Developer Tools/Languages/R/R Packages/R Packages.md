@@ -8,7 +8,7 @@ Alias: ["R Packages"]
 # R Packages Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/R/R Packages/_README]]
 - **[[Actuarial R Packages]]**
 - **[[API R Packages]]**
 - **[[Data Manipulation Packages]]**

@@ -8,7 +8,7 @@ Alias: ["R"]
 # R Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/R/_README]]
 - **[[R Packages]]**
 - [[R]]
 

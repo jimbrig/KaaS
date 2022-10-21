@@ -8,7 +8,7 @@ Alias: ["Database GUI"]
 # Database GUI Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Database GUI/_README]]
 - [[Database GUI]]
 - [[DB Browser for SQLite - sqlitebrowser]]
 - [[DBeaver]]

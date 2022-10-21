@@ -8,7 +8,7 @@ Alias: ["Physical Tools"]
 # Physical Tools Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Physical Tools/_README]]
 - [[Mnemosyne Notebooks]]
 - [[Physical Tools]]
 

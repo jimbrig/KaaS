@@ -1,11 +1,19 @@
 ---
 Date: 2022-09-24
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
+Tags: ["#Type/Folder", "#Type/Readme"]
 Alias: ["GitHub Actions"]
 ---
 
 # GitHub Actions Overview
+
+<!-- optional markdown-notes-tree directory description starts here -->
+> *[[GitHub]] Action [[2-Areas/Code/_README|Code Snippets]] *
+<!-- optional markdown-notes-tree directory description ends here -->
+
+
+
+## Contents
 
 %% Begin Waypoint %%
 - [[_README]]
@@ -34,23 +42,20 @@ Alias: ["GitHub Actions"]
 - [[GHA - R Test Coverage]]
 - [[GHA - Release]]
 - [[GHA - Stale Issues]]
-- [[index]]
 
 %% End Waypoint %%
 
 ***
 
-## GitHub Actions Gallery
+## Appendix: Links and References
 
- 
-```ccard
-type: folder_brief_live
-```
- 
+- [[Development]]
+- [[Code]]
+- [[GitHub Actions]]
+- [[GitHub]]
+- [[DevOps]]
+
 
 ***
 
-Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-
+Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

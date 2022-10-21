@@ -8,7 +8,7 @@ Alias: ["SQL"]
 # SQL Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/SQL/_README]]
 - [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
 - [[SQL - Check Size of DB Objects]]
 - [[SQL - Convert Integer (Clarion) Date to SQL Datetime]]

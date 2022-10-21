@@ -8,7 +8,7 @@ Alias: ["Websites and Online Tools"]
 # Websites and Online Tools Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Websites and Online Tools/_README]]
 - [[StackOverflow]]
 - [[thiscodeWorks]]
 - [[Websites and Online Tools]]

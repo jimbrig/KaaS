@@ -8,7 +8,7 @@ Alias: ["HTML"]
 # HTML Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/HTML/_README]]
 - [[HTML]]
 
 %% End Waypoint %%

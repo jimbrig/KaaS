@@ -8,7 +8,7 @@ Alias: ["Version Control"]
 # Version Control Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Version Control/_README]]
 - [[Git Extras]]
 - [[git-sweep]]
 - [[Git]]

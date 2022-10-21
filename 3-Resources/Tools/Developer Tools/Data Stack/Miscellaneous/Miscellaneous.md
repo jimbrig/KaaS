@@ -8,7 +8,7 @@ Alias: ["Miscellaneous"]
 # Miscellaneous Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/_README]]
 - [[dbhub.io]]
 - [[dbt - Data Build Tool]]
 - [[franchise]]

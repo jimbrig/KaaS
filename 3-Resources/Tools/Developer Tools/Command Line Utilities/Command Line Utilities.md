@@ -10,7 +10,7 @@ Alias: ["Command Line Utilities"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README]]
 - [[Command Line Utilities]]
 - [[doctoc]]
 - [[ffsend]]

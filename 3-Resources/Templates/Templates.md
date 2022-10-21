@@ -8,7 +8,7 @@ Alias: ["Templates"]
 # Templates Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Templates/_README]]
 - **Areas-Templates**
 	- [[Agenda-Template]]
 	- [[Blog-Post-Template]]

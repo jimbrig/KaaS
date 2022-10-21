@@ -8,7 +8,7 @@ Alias: ["Cloud Services"]
 # Cloud Services Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/_README]]
 - **[[AWS]]**
 - **[[Azure]]**
 - [[Cloud Services]]

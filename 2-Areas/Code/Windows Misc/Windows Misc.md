@@ -8,7 +8,7 @@ Alias: ["Windows Misc"]
 # Windows Misc Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Windows Misc/_README]]
 - [[Add Tabs to Windows 11 Explorer]]
 - [[Windows Misc]]
 

@@ -8,7 +8,7 @@ Alias: ["PowerShell"]
 # PowerShell Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README]]
 - [[PowerShell Core]]
 - [[PowerShell Module - devblackops]]
 - [[PowerShell Module - ModuleBuilder]]

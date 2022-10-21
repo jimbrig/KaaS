@@ -8,7 +8,7 @@ Alias: ["Pandoc"]
 # Pandoc Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Pandoc/_README]]
 - [[Pandoc - Convert Word to Markdown]]
 - [[Pandoc]]
 

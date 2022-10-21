@@ -8,7 +8,7 @@ Alias: ["Embeds"]
 # Embeds Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Embeds/_README]]
 - [[dbDiagram]]
 - [[Embeds]]
 - [[thiscodeWorks Code Snippets]]

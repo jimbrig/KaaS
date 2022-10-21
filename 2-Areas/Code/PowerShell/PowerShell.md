@@ -8,7 +8,7 @@ Alias: ["PowerShell"]
 # PowerShell Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/PowerShell/_README]]
 - [[Powershell - Backup Edge User Preferences PowerShell Script]]
 - [[PowerShell - Cleanup Windows Script]]
 - [[PowerShell - Custom Installation Helpers]]

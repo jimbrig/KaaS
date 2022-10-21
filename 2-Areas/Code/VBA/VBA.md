@@ -10,7 +10,7 @@ Alias: ["VBA"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[2-Areas/Code/VBA/_README]]
 - [[VBA - Alert]]
 - [[VBA - Balloon Notification]]
 - [[VBA - Check for Broken Links in Workbook]]

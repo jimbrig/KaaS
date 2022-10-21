@@ -8,7 +8,7 @@ Alias: ["Static Site Generators"]
 # Static Site Generators Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Documentation/Static Site Generators/_README]]
 - [[GitBook]]
 - [[Hexo]]
 - [[Hugo]]

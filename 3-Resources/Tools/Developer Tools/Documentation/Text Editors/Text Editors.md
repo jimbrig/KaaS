@@ -8,7 +8,7 @@ Alias: ["Text Editors"]
 # Text Editors Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Documentation/Text Editors/_README]]
 - [[Notepad++]]
 - [[Obsidian]]
 - [[Text Editors]]

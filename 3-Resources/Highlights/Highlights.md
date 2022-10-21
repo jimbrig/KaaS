@@ -8,7 +8,7 @@ Alias: ["Highlights"]
 # Highlights Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Highlights/_README]]
 - [[Highlights]]
 - **Hypothesis**
 	- [[🌱 My blog is a digital garden, not a blog]]
@@ -69,13 +69,13 @@ Alias: ["Highlights"]
 	- [[Why and how maintain a NEWS file for your R package-]]
 	- [[Workflow automation tools for package developers]]
 - **Notes**
-	- [[_README]]
+	- [[3-Resources/Highlights/_README]]
 	- [[Highlights for REST API Best Practices]]
 	- [[The Ultimate Guide to an Effective Weekly Review- Highlights]]
 - **ReadItLater Inbox**
 	- [[Obsidian Clipper – Get this Extension for 🦊 Firefox (en-US)]]
 - **Readwise**
-	- [[_README]]
+	- [[3-Resources/Highlights/_README]]
 	- **Articles**
 		- [['Mustashe' Explained  Joshua Cook]]
 		- [[(25) Knowledge Management in Real Life  LinkedIn]]

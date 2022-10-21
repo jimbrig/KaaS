@@ -8,7 +8,7 @@ Alias: ["Linux"]
 # Linux Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Linux/_README]]
 - [[Linux]]
 - [[Windows Subsystem for Linux]]
 

@@ -8,7 +8,7 @@ Alias: ["Databases"]
 # Databases Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README]]
 - [[Databases]]
 - [[Elasticsearch]]
 - [[Hadoop]]

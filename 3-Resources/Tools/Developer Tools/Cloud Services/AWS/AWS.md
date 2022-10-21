@@ -8,7 +8,7 @@ Alias: ["AWS"]
 # AWS Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README]]
 - [[Amazon Athena]]
 - [[Amazon EC2]]
 - [[Amazon EMR]]

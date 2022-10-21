@@ -8,7 +8,7 @@ Alias: ["IDE"]
 # IDE Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/IDE/_README]]
 - [[IDE]]
 - [[PyCharm]]
 - [[RStudio]]

@@ -8,7 +8,7 @@ Alias: ["Windows Run"]
 # Windows Run Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/Windows Run/_README]]
 - [[Run - Check for Windows Store App Updates]]
 - [[Run - Cleanup]]
 - [[Run - GodMode All Tasks]]

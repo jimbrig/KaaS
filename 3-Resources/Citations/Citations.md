@@ -8,7 +8,7 @@ Alias: ["Citations"]
 # Citations Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Citations/_README]]
 - **Actuarial Science**
 	- **files**
 		- **62**

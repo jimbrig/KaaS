@@ -8,7 +8,7 @@ Alias: ["Podcasts"]
 # Podcasts Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Podcasts/_README]]
 - [[Podcasts]]
 
 %% End Waypoint %%

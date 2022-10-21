@@ -8,7 +8,7 @@ Alias: ["Kanbans"]
 # Kanbans Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Kanbans/_README]]
 - [[Kanbans]]
 
 %% End Waypoint %%

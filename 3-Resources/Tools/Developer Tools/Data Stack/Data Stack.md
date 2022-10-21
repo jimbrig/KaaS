@@ -8,7 +8,7 @@ Alias: ["Data Stack"]
 # Data Stack Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/_README]]
 - **[[Business Intelligence]]**
 - [[Data Stack]]
 - **[[Database GUI]]**

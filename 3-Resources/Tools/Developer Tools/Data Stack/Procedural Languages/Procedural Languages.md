@@ -8,7 +8,7 @@ Alias: ["Procedural Languages"]
 # Procedural Languages Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/_README]]
 - [[PLPGSQL]]
 - [[Procedural Languages]]
 - [[SQL]]

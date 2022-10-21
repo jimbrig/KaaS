@@ -8,44 +8,44 @@ Alias: ["Areas"]
 # 2-Areas Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/_README]]
 - [[2-Areas]]
 - **Agendas**
-	- [[_README]]
+	- [[2-Areas/_README]]
 - **[[Code]]**
 - **Content**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- **Guides**
 
 	- **Ideas**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[Blog Post Ideas Brainstorming Helpers]]
 		- [[Blog Post Ideas List]]
 		- [[Committing to Consistency with Your Blog]]
 		- [[RMarkdown Template for Developing a Package with Best Practices]]
 		- [[The Best Weapon for Deciding What to Write About]]
 	- **Posts**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- **Actuarial Posts**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Part I - Building the Foundation - Building Blocks of a Comprehensive Actuarial Analyses]]
 			- [[Part II - Loss Development Factors - The Building Blocks of a Comprehensive Actuarial Analysis]]
 			- [[Part III - Actuarial Reserve and Cash Flow Analyses]]
 		- **Drafts**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Setting up an Optimal Developer Environment on Windows]]
 		- **Published**
-			- [[_README]]
+			- [[2-Areas/_README]]
 			- [[Getting to know .Renviron]]
 	- **Sites**
-		- [[_README]]
+		- [[2-Areas/_README]]
 		- [[Devfolio]]
 		- [[JimsDocs]]
 		- [[JimsVault]]
 		- [[The 'jimbrig' Universe]]
 		- [[The R Dispatch]]
 - **Daily-Notes**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- **2021**
 		- **2021-11**
 			- [[2021-11-08]]
@@ -139,10 +139,10 @@ Alias: ["Areas"]
 	- [[2022-09-24]]
 	- [[2022-10-02]]
 - **Goals**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[2022 Areas of Focus and Goal Planning]]
 - **Guides**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[Add a GUI to Batch File Scripts on Windows]]
 	- [[Azure Setup Guide]]
 	- [[Excel Developer Setup Guide]]
@@ -153,12 +153,12 @@ Alias: ["Areas"]
 	- [[Windows Developer Environment]]
 	- [[WSL Terminal and Shell Setup Guide]]
 - **Learning**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[2022 Learning List]]
 	- [[Areas of Expertise]]
 	- [[Technical Learning List]]
 - **Lists**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[Actuarial Development Master Resource List]]
 	- [[Advanced Programming Concepts List]]
 	- [[APIs I Use]]
@@ -187,10 +187,10 @@ Alias: ["Areas"]
 	- [[SQL Server List of Tools and Scripts]]
 	- [[Ten Step GTD Setup List]]
 - **Logs**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[Log - New Discoveries]]
 - **Meta**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[About]]
 	- [[How I Take Notes]]
 	- [[Publish Workflow]]
@@ -202,10 +202,10 @@ Alias: ["Areas"]
 - **Mindsweeps**
 	- **_assets**
 
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[2021-12-07]]
 - **MOCs**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[Actuarial Science]]
 	- [[Data Engineering]]
 	- [[Data Science]]
@@ -225,7 +225,7 @@ Alias: ["Areas"]
 	- [[Software Development]]
 	- [[Web Development]]
 - **People**
-	- [[_README]]
+	- [[2-Areas/_README]]
 	- [[Bill Inmon]]
 	- [[Democritas - The Father of Atoms]]
 	- [[John Sonmez]]

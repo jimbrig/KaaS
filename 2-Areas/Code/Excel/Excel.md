@@ -10,7 +10,7 @@ Alias: ["Excel"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[2-Areas/Code/Excel/_README]]
 - [[Excel - Formula to get ActiveSheet Name]]
 - [[Excel]]
 

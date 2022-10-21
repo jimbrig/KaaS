@@ -8,7 +8,7 @@ Alias: ["Business Intelligence"]
 # Business Intelligence Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/Tools/Developer Tools/Data Stack/Business Intelligence/_README]]
 - [[Alteryx]]
 - [[Business Intelligence]]
 

@@ -1,5 +1,6 @@
+- 2022-10-21 at 14h36 · [[GitHub Actions]]
+- 2022-10-21 at 14h36 · [[index]]
 - 2022-10-21 at 14h33 · [[GHA - Azure Container WebApp Deployment]]
-- 2022-10-21 at 14h31 · [[GitHub Actions]]
 - 2022-10-21 at 14h31 · [[GHA - AWS Deployment]]
 - 2022-10-21 at 14h30 · [[GHA - Stale Issues]]
 - 2022-10-21 at 14h28 · [[GHA - Labeler]]
@@ -497,4 +498,3 @@
 - 2022-10-04 at 17h54 · [[Liked Tweets]]
 - 2022-10-04 at 17h54 · [[Readwise Syncs]]
 - 2022-10-04 at 17h54 · [[Why Can't I Complete All My Daily Tasks]]
-- 2022-10-04 at 17h54 · [[Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS]]

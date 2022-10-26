@@ -13,6 +13,13 @@ See https://www.powershellgallery.com/packages/Get-OLEDBProvider/1.0.0 for my pu
 
 ## Contents
 
+- [[#Snippet|Snippet]]
+- [[#Example Output|Example Output]]
+- [[#Function|Function]]
+- [[#Filtering Output|Filtering Output]]
+- [[#Appendix: Links|Appendix: Links]]
+
+
 ## Snippet
 
 ```powershell

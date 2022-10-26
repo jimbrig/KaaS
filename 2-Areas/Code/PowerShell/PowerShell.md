@@ -8,7 +8,7 @@ Alias: ["PowerShell"]
 # PowerShell Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/PowerShell/_README]]
+- [[_README]]
 - [[Powershell - Backup Edge User Preferences PowerShell Script]]
 - [[PowerShell - Cleanup Windows Script]]
 - [[PowerShell - Custom Installation Helpers]]
@@ -20,9 +20,11 @@ Alias: ["PowerShell"]
 - [[PowerShell - Get-GitHubRelease]]
 - [[PowerShell - Git AutoCommit]]
 - [[PowerShell - Install AWS CLI]]
+- [[PowerShell - Install Azure Developer CLI (azd)]]
 - [[PowerShell - Install Azure-CLI]]
 - [[PowerShell - Install Backblaze Client]]
 - [[PowerShell - Install Chocolatey]]
+- [[PowerShell - List all OLEDB Providers]]
 - [[PowerShell - Map Drives Function]]
 - [[PowerShell - Map Network Drive]]
 - [[PowerShell - Open Obsidian Vault]]
@@ -33,7 +35,6 @@ Alias: ["PowerShell"]
 - [[PowerShell - System PATH Helpers]]
 - [[PowerShell - Toast Notification Example]]
 - [[PowerShell - Useful Profile Utility Functions]]
-- [[PowerShell]]
 - [[README]]
 
 %% End Waypoint %%

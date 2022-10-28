@@ -10,7 +10,7 @@ Alias: ["0-Slipbox"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[0-Slipbox/_README]]
 - [[About Data Requirements]]
 - [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
 - [[Actuarial Exams]]

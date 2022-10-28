@@ -1,14 +1,14 @@
 ---
-Date: <% tp.date.now() %>
+Date: 2022-10-28
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Readme"]
-Alias: ["<% tp.file.folder() %>"]
+Alias: ["Book Notes"]
 ---
 
-# <% tp.file.folder() %> Overview
+# Book Notes Overview
 
 <!-- optional markdown-notes-tree directory description starts here -->
-> *<% tp.file.folder() %> Overview*
+> *Book-Notes Overview*
 <!-- optional markdown-notes-tree directory description ends here -->
 
 ## Contents

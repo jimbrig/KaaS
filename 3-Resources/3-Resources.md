@@ -8,8 +8,16 @@ Alias: ["3-Resources"]
 # 3-Resources Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/_README]]
-- [[3-Resources]]
+- [[_README]]
+- **Book-Notes**
+	- [[_README]]
+	- **Building-a-Second-Brain**
+	- **Deep-Work**
+	- **Mastering-Shiny**
+	- **SQL-for-Data-Scientists**
+		- [[_README]]
+		- [[Chapter 1 - Data Sources]]
+		- [[Chapter 2 - SELECT Statement]]
 - **[[Citations]]**
 - **[[Clippings]]**
 - **[[Dictionary]]**
@@ -22,17 +30,15 @@ Alias: ["3-Resources"]
 - [[README]]
 - **[[Templates]]**
 - **[[Tools]]**
-	- [[3-Resources/_README]]
+	- [[_README]]
 	- **[[Developer Tools]]**
 	- **[[iOS Apps]]**
 	- **[[Linux]]**
 	- **[[Microsoft Office]]**
 		- **[[Excel]]**
 			- [[Excel - VBA]]
-			- [[Excel]]
 			- [[Inquire Excel Add-In]]
 		- [[Microsoft Access]]
-		- [[Microsoft Office]]
 		- [[Microsoft Visio]]
 		- [[Office RibbonX Editor]]
 	- **[[Modeling]]**
@@ -40,7 +46,6 @@ Alias: ["3-Resources"]
 	- **[[Physical Tools]]**
 	- **[[PKM Tools]]**
 	- **[[Productivity Tools]]**
-	- [[Tools]]
 	- **[[Utility]]**
 	- **[[Web Browsers]]**
 

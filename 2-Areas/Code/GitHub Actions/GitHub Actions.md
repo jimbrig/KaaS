@@ -16,7 +16,7 @@ Alias: ["GitHub Actions"]
 ## Contents
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[2-Areas/Code/GitHub Actions/_README]]ode/GitHub Actions/_README]]
 - [[GHA - AWS Deployment]]
 - [[GHA - Azure Container WebApp Deployment]]
 - [[GHA - Build-Check-Install R Package]]

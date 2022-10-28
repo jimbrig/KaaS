@@ -3,7 +3,6 @@
   "calendar",
   "dataview",
   "templater-obsidian",
-  "obsidian-admonition",
   "obsidian-git",
   "obsidian-mind-map",
   "nldates-obsidian",
@@ -19,7 +18,6 @@
   "file-explorer-note-count",
   "smart-random-note",
   "obsidian-show-file-path",
-  "obsidian-day-planner",
   "obsidian-vault-changelog",
   "wikilinks-to-mdlinks-obsidian",
   "matter",
@@ -48,7 +46,6 @@
   "graph-analysis",
   "obsidian-hypothesis-plugin",
   "obsidian-imgur-plugin",
-  "juggl",
   "obsidian-kanban",
   "obsidian-link-converter",
   "obsidian-markmind",
@@ -76,5 +73,7 @@
   "obsidian-ghost-publish",
   "plugins-galore",
   "waypoint",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "fleeting-notes-obsidian",
+  "obsidian-file-info-plugin"
 ]

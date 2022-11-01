@@ -10,8 +10,7 @@ Alias: ["Command Line Utilities"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[3-Resources/Tools/Developer Tools/Command Line Utilities/_README]]
-- [[Command Line Utilities]]
+- [[_README]]
 - [[doctoc]]
 - [[ffsend]]
 - [[GAM - Google Workspace Admin CLI]]
@@ -22,6 +21,7 @@ Alias: ["Command Line Utilities"]
 - [[Nativefier]]
 - [[nostalgic - Bash Script to Manage Dotfiles]]
 - [[organize]]
+- [[Pyrseas (Python)]]
 - [[sncli - Simple Note CLI]]
 - [[SophiScript and SophiApp]]
 - [[to-ico-cli]]

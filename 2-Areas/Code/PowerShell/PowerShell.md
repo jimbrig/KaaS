@@ -8,12 +8,13 @@ Alias: ["PowerShell"]
 # PowerShell Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/PowerShell/_README]]
+- [[_README]]
 - [[Powershell - Backup Edge User Preferences PowerShell Script]]
 - [[PowerShell - Cleanup Windows Script]]
 - [[PowerShell - Custom Installation Helpers]]
 - [[PowerShell - Edge Scripts]]
 - [[PowerShell - Enable or Disable Telemetry]]
+- [[PowerShell - Export SQL Server Table to CSV]]
 - [[PowerShell - Export SQL Server Tables to CSVs in Bulk]]
 - [[PowerShell - Extract Icon from EXE]]
 - [[PowerShell - Fix WSL Network behind GlobalProtect VPN]]

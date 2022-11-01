@@ -8,11 +8,15 @@ Alias: ["Code"]
 # Code Overview
 
 %% Begin Waypoint %%
+- [[_README]]
+- **AWS**
+- **Azure**
+	- [[Azure CLI - Whitelist IP for SQL Server]]
 - **[[Bash]]**
 - **[[CMD]]**
-- [[Code]]
 - **[[CSS]]**
 - **[[Excel]]**
+- **gcloud**
 - **[[GitHub Actions]]**
 - **[[Javascript]]**
 - **[[Pandoc]]**

@@ -8,8 +8,8 @@ Alias: ["Dictionary"]
 # Dictionary Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Dictionary/_README]]
-- [[Dictionary]]
+- [[_README]]
+- [[Augment (en-US)]]
 - [[Disparate]]
 - [[Liaise (en-US)]]
 - [[Polymath]]

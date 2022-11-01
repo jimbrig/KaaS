@@ -22,10 +22,10 @@ Alias: ["CMD"]
 - [[CMD - Retrieve Windows Credential Manager Saved Secrets]]
 - [[CMD - Run the Hardware Diagnostic Troubleshooter]]
 - [[CMD - Run the WinSAT Diagnostics Score]]
+- [[CMD - SQLPackage to DacPac]]
 - [[CMD - Start a Windows Defender Virus Scan]]
 - [[CMD - Troubleshooter Commands]]
 - [[CMD - View Available Disks on Windows]]
-- [[CMD]]
 
 %% End Waypoint %%
 

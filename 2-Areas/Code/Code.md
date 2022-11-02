@@ -13,6 +13,7 @@ Alias: ["Code"]
 - **Cloud SDKs**
 	- **AWS**
 		- [[_README]]
+		- [[AWS - Authentication and Configuration]]
 		- [[AWS - DynamoDB Queries]]
 		- [[AWS - Validate and Verify Credential Setup]]
 	- **Azure**

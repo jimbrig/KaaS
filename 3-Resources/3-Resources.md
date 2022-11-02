@@ -8,14 +8,14 @@ Alias: ["3-Resources"]
 # 3-Resources Overview
 
 %% Begin Waypoint %%
-- [[_README]]
+- [[3-Resources/_README]]
 - **Book-Notes**
-	- [[_README]]
+	- [[3-Resources/_README]]
 	- **Building-a-Second-Brain**
 	- **Deep-Work**
 	- **Mastering-Shiny**
 	- **SQL-for-Data-Scientists**
-		- [[_README]]
+		- [[3-Resources/_README]]
 		- [[Chapter 1 - Data Sources]]
 		- [[Chapter 2 - SELECT Statement]]
 - **[[Citations]]**
@@ -30,7 +30,7 @@ Alias: ["3-Resources"]
 - [[README]]
 - **[[Templates]]**
 - **[[Tools]]**
-	- [[_README]]
+	- [[3-Resources/_README]]
 	- **[[Developer Tools]]**
 	- **[[iOS Apps]]**
 	- **[[Linux]]**

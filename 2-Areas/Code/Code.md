@@ -9,14 +9,18 @@ Alias: ["Code"]
 
 %% Begin Waypoint %%
 - [[_README]]
-- **AWS**
-- **Azure**
-	- [[Azure CLI - Whitelist IP for SQL Server]]
 - **[[Bash]]**
+- **Cloud SDKs**
+	- **AWS**
+		- [[_README]]
+		- [[AWS - DynamoDB Queries]]
+		- [[AWS - Validate and Verify Credential Setup]]
+	- **Azure**
+		- [[Azure CLI - Whitelist IP for SQL Server]]
+	- **gcloud**
 - **[[CMD]]**
 - **[[CSS]]**
 - **[[Excel]]**
-- **gcloud**
 - **[[GitHub Actions]]**
 - **[[Javascript]]**
 - **[[Pandoc]]**

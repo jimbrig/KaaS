@@ -10,7 +10,7 @@ Alias: ["0-Slipbox"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[_README]]
+- [[0-Slipbox/_README]]
 - [[About Data Requirements]]
 - [[Actuarial Data Science and Financial Modeling with Microsoft Azure]]
 - [[Actuarial Exams]]
@@ -105,13 +105,6 @@ Alias: ["0-Slipbox"]
 - [[Features of a Data Warehouse]]
 - [[Firefox Developer Edition.md]]
 - [[Flask and Docker]]
-- **Fleeting**
-	- [[Database GUIs.md]]
-	- [[Docker.md]]
-	- [[Firefox Developer Edition.md]]
-	- [[PostgreSQL Tools.md]]
-	- [[PostgreSQL.md]]
-	- [[Views vs. Materialized Views.md]]
 - [[Foreign Key Constraints in Relational Databases]]
 - [[Free Actuarial System for Loss Reserving]]
 - [[Frontend Development Tools and Skills]]

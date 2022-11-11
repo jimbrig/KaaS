@@ -8,15 +8,16 @@ Alias: ["Bash"]
 # Bash Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/Bash/_README]]
+- [[_README]]
 - [[Bash - Download Private GitHub Repo Release Assets]]
+- [[Bash - Function to Interactively Export AWS Profile]]
+- [[Bash - Function to Show Website Certificate from Hostname]]
 - [[Bash - Git-Auto]]
 - [[Bash - GitHub Downloader]]
 - [[Bash - Install NVM]]
 - [[Bash - Install oh-my-zsh]]
 - [[Bash - Install WSLU]]
 - [[Bash - WSL - Set Default Browser to Windows Host]]
-- [[Bash]]
 
 %% End Waypoint %%
 

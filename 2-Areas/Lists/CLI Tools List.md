@@ -10,32 +10,32 @@ Alias: ["CLI Tools List", "Command Line Tools List"]
 ## Cloud
 
 - [[Azure CLI]]
-- [[gcloud]]
+- [[Google Cloud SDK|gcloud]]
 - [[AWS CLI]]
-- [[Vercel CLI]]
-- [[flyctl]]
+- [[Vercel CLI]] #Status/Todo
+- [[flyctl]] #Status/Todo
 
 ## Databases
 
-- [[sqlcmd]]
-- [[bcp]]
-- [[spawnctl]]
-- [[psql]]
-- [[pgcli]]
-- [[dbt]]
-- [[dbdocs]]
+- [[sqlcmd]] #Status/Todo
+- [[bcp]] #Status/Todo
+- [[spawnctl]] #Status/Todo
+- [[psql]] #Status/Todo
+- [[pgcli]] #Status/Todo
+- [[dbt]] #Status/Todo
+- [[dbdocs]] #Status/Todo
 
 ## Version Control
 
 - [[Git]]
-	- [[Git-LFS]]
+	- [[Git-LFS]] #Status/Todo
 	- [[Git-Cliff]]
-	- [[Git-Crypt]]
-	- [[Git-Extras]]
-	- [[Git-Extensions]]
+	- [[Git-Crypt]] #Status/Todo
+	- [[Git-Extras]] #Status/Todo
+	- [[Git-Extensions]] #Status/Todo
 - [[GitHub CLI]]
-- [[SSH]]
-- [[GPG]]
+- [[SSH]] #Status/Todo
+- [[GnuPG]] (`gpg`) 
 
 ## Package Managers
 

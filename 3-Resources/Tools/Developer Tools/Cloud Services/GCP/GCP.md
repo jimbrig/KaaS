@@ -8,14 +8,14 @@ Alias: ["GCP"]
 # GCP Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Tools/Developer Tools/Cloud Services/GCP/_README]]
+- [[_README]]
 - [[GCP - Google Cloud SDK - gcloud]]
 - [[GCP API Service Accounts]]
 - [[GCP Instance Groups]]
 - [[GCP Services Table]]
 - [[GCP Storage]]
-- [[GCP]]
 - [[Google Cloud BigQuery]]
+- [[Google Cloud SDK]]
 - [[Google Colaboratory]]
 
 %% End Waypoint %%

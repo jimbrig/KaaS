@@ -8,7 +8,7 @@ Alias: ["PowerShell"]
 # PowerShell Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/PowerShell/_README]]
+- [[_README]]
 - [[Powershell - Backup Edge User Preferences PowerShell Script]]
 - [[PowerShell - Cleanup Windows Script]]
 - [[PowerShell - Custom Installation Helpers]]
@@ -36,6 +36,7 @@ Alias: ["PowerShell"]
 - [[PowerShell - System PATH Helpers]]
 - [[PowerShell - Toast Notification Example]]
 - [[PowerShell - Useful Profile Utility Functions]]
+- [[PowerShell - Write SQL DDL Documentation]]
 - [[README]]
 
 %% End Waypoint %%

@@ -1,3 +1,5 @@
+- 2022-11-17 at 16h55 · [[PowerShell - Write SQL DDL Documentation]]
+- 2022-11-17 at 16h55 · [[PowerShell]]
 - 2022-11-17 at 16h53 · [[Docker.md]]
 - 2022-11-17 at 16h53 · [[Firefox Developer Edition.md]]
 - 2022-11-17 at 16h53 · [[Views vs. Materialized Views.md]]
@@ -22,7 +24,6 @@
 - 2022-11-02 at 19h10 · [[Command Line Utilities]]
 - 2022-11-02 at 19h10 · [[Dictionary]]
 - 2022-11-02 at 19h10 · [[3-Resources]]
-- 2022-11-02 at 19h10 · [[PowerShell]]
 - 2022-11-02 at 19h09 · [[_README]]
 - 2022-11-01 at 16h19 · [[CMD - SQLPackage to DacPac]]
 - 2022-11-01 at 16h15 · [[CMD]]
@@ -497,4 +498,3 @@
 - 2022-10-04 at 17h54 · [[AWS Aurora]]
 - 2022-10-04 at 17h54 · [[AWS Athena]]
 - 2022-10-04 at 17h54 · [[AWS - Amazon RedShift Serverless]]
-- 2022-10-04 at 17h54 · [[Swagger]]

@@ -9,6 +9,8 @@ Alias: ["PowerShell - Write SQL DDL Documentation"]
 
 *Source: https://github.com/Phil-Factor/PowerShell-Utility-Cmdlets/blob/main/Write-DocumentationToSQLDDLFile/Write-DocumentationToSQLDDLFile.ps1*
 
+#Status/Todo 
+
 ```powershell
 
 ```

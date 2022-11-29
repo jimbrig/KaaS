@@ -10,7 +10,8 @@ Alias: ["VBA"]
 %% Begin Waypoint %%
 - **_assets**
 
-- [[2-Areas/Code/VBA/_README]]
+- [[_README]]
+- [[VBA - Launch Edit Links Dialog]]
 - [[VBA - Alert]]
 - [[VBA - Balloon Notification]]
 - [[VBA - Check for Broken Links in Workbook]]
@@ -33,7 +34,6 @@ Alias: ["VBA"]
 - [[VBA - Unhide all Rows and Columns]]
 - [[VBA - Unhide All Worksheets]]
 - [[VBA - Useful Utilities]]
-- [[VBA]]
 
 %% End Waypoint %%
 

@@ -1,3 +1,4 @@
+- 2022-11-29 at 17h21 · [[AWS - Amazon RedShift Serverless]]
 - 2022-11-29 at 17h02 · [[Docker.md]]
 - 2022-11-29 at 17h02 · [[Firefox Developer Edition.md]]
 - 2022-11-29 at 17h02 · [[Views vs. Materialized Views.md]]
@@ -497,4 +498,3 @@
 - 2022-10-04 at 17h54 · [[AWS Lake Formation]]
 - 2022-10-04 at 17h54 · [[AWS Glue]]
 - 2022-10-04 at 17h54 · [[AWS CLI]]
-- 2022-10-04 at 17h54 · [[AWS Aurora]]

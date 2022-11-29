@@ -2,7 +2,6 @@
 Date: 2022-07-11
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 Tags: ["#Type/Tool/Cloud/AWS", "#Topic/Dev/Cloud/AWS"]
-Alias: ["Amazon Redshift"]
 Alias: ["AWS - Amazon RedShift Serverless"]
 ---
  

@@ -11,10 +11,11 @@ Alias: ["VBA"]
 - **_assets**
 
 - [[_README]]
-- [[VBA - Launch Edit Links Dialog]]
+- [[Untitled]]
 - [[VBA - Alert]]
 - [[VBA - Balloon Notification]]
 - [[VBA - Check for Broken Links in Workbook]]
+- [[VBA - Compilation Arguments and Enabling Custom DevMode Runtime]]
 - [[VBA - Copy Module from one Workbook to Another]]
 - [[VBA - Create and Run a SQL Query]]
 - [[VBA - Display Message on Status Bar]]

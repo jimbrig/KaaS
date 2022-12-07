@@ -1,3 +1,5 @@
+- 2022-12-07 at 18h22 · [[VBA - Compilation Arguments and Enabling Custom DevMode Runtime]]
+- 2022-12-07 at 18h17 · [[VBA]]
 - 2022-12-07 at 18h08 · [[Docker.md]]
 - 2022-12-07 at 18h08 · [[Firefox Developer Edition.md]]
 - 2022-12-07 at 18h08 · [[Views vs. Materialized Views.md]]
@@ -7,7 +9,6 @@
 - 2022-12-07 at 17h42 · [[0-Slipbox]]
 - 2022-11-29 at 17h21 · [[AWS - Amazon RedShift Serverless]]
 - 2022-11-29 at 15h36 · [[VBA - Launch Edit Links Dialog]]
-- 2022-11-29 at 15h33 · [[VBA]]
 - 2022-11-29 at 15h33 · [[Untitled]]
 - 2022-11-17 at 18h02 · [[PowerShell - Write SQL DDL Documentation]]
 - 2022-11-17 at 16h55 · [[PowerShell]]
@@ -497,4 +498,3 @@
 - 2022-10-04 at 17h54 · [[AWS QuickSight]]
 - 2022-10-04 at 17h54 · [[AWS Lake Formation]]
 - 2022-10-04 at 17h54 · [[AWS Glue]]
-- 2022-10-04 at 17h54 · [[AWS CLI]]

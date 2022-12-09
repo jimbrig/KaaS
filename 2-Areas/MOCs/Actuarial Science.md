@@ -11,16 +11,29 @@ Alias: "Actuarial Science"
 
 ## Contents
 
+- [[#Mindmap View|Mindmap View]]
 - [[#Related Maps of Content|Related Maps of Content]]
 - [[#Notes about Actuarial Science|Notes about Actuarial Science]]
-	- [[#Practice and Theory|Practice and Theory]]
-	- [[#Analytics and Statistics|Analytics and Statistics]]
-	- [[#Development|Development]]
-		- [[#Libraries|Libraries]]
-	- [[#Organizations|Organizations]]
+- [[#Notes about Actuarial Science#Master Resource List|Master Resource List]]
+- [[#Notes about Actuarial Science#General Reference|General Reference]]
+- [[#Notes about Actuarial Science#Practice and Theory|Practice and Theory]]
+- [[#Notes about Actuarial Science#Analytics and Statistics|Analytics and Statistics]]
+- [[#Notes about Actuarial Science#Development|Development]]
+	- [[#Development#Tools|Tools]]
+		- [[#Tools#R|R]]
+		- [[#Tools#R Shiny|R Shiny]]
+		- [[#Tools#Python|Python]]
+	- [[#Development#Data|Data]]
+- [[#Notes about Actuarial Science#Organizations|Organizations]]
+- [[#References and Academic Papers|References and Academic Papers]]
 - [[#Appendix: Dataviews|Appendix: Dataviews]]
-	- [[#Tagged as *Topic/Actuarial*|Tagged as *Topic/Actuarial*]]
-	- [[#Links to this File|Links to this File]]
+- [[#Appendix: Dataviews#Tagged as *Topic/Actuarial*|Tagged as *Topic/Actuarial*]]
+- [[#Appendix: Dataviews#Links to this File|Links to this File]]
+
+
+### Mindmap View
+
+![](https://i.imgur.com/pcwm2La.png)
 
 ## Related Maps of Content
 
@@ -28,8 +41,8 @@ Alias: "Actuarial Science"
 - [[Mathematics and Statistics]]
 - [[Data Science]]
 - [[Software Development]]
-- [[2-Areas/MOCs/R]]
-- [[2-Areas/MOCs/Python]]
+- [[2-Areas/MOCs/R|R]]
+- [[2-Areas/MOCs/Python|Python]]
 - [[Databases]]
 
 ## Notes about Actuarial Science
@@ -136,10 +149,6 @@ Alias: "Actuarial Science"
 - [[Actuarial Voodoo]]
 
 
-## Mindmap View
-
-![](https://i.imgur.com/pcwm2La.png)
-
 ## References and Academic Papers
 
 - [[Badounas and Pitselis - 2020 - Loss Reserving Estimation With Correlated Run-Off .pdf]]
@@ -174,4 +183,3 @@ list from #Topic/Actuarial AND -"Templates" AND -"MOCs" AND -"Changelog"
 ```dataview
 list from [[Actuarial Science]] AND -"Changelog" AND -"Actuarial Science"
 ```
-[[R Shiny - The Big Long - An Interactive Actuarial Simulation]]

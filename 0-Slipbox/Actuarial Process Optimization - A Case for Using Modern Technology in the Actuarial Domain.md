@@ -7,12 +7,10 @@ Alias: "Actuarial Process Optimization"
 
 # Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
 
-*Source: https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/*
-
 ***
 
+![[actuarial-process-automation-header-image.png]]
 
-![att-2021-10-zaidlin-hero.jpg](https://www.soa.org/4aa0b3/globalassets/images/library/newsletters/actuarial-technology-today/2021/october/att-2021-10-zaidlin-hero.jpg)
 
 ***
 
@@ -39,7 +37,7 @@ As the insurance industry leaps into the future, actuaries must not only proacti
 
 #### Defining Actuarial Process Optimization
 
-![att-2021-10-zaidlin-sidebar.jpg](https://www.soa.org/4aaf7b/globalassets/images/library/newsletters/actuarial-technology-today/2021/october/att-2021-10-zaidlin-sidebar.jpg)
+![[actuarial-process-automation-covid-image.png]]
 
 Since actuarial process optimization could mean various things to each of us, it is important to define the term for the purpose of this article. Actuarial process optimization is a framework for making continuous improvements, through the use of modern technology, to processes that commonly fall within actuarial responsibilities. We will focus our discussion on the use of modern technology including low-code/no-code technology, robotic process automation (RPA) tools, process orchestration applications, and analytics and visualization software. The advantages of implementing modern technology are increasingly attractive and cost effective. Insurers often realize return on upfront implementation costs within a year as a result of resource and time savings. Actuaries at these insurers shifted their time from carrying out repetitive and manual processes to higher value tasks, including conducting complex analyses that supports strategic decision making.
 
@@ -50,7 +48,7 @@ Actuaries are valuable and strategically important resources to insurance compan
 1.  Unnecessarily complex and error prone ETL, production and reporting workflows.
 2.  Time and resources wasted on resolving errors and tracing back complex process steps.
 3.  Production and process errors that can result in misstatements and delays in reporting.
-4.  Multiple unvalidated spreadsheets with overlapping functionalities.
+4.  Multiple un-validated spreadsheets with overlapping functionalities.
 5.  Multiple sources of information, but no single “source of truth.”
 6.  Storage and processing time wastage.
 
@@ -98,3 +96,11 @@ Insurance companies have a significant opportunity to optimize resources, enhanc
 
 ## Appendix: Links & References
 
+- [[Actuarial Science]]
+- [[2-Areas/Content/Posts/Actuarial Posts/_README|Actuarial Posts]]
+- [[Actuarial Property Casualty Data Thoughts]]
+- [[Actuarial Development Master Resource List]]
+
+***
+
+- https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/

@@ -1,4 +1,4 @@
-- 2022-12-09 at 11h05 · [[0-Slipbox]]
+- 2022-12-09 at 11h15 · [[0-Slipbox]]
 - 2022-12-09 at 11h05 · [[Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain]]
 - 2022-12-09 at 10h57 · [[Actuarial Science]]
 - 2022-12-09 at 10h55 · [[VBA]]

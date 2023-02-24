@@ -7,6 +7,8 @@ Alias: ["XDG Base Directory Specification", "XDG", "xdg-user-dirs"]
 
 # XDG Base Directory Specification
 
+
+
 *Source: [XDG Base Directory Specification (specifications.freedesktop.org)](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)*
 
 *See Also: [[xdg-user-dirs]]*

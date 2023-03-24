@@ -1,5 +1,6 @@
+- 2023-03-24 at 15h19 · [[Highlights]]
+- 2023-03-24 at 15h19 · [[Office Visual Basic for Applications (VBA) reference]]
 - 2023-02-24 at 10h54 · [[XDG Base Directory Specification]]
-- 2023-01-26 at 17h55 · [[Highlights]]
 - 2023-01-26 at 17h55 · [[Spreadsheet Documentation (using only Excel's inbuilt tools)]]
 - 2023-01-26 at 17h55 · [[Using Partitioning to Optimize Performance During Data Ingestion]]
 - 2023-01-10 at 19h08 · [[Docker.md]]
@@ -497,4 +498,3 @@
 - 2022-10-04 at 17h54 · [[Amazon OpenSearch Service]]
 - 2022-10-04 at 17h54 · [[Amazon Kinesis]]
 - 2022-10-04 at 17h54 · [[Amazon Kinesis Data Firehose]]
-- 2022-10-04 at 17h54 · [[Amazon EMR]]

@@ -1,31 +1,24 @@
----
-Date: 2022-02-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Registry", "#Topic/Dev/Windows"]
-Alias: ["Enable Long Path Support on Windows"]
----
-
 # Enable Long Path Support on Windows
 
-*Source: *
+\*Source: *
 
-```powershell
+````powershell
 Set-ItemProperty 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Windows CMD]]
-- [[Command Line]]
-- [[PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* *Windows CMD*
+* *Command Line*
+* [PowerShell](../PowerShell/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Enable Long Path Support on Windows]] AND -"Changelog"
-```
+````

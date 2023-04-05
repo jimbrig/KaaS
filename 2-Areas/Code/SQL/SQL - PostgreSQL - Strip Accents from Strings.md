@@ -1,17 +1,10 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Strip Whitespace"]
----
-
 # SQL - PostgreSQL - Strip Accents from Strings
 
 ## Strip Accents Default
 
 *Source: https://wiki.postgresql.org/wiki/Strip_accents_from_strings*
 
-```SQL
+````SQL
 create or replace function unaccent(text) returns text language plpythonu as $$
 import unicodedata
 rv = plpy.execute("select setting from pg_settings where name = 'server_encoding'");
@@ -21,13 +14,13 @@ s = unicodedata.normalize("NFKD", s)
 s = ''.join(c for c in s if ord(c) < 127)
 return s
 $$;
-```
+````
 
 ## Strip Accents and Output Lowercase
 
-*Source: https://wiki.postgresql.org/wiki/Strip_accents_from_strings,_and_output_in_lowercase*
+*Source: https://wiki.postgresql.org/wiki/Strip_accents_from_strings,\_and_output_in_lowercase*
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION unaccent_string(text) RETURNS text AS $$
 my ($input_string) = @_;
 $input_string =~ s/[âãäåāăą]/a;
@@ -54,22 +47,22 @@ SELECT translate(
     'aaaaaaaaaaaaaaaeeeeeeeeeeeeeeeiiiiiiiiiiiiiiiiooooooooooooooouuuuuuuuuuuuuuuu'
 );
 $$;
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[PLPGSQL]]
-- [[PLPERL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [PLPGSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md)
+* *PLPERL*
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Strip Whitespace]] AND -"Changelog"
-```
+````

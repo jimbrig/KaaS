@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["#110 —  How to Clear Your Calendar in Your Busiest Seasons", "#110 —  How to Clear Your Calendar in Your Busiest Seasons"]
----
-# #110 —  How to Clear Your Calendar in Your Busiest Seasons
+# \#110 —  How to Clear Your Calendar in Your Busiest Seasons
 
 ## Metadata
-- Author: [[Focus on This]]
-- Full Title: #110 —  How to Clear Your Calendar in Your Busiest Seasons
-- Category: #Type/Highlight/Podcast
+
+* Author: *Focus on This*
+* Full Title: #110 —  How to Clear Your Calendar in Your Busiest Seasons
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- What's the Key Outcome to Have This Week?
+
+* What's the Key Outcome to Have This Week?
   Summary:
   Coming off a week like i had last week, it was really important for me to kind of look at the calendar ahead and say to myself, you know, this is really serving me. Some of those meetings will have been booked months ago. Sometime they're just recurring meetings. A question you can ask yourself is, what is the key outcome i'm trying to get from that meeting? And why is that so important to have this week? Sometimes you can eliminate a meeting, but you still need that outcome.
   Transcript:

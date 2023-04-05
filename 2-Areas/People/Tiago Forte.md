@@ -1,23 +1,13 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Person"]
-Aliases: [""]
----
-
 # Tiago Forte
 
+* [Building a Second Brain](../../0-Slipbox/Building%20a%20Second%20Brain.md)
+* [PARA Method](../../0-Slipbox/PARA%20Method.md)
+* [Progressive Summarization](../../0-Slipbox/Progressive%20Summarization.md)
 
-- [[Building a Second Brain]]
-- [[PARA Method]]
-- [[Progressive Summarization]]
-
-
-***
+---
 
 *Backlinks*
 
-```dataview
+````dataview
 list from [[Tiago Forte]] AND -"Changelog"
-```
-
+````

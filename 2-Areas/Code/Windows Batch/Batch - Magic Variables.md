@@ -1,38 +1,30 @@
----
-Date: 2022-03-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Batch", "#Topic/Dev/Windows"]
-Alias: ["Batch - Magic Variables"]
----
-
 # Batch - Magic Variables
 
 *Source: [What does %~d0 mean in a Windows batch file? (newbedev.com)](https://newbedev.com/what-does-d0-mean-in-a-windows-batch-file#:~:text=What%20does%20%25~d0%20mean%20in%20a%20Windows%20batch,after%2C%20%252%20is%20the%20second%20and%20so%20on.)*
 
 ## Contents
 
-- [[#Arguments|Arguments]]
-- [[#Paths|Paths]]
-- [[#File Meta-Data|File Meta-Data]]
-- [[#Enhanced Variable Substitutions|Enhanced Variable Substitutions]]
-- [[#Help|Help]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Arguments](Batch%20-%20Magic%20Variables.md#arguments)
+* [Paths](Batch%20-%20Magic%20Variables.md#paths)
+* [File Meta-Data](Batch%20-%20Magic%20Variables.md#file-meta-data)
+* [Enhanced Variable Substitutions](Batch%20-%20Magic%20Variables.md#enhanced-variable-substitutions)
+* [Help](Batch%20-%20Magic%20Variables.md#help)
+* [Appendix: Links](Batch%20-%20Magic%20Variables.md#appendix-links)
 
 ## Arguments
 
-- `%0` - path to the batch-file itself
-- `%1` - first argument
-- `%2` - second argument
-- `%n` - nth argument and so on..
+* `%0` - path to the batch-file itself
+* `%1` - first argument
+* `%2` - second argument
+* `%n` - nth argument and so on..
 
 ## Paths
 
 Additional syntax to extract parts of the path:
 
-- `~d` - is drive
-- `~p` - is the path (without drive)
-- `~n` - file name
+* `~d` - is drive
+* `~p` - is the path (without drive)
+* `~n` - file name
 
 These can be combined like so:
 
@@ -42,19 +34,19 @@ These can be combined like so:
 
 Metadata about the file:
 
-- `~t` - timestamp
-- `~z` - size
+* `~t` - timestamp
+* `~z` - size
 
 ## Enhanced Variable Substitutions
 
-- `%~d0` - `%` and `0` mean the path to the batch file; `~d` in-between means drive ---> therefore `%~d0` is the folder in which the executing batch script resides.
-- `%~s0` - 
+* `%~d0` - `%` and `0` mean the path to the batch file; `~d` in-between means drive ---> therefore `%~d0` is the folder in which the executing batch script resides.
+* `%~s0` - 
 
 ## Help
 
 *NOTE: Call `FOR /?` for detailed help on various substitutions:*
 
-```cmd
+````cmd
 >FOR /?
 
 Runs a specified command for each file in a set of files.
@@ -210,20 +202,17 @@ In the above examples %I and PATH can be replaced by other valid
 values.  The %~ syntax is terminated by a valid FOR variable name.
 Picking upper case variable names like %I makes it more readable and
 avoids confusion with the modifiers, which are not case sensitive.
-```
+````
 
-
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Batch - Magic Variables]] AND -"Changelog"
-```
+````

@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://drewdevault.com/make-a-blog
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["You Should Make a Blog!", "You Should Make a Blog!"]
----
 # You Should Make a Blog!
 
 ## Metadata
-- Author: 
-- Full Title: You Should Make a Blog!
-- Category: #Type/Highlight/Article
-- URL: https://drewdevault.com/make-a-blog
+
+* Author: 
+* Full Title: You Should Make a Blog!
+* Category: #Type/Highlight/Article
+* URL: https://drewdevault.com/make-a-blog
 
 ## Highlights
-- Read these blogs
+
+* Read these blogs
   Here’s a list of blogs which have taken me up on this offer, roughly sorted from most to least active:
   gokigen
   Neil Panchal
@@ -35,12 +29,12 @@ Aliases: ["You Should Make a Blog!", "You Should Make a Blog!"]
   (pixel)desu.blog
   Todd Davies’ blog
   Daniel Playfair Cal’s Blog
-  xy2_
+  xy2\_
   buffer = NULL;
   Thomas Dagenais’ Blog | i64.dev
   papatutuwawa@home:~$
   kindly
-  [esotericnonsense %] ~/blog
+  \[esotericnonsense %\] ~/blog
   Un morceau de toile
   Rocket Nine Labs
   Chris Vittal’s blog

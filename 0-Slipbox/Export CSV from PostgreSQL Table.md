@@ -1,30 +1,20 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Dev", "#Topic/Dev/Database/PostgreSQL", "Topic/Dev/Database/SQL"]
-Alias: "Export CSV from PostgreSQL Table"
----
-
 # Export CSV from PostgreSQL Table
 
 *Source: [Export a PostgreSQL Table to a CSV File](https://www.postgresqltutorial.com/export-postgresql-table-to-csv-file/)*
 
-
 ## Contents
 
-- [[#Walkthrough|Walkthrough]]
-- [[#Export Data from a Table to CSV using `\COPY` Command|Export Data from a Table to CSV using `\COPY` Command]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Walkthrough](Export%20CSV%20from%20PostgreSQL%20Table.md#walkthrough)
+* \[\[\#Export Data from a Table to CSV using `\COPY` Command|Export Data from a Table to CSV using `\COPY` Command\]\]
+* [Appendix: Links](Export%20CSV%20from%20PostgreSQL%20Table.md#appendix-links)
 
 ## Walkthrough
 
-
 The easiest way to export data of a table to a CSV file is to use `COPY` statement. For example, if you want to export the data of the `persons` table to a CSV file named `persons_db.csv` in the `C:\tmp` folder, you can use the following statement:
 
-```SQL
+````SQL
 COPY persons TO 'C:\tmp\persons_db.csv' DELIMITER ',' CSV HEADER;
-```
+````
 
 PostgreSQL exports all data from all columns of the `persons` table to the `persons_db.csv` file.
 
@@ -32,20 +22,19 @@ PostgreSQL exports all data from all columns of the `persons` table to the `pers
 
 In some cases, you want to export data from just some columns of a table to a CSV file. To do this, you specify the column names together with table name after `COPY` keyword. For example, the following statement exports data from the `first_name`, `last_name`, and `email`  columns of the `persons` table to `person_partial_db.csv`
 
-
-```SQL
+````SQL
 COPY persons(first_name,last_name,email) 
 TO 'C:\tmp\persons_partial_db.csv' DELIMITER ',' CSV HEADER;
-```
+````
 
 ![postgresql export csv partially](https://www.postgresqltutorial.com/wp-content/uploads/2015/05/postgresql-export-csv-partially.jpg)
 
 If you don’t want to export the header, which contains the column names of the table, just remove the `HEADER` flag in the `COPY` statement. The following statement exports only data from the `email` column of the `persons` table to a CSV file.
 
-```SQL
+````SQL
 COPY persons(email) 
 TO 'C:\tmp\persons_email_db.csv' DELIMITER ',' CSV;
-```
+````
 
 ![postgresql export csv partially without header](https://www.postgresqltutorial.com/wp-content/uploads/2015/05/postgresql-export-csv-partially-without-header.jpg)
 
@@ -59,26 +48,25 @@ The `\copy` command basically runs the `COPY` statement above. However, instead 
 
 For example, if you want to export all data of the `persons` table into `persons_client.csv` file, you can execute the `\copy` command from the psql client as follows:
 
-```shell
+````shell
 \copy (SELECT * FROM persons) to 'C:\tmp\persons_client.csv' with csv
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[PostgreSQL]]
-- [[Data Engineering]]
-- [[Databases]]
-- [[SQL]]
-- [[ETL]]
-- [[ELT]]
-- [[SQL]]
-- [[Data Science]]
-
+* [PostgreSQL](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [ETL](ETL.md)
+* [ELT](ELT.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Export CSV from PostgreSQL Table]] AND -"Changelog"
-```
+````

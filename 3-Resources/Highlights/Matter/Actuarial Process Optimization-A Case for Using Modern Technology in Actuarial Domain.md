@@ -1,8 +1,10 @@
 ## Metadata
+
 * URL: [https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/](https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/)
-* Publisher: [[www.soa.org]]
+* Publisher: *www.soa.org*
 
 ## Highlights
+
 * Actuaries are valuable and strategically important resources to insurance companies. We are trained both on the job and through an intensive education and exam curriculum to study and own insurance risk.
 * As highly capable professionals, actuaries are often self-reliant, and are interested in owning all technology tools, data and processes that support their daily jobs. However, this hands-on approach can lead to performing many tasks that do not require actuarial expertise.
 * By occupying ourselves with various high effort but low value tasks, we often neglect to focus on higher value tasks that are truly valuable to the future of our organization. Advancements in technology and the desire for lean operations have contributed to many insurers evaluating their strategic direction and the role of the actuary of the future, shifting their focus onto highest value tasks.

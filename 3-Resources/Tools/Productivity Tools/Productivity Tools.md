@@ -1,35 +1,24 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Productivity Tools"]
----
-
 # Productivity Tools Overview
 
 %% Begin Waypoint %%
-- [[Google Calendar]]
-- [[Notion]]
-- [[Productivity System]]
-- [[Productivity Tools]]
-- [[Todoist]]
-- [[Toggl]]
+
+* [Google Calendar](Google%20Calendar.md)
+* [Notion](Notion.md)
+* [Productivity System](Productivity%20System.md)
+* [Productivity Tools](Productivity%20Tools.md)
+* [Todoist](Todoist.md)
+* [Toggl](Toggl.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Productivity Tools Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

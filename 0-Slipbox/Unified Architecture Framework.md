@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: ["Unified Architecture Framework", "Model Based Systems Engineering", "MBSE", "UAF"]
----
-
 # Model Based Systems Engineering
 
 *Source: [Unified Architecture Framework™ (UAF™) | Object Management Group](https://www.omg.org/hot-topics/uaf.htm)*
@@ -17,23 +10,23 @@ UAF Profile (UAFP) enables the extraction of specified and custom views from an 
 
 ## Resources
 
-- [Technology Update on the Unified Architecture Framework (UAF®)](https://www.brighttalk.com/webcast/12231/394559)
-- [Using UAF® to analyze Business and Technical Issues Affecting Electric Roads](https://www.brighttalk.com/webcast/12231/392818)
-- [Model Based Systems Engineering (MBSE) Acquisition Reference Model (ARM)](https://www.brighttalk.com/webcast/12231/394577)
-- [Implementing Modular Open Systems Approach (MOSA) Architecture with MBSE and UAF®](https://www.brighttalk.com/webcast/12231/393778)
-- [Unified Architecture Framework® (UAF®) Risk-Based Analytics](https://www.brighttalk.com/webcast/12231/344186)
-- [FACE™ Profile for UAF®](https://www.brighttalk.com/webcast/12231/344163)
-- [An Introduction to UAF®](https://www.youtube.com/watch?v=AWJk_7KtQ0w&t=1s)
+* [Technology Update on the Unified Architecture Framework (UAF®)](https://www.brighttalk.com/webcast/12231/394559)
+* [Using UAF® to analyze Business and Technical Issues Affecting Electric Roads](https://www.brighttalk.com/webcast/12231/392818)
+* [Model Based Systems Engineering (MBSE) Acquisition Reference Model (ARM)](https://www.brighttalk.com/webcast/12231/394577)
+* [Implementing Modular Open Systems Approach (MOSA) Architecture with MBSE and UAF®](https://www.brighttalk.com/webcast/12231/393778)
+* [Unified Architecture Framework® (UAF®) Risk-Based Analytics](https://www.brighttalk.com/webcast/12231/344186)
+* [FACE™ Profile for UAF®](https://www.brighttalk.com/webcast/12231/344163)
+* [An Introduction to UAF®](https://www.youtube.com/watch?v=AWJk_7KtQ0w&t=1s)
 
-***
+---
 
 #### Related
 
-- [[Development#Conceptual Topics]]
-- [[Databases]]
+* [Development > Conceptual Topics](../2-Areas/MOCs/Development.md#conceptual-topics)
+* [Databases](../2-Areas/MOCs/Databases.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Model Based Systems Engineering]] AND -"Changelog"
-```
+````

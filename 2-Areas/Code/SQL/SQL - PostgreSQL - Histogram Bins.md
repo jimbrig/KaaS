@@ -1,10 +1,3 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Histogram Bins"]
----
-
 # SQL - PostgreSQL - Histogram Bins
 
 *Source: [sql-snippets/histogram-bins.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/histogram-bins.md)*
@@ -13,9 +6,9 @@ View an interactive version of this snippet [here](https://count.co/n/27wc3pvc5R
 
 ## Description
 
-Creating histograms using [[SQL]] can be tricky. This template will let you quickly create the bins needed to create a histogram:
+Creating histograms using [SQL](SQL.md) can be tricky. This template will let you quickly create the bins needed to create a histogram:
 
-```sql
+````sql
 SELECT 
    COUNT(1) / (SELECT COUNT(1) FROM <schema.table> ) AS percentage_of_results
    FLOOR(<column>/ <bin-size>) * <bin-size> AS bin
@@ -23,18 +16,18 @@ FROM
    <schema.table>
 GROUP BY 
    bin
-```
+````
 
 where:
 
-- `<column>` is your column you want to turn into a histogram
-- `<bin-size>` is the width of each bin. You can adjust this to get the desired level of detail for the histogram.
+* `<column>` is your column you want to turn into a histogram
+* `<bin-size>` is the width of each bin. You can adjust this to get the desired level of detail for the histogram.
 
 ## Example
 
 Adjust the bin-size until you can see the 'shape' of the data. The following example finds the percentage of fruits with 5-point review groupings. The reviews are on a 0-100 scale: 
 
-```sql
+````sql
 WITH data AS (
     SELECT CASE
         WHEN RANDOM() <= 0.25 THEN 'tennessee'
@@ -58,29 +51,29 @@ SELECT
   FLOOR(data.star_rating / 1) * 1 bin
 FROM data
 GROUP BY bin
-```
+````
 
 Output:
 
-| percentage_of_results | bin |
-| --------------------- | --- |
-| 0.2727272727272727    | 3   |
-| 0.09090909090909091   | 5   |
-| 0.18181818181818182   | 1   |
-| 0.45454545454545453   | 2   |
+|percentage_of_results|bin|
+|---------------------|---|
+|0.2727272727272727|3|
+|0.09090909090909091|5|
+|0.18181818181818182|1|
+|0.45454545454545453|2|
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Histogram Bins]] AND -"Changelog"
-```
+````

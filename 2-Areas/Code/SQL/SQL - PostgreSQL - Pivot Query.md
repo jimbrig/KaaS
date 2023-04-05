@@ -1,15 +1,8 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL Pivot Query"]
----
-
 # SQL - PostgreSQL - Pivot Query
 
 *Source: https://wiki.postgresql.org/wiki/Pivot_query*
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION pivoty_with_header(query text) RETURNS void AS $pivot$
 DECLARE
  num_cols int;
@@ -51,11 +44,11 @@ BEGIN
  
 END;
 $pivot$ LANGUAGE plpgsql;
-```
+````
 
 Another without using column name:
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION pivoty(query text) RETURNS void AS $pivot$
 DECLARE
  num_cols int;
@@ -94,26 +87,26 @@ BEGIN
 
 END;
 $pivot$ LANGUAGE plpgsql;
-```
-  
+````
+
 This function will generate a table called pivoted of your query, so execute it with the query as parametter and then:
 
-```SQL
+````SQL
 SELECT * FROM pivoted;
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL Pivot Query]] AND -"Changelog"
-```
+````

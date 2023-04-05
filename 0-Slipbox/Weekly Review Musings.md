@@ -1,16 +1,8 @@
----
-Date: 2021-11-21
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Productivity/GTD"]
-Alias: "Weekly Review Musings"
----
-
 # Weekly Review Musings
-
 
 ## Notes
 
-- [[The Ultimate Guide to an Effective Weekly Review- Highlights]] | [[The Ultimate Guide to an Effective Weekly Review.pdf]]
+* [The Ultimate Guide to an Effective Weekly Review- Highlights](../3-Resources/Highlights/Notes/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review-%20Highlights.md) | *The Ultimate Guide to an Effective Weekly Review.pdf*
 
 ## Resources
 
@@ -27,18 +19,17 @@ Alias: "Weekly Review Musings"
 * [Stay organized with a weekly review. - Simply Convivial](https://www.simplyconvivial.com/2020/stay-organized-with-a-weekly-review/)
 * [Back to Basics: Your Weekly Review](https://www.lifehack.org/articles/featured/back-to-basics-your-weekly-review.html)
 
-
-***
+---
 
 #### Related
 
-- [[Productivity]]
-- [[GTD]]
-- [[GTD Mindsweep]]
-- [[GTD Weekly Review]]
+* [Productivity](../2-Areas/MOCs/Productivity.md)
+* *GTD*
+* [GTD Mindsweep](GTD%20Mindsweep.md)
+* *GTD Weekly Review*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Weekly Review Musings]] AND -"Changelog"
-```
+````

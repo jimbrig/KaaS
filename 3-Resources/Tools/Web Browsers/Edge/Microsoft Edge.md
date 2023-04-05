@@ -1,27 +1,19 @@
----
-Date: 2021-11-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: [ "#Type/Tool", "#Topic/Windows" ]
-Alias: [ "Microsoft Edge", "Edge" ]
----
-
 # Microsoft Edge
 
 ## Notes
 
-- [[Edge Search Engines]]
-- [[PowerShell - Edge Scripts]]
-- 
+* [Edge Search Engines](../../../../0-Slipbox/Edge%20Search%20Engines.md)
+* [PowerShell - Edge Scripts](../../../../2-Areas/Code/PowerShell/PowerShell%20-%20Edge%20Scripts.md)
+* 
 
-
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

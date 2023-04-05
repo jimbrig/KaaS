@@ -1,46 +1,39 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Build a Lakehouse Architecture on AWS"
----
-
 # Build a Lakehouse Architecture on AWS
+
 *Source: [Build a Lake House Architecture on AWS | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-lake-house-architecture-on-aws/)*
 
-*See Also: [[Modern Data Architecture on AWS]]*
+*See Also: [Modern Data Architecture on AWS](Modern%20Data%20Architecture%20on%20AWS.md)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Lake House Approach|Lake House Approach]]
-	- [[#Data sources|Data sources]]
-	- [[#Data ingestion layer|Data ingestion layer]]
-	- [[#Data storage layer|Data storage layer]]
-		- [[#Structured data storage in the data warehouse|Structured data storage in the data warehouse]]
-		- [[#Structured and unstructured data storage in a Lake House Architecture|Structured and unstructured data storage in a Lake House Architecture]]
-	- [[#Catalog layer|Catalog layer]]
-	- [[#Lake House interface|Lake House interface]]
-	- [[#Data processing layer|Data processing layer]]
-	- [[#Data consumption layer|Data consumption layer]]
-- [[#Lake House reference architecture on AWS|Lake House reference architecture on AWS]]
-	- [[#Data ingestion layer|Data ingestion layer]]
-		- [[#Operational database sources (OLTP, ERP, CRM)|Operational database sources (OLTP, ERP, CRM)]]
-		- [[#SaaS applications|SaaS applications]]
-		- [[#File shares|File shares]]
-		- [[#Streaming data sources|Streaming data sources]]
-	- [[#Lake House storage layer|Lake House storage layer]]
-	- [[#Data processing layer|Data processing layer]]
-		- [[#SQL based ELT|SQL based ELT]]
-		- [[#Big data processing|Big data processing]]
-		- [[#Near-real-time ETL|Near-real-time ETL]]
-- [[#Data consumption layer|Data consumption layer]]
-		- [[#Interactive SQL|Interactive SQL]]
-		- [[#Machine learning|Machine learning]]
-		- [[#Business intelligence|Business intelligence]]
-- [[#Conclusion|Conclusion]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#overview)
+* [Lake House Approach](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#lake-house-approach)
+  * [Data sources](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-sources)
+  * [Data ingestion layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-ingestion-layer)
+  * [Data storage layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-storage-layer)
+    * [Structured data storage in the data warehouse](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#structured-data-storage-in-the-data-warehouse)
+    * [Structured and unstructured data storage in a Lake House Architecture](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#structured-and-unstructured-data-storage-in-a-lake-house-architecture)
+  * [Catalog layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#catalog-layer)
+  * [Lake House interface](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#lake-house-interface)
+  * [Data processing layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-processing-layer)
+  * [Data consumption layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-consumption-layer)
+* [Lake House reference architecture on AWS](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#lake-house-reference-architecture-on-aws)
+  * [Data ingestion layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-ingestion-layer)
+    * [Operational database sources (OLTP, ERP, CRM)](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#operational-database-sources-oltp-erp-crm)
+    * [SaaS applications](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#saas-applications)
+    * [File shares](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#file-shares)
+    * [Streaming data sources](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#streaming-data-sources)
+  * [Lake House storage layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#lake-house-storage-layer)
+  * [Data processing layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-processing-layer)
+    * [SQL based ELT](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#sql-based-elt)
+    * [Big data processing](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#big-data-processing)
+    * [Near-real-time ETL](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#near-real-time-etl)
+* [Data consumption layer](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#data-consumption-layer)
+  - [Interactive SQL](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#interactive-sql)
+  - [Machine learning](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#machine-learning)
+  - [Business intelligence](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#business-intelligence)
+* [Conclusion](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#conclusion)
+* [Appendix: Links](Build%20a%20Lakehouse%20Architecture%20on%20AWS.md#appendix-links)
 
 ## Overview
 
@@ -54,11 +47,11 @@ As a modern data architecture, the Lake House approach is not just about integra
 
 This Lake House approach consists of following key elements:
 
--   Scalable Data Lakes
--   Purpose-built Data Services
--   Seamless Data Movement
--   Unified Governance
--   Performant and Cost-effective
+* Scalable Data Lakes
+* Purpose-built Data Services
+* Seamless Data Movement
+* Unified Governance
+* Performant and Cost-effective
 
 Following diagram illustrates this Lake House approach in terms of customer data in the real world and data movement required between all of the data analytics services and data stores, [inside-out, outside-in, and around the perimeter](https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/).
 
@@ -104,9 +97,9 @@ In the Lake House Architecture, the data warehouse and data lake are natively in
 
 Native integration between the data warehouse and data lake provides you with the flexibility to do the following:
 
--   Store exabytes of structured and unstructured data in highly cost-efficient data lake storage as highly curated, modeled, and conformed structured data in hot data warehouse storage
--   Leverage a single processing framework such as Spark that can combine and analyze all the data in a single pipeline, whether it’s unstructured data in the data lake or structured data in the data warehouse
--   Build a SQL-based data warehouse native ETL or ELT pipeline that can combine flat relational data in the warehouse with complex, hierarchical structured data in the data lake
+* Store exabytes of structured and unstructured data in highly cost-efficient data lake storage as highly curated, modeled, and conformed structured data in hot data warehouse storage
+* Leverage a single processing framework such as Spark that can combine and analyze all the data in a single pipeline, whether it’s unstructured data in the data lake or structured data in the data warehouse
+* Build a SQL-based data warehouse native ETL or ELT pipeline that can combine flat relational data in the warehouse with complex, hierarchical structured data in the data lake
 
 ### Data processing layer
 
@@ -114,8 +107,8 @@ Components in the data processing layer of the Lake House Architecture are respo
 
 The processing layer provides the quickest time to market by providing purpose-built components that match the right dataset characteristics (size, format, schema, speed), processing task at hand, and available skillsets (SQL, Spark). The processing layer can cost-effectively scale to handle large data volumes and provide components to support schema-on-write, schema-on-read, partitioned datasets, and diverse data formats. The processing layer can access the unified Lake House storage interfaces and common catalog, thereby accessing all the data and metadata in the Lake House. This has the following benefits:
 
--   Avoids data redundancies, unnecessary data movement, and duplication of ETL code that may result when dealing with a data lake and data warehouse separately
--   Reduces time to market
+* Avoids data redundancies, unnecessary data movement, and duplication of ETL code that may result when dealing with a data lake and data warehouse separately
+* Reduces time to market
 
 ### Data consumption layer
 
@@ -123,20 +116,20 @@ The data consumption layer of the Lake house Architecture is responsible for pro
 
 Components in the consumption layer support the following:
 
--   Writing queries as well as analytics and ML jobs that access and combine data from traditional data warehouse dimensional schemas as well as data lake hosted tables (that require schema-on-read)
--   Handling data lake hosted datasets that are stored using a variety of open file formats such as Avro, Parquet, or ORC
--   Optimizing performance and costs through partition pruning when reading large, partitioned datasets hosted in the data lake
+* Writing queries as well as analytics and ML jobs that access and combine data from traditional data warehouse dimensional schemas as well as data lake hosted tables (that require schema-on-read)
+* Handling data lake hosted datasets that are stored using a variety of open file formats such as Avro, Parquet, or ORC
+* Optimizing performance and costs through partition pruning when reading large, partitioned datasets hosted in the data lake
 
 In the rest of this post, we introduce a reference architecture that uses AWS services to compose each layer described in our Lake House logical architecture. In this approach, AWS services take over the heavy lifting of the following:
 
--   Providing and managing scalable, resilient, secure, and cost-effective infrastructural components
--   Ensuring infrastructural components natively integrate with each other
+* Providing and managing scalable, resilient, secure, and cost-effective infrastructural components
+* Ensuring infrastructural components natively integrate with each other
 
 This approach allows you to focus more time on the following tasks:
 
--   Rapidly building data and analytics pipelines
--   Significantly accelerating new data onboarding and driving insights from your data
--   Supporting multiple user personas
+* Rapidly building data and analytics pipelines
+* Significantly accelerating new data onboarding and driving insights from your data
+* Supporting multiple user personas
 
 ## Lake House reference architecture on AWS
 
@@ -150,10 +143,10 @@ In the following sections, we provide more information about each layer.
 
 The ingestion layer in our Lake House reference architecture is composed of a set of purpose-built AWS services to enable data ingestion from a variety of sources into the Lake House storage layer. Most of the ingestion services can deliver data directly to both the data lake and data warehouse storage. Individual purpose-built AWS services match the unique connectivity, data format, data structure, and data velocity requirements of the following sources:
 
--   Operational database sources
--   Software as a service (SaaS) applications
--   File shares
--   Streaming data sources
+* Operational database sources
+* Software as a service (SaaS) applications
+* File shares
+* Streaming data sources
 
 #### Operational database sources (OLTP, ERP, CRM)
 
@@ -171,9 +164,9 @@ Many applications store structured and unstructured data in files that are hoste
 
 The ingestion layer uses [Amazon Kinesis Data Firehose](https://aws.amazon.com/kinesis/data-firehose/) to receive streaming data from internal or external sources and deliver it to the Lake House storage layer. With a few clicks, you can configure a Kinesis Data Firehose API endpoint where sources can send streaming data such as clickstreams, application and infrastructure logs and monitoring metrics, and IoT data such as devices telemetry and sensor readings. Kinesis Data Firehose performs the following actions:
 
--   Buffers incoming streams
--   Batches, compresses, transforms, partitions, and encrypts the data
--   Delivers the data as S3 objects to the data lake or as rows into staging tables in the Amazon Redshift data warehouse
+* Buffers incoming streams
+* Batches, compresses, transforms, partitions, and encrypts the data
+* Delivers the data as S3 objects to the data lake or as rows into staging tables in the Amazon Redshift data warehouse
 
 Kinesis Data Firehose is serverless, requires no administration, and has a cost model where you pay only for the volume of data you transmit and process through the service. Kinesis Data Firehose automatically scales to adjust to the volume and throughput of incoming data. For building real-time streaming analytics pipelines, the ingestion layer provides [Amazon Kinesis Data Streams](https://aws.amazon.com/kinesis/data-streams/).
 
@@ -185,10 +178,10 @@ Amazon Redshift and Amazon S3 provide a unified, natively integrated storage lay
 
 As Redshift Spectrum reads datasets stored in Amazon S3, it applies the corresponding schema from the common [AWS Lake Formation](https://aws.amazon.com/lake-formation/) catalog to the data (schema-on-read). With Redshift Spectrum, you can build Amazon Redshift native pipelines that perform the following actions:
 
--   Keep large volumes historical data in the data lake and ingest a few months of hot data into the data warehouse using Redshift Spectrum
--   Produce enriched datasets by processing both hot data in the attached storage and historical data in the data lake, all without moving data in either direction
--   Insert rows of enriched datasets in either a table stored on attached storage or directly into the data lake hosted external table
--   Easily offload volumes of large colder historical data from the data warehouse into cheaper data lake storage and still easily query it as part of Amazon Redshift queries
+* Keep large volumes historical data in the data lake and ingest a few months of hot data into the data warehouse using Redshift Spectrum
+* Produce enriched datasets by processing both hot data in the attached storage and historical data in the data lake, all without moving data in either direction
+* Insert rows of enriched datasets in either a table stored on attached storage or directly into the data lake hosted external table
+* Easily offload volumes of large colder historical data from the data warehouse into cheaper data lake storage and still easily query it as part of Amazon Redshift queries
 
 Highly structured data in Amazon Redshift typically powers interactive queries and highly trusted, fast BI dashboards, whereas structured, unstructured, and semi-structure data in Amazon S3 typically drives ML, data science, and big data processing use cases.
 
@@ -214,39 +207,39 @@ The processing layer of our Lake House Architecture provides multiple purpose-bu
 
 We can use processing layer components to build data processing jobs that can read and write data stored in both the data warehouse and data lake storage using the following interfaces:
 
--   Amazon Redshift SQL (with Redshift Spectrum). For more information, see [Amazon Redshift Spectrum Extends Data Warehousing Out to Exabytes—No Loading Required](https://aws.amazon.com/blogs/big-data/amazon-redshift-spectrum-extends-data-warehousing-out-to-exabytes-no-loading-required/).
--   Apache Spark jobs running Amazon EMR. For more information, see the following:
-    -   Spark documentation entries for [DataFrameReader](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader) and [DataFrameWriter](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameWriter)
-    -   [Performant Redshift Data Source for Apache Spark – Community Edition](https://github.com/spark-redshift-community/spark-redshift) on GitHub
--   Apache Spark jobs running on AWS Glue. For more information, see the following:
-    -   [DynamicFrameReader Class](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler-pyspark-extensions-dynamic-frame-reader.html)
-    -   [DynamicFrameWriter Class](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler-pyspark-extensions-dynamic-frame-writer.html)
-    -   [Moving Data to and from Amazon Redshift](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-redshift.html)
+* Amazon Redshift SQL (with Redshift Spectrum). For more information, see [Amazon Redshift Spectrum Extends Data Warehousing Out to Exabytes—No Loading Required](https://aws.amazon.com/blogs/big-data/amazon-redshift-spectrum-extends-data-warehousing-out-to-exabytes-no-loading-required/).
+* Apache Spark jobs running Amazon EMR. For more information, see the following:
+  * Spark documentation entries for [DataFrameReader](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader) and [DataFrameWriter](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameWriter)
+  * [Performant Redshift Data Source for Apache Spark – Community Edition](https://github.com/spark-redshift-community/spark-redshift) on GitHub
+* Apache Spark jobs running on AWS Glue. For more information, see the following:
+  * [DynamicFrameReader Class](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler-pyspark-extensions-dynamic-frame-reader.html)
+  * [DynamicFrameWriter Class](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler-pyspark-extensions-dynamic-frame-writer.html)
+  * [Moving Data to and from Amazon Redshift](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-redshift.html)
 
 You can add metadata from the resulting datasets to the central Lake Formation catalog using AWS Glue crawlers or Lake Formation APIs.
 
 You can use purpose-built components to build data transformation pipelines that implement the following:
 
--   SQL-based ELT using Amazon Redshift (with Redshift Spectrum)
--   Big data processing using AWS Glue or Amazon EMR
--   Near-real-time streaming data processing using [Amazon Kinesis](https://aws.amazon.com/kinesis/). For more information, see the following:
-    -   [Writing SQL on Streaming Data with Amazon Kinesis Analytics – Part 1](https://aws.amazon.com/blogs/big-data/writing-sql-on-streaming-data-with-amazon-kinesis-analytics-part-1/)
-    -   [Writing SQL on Streaming Data with Amazon Kinesis Analytics – Part 2](https://aws.amazon.com/blogs/big-data/writing-sql-on-streaming-data-with-amazon-kinesis-analytics-part-2/)
-    -   [Serverless Stream-Based Processing for Real-Time Insights](https://aws.amazon.com/blogs/architecture/serverless-stream-based-processing-for-real-time-insights/)
-    -   [Streaming ETL with Apache Flink and Amazon Kinesis Data Analytics](https://aws.amazon.com/blogs/big-data/streaming-etl-with-apache-flink-and-amazon-kinesis-data-analytics/)
--   Near-real-time streaming data processing using Spark streaming on AWS Glue. For more information, see [New – Serverless Streaming ETL with AWS Glue](https://aws.amazon.com/blogs/aws/new-serverless-streaming-etl-with-aws-glue/).
--   Near-real-time streaming data processing using Spark streaming on Amazon EMR. For more information, see the following:
-    -   [Optimize Spark-Streaming to Efficiently Process Amazon Kinesis Streams](https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/)
-    -   [Real-Time Analytics with Spark Streaming](https://aws.amazon.com/solutions/implementations/real-time-analytics-spark-streaming/)
-    -   [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](https://aws.amazon.com/blogs/big-data/querying-amazon-kinesis-streams-directly-with-sql-and-spark-streaming/)
-    -   [Real-time Stream Processing Using Apache Spark Streaming and Apache Kafka on AWS](https://aws.amazon.com/blogs/big-data/real-time-stream-processing-using-apache-spark-streaming-and-apache-kafka-on-aws/)
+* SQL-based ELT using Amazon Redshift (with Redshift Spectrum)
+* Big data processing using AWS Glue or Amazon EMR
+* Near-real-time streaming data processing using [Amazon Kinesis](https://aws.amazon.com/kinesis/). For more information, see the following:
+  * [Writing SQL on Streaming Data with Amazon Kinesis Analytics – Part 1](https://aws.amazon.com/blogs/big-data/writing-sql-on-streaming-data-with-amazon-kinesis-analytics-part-1/)
+  * [Writing SQL on Streaming Data with Amazon Kinesis Analytics – Part 2](https://aws.amazon.com/blogs/big-data/writing-sql-on-streaming-data-with-amazon-kinesis-analytics-part-2/)
+  * [Serverless Stream-Based Processing for Real-Time Insights](https://aws.amazon.com/blogs/architecture/serverless-stream-based-processing-for-real-time-insights/)
+  * [Streaming ETL with Apache Flink and Amazon Kinesis Data Analytics](https://aws.amazon.com/blogs/big-data/streaming-etl-with-apache-flink-and-amazon-kinesis-data-analytics/)
+* Near-real-time streaming data processing using Spark streaming on AWS Glue. For more information, see [New – Serverless Streaming ETL with AWS Glue](https://aws.amazon.com/blogs/aws/new-serverless-streaming-etl-with-aws-glue/).
+* Near-real-time streaming data processing using Spark streaming on Amazon EMR. For more information, see the following:
+  * [Optimize Spark-Streaming to Efficiently Process Amazon Kinesis Streams](https://aws.amazon.com/blogs/big-data/optimize-spark-streaming-to-efficiently-process-amazon-kinesis-streams/)
+  * [Real-Time Analytics with Spark Streaming](https://aws.amazon.com/solutions/implementations/real-time-analytics-spark-streaming/)
+  * [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](https://aws.amazon.com/blogs/big-data/querying-amazon-kinesis-streams-directly-with-sql-and-spark-streaming/)
+  * [Real-time Stream Processing Using Apache Spark Streaming and Apache Kafka on AWS](https://aws.amazon.com/blogs/big-data/real-time-stream-processing-using-apache-spark-streaming-and-apache-kafka-on-aws/)
 
 #### SQL based ELT
 
 To transform structured data in the Lake House storage layer, you can build powerful ELT pipelines using familiar SQL semantics. These ELT pipelines can use the massively parallel processing (MPP) capability in Amazon Redshift and the ability in Redshift Spectrum to spin up thousands of transient nodes to scale processing to petabytes of data. The same stored procedure-based [ELT pipelines on Amazon Redshift](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-2/) can transform the following:
 
--   Flat structured data delivered by AWS DMS or Amazon AppFlow directly into Amazon Redshift staging tables
--   Data hosted in the data lake using open-source file formats such as JSON, Avro, Parquet, and ORC
+* Flat structured data delivered by AWS DMS or Amazon AppFlow directly into Amazon Redshift staging tables
+* Data hosted in the data lake using open-source file formats such as JSON, Avro, Parquet, and ORC
 
 For data enrichment steps, these pipelines can include SQL statements that join internal dimension tables with large fact tables hosted in the S3 data lake (using the Redshift Spectrum layer). As final step, data processing pipelines can insert curated, enriched, and modeled data into either an Amazon Redshift internal table or an [external table stored in Amazon S3](https://docs.aws.amazon.com/redshift/latest/dg/r_INSERT_external_table.html).
 
@@ -260,8 +253,8 @@ You can [automatically scale EMR clusters](https://aws.amazon.com/blogs/big-data
 
 Spark based data processing pipelines running on Amazon EMR can use the following:
 
--   Spark’s built-in [readers](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader) and [writers](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameWriter) to handle data lake hosted datasets in a variety of open-source formats
--   The open-source [Spark-Amazon Redshift connector](https://github.com/spark-redshift-community/spark-redshift) to directly read and write data in the Amazon Redshift data warehouse
+* Spark’s built-in [readers](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader) and [writers](https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameWriter) to handle data lake hosted datasets in a variety of open-source formats
+* The open-source [Spark-Amazon Redshift connector](https://github.com/spark-redshift-community/spark-redshift) to directly read and write data in the Amazon Redshift data warehouse
 
 To read the schema of data lake hosted complex structured datasets, Spark ETL jobs on Amazon EMR can connect to the Lake Formation catalog. This is [set up with AWS Glue compatibility](https://docs.aws.amazon.com/lake-formation/latest/dg/change-settings.html) and [AWS Identity and Access Management](http://aws.amazon.com/iam) (IAM) policies set up to separately authorize access to [AWS Glue tables](https://docs.aws.amazon.com/glue/latest/dg/glue-policy-examples-iam.html) and underlying [S3 objects](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html). The same Spark jobs can use the Spark-Amazon Redshift connector to read both data and schemas of Amazon Redshift hosted datasets. You can use Spark and [Apache Hudi](https://www.youtube.com/watch?v=_ckNyL_Nr1A) to [build highly performant incremental data processing pipelines Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-hudi.html).
 
@@ -269,15 +262,15 @@ To read the schema of data lake hosted complex structured datasets, Spark ETL jo
 
 To enable several modern analytics use cases, you need to perform the following actions, all in near-real time:
 
--   Ingest large volumes of high-frequency or streaming data
--   Validate, clean, and enrich it
--   Make it available for consumption in Lake House storage
+* Ingest large volumes of high-frequency or streaming data
+* Validate, clean, and enrich it
+* Make it available for consumption in Lake House storage
 
 You can build pipelines that can easily scale to process large volumes of data in near-real time using one of the following:
 
--   [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/) for SQL/Flink
--   Spark streaming on either AWS Glue or Amazon EMR
--   Kinesis Data Firehose integrated with [AWS Lambda](http://aws.amazon.com/lambda)
+* [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/) for SQL/Flink
+* Spark streaming on either AWS Glue or Amazon EMR
+* Kinesis Data Firehose integrated with [AWS Lambda](http://aws.amazon.com/lambda)
 
 Kinesis Data Analytics, AWS Glue, and Kinesis Data Firehose enable you to build near-real-time data processing pipelines without having to create or manage compute infrastructure. Kinesis Data Firehose and Kinesis Data Analytics pipelines elastically scale to match the throughput of the source, whereas Amazon EMR and AWS Glue based Spark streaming jobs can be scaled in minutes by just specifying scaling parameters.
 
@@ -301,9 +294,9 @@ Amazon Redshift provides a powerful SQL capability designed for blazing fast onl
 
 Data scientists typically need to explore, wrangle, and feature engineer a variety of structured and unstructured datasets to prepare for training ML models. Lake House interfaces (an interactive SQL interface using Amazon Redshift with an Athena and Spark interface) significantly simplify and accelerate these data preparation steps by providing data scientists with the following:
 
--   A unified Lake Formation catalog to search and discover all data hosted in Lake House storage
--   Amazon Redshift SQL and Athena based interactive SQL capability to access, explore, and transform all data in Lake House storage
--   Unified Spark based access to wrangle and transform all Lake House storage hosted datasets (structured as well as unstructured) and turn them into feature sets
+* A unified Lake Formation catalog to search and discover all data hosted in Lake House storage
+* Amazon Redshift SQL and Athena based interactive SQL capability to access, explore, and transform all data in Lake House storage
+* Unified Spark based access to wrangle and transform all Lake House storage hosted datasets (structured as well as unstructured) and turn them into feature sets
 
 Data scientists then develop, train, and deploy ML models by connecting [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to the Lake House storage layer and accessing training feature sets.
 
@@ -329,36 +322,36 @@ In this post, we described several purpose-built AWS services that you can use t
 
 For detailed architectural patterns, walkthroughs, and sample code for building the layers of the Lake House Architecture, see the following resources:
 
--   ETL and ELT design patterns for Lake House Architecture using Amazon Redshift: [Part 1](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) and [Part 2](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-2/)
--   [Creating a source to Lakehouse data replication pipe using Apache Hudi, AWS Glue, AWS DMS, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/creating-a-source-to-lakehouse-data-replication-pipe-using-apache-hudi-aws-glue-aws-dms-and-amazon-redshift/)
--   [Manage and control your cost with Amazon Redshift Concurrency Scaling and Spectrum](https://aws.amazon.com/blogs/big-data/manage-and-control-your-cost-with-amazon-redshift-concurrency-scaling-and-spectrum/)
--   [Powering Amazon Redshift Analytics with Apache Spark and Amazon Machine Learning](https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/)
--   [Using the Amazon Redshift Data API to interact with Amazon Redshift clusters](https://aws.amazon.com/blogs/big-data/using-the-amazon-redshift-data-api-to-interact-with-amazon-redshift-clusters/)
--   [Speed up your ELT and BI queries with Amazon Redshift materialized views](https://aws.amazon.com/blogs/big-data/speed-up-your-elt-and-bi-queries-with-amazon-redshift-materialized-views/)
--   [Build a Simplified ETL and Live Data Query Solution using Redshift Federated Query](https://aws.amazon.com/blogs/big-data/build-a-simplified-etl-and-live-data-query-solution-using-redshift-federated-query/)
+* ETL and ELT design patterns for Lake House Architecture using Amazon Redshift: [Part 1](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) and [Part 2](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-2/)
+* [Creating a source to Lakehouse data replication pipe using Apache Hudi, AWS Glue, AWS DMS, and Amazon Redshift](https://aws.amazon.com/blogs/big-data/creating-a-source-to-lakehouse-data-replication-pipe-using-apache-hudi-aws-glue-aws-dms-and-amazon-redshift/)
+* [Manage and control your cost with Amazon Redshift Concurrency Scaling and Spectrum](https://aws.amazon.com/blogs/big-data/manage-and-control-your-cost-with-amazon-redshift-concurrency-scaling-and-spectrum/)
+* [Powering Amazon Redshift Analytics with Apache Spark and Amazon Machine Learning](https://aws.amazon.com/blogs/big-data/powering-amazon-redshift-analytics-with-apache-spark-and-amazon-machine-learning/)
+* [Using the Amazon Redshift Data API to interact with Amazon Redshift clusters](https://aws.amazon.com/blogs/big-data/using-the-amazon-redshift-data-api-to-interact-with-amazon-redshift-clusters/)
+* [Speed up your ELT and BI queries with Amazon Redshift materialized views](https://aws.amazon.com/blogs/big-data/speed-up-your-elt-and-bi-queries-with-amazon-redshift-materialized-views/)
+* [Build a Simplified ETL and Live Data Query Solution using Redshift Federated Query](https://aws.amazon.com/blogs/big-data/build-a-simplified-etl-and-live-data-query-solution-using-redshift-federated-query/)
 
-***
+---
 
 ## Appendix: Links
 
-- [[Modern Data Architecture on AWS]]
-- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|Amazon Web Services]]
-- [[AWS S3]]
-- [[Data Lake]]
-- [[Data Engineering]]
-- [[Cloud Computing]]
-- [[ELT Cloud Based Pipeline Architecture]]
-- [[ETL Pipeline Notes]]
-- [[ETL]]
-- [[ELT]]
-- [[SQL]]
-- [[Databases]]
-- [[Data Warehouse]]
-- [[Dimensional Modeling]]
-- [[ETL Data Warehousing Best Practices]]
+* [Modern Data Architecture on AWS](Modern%20Data%20Architecture%20on%20AWS.md)
+* *Amazon Web Services*
+* [AWS S3](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md)
+* [Data Lake](Data%20Lake.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [Cloud Computing](Cloud%20Computing.md)
+* [ELT Cloud Based Pipeline Architecture](ELT%20Cloud%20Based%20Pipeline%20Architecture.md)
+* [ETL Pipeline Notes](ETL%20Pipeline%20Notes.md)
+* [ETL](ETL.md)
+* [ELT](ELT.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Warehouse](Data%20Warehouse.md)
+* [Dimensional Modeling](Dimensional%20Modeling.md)
+* [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Build a Lakehouse Architecture on AWS]] AND -"Changelog"
-```
+````

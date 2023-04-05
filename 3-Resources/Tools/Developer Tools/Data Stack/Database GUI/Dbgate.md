@@ -1,13 +1,7 @@
----
-Date: 2022-04-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Dbgate"]
----
-
 # Dbgate
 
-> (no)SQL database client
+ > 
+ > (no)SQL database client
 
 *Source: [dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (github.com)](https://github.com/dbgate/dbgate)*
 
@@ -26,15 +20,16 @@ DbGate is licensed under MIT license and is completely free.
 * Run web version as [NPM package](https://www.npmjs.com/package/dbgate-serve) or as [docker image](https://hub.docker.com/r/dbgate/dbgate)
 
 ## Supported Databases
-* [[MySQL]]
-* [[PostgreSQL]]
-* [[SQL Server]]
-* [[MongoDB]]
-* [[Redis]]
-* [[SQLite]]
-* [[Amazon Redshift]]
-* [[CockroachDB]]
-* [[MariaDB]]
+
+* *MySQL*
+* [PostgreSQL](../Databases/PostgreSQL.md)
+* [SQL Server](../Databases/SQL%20Server.md)
+* *MongoDB*
+* *Redis*
+* [SQLite](../Databases/SQLite.md)
+* [Amazon Redshift](../../Cloud%20Services/AWS/Amazon%20Redshift.md)
+* *CockroachDB*
+* [MariaDB](../Databases/MariaDB.md)
 
 ## Gallery
 
@@ -50,10 +45,10 @@ DbGate is licensed under MIT license and is completely free.
 <a href="https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot3.png">
     <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/img/screenshot3.png" width="400"/>
 </a>
-
 <!-- ![Screenshot](https://raw.githubusercontent.com/dbgate/dbgate/master/screenshot.png) -->
 
 ## Features
+
 * Table data editing, with SQL change script preview
 * Edit table schema, indexes, primary and foreign keys
 * Compare and synchronize database structure
@@ -80,6 +75,7 @@ DbGate is licensed under MIT license and is completely free.
 * Extensible plugin architecture
 
 ## How to contribute
+
 Any contributions are welcome. If you want to contribute without coding, consider following:
 
 * Tell your friends about DbGate or share on social networks - when more people will use DbGate, it will grow to be better
@@ -91,18 +87,21 @@ Any contributions are welcome. If you want to contribute without coding, conside
 Thank you!
 
 ## Why is DbGate different
+
 There are many database managers now, so why DbGate? 
+
 * Works everywhere - Windows, Linux, Mac, Web browser (+mobile web is planned), without compromises in features
 * Based on standalone NPM packages, scripts can be run without DbGate (example - [CSV export](https://www.npmjs.com/package/dbgate-plugin-csv) )
 * Many data browsing functions based using foreign keys - master/detail, expand columns, expandable form view
 
 ## Design goals
+
 * Application simplicity - DbGate takes the best and only the best from old [DbGate](http://www.jenasoft.com/dbgate), [DatAdmin](http://www.jenasoft.com/datadmin) and [DbMouse](http://www.jenasoft.com/dbmouse) .
 * Minimal dependencies
-    * Frontend - Svelte, socket.io
-    * Backend - NodeJs, ExpressJs, socket.io, database connection drivers
-    * JavaScript + TypeScript
-    * App - electron
+  * Frontend - Svelte, socket.io
+  * Backend - NodeJs, ExpressJs, socket.io, database connection drivers
+  * JavaScript + TypeScript
+  * App - electron
 * Platform independent - runs as web application in single docker container on server, or as application using Electron platform on Linux, Windows and Mac
 
 <!-- ## Plugins
@@ -119,75 +118,83 @@ Basic set of plugins is part of DbGate git repository and is installed with app.
 ## How to run development environment
 
 Simple variant - runs WEB application:
-```sh
+
+````sh
 yarn
 yarn start
-```
+````
 
 If you want more control, run WEB application:
-```sh
+
+````sh
 yarn # install NPM packages
-```
+````
 
 And than run following 3 commands concurrently in 3 terminals:
-```
+
+````
 yarn start:api # run API on port 3000
 yarn start:web # run web on port 5000
 yarn lib # watch typescript libraries and plugins modifications
-```
+````
+
 This runs API on port 3000 and web application on port 5000  
 Open http://localhost:5000 in your browser
 
 If you want to run electron app:
-```sh
+
+````sh
 yarn # install NPM packages
 cd app
 yarn # install NPM packages for electron
-```
+````
 
 And than run following 3 commands concurrently in 3 terminals:
-```
+
+````
 yarn start:web # run web on port 5000 (only static JS and HTML files)
 yarn lib # watch typescript libraries and plugins modifications
 yarn start:app # run electron app
-```
+````
 
 ## How to run built electron app locally
+
 This mode is very similar to production run of electron app. Electron doesn't use localhost:5000.
 
-```sh
+````sh
 cd app
 yarn
-```
+````
 
-```sh
+````sh
 yarn
 yarn build:app:local
 yarn start:app:local
-```
+````
 
 ## How to create plugin
+
 Creating plugin is described in [documentation](https://github.com/dbgate/dbgate/wiki/Plugin-development)
 
 But it is very simple:
 
-```sh
+````sh
 npm install -g yo # install yeoman
 npm install -g generator-dbgate # install dbgate generator
 cd dbgate-plugin-my-new-plugin # this directory is created by wizard, edit, what you need to change
 yarn plugin # this compiles plugin and copies it into existing DbGate installation
-```
+````
 
 After restarting DbGate, you could use your new plugin from DbGate
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Dbgate]] AND -"Changelog"
-```
+````

@@ -1,16 +1,8 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python/Jupyter", "#Topic/Dev/Cloud"]
-Alias: "Jupyter Ecosystem in the Cloud"
----
-
 # Jupyter Ecosystem in the Cloud
 
 Notebooks are awesome. Perhaps you've used them in your classes. But one problem is there are so many. Just at Google we have Colab, Cloud AI Platform Notebooks, and Kaggle Kernels. Several major cloud providers offer Notebook services, and then there are open source efforts like Binder, Jupyter Hub, and a whole ecosystem of tooling. So which should you use? The answer, as usual, is "it depends". This session will summarize your options and try to help you choose the best notebook services and tools for your needs.
 
-***
-
+---
 
 *Source: [How to use Jupyter Notebooks in 2020 (Part 2 Ecosystem growth)](https://ljvmiranda921.github.io/notebook/2020/03/16/jupyter-notebooks-in-2020-part-2/)*
 
@@ -26,7 +18,7 @@ Notebooks are awesome. Perhaps you've used them in your classes. But one problem
   * [Quick turnaround from prototype to prod](Jupyter%20Ecosystem%20in%20the%20Cloud.md#quick-turnaround-from-prototype-to-prod)
     * [Toolbox rundown](Jupyter%20Ecosystem%20in%20the%20Cloud.md#toolbox-rundown)
 * [Putting-it together](Jupyter%20Ecosystem%20in%20the%20Cloud.md#putting-it-together)
-  - [Principles](Jupyter%20Ecosystem%20in%20the%20Cloud.md#principles)
+  * [Principles](Jupyter%20Ecosystem%20in%20the%20Cloud.md#principles)
 * [Conclusion](Jupyter%20Ecosystem%20in%20the%20Cloud.md#conclusion)
   * [Footnotes](Jupyter%20Ecosystem%20in%20the%20Cloud.md#footnotes)
 
@@ -132,7 +124,7 @@ Using notebooks in production is a highly-debated topic. There may be merits in 
 ![](https://ljvmiranda921.github.io/assets/png/jupyter2020/prototype_to_prod.png)
 
 ||Recommendation|
-|-----------------------------------------------|--------------|
+|--|--------------|
 |Best Tool of Choice|[Papermill](https://github.com/nteract/papermill) for parametrizing and running notebooks as you’d do for Python scripts. [Streamlit](https://github.com/streamlit/streamlit), although not Jupyter-native, can be used to create web-apps in-tandem with `nbconvert`.|
 |Runner-up|[Voila](https://github.com/voila-dashboards/voila) for a Jupyter-native experience of building web-apps, and Apache Spark for Big Data Analysis.|
 |Check out|[Dagster (Dagstermill)](https://dagster.readthedocs.io/en/0.3.3.post0/intro_tutorial/dagstermill.html) and [Airflow (PapermillOperator)](https://airflow.readthedocs.io/en/stable/howto/operator/papermill.html) for Notebook-based data pipelines. Although I’d recommend that for critical ETLs, traditional Python scripts should be considered.|
@@ -202,6 +194,6 @@ In the [final part](https://ljvmiranda921.github.io/notebook/2020/03/30/jupyter-
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Jupyter Ecosystem in the Cloud]] AND -"Changelog"
-```
+````

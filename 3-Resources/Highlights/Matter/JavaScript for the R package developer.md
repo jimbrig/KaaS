@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://blog.r-hub.io/2020/08/25/js-r/](https://blog.r-hub.io/2020/08/25/js-r/)
 * Published Date: 2020-08-25
-* Author: [[Maëlle Salmon]]
+* Author: *Maëlle Salmon*
 
 ## Highlights
-* At a basic level, knitr includes a JavaScript chunk engine that writes the code in JavaScript chunks marked with ````{js}into a<script>` tag in the HTML document. The JS code is then rendered in the browser when the reader opens the output document! Now, what about executing JS code at compile time i.e. when knitting? For that the experimental bubble package provides a knitr engines that uses Node to run JavaScript chunks and insert the results in the rendered output.
+
+* At a basic level, knitr includes a JavaScript chunk engine that writes the code in JavaScript chunks marked with \````{js}into a<script>\` tag in the HTML document. The JS code is then rendered in the browser when the reader opens the output document! Now, what about executing JS code at compile time i.e. when knitting? For that the experimental bubble package provides a knitr engines that uses Node to run JavaScript chunks and insert the results in the rendered output.
 * JavaScript in your R package
 * Bundling JavaScript code
 * The easiest way to interface JavaScript code from an R package is using the V8 package. From its docs, “A major advantage over the other foreign language interfaces is that V8 requires no compilers, external executables or other run-time dependencies. The entire engine is contained within a 6MB package (2MB zipped) and works on all major platforms.” V8 documentation includes a vignette on how to use JavaScript libraries with V8. Some examples of use include the js package, “A set of utilities for working with JavaScript syntax in R"; jsonld for working with, well, JSON-LD where LD means Linked Data; slugify (not on CRAN) for creating slugs out of strings.

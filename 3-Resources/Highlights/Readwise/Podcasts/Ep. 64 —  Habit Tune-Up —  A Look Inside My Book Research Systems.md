@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems", "Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems"]
----
 # Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Is There A World Without Emale?
+
+* Is There A World Without Emale?
   Summary:
   In evernote, for whatever reason, when i'm dealing with files, i like to keep them in my directory structure on computer. In the research folder for this book, i have a directory called articles from social physics. This is an agile online company that got rid of all the overhead because they're so cheap. We are talking about premium wireless plans for only fifteen dollars a month and unlimited text data delivered on the nation's largest five g network.
   Transcript:

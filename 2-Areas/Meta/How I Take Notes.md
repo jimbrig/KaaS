@@ -1,59 +1,50 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
-Alias: "How I Take Notes"
----
-
 # How I Take Notes
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Tools|Tools]]
-	- [[#Zotero: Reference Manager|Zotero: Reference Manager]]
-- [[#My Slipbox|My Slipbox]]
-- [[#Workflow|Workflow]]
-
+* [Overview](How%20I%20Take%20Notes.md#overview)
+* [Tools](How%20I%20Take%20Notes.md#tools)
+  * [Zotero: Reference Manager](How%20I%20Take%20Notes.md#zotero-reference-manager)
+* [My Slipbox](How%20I%20Take%20Notes.md#my-slipbox)
+* [Workflow](How%20I%20Take%20Notes.md#workflow)
 
 ## Overview
-
 
 Writing is an essential part of learning.
 
 Through writing, one demonstrates what he/she has learned and proved he/she can explain it with words. This displays the ability to think critically and problem solve as well as absorb knowledge and curate it into wisdom for future endeavors.
 
-Over time I have been influenced by and adopted the [[Zettelkasten]] system for note-taking (made popular by the book [How to Take Smart Notes]()).
+Over time I have been influenced by and adopted the [Zettelkasten](../../0-Slipbox/Zettelkasten.md) system for note-taking (made popular by the book [How to Take Smart Notes]()).
 
-[[Zettelkasten]] is a note taking method popularized by German sociologist Niklas Luhmann. The system is straightforward. Take notes and make connections between them. Notes are organized topically rather than chronologically or by association with a document. The act of linking between notes is explicit through manually written cross-reference. And to make it easier to connect ideas, write entries that contain one single thought.
+[Zettelkasten](../../0-Slipbox/Zettelkasten.md) is a note taking method popularized by German sociologist Niklas Luhmann. The system is straightforward. Take notes and make connections between them. Notes are organized topically rather than chronologically or by association with a document. The act of linking between notes is explicit through manually written cross-reference. And to make it easier to connect ideas, write entries that contain one single thought.
 
 I have been using this method for some time now. 
 
 In this note, I will lay out the tools and the workflow I use. Essentially, I need something to:
 
 1. Capture ideas
-2. Reference Manager
-3. Place to store notes or a [[0-Slipbox/_README|Slipbox]] and
-4. An Editor
+1. Reference Manager
+1. Place to store notes or a *Slipbox* and
+1. An Editor
 
 ## Tools
 
 Currently I use a suite of tools to aid in my note taking:
 
-- Pen and Paper Notebooks
-- Obsidian
-- Raindrop.io
-- Instapaper
-- Feedly
-- Zotero
-- Markdown
-- Git and GitHub
-- MkDocs and GitHub Actions
-- Evernote
-- Todoist
-- Typora
-- VSCode
-- 
+* Pen and Paper Notebooks
+* Obsidian
+* Raindrop.io
+* Instapaper
+* Feedly
+* Zotero
+* Markdown
+* Git and GitHub
+* MkDocs and GitHub Actions
+* Evernote
+* Todoist
+* Typora
+* VSCode
+* 
 
 ### Zotero: Reference Manager
 
@@ -61,7 +52,7 @@ Zotero is a free tool that I use to store and manage references. It has a neat w
 
 ## My Slipbox
 
-```powershell
+````powershell
 ./Slipbox
 ├── Actuarial Data Science and Financial Modeling with Microsoft Azure.md
 ├── Actuarial Development Master Resource List.md
@@ -238,7 +229,7 @@ Zotero is a free tool that I use to store and manage references. It has a neat w
 1 directory, 170 files
 
 
-```
+````
 
 To store the notes, I use the file system. I save all entries in markdown format and put them all in a folder. The wonderful thing about using markdown format is that it is plain text. That means you can use any editor to edit or read. Plain text files are easy to handle, easy to backup, and easy to transfer—no vendor lock-in.
 
@@ -252,8 +243,9 @@ The flow does not always follow a neat sequence.
 
 ### Collection and Curation
 
-> _Good ideas are not conjured out of thin air; they are built out of a collection of existing parts, the composition of which expands (and, occasionally, contracts) over time._ 
-> _— Steven Johnson. Where Good Ideas Come From_
+ > 
+ > *Good ideas are not conjured out of thin air; they are built out of a collection of existing parts, the composition of which expands (and, occasionally, contracts) over time.* 
+ > *— Steven Johnson. Where Good Ideas Come From*
 
 I consume a lot of content. I watch videos, read blog posts, and listen to a podcast. Most of those content I quickly forget. Granted, some of this content is not worth a second thought, but I also forget about the good one. I tried to use the bookmark tool and read-later app. Those tools do help me collect and manage content. But all said and done, it is still one mindless consumption activity. This is when I learn about content curation.
 
@@ -261,10 +253,10 @@ Content curation is the process of sifting through content and organizing, filte
 
 At the moment, I am using RaindropIO and Notion. I use RaindropIO to collect and curate books, blog posts, design pieces, visualization, diagrams, learning curriculum, my favorite books of all time, expert directories, and galleries. It is my go-to tool for collecting content. Before RainDropIO, I used PinBoard and Instapaper. But I have moved over to RaindropIO.
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[How I Take Notes]] AND -"Changelog"
-```
+````

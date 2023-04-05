@@ -1,16 +1,8 @@
----
-Date: 2022-03-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Refresh All Materialize Views"]
----
-
 # SQL - PostgreSQL - Refresh All Materialize Views
 
 *Source: [postgres_dba/refresh_all.sql at master · NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba/blob/master/matviews/refresh_all.sql)*
 
-
-```SQL
+````SQL
 -- Use this to do the very 1st REFRESH for your matviews
 -- In case when there are complex relations between matviews,
 -- it might perform multiple iterations and eventually refreshes
@@ -80,21 +72,20 @@ $$ language plpgsql;
 reset postgres_dba.refresh_matviews_with_data;
 reset client_min_messages;
 reset statement_timeout;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Refresh All Materialize Views]] AND -"Changelog"
-```
+````

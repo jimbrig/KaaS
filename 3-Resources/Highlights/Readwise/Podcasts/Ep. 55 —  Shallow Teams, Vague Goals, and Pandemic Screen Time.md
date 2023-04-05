@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time", "Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time"]
----
 # Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- The Vision of Productivity Pran largely Didn't Work Out
+
+* The Vision of Productivity Pran largely Didn't Work Out
   Summary:
   When i was coming up in the late nineties and early two thousands, this moment of what was known as productivity prand really believed that te could be atthe core of satisfying productivity. This was the vision. If you just had the right configuration of omnifocus hooked up with quicksilver going into your your souped up emax short cuts, it would make everything kind of effortless. And essentially you would be out sourcing a lot of the difficulty of work in too, soft ware....
   Transcript:

@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Bash", "#Topic/Dev"]
-Alias: ["Bash - Install NVM"]
----
-
 # Bash - Install NVM
 
 *Source: https://gist.github.com/7f7065d9a2e153db86cf082841db3ee1#file-install-nvm-sh*
 
-```bash
+````bash
 # Install via: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 # Source File: https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh
 
@@ -476,18 +469,17 @@ nvm_reset() {
 
 } # this ensures the entire script is downloaded #
 
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Bash - Install NVM]] AND -"Changelog"
-```
+````

@@ -1,15 +1,8 @@
----
-Date: 2022-02-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["GitHub Obsidian Theme CSS"]
----
-
 # GitHub Obsidian Theme CSS
 
 *Source: https://github.com/sergey900553/obsidian_githublike_theme*
 
-```css
+````css
 :root {
 	--default-font: "Segoe UI";
 }
@@ -318,16 +311,17 @@ ul {
     margin-block-start: -0.5em;
     padding-inline-start: 35px;
 }
-```
-***
+````
+
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Obsidian Theme CSS]] AND -"Changelog"
-```
+````

@@ -1,10 +1,3 @@
----
-Date: 2021-11-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Topic/Dev/OS/Windows", "#Topic/Windows", "#Topic/Dev/PowerShell", "#Topic/Dev/CLI"]
-Alias: "Windows Developer Environment"
----
-
 # Windows Developer Environment
 
 ## Overview
@@ -21,10 +14,8 @@ Alias: "Windows Developer Environment"
 
 ### Improve Speed through Defender Exclusions
 
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Windows Developer Environment]] AND -"Changelog"
-```
+````

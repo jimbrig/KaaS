@@ -1,30 +1,22 @@
----
-Date: 2022-01-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Creating a Google Suite Desktop Electron App with Nativefier"
----
-
 # Creating a Google Suite Desktop Electron App with Nativefier
 
 ## Introduction
 
-*See Also: [[3-Resources/Tools/Utility/Nativefier]]*
+*See Also: [3-Resources/Tools/Utility/Nativefier](../3-Resources/Tools/Utility/Nativefier.md)*
 
 [Nativefier](https://github.com/nativefier/nativefier) is a command-line tool to easily create a “desktop app” for any web site with minimal fuss. Apps are wrapped by [Electron](https://www.electronjs.org/) (which uses Chromium under the hood) in an OS executable (`.app`, `.exe`, etc) usable on Windows, macOS and Linux.
 
 I built this because I grew tired of having to Alt-Tab to my browser and then search through numerous open tabs when using Messenger or Whatsapp Web ([HN thread](https://news.ycombinator.com/item?id=10930718)). Nativefier features:
 
--   Automatically retrieval of app icon / name
--   Injection of custom JS & CSS
--   Many more, see the [API docs](https://github.com/nativefier/nativefier/blob/master/API.md) or `nativefier --help`
-
+* Automatically retrieval of app icon / name
+* Injection of custom JS & CSS
+* Many more, see the [API docs](https://github.com/nativefier/nativefier/blob/master/API.md) or `nativefier --help`
 
 ## Creation Command
 
 Open a Terminal from `~/.config/nativefier/GSuite` and run the following command to generate the `app` folder:
 
-```powershell
+````powershell
 nativefier 'https://workspace.google.com/u/1/dashboard' `
 	--user-agent firefox `
 	--portable "." `
@@ -36,7 +28,7 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
 	--basic-auth-username "jimmy.briggs@jimbrig.com" `
 	--basic-auth-password "<PASSWORD>" `
 	"app"
-```
+````
 
 ## Output
 
@@ -66,45 +58,43 @@ when I run the `GSuite.exe` executable it launches the Electron App with the res
 
 ![](https://i.imgur.com/0czyaiN.png)
 
-
-
 ### Notes
 
-- I am assuming the working directory is set to `~/.config/nativefier/GSuite`:
+* I am assuming the working directory is set to `~/.config/nativefier/GSuite`:
 
 <center><img src="https://i.imgur.com/xCVtaoN.png" /></center>
 
-- I have placed all icons within the `~/.config/nativefier/GSuite/icons` folder:
+* I have placed all icons within the `~/.config/nativefier/GSuite/icons` folder:
 
 <center><img src="https://i.imgur.com/QA1woKJ.png" /></center>
 
 ### menuBar.json Configuration
 
 I am using a `menuBar.json` configuration file to enhance the menu bar in the electron app.
-	
-Currently I add the following URLs:
-	
-- [Google Workspace]()  
-- [Google Calendar]()  
-- [GMail]()  
-- [Google Drive]()  
-- [Google Chat]()  
-- [Google Contacts]()  
-- [YouTube]()  
-- [Google Photos]()  
-- [Google Maps]()  
-- [Google Cloud Platform]()  
-- [Google Domains]()  
-- [Google Developer Account]()  
-- [Google Account]()  
-- [GSuite Admin Dashboard]()  
-- [Google Business Profile]()  
 
-***
+Currently I add the following URLs:
+
+* [Google Workspace]()
+* [Google Calendar]()
+* [GMail]()
+* [Google Drive]()
+* [Google Chat]()
+* [Google Contacts]()
+* [YouTube]()
+* [Google Photos]()
+* [Google Maps]()
+* [Google Cloud Platform]()
+* [Google Domains]()
+* [Google Developer Account]()
+* [Google Account]()
+* [GSuite Admin Dashboard]()
+* [Google Business Profile]()
+
+---
 
 Here's the `menuBar.json` configuration file:
 
-```JSON
+````JSON
 {
     "menuLabel": "&GSuite",
     "bookmarks": [
@@ -197,20 +187,18 @@ Here's the `menuBar.json` configuration file:
         }
     ]
 }
-```
+````
 
 And this is how it appears in the Electron App:
 
 <center><img src="https://i.imgur.com/Jb5wkbJ.png"/></center>
 
-***
+---
 
 ## Appendix: Links
 
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Creating Desktop Electron Apps with Nativefier]] AND -"Changelog"
-```
+````

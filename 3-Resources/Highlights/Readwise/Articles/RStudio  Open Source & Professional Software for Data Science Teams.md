@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://rstudio.com/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["RStudio | Open Source & Professional Software for Data Science Teams", "RStudio | Open Source & Professional Software for Data Science Teams"]
----
 # RStudio | Open Source & Professional Software for Data Science Teams
 
 ## Metadata
-- Author: 
-- Full Title: RStudio | Open Source & Professional Software for Data Science Teams
-- Category: #Type/Highlight/Article
-- URL: https://rstudio.com/
+
+* Author: 
+* Full Title: RStudio | Open Source & Professional Software for Data Science Teams
+* Category: #Type/Highlight/Article
+* URL: https://rstudio.com/
 
 ## Highlights
-- Open Source
+
+* Open Source
   RStudio Desktop
   RStudio Server
   Shiny Server

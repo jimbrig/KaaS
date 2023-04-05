@@ -1,31 +1,20 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Podcasts"]
----
-
 # Podcasts Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Podcasts/_README]]
-- [[Podcasts]]
+
+* *3-Resources/Podcasts/_README*
+* [Podcasts](Podcasts.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Podcasts Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

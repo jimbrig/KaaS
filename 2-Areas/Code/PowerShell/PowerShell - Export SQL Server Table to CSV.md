@@ -1,15 +1,8 @@
----
-Date: 2022-11-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Export SQL Server Table to CSV"]
----
-
 # PowerShell - Export SQL Server Table to CSV
 
-*Source: *
+\*Source: *
 
-```powershell
+````powershell
 # TODO: Implement Get-Credential
 
 $outputPath = 'C:\Users\jbriggs010\Dev\pwc\pwc-us-rms\renredb\data\CSV\'
@@ -45,32 +38,38 @@ explorer.exe $outputPath
 # TODO: Add a log output txt file with CSVs
 
 
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-11-01]]
+* *2022-11-01*
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell|PowerShell (MOC)]]
-- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell (Tools)]]
-- [[2-Areas/Code/PowerShell/_README|PowerShell (Code)]]
+* *Code*
 
-***
+* [Development](../../MOCs/Development.md)
+
+* [Microsoft](../../MOCs/Microsoft.md)
+
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+
+* [PowerShell (MOC)](../../MOCs/PowerShell.md)
+
+* *PowerShell (Tools)*
+
+* [PowerShell (Code)](_README.md)
+
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Export SQL Server Table to CSV]] AND -"Changelog"
-```
+````
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
-***
+---

@@ -1,39 +1,28 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Browser Extensions"]
----
-
 # Browser Extensions Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Tools/Web Browsers/Browser Extensions/_README]]
-- [[Browser Extensions]]
-- [[Dark Reader]]
-- [[Keeper Password Manager]]
-- [[Markdownload]]
-- [[Momentum]]
-- [[OneTab]]
-- [[Raindrop.io]]
-- [[Tab Session Manager]]
-- [[Zotero Connector]]
+
+* *3-Resources/Tools/Web Browsers/Browser Extensions/_README*
+* [Browser Extensions](Browser%20Extensions.md)
+* [Dark Reader](Dark%20Reader.md)
+* [Keeper Password Manager](Keeper%20Password%20Manager.md)
+* [Markdownload](Markdownload.md)
+* [Momentum](Momentum.md)
+* [OneTab](OneTab.md)
+* [Raindrop.io](Raindrop.io.md)
+* [Tab Session Manager](Tab%20Session%20Manager.md)
+* [Zotero Connector](Zotero%20Connector.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Browser Extensions Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

@@ -1,22 +1,15 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Personal/Finance", "#Topic/Math", "#Topic/Actuarial"]
-Alias: "Interest Rate Theory"
----
-
 # Interest Rate Theory
 
-***
+---
 
 #### Related
 
-- [[Finance]]
-- [[Actuarial Science]]
-- [[Mathematics and Statistics]]
+* [Finance](../2-Areas/MOCs/Finance.md)
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
+* [Mathematics and Statistics](../2-Areas/MOCs/Mathematics%20and%20Statistics.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Interest Rate Theory]] AND -"Changelog"
-```
+````

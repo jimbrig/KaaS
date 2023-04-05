@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Toast Notification Example"]
----
-
 # PowerShell - Toast Notification Example
 
 *Source: https://gist.github.com/ac3e2e3a4005b65f61b6261919eb0672#file-toastnotification_windows10-ps1*
 
-```powershell
+````powershell
 $ErrorActionPreference = "Stop"
 
 $notificationTitle = "Notification: " + [DateTime]::Now.ToShortTimeString()
@@ -33,21 +26,21 @@ $toast.ExpirationTime = [DateTimeOffset]::Now.AddMinutes(5)
 
 $notifier = [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("PowerShell")
 $notifier.Show($toast);
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Toast Notification Example]] AND -"Changelog"
-```
+````

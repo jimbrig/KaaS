@@ -1,33 +1,27 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "WSL Initial Setup Notes"
----
-
 # WSL Initial Setup Notes
 
-1. [[How to create a passwordless sudoer on Linux|Passwordless sudoers]] & Remove required password for user to use `sudo`
-2. Update, Upgrade, Auto-Remove: `sudo apt -y update && sudo apt -y upgrade && sudo apt -y autoremove`
-3. Install some support packages:
-	- Git: 
-	- Make:
-	- Build-Essential:
-	- neovim (nvim):
-	- cowsay and neofetch
-	- train?
+1. [Passwordless sudoers](How%20to%20create%20a%20passwordless%20sudoer%20on%20Linux.md) & Remove required password for user to use `sudo`
+1. Update, Upgrade, Auto-Remove: `sudo apt -y update && sudo apt -y upgrade && sudo apt -y autoremove`
+1. Install some support packages:
+   * Git: 
+   * Make:
+   * Build-Essential:
+   * neovim (nvim):
+   * cowsay and neofetch
+   * train?
 
-```bash
+````bash
 sudo apt -y install build-essential gcc git-core cowsay tree neofetch dos2unix git-crypt 
-```
+````
 
-```bash
+````bash
 jimmy@USQ2BZYWHI:~$ dpkg --get-selections | grep -v deinstall | awk '{print $1}'
-```
+````
 
 <details><summary>View Output</summary><p>
 
-```bash
+
+````bash
 accountsservice
 adduser
 alsa-topology-conf
@@ -766,24 +760,20 @@ xxd
 xz-utils
 zerofree
 zlib1g:amd64
-```
+````
 
 </p></details>
 
-
-
 ### Setup and Configure Git, SSH, and GPG
-
-
 
 ### Zsh and oh-my-zsh
 
-```bash
+````bash
 
-```
+````
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[WSL Initial Setup Notes]] AND -"Changelog"
-```
+````

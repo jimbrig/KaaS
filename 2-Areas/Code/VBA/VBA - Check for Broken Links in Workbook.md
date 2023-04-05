@@ -1,16 +1,8 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Check for Broken Links in Workbook"]
----
-
 # VBA - Check for Broken Links in Workbook
 
 *Source: [Excel: How to find broken links and get them fixed - Ablebits.com](https://www.ablebits.com/office-addins-blog/2021/02/03/excel-find-fix-broken-links/)*
 
-
-```VBA
+````VBA
 Sub FindBrokenLinks()
     linksDataArray = ActiveWorkbook.LinkSources(xlExcelLinks)
     Dim reportHeaders() As String
@@ -98,29 +90,28 @@ Sub FindBrokenLinks()
     Application.ScreenUpdating = True
     Application.Calculation = xlCalculationAutomatic
 End Sub
-```
+````
 
-A list of invalid links is output in a new worksheet named _Broken Links report_. Column B has a hyperlink to the cell containing the link.
+A list of invalid links is output in a new worksheet named *Broken Links report*. Column B has a hyperlink to the cell containing the link.
 
 ![](https://i.imgur.com/k2WaJE6.png)
 
-
 You can [insert the code](https://www.ablebits.com/office-addins-blog/2013/12/06/add-run-vba-macro-excel/) in your own workbook or [download our sample file](https://www.ablebits.com/office-addins-blog/2021/02/03/excel-find-fix-broken-links/#_Available_downloads:) with the macro as well as the step-by-step instructions on how to use it.
 
-**Note.** This code only finds links to invalid workbooks (non-existent, moved or deleted), but not missing sheets. The reason is that the _LinkInfo_ method checks just the file name. An attempt to check a sheet name results in Error 2015.
+**Note.** This code only finds links to invalid workbooks (non-existent, moved or deleted), but not missing sheets. The reason is that the *LinkInfo* method checks just the file name. An attempt to check a sheet name results in Error 2015.
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Check for Broken Links in Workbook]] AND -"Changelog"
-```
+````

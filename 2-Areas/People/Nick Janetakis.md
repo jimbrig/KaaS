@@ -1,10 +1,3 @@
----
-Date: 2022-09-18
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Person"]
-Aliases: ["Nick Janetakis"]
----
-
 # Nick Janetakis
 
 ## Links
@@ -13,14 +6,14 @@ Aliases: ["Nick Janetakis"]
 
 ## Links
 
-***
+---
 
 *Backlinks*
 
-```dataview
+````dataview
 list from [[Nick Janetakis]] AND -"Changelog"
-```
+````
 
-***
+---
 
-Date: [[2022-09-18]]
+Date: [2022-09-18](../Daily-Notes/2022-09-18.md)

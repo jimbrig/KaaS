@@ -1,18 +1,12 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["How I Organize My Knowledge as a Software Engineer", "How I Organize My Knowledge as a Software Engineer"]
----
 # How I Organize My Knowledge as a Software Engineer
 
 ## Metadata
-- Author: [[Bruno Paz]]
-- Full Title: How I Organize My Knowledge as a Software Engineer
-- Category: #Type/Highlight/Article
-- URL: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
+
+* Author: *Bruno Paz*
+* Full Title: How I Organize My Knowledge as a Software Engineer
+* Category: #Type/Highlight/Article
+* URL: https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ## Highlights
-- One of the points I consider very important regarding knowledge management is to avoid lock-in in a particular platform. All the tools I use, allow to export your data in standard formats like Markdown and HTML.
+
+* One of the points I consider very important regarding knowledge management is to avoid lock-in in a particular platform. All the tools I use, allow to export your data in standard formats like Markdown and HTML.

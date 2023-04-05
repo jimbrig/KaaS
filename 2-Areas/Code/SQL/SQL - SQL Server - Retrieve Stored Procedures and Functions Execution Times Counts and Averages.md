@@ -1,18 +1,10 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages"]
----
-
 # SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages
 
 *Source: [Retrieve Stored Procedures and Functions Execution Time, Count, and Average | thiscodeWorks](https://www.thiscodeworks.com/61faf1cfb783be0015bbaf78)*
 
-
 *Note: time is in Micro-Seconds*
 
-```SQL
+````SQL
 /* STORED PROCEDURES AND FUNCTIONS EXECUTION TIME, COUNT AND AVERAGE */
  
 SELECT DB_NAME(st.dbid) DBName
@@ -27,21 +19,20 @@ FROM sys.dm_exec_cached_plans cp join sys.dm_exec_query_stats qs on cp.plan_hand
 where DB_NAME(st.dbid) is not null and cp.objtype = 'proc'
 group by DB_NAME(st.dbid),OBJECT_SCHEMA_NAME(objectid,st.dbid), OBJECT_NAME(objectid,st.dbid) 
 order by sum(qs.total_worker_time) desc;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]] AND -"Changelog"
-```
+````

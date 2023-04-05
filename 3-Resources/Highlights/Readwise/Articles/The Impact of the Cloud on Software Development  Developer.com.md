@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://www.developer.com/design/the-impact-of-the-cloud-on-software-development/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["The Impact of the Cloud on Software Development | Developer.com", "The Impact of the Cloud on Software Development | Developer.com"]
----
 # The Impact of the Cloud on Software Development | Developer.com
 
 ## Metadata
-- Author: [[Brad Jones]]
-- Full Title: The Impact of the Cloud on Software Development | Developer.com
-- Category: #Type/Highlight/Article
-- URL: https://www.developer.com/design/the-impact-of-the-cloud-on-software-development/
+
+* Author: *Brad Jones*
+* Full Title: The Impact of the Cloud on Software Development | Developer.com
+* Category: #Type/Highlight/Article
+* URL: https://www.developer.com/design/the-impact-of-the-cloud-on-software-development/
 
 ## Highlights
-- The following are just some of the areas that Cloud service providers offer to developers:
+
+* The following are just some of the areas that Cloud service providers offer to developers:
   Compute: Compute provides the ability to run applications and services on the Cloud provider’s systems. This gives developers computing power without the need to invest in their own servers.
   Container Support: Container Support includes the ability to host and run containers such as Docker.
   Content Delivery: Content delivery includes the ability to distribute content, including placing objects on the Cloud “edge.”

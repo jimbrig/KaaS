@@ -1,19 +1,11 @@
----
-Date: 2022-06-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "What is a Frontend Developer"
----
-
 # What is a Frontend Developer?
 
 *Source: [Front End Developer: Learn the 13 Skills You Need in 2022 - Skillcrush](https://skillcrush.com/blog/skills-to-become-a-front-end-developer/)*
 
-Backlink: [[Frontend Development]]
-See Also: [[Frontend Development Tools and Skills]]
+Backlink: [Frontend Development](../2-Areas/MOCs/Frontend%20Development.md)
+See Also: [Frontend Development Tools and Skills](Frontend%20Development%20Tools%20and%20Skills.md)
 
 ![](https://i.imgur.com/LSUUTzV.png)
-
 
 Front end web developers are software engineers who implement web designs through coding languages like HTML, CSS, and JavaScript. This is the person on your team who writes the code for a website’s navigation and layouts — a site looks different on your phone because a front end developer made it so (thanks to mobile-first or responsive design).
 
@@ -63,14 +55,12 @@ Because testing and bugging contribute in large part to a positive user experien
 
 Development is all about creative problem solving and getting your program to work — from figuring out how to best implement a design, to fixing bugs that crop up, to seamlessly connecting your front end code work with another software engineer’s back end code.
 
-For example: you’ve created a perfectly-functioning website front end and you hand it over to the back end developers to integrate it with a content management system (CMS). All of a sudden, half your awesome features stop working – what would you do? _No really, what would you do?!_
+For example: you’ve created a perfectly-functioning website front end and you hand it over to the back end developers to integrate it with a content management system (CMS). All of a sudden, half your awesome features stop working – what would you do? *No really, what would you do?!*
 
 A good front end developer will view this as a puzzle to be solved rather than an absolute disaster. Of course, an excellent, senior-level front end developer will anticipate these problems and try to prevent them in the first place!
 
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[What is a Frontend Developer]] AND -"Changelog"
-```
+````

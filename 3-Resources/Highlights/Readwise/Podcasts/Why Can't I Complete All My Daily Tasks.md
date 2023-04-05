@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Why Can't I Complete All My Daily Tasks?", "Why Can't I Complete All My Daily Tasks?"]
----
 # Why Can't I Complete All My Daily Tasks?
 
 ## Metadata
-- Author: [[The Working With... Podcast]]
-- Full Title: Why Can't I Complete All My Daily Tasks?
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Working With... Podcast*
+* Full Title: Why Can't I Complete All My Daily Tasks?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Do You Get All Your Work Done Every Day?
+
+* Do You Get All Your Work Done Every Day?
   Summary:
   This weeks question comes from lucy. Lucy asks, hi. I'm trying to get more organized, but no matter how hard i try, i can never get all my work done. Is it a problem with me or something i'm doing wrong? Can i ask if you get all your work done every day? No, no, i don't get all mywork done every day. There's just too much to do. But i do start the day with a list of objectives or outcomes i want from the day. And with those, i generally do get them done. On most days i will have around 20 to 25 tasks to complete. These tasks include my prioritized tasks
   Transcript:

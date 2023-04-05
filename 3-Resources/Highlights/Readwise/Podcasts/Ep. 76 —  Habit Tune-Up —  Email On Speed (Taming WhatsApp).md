@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)", "Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)"]
----
 # Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Is There a Strategic Plan For Small Projects?
+
+* Is There a Strategic Plan For Small Projects?
   Summary:
   Artless Thursday is a weekly, offbeat look at how the pod cast stays on track. This week we're talking about task archiving and using Trello to help you get ahead in your work life. We'll also be looking at some of the challenges that come with working from home.
   Transcript:

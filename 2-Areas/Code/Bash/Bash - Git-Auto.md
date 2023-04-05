@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Bash", "#Topic/Dev"]
-Alias: ["Bash - Git-Auto"]
----
-
 # Bash - Git-Auto
 
 *Source: https://gist.github.com/439f74475d36449cc02a1fd1e878e22f#file-git-auto*
 
-```bash
+````bash
 #!/usr/bin/env bash
 
 ## Usage:
@@ -84,17 +77,17 @@ else
     sleep "${interval}"
   done
 fi
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Bash - Git-Auto]] AND -"Changelog"
-```
+````

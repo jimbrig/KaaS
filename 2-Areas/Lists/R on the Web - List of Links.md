@@ -1,19 +1,10 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Dev/R"]
-Alias: R on the Web - List of Links
----
-
 # R on the Web - List of Links
 
 Useful links for people interested in R.
 
-------------------------------------------------------------------------
+---
 
-
-Online books
-----------
+## Online books
 
 First, many websites are listed and hosted on https://bookdown.org/home/archive/.
 
@@ -31,7 +22,6 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)**: Great resource for beginners, really starts from scratch.
 
-
 **-- Shiny --**
 
 **[Mastering Shiny](https://mastering-shiny.org)**: Hadley Wickham's secrets on how to build Shiny apps.
@@ -40,23 +30,17 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)**: An advanced book on Shiny's html/JavaScript capabilities - and how to customize the layout of Shiny apps.
 
-
-
 **-- Visualization --**
 
 **[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)**: An exhaustive book on visualization tools & tips.
 
 **[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
 
-
-
 **-- Machine Learning --**
 
 **[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
 
 **[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material on ML in R. 
-
-
 
 **-- Statistics --**
 
@@ -65,7 +49,6 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 **[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
 
 **[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)**: a great monograph on econometrics with lots of examples.
-
 
 **-- Finance --**
 
@@ -76,9 +59,6 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 **[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
 **[Tidy Portfolio Management in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/)**: Portfolio management with some packages in R (xts, PortfolioAnalytics, etc.).
-
-
-
 
 **-- Misc. --**
 
@@ -92,11 +72,7 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Twitter for scientists](https://www.t4scientists.com)**: a book for people who want to get better at using Twitter - not R specific.
 
-
-
-
-Curated lists of resources / packages
-----------
+## Curated lists of resources / packages
 
 **[Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#r-general-purpose)**: by Joseph Misiti
 
@@ -104,9 +80,7 @@ Curated lists of resources / packages
 
 **[List of cool packages II](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)**: by Garrett Grolemund (RStudio)
 
-
-Learning / Pedagogy
-----
+## Learning / Pedagogy
 
 Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[Intermediate](https://github.com/uc-r/Intermediate-R)** and **[Expert](https://github.com/uc-r/Advanced-R)**: great material for all levels!
 
@@ -132,12 +106,9 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 
 **[Kelly Bodwin's course on statistics with R](https://stat150.blog)**: more data science than pure stats in my opinion...
 
+---
 
-------------------------------------------------------------------------
-
-
-Machine learning
-----------
+## Machine learning
 
 **[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks. **[Homepage here](https://keras.rstudio.com)**
 
@@ -151,12 +122,9 @@ Machine learning
 
 **[Tidymodels](https://www.r-bloggers.com/tidymodels/)**: a meta package dedicated to: preparing data, assessing models, exporting results, etc. **[Reference here](https://github.com/tidymodels)**
 
+---
 
-------------------------------------------------------------------------
-
-
-Visualisation
-----------
+## Visualisation
 
 **[Maps with R I](http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html)**
 
@@ -166,9 +134,7 @@ Visualisation
 
 **[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion! Home repo [here](https://github.com/thomasp85/gganimate).
 
-
-Generative art
-----------
+## Generative art
 
 **[Generative Art with R (1)](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
 
@@ -186,12 +152,9 @@ Generative art
 
 **[aRt project](https://github.com/will-r-chase/aRt/blob/master/README.md)**: William Chase's monthly productions.
 
+---
 
-------------------------------------------------------------------------
-
-
-Text mining
-----------
+## Text mining
 
 **[Basic text mining in R](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)**: a smooth introduction.
 
@@ -199,12 +162,9 @@ Text mining
 
 **[Sentiment from news](https://github.com/aleszu/textanalysis-shiny/blob/master/README.md)**: nice flexible shiny app for sentiment in user-uploaded text.
 
+---
 
-------------------------------------------------------------------------
-
-
-Finance
-----------
+## Finance
 
 **[Reproducible finance](https://www.reproduciblefinance.com/)**: amazing resources for portfolio management.
 
@@ -212,12 +172,9 @@ Finance
 
 **[The derivmkts pacakge](https://github.com/rmcd1024/derivmkts)**: option pricing with R.
 
+---
 
-------------------------------------------------------------------------
-
-
-Miscellaneous
-----------
+## Miscellaneous
 
 **[R Weekly](https://www.rweekly.org/)**: frequent updates in the R community.
 
@@ -227,18 +184,17 @@ Miscellaneous
 
 **[reticulate](https://rstudio.github.io/reticulate/)**: combining Python & R.
 
-
 ## Appendix: Links
 
-- [[2-Areas/MOCs/R]]
-- [[R Shiny]]
-- [[R Package Development Resources List]]
-- [[Development]]
+* [2-Areas/MOCs/R](../MOCs/R.md)
+* [R Shiny](../MOCs/R%20Shiny.md)
+* [R Package Development Resources List](R%20Package%20Development%20Resources%20List.md)
+* [Development](../MOCs/Development.md)
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R on the Web - List of Links]] AND -"Changelog"
-```
+````

@@ -1,15 +1,8 @@
----
-Date: 2022-03-22
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Make All Open Files Read Only"]
----
-
 # VBA - Make All Open Files Read Only
 
-*Source: *
+\*Source: *
 
-```VBA
+````VBA
 Sub AllReadOnly()
 ' Changes every file to read only without the save dialog
 ' 2014-01-18
@@ -33,20 +26,20 @@ For i = 1 To Workbooks.Count
 aw.Activate
 
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Make All Open Files Read Only]] AND -"Changelog"
-```
+````

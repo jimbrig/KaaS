@@ -1,162 +1,168 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List"]
----
-
 # Actuarial Development Master Resource List
 
-> A curated list of free and open source actuarial software, various references, and code repositories related to actuarial workflows as a developer.
+ > 
+ > A curated list of free and open source actuarial software, various references, and code repositories related to actuarial workflows as a developer.
 
-See Also: [[Actuarial Science]]
+See Also: [Actuarial Science](../MOCs/Actuarial%20Science.md)
 
 *Sources:*
-- *[actuarialopensource/awesome-actuarial: An Awesome List of Actuarial Packages and Resources](https://github.com/actuarialopensource/awesome-actuarial)*
-- *[genedan/actuarial-foss: A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss)*
 
-***
+* *[actuarialopensource/awesome-actuarial: An Awesome List of Actuarial Packages and Resources](https://github.com/actuarialopensource/awesome-actuarial)*
+* *[genedan/actuarial-foss: A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss)*
+
+---
 
 ## Loss Modeling and Statistics
-- [actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R.
-- [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python.
-- [tweedie (Python)](https://github.com/thequackdaddy/tweedie) - Tweedie family density estimation in python.
-- [tweedie (R)](https://cran.r-project.org/web/packages/tweedie/index.html) - R library for the Tweedie distribution.
+
+* [actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R.
+* [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python.
+* [tweedie (Python)](https://github.com/thequackdaddy/tweedie) - Tweedie family density estimation in python.
+* [tweedie (R)](https://cran.r-project.org/web/packages/tweedie/index.html) - R library for the Tweedie distribution.
 
 ## Financial Mathematics
-- [TmVal](https://github.com/genedan/TmVal) - Time value of money, annuity, and bond valuations with Python.
-- [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator.
-- [Yields.jl](https://github.com/JuliaActuary/Yields.jl) - A simple interface for constructing, manipulating, and using yield curves for modeling purposes.
+
+* [TmVal](https://github.com/genedan/TmVal) - Time value of money, annuity, and bond valuations with Python.
+* [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator.
+* [Yields.jl](https://github.com/JuliaActuary/Yields.jl) - A simple interface for constructing, manipulating, and using yield curves for modeling purposes.
 
 ## Reserving
-- [chainladder-python](https://github.com/casact/chainladder-python) - Actuarial reserving in Python.
-- [ChainLadder](https://github.com/mages/chainladder) - Claims reserving models in R.
-- [deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving.
+
+* [chainladder-python](https://github.com/casact/chainladder-python) - Actuarial reserving in Python.
+* [ChainLadder](https://github.com/mages/chainladder) - Claims reserving models in R.
+* [deeptriangle](https://github.com/kasaai/deeptriangle) - DeepTriangle: A Deep Learning Approach to Loss Reserving.
 
 ## Pricing
-- [insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing.
+
+* [insurancerating](https://github.com/MHaringa/insurancerating) - R-package for actuarial pricing.
 
 ## Predictive Modeling
-- [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark.
-- [double_lift](https://github.com/casact/double_lift) - Double Lift Charts in Python.
+
+* [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark.
+* [double_lift](https://github.com/casact/double_lift) - Double Lift Charts in Python.
 
 ## Catastrophe Modeling
-- [OasisLMF](https://github.com/OasisLMF/OasisLMF) Oasis - an open source catastrophe modeling framework.
-- [OasisPlatform](https://github.com/OasisLMF/OasisPlatform) - Oasis loss modelling platform in Python.
-- [ktools](https://github.com/OasisLMF/ktools) - In-memory simulation kernel for loss modelling.
-- [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model.
+
+* [OasisLMF](https://github.com/OasisLMF/OasisLMF) Oasis - an open source catastrophe modeling framework.
+* [OasisPlatform](https://github.com/OasisLMF/OasisPlatform) - Oasis loss modelling platform in Python.
+* [ktools](https://github.com/OasisLMF/ktools) - In-memory simulation kernel for loss modelling.
+* [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model.
 
 ## Data Management
-- [OMG PCDM](https://www.omg.org/spec/PC/About-PC/) - the Object Management Group Property Casualy Data Model specification.
-- [PCDM](https://github.com/genedan/MIES) - Property Casualty Data Model Specification, a SQLAlchemy implementation based off OMG PCDM.
-- [RDOS](https://github.com/RMS-open-standards/RDOS) - RMS Risk Data Open Standard Schema.
+
+* [OMG PCDM](https://www.omg.org/spec/PC/About-PC/) - the Object Management Group Property Casualy Data Model specification.
+* [PCDM](https://github.com/genedan/MIES) - Property Casualty Data Model Specification, a SQLAlchemy implementation based off OMG PCDM.
+* [RDOS](https://github.com/RMS-open-standards/RDOS) - RMS Risk Data Open Standard Schema.
 
 ## Data Manipulation
-- [modelx](https://github.com/fumitoh/modelx) - Use Python like a spreadsheet!
+
+* [modelx](https://github.com/fumitoh/modelx) - Use Python like a spreadsheet!
 
 ## Life Insurance
-- [lifelib](https://github.com/fumitoh/lifelib) - Actuarial models in Python.
-- [pyliferisk](https://github.com/franciscogarate/pyliferisk) - A python library for life actuarial calculations.
-- [lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies.
-- [demography](https://github.com/robjhyndman/demography) - demography package for R.
-- [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) - Life Actuarial Maths in Julia.
-- [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) - bundled, efficient mortality and other rate tables and related functions.
-- [elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students.
-- [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language.
+
+* [lifelib](https://github.com/fumitoh/lifelib) - Actuarial models in Python.
+* [pyliferisk](https://github.com/franciscogarate/pyliferisk) - A python library for life actuarial calculations.
+* [lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies.
+* [demography](https://github.com/robjhyndman/demography) - demography package for R.
+* [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) - Life Actuarial Maths in Julia.
+* [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) - bundled, efficient mortality and other rate tables and related functions.
+* [elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students.
+* [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language.
 
 ## General
-- [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
-- [Loss Data Analytics](https://ewfrees.github.io/Loss-Data-Analytics/index.html) - An open text authored by the Actuarial community
+
+* [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
+* [Loss Data Analytics](https://ewfrees.github.io/Loss-Data-Analytics/index.html) - An open text authored by the Actuarial community
 
 ## Documentation
-- [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
+
+* [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
 
 ## Data Sets
 
-- [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public.
-- [NOAA](https://www.ncdc.noaa.gov/) - National Oceanic and Atmospheric Administration.
-- [NHTSA](https://www.nhtsa.gov/research-data/databases-and-software) - National Highway Traffic Safety Administration.
-- [raw_package](https://github.com/casact/raw_package) - Data package for R actuarial workshops.
-- [cellar](https://github.com/kasaai/cellar) - Data with terroir.
+* [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public.
+* [NOAA](https://www.ncdc.noaa.gov/) - National Oceanic and Atmospheric Administration.
+* [NHTSA](https://www.nhtsa.gov/research-data/databases-and-software) - National Highway Traffic Safety Administration.
+* [raw_package](https://github.com/casact/raw_package) - Data package for R actuarial workshops.
+* [cellar](https://github.com/kasaai/cellar) - Data with terroir.
 
 ## Communities
 
-- [Casualty Actuarial Society](https://github.com/casact) - The CAS GitHub page.
-- [Kasa AI](https://github.com/kasaai/) - A ML focused group.
-- [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
-- [Aposin](https://github.com/aposin) - Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry.
-- [openIMIS](https://github.com/openimis) - An open source insurance management information system (health).
-- [JuliaActuary](https://juliaactuary.org/) - A combination of flexible actuarial packages designed to work well together.
+* [Casualty Actuarial Society](https://github.com/casact) - The CAS GitHub page.
+* [Kasa AI](https://github.com/kasaai/) - A ML focused group.
+* [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
+* [Aposin](https://github.com/aposin) - Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry.
+* [openIMIS](https://github.com/openimis) - An open source insurance management information system (health).
+* [JuliaActuary](https://juliaactuary.org/) - A combination of flexible actuarial packages designed to work well together.
 
-***
+---
 
 ## Life Related Libraries and Packages
 
-| Package           | Language | Description         |
-| -- | -- | -- |
-| [pyliferisk](https://github.com/franciscogarate/pyliferisk)        | Python | Life Actuarial Maths |
-| [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
-| [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
-| [heavymodel](https://github.com/lewisfogden/heavymodel) | Python | Cashflow Modelling Framework |
-| [lifelib](https://github.com/fumitoh/lifelib)        | Python | Life Projection Models |
+|Package|Language|Description|
+|-------|--------|-----------|
+|[pyliferisk](https://github.com/franciscogarate/pyliferisk)|Python|Life Actuarial Maths|
+|[LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl)|Julia|Life Actuarial Maths|
+|[MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl)|Julia|Mortality and rate tables made easy|
+|[heavymodel](https://github.com/lewisfogden/heavymodel)|Python|Cashflow Modelling Framework|
+|[lifelib](https://github.com/fumitoh/lifelib)|Python|Life Projection Models|
 
 ### Experience Analysis
 
-| Package           | Language | Description         |
-| -- | -- | -- |
-| [expstudies](https://github.com/MatthewCaseres/expstudies)        | R | Exposure-related utility functions |
-| [ExperienceAnalysis.jl](https://github.com/JuliaActuary/ExperienceAnalysis.jl) | Julia  | Exposure-related utility functions |
-
+|Package|Language|Description|
+|-------|--------|-----------|
+|[expstudies](https://github.com/MatthewCaseres/expstudies)|R|Exposure-related utility functions|
+|[ExperienceAnalysis.jl](https://github.com/JuliaActuary/ExperienceAnalysis.jl)|Julia|Exposure-related utility functions|
 
 ## P&C Related Libraries and Packages
 
-| Package           | Language | Description         |
-| -- | -- | -- |
-| [ChainLadder](https://github.com/mages/ChainLadder) | R  | Claims Reserving |
-| [chainladder](https://github.com/casact/chainladder-python) | Python  | Claims Reserving |
-| [aggregate](https://github.com/mynl/aggregate) | Python  | Aggregate Distributions |
-| [PCDM](https://github.com/casact/PCDM) | Python | Property Casualty Data Model |
+|Package|Language|Description|
+|-------|--------|-----------|
+|[ChainLadder](https://github.com/mages/ChainLadder)|R|Claims Reserving|
+|[chainladder](https://github.com/casact/chainladder-python)|Python|Claims Reserving|
+|[aggregate](https://github.com/mynl/aggregate)|Python|Aggregate Distributions|
+|[PCDM](https://github.com/casact/PCDM)|Python|Property Casualty Data Model|
 
 ## Other Libraries and Packages
 
-| Package           | Language | Description         |
-| -- | -- | -- |
-| [Yields.jl](https://github.com/JuliaActuary/Yields.jl) | Julia  | Term structure yield manipulation and discounting |
-| [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) | Julia  | Financial maths and other utility functions |
+|Package|Language|Description|
+|-------|--------|-----------|
+|[Yields.jl](https://github.com/JuliaActuary/Yields.jl)|Julia|Term structure yield manipulation and discounting|
+|[ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl)|Julia|Financial maths and other utility functions|
 
 ## Full-Fledged Modeling Packages
 
-| Package           | Language | Description         |
-| -- | -- | -- |
-| [modelx](https://github.com/fumitoh/modelx)        | Python | Numerical Modeling Tool |
+|Package|Language|Description|
+|-------|--------|-----------|
+|[modelx](https://github.com/fumitoh/modelx)|Python|Numerical Modeling Tool|
 
 ## Open-Source Actuarial Organizations/Websites
 
-| Website           | Description         |
-| -- | -- |
-| [Actuarial Open Source](http://wurch.com.br/)  | Promoting and collaborating on open source actuarial topics |
-| [JuliaActuary](https://JuliaActuary.org/)  | Packages, tutorials, and resources for actuarial work in Julia |
+|Website|Description|
+|-------|-----------|
+|[Actuarial Open Source](http://wurch.com.br/)|Promoting and collaborating on open source actuarial topics|
+|[JuliaActuary](https://JuliaActuary.org/)|Packages, tutorials, and resources for actuarial work in Julia|
 
-***
+---
 
 ## Resources
 
-- [[Simulating Actuarial Claims Data with R]]
+* [Simulating Actuarial Claims Data with R](../../0-Slipbox/Simulating%20Actuarial%20Claims%20Data%20with%20R.md)
 
 ### Organizations
 
-- [[CAS - Casualty Actuarial Society|Casualty Actuarial Society]]
-- [[KasaAI GitHub Organization]]
+* [Casualty Actuarial Society](../../0-Slipbox/CAS%20-%20Casualty%20Actuarial%20Society.md)
+* [KasaAI GitHub Organization](../../0-Slipbox/KasaAI%20GitHub%20Organization.md)
 
 ### R Packages
 
-- [[R Package - actuar]]
-- [[R Package - ChainLadder]]
-- [[R Package - insurancerating]]
-- [[R Package - conjuror]]
+* [R Package - actuar](../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20actuar.md)
+* [R Package - ChainLadder](../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20ChainLadder.md)
+* [R Package - insurancerating](../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20insurancerating.md)
+* [R Package - conjuror](../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20conjuror.md)
 
 ### Other
 
-- [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
+* [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
 
 ## Full List
 
@@ -247,8 +253,7 @@ See Also: [[Actuarial Science]]
 * [veeranalytics/ReservingAutoInsuranceProducts: Reserving Model for Auto Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingAutoInsuranceProducts)
 * [veeranalytics/ReservingLifeInsurance: Reserving Model for Life Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingLifeInsurance)
 
-
-***
+---
 
 ## Links
 
@@ -338,12 +343,13 @@ See Also: [[Actuarial Science]]
 * [seanhardison1/vcrshiny: A shiny app for visualizing research data from the Virginia Coast Reserve LTER](https://github.com/seanhardison1/vcrshiny)
 * [veeranalytics/ReservingAutoInsuranceProducts: Reserving Model for Auto Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingAutoInsuranceProducts)
 * [veeranalytics/ReservingLifeInsurance: Reserving Model for Life Insurance Products. Details and Code will be uploaded soon.](https://github.com/veeranalytics/ReservingLifeInsurance)
-- [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
 
-***
+* [anhdanggit/insurance-econometrics](https://github.com/anhdanggit/insurance-econometrics): Estimate the frequency and severity of claims to compute prior and posterior premiums. The GLM method is used with Poisson, Negative Binomial, Gamma, and Log-Norm Distribution.
+
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Actuarial Development Master Resource List]] AND -"Changelog"
-```
+````

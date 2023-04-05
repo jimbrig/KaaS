@@ -1,16 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL Script - Installation for DBA MultiTool"]
----
-
 # SQL Script - Installation for DBA MultiTool
 
 *Source: [https://github.com/LowlyDBA/dba-multitool/blob/master/install_dba-multitool.sql](https://github.com/LowlyDBA/dba-multitool/blob/master/install_dba-multitool.sql)*
 
-
-```SQL
+````SQL
 SET NOCOUNT ON;
 SET ANSI_NULLS ON;
 GO
@@ -5003,20 +4995,20 @@ GO
 
 EXEC sys.sp_addextendedproperty @name=N'@IsExpress', @value=N'Used for unit testing purposes only.' , @level0type=N'SCHEMA',@level0name=N'dbo', @level1type=N'PROCEDURE',@level1name=N'sp_sizeoptimiser';
 GO
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL Script - Installation for DBA MultiTool]] AND -"Changelog"
-```
+````

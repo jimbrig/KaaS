@@ -1,25 +1,19 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://kalimu.github.io/shinyEventLogger/index.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Logging Events in Shiny Apps • shinyEventLogger", "Logging Events in Shiny Apps • shinyEventLogger"]
----
 # Logging Events in Shiny Apps • shinyEventLogger
 
 ## Metadata
-- Author: 
-- Full Title: Logging Events in Shiny Apps • shinyEventLogger
-- Category: #Type/Highlight/Article
-- URL: https://kalimu.github.io/shinyEventLogger/index.html
+
+* Author: 
+* Full Title: Logging Events in Shiny Apps • shinyEventLogger
+* Category: #Type/Highlight/Article
+* URL: https://kalimu.github.io/shinyEventLogger/index.html
 
 ## Highlights
-- Simple app logging different events to R console, browser JavaScript console and to a file.
+
+* Simple app logging different events to R console, browser JavaScript console and to a file.
   shinyEventLogger::run_demo()
-- Dashboard that allows for interactive analysis of events from demo app.
+* Dashboard that allows for interactive analysis of events from demo app.
   shinyEventLogger::run_demo_dashboard()
-- library(shiny)
+* library(shiny)
   library(shinyEventLogger)
   set_logging()
   shinyApp(
@@ -29,4 +23,4 @@ Aliases: ["Logging Events in Shiny Apps • shinyEventLogger", "Logging Events i
   log_event("Hello World")
   }
   )
-- For other logging packages see: https://github.com/daroczig/logger
+* For other logging packages see: https://github.com/daroczig/logger

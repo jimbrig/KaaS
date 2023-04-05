@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Retrieve Who is Doing What"]
----
-
 # SQL - Retrieve Who is Doing What
 
 *Source: [Retrieve Who is Doing What | thiscodeWorks](https://www.thiscodeworks.com/61faf2bfb783be0015bbaf80)*
 
-```SQL
+````SQL
 -- to understand who is doing what, alternative view/representation
 SELECT
 	CAST((SELECT qt.text FROM sys.dm_exec_sql_text(qs.sql_handle) AS qt FOR XML PATH('')) as xml) as query_text,
@@ -36,21 +29,20 @@ WHERE 	qs.session_id <> @@SPID
 	and qs.command not in ('RESOURCE MONITOR', 'XE TIMER', 'XE DISPATCHER', 'LOG WRITER', 'LOCK MONITOR', 'TASK MANAGER', 'TASK MANAGER', 'CHECKPOINT', 'BRKR TASK', 'LAZY WRITER', 'SIGNAL HANDLER', 'TRACE QUEUE TASK', 'BRKR EVENT HNDLR', 'GHOST CLEANUP', 'RECOVERY WRITER', 'SYSTEM_HEALTH_MONITOR', 'RECEIVE', 'UNKNOWN TOKEN', 'FT FULL PASS', 'FT CRAWL MON')
 	and isnull(s.program_name, '') <> 'SQL diagnostic manager Collection Service'
 ORDER BY ExecutionTime_Minutes DESC;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Retrieve Who is Doing What]] AND -"Changelog"
-```
+````

@@ -1,31 +1,22 @@
----
-Date: 2022-03-08
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Enterprise Data Management"
----
-
 # Enterprise Data Management
 
 *Source: [What is enterprise data management? | Stitch resource (stitchdata.com)](https://www.stitchdata.com/resources/enterprise-data-management/)*
 
 ## Contents
 
-- [[#What is Enterprise Data Management?|What is Enterprise Data Management?]]
-- [[#Enterprise Data Comes in All Shapes and Sizes|Enterprise Data Comes in All Shapes and Sizes]]
-- [[#The Pillars of EDM|The Pillars of EDM]]
-- [[#What’s your EDM strategy?|What’s your EDM strategy?]]
-- [[#ETL: an important part of the process|ETL: an important part of the process]]
-
+* [What is Enterprise Data Management?](Enterprise%20Data%20Management.md#what-is-enterprise-data-management)
+* [Enterprise Data Comes in All Shapes and Sizes](Enterprise%20Data%20Management.md#enterprise-data-comes-in-all-shapes-and-sizes)
+* [The Pillars of EDM](Enterprise%20Data%20Management.md#the-pillars-of-edm)
+* [What’s your EDM strategy?](Enterprise%20Data%20Management.md#what-s-your-edm-strategy)
+* [ETL: an important part of the process](Enterprise%20Data%20Management.md#etl-an-important-part-of-the-process)
 
 ## What is Enterprise Data Management?
 
-```ad-tldr
+````ad-tldr
 
 **Enterprise data management** (EDM) refers to a set of processes, practices, and activities focused on data accuracy, quality, security, availability, and good governance.
 
-```
-
+````
 
 Organizations today struggle to *adopt, integrate, and manage* the enterprise data that moves through their systems. 
 
@@ -45,13 +36,13 @@ This includes structured data, such as records in spreadsheets and relational da
 
 Some examples include:
 
-- Operational data, such as customer orders and transaction records, billing and accounting systems, or internal labor statistics
+* Operational data, such as customer orders and transaction records, billing and accounting systems, or internal labor statistics
 
-- Network alerts and logs used in managing IT infrastructure, by cyber-security teams, or by application developers
+* Network alerts and logs used in managing IT infrastructure, by cyber-security teams, or by application developers
 
-- Strategic data from customer relationship management (CRM) systems, sales reporting, trend and opportunity analyses, or external sources of market data
+* Strategic data from customer relationship management (CRM) systems, sales reporting, trend and opportunity analyses, or external sources of market data
 
-- Application-specific data, including GPS data for logistics or transportation companies, sensor data for [[IoT]] businesses, weather data for news organizations, or web content for social media applications.
+* Application-specific data, including GPS data for logistics or transportation companies, sensor data for *IoT* businesses, weather data for news organizations, or web content for social media applications.
 
 ## The Pillars of EDM
 
@@ -61,10 +52,10 @@ High-level, interrelated components of EDM present challenges and opportunities,
 
 The flow of data relies on end-to-end management across ingestion, storage, transformation, reporting, and analytics layers. How an organization designs its EDM strategy depends on its particular needs, but as discussed in our [data strategy guide](https://www.stitchdata.com/resources/setting-your-data-strategy/), the answers to **four key questions must guide any EDM strategy**:
 
--   **How do we collect the data we need to analyze?** Businesses generate massive amounts of data, and selecting the most relevant subset for analytics or [business intelligence](https://www.stitchdata.com/resources/glossary/business-intelligence-bi/) can be daunting. A modern ETL tool can ingest raw, rich data and send it to a data warehouse at minimal cost.
--   **How should we consolidate our disparate data sources?** A [data pipeline](https://www.stitchdata.com/blog/what-can-you-use-data-pipeline-for/) refers to the technology and processes an organization employs to extract data from all of the various systems from which it originates and make it ready for analysis. A business should consider its particular needs and choose a data pipeline accordingly.
--   **What technology should we use to store and analyze our data?** A [data warehouse](https://www.stitchdata.com/resources/data-warehouse/) is usually the most appropriate and performant solution.
--   **How should we facilitate data exploration?** In a typical data exploration process, an analyst is asked a broad question about the business and needs to come up with theories that can be tested against the data. The analyst may use statistical programming, data visualization, or [business intelligence tools](https://www.stitchdata.com/resources/business-intelligence-tools/) to derive real value from the data.
+* **How do we collect the data we need to analyze?** Businesses generate massive amounts of data, and selecting the most relevant subset for analytics or [business intelligence](https://www.stitchdata.com/resources/glossary/business-intelligence-bi/) can be daunting. A modern ETL tool can ingest raw, rich data and send it to a data warehouse at minimal cost.
+* **How should we consolidate our disparate data sources?** A [data pipeline](https://www.stitchdata.com/blog/what-can-you-use-data-pipeline-for/) refers to the technology and processes an organization employs to extract data from all of the various systems from which it originates and make it ready for analysis. A business should consider its particular needs and choose a data pipeline accordingly.
+* **What technology should we use to store and analyze our data?** A [data warehouse](https://www.stitchdata.com/resources/data-warehouse/) is usually the most appropriate and performant solution.
+* **How should we facilitate data exploration?** In a typical data exploration process, an analyst is asked a broad question about the business and needs to come up with theories that can be tested against the data. The analyst may use statistical programming, data visualization, or [business intelligence tools](https://www.stitchdata.com/resources/business-intelligence-tools/) to derive real value from the data.
 
 ## ETL: an important part of the process
 

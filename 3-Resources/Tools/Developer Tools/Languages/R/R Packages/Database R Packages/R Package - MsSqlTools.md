@@ -1,10 +1,3 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
-Alias: ["R Package - MsSqlTools", "R Package - MsSqlTools"]
----
-
 # R Package - MsSqlTools
 
 *Source: [nathan-palmer/MsSqlTools: An R package that contains convenience functions for establishing ODBC connections to Microsoft SQL Server using either Microsoft's ODBC Driver 17 for SQL Server or the FreeTDS driver. (github.com)](https://github.com/nathan-palmer/MsSqlTools)*
@@ -15,8 +8,8 @@ An R package that contains convenience functions for establishing ODBC connectio
 
 ## Usage
 
-- See [connectMsSql.R](https://github.com/nathan-palmer/MsSqlTools/blob/master/R/connectMsSql.R):
-        
+* See [connectMsSql.R](https://github.com/nathan-palmer/MsSqlTools/blob/master/R/connectMsSql.R):
+
 ````R
 #' Connects an R session to a running instance of Microsoft SQL Server 
 #' using SQL Server login credentials over ODBC.
@@ -165,28 +158,25 @@ connectMsSqlStandaloneLogin <- function(server,
     return(cn)
 }
 ````
-          
 
 </p></details>
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - MsSqlTools.md
-- [[R]]
-- [[R Database Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MsSqlTools.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - MsSqlTools.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *R Database Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R - Database Packages List](../../../../../../../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - MsSqlTools.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - MsSqlTools]] AND -"Changelog"
-```
+````

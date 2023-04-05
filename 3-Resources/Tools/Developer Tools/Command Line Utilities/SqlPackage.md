@@ -1,24 +1,15 @@
----
-Date: 2022-11-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["SqlPackage"]
----
-
 # SqlPackage
 
-*Source: *
+\*Source: *
 
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/_README|Tools]]
+* *Tools*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SqlPackage]] AND -"Changelog"
-```
+````

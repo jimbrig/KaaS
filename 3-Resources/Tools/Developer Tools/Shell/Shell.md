@@ -1,37 +1,26 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Shell"]
----
-
 # Shell Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Tools/Developer Tools/Shell/_README]]
-- [[Bash]]
-- [[Microsoft DOS]]
-- [[Nerdfont]]
-- [[oh-my-zsh]]
-- [[powerlevel10k]]
-- [[Shell]]
-- [[zsh]]
+
+* *3-Resources/Tools/Developer Tools/Shell/_README*
+* [Bash](../../../../2-Areas/Code/Bash/Bash.md)
+* [Microsoft DOS](Microsoft%20DOS.md)
+* [Nerdfont](Nerdfont.md)
+* [oh-my-zsh](oh-my-zsh.md)
+* [powerlevel10k](powerlevel10k.md)
+* [Shell](Shell.md)
+* [zsh](zsh.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Shell Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

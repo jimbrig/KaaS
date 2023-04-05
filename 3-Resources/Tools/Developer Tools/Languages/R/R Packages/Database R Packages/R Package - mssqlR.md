@@ -1,27 +1,19 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
-Alias: ["R Package - mssqlR", "R Package - mssqlR"]
----
-
 # R Package - mssqlR
 
 *Source: [abhisheksinha08/mssqlR: Use mssqlR to query data from MS SQL Server. Based on the concept on Entity Framework, the package allows querying data from MS SQL Server Database. (github.com)](https://github.com/abhisheksinha08/mssqlR)*
 
 ## Contents
 
-- [[#Functions|Functions]]
-	- [[#`connect_db`|`connect_db`]]
-	- [[#`connect_entity_gen`|`connect_entity_gen`]]
-	- [[#`exec`|`exec`]]
-	- [[#`from`|`from`]]
-	- [[#`orderby`|`orderby`]]
-	- [[#`select`|`select`]]
-	- [[#`trim`|`trim`]]
-	- [[#`where`|`where`]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Functions](R%20Package%20-%20mssqlR.md#functions)
+  * \[\[\#`connect_db`\|`connect_db`\]\]
+  * \[\[\#`connect_entity_gen`\|`connect_entity_gen`\]\]
+  * \[\[\#`exec`\|`exec`\]\]
+  * \[\[\#`from`\|`from`\]\]
+  * \[\[\#`orderby`\|`orderby`\]\]
+  * \[\[\#`select`\|`select`\]\]
+  * \[\[\#`trim`\|`trim`\]\]
+  * \[\[\#`where`\|`where`\]\]
+* [Appendix: Links](R%20Package%20-%20mssqlR.md#appendix-links)
 
 ## Overview
 
@@ -31,7 +23,7 @@ Use `mssqlR` to query data from MS SQL Server. Based on the concept on Entity Fr
 
 ### `connect_db`
 
-```R
+````R
 #' Connect Function
 #'
 #' This function allows you to connect to a MS SqlServer Database
@@ -55,11 +47,11 @@ connect_db <- function(server, db, uid, pwd){
   )
   return(dbhandle)
 }
-```
+````
 
 ### `connect_entity_gen`
 
-```R
+````R
 #' Connect to Database Server and Generate Entity Details Function
 #'
 #' This function connects to database and creates entity details
@@ -170,11 +162,11 @@ connect_entity_gen <- function(server, db, uid, pwd){
 
   return(dbDetails)
 }
-```
+````
 
 ### `exec`
 
-```R
+````R
 #' Executes the query
 #'
 #' This function executes the query
@@ -200,11 +192,11 @@ exec <- function(query, dbHandle){
   }
   )
 }
-```
+````
 
 ### `from`
 
-```R
+````R
 #' Generates from part for the query
 #'
 #' This function creates a from part for the query
@@ -238,11 +230,11 @@ from <- function(query=NULL, data){
     }
   }
 }
-```
+````
 
 ### `orderby`
 
-```R
+````R
 #' Generates order by part of a query
 #'
 #' This function generates "order by" part of a query
@@ -287,11 +279,11 @@ orderby <- function(query=NULL,  ...){
 
   return(trim(paste(query, order_by_clause, sep = " ")));
 }
-```
+````
 
 ### `select`
 
-```R
+````R
 #' Generates Select part fo the query
 #'
 #' This function creates "Select" part fo the query
@@ -384,11 +376,11 @@ select <- function(query=NULL, ..., top=NULL, distinct=NULL){
   return(trim(paste("Select",paste(...,sep = ","), query, sep = " ")))
 
 }
-```
+````
 
 ### `trim`
 
-```R
+````R
 #' Trims leading and trailing whitespaces
 #'
 #' This function trims leading and trailing whitespaces
@@ -400,11 +392,11 @@ select <- function(query=NULL, ..., top=NULL, distinct=NULL){
 #' df <- trim(" text containing leading and trailing whitespaces. ")
 #' #text containing leading and trailing whitespaces.
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
-```
+````
 
 ### `where`
 
-```R
+````R
 #' Generates where part of a query
 #'
 #' This function generates "where" part of a query
@@ -461,25 +453,24 @@ where <- function(query=NULL,  ...){
 
   return(trim(paste(query, where_clause, sep = " ")));
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - mssqlR.md
-- [[R]]
-- [[R Database Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mssqlR.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - mssqlR.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *R Database Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R - Database Packages List](../../../../../../../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - mssqlR.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - mssqlR]] AND -"Changelog"
-```
+````

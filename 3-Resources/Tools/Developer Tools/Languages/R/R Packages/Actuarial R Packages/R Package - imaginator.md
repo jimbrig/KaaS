@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Actuarial"]
-Alias: ["R Package - imaginator", "imaginator"] 
----
-
 # R Package - imaginator
 
 *Source: [casact/imaginator: Randomly simulate inception and settlement of general insurance losses](https://github.com/casact/imaginator)*
@@ -13,21 +6,21 @@ This is a package which will simulate a set of individual claims with random occ
 
 Future developments may include multiple payments per claim, simulated case reserves.
 
-***
+---
 
 #### Related
 
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - imaginator.md
-- [[R]]
-=======
-- [[2-Areas/MOCs/R]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - imaginator.md
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Actuarial R Packages/R Package - imaginator.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Actuarial R Packages/R Package - imaginator.md
+* [Actuarial Science](../../../../../../../2-Areas/MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](../../../../../../../0-Slipbox/CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - imaginator]] AND -"Changelog"
-```
+````

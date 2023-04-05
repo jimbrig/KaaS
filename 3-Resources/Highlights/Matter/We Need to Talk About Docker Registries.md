@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://hosting.analythium.io/we-need-to-talk-about-docker-registries/](https://hosting.analythium.io/we-need-to-talk-about-docker-registries/)
-* Author: [[Peter Solymos]]
-* Publisher: [[hosting.analythium.io]]
+* Author: *Peter Solymos*
+* Publisher: *hosting.analythium.io*
 * Published Date: 2022-07-22
 
 ## Highlights
+
 * A Docker registry stores Docker images, this is where we push images to and pull images from.
 * If you want a registry hosted on your machine, just pull the registry image.
 * If you want your own registry to be accessed over a network, then you need to think about security and access control.

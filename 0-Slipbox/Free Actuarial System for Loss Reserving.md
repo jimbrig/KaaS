@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Actuarial", "#Topic/Dev"]
-Alias: ["Free Actuarial System for Loss Reserving", "FASLR"]
----
-
 # Free Actuarial System for Loss Reserving - FASLR
 
 *Source: [casact/FASLR: Free Actuarial System for Loss Reserving](https://github.com/casact/FASLR)*
@@ -51,17 +44,17 @@ To learn more about the current structure of the repository, read [ARCHITECTURE.
 
 Due to the dominance of Windows in most modern-day actuarial departments, FASLR is intended to be supported on Windows. However, most of the current development is being done on Linux, which is also intended to be supported in order to keep the project fully open source.
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[2-Areas/MOCs/Python]]
-- [[Actuarial Science]]
-- [[CAS - Casualty Actuarial Society]]
+* [Development](../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/Python](../2-Areas/MOCs/Python.md)
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
+* [CAS - Casualty Actuarial Society](CAS%20-%20Casualty%20Actuarial%20Society.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Free Actuarial System for Loss Reserving]] AND -"Changelog"
-```
+````

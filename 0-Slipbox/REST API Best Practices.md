@@ -1,34 +1,26 @@
----
-Date: 2021-10-27
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: [ "#Type/Slipbox/Dev", "#Topic/Dev/WebDev/API" ]
-Alias: "REST APIs"
----
-
 # REST APIs
 
 ## Contents
 
-- [[#REST API Quick Tips|REST API Quick Tips]]
-- [[#Use HTTP Verbs to Make Your Requests Mean Something|Use HTTP Verbs to Make Your Requests Mean Something]]
-	- [[#Note|Note]]
-- [[#Provide Sensible Resource Names|Provide Sensible Resource Names]]
-- [[#Use HTTP Response Codes to Indicate Status|Use HTTP Response Codes to Indicate Status]]
-- [[#Offer Both JSON and XML|Offer Both JSON and XML]]
-- [[#Create Fine-Grained Resources|Create Fine-Grained Resources]]
-- [[#Consider Connectedness|Consider Connectedness]]
-
+* [REST API Quick Tips](REST%20API%20Best%20Practices.md#rest-api-quick-tips)
+* [Use HTTP Verbs to Make Your Requests Mean Something](REST%20API%20Best%20Practices.md#use-http-verbs-to-make-your-requests-mean-something)
+  * [Note](REST%20API%20Best%20Practices.md#note)
+* [Provide Sensible Resource Names](REST%20API%20Best%20Practices.md#provide-sensible-resource-names)
+* [Use HTTP Response Codes to Indicate Status](REST%20API%20Best%20Practices.md#use-http-response-codes-to-indicate-status)
+* [Offer Both JSON and XML](REST%20API%20Best%20Practices.md#offer-both-json-and-xml)
+* [Create Fine-Grained Resources](REST%20API%20Best%20Practices.md#create-fine-grained-resources)
+* [Consider Connectedness](REST%20API%20Best%20Practices.md#consider-connectedness)
 
 The REST architectural style describes six constraints. These constraints, applied to the architecture, were originally communicated by Roy Fielding in his doctoral dissertation (see [https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)) and defines the basis of RESTful-style.
 
 **The six constraints are: (click the constraint to read more)**
 
--   [Uniform Interface](https://www.restapitutorial.com/lessons/whatisrest.html#)
--   [Stateless](https://www.restapitutorial.com/lessons/whatisrest.html#)
--   [Cacheable](https://www.restapitutorial.com/lessons/whatisrest.html#)
--   [Client-Server](https://www.restapitutorial.com/lessons/whatisrest.html#)
--   [Layered System](https://www.restapitutorial.com/lessons/whatisrest.html#)
--   [Code on Demand (optional)](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Uniform Interface](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Stateless](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Cacheable](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Client-Server](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Layered System](https://www.restapitutorial.com/lessons/whatisrest.html#)
+* [Code on Demand (optional)](https://www.restapitutorial.com/lessons/whatisrest.html#)
 
 ## REST API Quick Tips
 
@@ -40,10 +32,10 @@ API consumers are capable of sending `GET`, `POST`, `PUT`, and `DELETE` verbs, w
 
 Generally, the four primary HTTP verbs are used as follows:
 
-- `GET`: Read a specific resource (by an identifier) or a collection of resources.
-- `PUT`: Update a specific resource (by an identifier) or a collection of resources. Can also be used to create a specific resource if the resource identifier is known before-hand.
-- `DELETE`: Remove/delete a specific resource by an identifier.
-- `POST`: Create a new resource. Also a catch-all verb for operations that don't fit into the other categories.
+* `GET`: Read a specific resource (by an identifier) or a collection of resources.
+* `PUT`: Update a specific resource (by an identifier) or a collection of resources. Can also be used to create a specific resource if the resource identifier is known before-hand.
+* `DELETE`: Remove/delete a specific resource by an identifier.
+* `POST`: Create a new resource. Also a catch-all verb for operations that don't fit into the other categories.
 
 ### Note
 
@@ -57,18 +49,18 @@ Appropriate resource names provide context for a service request, increasing und
 
 Here are some quick-hit rules for URL path (resource name) design:
 
--   Use identifiers in your URLs instead of in the query-string. Using URL query-string parameters is fantastic for filtering, but not for resource names.
-    -   **Good:** `/users/12345`
-    -   **Poor:** `/api?type=user&id=23`
--   Leverage the hierarchical nature of the URL to imply structure.
--   Design for your clients, not for your data.
--   Resource names should be nouns. Avoid verbs as resource names, to improve clarity. Use the HTTP methods to specify the verb portion of the request.
--   Use plurals in URL segments to keep your API URIs consistent across all HTTP methods, using the collection metaphor.
-    -   **Recommended:** `/customers/33245/orders/8769/lineitems/1`
-    -   **Not:** `/customer/33245/order/8769/lineitem/1`
--   Avoid using collection verbiage in URLs. For example 'customer_list' as a resource. Use pluralization to indicate the collection metaphor (e.g. customers vs. customer_list).
--   Use lower-case in URL segments, separating words with underscores ('_') or hyphens ('-'). Some servers ignore case so it's best to be clear.
--   Keep URLs as short as possible, with as few segments as makes sense.
+* Use identifiers in your URLs instead of in the query-string. Using URL query-string parameters is fantastic for filtering, but not for resource names.
+  * **Good:** `/users/12345`
+  * **Poor:** `/api?type=user&id=23`
+* Leverage the hierarchical nature of the URL to imply structure.
+* Design for your clients, not for your data.
+* Resource names should be nouns. Avoid verbs as resource names, to improve clarity. Use the HTTP methods to specify the verb portion of the request.
+* Use plurals in URL segments to keep your API URIs consistent across all HTTP methods, using the collection metaphor.
+  * **Recommended:** `/customers/33245/orders/8769/lineitems/1`
+  * **Not:** `/customer/33245/order/8769/lineitem/1`
+* Avoid using collection verbiage in URLs. For example 'customer_list' as a resource. Use pluralization to indicate the collection metaphor (e.g. customers vs. customer_list).
+* Use lower-case in URL segments, separating words with underscores ('\_') or hyphens ('-'). Some servers ignore case so it's best to be clear.
+* Keep URLs as short as possible, with as few segments as makes sense.
 
 ## Use HTTP Response Codes to Indicate Status
 
@@ -76,20 +68,18 @@ Response status codes are part of the HTTP specification. There are quite a numb
 
 Suggested usages for the "Top 10" HTTP Response Status Codes are as follows:
 
-| Code  |          Text           | Description                                                                                                                                                                                                                                                                                                                                                                                             |
-|:-----:|:-----------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `200` |          `OK`           | General success status code. This is the most common code. Used to indicate success.                                                                                                                                                                                                                                                                                                                    |
-| `201` |        `CREATED`        | Successful creation occurred (via either POST or PUT). Set the Location header to contain a link to the newly-created resource (on POST). Response body content may or may not be present.                                                                                                                                                                                                              |
-| `204` |      `NO CONTENT`       | Indicates success but nothing is in the response body, often used for DELETE and PUT operations.                                                                                                                                                                                                                                                                                                        |
-| `400` |      `BAD REQUEST`      | General error for when fulfilling the request would cause an invalid state. Domain validation errors, missing data, etc. are some examples.                                                                                                                                                                                                                                                             |
-| `401` |     `UNAUTHORIZED`      | Error code response for missing or invalid authentication token.                                                                                                                                                                                                                                                                                                                                        |
-| `403` |       `FORBIDDEN`       | Error code for when the user is not authorized to perform the operation or the resource is unavailable for some reason (e.g. time constraints, etc.).                                                                                                                                                                                                                                                   |
-| `404` |       `NOT FOUND`       | Used when the requested resource is not found, whether it doesn't exist or if there was a 401 or 403 that, for security reasons, the service wants to mask.                                                                                                                                                                                                                                             |
-| `405` |  `METHOD NOT ALLOWED`   | Used to indicate that the requested URL exists, but the requested HTTP method is not applicable. For example, POST _/users/12345_ where the API doesn't support creation of resources this way (with a provided ID). The Allow HTTP header must be set when returning a 405 to indicate the HTTP methods that are supported. In the previous case, the header would look like "Allow: GET, PUT, DELETE" |
-| `409` |       `CONFLICT`        | Whenever a resource conflict would be caused by fulfilling the request. Duplicate entries, such as trying to create two customers with the same information, and deleting root objects when cascade-delete is not supported are a couple of examples.                                                                                                                                                   |
-| `500` | `INTRENAL SERVER ERROR` | Never return this intentionally. The general catch-all error when the server-side throws an exception. Use this only for errors that the consumer cannot address from their end.                                                                                                                                                                                                                        |
-
-
+|Code|Text|Description|
+|:--:|:--:|:----------|
+|`200`|`OK`|General success status code. This is the most common code. Used to indicate success.|
+|`201`|`CREATED`|Successful creation occurred (via either POST or PUT). Set the Location header to contain a link to the newly-created resource (on POST). Response body content may or may not be present.|
+|`204`|`NO CONTENT`|Indicates success but nothing is in the response body, often used for DELETE and PUT operations.|
+|`400`|`BAD REQUEST`|General error for when fulfilling the request would cause an invalid state. Domain validation errors, missing data, etc. are some examples.|
+|`401`|`UNAUTHORIZED`|Error code response for missing or invalid authentication token.|
+|`403`|`FORBIDDEN`|Error code for when the user is not authorized to perform the operation or the resource is unavailable for some reason (e.g. time constraints, etc.).|
+|`404`|`NOT FOUND`|Used when the requested resource is not found, whether it doesn't exist or if there was a 401 or 403 that, for security reasons, the service wants to mask.|
+|`405`|`METHOD NOT ALLOWED`|Used to indicate that the requested URL exists, but the requested HTTP method is not applicable. For example, POST */users/12345* where the API doesn't support creation of resources this way (with a provided ID). The Allow HTTP header must be set when returning a 405 to indicate the HTTP methods that are supported. In the previous case, the header would look like "Allow: GET, PUT, DELETE"|
+|`409`|`CONFLICT`|Whenever a resource conflict would be caused by fulfilling the request. Duplicate entries, such as trying to create two customers with the same information, and deleting root objects when cascade-delete is not supported are a couple of examples.|
+|`500`|`INTRENAL SERVER ERROR`|Never return this intentionally. The general catch-all error when the server-side throws an exception. Use this only for errors that the consumer cannot address from their end.|
 
 ## Offer Both JSON and XML
 
@@ -111,23 +101,24 @@ One of the principles of REST is connectedness—via hypermedia links (search HA
 
 Regarding linking formats, there are many. The HTTP Web Linking Specification ([RFC5988](https://tools.ietf.org/search/rfc5988)) explains a link as follows:
 
-> a link is a typed connection between two resources that are identified by Internationalised Resource Identifiers (IRIs) [[RFC3987](https://tools.ietf.org/search/rfc3987)], and is comprised of:
-> 
-> -   A context IRI,
-> -   a link relation type
-> -   a target IRI, and
-> -   optionally, target attributes.
-> 
-> A link can be viewed as a statement of the form "{context IRI} has a {relation type} resource at {target IRI}, which has {target attributes}."
+ > 
+ > a link is a typed connection between two resources that are identified by Internationalised Resource Identifiers (IRIs) \[[RFC3987](https://tools.ietf.org/search/rfc3987)\], and is comprised of:
+ > 
+ > * A context IRI,
+ > * a link relation type
+ > * a target IRI, and
+ > * optionally, target attributes.
+ > 
+ > A link can be viewed as a statement of the form "{context IRI} has a {relation type} resource at {target IRI}, which has {target attributes}."
 
 At the very least, place links in the HTTP Link header as recommended in the specification, or embrace a JSON representation of this HTTP link style (such as Atom-style links, see: [RFC4287](https://tools.ietf.org/search/rfc4287#section-4.2.7)) in your JSON representations. Later, you can layer in more complex linking styles such as [HAL+JSON](https://stateless.co/hal_specification.html), [Siren](https://github.com/kevinswiber/siren), [Collection+JSON](https://amundsen.com/media-types/collection/), and/or [JSON-LD](https://json-ld.org/), etc. as your REST APIs become more mature.
 
-***
+---
 
 Links:
 
-[[REST API Methods]]
-[[REST API Resource Naming]]
-[[REST API Idempotence]]
-[[R Package - plumber]]
-[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
+[REST API Methods](REST%20API%20Methods.md)
+[REST API Resource Naming](REST%20API%20Resource%20Naming.md)
+[REST API Idempotence](REST%20API%20Idempotence.md)
+[R Package - plumber](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20plumber.md)
+*3-Resources/Tools/Python/Python Packages 1/Python Package - Flask*

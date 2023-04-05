@@ -1,10 +1,3 @@
----
-Date: 2022-08-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Status/WIP"]
-Alias: "Guide for Developing and Designing a Relational Database"
----
-
 # Guide for Developing and Designing a Relational Database
 
 ## Overview
@@ -15,17 +8,17 @@ The goal of this tutorial is to help non-database and database professionals ali
 
 With this goal in mind, the following topics will be examined:
 
--   Logical Design
--   Defining Data Types and Sizes
--   Defining a Primary Key
--   Defining a Clustered Index
--   Defining Constraints
--   Choosing Non-Clustered Indexes
--   Prepared Queries and Stored Procedures
--   Querying in Sets
--   Preventing Index Nullification
--   Temporary Tables and Table Variables
--   Working With Triggers
+* Logical Design
+* Defining Data Types and Sizes
+* Defining a Primary Key
+* Defining a Clustered Index
+* Defining Constraints
+* Choosing Non-Clustered Indexes
+* Prepared Queries and Stored Procedures
+* Querying in Sets
+* Preventing Index Nullification
+* Temporary Tables and Table Variables
+* Working With Triggers
 
 ## Logical Design
 
@@ -35,9 +28,9 @@ Logical data modeling is where you will define the business entities which will 
 
 There are 3 basic normalization ("normal") forms:
 
--   1st Normal Form (1NF) (a primary key is identified, attributes reduced to their smallest component, and repeating data is identified and removed)
--   2nd Normal Form (2NF) (non primary key attributes not dependent on the entire primary key are removed)
--   3rd Normal Form (3NF) (remaining non primary key attributes that have dependency on other non primary key attributes (i.e. transitive dependencies) are removed
+* 1st Normal Form (1NF) (a primary key is identified, attributes reduced to their smallest component, and repeating data is identified and removed)
+* 2nd Normal Form (2NF) (non primary key attributes not dependent on the entire primary key are removed)
+* 3rd Normal Form (3NF) (remaining non primary key attributes that have dependency on other non primary key attributes (i.e. transitive dependencies) are removed
 
 There are additional normal forms such as Boyce-Codd normal form (BCNF), 4th normal form (4NF), 5th normal form (5NF), etc. I generally find that achieving 3rd normal form is adequate. Your mileage may vary.
 
@@ -47,10 +40,9 @@ Depending on your design, there might be a performance penalty to normalizing to
 
 ### Additional Information
 
--   [Database Normalization Basics](http://databases.about.com/od/specificproducts/a/normalization.htm)
--   [Understanding First Normal Form in SQL Server](https://www.mssqltips.com/sqlservertip/2417/understanding-first-normal-form-in-sql-server/)
--   [Getting started with SQL Server database diagrams](https://www.mssqltips.com/sqlservertip/1816/getting-started-with-sql-server-database-diagrams/)
-
+* [Database Normalization Basics](http://databases.about.com/od/specificproducts/a/normalization.htm)
+* [Understanding First Normal Form in SQL Server](https://www.mssqltips.com/sqlservertip/2417/understanding-first-normal-form-in-sql-server/)
+* [Getting started with SQL Server database diagrams](https://www.mssqltips.com/sqlservertip/1816/getting-started-with-sql-server-database-diagrams/)
 
 ## Data Types
 
@@ -66,31 +58,29 @@ Also look to avoid deprecated data types such as text, ntext, and image as they 
 
 ## Additional Information
 
--   [NCHAR and NVARCHAR data types](http://msdn.microsoft.com/en-us/library/ms186939.aspx)
--   [Row sizes exceeding 8060 bytes in Sql 2005](https://www.mssqltips.com/sqlservertip/2242/row-sizes-exceeding-8060-bytes-in-sql-2005/)
+* [NCHAR and NVARCHAR data types](http://msdn.microsoft.com/en-us/library/ms186939.aspx)
+* [Row sizes exceeding 8060 bytes in Sql 2005](https://www.mssqltips.com/sqlservertip/2242/row-sizes-exceeding-8060-bytes-in-sql-2005/)
 
 ## 1. Develop
 
 Develop the highest quality code faster and receive better performing applications from day one. 
 
-- **Build**: Toad is equipped with multiple features to help developers be more productive and efficient when building or maintaining code. 
-- **Test**: Users can create test cases for all their code automatically and run them for functional correctness, then store those test for later regression testing. 
-- **Debug**: Bugs and problematic logic in stored procedures are easily identified for quick resolution.
-- **Review**: Users can review all their code against predefined coding standards to ensure consistently high quality.
+* **Build**: Toad is equipped with multiple features to help developers be more productive and efficient when building or maintaining code. 
+* **Test**: Users can create test cases for all their code automatically and run them for functional correctness, then store those test for later regression testing. 
+* **Debug**: Bugs and problematic logic in stored procedures are easily identified for quick resolution.
+* **Review**: Users can review all their code against predefined coding standards to ensure consistently high quality.
 
 Step two: Optimize Toad’s Code Analysis feature and SQL Optimizer component maximize code quality and SQL performance by automating the manual, tedious and uncertain process of traditional code reviews and ensuring the fastest possible performance of SQL statements. Toad’s Code Analysis feature: • Provides a code-quality assessment of all the code in a project based on predefined standards combined with HTML reporting of overall quality. Toad’s SQL Optimizer component: • Scans application source code and identifies poorly performing SQL. • Generates every possible rewrite and frees up the trial-and-error process. • Benchmarks and compares the fastest alternate statement. • Automates the optimization process, guaranteeing semantic equivalency and discarding those of minimum benefits. • Ensures optimal performance and eliminates the current manual process. Step three: Validate Toad’s Benchmark Factory component: • Tests critical SQL and stored procedure code for scalability and performance under various user loads in pre-production. • Enables full database capture of production transactions and replay on a test server with the ability to scale- up user load.
 
-***
+---
 
 ## Appendix: Links
 
-- [[SQL]]
-- [[Databases]]
-- [[Data Engineers]]
-- [[Database Modeling Tools]]
-- [[Data Engineering]]
-- [[Design Your Work]]
+* [SQL](../Code/SQL/SQL.md)
+* [Databases](../MOCs/Databases.md)
+* [Data Engineers](../../0-Slipbox/Data%20Engineers.md)
+* [Database Modeling Tools](../Lists/Database%20Modeling%20Tools.md)
+* [Data Engineering](../MOCs/Data%20Engineering.md)
+* [Design Your Work](../../3-Resources/Highlights/Readwise/Books/Design%20Your%20Work.md)
 
 **See Also:**
-
-

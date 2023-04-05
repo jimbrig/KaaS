@@ -1,98 +1,87 @@
----
-Date: 2022-06-10
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: "R - Useful Basic R Housekeeping Commands"
----
-
 # R - Useful Basic R Housekeeping Commands
 
 ## Contents
 
-- [[#Package Management|Package Management]]
-	- [[#Update Packages|Update Packages]]
-	- [[#List Outdated Packages|List Outdated Packages]]
-	- [[#Package Version|Package Version]]
-	- [[#Unload Packages|Unload Packages]]
-- [[#R Administration|R Administration]]
-	- [[#Update R|Update R]]
-- [[#Miscellaneous|Miscellaneous]]
-	- [[#Check size of object in memory|Check size of object in memory]]
-	- [[#Restart RStudio|Restart RStudio]]
-		- [[#Related|Related]]
-
+* [Package Management](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#package-management)
+  * [Update Packages](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#update-packages)
+  * [List Outdated Packages](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#list-outdated-packages)
+  * [Package Version](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#package-version)
+  * [Unload Packages](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#unload-packages)
+* [R Administration](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#r-administration)
+  * [Update R](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#update-r)
+* [Miscellaneous](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#miscellaneous)
+  * [Check size of object in memory](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#check-size-of-object-in-memory)
+  * [Restart RStudio](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#restart-rstudio)
+    * [Related](R%20-%20Useful%20Basic%20R%20Housekeeping%20Commands.md#related)
 
 ## Package Management
 
 ### Update Packages
 
-```R
+````R
 update.packages()
-```
+````
 
 ### List Outdated Packages
 
-```R
+````R
 old.packages()
-```
+````
 
 ### Package Version
 
-```R
+````R
 packageVersion("dplyr")
-```
+````
 
 ### Unload Packages
 
-```R
+````R
 detach("package:dplyr", unload = TRUE)
-```
+````
 
 ## R Administration
 
 ### Update R
 
-- Use [`installR`]() - *WINDOWS ONLY*
+* Use [`installR`]() - *WINDOWS ONLY*
 
-```R
+````R
 library(installR)
 updateR()
-```
+````
 
-- Use [`updateR`](https://github.com/AndreaCirilloAC/updateR)
+* Use [`updateR`](https://github.com/AndreaCirilloAC/updateR)
 
-```R
+````R
 remotes::install_github("AndreaCirilloAC/updateR")
 library(updateR)
 updateR(auto = TRUE, .Rprofile = NULL)
-```
+````
 
 ## Miscellaneous
 
 ### Check size of object in memory
 
-```R
+````R
 pryr::object_size(df)
-```
+````
 
 ### Restart RStudio
 
-```R
+````R
 .rs.restartR()
-```
+````
 
-
-
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[2-Areas/MOCs/R]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/R](../2-Areas/MOCs/R.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R - Useful Basic R Housekeeping Commands]] AND -"Changelog"
-```
+````

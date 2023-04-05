@@ -1,20 +1,13 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Elasticsearch"]
----
-
 # Elasticsearch
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Elasticsearch]] AND -"Changelog"
-```
+````

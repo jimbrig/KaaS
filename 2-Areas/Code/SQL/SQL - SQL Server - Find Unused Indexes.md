@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Find Unused Indexes"]
----
-
 # SQL - SQL Server - Find Unused Indexes
 
 *Source: [Helpful functions when you need to find out what is going on on SQL Server (github.com)](https://gist.github.com/jimbrig/5d91eef57ce1de7d7f799e92d565631d)*
 
-```SQL
+````SQL
 /* FIND UNUSED INDEXES - MIGHT AFFECT LOG WRITES */
  
 SELECT o.name Object_Name,
@@ -29,21 +22,20 @@ AND i.type IN (1, 2)
 AND (s.index_id IS NULL) OR
 -- Indexes that have been updated but not used
 (s.user_seeks = 0 AND s.user_scans = 0 AND s.user_lookups = 0 );
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Find Unused Indexes]] AND -"Changelog"
-```
+````

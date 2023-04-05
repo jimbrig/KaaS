@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://appsilon.com/r-markdown-reporting-best-practices/](https://appsilon.com/r-markdown-reporting-best-practices/)
-* Author: [[Eduardo]]
-* Publisher: [[appsilon.com]]
+* Author: *Eduardo*
+* Publisher: *appsilon.com*
 * Published Date: 2022-02-08
 
 ## Highlights
+
 * Working with R Markdown allows you to create different types of reports, from static websites to PDFs and slides in R. Many of them come with templates, but also let you adjust for specific user needs. This makes R Markdown easy to use and an efficient way to turn data analyses into cohesive, high-quality reports.
 * R Markdown Reporting – Documents The steps required to create R Markdown reports are set primarily by knitr and pandoc, but also other extensions such as latex with tinytex. How many file formats can R Markdown render? R Markdown can render formats from HTML docs, Notebooks, PDFs, Word docs, OpenDocument text, Rich text, Markdown variants, vignettes – and that’s just covering documents some more include: It is worth mentioning that R Markdown knitr can execute code in other languages besides R, including: * Python * SQL * Julia * JavaScript * CSS
 * YAML and R Markdown In order to define which type of document the report will result in, knitr requires metadata that states the output format. This is done in the YAML header of the R Markdown file: YAML contains a set of arguments that each document can have. Even different packages can have their own set of rules that can be adjusted through the YAML component It usually is set on the header of the R Markdown document but can also be used as a separate file. YAML is an extensible approach to metadata. That means that any metadata that is incorrect will fail silently. This may cause issues in passing the correct information or what is available by the package.

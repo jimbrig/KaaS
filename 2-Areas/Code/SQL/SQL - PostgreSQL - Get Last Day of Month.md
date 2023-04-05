@@ -1,36 +1,29 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Get Last Day of Month"]
----
-
 # SQL - PostgreSQL - Get Last Day of Month
 
 *Source: https://wiki.postgresql.org/wiki/Date_LastDay*
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION last_day(date)
 RETURNS date AS
 $$
   SELECT (date_trunc('MONTH', $1) + INTERVAL '1 MONTH - 1 day')::date;
 $$ LANGUAGE 'sql' IMMUTABLE STRICT;
-```
+````
 
-*Note: for [[PostgreSQL]] only*
+*Note: for [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md) only*
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Get Last Dat of Month]] AND -"Changelog"
-```
+````

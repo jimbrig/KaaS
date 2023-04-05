@@ -1,21 +1,13 @@
----
-Date: 2022-05-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "About Data Requirements"
----
-
 # About Data Requirements
 
 *Sources: [Data Requirement Analysis - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/computer-science/data-requirement-analysis)*
-- [Data Requirement Document (dendanskemaritimefond.dk)](https://www.dendanskemaritimefond.dk/wp-content/uploads/2016/04/GLAUCUS-Data-Requirements.pdf)
-- [Agile Gathering Data Requirements | AgileData Way of Working](https://wow.agiledata.io/wow/agiledata-thoughts/agile-gathering-data-requirements/)
-- [Documenting Data Quality: Considerations | U.S. Geological Survey (usgs.gov)](https://www.usgs.gov/data-management/documenting-data-quality-considerations)
-- [DOC_15138.DOC (live.com)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.hud.gov%2Fsites%2Fdocuments%2FDOC_15138.DOC&wdOrigin=BROWSELINK)
 
+* [Data Requirement Document (dendanskemaritimefond.dk)](https://www.dendanskemaritimefond.dk/wp-content/uploads/2016/04/GLAUCUS-Data-Requirements.pdf)
+* [Agile Gathering Data Requirements | AgileData Way of Working](https://wow.agiledata.io/wow/agiledata-thoughts/agile-gathering-data-requirements/)
+* [Documenting Data Quality: Considerations | U.S. Geological Survey (usgs.gov)](https://www.usgs.gov/data-management/documenting-data-quality-considerations)
+* [DOC_15138.DOC (live.com)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.hud.gov%2Fsites%2Fdocuments%2FDOC_15138.DOC&wdOrigin=BROWSELINK)
 
 ![](https://i.imgur.com/153NIxq.png)
-
 
 The Data Requirement Document (DRD) is a central document of the project, in which all information relating to data is gathered for agreement by the key stakeholders and then for guidance and information for those involved in the project
 
@@ -35,10 +27,8 @@ These facts represent specific pieces of business information that are tracked, 
 
 A metadata glossary captures all the business terms associated with the business workflows, and classifies the hierarchical composition of any aggregated or analyzed data concepts. Most glossaries may contain a core set of terms across similar projects along with additional project specific terms. When possible, use existing metadata repositories to capture the approved organization definition.
 
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[About Data Requirements]] AND -"Changelog"
-```
+````

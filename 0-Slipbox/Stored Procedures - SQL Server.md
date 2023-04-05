@@ -1,24 +1,16 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Stored Procedures - SQL Server"
----
-
 # Stored Procedures - SQL Server
 
 *Source: [Stored Procedures (Database Engine) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine?view=sql-server-ver15)*
 
-*See Also: [[SQL Stored Procedures Best Practices]]*
+*See Also: [SQL Stored Procedures Best Practices](SQL%20Stored%20Procedures%20Best%20Practices.md)*
 
 ## Contents
 
-- [[#Benefits of Using Stored Procedures|Benefits of Using Stored Procedures]]
-- [[#Types of Stored Procedures|Types of Stored Procedures]]
-- [[#Related Tasks|Related Tasks]]
-- [[#Related Content|Related Content]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Benefits of Using Stored Procedures](Stored%20Procedures%20-%20SQL%20Server.md#benefits-of-using-stored-procedures)
+* [Types of Stored Procedures](Stored%20Procedures%20-%20SQL%20Server.md#types-of-stored-procedures)
+* [Related Tasks](Stored%20Procedures%20-%20SQL%20Server.md#related-tasks)
+* [Related Content](Stored%20Procedures%20-%20SQL%20Server.md#related-content)
+* [Appendix: Links](Stored%20Procedures%20-%20SQL%20Server.md#appendix-links)
 
 ## Benefits of Using Stored Procedures
 
@@ -58,51 +50,50 @@ A user-defined procedure can be created in a user-defined database or in all sys
 Temporary procedures are a form of user-defined procedures. The temporary procedures are like a permanent procedure, except temporary procedures are stored in **tempdb**. There are two types of temporary procedures: local and global. They differ from each other in their names, their visibility, and their availability. Local temporary procedures have a single number sign (#) as the first character of their names; they are visible only to the current user connection, and they are deleted when the connection is closed. Global temporary procedures have two number signs (##) as the first two characters of their names; they are visible to any user after they are created, and they are deleted at the end of the last session using the procedure.
 
 **System**  
-System procedures are included with SQL Server. They are physically stored in the internal, hidden **Resource** database and logically appear in the **sys** schema of every system- and user-defined database. In addition, the **msdb** database also contains system stored procedures in the **dbo** schema that are used for scheduling alerts and jobs. Because system procedures start with the prefix **sp_**, we recommend that you do not use this prefix when naming user-defined procedures. For a complete list of system procedures, see [System Stored Procedures (Transact-SQL)](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/system-stored-procedures-transact-sql?view=sql-server-ver15)
+System procedures are included with SQL Server. They are physically stored in the internal, hidden **Resource** database and logically appear in the **sys** schema of every system- and user-defined database. In addition, the **msdb** database also contains system stored procedures in the **dbo** schema that are used for scheduling alerts and jobs. Because system procedures start with the prefix **sp\_**, we recommend that you do not use this prefix when naming user-defined procedures. For a complete list of system procedures, see [System Stored Procedures (Transact-SQL)](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/system-stored-procedures-transact-sql?view=sql-server-ver15)
 
-SQL Server supports the system procedures that provide an interface from SQL Server to external programs for various maintenance activities. These extended procedures use the xp_ prefix. For a complete list of extended procedures, see [General Extended Stored Procedures (Transact-SQL)](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/general-extended-stored-procedures-transact-sql?view=sql-server-ver15).
+SQL Server supports the system procedures that provide an interface from SQL Server to external programs for various maintenance activities. These extended procedures use the xp\_ prefix. For a complete list of extended procedures, see [General Extended Stored Procedures (Transact-SQL)](https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/general-extended-stored-procedures-transact-sql?view=sql-server-ver15).
 
 **Extended User-Defined**  
 Extended procedures enable creating external routines in a programming language such as C. These procedures are DLLs that an instance of SQL Server can dynamically load and run.
 
 ## Related Tasks
 
-| Task Description                                                        | Topic                                                                                                                                                                                        |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Describes how to create a stored procedure.                             | [Create a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver15)                                     |
-| Describes how to modify a stored procedure.                             | [Modify a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/modify-a-stored-procedure?view=sql-server-ver15)                                     |
-| Describes how to delete a stored procedure.                             | [Delete a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/delete-a-stored-procedure?view=sql-server-ver15)                                     |
-| Describes how to execute a stored procedure.                            | [Execute a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/execute-a-stored-procedure?view=sql-server-ver15)                                   |
-| Describes how to grant permissions on a stored procedure.               | [Grant Permissions on a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/grant-permissions-on-a-stored-procedure?view=sql-server-ver15)         |
-| Describes how to return data from a stored procedure to an application. | [Return Data from a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/return-data-from-a-stored-procedure?view=sql-server-ver15)                 |
-| Describes how to recompile a stored procedure.                          | [Recompile a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/recompile-a-stored-procedure?view=sql-server-ver15)                               |
-| Describes how to rename a stored procedure.                             | [Rename a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/rename-a-stored-procedure?view=sql-server-ver15)                                     |
-| Describes how to view the definition of a stored procedure.             | [View the Definition of a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/view-the-definition-of-a-stored-procedure?view=sql-server-ver15)     |
-| Describes how to view the dependencies on a stored procedure.           | [View the Dependencies of a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/view-the-dependencies-of-a-stored-procedure?view=sql-server-ver15) |
-| Describes how Parameters are used in a stored procedure.                | [Parameters](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/parameters?view=sql-server-ver15)                                                                   |
+|Task Description|Topic|
+|----------------|-----|
+|Describes how to create a stored procedure.|[Create a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to modify a stored procedure.|[Modify a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/modify-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to delete a stored procedure.|[Delete a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/delete-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to execute a stored procedure.|[Execute a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/execute-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to grant permissions on a stored procedure.|[Grant Permissions on a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/grant-permissions-on-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to return data from a stored procedure to an application.|[Return Data from a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/return-data-from-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to recompile a stored procedure.|[Recompile a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/recompile-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to rename a stored procedure.|[Rename a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/rename-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to view the definition of a stored procedure.|[View the Definition of a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/view-the-definition-of-a-stored-procedure?view=sql-server-ver15)|
+|Describes how to view the dependencies on a stored procedure.|[View the Dependencies of a Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/view-the-dependencies-of-a-stored-procedure?view=sql-server-ver15)|
+|Describes how Parameters are used in a stored procedure.|[Parameters](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/parameters?view=sql-server-ver15)|
 
 ## Related Content
 
 [CLR Stored Procedures](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/clr-stored-procedures)  
 [Deferred name resolution](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15#deferred-name-resolution)
 
-***
+---
 
 ## Appendix: Links
 
-- [[SQL Stored Procedures Best Practices]]
-- [[SQL]]
-- [[SQL Server]]
-- [[ETL]]
-- [[ETL Data Warehousing Best Practices]]
-- [[Data Warehouse]]
-- [[Data Warehousing Roadmap]]
-- [[Data Engineering]]
-- [[Data Science]]
-
+* [SQL Stored Procedures Best Practices](SQL%20Stored%20Procedures%20Best%20Practices.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [SQL Server](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [ETL](ETL.md)
+* [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
+* [Data Warehouse](Data%20Warehouse.md)
+* [Data Warehousing Roadmap](Data%20Warehousing%20Roadmap.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Stored Procedures - SQL Server]] AND -"Changelog"
-```
+````

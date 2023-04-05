@@ -1,17 +1,10 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/YAML", "#Topic/Dev"]
-Alias: ["GitHub Action - git-cliff"]
----
-
 # GitHub Action - git-cliff
 
 *Source: [GitHub Action - git-cliff - Generate Changelog | thiscodeWorks](https://www.thiscodeworks.com/61faffd1b783be0015bbafac)*
 
-This [[GitHub Action]] generates/updates a repository's `CHANGELOG.md` on every push into branches `master` or `main` using [[Git-Cliff]], [[Keep a Changelog]], and this [[GitHub Action]]:
+This *GitHub Action* generates/updates a repository's `CHANGELOG.md` on every push into branches `master` or `main` using [Git-Cliff](../../../3-Resources/Tools/Developer%20Tools/Documentation/Utility/Git-Cliff.md), [Keep a Changelog](../../../0-Slipbox/Keep%20a%20Changelog.md), and this *GitHub Action*:
 
-```yaml
+````yaml
 name: Generate CHANGELOG.md
 on:
   repository_dispatch:
@@ -47,12 +40,13 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-```
+````
 
 ## Configuration File - `cliff.toml`
+
 *Source: [Configuration file for `git-cliff` (Changelog Generator) | thiscodeWorks](https://www.thiscodeworks.com/61faff37b783be0015bbafaa)*
 
-```toml
+````toml
 # configuration file for git-cliff
  
 [changelog]
@@ -104,23 +98,23 @@ skip_tags = "v0.1.0-beta.1"
 ignore_tags = ""
 topo_order = false
 sort_commits = "oldest"
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
-- [[GitHub]]
-- [[Automation]]
-- [[YAML]]
-- [[Git-Cliff]]
-- [[Keep a Changelog]]
-- [[Git]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
+* [GitHub](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md)
+* *Automation*
+* *YAML*
+* [Git-Cliff](../../../3-Resources/Tools/Developer%20Tools/Documentation/Utility/Git-Cliff.md)
+* [Keep a Changelog](../../../0-Slipbox/Keep%20a%20Changelog.md)
+* [Git](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/Git.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - git-cliff]] AND -"Changelog"
-```
+````

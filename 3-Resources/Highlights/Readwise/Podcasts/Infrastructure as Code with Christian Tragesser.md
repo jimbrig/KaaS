@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Infrastructure as Code with Christian Tragesser", "Infrastructure as Code with Christian Tragesser"]
----
 # Infrastructure as Code with Christian Tragesser
 
 ## Metadata
-- Author: [[Software Engineering Daily]]
-- Full Title: Infrastructure as Code with Christian Tragesser
-- Category: #Type/Highlight/Podcast
+
+* Author: *Software Engineering Daily*
+* Full Title: Infrastructure as Code with Christian Tragesser
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Cloud
+
+* Cloud
   Summary:
   I've been in i t for coming up on 20 years now. Have traversed the roles of, you know, basic d des, top support. I work my way up through systems, administration,. systems, engineering, networks, virtual an worked for an m s p for a small amount of time. Then kind of got into a helping the interstructure aspects of cloud.
   Transcript:

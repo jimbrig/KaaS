@@ -1,16 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Python", "#Topic/Dev/Python/Utility", "#Type/Tool/CLI", "#Topic/Productivity"]
-Alias: ["Python Package - keep", "keep"]
----
-
 # Python Package - keep
 
 *Source: [OrkoHunter/keep: A Meta CLI toolkit : Personal shell command keeper and snippets manager (github.com)](https://github.com/OrkoHunter/keep)*
 
 ![](https://i.imgur.com/QZPBRl0.png)
-
 
 ## Overview
 
@@ -18,18 +10,18 @@ Alias: ["Python Package - keep", "keep"]
 
 ## Features
 
--   Save a new command with a brief description
--   Search the saved commands using powerful patterns
--   Save the commands as a secret GitHub gist
--   Use `keep push` and `keep pull` to sync the commands between GitHub gist and other computers.
+* Save a new command with a brief description
+* Search the saved commands using powerful patterns
+* Save the commands as a secret GitHub gist
+* Use `keep push` and `keep pull` to sync the commands between GitHub gist and other computers.
 
 **ProTip : Save the commands you usually forget in ssh sessions and sync it with your local machine.**
 
 ## Installation
 
-```bash
+````bash
 pip3 install keep
-```
+````
 
 Use Python 3.6 or later.
 
@@ -37,7 +29,7 @@ You can install pip3 using apt-get as `sudo apt install python3-pip`.
 
 ## Usage
 
-```bash
+````bash
 Usage: keep [OPTIONS] COMMAND [ARGS]...
 
   Keep and view shell commands in terminal only.
@@ -60,7 +52,7 @@ Commands:
   rm            Deletes a saved command.
   run           Executes a saved command.
   update        Check for an update of Keep.
-```
+````
 
 [See the detailed usage and tutorial.](https://github.com/OrkoHunter/keep/blob/master/tutorial.md)
 
@@ -70,75 +62,74 @@ To enable command-line completion (TAB completion) follow these steps for the sh
 
 #### bash
 
-1.  Create a directory in your home directory called `.bash`
-    
-```bash
+1. Create a directory in your home directory called `.bash`
+
+````bash
 mkdir -p $HOME/.bash
-```
-    
-2.  Copy [completion/keep.bash](https://github.com/OrkoHunter/keep/blob/master/completions/keep.bash) to `$HOME/.bash/keep`
-    
-```bash
+````
+
+2. Copy [completion/keep.bash](https://github.com/OrkoHunter/keep/blob/master/completions/keep.bash) to `$HOME/.bash/keep`
+
+````bash
 curl -SLo "$HOME/.bash/keep" "https://raw.githubusercontent.com/OrkoHunter/keep/master/completions/keep.bash"
-```
-    
-3.  Add the following lines to `$HOME/.bashrc` file
-    
-```bash
+````
+
+3. Add the following lines to `$HOME/.bashrc` file
+
+````bash
 [ -f "$HOME/.bash/keep" ] && . "$HOME/.bash/keep"
-```
-    
+````
+
 #### zsh
 
-*See Also: [[zsh]]*
+*See Also: [zsh](../../../Shell/zsh.md)*
 
-1.  Create a directory in your home called `.zsh`
-    
-```zsh
+1. Create a directory in your home called `.zsh`
+
+````zsh
 mkdir -p $HOME/.zsh
-```
-    
-2.  Copy [completion/keep.zsh](https://github.com/OrkoHunter/keep/blob/master/completions/keep.zsh) to `$HOME/.zsh/_keep`
-    
-```zsh
+````
+
+2. Copy [completion/keep.zsh](https://github.com/OrkoHunter/keep/blob/master/completions/keep.zsh) to `$HOME/.zsh/_keep`
+
+````zsh
 curl -SLo "$HOME/.zsh/_keep" "https://raw.githubusercontent.com/OrkoHunter/keep/master/completions/keep.zsh"
-```
-    
-3.  Add the following lines inside `$HOME/.zshrc` file
-    
-```zsh
+````
+
+3. Add the following lines inside `$HOME/.zshrc` file
+
+````zsh
 fpath=($HOME/.zsh $fpath)
 autoload -Uz compinit && compinit
-```
+````
 
 ## Resources
 
 Not a command line fanatic? Here are some resources for you :
 
--   [https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
--   [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
--   [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
--   [https://github.com/aharris88/awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps)
+* [https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+* [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
+* [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+* [https://github.com/aharris88/awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps)
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/Python/Python Packages/Python Package - keep.md
-- [[Python]]
-- [[Python Packages]]
-- [[CLI Tools]]
-=======
-- [[2-Areas/MOCs/Python]]
-- [[Python Packages]]
-- [[CLI Tools List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
-
+* [Tools](../../../../Tools.md)
+* [Development](../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/Python/Python Packages/Python Package - keep.md
+* [Python](../../../../../../2-Areas/Code/Python/Python.md)
+* [Python Packages](Python%20Packages.md)
+* *CLI Tools*
+  =======
+* [2-Areas/MOCs/Python](../../../../../../2-Areas/MOCs/Python.md)
+* [Python Packages](Python%20Packages.md)
+* [CLI Tools List](../../../../../../2-Areas/Lists/CLI%20Tools%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/Python/Python Packages/Python Package - keep.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Python Package - keep]] AND -"Changelog"
-```
+````

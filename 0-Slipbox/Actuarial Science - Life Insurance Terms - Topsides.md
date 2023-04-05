@@ -1,13 +1,7 @@
----
-Date: 2022-06-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
-Alias: "Actuarial Science - Life Insurance Terms - Topsides"
----
-
 # Actuarial Science - Life Insurance Terms - Topsides
 
-> A topside journal entry is an adjustment made by a parent company on the accounting sheets of its subsidiaries during the preparation of the consolidated financial statements. They are necessary for accounting as they can be used to allocate income or costs from the larger firm to the subsidiaries. The topside entry is a practice within the scope of the Generally Accepted Accounting Principles, also known as GAAP.
+ > 
+ > A topside journal entry is an adjustment made by a parent company on the accounting sheets of its subsidiaries during the preparation of the consolidated financial statements. They are necessary for accounting as they can be used to allocate income or costs from the larger firm to the subsidiaries. The topside entry is a practice within the scope of the Generally Accepted Accounting Principles, also known as GAAP.
 
 However, despite their intrinsic validity, topside entries have often been used to post fraudulent figures by reducing liability accounts or decreasing the stated costs. Firms that are going through mergers or restructuring transitions are the ones most susceptible to fraudulent misuse of topside journal entries.
 
@@ -29,16 +23,15 @@ Accounting frauds that occurred during the past decade damaged the reputation of
 
 The misuse of these journal entries has become increasingly worrisome in recent years, and it demands the use of exacting journal-entry testing procedures for visibility's sake. Even though not all topside entries are fraudulent, the management and auditing personnel should keenly assess all entries of this nature to ensure visibility. Through paying close attention to the use of these entries, both auditors and executive management contribute to the restoration of trust that was once prevalent within the profession and their client base.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Actuarial Science]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Actuarial Science - Life Insurance Terms - Topsides]] AND -"Changelog"
-```
+````

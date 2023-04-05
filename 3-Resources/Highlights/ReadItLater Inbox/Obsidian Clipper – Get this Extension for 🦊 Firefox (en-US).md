@@ -1,4 +1,4 @@
-[[ReadItLater]] [[Article]]
+*ReadItLater* *Article*
 
 # [Obsidian Clipper – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/obsidian-clipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
@@ -14,6 +14,6 @@ Please don't use this form to report bugs or request add-on features; this repor
 
 This add-on needs to:
 
--   Input data to the clipboard
--   Access browser tabs
--   Access your data for jplattel.github.io
+* Input data to the clipboard
+* Access browser tabs
+* Access your data for jplattel.github.io

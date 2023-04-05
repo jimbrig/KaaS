@@ -1,10 +1,3 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Find Recent Activity"]
----
-
 # SQL - PostgreSQL - Find Recent Activity
 
 *Source: https://wiki.postgresql.org/wiki/Find_recent_activity*
@@ -17,7 +10,7 @@ This specific example was written for the following requirement: "Given a (large
 
 This version is suitable for 9.3 onward: 
 
-```SQL
+````SQL
 with recursive
   t1 as ( (select stock, array[stock] as seen
              from prices
@@ -34,11 +27,11 @@ select p.*
        LATERAL (select * from prices p2
                  where p2.stock=t1.stock
                  order by updated desc limit 3) p;
-```
+````
 
 This is the original version written for 8.4 onward:
 
-```SQL
+````SQL
 with recursive
   t1 as ( (select *, array[stock] as seen
              from prices
@@ -66,7 +59,7 @@ with recursive
           )
         )
 select * from t2;
-```
+````
 
 The idea here is to make use of recursion to fetch single rows in the most efficient way available, and then stop when the desired number has been reached. The assumption is that the source table is large compared to the number of rows fetched, and also that the number of distinct stocks is also reasonably large compared to the number fetched, or at least that at least 10 different stocks have updates in the most recent small fraction of the table.
 
@@ -74,7 +67,7 @@ The rather ugly sub-query usage turns out to be required to prevent a full scan 
 
 The following variation is for a "return the most recent 5 posts for each topic" query (however in 9.3+ there is a much simpler LATERAL solution without recursion): 
 
-```SQL
+````SQL
 with recursive
   rp as (select (p).*, 1 as rcount
            from (select (select p from posts p
@@ -93,21 +86,20 @@ with recursive
                   where rp.rcount < 5 offset 0) s
           where (p).post_id is not null)
 select * from rp;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Find Recent Activity]] AND -"Changelog"
-```
+````

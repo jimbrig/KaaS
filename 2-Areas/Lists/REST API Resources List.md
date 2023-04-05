@@ -1,11 +1,3 @@
----
-Date: 2021-10-27
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags:
-  - "#Type/List"
-  - "#Topic/Dev/WebDev/API"
----
-
 # REST API Resources
 
 * [REST](https://en.wikipedia.org/wiki/Representational_state_transfer "REST") on Wikipedia

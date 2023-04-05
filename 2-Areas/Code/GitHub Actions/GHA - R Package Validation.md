@@ -1,15 +1,8 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - R Package Validation"]
----
-
 # GitHub Action - R Package Validation
 
 *Source: [r.pkg.template/validation.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/validation.yaml)*
 
-```yaml
+````yaml
 name: R Package Validation report 📃
 
 on:
@@ -102,19 +95,18 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.ref }}
           overwrite: false
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - R Package Validation]] AND -"Changelog"
-```
+````

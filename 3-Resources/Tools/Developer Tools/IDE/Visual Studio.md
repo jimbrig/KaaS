@@ -1,20 +1,13 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Visual Studio"]
----
-
 # Visual Studio
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Visual Studio]] AND -"Changelog"
-```
+````

@@ -1,10 +1,3 @@
----
-Date: 2022-02-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - SQL Server - Check if a Column is Accessible"]
----
-
 # SQL - SQL Server - Check if a Column is Accessible
 
 *Source: [sql-snippets/check-column-is-accessible.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/mssql/check-column-is-accessible.md)*
@@ -17,30 +10,30 @@ One method to check if the current session has access to a column is to use the 
 
 If the column doesn't exist (or cannot be accessed), `COL_LENGTH` returns `null`.
 
-```sql
+````sql
 SELECT col_length('Orders', 'Sales') AS does_exist,
        col_length('Orders', 'Shmales') AS does_not_exist
-```
+````
 
 Output:
 
-| does_exist | does_not_exist |
-| ---------- | -------------- |
-| 8          | NULL           |
+|does_exist|does_not_exist|
+|----------|--------------|
+|8|NULL|
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[T-SQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [T-SQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/T-SQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - SQL Server - Check if a Column is Accessible]] AND -"Changelog"
-```
+````

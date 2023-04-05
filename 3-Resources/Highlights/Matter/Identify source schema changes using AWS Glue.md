@@ -1,23 +1,36 @@
 ## Metadata
-<<<<<<< HEAD
-* URL: [https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/](https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/)
-* Author: [[Narendra Gupta]]
-* Publisher: [[aws.amazon.com]]
-* Published Date: 2022-09-14
-* Tags: #Article, #Cloud_Architecture, #Cloud:_AWS, #Data_Engineering, #Data_Pipelines, #Development
-=======
+
+\<\<\<\<\<\<\< HEAD
 
 * URL: [https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/](https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/)
-* Author: [[Narendra Gupta]]
+
+* Author: *Narendra Gupta*
+
+* Publisher: *aws.amazon.com*
+
+* Published Date: 2022-09-14
+
+* Tags: #Article, #Cloud_Architecture, #Cloud:\_AWS, #Data_Engineering, #Data_Pipelines, #Development
+  =======
+
+* URL: [https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/](https://aws.amazon.com/blogs/big-data/identify-source-schema-changes-using-aws-glue/)
+
+* Author: *Narendra Gupta*
+
 * Publisher: <https://aws.amazon.com>
-* Published Date: [[2022-09-14]]
+
+* Published Date: *2022-09-14*
+
 * Tags: #Type/Source/Article, #Topic/Dev/Architecture, #Topic/Dev/Cloud: #Topic/Dev/Data-Engineering, #Topic/Dev
+
 * Links:
-	* [[AWS]]
-	* [[Data_Pipelines]]
->>>>>>> origin/develop
+  
+  * [AWS](../../Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md)
+  * *Data_Pipelines*
+    \>>>>>>> origin/develop
 
 ## Highlights
+
 * To extract information from the data, it’s usually stored in a data lake built on Amazon Simple Storage Service (S3). The data lake provides an important characteristic called schema on read, which allows you to bring data in the data lake without worrying about the schema or changes in the schema on the data source. This enables faster ingestion of data or building data pipelines.
 * However, you may be reading and consuming this data for other use cases, such as pointing to applications, building business intelligence (BI) dashboards in services like Amazon QuickSight, or doing data discovery using a serverless query engine like Amazon Athena. Additionally, you may have built an extract, transform, and load (ETL) data pipeline to populate your data store like a relational database, non-relational database, or data warehouse for further operational and analytical needs. In these cases, you need to define the schema upfront or even keep an account of the changes in the schema, such as adding new columns, deleting existing columns, changing the data type of existing columns, or renaming existing columns, to avoid any failures in your application or issues with your dashboard or reporting.
 * In many use cases, we have found that the data teams responsible for building the data pipeline don’t have any control of the source schema, and they need to build a solution to identify changes in the source schema in order to be able to build the process or automation around it. This might include sending notifications of changes to the teams dependent on the source schema, building an auditing solution to log all the schema changes, or building an automation or change request process to propagate the change in the source schema to downstream applications such as an ETL tool or BI dashboard. Sometimes, to control the number of schema versions, you may want to delete the older version of the schema when there are no changes detected between it and the newer schema.

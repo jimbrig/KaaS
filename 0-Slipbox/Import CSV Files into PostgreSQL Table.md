@@ -1,38 +1,30 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox/Dev", "#Topic/Dev/Database/PostgreSQL", "Topic/Dev/Database/SQL"]
-Alias: "Import CSV Files into PostgreSQL Table"
----
-
 # Import CSV Files into PostgreSQL Table
 
 *Source: [Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/)*
 
 See Also:
-- [[Export CSV from PostgreSQL Table]]
 
+* [Export CSV from PostgreSQL Table](Export%20CSV%20from%20PostgreSQL%20Table.md)
 
 ## Contents
 
-- [[#Introduction|Introduction]]
-- [[#Import a CSV file into a table using `COPY` statement|Import a CSV file into a table using `COPY` statement]]
-- [[#Details|Details]]
-- [[#Import CSV file into a table using pgAdmin|Import CSV file into a table using pgAdmin]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Introduction](Import%20CSV%20Files%20into%20PostgreSQL%20Table.md#introduction)
+* \[\[\#Import a CSV file into a table using `COPY` statement|Import a CSV file into a table using `COPY` statement\]\]
+* [Details](Import%20CSV%20Files%20into%20PostgreSQL%20Table.md#details)
+* [Import CSV file into a table using pgAdmin](Import%20CSV%20Files%20into%20PostgreSQL%20Table.md#import-csv-file-into-a-table-using-pgadmin)
+* [Appendix: Links](Import%20CSV%20Files%20into%20PostgreSQL%20Table.md#appendix-links)
 
 ## Introduction
 
 First, [create a new table](https://www.postgresqltutorial.com/postgresql-create-table/) named `persons` with the following columns:
 
--    `id`: the person id
--    `first_name`: first name
--    `last_name:` last name
--    `dob` date of birth
--    `email`: the email address
+* `id`: the person id
+* `first_name`: first name
+* `last_name:` last name
+* `dob` date of birth
+* `email`: the email address
 
-```SQL
+````SQL
 CREATE TABLE persons (
   id SERIAL,
   first_name VARCHAR(50),
@@ -41,7 +33,7 @@ CREATE TABLE persons (
   email VARCHAR(255),
   PRIMARY KEY (id)
 )
-```
+````
 
 ![posgresql import csv](https://www.postgresqltutorial.com/wp-content/uploads/2015/05/posgresql-import-csv.jpg)
 
@@ -57,24 +49,24 @@ The path of the CSV file is as follows: `C:\sampledb\persons.csv`
 
 To import this CSV file into the `persons` table, you use `COPY` statement as follows:
 
-```SQL
+````SQL
 COPY persons(first_name, last_name, dob, email)
 FROM 'C:\sampledb\persons.csv'
 DELIMITER ','
 CSV HEADER;`
-```
+````
 
 PostgreSQL gives back the following message:
 
-```shell
+````shell
 COPY 2
-```
+````
 
 It means that two rows have been copied. Let’s check the `persons` table.
 
-```SQL
+````SQL
 SELECT * FROM persons;
-```
+````
 
 ![](https://www.postgresqltutorial.com/wp-content/uploads/2020/07/PostgreSQL-Import-CSV.png)
 
@@ -86,12 +78,12 @@ Let’s dive into the `COPY` statement in more detail.
 
 First, you specify the table with column names after the `COPY` keyword. The order of the columns must be the same as the ones in the CSV file. In case the CSV file contains all columns of the table, you don’t need to specify them explicitly, for example:
 
-```SQL
+````SQL
 COPY sample_table_name
 FROM 'C:\sampledb\sample_data.csv' 
 DELIMITER ',' 
 CSV HEADER;`
-```
+````
 
 Second, you put the CSV file path after the `FROM` keyword. Because CSV file format is used, you need to specify `DELIMITER` as well as `CSV` clauses.
 
@@ -99,19 +91,18 @@ Third, specify the `HEADER` keyword to indicate that the CSV file contains a hea
 
 Notice that the file must be read directly by the PostgreSQL server, not by the client application. Therefore, it must be accessible by the PostgreSQL server machine. Also, you need to have superuser access in order to execute the `COPY` statement successfully.
 
-## Import CSV file into a table using pgAdmin 
+## Import CSV file into a table using pgAdmin
 
-See Also: [[PgAdmin]]
-
+See Also: [PgAdmin](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/PgAdmin.md)
 
 In case you need to import a CSV file from your computer into a table on the PostgreSQL database server, you can use the pgAdmin.
 
 The following statement [truncates](https://www.postgresqltutorial.com/postgresql-truncate-table/) the `persons` table so that you can re-import the data.
 
-```SQL
+````SQL
 TRUNCATE TABLE persons 
 RESTART IDENTITY;
-```
+````
 
 First, right-click the `persons` table and select the **Import/Export…** menu item:
 
@@ -129,21 +120,21 @@ Finally, wait for the import process to complete. The following shows the dialog
 
 ![](https://www.postgresqltutorial.com/wp-content/uploads/2020/07/PostgreSQL-Import-CSV-pgAdmin-Step-4.png)
 
-***
+---
 
 ## Appendix: Links
 
-- [[PostgreSQL]]
-- [[Data Engineering]]
-- [[Databases]]
-- [[SQL]]
-- [[ETL]]
-- [[ELT]]
-- [[SQL]]
-- [[Data Science]]
+* [PostgreSQL](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [ETL](ETL.md)
+* [ELT](ELT.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Import CSV Files into PostgreSQL Table]] AND -"Changelog"
-```
+````

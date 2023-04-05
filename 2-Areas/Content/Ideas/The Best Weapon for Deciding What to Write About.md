@@ -1,26 +1,17 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Mindsweep", "#Type/List", "#Type/Brainstorm", "#Topic/Writing"]
-Alias: ["The Best Weapon for Deciding What to Write About"]
----
-
 # The Best Weapon for Deciding What to Write About
 
-```ad-quote
+````ad-quote
 
 If you always have a list of blog post ideas with at least 50 items on it, you’ll never sit down at your desk and not know what to write about.
 
 - [[John Sonmez]]
 
-```
-
+````
 
 ## Contents
 
-- [[#Introduction|Introduction]]
-- [[#The Secret Weapon - A Simple List|The Secret Weapon - A Simple List]]
-
+* [Introduction](The%20Best%20Weapon%20for%20Deciding%20What%20to%20Write%20About.md#introduction)
+* [The Secret Weapon - A Simple List](The%20Best%20Weapon%20for%20Deciding%20What%20to%20Write%20About.md#the-secret-weapon-a-simple-list)
 
 ## Introduction
 
@@ -42,11 +33,10 @@ If you can look at that list and you can’t come up with at least 50 blog post 
 
 ### Brainstorming Tips
 
-Just like with the [[GTD Mindsweep]], do not be picky when creating your ideas list - *quantity is more important than quality here*.
+Just like with the [GTD Mindsweep](../../../0-Slipbox/GTD%20Mindsweep.md), do not be picky when creating your ideas list - *quantity is more important than quality here*.
 
 Let the ideas flow. It does not matter if they are good or not, some of the best ideas and biggest winners are based off of ideas that I first felt were no good.
 
 ## Next Steps
 
-After mastering the art of brainstorming and maintaining a list of blog post topics and ideas, the next step moving forward is [[Committing to Consistency with Your Blog]].
-
+After mastering the art of brainstorming and maintaining a list of blog post topics and ideas, the next step moving forward is [Committing to Consistency with Your Blog](Committing%20to%20Consistency%20with%20Your%20Blog.md).

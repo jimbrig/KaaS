@@ -1,65 +1,57 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Actions for R"]
----
-
 # GitHub Actions for R
 
 ## Contents
 
-- [[#Links|Links]]
-- [[#R CMD Check|R CMD Check]]
-- [[#Example Workflows|Example Workflows]]
-	- [[#Quickstart CI workflow|Quickstart CI workflow]]
-		- [[#When should you use it?|When should you use it?]]
-	- [[#Standard CI workflow|Standard CI workflow]]
-		- [[#When should you use it?|When should you use it?]]
-	- [[#Tidyverse CI workflow|Tidyverse CI workflow]]
-		- [[#When should you use it?|When should you use it?]]
-	- [[#Test coverage workflow|Test coverage workflow]]
-	- [[#Lint workflow|Lint workflow]]
-	- [[#Commands workflow|Commands workflow]]
-		- [[#When should you use it?|When should you use it?]]
-	- [[#Render Rmarkdown|Render Rmarkdown]]
-	- [[#Build pkgdown site|Build pkgdown site]]
-	- [[#Document package|Document package]]
-	- [[#Style package|Style package]]
-	- [[#Build bookdown site|Build bookdown site]]
-	- [[#Build blogdown site|Build blogdown site]]
-	- [[#Shiny App Deployment|Shiny App Deployment]]
-	- [[#Docker based workflow|Docker based workflow]]
-	- [[#Bioconductor-friendly workflow|Bioconductor-friendly workflow]]
-	- [[#Lint project workflow|Lint project workflow]]
-	- [[#Forcing binaries|Forcing binaries]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Links](GHA%20-%20GitHub%20Actions%20for%20R.md#links)
+* [R CMD Check](GHA%20-%20GitHub%20Actions%20for%20R.md#r-cmd-check)
+* [Example Workflows](GHA%20-%20GitHub%20Actions%20for%20R.md#example-workflows)
+  * [Quickstart CI workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#quickstart-ci-workflow)
+    * [When should you use it?](GHA%20-%20GitHub%20Actions%20for%20R.md#when-should-you-use-it)
+  * [Standard CI workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#standard-ci-workflow)
+    * [When should you use it?](GHA%20-%20GitHub%20Actions%20for%20R.md#when-should-you-use-it)
+  * [Tidyverse CI workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#tidyverse-ci-workflow)
+    * [When should you use it?](GHA%20-%20GitHub%20Actions%20for%20R.md#when-should-you-use-it)
+  * [Test coverage workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#test-coverage-workflow)
+  * [Lint workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#lint-workflow)
+  * [Commands workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#commands-workflow)
+    * [When should you use it?](GHA%20-%20GitHub%20Actions%20for%20R.md#when-should-you-use-it)
+  * [Render Rmarkdown](GHA%20-%20GitHub%20Actions%20for%20R.md#render-rmarkdown)
+  * [Build pkgdown site](GHA%20-%20GitHub%20Actions%20for%20R.md#build-pkgdown-site)
+  * [Document package](GHA%20-%20GitHub%20Actions%20for%20R.md#document-package)
+  * [Style package](GHA%20-%20GitHub%20Actions%20for%20R.md#style-package)
+  * [Build bookdown site](GHA%20-%20GitHub%20Actions%20for%20R.md#build-bookdown-site)
+  * [Build blogdown site](GHA%20-%20GitHub%20Actions%20for%20R.md#build-blogdown-site)
+  * [Shiny App Deployment](GHA%20-%20GitHub%20Actions%20for%20R.md#shiny-app-deployment)
+  * [Docker based workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#docker-based-workflow)
+  * [Bioconductor-friendly workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#bioconductor-friendly-workflow)
+  * [Lint project workflow](GHA%20-%20GitHub%20Actions%20for%20R.md#lint-project-workflow)
+  * [Forcing binaries](GHA%20-%20GitHub%20Actions%20for%20R.md#forcing-binaries)
+* [Appendix: Links](GHA%20-%20GitHub%20Actions%20for%20R.md#appendix-links)
 
 ## Links
 
-- [[GHA - R Build Blogdown]]
-- [[GHA - R Build Bookdown]]
-- [[GHA - R Build-Check-Install]]
-- [[GHA - R Check (Standard)]]
-- [[GHA - R Code Coverage]]
-- [[GHA - R Docker]]
-- [[GHA - R Lint]]
-- [[GHA - R Package Validation]]
-- [[GHA - R pkgcheck]]
-- [[GHA - R pkgdown]]
-- [[GHA - R Render RMD]] 
-- [[GHA - R roxygen]]
-- [[GHA - R ShinyApp Deploy]]
-- [[GHA - R Spelling]]
-- [[GHA - R Test Coverage]]
-- [[GHA - Release]]
+* [GHA - R Build Blogdown](GHA%20-%20R%20Build%20Blogdown.md)
+* [GHA - R Build Bookdown](GHA%20-%20R%20Build%20Bookdown.md)
+* [GHA - R Build-Check-Install](GHA%20-%20R%20Build-Check-Install.md)
+* [GHA - R Check (Standard)](GHA%20-%20R%20Check%20%28Standard%29.md)
+* [GHA - R Code Coverage](GHA%20-%20R%20Code%20Coverage.md)
+* [GHA - R Docker](GHA%20-%20R%20Docker.md)
+* [GHA - R Lint](GHA%20-%20R%20Lint.md)
+* [GHA - R Package Validation](GHA%20-%20R%20Package%20Validation.md)
+* [GHA - R pkgcheck](GHA%20-%20R%20pkgcheck.md)
+* [GHA - R pkgdown](GHA%20-%20R%20pkgdown.md)
+* [GHA - R Render RMD](GHA%20-%20R%20Render%20RMD.md) 
+* [GHA - R roxygen](GHA%20-%20R%20roxygen.md)
+* [GHA - R ShinyApp Deploy](GHA%20-%20R%20ShinyApp%20Deploy.md)
+* [GHA - R Spelling](GHA%20-%20R%20Spelling.md)
+* [GHA - R Test Coverage](GHA%20-%20R%20Test%20Coverage.md)
+* [GHA - Release](GHA%20-%20Release.md)
 
 ## R CMD Check
 
-- `check-full.yml`
+* `check-full.yml`
 
-```yaml
+````yaml
 # NOTE: This workflow is overkill for most R packages
 # check-standard.yaml is likely a better choice
 # usethis::use_github_action("check-standard") will install it.
@@ -168,11 +160,11 @@ jobs:
           name: ${{ matrix.config.os }}-r${{ matrix.config.r }}-results
           path: check
 
-```
+````
 
-- `check-standard.yml`
+* `check-standard.yml`
 
-```yaml
+````yaml
 
 # For help debugging build failures open an issue on the RStudio community with the 'github-actions' tag.
 # https://community.rstudio.com/new-topic?category=Package%20development&tags=github-actions
@@ -261,57 +253,57 @@ jobs:
           name: ${{ runner.os }}-r${{ matrix.config.r }}-results
           path: check
 
-```
+````
 
 ## Example Workflows
 
 Package workflows:
 
--   [`check-release`](#quickstart-ci-workflow) - A simple CI workflow to
-    check with the release version of R.
--   [`check-standard`](#standard-ci-workflow) - A standard CI workflow
-    to check with the release version of R on the three major OSs.
--   [`check-full`](#tidyverse-ci-workflow) - A more complex CI workflow
--   [`test-coverage`](#test-coverage-workflow) - Run `covr::codecov()`
-    on an R package.
--   [`lint`](#lint-workflow) - Run `lintr::lint_package()` on an R
-    package.
--   [`pr-commands`](#commands-workflow) - Adds `/document` and `/style`
-    commands for pull requests.
--   [`pkgdown`](#build-pkgdown-site) - Build a
-    [pkgdown](https://pkgdown.r-lib.org/) site for an R package and
-    deploy it to [GitHub Pages](https://pages.github.com/).
--   [`document`](#document-package) - Run `roxygen2::roxygenise()` on an
-    R package.
--   [`style`](#style-package) - Run `styler::style_pkg()` on an R
-    package.
+* [`check-release`](#quickstart-ci-workflow) - A simple CI workflow to
+  check with the release version of R.
+* [`check-standard`](#standard-ci-workflow) - A standard CI workflow
+  to check with the release version of R on the three major OSs.
+* [`check-full`](#tidyverse-ci-workflow) - A more complex CI workflow
+* [`test-coverage`](#test-coverage-workflow) - Run `covr::codecov()`
+  on an R package.
+* [`lint`](#lint-workflow) - Run `lintr::lint_package()` on an R
+  package.
+* [`pr-commands`](#commands-workflow) - Adds `/document` and `/style`
+  commands for pull requests.
+* [`pkgdown`](#build-pkgdown-site) - Build a
+  [pkgdown](https://pkgdown.r-lib.org/) site for an R package and
+  deploy it to [GitHub Pages](https://pages.github.com/).
+* [`document`](#document-package) - Run `roxygen2::roxygenise()` on an
+  R package.
+* [`style`](#style-package) - Run `styler::style_pkg()` on an R
+  package.
 
 RMarkdown workflows:
 
--   [`render-rmarkdown`](#render-rmarkdown) - Render one or more
-    Rmarkdown files when they change and commit the result.
--   [`bookdown`](#build-bookdown-site) - Build a
-    [bookdown](https://bookdown.org) site and deploy it to [GitHub
-    Pages](https://pages.github.com/).
--   [`blogdown`](#build-blogdown-site) - Build a
-    [blogdown](https://bookdown.org/yihui/blogdown/) site and deploy it
-    to [GitHub Pages](https://pages.github.com/).
+* [`render-rmarkdown`](#render-rmarkdown) - Render one or more
+  Rmarkdown files when they change and commit the result.
+* [`bookdown`](#build-bookdown-site) - Build a
+  [bookdown](https://bookdown.org) site and deploy it to [GitHub
+  Pages](https://pages.github.com/).
+* [`blogdown`](#build-blogdown-site) - Build a
+  [blogdown](https://bookdown.org/yihui/blogdown/) site and deploy it
+  to [GitHub Pages](https://pages.github.com/).
 
 Other workflows:
 
--   [`docker`](#docker-based-workflow) - For custom workflows based on
-    docker containers.
--   [Bioconductor](#bioconductor-friendly-workflow) - A CI workflow for
-    packages to be released on Bioconductor.
--   [`lint-project`](#lint-project-workflow) - Run `lintr::lint_dir()`
-    on an R project.
--   [`shiny-deploy`](#shiny-app-deployment) - Deploy a Shiny app to
-    shinyapps.io or RStudio Connect.
+* [`docker`](#docker-based-workflow) - For custom workflows based on
+  docker containers.
+* [Bioconductor](#bioconductor-friendly-workflow) - A CI workflow for
+  packages to be released on Bioconductor.
+* [`lint-project`](#lint-project-workflow) - Run `lintr::lint_dir()`
+  on an R project.
+* [`shiny-deploy`](#shiny-app-deployment) - Deploy a Shiny app to
+  shinyapps.io or RStudio Connect.
 
 Options and advice:
 
--   [Forcing binaries](#forcing-binaries) - An environment variable to
-    always use binary packages.
+* [Forcing binaries](#forcing-binaries) - An environment variable to
+  always use binary packages.
 
 ### Quickstart CI workflow
 
@@ -324,11 +316,11 @@ probably what you want to use.
 
 #### When should you use it?
 
-1.  You have a simple R package
-2.  There is no OS-specific code
-3.  You want a quick start with R CI
+1. You have a simple R package
+1. There is no OS-specific code
+1. You want a quick start with R CI
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -358,7 +350,7 @@ jobs:
           needs: check
 
       - uses: r-lib/actions/check-r-package@v2
-```
+````
 
 ### Standard CI workflow
 
@@ -372,10 +364,10 @@ CRAN or Bioconductor this is likely the workflow you want to use.
 
 #### When should you use it?
 
-1.  You plan to submit your package to CRAN or Bioconductor
-2.  Your package has OS-specific code
+1. You plan to submit your package to CRAN or Bioconductor
+1. Your package has OS-specific code
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -425,7 +417,7 @@ jobs:
       - uses: r-lib/actions/check-r-package@v2
         with:
           upload-snapshots: true
-```
+````
 
 ### Tidyverse CI workflow
 
@@ -440,12 +432,12 @@ CI workflow.
 
 #### When should you use it?
 
-1.  You are a tidyverse developer
-2.  You have a complex R package
-3.  With OS-specific code
-4.  And you want to ensure compatibility with many older R versions
+1. You are a tidyverse developer
+1. You have a complex R package
+1. With OS-specific code
+1. And you want to ensure compatibility with many older R versions
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 #
@@ -507,7 +499,7 @@ jobs:
       - uses: r-lib/actions/check-r-package@v2
         with:
           upload-snapshots: true
-```
+````
 
 ### Test coverage workflow
 
@@ -517,7 +509,7 @@ This example uses the [covr](https://covr.r-lib.org) package to query
 the test coverage of your package and upload the result to
 [codecov.io](https://codecov.io)
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -549,7 +541,7 @@ jobs:
       - name: Test coverage
         run: covr::codecov(quiet = FALSE)
         shell: Rscript {0}
-```
+````
 
 ### Lint workflow
 
@@ -559,7 +551,7 @@ This example uses the [lintr](https://github.com/jimhester/lintr)
 package to lint your package and return the results as build
 annotations.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -590,7 +582,7 @@ jobs:
       - name: Lint
         run: lintr::lint_package()
         shell: Rscript {0}
-```
+````
 
 ### Commands workflow
 
@@ -604,11 +596,11 @@ the package and commit the result to the pull request. `/style` will use
 
 #### When should you use it?
 
-1.  You get frequent pull requests, often with documentation only fixes.
-2.  You regularly style your code with styler, and require all additions
-    be styled as well.
+1. You get frequent pull requests, often with documentation only fixes.
+1. You regularly style your code with styler, and require all additions
+   be styled as well.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -688,7 +680,7 @@ jobs:
       - uses: r-lib/actions/pr-push@v2
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-```
+````
 
 ### Render Rmarkdown
 
@@ -698,7 +690,7 @@ This example automatically re-builds any Rmarkdown file in the
 repository whenever it changes and commits the results to the same
 branch.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -732,7 +724,7 @@ jobs:
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git commit ${RMD_PATH[*]/.Rmd/.md} -m 'Re-build Rmarkdown files' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
-```
+````
 
 ### Build pkgdown site
 
@@ -747,7 +739,7 @@ browser](https://docs.github.com/en/actions/managing-workflow-runs/manually-runn
 or [triggered via the GitHub REST
 API](https://docs.github.com/en/rest/reference/actions/#create-a-workflow-dispatch-event).
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -794,7 +786,7 @@ jobs:
           clean: false
           branch: gh-pages
           folder: docs
-```
+````
 
 ### Document package
 
@@ -804,7 +796,7 @@ This example documents an R package whenever a file in the `R/`
 directory changes, then commits and pushes the changes to the same
 branch.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -849,7 +841,7 @@ jobs:
           git commit -m "Update documentation" || echo "No changes to commit"
           git pull --ff-only
           git push origin
-```
+````
 
 ### Style package
 
@@ -858,7 +850,7 @@ jobs:
 This example styles the R code in a package, then commits and pushes the
 changes to the same branch.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -927,7 +919,7 @@ jobs:
           git commit -m "Style code" || echo "No changes to commit"
           git pull --ff-only
           git push origin
-```
+````
 
 ### Build bookdown site
 
@@ -944,7 +936,7 @@ with Continous
 Integration](https://rstudio.github.io/renv/articles/ci.html) for
 additional information.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -992,7 +984,7 @@ jobs:
         with:
           branch: gh-pages
           folder: _book
-```
+````
 
 ### Build blogdown site
 
@@ -1008,7 +1000,7 @@ locally and commit the `renv.lock` file before using this workflow, see
 Integration](https://rstudio.github.io/renv/articles/ci.html) for
 additional information.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -1053,7 +1045,7 @@ jobs:
         with:
           branch: gh-pages
           folder: public
-```
+````
 
 ### Shiny App Deployment
 
@@ -1072,15 +1064,15 @@ This action assumes you have an `renv` lockfile in your repository that
 describes the `R` packages and versions required for your Shiny
 application.
 
--   See here for information on how to obtain the token and secret for
-    configuring `rsconnect`:
-    <https://shiny.rstudio.com/articles/shinyapps.html>
+* See here for information on how to obtain the token and secret for
+  configuring `rsconnect`:
+  <https://shiny.rstudio.com/articles/shinyapps.html>
 
--   See here for information on how to store private tokens in a
-    repository as GitHub Secrets:
-    <https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository>
+* See here for information on how to store private tokens in a
+  repository as GitHub Secrets:
+  <https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository>
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -1114,7 +1106,7 @@ jobs:
           rsconnect::setAccountInfo(${{ secrets.RSCONNECT_USER }}, ${{ secrets.RSCONNECT_TOKEN }}, ${{ secrets.RSCONNECT_SECRET }})
           rsconnect::deployApp()
         shell: Rscript {0}
-```
+````
 
 ### Docker based workflow
 
@@ -1127,7 +1119,7 @@ the following workflow. This example workflow assumes you build some
 model in `fit_model.R` and then have a report in `report.Rmd`. It then
 uploads the rendered html from the report as a build artifact.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on: [push]
@@ -1151,7 +1143,7 @@ jobs:
         with:
           name: results
           path: report.html
-```
+````
 
 ### Bioconductor-friendly workflow
 
@@ -1164,7 +1156,7 @@ detail at[the `biocthis` introductory
 vignette](https://lcolladotor.github.io/biocthis/articles/biocthis.html#use-bioc-github-action-).
 You can add this workflow using the following R code:
 
-``` r
+````r
 ## If needed
 remotes::install_github("lcolladotor/biocthis")
 
@@ -1177,7 +1169,7 @@ usethis::use_github_action(
     "https://bit.ly/biocthis_gha",
     "check-bioc.yml"
 )
-```
+````
 
 ### Lint project workflow
 
@@ -1186,7 +1178,7 @@ usethis::use_github_action(
 This example uses the [lintr](https://github.com/jimhester/lintr)
 package to lint your project and return the results as annotations.
 
-``` yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -1216,7 +1208,7 @@ jobs:
       - name: Lint root directory
         run: lintr::lint_dir()
         shell: Rscript {0}
-```
+````
 
 ### Forcing binaries
 
@@ -1237,14 +1229,14 @@ environment variable `R_COMPILE_AND_INSTALL_PACKAGES=never`. You can set
 an environment variable by passing it as a name-value pair to the
 `jobs.<job_id>.env` keyword, as in this partial example:
 
-``` yaml
+````yaml
 jobs:
   R-CMD-check:
    # missing yaml here
     env:
       R_COMPILE_AND_INSTALL_PACKAGES: never
    # missing yaml here
-```
+````
 
 `R_COMPILE_AND_INSTALL_PACKAGES: never` does what it says on the tin: it
 will never install from source. If there is *no* binary for the package,
@@ -1258,15 +1250,16 @@ You can learn more about packages in source and binary form
 [here](https://r-pkgs.org/package-structure-state.html#binary-package)
 and
 [here](https://www.jumpingrivers.com/blog/faster-r-package-installation-rstudio/).
-***
+
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Actions for R]] AND -"Changelog"
-```
+````

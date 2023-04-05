@@ -1,17 +1,10 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Date Dimension Table"]
----
-
 # SQL - PostgreSQL - Date Dimension Table
 
 *Source: https://gist.github.com/jpotts18/eaaf18c2b2ffe969f9641c2e05783150*
 
 ## Create
 
-```SQL
+````SQL
 CREATE TABLE public.dates (
 	id                          int4 NOT NULL PRIMARY KEY,
 	date                        date NOT NULL,
@@ -79,11 +72,11 @@ CREATE TABLE public.dates (
 	weekday_weekend             varchar NOT NULL
 )
 WITH (OIDS=FALSE);
-```
+````
 
 ## Insert
 
-```SQL
+````SQL
 TRUNCATE TABLE dates;
 
 INSERT INTO dates VALUES (
@@ -236,20 +229,20 @@ UPDATE dates
        is_end_of_week_of_year = (date = week_of_year_ends_on),
        days_in_week_of_year = (week_of_year_ends_on - week_of_year_begins_on) + 1
  WHERE id > 0;
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Date Dimension Table]] AND -"Changelog"
-```
+````

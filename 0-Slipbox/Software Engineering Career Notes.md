@@ -1,10 +1,3 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Software Engineering Career Notes"
----
-
 # Software Engineering Career Notes
 
 ## Software Engineering Culture
@@ -12,33 +5,33 @@ Alias: "Software Engineering Career Notes"
 *Source: [Software Roles and Titles | Eric Elliott | Medium](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c#:~:text=1%20Engineering%20Fellow%202%20CEO%203%20CTO%204,14%20Junior%20Software%20Developer%2015%20Intern%20Software%20Developer)*
 
 1. **Skills** over *titles*
-2. **Continuous Delivery** over *deadlines*
-3. **Support** over *blame*
-4. **Collaboration** over *competition*
+1. **Continuous Delivery** over *deadlines*
+1. **Support** over *blame*
+1. **Collaboration** over *competition*
 
 ## Roles in Software Development
 
--   Engineering Fellow
--   CEO
--   CTO
--   CIO/Chief Digital Officer/Chief Innovation Officer
--   VP of Engineering/Director of Engineering
--   Chief Architect
--   Software Architect
--   Engineering Project Manager/Engineering Manager
--   Technical Lead/Engineering Lead/Team Lead
--   Principal Software Engineer
--   Senior Software Engineer/Senior Software Developer
--   Software Engineer
--   Software Developer
--   Junior Software Developer
--   Intern Software Developer
+* Engineering Fellow
+* CEO
+* CTO
+* CIO/Chief Digital Officer/Chief Innovation Officer
+* VP of Engineering/Director of Engineering
+* Chief Architect
+* Software Architect
+* Engineering Project Manager/Engineering Manager
+* Technical Lead/Engineering Lead/Team Lead
+* Principal Software Engineer
+* Senior Software Engineer/Senior Software Developer
+* Software Engineer
+* Software Developer
+* Junior Software Developer
+* Intern Software Developer
 
 As well as,
 
--   VP of Product Management/Head of Product
--   Product Manager
--   VP of Marketing
+* VP of Product Management/Head of Product
+* Product Manager
+* VP of Marketing
 
 ### Chief Architect
 
@@ -90,7 +83,7 @@ I’ve seen a lot of dysfunction in engineering leadership because of confusion 
 
 Likewise, in an organization of sufficient size, product and engineering need to be two separately led teams. What I mean by that is that the product managers should own the product roadmap. They should be evangelists for the users, and they should be really plugged into the users, often engaging with them 1:1 and learning about their workflows and pain-points in great depth. They should be experts on what the market needs, and they should be very familiar with the company’s strengths and capabilities to fill those needs.
 
-That said, the VP of Engineering (or whomever is filling that role) needs to be in charge of _delivery, and production pace._ While the product managers should own the roadmap, the engineering managers need to be responsible for taking those roadmap priorities, matching them to the engineering capacity, and reporting on the timing. Product and marketing teams will have strong opinions about _when_ something should ship, but only the engineering management has a good gauge of whether or not those delivery timelines are possible given the roadmap requirements. The engineering team needs the authority not simply to push back on timing, but in most cases, to completely own timing, working with the CEO, product, and marketing teams to figure out priorities, understand strategic needs of the company, and then help shape a development cadence that can meet those needs without imposing drop-dead deadlines that ultimately hurt the company’s ability to deliver quality products at a reliable pace.
+That said, the VP of Engineering (or whomever is filling that role) needs to be in charge of *delivery, and production pace.* While the product managers should own the roadmap, the engineering managers need to be responsible for taking those roadmap priorities, matching them to the engineering capacity, and reporting on the timing. Product and marketing teams will have strong opinions about *when* something should ship, but only the engineering management has a good gauge of whether or not those delivery timelines are possible given the roadmap requirements. The engineering team needs the authority not simply to push back on timing, but in most cases, to completely own timing, working with the CEO, product, and marketing teams to figure out priorities, understand strategic needs of the company, and then help shape a development cadence that can meet those needs without imposing drop-dead deadlines that ultimately hurt the company’s ability to deliver quality products at a reliable pace.
 
 The best performing teams I’ve ever been involved with subscribed to the no deadlines approach. We build great products without announcing them in advance, and then let the marketing teams promote work that is already done. Alternatively, when you’re working in the public view, transparency is a great solution. Instead of cramming to meet an arbitrary deadline, actively share your progress, with ticket burn-down charts, a clear view of remaining work, progress, pace, and remaining scope, and change over time that can indicate scope creep. When you share detailed information about the progress being made, and share the philosophy that we can’t promise a delivery date, but we can share everything we know about our progress with you, people can see for themselves the work and the pace.
 
@@ -108,17 +101,17 @@ Engineering managers, I’m not letting you off the hook. If these dysfunctions 
 
 Don’t place blame, but do demonstrate that your team is doing their very best work.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Software Development]]
-- [[Agile Development]]
-- [[RDatascience - Career Tips From an Old Timer]]
+* [Development](../2-Areas/MOCs/Development.md)
+* [Software Development](../2-Areas/MOCs/Software%20Development.md)
+* [Agile Development](Agile%20Development.md)
+* [RDatascience - Career Tips From an Old Timer](../3-Resources/Highlights/Readwise/Articles/RDatascience%20-%20Career%20Tips%20From%20an%20Old%20Timer.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Software Engineering Career Notes]] AND -"Changelog"
-```
+````

@@ -1,10 +1,3 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Data Lake"
----
-
 # Data Lake
 
 ## What is a Data Lake?
@@ -29,28 +22,28 @@ A data lake is different, because it stores relational data from line of busines
 
 As organizations with data warehouses see the benefits of data lakes, they are evolving their warehouse to include data lakes, and enable diverse query capabilities, data science use-cases, and advanced capabilities for discovering new information models. Gartner names this evolution the "Data Management Solution for Analytics" or "[DMSA](https://www.gartner.com/doc/3614317/magic-quadrant-data-management-solutions)."
 
-| Characteristics       | Data Warehouse                                                                                  | Data Lake                                                                                                        |
-| --------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Data**              | Relational from transactional systems, operational databases, and line of business applications | Non-relational and relational from IoT devices, web sites, mobile apps, social media, and corporate applications |
-| **Schema**            | Designed prior to the DW implementation (schema-on-write)                                       | Written at the time of analysis (schema-on-read)                                                                 |
-| **Price/Performance** | Fastest query results using higher cost storage                                                 | Query results getting faster using low-cost storage                                                              |
-| **Data Quality<br>**  | Highly curated data that serves as the central version of the truth                             | Any data that may or may not be curated (ie. raw data)<br>                                                       |
-| **Users**             | Business analysts                                                                               | Data scientists, Data developers, and Business analysts (using curated data)                                     |
-| **Analytics**         | Batch reporting, BI and visualizations                                                          | Machine Learning, Predictive analytics, data discovery and profiling                                             |
+|Characteristics|Data Warehouse|Data Lake|
+|---------------|--------------|---------|
+|**Data**|Relational from transactional systems, operational databases, and line of business applications|Non-relational and relational from IoT devices, web sites, mobile apps, social media, and corporate applications|
+|**Schema**|Designed prior to the DW implementation (schema-on-write)|Written at the time of analysis (schema-on-read)|
+|**Price/Performance**|Fastest query results using higher cost storage|Query results getting faster using low-cost storage|
+|**Data Quality<br>**|Highly curated data that serves as the central version of the truth|Any data that may or may not be curated (ie. raw data)<br>|
+|**Users**|Business analysts|Data scientists, Data developers, and Business analysts (using curated data)|
+|**Analytics**|Batch reporting, BI and visualizations|Machine Learning, Predictive analytics, data discovery and profiling|
 
 ## Deploying Data Lakes in the cloud
 
 Data Lakes are an ideal workload to be deployed in the cloud, because the cloud provides performance, scalability, reliability, availability, a diverse set of analytic engines, and massive economies of scale. [ESG research](https://s3-ap-southeast-1.amazonaws.com/mktg-apac/Big+Data+Refresh+Q4+Campaign/ESG-White-Paper-AWS-Apr-2017+(FINAL).pdf) found 39% of respondents considering cloud as their primary deployment for analytics, 41% for data warehouses, and 43% for Spark. The top reasons customers perceived the cloud as an advantage for Data Lakes are better security, faster time to deployment, better availability, more frequent feature/functionality updates, more elasticity, more geographic coverage, and costs linked to actual utilization.
 
-***
+---
 
 ### Appendix: Related
 
-- [[Logical Architecture of Modern Data Lake Centric Analytics Platforms]]
-- [[Data Warehouse]]
+* [Logical Architecture of Modern Data Lake Centric Analytics Platforms](Logical%20Architecture%20of%20Modern%20Data%20Lake%20Centric%20Analytics%20Platforms.md)
+* [Data Warehouse](Data%20Warehouse.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Data Lake]] AND -"Changelog"
-```
+````

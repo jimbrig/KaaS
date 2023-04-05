@@ -1,22 +1,15 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Progressive Summarization"
----
-
 # Progressive Summarization
 
-***
+---
 
 #### Related
 
-- [[Tiago Forte]]
-- [[Productivity]]
-- [[Personal Knowledge Management]]
+* [Tiago Forte](../2-Areas/People/Tiago%20Forte.md)
+* [Productivity](../2-Areas/MOCs/Productivity.md)
+* [Personal Knowledge Management](../2-Areas/MOCs/Personal%20Knowledge%20Management.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Progressive Summarization]] AND -"Changelog"
-```
+````

@@ -1,39 +1,28 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["PKM Tools"]
----
-
 # PKM Tools Overview
 
 %% Begin Waypoint %%
-- [[Evernote]]
-- [[Feedly]]
-- [[Hypothesis.io]]
-- [[Instapaper]]
-- [[Kindle]]
-- [[Medium]]
-- **[[Obsidian]]**
-- [[PKM Tools]]
-- [[Readwise]]
-- [[Zotero]]
+
+* [Evernote](Evernote.md)
+* [Feedly](Feedly.md)
+* [Hypothesis.io](Hypothesis.io.md)
+* [Instapaper](Instapaper.md)
+* [Kindle](Kindle.md)
+* [Medium](Medium.md)
+* **[Obsidian](Obsidian/Obsidian.md)**
+* [PKM Tools](PKM%20Tools.md)
+* [Readwise](Readwise.md)
+* [Zotero](Zotero.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## PKM Tools Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

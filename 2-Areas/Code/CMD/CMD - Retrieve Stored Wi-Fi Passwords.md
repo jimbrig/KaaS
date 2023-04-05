@@ -1,32 +1,24 @@
----
-Date: 2022-02-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["Retrieve Stored Wi-Fi Passwords"]
----
-
 # Retrieve Stored Wi-Fi Passwords
 
-*Source: *
+\*Source: *
 
-```powershell
+````powershell
 netsh wlan show profile name=fossbytes key=clear
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Windows CMD]]
-- [[Command Line]]
-- [[PowerShell]]
-
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* *Windows CMD*
+* *Command Line*
+* [PowerShell](../PowerShell/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Retrieve Stored Wi-Fi Passwords]] AND -"Changelog"
-```
+````

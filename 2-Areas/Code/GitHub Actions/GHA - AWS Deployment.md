@@ -1,15 +1,8 @@
----
-Date: 2022-10-21
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/YAML", "#Topic/Dev"]
-Alias: ["GHA - AWS Deployment"]
----
-
 # GHA - AWS Deployment
 
 *Source: https://github.com/actions/starter-workflows/blob/main/deployments/aws.yml*
 
-```yaml
+````yaml
 # This workflow will build and push a new container image to Amazon ECR,
 # and then will deploy a new task definition to Amazon ECS, when there is a push to the $default-branch branch.
 #
@@ -103,28 +96,28 @@ jobs:
         service: ${{ env.ECS_SERVICE }}
         cluster: ${{ env.ECS_CLUSTER }}
         wait-for-service-stability: true
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[Development]]
-- [[Code]]
-- [[GitHub Actions]]
-- [[GitHub]]
-- [[AWS]]
-- [[Amazon EC2]]
-- [[3-Resources/Tools/Developer Tools/Docker/_README|Docker]]
+* [Development](../../MOCs/Development.md)
+* [Code](../Code.md)
+* [GitHub Actions](GitHub%20Actions.md)
+* [GitHub](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md)
+* [AWS](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md)
+* [Amazon EC2](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20EC2.md)
+* *Docker*
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - AWS Deployment]] AND -"Changelog"
-```
+````

@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS", "Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS"]
----
 # Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy | DEEP QUESTIONS
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- How to Deal With Coworkers Who Lose Connection With You
+
+* How to Deal With Coworkers Who Lose Connection With You
   Summary:
   Conrad Case: How do you deal with co workers who lose connection when you shift from being a source of instant help to a chat? Anemal for back ground, i have built a reputation for being helpful and that has helped me get my name known more widely in my department. If i start cutting shallow work and taking longer to reply, i feel like people will be less inclined to seek my advice. Jonathan asks, how do you schedule around the inherent unpredictability of kids?...
   Transcript:
@@ -68,7 +62,7 @@ Aliases: ["Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpe
   Jonathan asks, how
   Speaker 1
   do you schedule around the inherent unpredictability of kids? ([Time 0:15:50](https://share.snipd.com/snip/a4befc6d-1d07-493b-9727-6b46ce06e749))
-- Can You Have Too Much Autonomy?
+* Can You Have Too Much Autonomy?
   Summary:
   Be intentional, have daily dose of solitude, weekly mega dose, and you will be fine. Autonomy's tough, right? If you don't have any, you're miserable. But if you have complete autonomy, people get miserable as well. Ph d students in particular, have a lot of trouble with the massive autonomy you have as a p h d student. You really got to know what you're about and get after it....
   Transcript:

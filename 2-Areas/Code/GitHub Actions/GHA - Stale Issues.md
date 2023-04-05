@@ -1,17 +1,10 @@
----
-Date: 2022-10-21
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/YAML", "#Topic/Dev"]
-Alias: ["GHA - Stale Issues"]
----
-
 # GHA - Stale Issues
 
 *Source: https://github.com/actions/starter-workflows/blob/main/automation/stale.yml | https://github.com/actions/stale*
 
 ## Code
 
-```yaml
+````yaml
 # This workflow warns and then closes issues and PRs that have had no activity for a specified amount of time.
 #
 # You can adjust the behavior by modifying this file.
@@ -39,25 +32,25 @@ jobs:
         stale-pr-message: 'Stale pull request message'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[Development]]
-- [[Code]]
-- [[GitHub Actions]]
-- [[GitHub]]
+* [Development](../../MOCs/Development.md)
+* [Code](../Code.md)
+* [GitHub Actions](GitHub%20Actions.md)
+* [GitHub](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md)
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - Stale Issues]] AND -"Changelog"
-```
+````

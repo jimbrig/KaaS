@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Megan McNealy on Achieving Optimal Productivity Through Well-being", "Megan McNealy on Achieving Optimal Productivity Through Well-being"]
----
 # Megan McNealy on Achieving Optimal Productivity Through Well-being
 
 ## Metadata
-- Author: [[Beyond the To-Do List]]
-- Full Title: Megan McNealy on Achieving Optimal Productivity Through Well-being
-- Category: #Type/Highlight/Podcast
+
+* Author: *Beyond the To-Do List*
+* Full Title: Megan McNealy on Achieving Optimal Productivity Through Well-being
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Body, Mind and Spirit - 18 spokes
+
+* Body, Mind and Spirit - 18 spokes
   Summary:
   "You actually need to be well in order to do well, or at least, yes, to reach your full potential," she says. "We've got body, we've got mind, and we've got spirit." Get enough sleep is one of the spokes; hydrate can also help you feel better. The key to her work is customization: how do you customi like a framework for people? 'I'm not trying to be controversial in this'
   Transcript:

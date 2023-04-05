@@ -1,25 +1,17 @@
----
-Date: 2022-01-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Nativefier"]
----
-
 # Nativefier
 
 *Source: [nativefier/nativefier: Make any web page a desktop application (github.com)](https://github.com/nativefier/nativefier)*
 
-See Also: [[Creating a Google Suite Desktop Electron App with Nativefier]]
+See Also: [Creating a Google Suite Desktop Electron App with Nativefier](../../../0-Slipbox/Creating%20a%20Google%20Suite%20Desktop%20Electron%20App%20with%20Nativefier.md)
 
-***
+---
 
 ## Contents
 
-- [[#Usage|Usage]]
-	- [[#Example|Example]]
-- [[#Resources|Resources]]
-- [[#Appendix: Related|Appendix: Related]]
-
+* [Usage](Nativefier.md#usage)
+  * [Example](Nativefier.md#example)
+* [Resources](Nativefier.md#resources)
+* [Appendix: Related](Nativefier.md#appendix-related)
 
 ## Introduction
 
@@ -27,23 +19,23 @@ See Also: [[Creating a Google Suite Desktop Electron App with Nativefier]]
 
 I built this because I grew tired of having to Alt-Tab to my browser and then search through numerous open tabs when using Messenger or Whatsapp Web ([HN thread](https://news.ycombinator.com/item?id=10930718)). Nativefier features:
 
--   Automatically retrieval of app icon / name
--   Injection of custom JS & CSS
--   Many more, see the [API docs](https://github.com/nativefier/nativefier/blob/master/API.md) or `nativefier --help`
+* Automatically retrieval of app icon / name
+* Injection of custom JS & CSS
+* Many more, see the [API docs](https://github.com/nativefier/nativefier/blob/master/API.md) or `nativefier --help`
 
 ## Installation
 
 Installing nativefier is as easy as:
 
-```powershell
+````powershell
 npm i -g nativefier
-```
+````
 
 *Assuming you have Node and NPM installed and on your `%PATH%`*
 
 ## Usage
 
-```PowerShell
+````PowerShell
 ➜ nativefier --help
 
 nativefier <targetUrl> [outputDirectory] [other options]
@@ -147,13 +139,13 @@ Examples:
   nativefier <targetUrl> -p <platform> -a <arch>  Make an app from <targetUrl> for the OS <platform> and CPU architecture <arch>
   for more examples and help...                   See https://github.com/nativefier/nativefier/blob/master/CATALOG.md
 
-```
+````
 
 ### Example
 
 For example, here's how I created my GSuite Desktop PWA App:
 
-```PowerShell
+````PowerShell
 nativefier 'https://workspace.google.com/u/1/dashboard' `
     --user-agent firefox `
     --portable "." `
@@ -165,47 +157,43 @@ nativefier 'https://workspace.google.com/u/1/dashboard' `
     --basic-auth-username "jimmy.briggs@jimbrig.com" `
     --basic-auth-password "<PASSWORD>" `
     "app"
-```
+````
 
 Resulting in this directory output into the `app` folder specified above:
 
 ![](https://i.imgur.com/CLX94pi.png)
 
-
 and this is what the application looks like while running:
 
 ![](https://i.imgur.com/CXAk3R4.png)
 
-
 ## Resources
 
-- [nativefier/nativefier: Make any web page a desktop application (github.com)](https://github.com/nativefier/nativefier)
-- [nativefier/CATALOG.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/CATALOG.md)
-- [nativefier/CHANGELOG.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/CHANGELOG.md)
-- [nativefier/HACKING.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/HACKING.md)
-- [nativefier/API.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/API.md#command-line)
-- [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/index.php)
-- [WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/)
-- [Introduction | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/)
-- [Accelerator | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/api/accelerator)
-- [BrowserWindow | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/api/browser-window#new-browserwindowoptions)
-- [sindresorhus/electron-dl: Simplified file downloads for your Electron app (github.com)](https://github.com/sindresorhus/electron-dl)
-- [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)
+* [nativefier/nativefier: Make any web page a desktop application (github.com)](https://github.com/nativefier/nativefier)
+* [nativefier/CATALOG.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/CATALOG.md)
+* [nativefier/CHANGELOG.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/CHANGELOG.md)
+* [nativefier/HACKING.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/HACKING.md)
+* [nativefier/API.md at master · nativefier/nativefier (github.com)](https://github.com/nativefier/nativefier/blob/master/API.md#command-line)
+* [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/index.php)
+* [WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/)
+* [Introduction | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/)
+* [Accelerator | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/api/accelerator)
+* [BrowserWindow | Electron (electronjs.org)](https://www.electronjs.org/docs/latest/api/browser-window#new-browserwindowoptions)
+* [sindresorhus/electron-dl: Simplified file downloads for your Electron app (github.com)](https://github.com/sindresorhus/electron-dl)
+* [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)
 
-
-***
+---
 
 ## Appendix: Related
 
 **Example Use:**
 
-- [[Creating a Google Suite Desktop Electron App with Nativefier]]
+* [Creating a Google Suite Desktop Electron App with Nativefier](../../../0-Slipbox/Creating%20a%20Google%20Suite%20Desktop%20Electron%20App%20with%20Nativefier.md)
 
 **Notes:**
 
-- [[Tools]]
-- [[CLI Tools List]]
-- [[Nodejs]] | [[Node - npm]]
-- [[Electron]]
-- [[Portable Apps]]
-
+* [Tools](../Tools.md)
+* [CLI Tools List](../../../2-Areas/Lists/CLI%20Tools%20List.md)
+* *Nodejs* | [Node - npm](../Developer%20Tools/Package%20Managers/Node%20-%20npm.md)
+* [Electron](Electron.md)
+* [Portable Apps](../../../0-Slipbox/Portable%20Apps.md)

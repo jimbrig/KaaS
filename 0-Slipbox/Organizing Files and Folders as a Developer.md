@@ -1,13 +1,6 @@
----
-Date: 2022-06-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/PKM"]
-Alias: "Organizing Files and Folders as a Developer"
----
-
 # Organizing Files and Folders as a Developer
 
-```mermaid
+````mermaid
 graph LR
 	root["~/"] --> Desk(Desktop)
 	root["~/"] --> Pics(Pictures)
@@ -18,20 +11,18 @@ graph LR
 	root["~/"] --> Links(Links)
 	root["~/"] --> Favs(Favorites)
 	root["~/"] --> Dev{Dev}
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[CLI Tools List]]
-- [[Command Line]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [CLI Tools List](../2-Areas/Lists/CLI%20Tools%20List.md)
+* *Command Line*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Organizing Files and Folders as a Developer]] AND -"Changelog"
-```
+````

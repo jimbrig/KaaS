@@ -1,22 +1,14 @@
----
-Date: 2022-09-04
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Status/WIP"]
-Alias: "Excel Developer Setup Guide"
----
-
 # Excel Developer Setup Guide
 
 ## Overview
 
-To setup a proper development environment for [[Excel]] the following steps should be taken:
+To setup a proper development environment for [Excel](../Code/Excel/Excel.md) the following steps should be taken:
 
-1. Download and Install [[Microsoft Office]] 
-
+1. Download and Install [Microsoft Office](../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md) 
 
 ### Flowchart
 
-```mermaid
+````mermaid
 flowchart LR
 	subgraph install[Installation]
 		
@@ -63,18 +55,16 @@ flowchart LR
 	
 	
 	
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-09-04]]
-- [[2-Areas/Code/Excel/_README|Excel]]
-- [[2-Areas/Code/VBA/_README|VBA]]
+* [2022-09-04](../Daily-Notes/2022/2022-09/2022-09-04.md)
+* *Excel*
+* *VBA*
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
-
-

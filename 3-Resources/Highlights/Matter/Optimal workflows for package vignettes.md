@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://blog.r-hub.io/2020/06/03/vignettes/](https://blog.r-hub.io/2020/06/03/vignettes/)
-* Author: [[Maëlle Salmon]]
-* Publisher: [[blog.r-hub.io]]
+* Author: *Maëlle Salmon*
+* Publisher: *blog.r-hub.io*
 * Published Date: 2020-06-03
 
 ## Highlights
+
 * Yet another post with a focus on package documentation! This time, we’ll cover vignettes a.k.a “long-form package documentation”, both basics around vignette building and infrastructure, and some tips for more maintainer- and user- friendliness.
 * What is a vignette? Where does it live?
 * Vignette 101 In the “R packages” book by Hadley Wickham and Jenny Bryan, the vignettes chapter starts with “A vignette is a long-form guide to your package. Function documentation is great if you know the name of the function you need, but it’s useless otherwise." In “Writing R Extensions”, vignettes are defined as “documents in PDF or HTML format obtained from plain-text literate source files from which R knows how to extract R code and create output (in PDF/HTML or intermediate LaTeX).".

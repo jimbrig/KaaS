@@ -1,17 +1,10 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL -Normalize Whitespace"]
----
-
 # SQL - PostgreSQL -Normalize Whitespace
 
 *Source: https://wiki.postgresql.org/wiki/Normalize_whitespace*
 
-*NOTE: This function uses generic [[SQL]].*
+*NOTE: This function uses generic [SQL](SQL.md).*
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION normalize_space(TEXT)
 RETURNS TEXT
 IMMUTABLE
@@ -31,23 +24,23 @@ RETURNS text LANGUAGE plperl AS $$
     s/\s+/ /og;
     return $_;
 $$;
-```
+````
 
 So, if you want to update/insert to a table and normalize the text previously this action, you might create a trigger before insert for each row, like this:
 
-```SQL
+````SQL
 CREATE TABLE pepito (wordy text, moody text, bar text);
 
 DROP IF EXISTS trigger n_space on pepito;
 
 CREATE TRIGGER n_space BEFORE INSERT OR UPDATE ON pepito FOR EACH ROW EXECUTE PROCEDURE n_space();
-```
+````
 
 This function trigger, looks up fields of text type and touch `NEW` values with the replace expression.
 
-*NOTE: This function uses the [[PLPERL]] language based off of [[PERL]].*
+*NOTE: This function uses the *PLPERL* language based off of *PERL*.*
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION n_space() 
 RETURNS trigger
 VOLATILE
@@ -83,21 +76,21 @@ VALUES
     ('asd asd AS     asdbhfg',' asd  4t45gr g er    ergt',' asd sa'),
     ('    asd asd AS     asd asf      ',' asd  4t45gr g er    ergt',' asd sa');
 SELECT * FROM pepito;
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[PLPERL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* *PLPERL*
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Normalize Whitespace]] AND -"Changelog"
-```
+````

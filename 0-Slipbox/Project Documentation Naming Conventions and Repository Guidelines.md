@@ -1,13 +1,6 @@
----
-Date: 2022-01-30
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Project Documentation Naming Conventions and Repository Guidelines"
----
-
 # Project Documentation Naming Conventions and Repository Guidelines
 
-*Source: [[Project Documentation Naming Conventions and Repository Guidelines.pdf]]*
+*Source: *Project Documentation Naming Conventions and Repository Guidelines.pdf**
 
 ## Purpose
 
@@ -23,15 +16,15 @@ Project naming conventions include a standard format for the name and unique ide
 
 Project naming conventions and a project repository structure provide a number of benefits that are important for improving project management practices. Specifically, they enhance:
 
-- Project team communication
+* Project team communication
 
-- Project management efficiency
+* Project management efficiency
 
-- Project documentation management
+* Project documentation management
 
-- Configuration Management of project deliverables
+* Configuration Management of project deliverables
 
-- Project orientation for new team members
+* Project orientation for new team members
 
 ## Project Classes
 
@@ -49,10 +42,8 @@ Projects are classified as Class A, Class B, or Class C using the Project Classi
 
 A complete explanation of project classification can be found in the PM Guide, PM Handbook, SD Handbook, or Project Classification Criteria template.
 
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Project Documentation Naming Conventions and Repository Guidelines]] AND -"Changelog"
-```
+````

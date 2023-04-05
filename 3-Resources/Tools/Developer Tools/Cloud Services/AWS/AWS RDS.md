@@ -1,15 +1,8 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Cloud", "#Topic/Dev/Database"]
-Alias: ["AWS RDS", "Amazon Relational Database Service", "Amazon RDS"]
----
-
 # Amazon Relational Database Service (Amazon RDS)
 
 *Source: [What is Amazon Relational Database Service (Amazon RDS)? - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)*
 
-See Also: [[AWS Aurora]]
+See Also: [AWS Aurora](AWS%20Aurora.md)
 
 ## What is RDS?
 
@@ -21,18 +14,18 @@ Why do you want to run a relational database in the AWS Cloud? Because AWS takes
 
 **Topics**
 
--   [Amazon EC2 and on-premises databases](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.on-prem)
--   [Amazon RDS and Amazon EC2](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.RDS)
--   [Amazon RDS Custom for Oracle and Microsoft SQL Server](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.Custom)
+* [Amazon EC2 and on-premises databases](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.on-prem)
+* [Amazon RDS and Amazon EC2](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.RDS)
+* [Amazon RDS Custom for Oracle and Microsoft SQL Server](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html#Welcome.Concepts.Custom)
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://mobydiction.ca/blog/my-personal-knowledge-management-system
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["My Personal Knowledge Management System — Moby Diction", "My Personal Knowledge Management System — Moby Diction"]
----
 # My Personal Knowledge Management System — Moby Diction
 
 ## Metadata
-- Author: [[mobydiction.ca]]
-- Full Title: My Personal Knowledge Management System — Moby Diction
-- Category: #Type/Highlight/Article
-- URL: https://mobydiction.ca/blog/my-personal-knowledge-management-system
+
+* Author: *mobydiction.ca*
+* Full Title: My Personal Knowledge Management System — Moby Diction
+* Category: #Type/Highlight/Article
+* URL: https://mobydiction.ca/blog/my-personal-knowledge-management-system
 
 ## Highlights
-- Creating evergreen notes
+
+* Creating evergreen notes
   So far, what I have described is a fairly by-the-book implementation of Tiago Forte's PARA method. However, I found that one of the limitations of PARA is that I was still losing ideas. That is, I would read something, get some hunch or seed of an idea, but didn't have a good place to keep it.
   PARA's based heavily on Getting Things Done, which means it is heavily focused on a well-defined next action; however, an idea I have today might not really have the legs to become a full-blown project (of any size) until much later. I needed a way to incubate ideas a bit better. As well, I am a firm believer that writing is a way to master information. Translating my highlights and summaries into my own words, sentences, and paragraphs doesn't just help me better capture knowledge; it facilitates the generation of new knowledge.
   For this purpose, I've added an additional layer to Forte's progressive summarization: a zettelkasten. In the zettelkasten, I try to capture those hunches or original ideas that come up as I am reading. As I read more, these connect with new ideas, hopefully (though not always) blooming into paragraphs. Then, those paragraphs connect with other notes in the zettelkasten to form constellations of ideas that can may develop into essays or blog posts.

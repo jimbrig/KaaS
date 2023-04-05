@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Find your finish line", "Find your finish line"]
----
 # Find your finish line
 
 ## Metadata
-- Author: [[Before Breakfast]]
-- Full Title: Find your finish line
-- Category: #Type/Highlight/Podcast
+
+* Author: *Before Breakfast*
+* Full Title: Find your finish line
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Find Your Finish Line
+
+* Find Your Finish Line
   Summary:
   If you want to run three miles without stopping, choose a specific five k race. Maybe your workplace has dictated that people need to be back in the office three days a week by january third. If you want to declutter your house or redecorate your dining room, invite your relatives to thanksgiving dinner at your place. Now you've got a real dead line of late november to get it all done.
   Transcript:

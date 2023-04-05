@@ -1,30 +1,21 @@
----
-Date: 2022-01-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: "Data Warehousing Roadmap"
----
-
 # Data Warehousing Roadmap
 
 *Source: [A Sample Road-Map for Building Your Data Warehouse (upgrad.com)](https://www.upgrad.com/blog/a-sample-road-map-for-building-your-data-warehouse/)*
-
 
 <center><img src="https://i.imgur.com/NHmG2T7.png"/></center>
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Data Warehouse Tools|Data Warehouse Tools]]
-- [[#Setting up a Data Warehouse|Setting up a Data Warehouse]]
-	- [[#Evaluate Your Objectives|Evaluate Your Objectives]]
-	- [[#Analyze Current Technological Landscape|Analyze Current Technological Landscape]]
-	- [[#Information Modeling|Information Modeling]]
-	- [[#Designing the Warehouse and Tracking the Data Lineage|Designing the Warehouse and Tracking the Data Lineage]]
-	- [[#Implement the Plan|Implement the Plan]]
-- [[#Final Thoughts|Final Thoughts]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](Data%20Warehousing%20Roadmap.md#overview)
+* [Data Warehouse Tools](Data%20Warehousing%20Roadmap.md#data-warehouse-tools)
+* [Setting up a Data Warehouse](Data%20Warehousing%20Roadmap.md#setting-up-a-data-warehouse)
+  * [Evaluate Your Objectives](Data%20Warehousing%20Roadmap.md#evaluate-your-objectives)
+  * [Analyze Current Technological Landscape](Data%20Warehousing%20Roadmap.md#analyze-current-technological-landscape)
+  * [Information Modeling](Data%20Warehousing%20Roadmap.md#information-modeling)
+  * [Designing the Warehouse and Tracking the Data Lineage](Data%20Warehousing%20Roadmap.md#designing-the-warehouse-and-tracking-the-data-lineage)
+  * [Implement the Plan](Data%20Warehousing%20Roadmap.md#implement-the-plan)
+* [Final Thoughts](Data%20Warehousing%20Roadmap.md#final-thoughts)
+* [Appendix: Links](Data%20Warehousing%20Roadmap.md#appendix-links)
 
 ## Overview
 
@@ -39,9 +30,9 @@ Data Warehouse is extremely helpful when organizing large amounts of data to ret
 The tools needed for creation of a Data Warehouse can be broadly broken down into four core categories:
 
 1. Extraction Tools
-2. Table Management Tools
-3. Query Management Tools
-4. Data Integrity Tools
+1. Table Management Tools
+1. Query Management Tools
+1. Data Integrity Tools
 
 Each of these tools come in extremely handy at different stages of development of the Data Warehouse. Research on your part will help you understand more about these tools, and will allow you to can pick the ones which suit your needs.
 
@@ -73,14 +64,14 @@ Now that you’ve developed your plan and linked the pieces of data together, it
 
 Your data warehouse is set to stand the tests of time and granularity. It has to remain consistent for long stretches of time and at many levels of granularity. In the design phase of the setup, you can opt for various storage plans that tie into the non-repetitive update. For instance, an IT manager can set up a daily, weekly, or monthly grain storage systems. In the daily grain, the data can be stored in the original format in which it was collected can be kept for 2-3 years, after which it has to be summarized and moved to the weekly grain. Now, the data can remain in the weekly grain structure for the next 3-5 years, after which it will be moved to the monthly grain structure.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Data Warehouse]]
-- [[Databases]]
-- [[Data Mart]]
-- [[Data Lake]]
-- [[Data Warehousing for Insurance Data]]
-- [[3-Resources/Highlights/Readwise 1/Articles/Data Warehouse Insurance - Kimball Group]]
-- [[Data Warehousing Concepts and Definitions]]
+* [Data Warehouse](Data%20Warehouse.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Mart](Data%20Mart.md)
+* [Data Lake](Data%20Lake.md)
+* [Data Warehousing for Insurance Data](Data%20Warehousing%20for%20Insurance%20Data.md)
+* *3-Resources/Highlights/Readwise 1/Articles/Data Warehouse Insurance - Kimball Group*
+* [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)

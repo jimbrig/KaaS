@@ -1,20 +1,13 @@
----
-Date: 2022-03-20
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Python - pip"]
----
-
 # Python - pip
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Python - pip]] AND -"Changelog"
-```
+````

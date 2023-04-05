@@ -1,21 +1,14 @@
----
-Date: 2021-12-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/PowerShell"]
-Alias: "Pester"
----
-
 # PowerShell Module - Pester
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[2-Areas/MOCs/PowerShell]]
+* [Development](../../../../../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/PowerShell](../../../../../2-Areas/MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell Module - Pester]] AND -"Changelog"
-```
+````

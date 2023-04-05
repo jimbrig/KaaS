@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GHA - R Build Blogdown"]
----
-
 # GHA - R Build Blogdown
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#build-blogdown-site*
@@ -13,7 +6,7 @@ Alias: ["GHA - R Build Blogdown"]
 
 This example builds a [blogdown](https://bookdown.org/yihui/blogdown/) site for a repository and then deploys the book via [netlify](https://www.netlify.com/). It uses [renv](https://rstudio.github.io/renv/) to ensure the package versions remain consistent across builds. You will need to run `renv::snapshot()` locally and commit the `renv.lock` file before using this workflow, see [Using renv with Continous Integration](https://rstudio.github.io/renv/articles/ci.html) for additional information. **Note** you need to add a `NETLIFY_AUTH_TOKEN` a `NETLIFY_SITE_ID` secret to your repository for the netlify deploy (see [Managing secrets](https://github.com/r-lib/actions/tree/master/examples#managing-secrets) section for details).
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -51,17 +44,17 @@ jobs:
         with:
           branch: gh-pages
           folder: public
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - R Build Blogdown]] AND -"Changelog"
-```
+````

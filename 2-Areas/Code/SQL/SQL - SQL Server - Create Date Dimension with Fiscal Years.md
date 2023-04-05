@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Create Date Dimension with Fiscal Years"]
----
-
 # SQL - Create Date Dimension with Fiscal Years
 
-*Source: [Create [Date] Dimension with Fiscal Years | thiscodeWorks](https://www.thiscodeworks.com/61faf438b783be0015bbaf84)*
+*Source: [Create \[Date\] Dimension with Fiscal Years | thiscodeWorks](https://www.thiscodeworks.com/61faf438b783be0015bbaf84)*
 
-```SQL
+````SQL
 BEGIN TRY
     DROP TABLE [Dim].[Date]
 END TRY
@@ -748,21 +741,20 @@ FROM @tb a
 /********************************************************************************************/
  
 SELECT * FROM [Dim].[Date]
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Create Date Dimension with Fiscal Years]] AND -"Changelog"
-```
+````

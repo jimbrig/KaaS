@@ -1,37 +1,30 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Documentation", "#Type/Tool/Python", "#Topic/Dev/Documentation"]
-Alias: ["MkDocs"]
----
-
 # MkDocs
 
-#Status/Todo
+\#Status/Todo
 
 ## Installation
 
 ### Requirements
 
-- [Python](https://www.python.org/)
-- [pip]()
+* [Python](https://www.python.org/)
+* [pip]()
 
 ## Setup
 
-- Ensure `pip` is installed and in `PATH`:
+* Ensure `pip` is installed and in `PATH`:
 
-```powershell
+````powershell
 py -m pip --version
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[MkDocs]] AND -"Changelog"
-```
+````

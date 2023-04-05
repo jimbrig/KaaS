@@ -1,4 +1,5 @@
 ## Metadata
+
 * URL: [https://www.auditexcel.co.za/article/spreadsheet-documentation-using-only-excels-inbuilt-tools/](https://www.auditexcel.co.za/article/spreadsheet-documentation-using-only-excels-inbuilt-tools/)
 * Author: Adrian Comments Closed
 * Publisher: www.auditexcel.co.za
@@ -6,6 +7,7 @@
 * Tags: 
 
 ## Highlights
+
 * (all spreadsheets in fact) should have sufficient documentation to enable an independent person to understand and use the spreadsheet model. The documentation should give a clear indication of the history of the spreadsheet and significant events in the spreadsheets life cycle. This can be achieved by adding a worksheet into the spreadsheet, labeled ‘Documentation’, which should cover a number of aspects (identified below) and must be updated regularly.
 * How to document spreadsheets Insert a separate worksheet into all your spreadsheets (old and new alike) and document certain key information. See below for an explanation of the details required. Please note that more SoX critical/ complex spreadsheets would require a more detailed documentation page (or even a separate document!) but at the very least it should contain the information below.
 * Minimum Requirements in the documentation page

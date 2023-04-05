@@ -1,10 +1,3 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "ELT"
----
-
 # ELT
 
 In addition to the order of the processes (i.e transformation coming after the loading) in ELT, surprisingly, there are several key differences that separate the ELT from the usual ETL pipeline.
@@ -19,8 +12,8 @@ In a more advanced ETL/ELT process, tools such as [Apache Spark](https://spark.a
 
 ## Appendix: Links
 
-- [[ELT]]
-- [[Data Warehouse]]
-- [[ETL Data Warehousing Best Practices]]
-- [[Data Warehousing Concepts and Definitions]]
-- [[Databases]]
+* [ELT](ELT.md)
+* [Data Warehouse](Data%20Warehouse.md)
+* [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
+* [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)
+* [Databases](../2-Areas/MOCs/Databases.md)

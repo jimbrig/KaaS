@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Install Backblaze Client"]
----
-
 # PowerShell - Install Backblaze Client
 
 *Source: https://gist.github.com/be28121bdd9d2b8b637f932a110b6f53#file-instbbc-ps1*
 
-```powershell
+````powershell
 <#
 	powershell script to install backblaze backup client
 	-groupID <groupID>
@@ -486,21 +479,21 @@ if ( $ret -and $ret -ne 1001 ) {
     MyDebug "invoke-expression returned value [${ierc}] and rc [${ret}]"
     MyThrow "Error: backblaze_install [${BCMD}] exited with error code [${ret}]"
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Install Backblaze Client]] AND -"Changelog"
-```
+````

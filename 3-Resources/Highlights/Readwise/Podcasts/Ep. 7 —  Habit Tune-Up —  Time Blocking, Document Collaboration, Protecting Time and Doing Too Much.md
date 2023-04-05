@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much", "Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much"]
----
 # Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Time Block Planning - Is it a Good Idea?
+
+* Time Block Planning - Is it a Good Idea?
   Summary:
   Sidney is a full time college student, and i also work remotely in marketing. He has two issues with time blocking: it's difficult to estimate how long a task or project will take and how long he should dicate to it. The alternative to the list reactive method is what is called time block planning. You actually look at the time that is available outside of meetings and appointments, and you allicate specific work to specific times. This is more difficult than simply opening your m box or occasionally looking at a todo list. But if you time block plan you w'll produce about two times more valuable output in the same amount of time as compared to someone who is using the list...
   Transcript:

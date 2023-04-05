@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://blog.r-hub.io/2021/07/30/cache/](https://blog.r-hub.io/2021/07/30/cache/)
-* Author: [[Maëlle Salmon]]
-* Publisher: [[blog.r-hub.io]]
+* Author: *Maëlle Salmon*
+* Publisher: *blog.r-hub.io*
 * Published Date: 2021-07-30
 
 ## Highlights
+
 * One principle of programming that’s often encountered is “DRY”, “Don’t Repeat Yourself”, that encourages e.g. the use of functions over duplicated (read: copy-pasted and slightly amended) code. You could also interpret it as don’t let the machine repeat its calculations if useless. How about for a function with the same inputs (or with no argument!), we only run it once e.g. per R session, and save the results for later? In this post, we shall go over ways to cache results of R functions, so that you don’t need to burden machines and humans.
 * Caching: what is it and why use it? Caching means that if you call a function several times with the exact same input, the function is only actually run the first time. The result is stored in a cache of some sort (more practical details later!). Every other time the function is called with the same input, the result is retrieved from the cache unless invalidated. You will often think of caching as something valid in only one R session, but we’ll see it can be persistent across sessions via storage on disk.
 * Now, why use caching? * It might help save time. * It might help save other resources of users such as money: e.g. if the function calls a web API whose pricing depends on the number of hits. 😅 * It might be more polite. That’s similar to the second item but from the perspective of e.g. a web API you keep hitting when you could have saved the result. The polite package for polite webscraping caches results.

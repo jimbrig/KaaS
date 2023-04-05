@@ -1,33 +1,25 @@
----
-Date: 2022-03-22
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Save All"]
----
-
 # VBA - Save All
 
 ## Contents
 
-- [[#Individual Sub Modules|Individual Sub Modules]]
-	- [[#Save All|Save All]]
-	- [[#Close Without Save|Close Without Save]]
-	- [[#Save All and Close|Save All and Close]]
-- [[#Whole Save Module|Whole Save Module]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Individual Sub Modules](VBA%20-%20Save%20All.md#individual-sub-modules)
+  * [Save All](VBA%20-%20Save%20All.md#save-all)
+  * [Close Without Save](VBA%20-%20Save%20All.md#close-without-save)
+  * [Save All and Close](VBA%20-%20Save%20All.md#save-all-and-close)
+* [Whole Save Module](VBA%20-%20Save%20All.md#whole-save-module)
+* [Appendix: Links](VBA%20-%20Save%20All.md#appendix-links)
 
 ## Individual Sub Modules
 
-- [[#Save All|Save All]]
-- [[#Close Without Save|Close Without Save]]
-- [[#Save All and Close|Save All and Close]]
+* [Save All](VBA%20-%20Save%20All.md#save-all)
+* [Close Without Save](VBA%20-%20Save%20All.md#close-without-save)
+* [Save All and Close](VBA%20-%20Save%20All.md#save-all-and-close)
 
 ### Save All
 
-- `SaveAll(Optional CloseSaved As Boolean = False)`
+* `SaveAll(Optional CloseSaved As Boolean = False)`
 
-```VBA
+````VBA
 Sub SaveAll(Optional CloseSaved As Boolean = False)
 ' This procedure saves all open workbooks
 ' Created on: 2/28/12
@@ -109,13 +101,13 @@ wbActive.Activate
 Application.DisplayAlerts = True
 
 End Sub
-```
+````
 
 ### Close Without Save
 
-- `CloseWithoutSave(Optional bForceClose As Boolean = False)`
+* `CloseWithoutSave(Optional bForceClose As Boolean = False)`
 
-```VBA
+````VBA
 Sub CloseWithoutSave(Optional bForceClose As Boolean = False)
 ' Closes excel without saving any of the open files
 ' Created on: 3/13/12
@@ -147,13 +139,13 @@ For Each wbBook In Workbooks
 '    End If
 
 End Sub
-```
+````
 
 ### Save All and Close
 
-- `SaveAllAndClose()`
+* `SaveAllAndClose()`
 
-```VBA
+````VBA
 Sub SaveAllandClose()
 
 Dim sUnsavedMess As String
@@ -180,13 +172,13 @@ If ListAns = vbYes Then
     Excel.Application.Quit
     End If
 End Sub
-```
+````
 
 ## Whole Save Module
 
-- `ModSave.bat`
+* `ModSave.bat`
 
-```VBA
+````VBA
 Option Explicit
 Dim iCtSaved As Integer
 Dim iCtUnsaved As Integer
@@ -338,20 +330,20 @@ Private Sub TestSaveAll()
 SaveAll
 End Sub
 
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Save All]] AND -"Changelog"
-```
+````

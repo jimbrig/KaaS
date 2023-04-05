@@ -1,13 +1,6 @@
----
-Date: 2021-11-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "API Authentication"
----
-
 Status:: #Status/Todo  
 Type:: #Type/Documentation  
-Topic:: #Topic/Dev/WebDev/API  
+Topic:: #Topic/Dev/WebDev/API
 
 # API Authentication
 
@@ -43,9 +36,9 @@ Over time, however, a few common approaches have emerged. One is to have the cli
 
 To get started, we first need to know the cast of characters involved in an OAuth exchange:
 
--   **The User -** A person who wants to connect two websites they use
--   **The Client -** The website that will be granted access to the user's data
--   **The Server -** The website that has the user's data
+* **The User -** A person who wants to connect two websites they use
+* **The Client -** The website that will be granted access to the user's data
+* **The Server -** The website that has the user's data
 
 Next, we need to give a quick disclaimer. One goal of OAuth 2 is to allow businesses to adapt the authentication process to their needs. Due to this extendable nature, APIs can have slightly different steps. The workflow shown below is a common one found among web-based apps. Mobile and desktop applications might use slight variations on this process.
 
@@ -107,21 +100,21 @@ Today, however, most API traffic happens over a channel that is already secure (
 
 An element of OAuth 2 that deserves special attention is the concept limiting access, known formally as **authorization**. Back in Step 2, when the user clicks the button to allow the client access, buried in the fine print are the exact permissions the client is asking for. Those permissions, called **scope**, are another important feature of OAuth 2. They provide a way for the client to request limited access to the user's data, thereby making it easier for the user to trust the client.
 
-What makes scope powerful is that it is client-based restrictions. Unlike an API Key, where limits placed on the key affect every client equally, OAuth scope allows one client to have permission X and another permissions X and Y. That means one website might be able to view your contacts, while another site can view _and_ edit them.
+What makes scope powerful is that it is client-based restrictions. Unlike an API Key, where limits placed on the key affect every client equally, OAuth scope allows one client to have permission X and another permissions X and Y. That means one website might be able to view your contacts, while another site can view *and* edit them.
 
-***
+---
 
 ## Appendix: Links
 
-- [[API Design]]
-- [[API Architecture - Performance Best Practices]]
-- [[REST API Best Practices]]
-- [[REST API Resources List]]
-- [[Development]]
-- [[Web Development]]
+* [API Design](API%20Design.md)
+* [API Architecture - Performance Best Practices](API%20Architecture%20-%20Performance%20Best%20Practices.md)
+* [REST API Best Practices](REST%20API%20Best%20Practices.md)
+* [REST API Resources List](../2-Areas/Lists/REST%20API%20Resources%20List.md)
+* [Development](../2-Areas/MOCs/Development.md)
+* [Web Development](../2-Areas/MOCs/Web%20Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[API Authentication]] AND -"Changelog"
-```
+````

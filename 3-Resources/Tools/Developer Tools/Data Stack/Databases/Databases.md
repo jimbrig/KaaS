@@ -1,38 +1,27 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Databases"]
----
-
 # Databases Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README]]
-- [[Databases]]
-- [[Elasticsearch]]
-- [[Hadoop]]
-- [[MariaDB]]
-- [[PostgreSQL]]
-- [[Snowflake]]
-- [[SQL Server]]
-- [[SQLite]]
+
+* *3-Resources/Tools/Developer Tools/Data Stack/Databases/_README*
+* [Databases](../../../../../2-Areas/MOCs/Databases.md)
+* [Elasticsearch](Elasticsearch.md)
+* [Hadoop](Hadoop.md)
+* [MariaDB](MariaDB.md)
+* [PostgreSQL](PostgreSQL.md)
+* [Snowflake](Snowflake.md)
+* [SQL Server](SQL%20Server.md)
+* [SQLite](SQLite.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Databases Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

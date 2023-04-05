@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["How To Recover From A Bad Day (TPS374)", "How To Recover From A Bad Day (TPS374)"]
----
 # How To Recover From A Bad Day (TPS374)
 
 ## Metadata
-- Author: [[The Productivity Show: Time Management | GTD | Smart Personal Development | Business | Mac]]
-- Full Title: How To Recover From A Bad Day (TPS374)
-- Category: #Type/Highlight/Podcast
+
+* Author: * GTD | Smart Personal Development | Business | Mac*
+* Full Title: How To Recover From A Bad Day (TPS374)
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Thinking Time
+
+* Thinking Time
   Summary:
   i've been working with this person for about two and a half years now. And we originanly starte working together because i was curious about to improve my mental performance. It's the idea of externalizing something as much as we can, instead of keeping it in our heads. We have like a million competing thoughts going on at the same time, and it makes it really difficult to focus and take action.
   Transcript:

@@ -1,10 +1,3 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
-Alias: "Structure"
----
-
 # Structure
 
 ### Regular Daily Notes
@@ -59,9 +52,10 @@ This is a good review to do regularly; monthly, quarterly, annually, maybe even 
 
 This process is a good way to implement agile in your own work and processes. You are constantly experimenting and pivoting to improve yourself a little each day or week or month.
 
-> Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.
-> 
-> James Clear
+ > 
+ > Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.
+ > 
+ > James Clear
 
 ### Future & Career Planning
 
@@ -69,46 +63,48 @@ Similar to goals, but with a longer time scale. Your aims for your future and ca
 
 As you gain more experience you can update these plans and maybe even pivot towards something completely different. Using your Code Journal in this way will help you to plan and keep your plans in mind, in order to keep you on the path towards them. Thinking about your future on a regular basis will mean you can avoid going too far down a road that you don’t want to travel.
 
-- KaaS
- 	- Categories
-		 - Templates
-	 	- Development
-		 	- R
-		 	- PowerShell
-		 	- Python
-		 	- SQL
-		 	- Command Line
-		 	- Linux
-		 	- Bash
-		 	- Cloud
-			 	- Azure
-			 	- GCP
-			 	- AWS
-			- Docker
-			- Node
-			- Windows
-			- WSL
-			- Web Development
-			- React
-			- Javascript
-			- Databases
-			- System Design
-			- Regular Expressions
-			- Shell
-			- Networking\
-	- Personal
-		- People
-		- Productivity
-		- Personal Knowledge Management
-		- Task Management
-			
-	 - Inbox
-	 -
+* KaaS
+  * Categories
+    
+    * Templates
+    * Development
+      * R
+      * PowerShell
+      * Python
+      * SQL
+      * Command Line
+      * Linux
+      * Bash
+      * Cloud
+        * Azure
+        * GCP
+        * AWS
+      * Docker
+      * Node
+      * Windows
+      * WSL
+      * Web Development
+      * React
+      * Javascript
+      * Databases
+      * System Design
+      * Regular Expressions
+      * Shell
+      * Networking
+  * Personal
+    
+    * People
+    * Productivity
+    * Personal Knowledge Management
+    * Task Management
+  * Inbox
+  
+  * 
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Structure]] AND -"Changelog"
-```
+````

@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["R - Package Management Scripts"]
----
-
 # R - Package Management Scripts
 
 *Source: https://gist.github.com/e3ad09a4f581db5fa2702ba9823eb635#file-install-r*
 
-```R
+````R
 library(pak)
 library(pkgdepends)
 library(purrr)
@@ -22,11 +15,11 @@ pkgs_gh <- pkgs %>% filter(remotetype == "github", !is.na(remotepkgref)) %>% pul
 
 purrr::walk(pkgs_cran, pak::pak, ask = FALSE, upgrade = TRUE)
 purrr::walk(pkgs_gh, pak::pak, ask = FALSE, upgrade = TRUE)
-```
+````
 
 *Source: https://gist.github.com/b9e06f700992245426bdbfe4f3c1d0c2#file-packages-r*
 
-```R
+````R
 library(pak)
 library(pkgdepends)
 library(purrr)
@@ -65,13 +58,13 @@ gh_gist %>% gistr::update_files(pkg_config_file, file.path(dirname(pkg_config_fi
 #                    description = "Windows R Package Library Files.",
 #                    public = TRUE,
 #                    browse = TRUE)
-```
+````
 
 Output:
 
 *Source: https://gist.github.com/b9e06f700992245426bdbfe4f3c1d0c2#file-packages-yml*
 
-```yaml
+````yaml
 cran:
 - argparse
 - argparser
@@ -358,18 +351,18 @@ gh:
 - HenrikBengtsson/rcli
 - stla/shinyChakraUI
 - gadenbuie/shrtcts
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R - Package Management Scripts]] AND -"Changelog"
-```
+````

@@ -1,10 +1,3 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R", "#Topic/Dev/Database"]
-Alias: ["R Code - mssql_rstudio", "mssql_rstudio"]
----
-
 # R Code - `mssql_rstudio`
 
 *Source: [czammar/mssql_rstudio: Having fun with mssql and Rstudio (github.com)](https://github.com/czammar/mssql_rstudio)*
@@ -17,19 +10,19 @@ Having fun with mssql and Rstudio.
 
 Let's build the `Dockerfile` based in rocker/verse:3.6.1 ([https://hub.docker.com/r/rocker/verse](https://hub.docker.com/r/rocker/verse))
 
-```bash
+````bash
 docker build -t my_image .
-```
+````
 
 Please note that default user is `rstudio` and instances run in `localhost:8787`
 
-```bash
+````bash
 docker run -d -p 8787:8787 -e ROOT=TRUE -e PASSWORD=yourpasswordhere my_image
-```
+````
 
 ## Querying MSSQL
 
-```R
+````R
 # Install packages if missing
 list.of.packages <- c("DBI", "odbc")
 new.packages <- list.of.packages[!(
@@ -60,20 +53,19 @@ dbGetQuery(con,'
   from dbo.my_table
   limit 100
 ')
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
-
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [R - Database Packages List](../../Lists/R%20-%20Database%20Packages%20List.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - mssql_rstudio]] AND -"Changelog"
-```
+````

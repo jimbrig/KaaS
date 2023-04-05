@@ -1,19 +1,10 @@
----
-Date: 2022-03-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["VBA Notes"]
----
-
 # VBA Notes
 
-*Source: *
+\*Source: *
 
+* Example Sub Procedure
 
-
-- Example Sub Procedure
-
-```vba
+````vba
 'The Sub statement (Note: All procedures are public by default)
 Sub SubExample()
   'The instructions
@@ -29,19 +20,19 @@ Sub SubExample()
 Err_Handler:
 'The End statement
 End Sub 
-```
+````
 
-```ad-note
+````ad-note
 
 The Exit Sub statement typically precedes any error handling code statements. For more on error handling see my: Error Handling 101
 
-```
+````
 
 A Sub procedure can take "parameters", such as *constants, variables, or expressions that are passed to it as "arguments" by another "calling" procedure*. 
 
 The following is an example of a Sub that takes parameters passed as arguments from a calling procedure:
 
-```vba
+````vba
 Sub Main()
  'Other code could go here
   'Call and pass arguments to another sub
@@ -59,22 +50,23 @@ Sub FormatFontAtSelection(ByRef oRng As Range, oColor As Long, oSize As Long) 'P
 lbl_Exit:
   Exit Sub
 End Sub
-```
+````
 
-- **Function Procedure:** A Function procedure is a series of Visual Basic statements enclosed by the Function and End Function statements.
-    - It is similar to a Sub procedure, but a function can also return a value.
-    - A function can take arguments, such as constants, variables, or expressions that are passed to it by a calling procedure.
-    - If a Function procedure has no arguments, its Function statement must include an empty set of parentheses.
-    - A function returns a value by assigning a value to its name in one or more statements of the procedure.
-***
+* **Function Procedure:** A Function procedure is a series of Visual Basic statements enclosed by the Function and End Function statements.
+  * It is similar to a Sub procedure, but a function can also return a value.
+  * A function can take arguments, such as constants, variables, or expressions that are passed to it by a calling procedure.
+  * If a Function procedure has no arguments, its Function statement must include an empty set of parentheses.
+  * A function returns a value by assigning a value to its name in one or more statements of the procedure.
+
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA Notes]] AND -"Changelog"
-```
+````

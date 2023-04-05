@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["132 —  Willpower and Your Environment", "132 —  Willpower and Your Environment"]
----
 # 132 —  Willpower and Your Environment
 
 ## Metadata
-- Author: [[Focused]]
-- Full Title: 132 —  Willpower and Your Environment
-- Category: #Type/Highlight/Podcast
+
+* Author: *Focused*
+* Full Title: 132 —  Willpower and Your Environment
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Timing - The Intelligent Time Tracking Ap That You Can Trust
+
+* Timing - The Intelligent Time Tracking Ap That You Can Trust
   Summary:
   This episode of focus is brought to you by timing, the intelligent time tracking ap that you can trust. Timing automatically tracks everything that you do on your mack without having to lift a finger. It also detects when your individual call lets you record what the meeting was about after you get done. To try timing for free and save ten % when you subscribe.
   Transcript:

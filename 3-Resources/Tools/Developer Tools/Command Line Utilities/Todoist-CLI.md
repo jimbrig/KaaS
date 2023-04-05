@@ -1,10 +1,3 @@
----
-Date: 2021-11-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Todoist-CLI"]
----
-
 # Todoist CLI
 
 *Source: [sachaos/todoist Todoist CLI Client. I ❤️ Todoist and CLI.](https://github.com/sachaos/todoist)*
@@ -13,36 +6,34 @@ Alias: ["Todoist-CLI"]
 
 ## Contents
 
-- [[#Installation|Installation]]
-- [[#Register API token|Register API token]]
-- [[#Sync|Sync]]
-- [[#Usage|Usage]]
-	- [[#`list --filter`|`list --filter`]]
-		- [[#e.g. List tasks which over due date and have high priority|e.g. List tasks which over due date and have high priority]]
-- [[#Config|Config]]
-	- [[#Use with peco/fzf|Use with peco/fzf]]
-		- [[#If Installed via Homebrew|If Installed via Homebrew]]
-	- [[#Enable shell completion|Enable shell completion]]
-
-
+* [Installation](Todoist-CLI.md#installation)
+* [Register API token](Todoist-CLI.md#register-api-token)
+* [Sync](Todoist-CLI.md#sync)
+* [Usage](Todoist-CLI.md#usage)
+  * \[\[\#`list --filter`\|`list --filter`\]\]
+    * [e.g. List tasks which over due date and have high priority](Todoist-CLI.md#e-g-list-tasks-which-over-due-date-and-have-high-priority)
+* [Config](Todoist-CLI.md#config)
+  * [Use with peco/fzf](Todoist-CLI.md#use-with-peco-fzf)
+    * [If Installed via Homebrew](Todoist-CLI.md#if-installed-via-homebrew)
+  * [Enable shell completion](Todoist-CLI.md#enable-shell-completion)
 
 ## Installation
 
 To install can use Homebrew (Unix):
 
-```bash
+````bash
 brew tap sachaos/todoist
 brew install todoist 
-```
+````
 
 or use [Docker](https://docker.com):
 
-```bash
+````bash
 git clone https://github.com/sachaos/todoist.git
 cd todoist
 make docker-build token=<TODOIST_API_TOKEN>
 make docker-run
-```
+````
 
 ## Register API token
 
@@ -54,15 +45,15 @@ In order to get your API token go to <https://todoist.com/prefs/integrations>.
 
 ## Sync
 
-After you register your API token, you should sync with <todoist.com> by the `sync` sub-command:
+After you register your API token, you should sync with \<todoist.com> by the `sync` sub-command:
 
-```bash
+````bash
 todoist sync
-```
+````
 
 ## Usage
 
-```bash
+````bash
 todoist --help
 
 NAME:
@@ -98,7 +89,7 @@ GLOBAL OPTIONS:
    --project-namespace  display parent project like namespace
    --help, -h           show help
    --version, -v        print the version
-```
+````
 
 ### `list --filter`
 
@@ -109,9 +100,9 @@ Supported filter is [here](https://github.com/sachaos/todoist/issues/15#issuecom
 
 #### e.g. List tasks which over due date and have high priority
 
-```bash
+````bash
 todoist list --filter '(overdue | today) & p1'
-```
+````
 
 ## Config
 
@@ -119,12 +110,13 @@ Config by default stored in `$HOME/.config/todoist/config.json`
 
 It has following parameters:
 
-```json
+````json
 {
   "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", # todoist api token, required
   "color": "true"                                      # colorize all output, not required, default false
 }
-```
+````
+
 ### Use with peco/fzf
 
 **RECOMMENDED**
@@ -135,9 +127,9 @@ fish version is here. [ka2n/fish-peco_todoist](https://github.com/ka2n/fish-peco
 
 If you would prefer to use [fzf](https://github.com/junegunn/fzf) instead load `todoist_functions_fzf.sh` like below.
 
-```bash
+````bash
 source "$GOPATH/src/github.com/sachaos/todoist/todoist_functions.sh"
-```
+````
 
 #### If Installed via Homebrew
 
@@ -145,38 +137,37 @@ If installed via homebrew and using zsh (usually this is added to your `.zshrc`,
 
 For **peco**:
 
-```zsh
+````zsh
 source $(brew --prefix)/share/zsh/site-functions/_todoist_peco
-```
+````
 
 For **fzf**:
 
-```bash
+````bash
 source $(brew --prefix)/share/zsh/site-functions/_todoist_fzf
-```
+````
 
 ### Enable shell completion
 
 You can also enable shell completion by adding the following lines to your `.bashrc`/`.zshrc` files.
 
-```bash
+````bash
 # Bash
 PROG=todoist source "$GOPATH/src/github.com/urfave/cli/autocomplete/bash_autocomplete"
 # Zsh
 PROG=todoist source "$GOPATH/src/github.com/urfave/cli/autocomplete/zsh_autocomplete"
-```
+````
 
-
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
-- [[Todoist]]
-- [[CLI Tools List]]
+* [Tools](../../Tools.md)
+* [Todoist](../../Productivity%20Tools/Todoist.md)
+* [CLI Tools List](../../../../2-Areas/Lists/CLI%20Tools%20List.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

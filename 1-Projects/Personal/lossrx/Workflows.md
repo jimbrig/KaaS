@@ -1,43 +1,38 @@
----
-Date: 2021-12-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Brainstorm"]
-Alias: Workflows
----
-
 # Workflows
 
 ## I) Acquire Raw Data
 
-> Receive new, raw data from source (client, database, etc.)
+ > 
+ > Receive new, raw data from source (client, database, etc.)
 
 Phases:
-- Investigation Phase: investigate top-level things like:
-	- File formats
-	- File Sizes
-	- Column and Field Names
-	- Logical Calculated and inter-dependent fields or duplication
-	- Compare dimensionality to any prior received data
 
-- Initial Validation Phase:
+* Investigation Phase: investigate top-level things like:
+  
+  * File formats
+  * File Sizes
+  * Column and Field Names
+  * Logical Calculated and inter-dependent fields or duplication
+  * Compare dimensionality to any prior received data
+* Initial Validation Phase:
 
-- Caching Phase:
+* Caching Phase:
 
-- Logging
+* Logging
 
-- Cleanse Phase:
+* Cleanse Phase:
 
-- Transform Phase:
+* Transform Phase:
 
-- Working Phase:
+* Working Phase:
 
-- Analysis Phase
+* Analysis Phase
 
-- Aggregation and Summary Phase
+* Aggregation and Summary Phase
 
-- Results
+* Results
 
-***
+---
 
 Aggregate for triangles by year, maturity, and any groups necessary for all needed value_types: paid, incurred, counts, case reserves, split-outs.
 
@@ -57,10 +52,10 @@ Derive initial development ultimate values
 
 Derive rates and trends
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Workflows]] AND -"Changelog"
-```
+````

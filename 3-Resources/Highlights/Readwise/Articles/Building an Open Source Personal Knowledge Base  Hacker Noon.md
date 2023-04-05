@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Building an Open Source Personal Knowledge Base | Hacker Noon", "Building an Open Source Personal Knowledge Base | Hacker Noon"]
----
 # Building an Open Source Personal Knowledge Base | Hacker Noon
 
 ## Metadata
-- Author: [[Originally Published]]
-- Full Title: Building an Open Source Personal Knowledge Base | Hacker Noon
-- Category: #Type/Highlight/Article
-- URL: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
+
+* Author: *Originally Published*
+* Full Title: Building an Open Source Personal Knowledge Base | Hacker Noon
+* Category: #Type/Highlight/Article
+* URL: https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324
 
 ## Highlights
-- I propose that every useful PKB system should have the following characteristics:
+
+* I propose that every useful PKB system should have the following characteristics:
   A powerful organization scheme
   Linking information should be central
   Minimal effort for input

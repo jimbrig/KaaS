@@ -1,18 +1,11 @@
----
-Date: 2021-11-21
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Highlight", "#Topic/Productivity", "#topic/Productivity/GTD"]
-Alias: "The Ultimate Guide to an Effective - Highlights"
----
-
-
 # The Ultimate Guide to an Effective - Highlights
 
-*These are my personal highlights extracted from the original source PDF/converted markdown file for the guide on weekly reiew's by [[Justin DiRose]]:*
-- [[The Ultimate Guide to an Effective Weekly Review]] 
-- [[The Ultimate Guide to an Effective Weekly Review.pdf]]
+*These are my personal highlights extracted from the original source PDF/converted markdown file for the guide on weekly reiew's by [Justin DiRose](../../../2-Areas/People/Justin%20DiRose.md):*
 
-***
+* [The Ultimate Guide to an Effective Weekly Review](../../../0-Slipbox/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review.md) 
+* *The Ultimate Guide to an Effective Weekly Review.pdf*
+
+---
 
 ==The weekly review is the cornerstone habit to keep for anyone looking to stay productive and focused. It will help you get a clear head, see every commitment currently on your plate, and help you make decisions that ultimately lead you to be more intentional and focused over the upcoming week.==
 
@@ -38,10 +31,10 @@ Alias: "The Ultimate Guide to an Effective - Highlights"
 
 ==Something else to consider for your review timing is habit chaining. There are many habits you can perform on a weekly basis, like cleaning your desk, reconciling your checkbook, or weeding the garden. If you’re already performing a review weekly, why not chain another habit to it?== 
 
-1. ==**Clear the Decks** - neutralizing inboxes, capturing, and [[The GTD Mindsweep|mindsweeping]]== 
-2. ==**Process and Review Open Loops** - ensuring all projects & resources are up to date==
-3. ==**Reflect on the Past Week** - try to learn from what happened previously==
-4. ==**Prepare for the Next Week** - review and prepare for your upcoming commitments, intentions, and habits== 
+1. ==**Clear the Decks** - neutralizing inboxes, capturing, and *mindsweeping*== 
+1. ==**Process and Review Open Loops** - ensuring all projects & resources are up to date==
+1. ==**Reflect on the Past Week** - try to learn from what happened previously==
+1. ==**Prepare for the Next Week** - review and prepare for your upcoming commitments, intentions, and habits== 
 
 ==The very first thing to do when starting your weekly review is clear out your mind, inboxes, and physical space. When you clear it all out, organize it in one place, and mentally prepare to process and review, the whole process gets easier.== 
 
@@ -51,7 +44,7 @@ Alias: "The Ultimate Guide to an Effective - Highlights"
 
 ==When clearing the decks, get ready to dive in deep. Close out chat, set your phone to do not disturb, and go somewhere where you’re not going to get interrupted. If you work at home, maybe go to a coffee shop. If you can’t get out to a coffee shop, put on some noise canceling headphones. The key is minimize as many distractions as you can.== 
 
-*See Also: [[The GTD Mindsweep]]*
+*See Also: *The GTD Mindsweep**
 
 ==One of the quickest ways to get clear of the items causing you stress in your head is a mindsweep, also known as a *brain dump*. Getting these "open loops" out of your head and onto a piece of paper or text file puts them in a place where you can properly review and process them later.== 
 
@@ -65,7 +58,7 @@ Alias: "The Ultimate Guide to an Effective - Highlights"
 
 ==Review a Trigger List== 
 
-==The first thing I like to do before doing _any_ reviewing is go through a typical GTD-style trigger list. A trigger list is a group of items, both personal and professional, that’s designed to surface anything that needs to be handled.== 
+==The first thing I like to do before doing *any* reviewing is go through a typical GTD-style trigger list. A trigger list is a group of items, both personal and professional, that’s designed to surface anything that needs to be handled.== 
 
 You can see a great example here: [GTD Trigger List]() 
 
@@ -121,11 +114,10 @@ In my week plan, I’m sure to include:
 
 If you have any time at all to complete one, focus on the following areas: 
 
- ==Performing a mindsweep Processing inboxes and tasks Reviewing any major/due projects and commitments== 
+==Performing a mindsweep Processing inboxes and tasks Reviewing any major/due projects and commitments== 
 
 ==The rest of the system can likely wait until you have time to conduct a full review. If you focus on these areas first, you’ll have 80% of your bases covered for things that could bite you if you miss them.== 
 
 TLDR; 
 
- ==The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, and journal. Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits== 
-
+==The weekly review is the glue of your productivity system Be consistent in conducting one Clear the decks by: Getting ready, Mindsweeping, Processing all inboxes Process and review open loops by: Reviewing a trigger list Process captured items Review your projects list, calendar, notes, someday/maybe, and journal. Reflect on the past week through journaling Plan for the next week by setting your main focus, commitments, intentions, and habits==

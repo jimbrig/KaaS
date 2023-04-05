@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 65 —  Is Productivity Bad?", "Ep. 65 —  Is Productivity Bad?"]
----
 # Ep. 65 —  Is Productivity Bad?
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 65 —  Is Productivity Bad?
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 65 —  Is Productivity Bad?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Is It Congruent With Your Life Style?
+
+* Is It Congruent With Your Life Style?
   Summary:
   The type of reward i care about here is more etonomy, not just financial autonomy. It seems like it will reward career capital with options and flexibility. A job that forces you to be in downtown l a is not going to be nearly as good as a fit for you....
   Transcript:

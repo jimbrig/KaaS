@@ -1,31 +1,23 @@
----
-Date: 2022-01-29
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Embedding"]
-Alias: "dbDiagram"
----
-
 # dbDiagram
 
 **Link:** [Claims-Data-Warehouse - dbdiagram.io](https://dbdiagram.io/d/61e337ffd67dd17bded1125b)
-
 
 **Iframe:**
 
 <iframe src="https://dbdiagram.io/d/61e337ffd67dd17bded1125b" allow="fullscreen" style="height:100%;width:100%; aspect-ratio: 16 / 9;"></iframe>
 
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/_README|Tools]]
-- [[Databases]]
-- [[Actuarial Science]]
-- [[R - Simulate Actuarial Claims Data - Simulation R Script]]
-- [[1-Projects/Personal/lossrx/_README|lossrx]]
+* *Tools*
+* [Databases](../../2-Areas/MOCs/Databases.md)
+* [Actuarial Science](../../2-Areas/MOCs/Actuarial%20Science.md)
+* [R - Simulate Actuarial Claims Data - Simulation R Script](../../2-Areas/Code/R/R%20-%20Simulate%20Actuarial%20Claims%20Data%20-%20Simulation%20R%20Script.md)
+* *lossrx*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[dbDiagram]] AND -"Changelog"
-```
+````

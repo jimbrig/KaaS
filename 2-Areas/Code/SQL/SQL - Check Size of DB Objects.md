@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Databases"]
-Alias: ["SQL - Check Size of DB Objects"]
----
-
 # SQL - Check Size of DB Objects
 
 *Source: [Check Size of DB Objects | thiscodeWorks](https://www.thiscodeworks.com/61faf29db783be0015bbaf7f)*
 
-```SQL
+````SQL
 /* CHECK SIZE OF DB OBJECTS */
 SELECT TOP(10)
       o.[object_id]
@@ -32,21 +25,20 @@ JOIN (
 ) i ON o.[object_id] = i.[object_id]
 WHERE o.[type] IN ('V', 'U', 'S')
 ORDER BY i.total_size DESC;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Check Size of DB Objects]] AND -"Changelog"
-```
+````

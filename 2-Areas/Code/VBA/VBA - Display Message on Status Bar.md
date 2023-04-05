@@ -1,22 +1,14 @@
----
-Date: 2022-03-31
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Display Message on Status Bar"]
----
-
 # VBA - Display Message on Status Bar
 
 *Source: [Display Message on Status Bar - Erlandsen Data Consulting](https://erlandsendata.no/?t=vbatips&c=application&p=2120#main)*
 
-See Also: [[VBA - Progress Bar in the Status Bar]]
+See Also: [VBA - Progress Bar in the Status Bar](VBA%20-%20Progress%20Bar%20in%20the%20Status%20Bar.md)
 
-***
+---
 
 ![](https://i.imgur.com/J0uQUyf.png)
 
-
-***
+---
 
 If you turn off the screen updating, and your macros takes some time to finish, the user may think that the computer has stopped to respond. 
 
@@ -24,7 +16,7 @@ Because of this it's a good programming rule to inform the user of the macro pro
 
 Here is an example:
 
-```VBA
+````VBA
 Sub StatusBarExample()
     Application.ScreenUpdating = False 
     ' turns off screen updating
@@ -39,9 +31,9 @@ Sub StatusBarExample()
     Application.StatusBar = False 
     ' gives control of the statusbar back to the programme
 End Sub
-```
+````
 
-```VBA
+````VBA
 Sub ShowProgress(strStatusText As String, dblPercentDone As Double)
 ' updated 2000-08-08 by OPE
 Const clngBarSize As Long = 20, clngBarChar As Long = 45, clngProgressChar As Long = 135
@@ -53,11 +45,11 @@ Dim lngProgress As Long
         Application.Rept(Chr(clngBarChar), clngBarSize - lngProgress) & " " & _
         Format(dblPercentDone, "0 %") & "   " & strStatusText
 End Sub
-```
+````
 
 This procedure does the same as the previous one, but you have a little more options if you want to use different types of characters when displaying your progress bars.
 
-```VBA
+````VBA
 Sub ShowProgress(strStatusText As String, dblPercentDone As Double, _
     Optional lngBarChar As Long = 45, Optional lngProgressChar As Long = 135, _
     Optional lngBarSize As Long = 20)
@@ -78,11 +70,11 @@ Dim lngProgress As Long ' count of progress characters
         Application.Rept(Chr(lngBarChar), lngBarSize - lngProgress) & " " & _
         Format(dblPercentDone, "0 %") & "   " & strStatusText
 End Sub
-```
+````
 
 You can use the procedures above like this:
 
-```VBA
+````VBA
 Sub TestShowProgress()
 Dim i As Long, lngTotal As Long
     lngTotal = 10
@@ -94,21 +86,20 @@ Dim i As Long, lngTotal As Long
     Next i
     Application.StatusBar = False
 End Sub
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Display Message on Status Bar]] AND -"Changelog"
-```
+````

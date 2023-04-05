@@ -1,20 +1,12 @@
----
-Date: 2022-03-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Registry", "#Topic/Dev/OS/Windows"]
-Alias: ["RegEdit - Restart Explorer and StartMenu Context Bar"]
----
-
 # RegEdit - Restart Explorer and StartMenu Context Bar
 
 *Source: [How to Restart File Explorer in Windows 11 (winaero.com)](https://winaero.com/how-to-restart-file-explorer-in-windows-11/?utm_source=software&utm_medium=in-app&utm_campaign=winaerotweaker&utm_content=contextmenurestartexplorer#Restart_Explorerexe_in_Windows_11_using_a_script)*
 
 ![](https://i.imgur.com/1IZelYa.png)
 
+* `Add-Restart-Explorer-Context-Menu.reg`:
 
-- `Add-Restart-Explorer-Context-Menu.reg`:
-
-```regedit
+````regedit
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\DesktopBackground\Shell\RestartExplorer]
@@ -61,34 +53,31 @@ Windows Registry Editor Version 5.00
   55,00,4c,00,20,00,26,00,20,00,73,00,74,00,61,00,72,00,74,00,20,00,65,00,78,\
   00,70,00,6c,00,6f,00,72,00,65,00,72,00,2e,00,65,00,78,00,65,00,20,00,26,00,\
   20,00,65,00,78,00,69,00,74,00,00,00
-```
+````
 
-- `Remove-Restart-Explorer-Context-Menu.reg`:
+* `Remove-Restart-Explorer-Context-Menu.reg`:
 
-```regedit
+````regedit
 Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\DesktopBackground\Shell\RestartExplorer]
-```
+````
 
-
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
-- [[Microsoft]]
-- [[2-Areas/Code/Windows Registry/_README|Registry]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
+* [Microsoft](../../MOCs/Microsoft.md)
+* *Registry*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[RegEdit - Restart Explorer and StartMenu Context Bar]] AND -"Changelog"
-```
+````

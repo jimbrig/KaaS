@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Dorie Clark on the power of Long Term Thinking", "Dorie Clark on the power of Long Term Thinking"]
----
 # Dorie Clark on the power of Long Term Thinking
 
 ## Metadata
-- Author: [[Beyond the To-Do List]]
-- Full Title: Dorie Clark on the power of Long Term Thinking
-- Category: #Type/Highlight/Podcast
+
+* Author: *Beyond the To-Do List*
+* Full Title: Dorie Clark on the power of Long Term Thinking
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Long Term Thinking During the Pandemic
+
+* Long Term Thinking During the Pandemic
   Summary:
   During the pandemic, we had to flex different muscles. And they were valuable muscles. But if that's all we're doing all the time, that is a problem. If you are continually thinking short terms, it means first of all, that someone is setting the agenda. We need to set a direction and move in that direction.
   Transcript:

@@ -1,10 +1,3 @@
----
-Date: 2021-11-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Tools"
----
-
 # Tools
 
 *Tools* Map of Content houses all notes related to Tools in general.
@@ -13,22 +6,22 @@ Alias: "Tools"
 
 ### Obsidian
 
-- [[Obsidian]]
+* [Obsidian](PKM%20Tools/Obsidian/Obsidian.md)
 
 ### Todoist
 
-- [[Todoist]]
+* [Todoist](Productivity%20Tools/Todoist.md)
 
 ## Dataviews
 
 ### Tagged as *Category/Tools*
 
-```dataview
+````dataview
 list from #Category/Tools AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Tools]] AND -"Changelog"
-```
+````

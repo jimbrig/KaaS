@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Jaime Masters on Focus, Flow, Time Tracking and Nootropics", "Jaime Masters on Focus, Flow, Time Tracking and Nootropics"]
----
 # Jaime Masters on Focus, Flow, Time Tracking and Nootropics
 
 ## Metadata
-- Author: [[Beyond the To-Do List]]
-- Full Title: Jaime Masters on Focus, Flow, Time Tracking and Nootropics
-- Category: #Type/Highlight/Podcast
+
+* Author: *Beyond the To-Do List*
+* Full Title: Jaime Masters on Focus, Flow, Time Tracking and Nootropics
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Do You Have a Time Audit?
+
+* Do You Have a Time Audit?
   Summary:
   One of the first things i do with everybody as a time audit. I have a little thing by my desk to be able to do it too, because i i am all too well aware of the things that i don't like doing. And when i have my clients do this, what's so i opening for them, is they realize how much prap they're doing right and what they shouldn't be doing themselves. But we create a plan of being able to have somebody that is like a right hand in their business, that they can give it to.
   Transcript:

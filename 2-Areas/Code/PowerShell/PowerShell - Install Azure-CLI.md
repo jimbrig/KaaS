@@ -1,30 +1,24 @@
----
-Date: 2022-02-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["Install Azure-CLI"]
----
-
 # Install Azure-CLI
 
-*Source: *
+\*Source: *
 
-```powershell
+````powershell
 $ProgressPreference = 'SilentlyContinue'; Invoke-WebRequest -Uri https://aka.ms/installazurecliwindows -OutFile .\AzureCLI.msi
 Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'
 Remove-Item .\AzureCLI.msi
-```
-***
+````
+
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[2-Areas/MOCs/PowerShell]]
-- [[Azure CLI]]
-- [[Development]]
+* *Code*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
+* [Azure CLI](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20CLI.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Install Azure-CLI]] AND -"Changelog"
-```
+````

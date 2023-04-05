@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 108 —  LISTENER CALLS —  Becoming Productive", "Ep. 108 —  LISTENER CALLS —  Becoming Productive"]
----
 # Ep. 108 —  LISTENER CALLS —  Becoming Productive
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 108 —  LISTENER CALLS —  Becoming Productive
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 108 —  LISTENER CALLS —  Becoming Productive
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Time Blocking - How to Get the Most Out of Your Blocks
+
+* Time Blocking - How to Get the Most Out of Your Blocks
   Summary:
   Ben: I really love a the concepts of your podcast, especially attention capital in time blocking. But i'm really struggling to successfully implement time blocking in my day. Ike: There are some tactics that can help here. Ben: Make sure you're giving things enough time. Ike: You have to basically embrace some discipline. ben: It is more structure, but it is self imposed structure,. Ike: So it's not oppressive structure. Just keep doing this.
   Transcript:

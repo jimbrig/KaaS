@@ -1,17 +1,10 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - roxygen"]
----
-
 # GitHub Action - `roxygen`
 
 *Source: [r.pkg.template/roxygen.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/roxygen.yaml)*
 
-See Also: [[R Package - roxygen2]]
+See Also: *R Package - roxygen2*
 
-```yaml
+````yaml
 ---
 name: Roxygen 🅾
 
@@ -117,17 +110,17 @@ jobs:
           }
           fi
         shell: bash
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - roxygen]] AND -"Changelog"
-```
+````

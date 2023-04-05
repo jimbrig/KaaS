@@ -1,39 +1,31 @@
----
-Date: 2022-03-22
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Page Setup and Print Macros"]
----
-
 # VBA - Page Setup and Print Macros
 
 ## Contents
 
-- [[#Individual Sub Modules|Individual Sub Modules]]
-	- [[#Setup and Optimization|Setup and Optimization]]
-	- [[#Set Print DPI|Set Print DPI]]
-	- [[#Set Print to Black and White|Set Print to Black and White]]
-	- [[#Unhide All Sheets|Unhide All Sheets]]
-	- [[#All Read Only|All Read Only]]
-- [[#Entire Print and Page Module|Entire Print and Page Module]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Individual Sub Modules](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#individual-sub-modules)
+  * [Setup and Optimization](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#setup-and-optimization)
+  * [Set Print DPI](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#set-print-dpi)
+  * [Set Print to Black and White](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#set-print-to-black-and-white)
+  * [Unhide All Sheets](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#unhide-all-sheets)
+  * [All Read Only](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#all-read-only)
+* [Entire Print and Page Module](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#entire-print-and-page-module)
+* [Appendix: Links](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#appendix-links)
 
 ## Individual Sub Modules
 
 The following Sub's are included:
 
-- [[#Setup and Optimization|Setup and Optimization]]
-- [[#Set Print DPI|Set Print DPI]]
-- [[#Set Print to Black and White|Set Print to Black and White]]
-- [[#Unhide All Sheets|Unhide All Sheets]]
-- [[#All Read Only|All Read Only]]
+* [Setup and Optimization](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#setup-and-optimization)
+* [Set Print DPI](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#set-print-dpi)
+* [Set Print to Black and White](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#set-print-to-black-and-white)
+* [Unhide All Sheets](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#unhide-all-sheets)
+* [All Read Only](VBA%20-%20Page%20Setup%20and%20Print%20Macros.md#all-read-only)
 
 ### Setup and Optimization
 
-- Setup & `InitGlobalFastApp()`
+* Setup & `InitGlobalFastApp()`
 
-```VBA
+````VBA
 Option Explicit
 
 ' These are used to speed up vba code
@@ -57,12 +49,13 @@ With Application
     End With
     
 End Sub
-```
+````
 
 ### Set Print DPI
-- `SetPrintDPI()`
 
-```VBA
+* `SetPrintDPI()`
+
+````VBA
 Sub SetPrintDPI()
 ' Allows the user to select from a list of available print qualities and changes
 ' all pages in the current workbook.
@@ -201,13 +194,13 @@ wsAW.Activate
 '    End With
 
 End Sub
-```
+````
 
 ### Set Print to Black and White
 
-- `SetPrintBlackandWhite()`
+* `SetPrintBlackandWhite()`
 
-```VBA
+````VBA
 Sub SetPrintBlackandWhite()
 ' Changes print
 ' Revised on: 2/18/12
@@ -245,13 +238,13 @@ Application.DisplayStatusBar = oldStatusBar
 '    End With
         
 End Sub
-```
+````
 
 ### Unhide All Sheets
 
-- `UnhideAllSheets()`
+* `UnhideAllSheets()`
 
-```VBA
+````VBA
 Sub UnhideAllSheets()
 ' Unhides all sheets. This works with or without index tab.
 ' Revised on: 2/18/12
@@ -271,13 +264,13 @@ For Each wsSheet In Worksheets
     Next
 
 End Sub
-```
+````
 
 ### All Read Only
 
-- `AllReadOnly()`
+* `AllReadOnly()`
 
-```VBA
+````VBA
 Sub AllReadOnly()
 ' Changes every file to read only without the save dialog
 ' Created on: 3/13/12
@@ -301,13 +294,13 @@ For i = 1 To Workbooks.Count
 aw.Activate
 
 End Sub
-```
+````
 
 ## Entire Print and Page Module
 
-- `ModPrintAndPage.bas`
+* `ModPrintAndPage.bas`
 
-```VBA
+````VBA
 Option Explicit
 
 ' These are used to speed up vba code
@@ -549,20 +542,20 @@ With Application
     End With
     
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Page Setup and Print Macros]] AND -"Changelog"
-```
+````

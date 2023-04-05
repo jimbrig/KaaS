@@ -1,22 +1,15 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL Dynamic Trigger"]
----
-
 # SQL - PostgreSQL Dynamic Trigger
 
 *Source: https://wiki.postgresql.org/wiki/PL/pgSQL_Dynamic_Triggers*
 
-```SQL
+````SQL
 EXECUTE 'SELECT (' ||
          quote_literal(NEW) || '::' || TG_RELID::regclass ||
          ').' || quote_ident(columnname)
          INTO var;
-```
+````
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION dynamic_trigger()
 RETURNS trigger
 LANGUAGE plpgsql
@@ -47,20 +40,21 @@ BEGIN
     RETURN NEW;
 END;
 $$;
-```
-***
+````
+
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[PLPGSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [PLPGSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL Dynamic Trigger]] AND -"Changelog"
-```
+````

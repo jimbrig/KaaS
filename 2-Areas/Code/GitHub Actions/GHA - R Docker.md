@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GHA - R Docker Deploy"]
----
-
 # GHA - R Docker
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#docker-based-workflow*
@@ -13,7 +6,7 @@ Alias: ["GHA - R Docker Deploy"]
 
 If you develop locally with docker or are used to using other docker based CI services and already have a docker container with all of your R and system dependencies you can use that in GitHub Actions by adapting the following workflow. This example workflow assumes you build some model in `fit_model.R` and then have a report in `report.Rmd`. It then uploads the rendered html from the report as a build artifact.
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on: [push]
@@ -36,17 +29,17 @@ jobs:
         with:
           name: results
           path: report.html
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - R Docker Deploy]] AND -"Changelog"
-```
+````

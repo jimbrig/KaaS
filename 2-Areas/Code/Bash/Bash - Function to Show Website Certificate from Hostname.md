@@ -1,31 +1,25 @@
----
-Date: 2022-11-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["Bash - Function to Show Website Certificate from Hostname"]
----
-
 # Bash - Function to Show Website Certificate from Hostname
 
 *Source: https://github.com/rothgar/mastering-zsh/blob/master/docs/helpers/functions.md#show-website-certificate-from-hostname*
 
 ## Snippet
 
-```bash
+````bash
 function curl-cert() {
   openssl s_client -showcerts -connect "${1}":443 -servername ${1}
 }
-```
+````
 
 ## Usage
 
-```bash
+````bash
 curl-cert jimbrig.com
-```
+````
 
 <details><summary>Show Output</summary><p>
 
-```bash
+
+````bash
 > curl-cert jimbrig.com
 CONNECTED(00000003)
 depth=2 C = US, O = Google Trust Services LLC, CN = GTS Root R1
@@ -160,19 +154,19 @@ No ALPN negotiated
 Early data was not sent
 Verify return code: 0 (ok)
 ---
-```
+````
 
 </p></details>
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Bash - Function to Show Website Certificate from Hostname]] AND -"Changelog"
-```
+````

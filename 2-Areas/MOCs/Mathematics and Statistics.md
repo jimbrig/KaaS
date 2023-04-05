@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Mathematics and Statistics"
----
-
 # Mathematics and Statistics
 
 *Mathematics and Statistics* Map of Content houses all notes related to Mathematics and Statistics in general.
@@ -17,12 +10,12 @@ Alias: "Mathematics and Statistics"
 
 ### Tagged as *Category/Mathematics and Statistics*
 
-```dataview
+````dataview
 list from #Category/Mathematics and Statistics AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Mathematics and Statistics]] AND -"Changelog"
-```
+````

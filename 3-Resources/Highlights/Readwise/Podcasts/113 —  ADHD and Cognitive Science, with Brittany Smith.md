@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["113 —  ADHD and Cognitive Science, with Brittany Smith", "113 —  ADHD and Cognitive Science, with Brittany Smith"]
----
 # 113 —  ADHD and Cognitive Science, with Brittany Smith
 
 ## Metadata
-- Author: [[Focused]]
-- Full Title: 113 —  ADHD and Cognitive Science, with Brittany Smith
-- Category: #Type/Highlight/Podcast
+
+* Author: *Focused*
+* Full Title: 113 —  ADHD and Cognitive Science, with Brittany Smith
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- How to Form Strong Habits
+
+* How to Form Strong Habits
   Summary:
   One of the common themes on our show is habits. I think it's a great tool to help yourself find focus. There has to be internal motivation for anyone to form a habit. The biggest hurdle to starting a habit with folks i'm working with is usually that they're trying to do too much. And so one of the things i'll work with is like, let's start what's minimum viable and then build on more later.
   Transcript:

@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Databases"]
-Alias: ["SQL - Monitor Query Plans"]
----
-
 # SQL - Monitor Query Plans
 
 *Source: [Monitor Query Plans | thiscodeWorks](https://www.thiscodeworks.com/61faf27fb783be0015bbaf7e)*
 
-```SQL
+````SQL
 /* Monitor query plans */
  
 SELECT
@@ -29,21 +22,20 @@ FROM
      ORDER BY qs.total_worker_time desc) AS highest_cpu_queries 
      CROSS APPLY sys.dm_exec_sql_text(plan_handle) AS q 
 ORDER BY highest_cpu_queries.total_worker_time desc;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Monitor Query Plans]] AND -"Changelog"
-```
+````

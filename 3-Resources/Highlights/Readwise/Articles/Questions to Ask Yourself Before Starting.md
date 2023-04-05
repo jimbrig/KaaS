@@ -1,21 +1,15 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://www.indiehackers.com/post/questions-to-ask-yourself-before-starting-9813f617b3
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Questions to Ask Yourself Before Starting", "Questions to Ask Yourself Before Starting"]
----
 # Questions to Ask Yourself Before Starting
 
 ## Metadata
-- Author: [[indiehackers.com]]
-- Full Title: Questions to Ask Yourself Before Starting
-- Category: #Type/Highlight/Article
-- URL: https://www.indiehackers.com/post/questions-to-ask-yourself-before-starting-9813f617b3
+
+* Author: *indiehackers.com*
+* Full Title: Questions to Ask Yourself Before Starting
+* Category: #Type/Highlight/Article
+* URL: https://www.indiehackers.com/post/questions-to-ask-yourself-before-starting-9813f617b3
 
 ## Highlights
-- I've typed up a list of questions below. You don't need to use this exact list. It's just here to give you a rough idea of what I'm talking about:
+
+* I've typed up a list of questions below. You don't need to use this exact list. It's just here to give you a rough idea of what I'm talking about:
   What kinds of things have I enjoyed working on in the past?
   What kinds of work have driven me insane in the past?
   What am I passionate about?

@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Limit Your Options By Limiting Your Obligations", "Limit Your Options By Limiting Your Obligations"]
----
 # Limit Your Options By Limiting Your Obligations
 
 ## Metadata
-- Author: [[Developer Tea]]
-- Full Title: Limit Your Options By Limiting Your Obligations
-- Category: #Type/Highlight/Podcast
+
+* Author: *Developer Tea*
+* Full Title: Limit Your Options By Limiting Your Obligations
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Taking Control of Your Calendar
+
+* Taking Control of Your Calendar
   Summary:
   The goal of this kind of elimination is to give you time to spend on the things that you really care about spending that time on. So one source of elimination, or limiting your options, and it may not sound like options initially, but iis simply to take control of your own calendar. If you have seven different things happening in your day, or ten different things happening every day, you're splitting a lot of your otherwise a high powered focus time into so many different places. And see what you can do to close the gap between your ideal calendar and your existing calendaro here's the important thing: Do your best to make the blocks as large as you can.
   Transcript:

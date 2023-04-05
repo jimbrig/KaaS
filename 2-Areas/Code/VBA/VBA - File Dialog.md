@@ -1,16 +1,8 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - File Dialog"]
----
-
 # VBA - File Dialog
 
 *Source: [VBA-General/mod_FileDialog.bas at main · ViperSRT3g/VBA-General](https://github.com/ViperSRT3g/VBA-General/blob/main/mod_FileDialog.bas)*
 
-
-```VBA
+````VBA
 Attribute VB_Name = "mod_FileDialog"
 Option Explicit
 
@@ -56,20 +48,20 @@ Public Function FileDialog(ByVal DialogType As MsoFileDialogType, _
         FileDialog = Output
     End With
 End Function
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - File Dialog]] AND -"Changelog"
-```
+````

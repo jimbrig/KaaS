@@ -1,15 +1,8 @@
----
-Date: 2022-10-21
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/YAML", "#Topic/Dev"]
-Alias: ["GHA - Azure Container WebApp Deployment"]
----
-
 # GHA - Azure Container WebApp Deployment
 
 *Source: https://github.com/actions/starter-workflows/blob/main/deployments/azure-container-webapp.yml | https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?tabs=dotnet&pivots=container-linux*
 
-```yaml
+````yaml
 # This workflow will build and push a Docker container to an Azure Web App when a commit is pushed to your default branch.
 #
 # This workflow assumes you have already created the target Azure App Service web app.
@@ -96,31 +89,30 @@ jobs:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           images: 'ghcr.io/${{ env.REPO }}:${{ github.sha }}'
-```
+````
 
-
-***
+---
 
 ## Appendix: Links and References
 
-- [[Development]]
-- [[Code]]
-- [[GitHub Actions]]
-- [[GitHub]]
-- [[3-Resources/Tools/Developer Tools/Cloud Services/Azure/_README|Azure]]
-- [[Azure Container Registry]]
-- [[Azure Container Instances]]
-- [[Azure DevOps]]
-- [[Azure DevOps Pipelines]]
+* [Development](../../MOCs/Development.md)
+* [Code](../Code.md)
+* [GitHub Actions](GitHub%20Actions.md)
+* [GitHub](../../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md)
+* *Azure*
+* [Azure Container Registry](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Container%20Registry.md)
+* [Azure Container Instances](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Container%20Instances.md)
+* [Azure DevOps](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20DevOps.md)
+* [Azure DevOps Pipelines](../../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20DevOps%20Pipelines.md)
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - Azure Container WebApp Deployment]] AND -"Changelog"
-```
+````

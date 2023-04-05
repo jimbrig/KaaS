@@ -1,10 +1,3 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Math/Statistics/Modeling"]
-Alias: "Azure MLOps"
----
-
 # Azure MLOps: DevOps for Machine Learning
 
 DevOps for machine learning models, often called `MLOps`, is a process for developing models for production. 
@@ -23,19 +16,19 @@ Azure Machine Learning is built with the model lifecycle in mind. You can audit 
 
 Some key features enabling MLOps include:
 
--   `git` integration
--   MLflow integration
--   Machine learning pipeline scheduling
--   Azure Event Grid integration for custom triggers
--   Easy to use with CI/CD tools like GitHub Actions or Azure DevOps
+* `git` integration
+* MLflow integration
+* Machine learning pipeline scheduling
+* Azure Event Grid integration for custom triggers
+* Easy to use with CI/CD tools like GitHub Actions or Azure DevOps
 
 Also, Azure Machine Learning includes features for monitoring and auditing:
 
--   Job artifacts, such as code snapshots, logs, and other outputs
--   Lineage between jobs and assets, such as containers, data, and compute resources
+* Job artifacts, such as code snapshots, logs, and other outputs
+* Lineage between jobs and assets, such as containers, data, and compute resources
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Azure MLOps]] AND -"Changelog"
-```
+````

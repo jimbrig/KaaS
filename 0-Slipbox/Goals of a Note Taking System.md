@@ -1,10 +1,3 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/PKM"]
-Alias: "Goals of a Note Taking System"
----
-
 # Goals of a Note Taking System
 
 A goal of a note taking system should be to *store information, so that your brain can do more useful stuff*.
@@ -15,19 +8,18 @@ It should also help you process your notes. A note is not a static thing. It's n
 
 Lastly, the note organizing system should help you organize and browse your notes. *It should encourage serendipitous rediscovery of forgotten notes*. It should help visualize them. It should make it easy to see all notes that are related to a certain note or to a certain topic.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Personal Knowledge Management]]
-- [[Productivity]]
-- [[Zettelkasten]]
-- [[Note Taking and The Internet Best Practices]]
-- [[Obsidian]]
-
+* [Personal Knowledge Management](../2-Areas/MOCs/Personal%20Knowledge%20Management.md)
+* [Productivity](../2-Areas/MOCs/Productivity.md)
+* [Zettelkasten](Zettelkasten.md)
+* [Note Taking and The Internet Best Practices](Note%20Taking%20and%20The%20Internet%20Best%20Practices.md)
+* [Obsidian](../3-Resources/Tools/PKM%20Tools/Obsidian/Obsidian.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Goals of a Note Taking System]] AND -"Changelog"
-```
+````

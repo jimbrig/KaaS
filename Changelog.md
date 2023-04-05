@@ -1,500 +1,500 @@
-- 2023-04-05 at 16h44 · [[Highlights]]
-- 2023-04-05 at 16h44 · [[Considerations and limitations for SQL queries in Amazon Athena]]
-- 2023-03-30 at 15h38 · [[CMD - SQLPackage to DacPac]]
-- 2023-03-24 at 15h19 · [[Office Visual Basic for Applications (VBA) reference]]
-- 2023-02-24 at 10h54 · [[XDG Base Directory Specification]]
-- 2023-01-26 at 17h55 · [[Spreadsheet Documentation (using only Excel's inbuilt tools)]]
-- 2023-01-26 at 17h55 · [[Using Partitioning to Optimize Performance During Data Ingestion]]
-- 2023-01-10 at 19h08 · [[Docker.md]]
-- 2023-01-10 at 19h08 · [[Firefox Developer Edition.md]]
-- 2023-01-10 at 19h08 · [[Views vs. Materialized Views.md]]
-- 2023-01-10 at 19h08 · [[PostgreSQL Tools.md]]
-- 2023-01-10 at 19h08 · [[PostgreSQL.md]]
-- 2023-01-10 at 19h08 · [[Database GUIs.md]]
-- 2023-01-10 at 08h51 · [[BEGIN-PROCESS-END - You Can Do Better]]
-- 2023-01-10 at 08h51 · [[Write-Host vs Write-Output]]
-- 2023-01-10 at 08h51 · [[OOP in VBA- Immutability & The Factory Pattern]]
-- 2023-01-10 at 08h50 · [[Globals and Ambient Context]]
-- 2023-01-10 at 08h50 · [[Getting started with VBA in Office]]
-- 2022-12-14 at 17h21 · [[Managing projects with GTD]]
-- 2022-12-09 at 11h47 · [[Simulating Actuarial Claims Data with R]]
-- 2022-12-09 at 11h15 · [[0-Slipbox]]
-- 2022-12-09 at 11h05 · [[Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain]]
-- 2022-12-09 at 10h57 · [[Actuarial Science]]
-- 2022-12-09 at 10h55 · [[VBA]]
-- 2022-12-07 at 18h36 · [[VBA - Compilation Arguments and Enabling Custom DevMode Runtime]]
-- 2022-11-29 at 17h21 · [[AWS - Amazon RedShift Serverless]]
-- 2022-11-29 at 15h36 · [[VBA - Launch Edit Links Dialog]]
-- 2022-11-29 at 15h33 · [[Untitled]]
-- 2022-11-17 at 18h02 · [[PowerShell - Write SQL DDL Documentation]]
-- 2022-11-17 at 16h55 · [[PowerShell]]
-- 2022-11-11 at 18h50 · [[GnuPG]]
-- 2022-11-11 at 18h46 · [[CLI Tools List]]
-- 2022-11-11 at 18h43 · [[Google Cloud SDK]]
-- 2022-11-11 at 18h43 · [[GCP]]
-- 2022-11-11 at 18h21 · [[Bash - Function to Interactively Export AWS Profile]]
-- 2022-11-11 at 18h14 · [[Bash]]
-- 2022-11-11 at 18h14 · [[Bash - Function to Show Website Certificate from Hostname]]
-- 2022-11-11 at 18h02 · [[Guide - Setup oh-my-zsh]]
-- 2022-11-08 at 12h16 · [[2022-11-08]]
-- 2022-11-08 at 12h16 · [[2-Areas]]
-- 2022-11-02 at 19h25 · [[AWS - DynamoDB Queries]]
-- 2022-11-02 at 19h23 · [[AWS - Authentication and Configuration]]
-- 2022-11-02 at 19h21 · [[Code]]
-- 2022-11-02 at 19h17 · [[AWS - Validate and Verify Credential Setup]]
-- 2022-11-02 at 19h10 · [[Command Line Utilities]]
-- 2022-11-02 at 19h10 · [[Dictionary]]
-- 2022-11-02 at 19h10 · [[3-Resources]]
-- 2022-11-02 at 19h09 · [[_README]]
-- 2022-11-01 at 16h15 · [[CMD]]
-- 2022-11-01 at 16h03 · [[PowerShell - Export SQL Server Table to CSV]]
-- 2022-11-01 at 16h01 · [[Azure CLI - Whitelist IP for SQL Server]]
-- 2022-11-01 at 15h59 · [[dbatools (PowerShell)]]
-- 2022-11-01 at 15h59 · [[sqlfluff (Python)]]
-- 2022-11-01 at 15h58 · [[dbml-renderer]]
-- 2022-11-01 at 15h58 · [[SqlPackage]]
-- 2022-11-01 at 15h57 · [[Pyrseas (Python)]]
-- 2022-11-01 at 15h55 · [[Augment (en-US)]]
-- 2022-11-01 at 15h36 · [[Docker.md]]
-- 2022-11-01 at 15h36 · [[Firefox Developer Edition.md]]
-- 2022-11-01 at 15h36 · [[Views vs. Materialized Views.md]]
-- 2022-11-01 at 15h36 · [[PostgreSQL Tools.md]]
-- 2022-11-01 at 15h36 · [[PostgreSQL.md]]
-- 2022-11-01 at 15h36 · [[Database GUIs.md]]
-- 2022-10-28 at 15h28 · [[_README]]
-- 2022-10-28 at 15h27 · [[Chapter 2 - SELECT Statement]]
-- 2022-10-28 at 15h19 · [[Chapter 1 - Data Sources]]
-- 2022-10-28 at 15h06 · [[_README]]
-- 2022-10-28 at 15h03 · [[Readme-Template]]
-- 2022-10-28 at 14h58 · [[Templates]]
-- 2022-10-28 at 14h57 · [[GitHub Actions]]
-- 2022-10-28 at 14h57 · [[_README]]
-- 2022-10-26 at 18h48 · [[PowerShell - List all OLEDB Providers]]
-- 2022-10-21 at 15h51 · [[2022-10-21]]
-- 2022-10-21 at 15h51 · [[Daily-Note-Template]]
-- 2022-10-21 at 14h43 · [[Web Browsers]]
-- 2022-10-21 at 14h43 · [[Browser Extensions]]
-- 2022-10-21 at 14h43 · [[Physical Tools]]
-- 2022-10-21 at 14h43 · [[Obsidian]]
-- 2022-10-21 at 14h43 · [[Websites and Online Tools]]
-- 2022-10-21 at 14h43 · [[Version Control]]
-- 2022-10-21 at 14h43 · [[Terminal]]
-- 2022-10-21 at 14h43 · [[Shell]]
-- 2022-10-21 at 14h43 · [[Package Managers]]
-- 2022-10-21 at 14h43 · [[Linux]]
-- 2022-10-21 at 14h43 · [[R]]
-- 2022-10-21 at 14h43 · [[R Packages]]
-- 2022-10-21 at 14h43 · [[Python]]
-- 2022-10-21 at 14h43 · [[PowerShell]]
-- 2022-10-21 at 14h43 · [[Languages]]
-- 2022-10-21 at 14h43 · [[JavaScript]]
-- 2022-10-21 at 14h43 · [[HTML]]
-- 2022-10-21 at 14h43 · [[CSS]]
-- 2022-10-21 at 14h43 · [[IDE]]
-- 2022-10-21 at 14h43 · [[Utility]]
-- 2022-10-21 at 14h43 · [[Text Editors]]
-- 2022-10-21 at 14h43 · [[Static Site Generators]]
-- 2022-10-21 at 14h43 · [[Documentation]]
-- 2022-10-21 at 14h43 · [[Developer Tools]]
-- 2022-10-21 at 14h43 · [[Procedural Languages]]
-- 2022-10-21 at 14h43 · [[Miscellaneous]]
-- 2022-10-21 at 14h43 · [[Databases]]
-- 2022-10-21 at 14h43 · [[Database GUI]]
-- 2022-10-21 at 14h43 · [[Data Stack]]
-- 2022-10-21 at 14h43 · [[Business Intelligence]]
-- 2022-10-21 at 14h43 · [[Cloud Services]]
-- 2022-10-21 at 14h43 · [[Azure]]
-- 2022-10-21 at 14h43 · [[AWS]]
-- 2022-10-21 at 14h43 · [[Podcasts]]
-- 2022-10-21 at 14h43 · [[PDFs]]
-- 2022-10-21 at 14h43 · [[Literature-Notes]]
-- 2022-10-21 at 14h43 · [[Kanbans]]
-- 2022-10-21 at 14h43 · [[Embeds]]
-- 2022-10-21 at 14h43 · [[Clippings]]
-- 2022-10-21 at 14h43 · [[Citations]]
-- 2022-10-21 at 14h43 · [[Windows Run]]
-- 2022-10-21 at 14h43 · [[Windows Misc]]
-- 2022-10-21 at 14h43 · [[Windows Batch]]
-- 2022-10-21 at 14h43 · [[SQL]]
-- 2022-10-21 at 14h43 · [[R]]
-- 2022-10-21 at 14h43 · [[Python]]
-- 2022-10-21 at 14h43 · [[Pandoc]]
-- 2022-10-21 at 14h43 · [[Javascript]]
-- 2022-10-21 at 14h43 · [[Excel]]
-- 2022-10-21 at 14h33 · [[GHA - Azure Container WebApp Deployment]]
-- 2022-10-21 at 14h31 · [[GHA - AWS Deployment]]
-- 2022-10-21 at 14h30 · [[GHA - Stale Issues]]
-- 2022-10-21 at 14h28 · [[GHA - Labeler]]
-- 2022-10-21 at 14h27 · [[Code-GHA-Template]]
-- 2022-10-14 at 16h28 · [[Data Lake Testing Strategy]]
-- 2022-10-14 at 16h26 · [[Tracking estimated required reserve changes for captives]]
-- 2022-10-14 at 16h26 · [[Getting Started with Julia for Actuaries]]
-- 2022-10-14 at 16h26 · [[Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain]]
-- 2022-10-14 at 16h26 · [[Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.-3]]
-- 2022-10-14 at 16h20 · [[Workbench]]
-- 2022-10-14 at 16h20 · [[README]]
-- 2022-10-07 at 08h48 · [[PowerShell - Install Azure Developer CLI (azd)]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[iOS Apps]]
-- 2022-10-04 at 17h54 · [[Streaks]]
-- 2022-10-04 at 17h54 · [[Snipd]]
-- 2022-10-04 at 17h54 · [[Airr]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Microsoft Edge]]
-- 2022-10-04 at 17h54 · [[Google Chrome]]
-- 2022-10-04 at 17h54 · [[Firefox]]
-- 2022-10-04 at 17h54 · [[Firefox Developer]]
-- 2022-10-04 at 17h54 · [[Firefox Developer]]
-- 2022-10-04 at 17h54 · [[Microsoft Edge]]
-- 2022-10-04 at 17h54 · [[Edge]]
-- 2022-10-04 at 17h54 · [[Google Chrome]]
-- 2022-10-04 at 17h54 · [[Chrome]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Zotero Connector]]
-- 2022-10-04 at 17h54 · [[Tab Session Manager]]
-- 2022-10-04 at 17h54 · [[Raindrop.io]]
-- 2022-10-04 at 17h54 · [[OneTab]]
-- 2022-10-04 at 17h54 · [[Momentum]]
-- 2022-10-04 at 17h54 · [[Markdownload]]
-- 2022-10-04 at 17h54 · [[Keeper Password Manager]]
-- 2022-10-04 at 17h54 · [[Dark Reader]]
-- 2022-10-04 at 17h54 · [[ViveTool]]
-- 2022-10-04 at 17h54 · [[Utility]]
-- 2022-10-04 at 17h54 · [[Universal Silent Switch Finder]]
-- 2022-10-04 at 17h54 · [[Topgrade]]
-- 2022-10-04 at 17h54 · [[ThisIsWin11]]
-- 2022-10-04 at 17h54 · [[TaskBarX]]
-- 2022-10-04 at 17h54 · [[QTTabBar]]
-- 2022-10-04 at 17h54 · [[NotePads]]
-- 2022-10-04 at 17h54 · [[Nativefier]]
-- 2022-10-04 at 17h54 · [[Microsoft PowerToys]]
-- 2022-10-04 at 17h54 · [[Mach2]]
-- 2022-10-04 at 17h54 · [[MZ Tools For VBA Development]]
-- 2022-10-04 at 17h54 · [[Inno Setup]]
-- 2022-10-04 at 17h54 · [[HandyWinGet]]
-- 2022-10-04 at 17h54 · [[File UWP]]
-- 2022-10-04 at 17h54 · [[Electron]]
-- 2022-10-04 at 17h54 · [[EaseUS]]
-- 2022-10-04 at 17h54 · [[DriveStoreExplorer]]
-- 2022-10-04 at 17h54 · [[CloneApp]]
-- 2022-10-04 at 17h54 · [[CleanMgrPlus]]
-- 2022-10-04 at 17h54 · [[BloatBox]]
-- 2022-10-04 at 17h54 · [[AutoHotKey]]
-- 2022-10-04 at 17h54 · [[Tools]]
-- 2022-10-04 at 17h54 · [[Toggl]]
-- 2022-10-04 at 17h54 · [[Todoist]]
-- 2022-10-04 at 17h54 · [[Productivity Tools]]
-- 2022-10-04 at 17h54 · [[Productivity System]]
-- 2022-10-04 at 17h54 · [[Notion]]
-- 2022-10-04 at 17h54 · [[Google Calendar]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Mnemosyne Notebooks]]
-- 2022-10-04 at 17h54 · [[Zotero]]
-- 2022-10-04 at 17h54 · [[Readwise]]
-- 2022-10-04 at 17h54 · [[PKM Tools]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[obsidian-export]]
-- 2022-10-04 at 17h54 · [[obsidian-clipper]]
-- 2022-10-04 at 17h54 · [[obsidian-blog]]
-- 2022-10-04 at 17h54 · [[Utility]]
-- 2022-10-04 at 17h54 · [[Themes]]
-- 2022-10-04 at 17h54 · [[Readwise Plugin]]
-- 2022-10-04 at 17h54 · [[Plugins]]
-- 2022-10-04 at 17h54 · [[Obsidian Highlights Plugin]]
-- 2022-10-04 at 17h54 · [[Obsidian Git Plugin]]
-- 2022-10-04 at 17h54 · [[Kanban Plugin]]
-- 2022-10-04 at 17h54 · [[Extract Highlights Plugin]]
-- 2022-10-04 at 17h54 · [[Dictionary Plugin]]
-- 2022-10-04 at 17h54 · [[Citations Plugin]]
-- 2022-10-04 at 17h54 · [[Advanced Tables Plugin]]
-- 2022-10-04 at 17h54 · [[Medium]]
-- 2022-10-04 at 17h54 · [[Kindle]]
-- 2022-10-04 at 17h54 · [[Instapaper]]
-- 2022-10-04 at 17h54 · [[Hypothesis.io]]
-- 2022-10-04 at 17h54 · [[Feedly]]
-- 2022-10-04 at 17h54 · [[Evernote]]
-- 2022-10-04 at 17h54 · [[Twitter]]
-- 2022-10-04 at 17h54 · [[Reddit]]
-- 2022-10-04 at 17h54 · [[Online Tools]]
-- 2022-10-04 at 17h54 · [[Goodreads]]
-- 2022-10-04 at 17h54 · [[Bookmarklet Maker]]
-- 2022-10-04 at 17h54 · [[Prophet]]
-- 2022-10-04 at 17h54 · [[Modeling]]
-- 2022-10-04 at 17h54 · [[Office RibbonX Editor]]
-- 2022-10-04 at 17h54 · [[Microsoft Visio]]
-- 2022-10-04 at 17h54 · [[Microsoft Office]]
-- 2022-10-04 at 17h54 · [[Microsoft Access]]
-- 2022-10-04 at 17h54 · [[Inquire Excel Add-In]]
-- 2022-10-04 at 17h54 · [[Excel]]
-- 2022-10-04 at 17h54 · [[Excel - VBA]]
-- 2022-10-04 at 17h54 · [[xdg-user-dirs]]
-- 2022-10-04 at 17h54 · [[Linux]]
-- 2022-10-04 at 17h54 · [[Bash]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[thiscodeWorks]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[StackOverflow]]
-- 2022-10-04 at 17h54 · [[repo-manager]]
-- 2022-10-04 at 17h54 · [[gitui]]
-- 2022-10-04 at 17h54 · [[git-sweep]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[GitHub]]
-- 2022-10-04 at 17h54 · [[Git]]
-- 2022-10-04 at 17h54 · [[Git Extras]]
-- 2022-10-04 at 17h54 · [[iTerm]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Windows Terminal]]
-- 2022-10-04 at 17h54 · [[Fluent Terminal]]
-- 2022-10-04 at 17h54 · [[zsh]]
-- 2022-10-04 at 17h54 · [[powerlevel10k]]
-- 2022-10-04 at 17h54 · [[oh-my-zsh]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Nerdfont]]
-- 2022-10-04 at 17h54 · [[Microsoft DOS]]
-- 2022-10-04 at 17h54 · [[Bash]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Winget]]
-- 2022-10-04 at 17h54 · [[Scoop]]
-- 2022-10-04 at 17h54 · [[Rust - Cargo]]
-- 2022-10-04 at 17h54 · [[RIM - R Installation Manager CLI]]
-- 2022-10-04 at 17h54 · [[Python - pip]]
-- 2022-10-04 at 17h54 · [[OneGet]]
-- 2022-10-04 at 17h54 · [[Node - npm]]
-- 2022-10-04 at 17h54 · [[choco-package-list-backup]]
-- 2022-10-04 at 17h54 · [[choco-cleaner]]
-- 2022-10-04 at 17h54 · [[choco-archiver]]
-- 2022-10-04 at 17h54 · [[INSTChoco]]
-- 2022-10-04 at 17h54 · [[Chocolatey]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Windows Subsystem for Linux]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Shiny R Packages]]
-- 2022-10-04 at 17h54 · [[RStudio Package Manager]]
-- 2022-10-04 at 17h54 · [[R Package Tools]]
-- 2022-10-04 at 17h54 · [[R Package - usethis]]
-- 2022-10-04 at 17h54 · [[R Package - covr]]
-- 2022-10-04 at 17h54 · [[R Package - vembedr]]
-- 2022-10-04 at 17h54 · [[R Package - qs]]
-- 2022-10-04 at 17h54 · [[R Package - pkgsearch]]
-- 2022-10-04 at 17h54 · [[R Package - keyring]]
-- 2022-10-04 at 17h54 · [[R Package - config]]
-- 2022-10-04 at 17h54 · [[R Package - callr]]
-- 2022-10-04 at 17h54 · [[R Package - Hmisc]]
-- 2022-10-04 at 17h54 · [[General R Packages]]
-- 2022-10-04 at 17h54 · [[R Package - validatedb]]
-- 2022-10-04 at 17h54 · [[R Package - validate]]
-- 2022-10-04 at 17h54 · [[R Package - uptasticsearch]]
-- 2022-10-04 at 17h54 · [[R Package - tfio]]
-- 2022-10-04 at 17h54 · [[R Package - sqlpetr]]
-- 2022-10-04 at 17h54 · [[R Package - sqldf]]
-- 2022-10-04 at 17h54 · [[R Package - sparklyr]]
-- 2022-10-04 at 17h54 · [[R Package - rscontract]]
-- 2022-10-04 at 17h54 · [[R Package - rrocksdb]]
-- 2022-10-04 at 17h54 · [[R Package - rpostgis]]
-- 2022-10-04 at 17h54 · [[R Package - rocker]]
-- 2022-10-04 at 17h54 · [[R Package - rocker 1]]
-- 2022-10-04 at 17h54 · [[R Package - redux]]
-- 2022-10-04 at 17h54 · [[R Package - pool]]
-- 2022-10-04 at 17h54 · [[R Package - pointblank]]
-- 2022-10-04 at 17h54 · [[R Package - odbc]]
-- 2022-10-04 at 17h54 · [[R Package - mssqlR]]
-- 2022-10-04 at 17h54 · [[R Package - mongolite]]
-- 2022-10-04 at 17h54 · [[R Package - liteq]]
-- 2022-10-04 at 17h54 · [[R Package - influxdbr]]
-- 2022-10-04 at 17h54 · [[R Package - influxdb]]
-- 2022-10-04 at 17h54 · [[R Package - importTablesMSSQL]]
-- 2022-10-04 at 17h54 · [[R Package - implyr]]
-- 2022-10-04 at 17h54 · [[R Package - ibmdbR]]
-- 2022-10-04 at 17h54 · [[R Package - filehashSQLite]]
-- 2022-10-04 at 17h54 · [[R Package - elastic]]
-- 2022-10-04 at 17h54 · [[R Package - dittodb]]
-- 2022-10-04 at 17h54 · [[R Package - dbx]]
-- 2022-10-04 at 17h54 · [[R Package - dbreport]]
-- 2022-10-04 at 17h54 · [[R Package - dbr]]
-- 2022-10-04 at 17h54 · [[R Package - dbplyr]]
-- 2022-10-04 at 17h54 · [[R Package - dbcooper]]
-- 2022-10-04 at 17h54 · [[R Package - connections]]
-- 2022-10-04 at 17h54 · [[R Package - bigrquery]]
-- 2022-10-04 at 17h54 · [[R Package - aws.dynamodb]]
-- 2022-10-04 at 17h54 · [[R Package - arkdb]]
-- 2022-10-04 at 17h54 · [[R Package - TScompare]]
-- 2022-10-04 at 17h54 · [[R Package - SciDB]]
-- 2022-10-04 at 17h54 · [[R Package - RcppRedis]]
-- 2022-10-04 at 17h54 · [[R Package - RSQLite]]
-- 2022-10-04 at 17h54 · [[R Package - RPresto]]
-- 2022-10-04 at 17h54 · [[R Package - RPostgres]]
-- 2022-10-04 at 17h54 · [[R Package - RPostgreSQL]]
-- 2022-10-04 at 17h54 · [[R Package - ROracle]]
-- 2022-10-04 at 17h54 · [[R Package - RODBC]]
-- 2022-10-04 at 17h54 · [[R Package - RMySQL]]
-- 2022-10-04 at 17h54 · [[R Package - RMariaDB]]
-- 2022-10-04 at 17h54 · [[R Package - RJDBC]]
-- 2022-10-04 at 17h54 · [[R Package - RH2]]
-- 2022-10-04 at 17h54 · [[R Package - RGreenplum]]
-- 2022-10-04 at 17h54 · [[R Package - RDruid]]
-- 2022-10-04 at 17h54 · [[R Package - RCassandra]]
-- 2022-10-04 at 17h54 · [[R Package - R4CouchDB]]
-- 2022-10-04 at 17h54 · [[R Package - MsSqlTools]]
-- 2022-10-04 at 17h54 · [[R Package - MSSQL]]
-- 2022-10-04 at 17h54 · [[R Package - DatabaseConnector]]
-- 2022-10-04 at 17h54 · [[R Package - DBconnectR]]
-- 2022-10-04 at 17h54 · [[R Package - DBITest]]
-- 2022-10-04 at 17h54 · [[R Package - DBI]]
-- 2022-10-04 at 17h54 · [[Database R Packages]]
-- 2022-10-04 at 17h54 · [[R Package - dplyr]]
-- 2022-10-04 at 17h54 · [[R Package - dlookr]]
-- 2022-10-04 at 17h54 · [[Data Manipulation Packages]]
-- 2022-10-04 at 17h54 · [[R Package - simulationmachine]]
-- 2022-10-04 at 17h54 · [[R Package - rsvr]]
-- 2022-10-04 at 17h54 · [[R Package - raw]]
-- 2022-10-04 at 17h54 · [[R Package - insurancerating]]
-- 2022-10-04 at 17h54 · [[R Package - imaginator]]
-- 2022-10-04 at 17h54 · [[R Package - deeptriangle]]
-- 2022-10-04 at 17h54 · [[R Package - conjuror]]
-- 2022-10-04 at 17h54 · [[R Package - casdown]]
-- 2022-10-04 at 17h54 · [[R Package - casdata]]
-- 2022-10-04 at 17h54 · [[R Package - cascsim]]
-- 2022-10-04 at 17h54 · [[R Package - actuar]]
-- 2022-10-04 at 17h54 · [[R Package - ChainLadder]]
-- 2022-10-04 at 17h54 · [[Actuarial R Packages]]
-- 2022-10-04 at 17h54 · [[R Package - plumber]]
-- 2022-10-04 at 17h54 · [[R Package - gh]]
-- 2022-10-04 at 17h54 · [[API R Packages]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Python Packages]]
-- 2022-10-04 at 17h54 · [[Python Package - tryangle]]
-- 2022-10-04 at 17h54 · [[Python Package - keep]]
-- 2022-10-04 at 17h54 · [[Python Package - SQLAlchemy]]
-- 2022-10-04 at 17h54 · [[Python Package - Flask]]
-- 2022-10-04 at 17h54 · [[Python Package - ChainLadder]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Windows PowerShell]]
-- 2022-10-04 at 17h54 · [[PowerShell Modules]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - psake]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - devblackops]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - Stucco]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - PoshCode]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - Plaster]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - Pester]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - PSScaffold]]
-- 2022-10-04 at 17h54 · [[PowerShell Module - ModuleBuilder]]
-- 2022-10-04 at 17h54 · [[PowerShell Core]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Reactjs]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[DotNet]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Terraform]]
-- 2022-10-04 at 17h54 · [[Infrastructure]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Visual Studio]]
-- 2022-10-04 at 17h54 · [[Visual Studio Code]]
-- 2022-10-04 at 17h54 · [[RStudio]]
-- 2022-10-04 at 17h54 · [[PyCharm]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[markdown-notes-tree]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Quarto]]
-- 2022-10-04 at 17h54 · [[Mermaid.js]]
-- 2022-10-04 at 17h54 · [[Git-Cliff]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[VSCode]]
-- 2022-10-04 at 17h54 · [[Typora]]
-- 2022-10-04 at 17h54 · [[Obsidian]]
-- 2022-10-04 at 17h54 · [[Notepad++]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[ReadTheDocs]]
-- 2022-10-04 at 17h54 · [[MkDocs]]
-- 2022-10-04 at 17h54 · [[Jekyll]]
-- 2022-10-04 at 17h54 · [[Hugo]]
-- 2022-10-04 at 17h54 · [[Hexo]]
-- 2022-10-04 at 17h54 · [[GitBook]]
-- 2022-10-04 at 17h54 · [[Help Docs]]
-- 2022-10-04 at 17h54 · [[DrExplain]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Dockerfiles]]
-- 2022-10-04 at 17h54 · [[Docker]]
-- 2022-10-04 at 17h54 · [[Docker Compose]]
-- 2022-10-04 at 17h54 · [[Docker CLI]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[T-SQL]]
-- 2022-10-04 at 17h54 · [[SQL]]
-- 2022-10-04 at 17h54 · [[PLPGSQL]]
-- 2022-10-04 at 17h54 · [[pgAudit]]
-- 2022-10-04 at 17h54 · [[franchise]]
-- 2022-10-04 at 17h54 · [[dbt - Data Build Tool]]
-- 2022-10-04 at 17h54 · [[dbhub.io]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[SQLFlow]]
-- 2022-10-04 at 17h54 · [[SQL Server - DBA MultiTool]]
-- 2022-10-04 at 17h54 · [[Pyrseas]]
-- 2022-10-04 at 17h54 · [[Great Expectations]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Snowflake]]
-- 2022-10-04 at 17h54 · [[SQLite]]
-- 2022-10-04 at 17h54 · [[SQL Server]]
-- 2022-10-04 at 17h54 · [[PostgreSQL]]
-- 2022-10-04 at 17h54 · [[MariaDB]]
-- 2022-10-04 at 17h54 · [[Hadoop]]
-- 2022-10-04 at 17h54 · [[Elasticsearch]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[SQL Server Management Studio]]
-- 2022-10-04 at 17h54 · [[PgAdmin]]
-- 2022-10-04 at 17h54 · [[Dbgate]]
-- 2022-10-04 at 17h54 · [[DBeaver]]
-- 2022-10-04 at 17h54 · [[DB Browser for SQLite - sqlitebrowser]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Alteryx]]
-- 2022-10-04 at 17h54 · [[wsh]]
-- 2022-10-04 at 17h54 · [[trellocli]]
-- 2022-10-04 at 17h54 · [[to-ico-cli]]
-- 2022-10-04 at 17h54 · [[sncli - Simple Note CLI]]
-- 2022-10-04 at 17h54 · [[organize]]
-- 2022-10-04 at 17h54 · [[nostalgic - Bash Script to Manage Dotfiles]]
-- 2022-10-04 at 17h54 · [[ffsend]]
-- 2022-10-04 at 17h54 · [[doctoc]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Youtube-DL]]
-- 2022-10-04 at 17h54 · [[Todoist-CLI]]
-- 2022-10-04 at 17h54 · [[SophiScript and SophiApp]]
-- 2022-10-04 at 17h54 · [[Nativefier]]
-- 2022-10-04 at 17h54 · [[MEGA CMD]]
-- 2022-10-04 at 17h54 · [[GitHub CLI]]
-- 2022-10-04 at 17h54 · [[GitHub CLI Extension - gh-dash]]
-- 2022-10-04 at 17h54 · [[GCalCLI]]
-- 2022-10-04 at 17h54 · [[GAM - Google Workspace Admin CLI]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Serverless]]
-- 2022-10-04 at 17h54 · [[MultiCloud]]
-- 2022-10-04 at 17h54 · [[Leapp]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Google Colaboratory]]
-- 2022-10-04 at 17h54 · [[Google Cloud BigQuery]]
-- 2022-10-04 at 17h54 · [[GCP Storage]]
-- 2022-10-04 at 17h54 · [[GCP Services Table]]
-- 2022-10-04 at 17h54 · [[GCP Instance Groups]]
-- 2022-10-04 at 17h54 · [[GCP API Service Accounts]]
-- 2022-10-04 at 17h54 · [[GCP - Google Cloud SDK - gcloud]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Microsoft Azure]]
-- 2022-10-04 at 17h54 · [[Microsoft Azure Data Lake Store]]
-- 2022-10-04 at 17h54 · [[Azure SQL Databases]]
-- 2022-10-04 at 17h54 · [[Azure Machine Learning]]
-- 2022-10-04 at 17h54 · [[Azure MLOps]]
-- 2022-10-04 at 17h54 · [[Azure ML Compute Instances]]
-- 2022-10-04 at 17h54 · [[Azure Key Vault]]
-- 2022-10-04 at 17h54 · [[Azure DevOps]]
-- 2022-10-04 at 17h54 · [[Azure DevOps Pipelines]]
-- 2022-10-04 at 17h54 · [[Azure Data Studio]]
-- 2022-10-04 at 17h54 · [[Azure Container Registry]]
-- 2022-10-04 at 17h54 · [[Azure Container Instances]]
-- 2022-10-04 at 17h54 · [[Azure CLI]]
-- 2022-10-04 at 17h54 · [[localstack]]
-- 2022-10-04 at 17h54 · [[_README]]
-- 2022-10-04 at 17h54 · [[Amazon Redshift]]
-- 2022-10-04 at 17h54 · [[Amazon OpenSearch Service]]
-- 2022-10-04 at 17h54 · [[Amazon Kinesis]]
+* 2023-04-05 at 16h44 · [Highlights](3-Resources/Highlights/Highlights.md)
+* 2023-04-05 at 16h44 · [Considerations and limitations for SQL queries in Amazon Athena](3-Resources/Highlights/Matter/Considerations%20and%20limitations%20for%20SQL%20queries%20in%20Amazon%20Athena.md)
+* 2023-03-30 at 15h38 · [CMD - SQLPackage to DacPac](2-Areas/Code/CMD/CMD%20-%20SQLPackage%20to%20DacPac.md)
+* 2023-03-24 at 15h19 · [Office Visual Basic for Applications (VBA) reference](3-Resources/Highlights/Matter/Office%20Visual%20Basic%20for%20Applications%20%28VBA%29%20reference.md)
+* 2023-02-24 at 10h54 · [XDG Base Directory Specification](0-Slipbox/XDG%20Base%20Directory%20Specification.md)
+* 2023-01-26 at 17h55 · [Spreadsheet Documentation (using only Excel's inbuilt tools)](3-Resources/Highlights/Matter/Spreadsheet%20Documentation%20%28using%20only%20Excel's%20inbuilt%20tools%29.md)
+* 2023-01-26 at 17h55 · [Using Partitioning to Optimize Performance During Data Ingestion](3-Resources/Highlights/Matter/Using%20Partitioning%20to%20Optimize%20Performance%20During%20Data%20Ingestion.md)
+* 2023-01-10 at 19h08 · [Docker.md](0-Slipbox/Fleeting/Docker.md.md)
+* 2023-01-10 at 19h08 · [Firefox Developer Edition.md](0-Slipbox/Fleeting/Firefox%20Developer%20Edition.md.md)
+* 2023-01-10 at 19h08 · [Views vs. Materialized Views.md](0-Slipbox/Fleeting/Views%20vs.%20Materialized%20Views.md.md)
+* 2023-01-10 at 19h08 · [PostgreSQL Tools.md](0-Slipbox/Fleeting/PostgreSQL%20Tools.md.md)
+* 2023-01-10 at 19h08 · [PostgreSQL.md](0-Slipbox/Fleeting/PostgreSQL.md.md)
+* 2023-01-10 at 19h08 · [Database GUIs.md](0-Slipbox/Fleeting/Database%20GUIs.md.md)
+* 2023-01-10 at 08h51 · [BEGIN-PROCESS-END - You Can Do Better](3-Resources/Highlights/Matter/BEGIN-PROCESS-END%20-%20You%20Can%20Do%20Better.md)
+* 2023-01-10 at 08h51 · [Write-Host vs Write-Output](3-Resources/Highlights/Matter/Write-Host%20vs%20Write-Output.md)
+* 2023-01-10 at 08h51 · [OOP in VBA- Immutability & The Factory Pattern](3-Resources/Highlights/Matter/OOP%20in%20VBA-%20Immutability%20&%20The%20Factory%20Pattern.md)
+* 2023-01-10 at 08h50 · [Globals and Ambient Context](3-Resources/Highlights/Matter/Globals%20and%20Ambient%20Context.md)
+* 2023-01-10 at 08h50 · [Getting started with VBA in Office](3-Resources/Highlights/Matter/Getting%20started%20with%20VBA%20in%20Office.md)
+* 2022-12-14 at 17h21 · [Managing projects with GTD](3-Resources/Highlights/Matter/Managing%20projects%20with%20GTD.md)
+* 2022-12-09 at 11h47 · [Simulating Actuarial Claims Data with R](0-Slipbox/Simulating%20Actuarial%20Claims%20Data%20with%20R.md)
+* 2022-12-09 at 11h15 · [0-Slipbox](0-Slipbox/0-Slipbox.md)
+* 2022-12-09 at 11h05 · [Actuarial Process Optimization - A Case for Using Modern Technology in the Actuarial Domain](0-Slipbox/Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md)
+* 2022-12-09 at 10h57 · [Actuarial Science](2-Areas/MOCs/Actuarial%20Science.md)
+* 2022-12-09 at 10h55 · [VBA](2-Areas/Code/VBA/VBA.md)
+* 2022-12-07 at 18h36 · [VBA - Compilation Arguments and Enabling Custom DevMode Runtime](2-Areas/Code/VBA/VBA%20-%20Compilation%20Arguments%20and%20Enabling%20Custom%20DevMode%20Runtime.md)
+* 2022-11-29 at 17h21 · [AWS - Amazon RedShift Serverless](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20-%20Amazon%20RedShift%20Serverless.md)
+* 2022-11-29 at 15h36 · [VBA - Launch Edit Links Dialog](2-Areas/Code/VBA/VBA%20-%20Launch%20Edit%20Links%20Dialog.md)
+* 2022-11-29 at 15h33 · [Untitled](2-Areas/Code/VBA/Untitled.md)
+* 2022-11-17 at 18h02 · [PowerShell - Write SQL DDL Documentation](2-Areas/Code/PowerShell/PowerShell%20-%20Write%20SQL%20DDL%20Documentation.md)
+* 2022-11-17 at 16h55 · [PowerShell](2-Areas/Code/PowerShell/PowerShell.md)
+* 2022-11-11 at 18h50 · [GnuPG](0-Slipbox/INBOX/GnuPG.md)
+* 2022-11-11 at 18h46 · [CLI Tools List](2-Areas/Lists/CLI%20Tools%20List.md)
+* 2022-11-11 at 18h43 · [Google Cloud SDK](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/Google%20Cloud%20SDK.md)
+* 2022-11-11 at 18h43 · [GCP](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP.md)
+* 2022-11-11 at 18h21 · [Bash - Function to Interactively Export AWS Profile](2-Areas/Code/Bash/Bash%20-%20Function%20to%20Interactively%20Export%20AWS%20Profile.md)
+* 2022-11-11 at 18h14 · [Bash](2-Areas/Code/Bash/Bash.md)
+* 2022-11-11 at 18h14 · [Bash - Function to Show Website Certificate from Hostname](2-Areas/Code/Bash/Bash%20-%20Function%20to%20Show%20Website%20Certificate%20from%20Hostname.md)
+* 2022-11-11 at 18h02 · [Guide - Setup oh-my-zsh](0-Slipbox/INBOX/Guide%20-%20Setup%20oh-my-zsh.md)
+* 2022-11-08 at 12h16 · [2022-11-08](2-Areas/Daily-Notes/2022-11-08.md)
+* 2022-11-08 at 12h16 · [2-Areas](2-Areas/2-Areas.md)
+* 2022-11-02 at 19h25 · [AWS - DynamoDB Queries](2-Areas/Code/Cloud%20SDKs/AWS/AWS%20-%20DynamoDB%20Queries.md)
+* 2022-11-02 at 19h23 · [AWS - Authentication and Configuration](2-Areas/Code/Cloud%20SDKs/AWS/AWS%20-%20Authentication%20and%20Configuration.md)
+* 2022-11-02 at 19h21 · [Code](2-Areas/Code/Code.md)
+* 2022-11-02 at 19h17 · [AWS - Validate and Verify Credential Setup](2-Areas/Code/Cloud%20SDKs/AWS/AWS%20-%20Validate%20and%20Verify%20Credential%20Setup.md)
+* 2022-11-02 at 19h10 · [Command Line Utilities](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/Command%20Line%20Utilities.md)
+* 2022-11-02 at 19h10 · [Dictionary](3-Resources/Dictionary/Dictionary.md)
+* 2022-11-02 at 19h10 · [3-Resources](3-Resources/3-Resources.md)
+* 2022-11-02 at 19h09 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-11-01 at 16h15 · [CMD](2-Areas/Code/CMD/CMD.md)
+* 2022-11-01 at 16h03 · [PowerShell - Export SQL Server Table to CSV](2-Areas/Code/PowerShell/PowerShell%20-%20Export%20SQL%20Server%20Table%20to%20CSV.md)
+* 2022-11-01 at 16h01 · [Azure CLI - Whitelist IP for SQL Server](2-Areas/Code/Cloud%20SDKs/Azure/Azure%20CLI%20-%20Whitelist%20IP%20for%20SQL%20Server.md)
+* 2022-11-01 at 15h59 · [dbatools (PowerShell)](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/dbatools%20%28PowerShell%29.md)
+* 2022-11-01 at 15h59 · [sqlfluff (Python)](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/sqlfluff%20%28Python%29.md)
+* 2022-11-01 at 15h58 · [dbml-renderer](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/dbml-renderer.md)
+* 2022-11-01 at 15h58 · [SqlPackage](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/SqlPackage.md)
+* 2022-11-01 at 15h57 · [Pyrseas (Python)](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/Pyrseas%20%28Python%29.md)
+* 2022-11-01 at 15h55 · [Augment (en-US)](3-Resources/Dictionary/Augment%20%28en-US%29.md)
+* 2022-11-01 at 15h36 · [Docker.md](0-Slipbox/Fleeting/Docker.md.md)
+* 2022-11-01 at 15h36 · [Firefox Developer Edition.md](0-Slipbox/Fleeting/Firefox%20Developer%20Edition.md.md)
+* 2022-11-01 at 15h36 · [Views vs. Materialized Views.md](0-Slipbox/Fleeting/Views%20vs.%20Materialized%20Views.md.md)
+* 2022-11-01 at 15h36 · [PostgreSQL Tools.md](0-Slipbox/Fleeting/PostgreSQL%20Tools.md.md)
+* 2022-11-01 at 15h36 · [PostgreSQL.md](0-Slipbox/Fleeting/PostgreSQL.md.md)
+* 2022-11-01 at 15h36 · [Database GUIs.md](0-Slipbox/Fleeting/Database%20GUIs.md.md)
+* 2022-10-28 at 15h28 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-28 at 15h27 · [Chapter 2 - SELECT Statement](3-Resources/Book-Notes/SQL-for-Data-Scientists/Chapter%202%20-%20SELECT%20Statement.md)
+* 2022-10-28 at 15h19 · [Chapter 1 - Data Sources](3-Resources/Book-Notes/SQL-for-Data-Scientists/Chapter%201%20-%20Data%20Sources.md)
+* 2022-10-28 at 15h06 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-28 at 15h03 · *Readme-Template*
+* 2022-10-28 at 14h58 · *Templates*
+* 2022-10-28 at 14h57 · [GitHub Actions](2-Areas/Code/GitHub%20Actions/GitHub%20Actions.md)
+* 2022-10-28 at 14h57 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-26 at 18h48 · [PowerShell - List all OLEDB Providers](2-Areas/Code/PowerShell/PowerShell%20-%20List%20all%20OLEDB%20Providers.md)
+* 2022-10-21 at 15h51 · [2022-10-21](2-Areas/Daily-Notes/2022-10-21.md)
+* 2022-10-21 at 15h51 · *Daily-Note-Template*
+* 2022-10-21 at 14h43 · [Web Browsers](3-Resources/Tools/Web%20Browsers/Web%20Browsers.md)
+* 2022-10-21 at 14h43 · [Browser Extensions](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Browser%20Extensions.md)
+* 2022-10-21 at 14h43 · [Physical Tools](3-Resources/Tools/Physical%20Tools/Physical%20Tools.md)
+* 2022-10-21 at 14h43 · [Obsidian](3-Resources/Tools/PKM%20Tools/Obsidian/Obsidian.md)
+* 2022-10-21 at 14h43 · [Websites and Online Tools](3-Resources/Tools/Developer%20Tools/Websites%20and%20Online%20Tools/Websites%20and%20Online%20Tools.md)
+* 2022-10-21 at 14h43 · [Version Control](3-Resources/Tools/Developer%20Tools/Version%20Control/Version%20Control.md)
+* 2022-10-21 at 14h43 · [Terminal](3-Resources/Tools/Developer%20Tools/Terminal/Terminal.md)
+* 2022-10-21 at 14h43 · [Shell](3-Resources/Tools/Developer%20Tools/Shell/Shell.md)
+* 2022-10-21 at 14h43 · [Package Managers](3-Resources/Tools/Developer%20Tools/Package%20Managers/Package%20Managers.md)
+* 2022-10-21 at 14h43 · [Linux](3-Resources/Tools/Linux/Linux.md)
+* 2022-10-21 at 14h43 · [R](2-Areas/Code/R/R.md)
+* 2022-10-21 at 14h43 · [R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/R%20Packages.md)
+* 2022-10-21 at 14h43 · [Python](2-Areas/Code/Python/Python.md)
+* 2022-10-21 at 14h43 · [PowerShell](2-Areas/Code/PowerShell/PowerShell.md)
+* 2022-10-21 at 14h43 · [Languages](3-Resources/Tools/Developer%20Tools/Languages/Languages.md)
+* 2022-10-21 at 14h43 · [JavaScript](2-Areas/Code/Javascript/Javascript.md)
+* 2022-10-21 at 14h43 · [HTML](3-Resources/Tools/Developer%20Tools/Languages/HTML/HTML.md)
+* 2022-10-21 at 14h43 · [CSS](2-Areas/Code/CSS/CSS.md)
+* 2022-10-21 at 14h43 · [IDE](3-Resources/Tools/Developer%20Tools/IDE/IDE.md)
+* 2022-10-21 at 14h43 · [Utility](3-Resources/Tools/Utility/Utility.md)
+* 2022-10-21 at 14h43 · [Text Editors](3-Resources/Tools/Developer%20Tools/Documentation/Text%20Editors/Text%20Editors.md)
+* 2022-10-21 at 14h43 · [Static Site Generators](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/Static%20Site%20Generators.md)
+* 2022-10-21 at 14h43 · [Documentation](3-Resources/Tools/Developer%20Tools/Documentation/Documentation.md)
+* 2022-10-21 at 14h43 · [Developer Tools](3-Resources/Tools/Developer%20Tools/Developer%20Tools.md)
+* 2022-10-21 at 14h43 · [Procedural Languages](3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/Procedural%20Languages.md)
+* 2022-10-21 at 14h43 · [Miscellaneous](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/Miscellaneous.md)
+* 2022-10-21 at 14h43 · [Databases](2-Areas/MOCs/Databases.md)
+* 2022-10-21 at 14h43 · [Database GUI](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/Database%20GUI.md)
+* 2022-10-21 at 14h43 · [Data Stack](3-Resources/Tools/Developer%20Tools/Data%20Stack/Data%20Stack.md)
+* 2022-10-21 at 14h43 · [Business Intelligence](3-Resources/Tools/Developer%20Tools/Data%20Stack/Business%20Intelligence/Business%20Intelligence.md)
+* 2022-10-21 at 14h43 · [Cloud Services](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Cloud%20Services.md)
+* 2022-10-21 at 14h43 · [Azure](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure.md)
+* 2022-10-21 at 14h43 · [AWS](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS.md)
+* 2022-10-21 at 14h43 · [Podcasts](3-Resources/Podcasts/Podcasts.md)
+* 2022-10-21 at 14h43 · *PDFs*
+* 2022-10-21 at 14h43 · [Literature-Notes](3-Resources/Literature-Notes/Literature-Notes.md)
+* 2022-10-21 at 14h43 · [Kanbans](3-Resources/Kanbans/Kanbans.md)
+* 2022-10-21 at 14h43 · [Embeds](3-Resources/Embeds/Embeds.md)
+* 2022-10-21 at 14h43 · *Clippings*
+* 2022-10-21 at 14h43 · *Citations*
+* 2022-10-21 at 14h43 · [Windows Run](2-Areas/Code/Windows%20Run/Windows%20Run.md)
+* 2022-10-21 at 14h43 · [Windows Misc](2-Areas/Code/Windows%20Misc/Windows%20Misc.md)
+* 2022-10-21 at 14h43 · [Windows Batch](2-Areas/Code/Windows%20Batch/Windows%20Batch.md)
+* 2022-10-21 at 14h43 · [SQL](2-Areas/Code/SQL/SQL.md)
+* 2022-10-21 at 14h43 · [R](2-Areas/Code/R/R.md)
+* 2022-10-21 at 14h43 · [Python](2-Areas/Code/Python/Python.md)
+* 2022-10-21 at 14h43 · [Pandoc](2-Areas/Code/Pandoc/Pandoc.md)
+* 2022-10-21 at 14h43 · [Javascript](2-Areas/Code/Javascript/Javascript.md)
+* 2022-10-21 at 14h43 · [Excel](2-Areas/Code/Excel/Excel.md)
+* 2022-10-21 at 14h33 · [GHA - Azure Container WebApp Deployment](2-Areas/Code/GitHub%20Actions/GHA%20-%20Azure%20Container%20WebApp%20Deployment.md)
+* 2022-10-21 at 14h31 · [GHA - AWS Deployment](2-Areas/Code/GitHub%20Actions/GHA%20-%20AWS%20Deployment.md)
+* 2022-10-21 at 14h30 · [GHA - Stale Issues](2-Areas/Code/GitHub%20Actions/GHA%20-%20Stale%20Issues.md)
+* 2022-10-21 at 14h28 · [GHA - Labeler](2-Areas/Code/GitHub%20Actions/GHA%20-%20Labeler.md)
+* 2022-10-21 at 14h27 · *Code-GHA-Template*
+* 2022-10-14 at 16h28 · [Data Lake Testing Strategy](0-Slipbox/Data%20Lake%20Testing%20Strategy.md)
+* 2022-10-14 at 16h26 · [Tracking estimated required reserve changes for captives](3-Resources/Highlights/Matter/Tracking%20estimated%20required%20reserve%20changes%20for%20captives.md)
+* 2022-10-14 at 16h26 · [Getting Started with Julia for Actuaries](3-Resources/Highlights/Matter/Getting%20Started%20with%20Julia%20for%20Actuaries.md)
+* 2022-10-14 at 16h26 · [Actuarial Process Optimization-A Case for Using Modern Technology in Actuarial Domain](3-Resources/Highlights/Matter/Actuarial%20Process%20Optimization-A%20Case%20for%20Using%20Modern%20Technology%20in%20Actuarial%20Domain.md)
+* 2022-10-14 at 16h26 · [Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.-3](3-Resources/Highlights/Matter/Markdownish%20syntax%20for%20generating%20flowcharts,%20sequence%20diagrams,%20class%20diagrams,%20gantt%20charts%20and%20git%20graphs.-3.md)
+* 2022-10-14 at 16h20 · [Workbench](Workbench.md)
+* 2022-10-14 at 16h20 · [README](0-Slipbox/README.md)
+* 2022-10-07 at 08h48 · [PowerShell - Install Azure Developer CLI (azd)](2-Areas/Code/PowerShell/PowerShell%20-%20Install%20Azure%20Developer%20CLI%20%28azd%29.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [iOS Apps](3-Resources/Tools/iOS%20Apps/iOS%20Apps.md)
+* 2022-10-04 at 17h54 · [Streaks](3-Resources/Tools/iOS%20Apps/Streaks.md)
+* 2022-10-04 at 17h54 · [Snipd](3-Resources/Tools/iOS%20Apps/Snipd.md)
+* 2022-10-04 at 17h54 · [Airr](3-Resources/Tools/iOS%20Apps/Airr.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Microsoft Edge](3-Resources/Tools/Web%20Browsers/Microsoft%20Edge.md)
+* 2022-10-04 at 17h54 · [Google Chrome](3-Resources/Tools/Web%20Browsers/Chrome/Google%20Chrome.md)
+* 2022-10-04 at 17h54 · [Firefox](3-Resources/Tools/Web%20Browsers/Firefox/Firefox.md)
+* 2022-10-04 at 17h54 · [Firefox Developer](3-Resources/Tools/Web%20Browsers/Firefox/Firefox%20Developer.md)
+* 2022-10-04 at 17h54 · [Firefox Developer](3-Resources/Tools/Web%20Browsers/Firefox/Firefox%20Developer.md)
+* 2022-10-04 at 17h54 · [Microsoft Edge](3-Resources/Tools/Web%20Browsers/Microsoft%20Edge.md)
+* 2022-10-04 at 17h54 · [Edge](3-Resources/Tools/Web%20Browsers/Edge/Edge.md)
+* 2022-10-04 at 17h54 · [Google Chrome](3-Resources/Tools/Web%20Browsers/Chrome/Google%20Chrome.md)
+* 2022-10-04 at 17h54 · [Chrome](3-Resources/Tools/Web%20Browsers/Chrome/Chrome.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Zotero Connector](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Zotero%20Connector.md)
+* 2022-10-04 at 17h54 · [Tab Session Manager](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Tab%20Session%20Manager.md)
+* 2022-10-04 at 17h54 · [Raindrop.io](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Raindrop.io.md)
+* 2022-10-04 at 17h54 · [OneTab](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/OneTab.md)
+* 2022-10-04 at 17h54 · [Momentum](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Momentum.md)
+* 2022-10-04 at 17h54 · [Markdownload](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Markdownload.md)
+* 2022-10-04 at 17h54 · [Keeper Password Manager](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Keeper%20Password%20Manager.md)
+* 2022-10-04 at 17h54 · [Dark Reader](3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Dark%20Reader.md)
+* 2022-10-04 at 17h54 · [ViveTool](3-Resources/Tools/Utility/ViveTool.md)
+* 2022-10-04 at 17h54 · [Utility](3-Resources/Tools/Utility/Utility.md)
+* 2022-10-04 at 17h54 · [Universal Silent Switch Finder](3-Resources/Tools/Utility/Universal%20Silent%20Switch%20Finder.md)
+* 2022-10-04 at 17h54 · [Topgrade](3-Resources/Tools/Utility/Topgrade.md)
+* 2022-10-04 at 17h54 · [ThisIsWin11](3-Resources/Tools/Utility/ThisIsWin11.md)
+* 2022-10-04 at 17h54 · [TaskBarX](3-Resources/Tools/Utility/TaskBarX.md)
+* 2022-10-04 at 17h54 · [QTTabBar](3-Resources/Tools/Utility/QTTabBar.md)
+* 2022-10-04 at 17h54 · [NotePads](3-Resources/Tools/Utility/NotePads.md)
+* 2022-10-04 at 17h54 · [Nativefier](3-Resources/Tools/Utility/Nativefier.md)
+* 2022-10-04 at 17h54 · [Microsoft PowerToys](3-Resources/Tools/Utility/Microsoft%20PowerToys.md)
+* 2022-10-04 at 17h54 · [Mach2](3-Resources/Tools/Utility/Mach2.md)
+* 2022-10-04 at 17h54 · [MZ Tools For VBA Development](3-Resources/Tools/Utility/MZ%20Tools%20For%20VBA%20Development.md)
+* 2022-10-04 at 17h54 · [Inno Setup](3-Resources/Tools/Utility/Inno%20Setup.md)
+* 2022-10-04 at 17h54 · [HandyWinGet](3-Resources/Tools/Utility/HandyWinGet.md)
+* 2022-10-04 at 17h54 · [File UWP](3-Resources/Tools/Utility/File%20UWP.md)
+* 2022-10-04 at 17h54 · [Electron](3-Resources/Tools/Utility/Electron.md)
+* 2022-10-04 at 17h54 · [EaseUS](3-Resources/Tools/Utility/EaseUS.md)
+* 2022-10-04 at 17h54 · [DriveStoreExplorer](3-Resources/Tools/Utility/DriveStoreExplorer.md)
+* 2022-10-04 at 17h54 · [CloneApp](3-Resources/Tools/Utility/CloneApp.md)
+* 2022-10-04 at 17h54 · [CleanMgrPlus](3-Resources/Tools/Utility/CleanMgrPlus.md)
+* 2022-10-04 at 17h54 · [BloatBox](3-Resources/Tools/Utility/BloatBox.md)
+* 2022-10-04 at 17h54 · [AutoHotKey](3-Resources/Tools/Utility/AutoHotKey.md)
+* 2022-10-04 at 17h54 · [Tools](3-Resources/Tools/Tools.md)
+* 2022-10-04 at 17h54 · [Toggl](3-Resources/Tools/Productivity%20Tools/Toggl.md)
+* 2022-10-04 at 17h54 · [Todoist](3-Resources/Tools/Productivity%20Tools/Todoist.md)
+* 2022-10-04 at 17h54 · [Productivity Tools](3-Resources/Tools/Productivity%20Tools/Productivity%20Tools.md)
+* 2022-10-04 at 17h54 · [Productivity System](3-Resources/Tools/Productivity%20Tools/Productivity%20System.md)
+* 2022-10-04 at 17h54 · [Notion](3-Resources/Tools/Productivity%20Tools/Notion.md)
+* 2022-10-04 at 17h54 · [Google Calendar](3-Resources/Tools/Productivity%20Tools/Google%20Calendar.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Mnemosyne Notebooks](3-Resources/Tools/Physical%20Tools/Mnemosyne%20Notebooks.md)
+* 2022-10-04 at 17h54 · [Zotero](3-Resources/Tools/PKM%20Tools/Zotero.md)
+* 2022-10-04 at 17h54 · [Readwise](3-Resources/Tools/PKM%20Tools/Readwise.md)
+* 2022-10-04 at 17h54 · [PKM Tools](3-Resources/Tools/PKM%20Tools/PKM%20Tools.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [obsidian-export](3-Resources/Tools/PKM%20Tools/Obsidian/Utility/obsidian-export.md)
+* 2022-10-04 at 17h54 · [obsidian-clipper](3-Resources/Tools/PKM%20Tools/Obsidian/Utility/obsidian-clipper.md)
+* 2022-10-04 at 17h54 · [obsidian-blog](3-Resources/Tools/PKM%20Tools/Obsidian/Utility/obsidian-blog.md)
+* 2022-10-04 at 17h54 · [Utility](3-Resources/Tools/Utility/Utility.md)
+* 2022-10-04 at 17h54 · [Themes](3-Resources/Tools/PKM%20Tools/Obsidian/Themes/Themes.md)
+* 2022-10-04 at 17h54 · [Readwise Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Readwise%20Plugin.md)
+* 2022-10-04 at 17h54 · [Plugins](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Plugins.md)
+* 2022-10-04 at 17h54 · [Obsidian Highlights Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Obsidian%20Highlights%20Plugin.md)
+* 2022-10-04 at 17h54 · [Obsidian Git Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Obsidian%20Git%20Plugin.md)
+* 2022-10-04 at 17h54 · [Kanban Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Kanban%20Plugin.md)
+* 2022-10-04 at 17h54 · [Extract Highlights Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Extract%20Highlights%20Plugin.md)
+* 2022-10-04 at 17h54 · [Dictionary Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Dictionary%20Plugin.md)
+* 2022-10-04 at 17h54 · [Citations Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Citations%20Plugin.md)
+* 2022-10-04 at 17h54 · [Advanced Tables Plugin](3-Resources/Tools/PKM%20Tools/Obsidian/Plugins/Advanced%20Tables%20Plugin.md)
+* 2022-10-04 at 17h54 · [Medium](3-Resources/Tools/PKM%20Tools/Medium.md)
+* 2022-10-04 at 17h54 · [Kindle](3-Resources/Tools/PKM%20Tools/Kindle.md)
+* 2022-10-04 at 17h54 · [Instapaper](3-Resources/Tools/PKM%20Tools/Instapaper.md)
+* 2022-10-04 at 17h54 · [Hypothesis.io](3-Resources/Tools/PKM%20Tools/Hypothesis.io.md)
+* 2022-10-04 at 17h54 · [Feedly](3-Resources/Tools/PKM%20Tools/Feedly.md)
+* 2022-10-04 at 17h54 · [Evernote](3-Resources/Tools/PKM%20Tools/Evernote.md)
+* 2022-10-04 at 17h54 · [Twitter](3-Resources/Tools/Online%20Tools/Twitter.md)
+* 2022-10-04 at 17h54 · [Reddit](3-Resources/Tools/Online%20Tools/Reddit.md)
+* 2022-10-04 at 17h54 · [Online Tools](3-Resources/Tools/Online%20Tools/Online%20Tools.md)
+* 2022-10-04 at 17h54 · [Goodreads](3-Resources/Tools/Online%20Tools/Goodreads.md)
+* 2022-10-04 at 17h54 · [Bookmarklet Maker](3-Resources/Tools/Online%20Tools/Bookmarklet%20Maker.md)
+* 2022-10-04 at 17h54 · [Prophet](3-Resources/Tools/Modeling/Prophet.md)
+* 2022-10-04 at 17h54 · [Modeling](3-Resources/Tools/Modeling/Modeling.md)
+* 2022-10-04 at 17h54 · [Office RibbonX Editor](3-Resources/Tools/Microsoft%20Office/Office%20RibbonX%20Editor.md)
+* 2022-10-04 at 17h54 · [Microsoft Visio](3-Resources/Tools/Microsoft%20Office/Microsoft%20Visio.md)
+* 2022-10-04 at 17h54 · [Microsoft Office](3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* 2022-10-04 at 17h54 · [Microsoft Access](3-Resources/Tools/Microsoft%20Office/Microsoft%20Access.md)
+* 2022-10-04 at 17h54 · [Inquire Excel Add-In](3-Resources/Tools/Microsoft%20Office/Excel/Inquire%20Excel%20Add-In.md)
+* 2022-10-04 at 17h54 · [Excel](2-Areas/Code/Excel/Excel.md)
+* 2022-10-04 at 17h54 · [Excel - VBA](3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
+* 2022-10-04 at 17h54 · [xdg-user-dirs](3-Resources/Tools/Linux/xdg-user-dirs.md)
+* 2022-10-04 at 17h54 · [Linux](3-Resources/Tools/Linux/Linux.md)
+* 2022-10-04 at 17h54 · [Bash](2-Areas/Code/Bash/Bash.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [thiscodeWorks](3-Resources/Tools/Developer%20Tools/Websites%20and%20Online%20Tools/thiscodeWorks.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [StackOverflow](3-Resources/Tools/Developer%20Tools/Websites%20and%20Online%20Tools/StackOverflow.md)
+* 2022-10-04 at 17h54 · [repo-manager](3-Resources/Tools/Developer%20Tools/Version%20Control/repo-manager.md)
+* 2022-10-04 at 17h54 · [gitui](3-Resources/Tools/Developer%20Tools/Version%20Control/gitui.md)
+* 2022-10-04 at 17h54 · [git-sweep](3-Resources/Tools/Developer%20Tools/Version%20Control/git-sweep.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [GitHub](3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md)
+* 2022-10-04 at 17h54 · [Git](3-Resources/Tools/Developer%20Tools/Version%20Control/Git.md)
+* 2022-10-04 at 17h54 · [Git Extras](3-Resources/Tools/Developer%20Tools/Version%20Control/Git%20Extras.md)
+* 2022-10-04 at 17h54 · [iTerm](3-Resources/Tools/Developer%20Tools/Terminal/iTerm.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Windows Terminal](3-Resources/Tools/Developer%20Tools/Terminal/Windows%20Terminal.md)
+* 2022-10-04 at 17h54 · [Fluent Terminal](3-Resources/Tools/Developer%20Tools/Terminal/Fluent%20Terminal.md)
+* 2022-10-04 at 17h54 · [zsh](3-Resources/Tools/Developer%20Tools/Shell/zsh.md)
+* 2022-10-04 at 17h54 · [powerlevel10k](3-Resources/Tools/Developer%20Tools/Shell/powerlevel10k.md)
+* 2022-10-04 at 17h54 · [oh-my-zsh](3-Resources/Tools/Developer%20Tools/Shell/oh-my-zsh.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Nerdfont](3-Resources/Tools/Developer%20Tools/Shell/Nerdfont.md)
+* 2022-10-04 at 17h54 · [Microsoft DOS](3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* 2022-10-04 at 17h54 · [Bash](2-Areas/Code/Bash/Bash.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Winget](3-Resources/Tools/Developer%20Tools/Package%20Managers/Winget.md)
+* 2022-10-04 at 17h54 · [Scoop](3-Resources/Tools/Developer%20Tools/Package%20Managers/Scoop/Scoop.md)
+* 2022-10-04 at 17h54 · [Rust - Cargo](3-Resources/Tools/Developer%20Tools/Package%20Managers/Rust%20-%20Cargo.md)
+* 2022-10-04 at 17h54 · [RIM - R Installation Manager CLI](3-Resources/Tools/Developer%20Tools/Package%20Managers/RIM%20-%20R%20Installation%20Manager%20CLI.md)
+* 2022-10-04 at 17h54 · [Python - pip](3-Resources/Tools/Developer%20Tools/Package%20Managers/Python%20-%20pip.md)
+* 2022-10-04 at 17h54 · [OneGet](3-Resources/Tools/Developer%20Tools/Package%20Managers/OneGet.md)
+* 2022-10-04 at 17h54 · [Node - npm](3-Resources/Tools/Developer%20Tools/Package%20Managers/Node%20-%20npm.md)
+* 2022-10-04 at 17h54 · [choco-package-list-backup](3-Resources/Tools/Developer%20Tools/Package%20Managers/Chocolatey/choco-package-list-backup.md)
+* 2022-10-04 at 17h54 · [choco-cleaner](3-Resources/Tools/Developer%20Tools/Package%20Managers/Chocolatey/choco-cleaner.md)
+* 2022-10-04 at 17h54 · [choco-archiver](3-Resources/Tools/Developer%20Tools/Package%20Managers/Chocolatey/choco-archiver.md)
+* 2022-10-04 at 17h54 · [INSTChoco](3-Resources/Tools/Developer%20Tools/Package%20Managers/Chocolatey/INSTChoco.md)
+* 2022-10-04 at 17h54 · [Chocolatey](3-Resources/Tools/Developer%20Tools/Package%20Managers/Chocolatey/Chocolatey.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Windows Subsystem for Linux](3-Resources/Tools/Developer%20Tools/Linux/Windows%20Subsystem%20for%20Linux.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Shiny R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Shiny%20R%20Packages/Shiny%20R%20Packages.md)
+* 2022-10-04 at 17h54 · [RStudio Package Manager](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/R%20Package%20Tools/RStudio%20Package%20Manager.md)
+* 2022-10-04 at 17h54 · [R Package Tools](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/R%20Package%20Tools/R%20Package%20Tools.md)
+* 2022-10-04 at 17h54 · [R Package - usethis](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/R%20Package%20Tools/R%20Package%20-%20usethis.md)
+* 2022-10-04 at 17h54 · [R Package - covr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/R%20Package%20Tools/R%20Package%20-%20covr.md)
+* 2022-10-04 at 17h54 · [R Package - vembedr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20vembedr.md)
+* 2022-10-04 at 17h54 · [R Package - qs](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20qs.md)
+* 2022-10-04 at 17h54 · [R Package - pkgsearch](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20pkgsearch.md)
+* 2022-10-04 at 17h54 · [R Package - keyring](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20keyring.md)
+* 2022-10-04 at 17h54 · [R Package - config](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20config.md)
+* 2022-10-04 at 17h54 · [R Package - callr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20callr.md)
+* 2022-10-04 at 17h54 · [R Package - Hmisc](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20Hmisc.md)
+* 2022-10-04 at 17h54 · [General R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/General%20R%20Packages.md)
+* 2022-10-04 at 17h54 · [R Package - validatedb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20validatedb.md)
+* 2022-10-04 at 17h54 · [R Package - validate](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20validate.md)
+* 2022-10-04 at 17h54 · [R Package - uptasticsearch](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20uptasticsearch.md)
+* 2022-10-04 at 17h54 · [R Package - tfio](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20tfio.md)
+* 2022-10-04 at 17h54 · [R Package - sqlpetr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20sqlpetr.md)
+* 2022-10-04 at 17h54 · [R Package - sqldf](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20sqldf.md)
+* 2022-10-04 at 17h54 · [R Package - sparklyr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20sparklyr.md)
+* 2022-10-04 at 17h54 · [R Package - rscontract](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20rscontract.md)
+* 2022-10-04 at 17h54 · [R Package - rrocksdb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20rrocksdb.md)
+* 2022-10-04 at 17h54 · [R Package - rpostgis](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20rpostgis.md)
+* 2022-10-04 at 17h54 · [R Package - rocker](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20rocker.md)
+* 2022-10-04 at 17h54 · [R Package - rocker 1](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20rocker%201.md)
+* 2022-10-04 at 17h54 · [R Package - redux](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20redux.md)
+* 2022-10-04 at 17h54 · [R Package - pool](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20pool.md)
+* 2022-10-04 at 17h54 · [R Package - pointblank](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20pointblank.md)
+* 2022-10-04 at 17h54 · [R Package - odbc](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20odbc.md)
+* 2022-10-04 at 17h54 · [R Package - mssqlR](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20mssqlR.md)
+* 2022-10-04 at 17h54 · [R Package - mongolite](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20mongolite.md)
+* 2022-10-04 at 17h54 · [R Package - liteq](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20liteq.md)
+* 2022-10-04 at 17h54 · [R Package - influxdbr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20influxdbr.md)
+* 2022-10-04 at 17h54 · [R Package - influxdb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20influxdb.md)
+* 2022-10-04 at 17h54 · [R Package - importTablesMSSQL](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20importTablesMSSQL.md)
+* 2022-10-04 at 17h54 · [R Package - implyr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20implyr.md)
+* 2022-10-04 at 17h54 · [R Package - ibmdbR](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20ibmdbR.md)
+* 2022-10-04 at 17h54 · [R Package - filehashSQLite](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20filehashSQLite.md)
+* 2022-10-04 at 17h54 · [R Package - elastic](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20elastic.md)
+* 2022-10-04 at 17h54 · [R Package - dittodb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dittodb.md)
+* 2022-10-04 at 17h54 · [R Package - dbx](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbx.md)
+* 2022-10-04 at 17h54 · [R Package - dbreport](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbreport.md)
+* 2022-10-04 at 17h54 · [R Package - dbr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbr.md)
+* 2022-10-04 at 17h54 · [R Package - dbplyr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbplyr.md)
+* 2022-10-04 at 17h54 · [R Package - dbcooper](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbcooper.md)
+* 2022-10-04 at 17h54 · [R Package - connections](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20connections.md)
+* 2022-10-04 at 17h54 · [R Package - bigrquery](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20bigrquery.md)
+* 2022-10-04 at 17h54 · [R Package - aws.dynamodb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20aws.dynamodb.md)
+* 2022-10-04 at 17h54 · [R Package - arkdb](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20arkdb.md)
+* 2022-10-04 at 17h54 · [R Package - TScompare](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20TScompare.md)
+* 2022-10-04 at 17h54 · [R Package - SciDB](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20SciDB.md)
+* 2022-10-04 at 17h54 · [R Package - RcppRedis](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RcppRedis.md)
+* 2022-10-04 at 17h54 · [R Package - RSQLite](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RSQLite.md)
+* 2022-10-04 at 17h54 · [R Package - RPresto](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RPresto.md)
+* 2022-10-04 at 17h54 · [R Package - RPostgres](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RPostgres.md)
+* 2022-10-04 at 17h54 · [R Package - RPostgreSQL](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RPostgreSQL.md)
+* 2022-10-04 at 17h54 · [R Package - ROracle](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20ROracle.md)
+* 2022-10-04 at 17h54 · [R Package - RODBC](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RODBC.md)
+* 2022-10-04 at 17h54 · [R Package - RMySQL](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RMySQL.md)
+* 2022-10-04 at 17h54 · [R Package - RMariaDB](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RMariaDB.md)
+* 2022-10-04 at 17h54 · [R Package - RJDBC](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RJDBC.md)
+* 2022-10-04 at 17h54 · [R Package - RH2](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RH2.md)
+* 2022-10-04 at 17h54 · [R Package - RGreenplum](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RGreenplum.md)
+* 2022-10-04 at 17h54 · [R Package - RDruid](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RDruid.md)
+* 2022-10-04 at 17h54 · [R Package - RCassandra](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20RCassandra.md)
+* 2022-10-04 at 17h54 · [R Package - R4CouchDB](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20R4CouchDB.md)
+* 2022-10-04 at 17h54 · [R Package - MsSqlTools](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20MsSqlTools.md)
+* 2022-10-04 at 17h54 · [R Package - MSSQL](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20MSSQL.md)
+* 2022-10-04 at 17h54 · [R Package - DatabaseConnector](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20DatabaseConnector.md)
+* 2022-10-04 at 17h54 · [R Package - DBconnectR](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20DBconnectR.md)
+* 2022-10-04 at 17h54 · [R Package - DBITest](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20DBITest.md)
+* 2022-10-04 at 17h54 · [R Package - DBI](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20DBI.md)
+* 2022-10-04 at 17h54 · [Database R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/Database%20R%20Packages.md)
+* 2022-10-04 at 17h54 · [R Package - dplyr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Data%20Manipulation%20Packages/R%20Package%20-%20dplyr.md)
+* 2022-10-04 at 17h54 · [R Package - dlookr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Data%20Manipulation%20Packages/R%20Package%20-%20dlookr.md)
+* 2022-10-04 at 17h54 · [Data Manipulation Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Data%20Manipulation%20Packages/Data%20Manipulation%20Packages.md)
+* 2022-10-04 at 17h54 · [R Package - simulationmachine](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20simulationmachine.md)
+* 2022-10-04 at 17h54 · [R Package - rsvr](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20rsvr.md)
+* 2022-10-04 at 17h54 · [R Package - raw](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20raw.md)
+* 2022-10-04 at 17h54 · [R Package - insurancerating](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20insurancerating.md)
+* 2022-10-04 at 17h54 · [R Package - imaginator](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20imaginator.md)
+* 2022-10-04 at 17h54 · [R Package - deeptriangle](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20deeptriangle.md)
+* 2022-10-04 at 17h54 · [R Package - conjuror](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20conjuror.md)
+* 2022-10-04 at 17h54 · [R Package - casdown](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20casdown.md)
+* 2022-10-04 at 17h54 · [R Package - casdata](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20casdata.md)
+* 2022-10-04 at 17h54 · [R Package - cascsim](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20cascsim.md)
+* 2022-10-04 at 17h54 · [R Package - actuar](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20actuar.md)
+* 2022-10-04 at 17h54 · [R Package - ChainLadder](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/R%20Package%20-%20ChainLadder.md)
+* 2022-10-04 at 17h54 · [Actuarial R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Actuarial%20R%20Packages/Actuarial%20R%20Packages.md)
+* 2022-10-04 at 17h54 · [R Package - plumber](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20plumber.md)
+* 2022-10-04 at 17h54 · [R Package - gh](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20gh.md)
+* 2022-10-04 at 17h54 · [API R Packages](3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/API%20R%20Packages.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Python Packages](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Packages.md)
+* 2022-10-04 at 17h54 · [Python Package - tryangle](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Package%20-%20tryangle.md)
+* 2022-10-04 at 17h54 · [Python Package - keep](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Package%20-%20keep.md)
+* 2022-10-04 at 17h54 · [Python Package - SQLAlchemy](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Package%20-%20SQLAlchemy.md)
+* 2022-10-04 at 17h54 · [Python Package - Flask](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Package%20-%20Flask.md)
+* 2022-10-04 at 17h54 · [Python Package - ChainLadder](3-Resources/Tools/Developer%20Tools/Languages/Python/Python%20Packages/Python%20Package%20-%20ChainLadder.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Windows PowerShell](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/Windows%20PowerShell.md)
+* 2022-10-04 at 17h54 · [PowerShell Modules](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Modules.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - psake](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20psake.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - devblackops](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20devblackops.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - Stucco](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20Stucco.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - PoshCode](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20PoshCode.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - Plaster](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20Plaster.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - Pester](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20Pester.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - PSScaffold](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20PSScaffold.md)
+* 2022-10-04 at 17h54 · [PowerShell Module - ModuleBuilder](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Module%20-%20ModuleBuilder.md)
+* 2022-10-04 at 17h54 · [PowerShell Core](3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Core.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Reactjs](3-Resources/Tools/Developer%20Tools/Languages/JavaScript/Reactjs.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [DotNet](3-Resources/Tools/Developer%20Tools/Languages/DotNet/DotNet.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Terraform](3-Resources/Tools/Developer%20Tools/Infrastructure/Terraform.md)
+* 2022-10-04 at 17h54 · [Infrastructure](3-Resources/Tools/Developer%20Tools/Infrastructure/Infrastructure.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Visual Studio](3-Resources/Tools/Developer%20Tools/IDE/Visual%20Studio.md)
+* 2022-10-04 at 17h54 · [Visual Studio Code](3-Resources/Tools/Developer%20Tools/IDE/Visual%20Studio%20Code.md)
+* 2022-10-04 at 17h54 · [RStudio](3-Resources/Tools/Developer%20Tools/IDE/RStudio.md)
+* 2022-10-04 at 17h54 · [PyCharm](3-Resources/Tools/Developer%20Tools/IDE/PyCharm.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [markdown-notes-tree](3-Resources/Tools/Developer%20Tools/Documentation/Utility/markdown-notes-tree.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Quarto](3-Resources/Tools/Developer%20Tools/Documentation/Utility/Quarto.md)
+* 2022-10-04 at 17h54 · [Mermaid.js](3-Resources/Tools/Developer%20Tools/Documentation/Utility/Mermaid.js.md)
+* 2022-10-04 at 17h54 · [Git-Cliff](3-Resources/Tools/Developer%20Tools/Documentation/Utility/Git-Cliff.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [VSCode](3-Resources/Tools/Developer%20Tools/Documentation/Text%20Editors/VSCode.md)
+* 2022-10-04 at 17h54 · [Typora](3-Resources/Tools/Developer%20Tools/Documentation/Text%20Editors/Typora.md)
+* 2022-10-04 at 17h54 · [Obsidian](3-Resources/Tools/PKM%20Tools/Obsidian/Obsidian.md)
+* 2022-10-04 at 17h54 · [Notepad++](3-Resources/Tools/Developer%20Tools/Documentation/Text%20Editors/Notepad++.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [ReadTheDocs](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/ReadTheDocs.md)
+* 2022-10-04 at 17h54 · [MkDocs](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/MkDocs.md)
+* 2022-10-04 at 17h54 · [Jekyll](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/Jekyll.md)
+* 2022-10-04 at 17h54 · [Hugo](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/Hugo.md)
+* 2022-10-04 at 17h54 · [Hexo](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/Hexo.md)
+* 2022-10-04 at 17h54 · [GitBook](3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/GitBook.md)
+* 2022-10-04 at 17h54 · [Help Docs](3-Resources/Tools/Developer%20Tools/Documentation/Help%20Docs/Help%20Docs.md)
+* 2022-10-04 at 17h54 · [DrExplain](3-Resources/Tools/Developer%20Tools/Documentation/Help%20Docs/DrExplain.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Dockerfiles](3-Resources/Tools/Developer%20Tools/Docker/Dockerfiles.md)
+* 2022-10-04 at 17h54 · [Docker](3-Resources/Tools/Developer%20Tools/Docker/Docker.md)
+* 2022-10-04 at 17h54 · [Docker Compose](3-Resources/Tools/Developer%20Tools/Docker/Docker%20Compose.md)
+* 2022-10-04 at 17h54 · [Docker CLI](3-Resources/Tools/Developer%20Tools/Docker/Docker%20CLI.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [T-SQL](3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/T-SQL.md)
+* 2022-10-04 at 17h54 · [SQL](2-Areas/Code/SQL/SQL.md)
+* 2022-10-04 at 17h54 · [PLPGSQL](3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md)
+* 2022-10-04 at 17h54 · [pgAudit](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/pgAudit.md)
+* 2022-10-04 at 17h54 · [franchise](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/franchise.md)
+* 2022-10-04 at 17h54 · [dbt - Data Build Tool](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/dbt%20-%20Data%20Build%20Tool.md)
+* 2022-10-04 at 17h54 · [dbhub.io](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/dbhub.io.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [SQLFlow](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/SQLFlow.md)
+* 2022-10-04 at 17h54 · [SQL Server - DBA MultiTool](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/SQL%20Server%20-%20DBA%20MultiTool.md)
+* 2022-10-04 at 17h54 · [Pyrseas](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/Pyrseas.md)
+* 2022-10-04 at 17h54 · [Great Expectations](3-Resources/Tools/Developer%20Tools/Data%20Stack/Miscellaneous/Great%20Expectations.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Snowflake](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/Snowflake.md)
+* 2022-10-04 at 17h54 · [SQLite](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQLite.md)
+* 2022-10-04 at 17h54 · [SQL Server](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* 2022-10-04 at 17h54 · [PostgreSQL](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* 2022-10-04 at 17h54 · [MariaDB](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/MariaDB.md)
+* 2022-10-04 at 17h54 · [Hadoop](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/Hadoop.md)
+* 2022-10-04 at 17h54 · [Elasticsearch](3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/Elasticsearch.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [SQL Server Management Studio](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/SQL%20Server%20Management%20Studio.md)
+* 2022-10-04 at 17h54 · [PgAdmin](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/PgAdmin.md)
+* 2022-10-04 at 17h54 · [Dbgate](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/Dbgate.md)
+* 2022-10-04 at 17h54 · [DBeaver](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/DBeaver.md)
+* 2022-10-04 at 17h54 · [DB Browser for SQLite - sqlitebrowser](3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/DB%20Browser%20for%20SQLite%20-%20sqlitebrowser.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Alteryx](3-Resources/Tools/Developer%20Tools/Data%20Stack/Business%20Intelligence/Alteryx.md)
+* 2022-10-04 at 17h54 · [wsh](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/wsh.md)
+* 2022-10-04 at 17h54 · [trellocli](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/trellocli.md)
+* 2022-10-04 at 17h54 · [to-ico-cli](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/to-ico-cli.md)
+* 2022-10-04 at 17h54 · [sncli - Simple Note CLI](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/sncli%20-%20Simple%20Note%20CLI.md)
+* 2022-10-04 at 17h54 · [organize](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/organize.md)
+* 2022-10-04 at 17h54 · [nostalgic - Bash Script to Manage Dotfiles](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/nostalgic%20-%20Bash%20Script%20to%20Manage%20Dotfiles.md)
+* 2022-10-04 at 17h54 · [ffsend](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/ffsend.md)
+* 2022-10-04 at 17h54 · [doctoc](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/doctoc.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Youtube-DL](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/Youtube-DL.md)
+* 2022-10-04 at 17h54 · [Todoist-CLI](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/Todoist-CLI.md)
+* 2022-10-04 at 17h54 · [SophiScript and SophiApp](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/SophiScript%20and%20SophiApp.md)
+* 2022-10-04 at 17h54 · [Nativefier](3-Resources/Tools/Utility/Nativefier.md)
+* 2022-10-04 at 17h54 · [MEGA CMD](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/MEGA%20CMD.md)
+* 2022-10-04 at 17h54 · [GitHub CLI](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/GitHub%20CLI.md)
+* 2022-10-04 at 17h54 · [GitHub CLI Extension - gh-dash](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/GitHub%20CLI%20Extension%20-%20gh-dash.md)
+* 2022-10-04 at 17h54 · [GCalCLI](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/GCalCLI.md)
+* 2022-10-04 at 17h54 · [GAM - Google Workspace Admin CLI](3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/GAM%20-%20Google%20Workspace%20Admin%20CLI.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Serverless](3-Resources/Tools/Developer%20Tools/Cloud%20Services/MultiCloud/Serverless.md)
+* 2022-10-04 at 17h54 · [MultiCloud](3-Resources/Tools/Developer%20Tools/Cloud%20Services/MultiCloud/MultiCloud.md)
+* 2022-10-04 at 17h54 · [Leapp](3-Resources/Tools/Developer%20Tools/Cloud%20Services/MultiCloud/Leapp.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Google Colaboratory](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/Google%20Colaboratory.md)
+* 2022-10-04 at 17h54 · [Google Cloud BigQuery](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/Google%20Cloud%20BigQuery.md)
+* 2022-10-04 at 17h54 · [GCP Storage](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP%20Storage.md)
+* 2022-10-04 at 17h54 · [GCP Services Table](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP%20Services%20Table.md)
+* 2022-10-04 at 17h54 · [GCP Instance Groups](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP%20Instance%20Groups.md)
+* 2022-10-04 at 17h54 · [GCP API Service Accounts](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP%20API%20Service%20Accounts.md)
+* 2022-10-04 at 17h54 · [GCP - Google Cloud SDK - gcloud](3-Resources/Tools/Developer%20Tools/Cloud%20Services/GCP/GCP%20-%20Google%20Cloud%20SDK%20-%20gcloud.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Microsoft Azure](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Microsoft%20Azure.md)
+* 2022-10-04 at 17h54 · [Microsoft Azure Data Lake Store](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Microsoft%20Azure%20Data%20Lake%20Store.md)
+* 2022-10-04 at 17h54 · [Azure SQL Databases](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20SQL%20Databases.md)
+* 2022-10-04 at 17h54 · [Azure Machine Learning](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* 2022-10-04 at 17h54 · [Azure MLOps](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20MLOps.md)
+* 2022-10-04 at 17h54 · [Azure ML Compute Instances](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20ML%20Compute%20Instances.md)
+* 2022-10-04 at 17h54 · [Azure Key Vault](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Key%20Vault.md)
+* 2022-10-04 at 17h54 · [Azure DevOps](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20DevOps.md)
+* 2022-10-04 at 17h54 · [Azure DevOps Pipelines](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20DevOps%20Pipelines.md)
+* 2022-10-04 at 17h54 · [Azure Data Studio](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Data%20Studio.md)
+* 2022-10-04 at 17h54 · [Azure Container Registry](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Container%20Registry.md)
+* 2022-10-04 at 17h54 · [Azure Container Instances](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Container%20Instances.md)
+* 2022-10-04 at 17h54 · [Azure CLI](3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20CLI.md)
+* 2022-10-04 at 17h54 · [localstack](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/localstack.md)
+* 2022-10-04 at 17h54 · [\_README](2-Areas/Code/PowerShell/_README.md)
+* 2022-10-04 at 17h54 · [Amazon Redshift](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20Redshift.md)
+* 2022-10-04 at 17h54 · [Amazon OpenSearch Service](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20OpenSearch%20Service.md)
+* 2022-10-04 at 17h54 · [Amazon Kinesis](3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20Kinesis.md)

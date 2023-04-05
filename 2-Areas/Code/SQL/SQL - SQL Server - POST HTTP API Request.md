@@ -1,15 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - SQL Server - POST HTTP API Request"]
----
-
 # SQL - SQL Server - POST HTTP API Request
 
 *Source: [Send POST HTTP API Request with SQL Server | thiscodeWorks](https://www.thiscodeworks.com/61faf47fb783be0015bbaf85)*
 
-```SQL
+````SQL
 DECLARE @Object AS INT;
 DECLARE @ResponseText AS VARCHAR(8000);
 DECLARE @Body AS VARCHAR(8000) = 
@@ -29,21 +22,20 @@ EXEC sp_OAMethod @Object, 'responseText', @ResponseText OUTPUT
 SELECT @ResponseText
  
 EXEC sp_OADestroy @Object
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - POST HTTP API Request with SQL Server]] AND -"Changelog"
-```
+````

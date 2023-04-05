@@ -1,17 +1,10 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/Data", "#Topic/Dev/Database"]
-Alias: ["Snowflake"]
----
-
 # Snowflake
 
 *Source: [▷ Snowflake Tutorial | What is Snowflake Data Warehouse](https://mindmajix.com/snowflake-tutorial)*
 
-Snowflake is a cloud-based data warehousing platform that is built on top of [[Amazon Web Services]] and is a true [[SaaS]] offering. 
+Snowflake is a cloud-based data warehousing platform that is built on top of *Amazon Web Services* and is a true *SaaS* offering. 
 
-In contrast with traditional [[Data Warehouse]] solutions, Snowflake provides a [[Data Warehouse]] which is faster, easy to set up, and far more flexible. 
+In contrast with traditional [Data Warehouse](../../../../../0-Slipbox/Data%20Warehouse.md) solutions, Snowflake provides a [Data Warehouse](../../../../../0-Slipbox/Data%20Warehouse.md) which is faster, easy to set up, and far more flexible. 
 
 With its unique features, it soon became a leader in data management solutions for analytics.
 
@@ -290,15 +283,14 @@ Snowflake supports instant data warehouse scaling for handling concurrency bottl
 list from [[Snowflake]] AND -"Meta/Changelog"
 ````
 
-
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

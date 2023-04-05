@@ -1,17 +1,10 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Data Dictionary"]
----
-
 # SQL - Data Dictionary
 
 *Source: [sql_scripts/data_dict_dump.sql at main · DataResearchLabs/sql_scripts (github.com)](https://github.com/DataResearchLabs/sql_scripts/blob/main/postgresql/data_dictionary/data_dict_dump.sql)*
 
-See Also: [[Creating a data dictionary with SQL]]
+See Also: [Creating a data dictionary with SQL](../../../0-Slipbox/Creating%20a%20data%20dictionary%20with%20SQL.md)
 
-```SQL
+````SQL
 ------------------------------------------------------------------------------------
 -- Data Dictionary Dump:  
 -- This SQL script will dump table, column, key, and description design related 
@@ -121,21 +114,20 @@ FROM      metadata      md
 LEFT JOIN meta_for_keys pk ON pk.SCHEMA_NM = md.SCHEMA_NM AND pk.TABLE_NM = md.TABLE_NM AND pk.COLUMN_NM = md.COLUMN_NM
 LEFT JOIN col_comm      c  ON c.SCHEMA_NM  = md.SCHEMA_NM AND c.TABLE_NM  = md.TABLE_NM AND c.COLUMN_NM  = md.COLUMN_NM
 ORDER BY md.SCHEMA_NM, md.TABLE_NM, md.ORD_POS
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - DataDictionary]] AND -"Changelog"
-```
+````

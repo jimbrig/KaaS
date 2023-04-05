@@ -1,20 +1,13 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Nerdfont"
----
-
 # Nerdfont
 
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../../../../2-Areas/MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Nerdfont]] AND -"Changelog"
-```
+````

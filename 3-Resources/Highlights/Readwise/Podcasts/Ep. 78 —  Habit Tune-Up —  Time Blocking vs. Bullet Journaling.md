@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling", "Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling"]
----
 # Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Time Blocking and the Tomato Timer Technique for Time Management?
+
+* Time Blocking and the Tomato Timer Technique for Time Management?
   Summary:
   The tomato timer technique is also known as the pomadoro technique. It's named for this particular type of timer that's shaped like a tomato. The idea is you break up your work into these twenty five minute chunks. Ika: Is it possible to use both time blocking and the tomato timer technique for managing my time?
   Transcript:

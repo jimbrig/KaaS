@@ -1,15 +1,8 @@
----
-Date: 2022-08-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Clipping", "#Topic/Dev/PowerShell", "#Topic/Dev/SQL"]
-Alias: ["dbatools commands"]
----
-
 # dbatools Command Index
 
 *Source: https://dbatools.io/commands/*
 
-[[dbatools]] is a free [[PowerShell]] module with over 500 [[SQL Server]] best practice, administration, development and migration commands included. Currently, other components of SQL Server such as SSIS, SSRS and SSAS are not supported, but they are part of the overall goal.
+*dbatools* is a free [PowerShell](../2-Areas/Code/PowerShell/PowerShell.md) module with over 500 [SQL Server](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md) best practice, administration, development and migration commands included. Currently, other components of SQL Server such as SSIS, SSRS and SSAS are not supported, but they are part of the overall goal.
 
 The high number of commands may seem overwhelming but think of it like learning SQL Server. Start with the basics like Logins, Jobs, or Backup/Restore and later on, you can move on to Extended Events. To make it easier, we’ve included [simplified usage examples](https://dbatools.io/getting-started) that can help you get started.
 
@@ -29,7 +22,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [dbatools Computer Management](https://dbatools.io/commands//#dbatoolsCM)  
 [dbatools Configuration](https://dbatools.io/commands//#dbatoolsConfig)  
 [dbatools Support tools](https://dbatools.io/commands//#dbatoolsSupport)  
-[dbatools update watcher](https://dbatools.io/commands//#dbatoolsupdates)  
+[dbatools update watcher](https://dbatools.io/commands//#dbatoolsupdates)
 
 [DBCC](https://dbatools.io/commands//#DBCC)  
 [Diagnostics and Performance](https://dbatools.io/commands//#Diagnostic)  
@@ -43,7 +36,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Linked Servers](https://dbatools.io/commands//#LinkedServer)  
 [Log Shipping](https://dbatools.io/commands//#LogShipping)  
 [Login and User Management](https://dbatools.io/commands//#Login)  
-[Mail and Logging](https://dbatools.io/commands//#MailandLogging)  
+[Mail and Logging](https://dbatools.io/commands//#MailandLogging)
 
 [Max Memory](https://dbatools.io/commands//#MaxMemory)  
 [Migration](https://dbatools.io/commands//#Migration)  
@@ -57,7 +50,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Server Management](https://dbatools.io/commands//#Server)  
 [Service Principal Names (SPNs)](https://dbatools.io/commands//#SPN)  
 [Services](https://dbatools.io/commands//#Services)  
-[Data Generation](https://dbatools.io/commands//#DataGeneration)  
+[Data Generation](https://dbatools.io/commands//#DataGeneration)
 
 [Snapshots](https://dbatools.io/commands//#Snapshots)  
 [sp\_configure](https://dbatools.io/commands//#spconfigure)  
@@ -69,7 +62,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Traces, Profiler and Extended Events](https://dbatools.io/commands//#Traces)  
 [Utilities](https://dbatools.io/commands//#Utilities)  
 [Windows Server Failover Cluster](https://dbatools.io/commands//#WSFC)  
-[Table Data](https://dbatools.io/commands//#Tables)  
+[Table Data](https://dbatools.io/commands//#Tables)
 
 ### Migration
 
@@ -467,7 +460,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Set-DbaExtendedProtection](http://docs.dbatools.io/Set-DbaExtendedProtection)  
 [Set-DbaNetworkCertificate](http://docs.dbatools.io/Set-DbaNetworkCertificate)  
 [Set-DbaPrivilege](http://docs.dbatools.io/Set-DbaPrivilege)  
-[Test-DbaComputerCertificateExpiration](http://docs.dbatools.io/Test-DbaComputerCertificateExpiration)  
+[Test-DbaComputerCertificateExpiration](http://docs.dbatools.io/Test-DbaComputerCertificateExpiration)
 
 ### Export
 
@@ -484,13 +477,13 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Export-DbaServerRole](http://docs.dbatools.io/Export-DbaServerRole)  
 [Export-DbaSpConfigure](http://docs.dbatools.io/Export-DbaSpConfigure)  
 [Export-DbaSysDbUserObject](http://docs.dbatools.io/Export-DbaSysDbUserObject)  
-[Export-DbaUser](http://docs.dbatools.io/Export-DbaUser)  
+[Export-DbaUser](http://docs.dbatools.io/Export-DbaUser)
 
 ### Detach and Attach
 
 [Dismount-DbaDatabase](http://docs.dbatools.io/Dismount-DbaDatabase)  
 [Get-DbaDbDetachedFileInfo](http://docs.dbatools.io/Get-DbaDbDetachedFileInfo)  
-[Mount-DbaDatabase](http://docs.dbatools.io/Mount-DbaDatabase)  
+[Mount-DbaDatabase](http://docs.dbatools.io/Mount-DbaDatabase)
 
 ### SQL Agent
 
@@ -584,7 +577,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Get-DbaMemoryUsage](http://docs.dbatools.io/Get-DbaMemoryUsage)  
 [Get-DbaOperatingSystem](http://docs.dbatools.io/Get-DbaOperatingSystem)  
 [Get-DbaPageFileSetting](http://docs.dbatools.io/Get-DbaPageFileSetting)  
-[Get-DbaRegistryRoot](http://docs.dbatools.io/Get-DbaRegistryRoot)  
+[Get-DbaRegistryRoot](http://docs.dbatools.io/Get-DbaRegistryRoot)
 
 ### Endpoints
 
@@ -594,14 +587,14 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Set-DbaEndpoint](http://docs.dbatools.io/Set-DbaEndpoint)  
 [Start-DbaEndpoint](http://docs.dbatools.io/Start-DbaEndpoint)  
 [Stop-DbaEndpoint](http://docs.dbatools.io/Stop-DbaEndpoint)  
-[Test-DbaEndpoint](http://docs.dbatools.io/Test-DbaEndpoint)  
+[Test-DbaEndpoint](http://docs.dbatools.io/Test-DbaEndpoint)
 
 ### Snapshots
 
 [Get-DbaDbSnapshot](http://docs.dbatools.io/Get-DbaDbSnapshot)  
 [New-DbaDbSnapshot](http://docs.dbatools.io/New-DbaDbSnapshot)  
 [Remove-DbaDbSnapshot](http://docs.dbatools.io/Remove-DbaDbSnapshot)  
-[Restore-DbaDbSnapshot](http://docs.dbatools.io/Restore-DbaDbSnapshot)  
+[Restore-DbaDbSnapshot](http://docs.dbatools.io/Restore-DbaDbSnapshot)
 
 ### File System and Storage
 
@@ -624,7 +617,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Show-DbaInstanceFileSystem](http://docs.dbatools.io/Show-DbaInstanceFileSystem)  
 [Test-DbaDiskAlignment](http://docs.dbatools.io/Test-DbaDiskAlignment)  
 [Test-DbaDiskAllocation](http://docs.dbatools.io/Test-DbaDiskAllocation)  
-[Test-DbaPath](http://docs.dbatools.io/Test-DbaPath)  
+[Test-DbaPath](http://docs.dbatools.io/Test-DbaPath)
 
 ### Services
 
@@ -633,7 +626,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Restart-DbaService](http://docs.dbatools.io/Restart-DbaService)  
 [Start-DbaService](http://docs.dbatools.io/Start-DbaService)  
 [Stop-DbaService](http://docs.dbatools.io/Stop-DbaService)  
-[Update-DbaServiceAccount](http://docs.dbatools.io/Update-DbaServiceAccount)  
+[Update-DbaServiceAccount](http://docs.dbatools.io/Update-DbaServiceAccount)
 
 ### Deployment
 
@@ -646,7 +639,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [New-DbaDacProfile](http://docs.dbatools.io/New-DbaDacProfile)  
 [Publish-DbaDacPackage](http://docs.dbatools.io/Publish-DbaDacPackage)  
 [Save-DbaKbUpdate](http://docs.dbatools.io/Save-DbaKbUpdate)  
-[Update-DbaInstance](http://docs.dbatools.io/Update-DbaInstance)  
+[Update-DbaInstance](http://docs.dbatools.io/Update-DbaInstance)
 
 ### Data Generation
 
@@ -656,7 +649,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Get-DbaRandomizedValue](http://docs.dbatools.io/Get-DbaRandomizedValue)  
 [Invoke-DbaDbDataGenerator](http://docs.dbatools.io/Invoke-DbaDbDataGenerator)  
 [New-DbaDbDataGeneratorConfig](http://docs.dbatools.io/New-DbaDbDataGeneratorConfig)  
-[Test-DbaDbDataGeneratorConfig](http://docs.dbatools.io/Test-DbaDbDataGeneratorConfig)  
+[Test-DbaDbDataGeneratorConfig](http://docs.dbatools.io/Test-DbaDbDataGeneratorConfig)
 
 ### Utilities
 
@@ -686,7 +679,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Test-DbaInstanceName](http://docs.dbatools.io/Test-DbaInstanceName)  
 [Test-DbaMaxDop](http://docs.dbatools.io/Test-DbaMaxDop)  
 [Test-DbaPowerPlan](http://docs.dbatools.io/Test-DbaPowerPlan)  
-[Update-DbaBuildReference](http://docs.dbatools.io/Update-DbaBuildReference)  
+[Update-DbaBuildReference](http://docs.dbatools.io/Update-DbaBuildReference)
 
 ### Connections
 
@@ -694,13 +687,13 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Disconnect-DbaInstance](http://docs.dbatools.io/Disconnect-DbaInstance)  
 [Get-DbaConnectedInstance](http://docs.dbatools.io/Get-DbaConnectedInstance)  
 [Get-DbaConnection](http://docs.dbatools.io/Get-DbaConnection)  
-[Test-DbaConnection](http://docs.dbatools.io/Test-DbaConnection)  
+[Test-DbaConnection](http://docs.dbatools.io/Test-DbaConnection)
 
 ### Connection Strings
 
 [New-DbaAzAccessToken](http://docs.dbatools.io/New-DbaAzAccessToken)  
 [New-DbaConnectionString](http://docs.dbatools.io/New-DbaConnectionString)  
-[New-DbaConnectionStringBuilder](http://docs.dbatools.io/New-DbaConnectionStringBuilder)  
+[New-DbaConnectionStringBuilder](http://docs.dbatools.io/New-DbaConnectionStringBuilder)
 
 ### Network and Firewall
 
@@ -713,7 +706,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Resolve-DbaNetworkName](http://docs.dbatools.io/Resolve-DbaNetworkName)  
 [Set-DbaNetworkConfiguration](http://docs.dbatools.io/Set-DbaNetworkConfiguration)  
 [Set-DbaTcpPort](http://docs.dbatools.io/Set-DbaTcpPort)  
-[Test-DbaNetworkLatency](http://docs.dbatools.io/Test-DbaNetworkLatency)  
+[Test-DbaNetworkLatency](http://docs.dbatools.io/Test-DbaNetworkLatency)
 
 ### Service Principal Names (SPNs)
 
@@ -775,7 +768,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [New-DbaLinkedServerLogin](http://docs.dbatools.io/New-DbaLinkedServerLogin)  
 [Remove-DbaLinkedServer](http://docs.dbatools.io/Remove-DbaLinkedServer)  
 [Remove-DbaLinkedServerLogin](http://docs.dbatools.io/Remove-DbaLinkedServerLogin)  
-[Test-DbaLinkedServerConnection](http://docs.dbatools.io/Test-DbaLinkedServerConnection)  
+[Test-DbaLinkedServerConnection](http://docs.dbatools.io/Test-DbaLinkedServerConnection)
 
 ### Lookup (Find)
 
@@ -819,7 +812,7 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 
 [Get-DbaMaxMemory](http://docs.dbatools.io/Get-DbaMaxMemory)  
 [Set-DbaMaxMemory](http://docs.dbatools.io/Set-DbaMaxMemory)  
-[Test-DbaMaxMemory](http://docs.dbatools.io/Test-DbaMaxMemory)  
+[Test-DbaMaxMemory](http://docs.dbatools.io/Test-DbaMaxMemory)
 
 ### Replication
 
@@ -898,21 +891,21 @@ Want to help build dbatools? We invite you to [join](https://dbatools.io/slack) 
 [Uninstall-DbatoolsWatchUpdate](http://docs.dbatools.io/Uninstall-DbatoolsWatchUpdate)  
 [Watch-DbatoolsUpdate](http://docs.dbatools.io/Watch-DbatoolsUpdate)
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-08-26]]
-- [[PowerShell]]
-- [[PowerShell Modules]]
-- [[Development]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
-- [[SQL]]
-- [[SQL Server]]
-- [[Microsoft]]
-- [[Windows Terminal]]
-- [[CLI Tools List]]
+* *2022-08-26*
+* [PowerShell](../2-Areas/Code/PowerShell/PowerShell.md)
+* [PowerShell Modules](../3-Resources/Tools/Developer%20Tools/Languages/PowerShell/PowerShell%20Modules.md)
+* [Development](../2-Areas/MOCs/Development.md)
+* *Databases*
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [SQL Server](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Microsoft](../2-Areas/MOCs/Microsoft.md)
+* [Windows Terminal](../3-Resources/Tools/Developer%20Tools/Terminal/Windows%20Terminal.md)
+* [CLI Tools List](../2-Areas/Lists/CLI%20Tools%20List.md)
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

@@ -1,19 +1,12 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["Backup Edge User Preferences PowerShell Script"]
----
-
 # Backup Edge User Preferences PowerShell Script
 
-*Source: *
+\*Source: *
 
 ## Script
 
 *Source: [jimbrig/jimsdots My personalized dotfiles and configs for Windows 10 ⚙️](https://github.com/jimbrig/jimsdots/blob/main/edge/backup-edge-settings.ps1)*
 
-```powershell
+````powershell
 # Edge Backup Script (PowerShell Core)
 
 $dotdir = "$env:DOTDIR"
@@ -31,39 +24,39 @@ Compress-Archive -Path "$env:TEMP\edge_dev\User Data" -DestinationPath "$edge_de
 
 Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge\PreferenceMACs' $dotdir\edge\backups\edge\edge_registry_settings.reg }
 Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge Dev\PreferenceMACs' $dotdir\edge\backups\edge_dev\edge_dev_registry_settings.reg }
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
 *Created on:*
 
-- [[2021-11-26]]
+* [2021-11-26](../../Daily-Notes/2021/2021-11/2021-11-26.md)
 
 *Related*
 
-- [[Edge Search Engines]]
-- [[Microsoft Edge]]
+* [Edge Search Engines](../../../0-Slipbox/Edge%20Search%20Engines.md)
+* [Microsoft Edge](../../../3-Resources/Tools/Web%20Browsers/Microsoft%20Edge.md)
 
 *See Also*
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell|PowerShell (MOC)]]
-- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell (Tools)]]
-- [[2-Areas/Code/PowerShell/_README|PowerShell (Code)]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Microsoft](../../MOCs/Microsoft.md)
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* [PowerShell (MOC)](../../MOCs/PowerShell.md)
+* *PowerShell (Tools)*
+* [PowerShell (Code)](_README.md)
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Powershell - Backup Edge User Preferences PowerShell Script]] AND -"Changelog"
-```
+````
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

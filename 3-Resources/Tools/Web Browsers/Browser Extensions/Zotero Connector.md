@@ -1,20 +1,13 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Zotero Connector"]
----
-
 # Zotero Connector
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Zotero Connector]] AND -"Changelog"
-```
+````

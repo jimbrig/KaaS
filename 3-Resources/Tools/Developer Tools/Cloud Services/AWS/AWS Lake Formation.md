@@ -1,20 +1,13 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["AWS Lake Formation"]
----
-
 # AWS Lake Formation
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[AWS Lake Formation]] AND -"Changelog"
-```
+````

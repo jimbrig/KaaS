@@ -1,29 +1,21 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool"]
-Alias: ["R Package - RMySQL", "RMySQL"]
----
-
 *Source: `<GitHub Repo>`*
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RMySQL.md
-- [[R]]
-- [[3-Resources/Tools/R/R Packages/R Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMySQL.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RMySQL.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *3-Resources/Tools/R/R Packages/R Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* *3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages*
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMySQL.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - RMySQL]] AND -"Changelog"
-```
+````

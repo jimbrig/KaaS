@@ -1,28 +1,21 @@
----
-Date: 2022-05-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Cloud/AWS", "#Topic/Dev/Databases"]
-Alias: "Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse"
----
-
 # Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse
 
 ## Contents
 
-- [[#Key Features|Key Features]]
-	- [[#Key Features of AWS RDS|Key Features of AWS RDS]]
-	- [[#Key Features of AWS Redshift|Key Features of AWS Redshift]]
-- [[#Comparisons|Comparisons]]
-	- [[#Scaling|Scaling]]
-- [[#Storage Capacity|Storage Capacity]]
-- [[#Use Cases|Use Cases]]
-	- [[#When to use Redshift?|When to use Redshift?]]
-	- [[#When to use RDS?|When to use RDS?]]
-- [[#Considerations and Concerns|Considerations and Concerns]]
-	- [[#Concerns for No-SQL (RDS) Architecture|Concerns for No-SQL (RDS) Architecture]]
-	- [[#Benefits of SQL Based Architecture|Benefits of SQL Based Architecture]]
-	- [[#Concerns for a Migration to RedShift from RDS|Concerns for a Migration to RedShift from RDS]]
-[TOC]
+* [Key Features](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#key-features)
+  * [Key Features of AWS RDS](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#key-features-of-aws-rds)
+  * [Key Features of AWS Redshift](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#key-features-of-aws-redshift)
+* [Comparisons](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#comparisons)
+  * [Scaling](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#scaling)
+* [Storage Capacity](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#storage-capacity)
+* [Use Cases](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#use-cases)
+  * [When to use Redshift?](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#when-to-use-redshift)
+  * [When to use RDS?](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#when-to-use-rds)
+* [Considerations and Concerns](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#considerations-and-concerns)
+  * [Concerns for No-SQL (RDS) Architecture](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#concerns-for-no-sql-rds-architecture)
+  * [Benefits of SQL Based Architecture](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#benefits-of-sql-based-architecture)
+  * [Concerns for a Migration to RedShift from RDS](Comparing%20AWS%20RDS%20vs%20RedShift%20as%20Primary%20Cloud%20Data%20Warehouse.md#concerns-for-a-migration-to-redshift-from-rds)
+    \[TOC\]
 
 ## Key Features
 
@@ -58,74 +51,82 @@ The biggest differentiator between Redshift and RDS is the storage capacity and 
 
 ### When to use Redshift?
 
-- You want a petabyte-scale data warehouse and is not happy with traditional database engines
-- Your analytical and reporting workload is heavy and can interfere with your OLTP database.
-- Your queries span across millions of rows and you anticipate even more complex queries
-- You anticipate a constant query workload and your cluster will be running for the most part of the day.
-- You are ready to manage the uniqueness of your insertion keys yourselves and do not expect the database to ensure it.
-- You have a willing team to put their head into DIST KEYS and SORT KEYS and structure data so that best performance is extracted.
+* You want a petabyte-scale data warehouse and is not happy with traditional database engines
+* Your analytical and reporting workload is heavy and can interfere with your OLTP database.
+* Your queries span across millions of rows and you anticipate even more complex queries
+* You anticipate a constant query workload and your cluster will be running for the most part of the day.
+* You are ready to manage the uniqueness of your insertion keys yourselves and do not expect the database to ensure it.
+* You have a willing team to put their head into DIST KEYS and SORT KEYS and structure data so that best performance is extracted.
 
 ### When to use RDS?
 
-- You want to use traditional databases in the cloud and the only requirement is to offload the database management. 
-- Your data volume is in TBs and you do not anticipate a large increase in the near future. RDS hits its storage limits at 64 TB.
-- You have an online transaction processing use case and want instant results with lesser data.
-- You don’t have queries that span across millions of rows and the query complexity is limited. 
-- Your reporting and analytical workloads are minimal and do not interfere with your OLTP workloads.
-- Your budget is tighter and you have no intention to spend money anticipating future astronomical workloads.
+* You want to use traditional databases in the cloud and the only requirement is to offload the database management. 
+* Your data volume is in TBs and you do not anticipate a large increase in the near future. RDS hits its storage limits at 64 TB.
+* You have an online transaction processing use case and want instant results with lesser data.
+* You don’t have queries that span across millions of rows and the query complexity is limited. 
+* Your reporting and analytical workloads are minimal and do not interfere with your OLTP workloads.
+* Your budget is tighter and you have no intention to spend money anticipating future astronomical workloads.
 
 ## Considerations and Concerns
 
 ### Concerns for No-SQL (RDS) Architecture
 
-- How will end-user client applications, data marts, and BI developers access and query the required reporting level data?
-- How are relationships between tables and referential integrity maintained?
-- Have we considered vendor lock-in?
-  - SQL based architecture is cloud agnostic, portable, reproducible, and future proof
-- How to setup external connections to important reporting data?
-- Have we considered learning curve of Athena and Glue vs. SQL?
-- How do we track historical insights and trends?
-- Is this architecture as efficient as a SQL based database? Have we tested power/speed diagnostics for analytical processing?
-- Can this architecture scale over time?
-- Does this architecture limit business intelligence analysts to specific BI tools (i.e. can only use QuickSight to integrate and query data directly, otherwise have to export files for use?) 
+* How will end-user client applications, data marts, and BI developers access and query the required reporting level data?
 
-- Complexity of internal RLUS workflows
+* How are relationships between tables and referential integrity maintained?
+
+* Have we considered vendor lock-in?
+  
+  * SQL based architecture is cloud agnostic, portable, reproducible, and future proof
+* How to setup external connections to important reporting data?
+
+* Have we considered learning curve of Athena and Glue vs. SQL?
+
+* How do we track historical insights and trends?
+
+* Is this architecture as efficient as a SQL based database? Have we tested power/speed diagnostics for analytical processing?
+
+* Can this architecture scale over time?
+
+* Does this architecture limit business intelligence analysts to specific BI tools (i.e. can only use QuickSight to integrate and query data directly, otherwise have to export files for use?) 
+
+* Complexity of internal RLUS workflows
 
 ### Benefits of SQL Based Architecture
 
-- SQL Data Warehouse separates storage and compute, which allows each to scale independently. SQL Data Warehouse can quickly and simply scale to add additional compute resources at a moment's notice
-- etc.
+* SQL Data Warehouse separates storage and compute, which allows each to scale independently. SQL Data Warehouse can quickly and simply scale to add additional compute resources at a moment's notice
+* etc.
 
 ### Concerns for a Migration to RedShift from RDS
 
-- PostgreSQL Extensions:
-  - `aws_s3`
-  - `aws_common`
-- Triggers, UDFs, and Procedures
-  - Entire workflow relies on a suite of PostgreSQL table based triggers and their corresponding trigger functions
+* PostgreSQL Extensions:
+  * `aws_s3`
+  * `aws_common`
+* Triggers, UDFs, and Procedures
+  * Entire workflow relies on a suite of PostgreSQL table based triggers and their corresponding trigger functions
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Cloud Computing]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
-- [[Data Warehouse]]
-- [[Data Lake]]
-- [[AWS S3]]
-- [[AWS RDS]]
-- [[AWS Glue]]
-- [[Amazon Athena]]
-- [[3-Resources/Tools/Developer Tools/Cloud Services/AWS/_README|AWS]]
-- [[3-Resources/Highlights/Readwise 1/Articles/What Is Data Modeling]]
-- [[Data Engineers]]
-- [[Data Engineering]]
+* [Development](../2-Areas/MOCs/Development.md)
+* [Cloud Computing](Cloud%20Computing.md)
+* *Databases*
+* [Data Warehouse](Data%20Warehouse.md)
+* [Data Lake](Data%20Lake.md)
+* [AWS S3](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20S3.md)
+* [AWS RDS](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20RDS.md)
+* [AWS Glue](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/AWS%20Glue.md)
+* [Amazon Athena](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/AWS/Amazon%20Athena.md)
+* *AWS*
+* *3-Resources/Highlights/Readwise 1/Articles/What Is Data Modeling*
+* [Data Engineers](Data%20Engineers.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 
-See Also: [[Consideration and Concerns Regarding AWS Data Architecture]]
+See Also: [Consideration and Concerns Regarding AWS Data Architecture](Consideration%20and%20Concerns%20Regarding%20AWS%20Data%20Architecture.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Comparing AWS RDS vs RedShift as Primary Cloud Data Warehouse]] AND -"Changelog"
-```
+````

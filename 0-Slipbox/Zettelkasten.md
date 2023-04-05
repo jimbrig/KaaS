@@ -1,22 +1,15 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Zettelkasten"
----
-
 # Zettelkasten
 
-***
+---
 
 #### Related
 
-- [[Personal Knowledge Management]]
-- [[Niklas Luhmann]]
-- [[Collectors Fallacy]]
+* [Personal Knowledge Management](../2-Areas/MOCs/Personal%20Knowledge%20Management.md)
+* [Niklas Luhmann](../2-Areas/People/Niklas%20Luhmann.md)
+* [Collectors Fallacy](Collectors%20Fallacy.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Zettelkasten]] AND -"Changelog"
-```
+````

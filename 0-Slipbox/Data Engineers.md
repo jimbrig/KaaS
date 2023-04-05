@@ -1,31 +1,22 @@
----
-Date: 2022-02-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Data Engineers"
----
-
 # Data Engineers
 
 *Source: [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/)*
 
 ## Contents
 
-- [[#What Do Data Engineers Do?|What Do Data Engineers Do?]]
-- [[#What Are the Responsibilities of Data Engineers?|What Are the Responsibilities of Data Engineers?]]
-	- [[#Data Flow|Data Flow]]
-	- [[#Data Normalization and Modeling|Data Normalization and Modeling]]
-	- [[#Data Cleaning|Data Cleaning]]
-	- [[#Data Accessibility|Data Accessibility]]
-- [[#What Are Common Data Engineering Skills?|What Are Common Data Engineering Skills?]]
-	- [[#General Programming Skills|General Programming Skills]]
-	- [[#Database Technologies|Database Technologies]]
-	- [[#Distributed Systems and Cloud Engineering|Distributed Systems and Cloud Engineering]]
-- [[#What Isn’t Data Engineering?|What Isn’t Data Engineering?]]
-	- [[#Data Science|Data Science]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [What Do Data Engineers Do?](Data%20Engineers.md#what-do-data-engineers-do)
+* [What Are the Responsibilities of Data Engineers?](Data%20Engineers.md#what-are-the-responsibilities-of-data-engineers)
+  * [Data Flow](Data%20Engineers.md#data-flow)
+  * [Data Normalization and Modeling](Data%20Engineers.md#data-normalization-and-modeling)
+  * [Data Cleaning](Data%20Engineers.md#data-cleaning)
+  * [Data Accessibility](Data%20Engineers.md#data-accessibility)
+* [What Are Common Data Engineering Skills?](Data%20Engineers.md#what-are-common-data-engineering-skills)
+  * [General Programming Skills](Data%20Engineers.md#general-programming-skills)
+  * [Database Technologies](Data%20Engineers.md#database-technologies)
+  * [Distributed Systems and Cloud Engineering](Data%20Engineers.md#distributed-systems-and-cloud-engineering)
+* [What Isn’t Data Engineering?](Data%20Engineers.md#what-isn-t-data-engineering)
+  * [Data Science](Data%20Engineers.md#data-science)
+* [Appendix: Links](Data%20Engineers.md#appendix-links)
 
 ## What Do Data Engineers Do?
 
@@ -33,9 +24,9 @@ Data engineering is a very broad discipline that comes with multiple titles. In 
 
 The ultimate goal of data engineering is to provide organized, consistent data flow to enable data-driven work, such as:
 
--   Training machine learning models
--   Doing exploratory data analysis
--   Populating fields in an application with outside data
+* Training machine learning models
+* Doing exploratory data analysis
+* Populating fields in an application with outside data
 
 This data flow can be achieved in any number of ways, and the specific tool sets, techniques, and skills required will vary widely across teams, organizations, and desired outcomes. However, a common pattern is the **data pipeline**. This is a system that consists of independent programs that do various operations on incoming or collected data.
 
@@ -47,11 +38,11 @@ This image is a simplified example data pipeline to give you a very basic idea o
 
 The data can come from any source:
 
--   [Internet of Things](https://realpython.com/micropython/) devices
--   Vehicle telemetry
--   Real estate data feeds
--   Normal user activity on a web application
--   Any other collection or measurement tools you can think of
+* [Internet of Things](https://realpython.com/micropython/) devices
+* Vehicle telemetry
+* Real estate data feeds
+* Normal user activity on a web application
+* Any other collection or measurement tools you can think of
 
 Depending on the nature of these sources, the incoming data will be processed in real-time **streams** or at some regular cadence in **batches**.
 
@@ -73,16 +64,16 @@ The customers that rely on data engineers are as diverse as the skills and outpu
 
 In this section, you’ll learn about a few common customers of data engineering teams through the lens of their data needs:
 
--   Data science and AI teams
--   Business intelligence or analytics teams
--   Product teams
+* Data science and AI teams
+* Business intelligence or analytics teams
+* Product teams
 
 Before any of these teams can work effectively, certain needs have to be met. In particular, the data must be:
 
--   Reliably routed into the wider system
--   Normalized to a sensible data model
--   Cleaned to fill in important gaps
--   Made accessible to all relevant to members
+* Reliably routed into the wider system
+* Normalized to a sensible data model
+* Cleaned to fill in important gaps
+* Made accessible to all relevant to members
 
 These requirements are more fully detailed in the excellent article [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) by Monica Rogarty. As a data engineer, you’re responsible for addressing your customers’ data needs. However, you’ll use a variety of approaches to accommodate their individual workflows.
 
@@ -90,11 +81,11 @@ These requirements are more fully detailed in the excellent article [The AI Hier
 
 To do anything with data in a system, you must first ensure that it can flow into and through the system reliably. Inputs can be almost any type of data you can imagine, including:
 
--   Live streams of [JSON](https://realpython.com/python-json/) or XML data
--   Batches of videos updated every hour
--   Monthly blood-draw data
--   Weekly batches of labeled images
--   Telemetry from deployed sensors
+* Live streams of [JSON](https://realpython.com/python-json/) or XML data
+* Batches of videos updated every hour
+* Monthly blood-draw data
+* Weekly batches of labeled images
+* Telemetry from deployed sensors
 
 Data engineers are often responsible for consuming this data, designing a system that can take this data as input from one or many sources, transform it, and then store it for their customers. These systems are often called **ETL** pipelines, which stands for **extract**, **transform**, and **load**.
 
@@ -106,9 +97,9 @@ Your responsibility to maintain data flow will be pretty consistent no matter wh
 
 Data flowing into a system is great. However, at some point, the data need to conform to some kind of architectural standard. **Normalizing** data involves tasks that make the data more accessible to users. This includes but is not limited to the following steps:
 
--   Removing duplicates (**deduplication**)
--   Fixing conflicting data
--   Conforming data to a specified data model
+* Removing duplicates (**deduplication**)
+* Fixing conflicting data
+* Conforming data to a specified data model
 
 These processes may happen at different stages. For example, imagine you work in a large organization with data scientists and a BI team, both of whom rely on your data. You may store unstructured data in a **data lake** to be used by your data science customers for exploratory data analysis. You may also store the normalized data in a [relational database](https://en.wikipedia.org/wiki/Relational_database) or a more purpose-built **data warehouse** to be used by the BI team in its reports.
 
@@ -126,20 +117,20 @@ Data normalization and modeling are usually part of the **transform** step of ET
 
 **Data cleaning** goes hand-in-hand with data normalization. Some even consider data normalization to be a subset of data cleaning. But while data normalization is mostly focused on making disparate data conform to some data model, data cleaning includes a number of actions that make the data more uniform and complete, including:
 
--   Casting the same data to a single type (for example, forcing [strings in an integer field to be integers](https://realpython.com/convert-python-string-to-int/))
--   Ensuring dates are in the same format
--   Filling in missing fields if possible
--   Constraining values of a field to a specified range
--   Removing corrupt or unusable data
+* Casting the same data to a single type (for example, forcing [strings in an integer field to be integers](https://realpython.com/convert-python-string-to-int/))
+* Ensuring dates are in the same format
+* Filling in missing fields if possible
+* Constraining values of a field to a specified range
+* Removing corrupt or unusable data
 
 Data cleaning can fit into the deduplication and unifying data model steps in the diagram above. In reality, though, each of those steps is very large and can comprise any number of stages and individual processes.
 
 The specific actions you take to clean the data will be highly dependent on the inputs, data model, and desired outcomes. The importance of clean data, though, is constant:
 
--   **Data scientists** need it to perform accurate analyses.
--   **Machine learning engineers** need it to build accurate and generalizable models.
--   **Business intelligence teams** need it to provide accurate reports and forecasts to the business.
--   **Product teams** need it to ensure their product doesn’t crash or give faulty information to users.
+* **Data scientists** need it to perform accurate analyses.
+* **Machine learning engineers** need it to build accurate and generalizable models.
+* **Business intelligence teams** need it to provide accurate reports and forecasts to the business.
+* **Product teams** need it to ensure their product doesn’t crash or give faulty information to users.
 
 The data-cleaning responsibility falls on many different shoulders and is dependent on the overall organization and its priorities. As a data engineer, you should strive to automate cleaning as much as possible and do regular spot checks on incoming and stored data. Your customer teams and leadership can provide insight on what constitutes clean data for their purposes.
 
@@ -149,9 +140,9 @@ Data accessibility doesn’t get as much attention as data normalization and cle
 
 **Data accessibility** refers to how easy the data is for customers to access and understand. This is something that is defined very differently depending on the customer:
 
--   **Data science teams** may simply need data that’s accessible with some kind of query language.
--   **Analytics teams** may prefer data grouped by some metric, accessible through either basic queries or a reporting interface.
--   **Product teams** will often want data that is accessible through fast and straightforward queries that don’t change often, with an eye toward product performance and reliability.
+* **Data science teams** may simply need data that’s accessible with some kind of query language.
+* **Analytics teams** may prefer data grouped by some metric, accessible through either basic queries or a reporting interface.
+* **Product teams** will often want data that is accessible through fast and straightforward queries that don’t change often, with an eye toward product performance and reliability.
 
 Because larger organizations provide these teams and others with the same data, many have moved towards developing their own internal platforms for their disparate teams. A great mature example of this is the ride-hailing service Uber, which has shared many of the details of its [impressive big data platform](https://eng.uber.com/uber-big-data-platform/).
 
@@ -163,9 +154,9 @@ Now that you’ve met some common data engineering customers and learned about t
 
 Data engineering skills are largely the same ones you need for software engineering. However, there are a few areas on which data engineers tend to have a greater focus. In this section, you’ll learn about several important skill sets:
 
--   General programming concepts
--   Databases
--   Distributed systems and cloud engineering
+* General programming concepts
+* Databases
+* Distributed systems and cloud engineering
 
 Each of these will play a crucial role in making you a well-rounded data engineer.
 
@@ -197,10 +188,10 @@ SQL databases are **relational database management systems** (RDBMS) that model 
 
 NoSQL typically means “everything else.” These are databases that usually store nonrelational data, such as the following:
 
--   Key-value stores like [Redis](https://realpython.com/python-redis/) or AWS’s [DynamoDB](https://aws.amazon.com/dynamodb/)
--   Document stores like [MongoDB](https://realpython.com/introduction-to-mongodb-and-python/) or [Elasticsearch](https://www.elastic.co/)
--   Graph databases like [Neo4j](https://neo4j.com/)
--   Other, less common data stores
+* Key-value stores like [Redis](https://realpython.com/python-redis/) or AWS’s [DynamoDB](https://aws.amazon.com/dynamodb/)
+* Document stores like [MongoDB](https://realpython.com/introduction-to-mongodb-and-python/) or [Elasticsearch](https://www.elastic.co/)
+* Graph databases like [Neo4j](https://neo4j.com/)
+* Other, less common data stores
 
 While you won’t be required to know the ins and outs of all database technologies, you should understand the pros and cons of these different systems and be able to learn one or two of them quickly.
 
@@ -216,7 +207,7 @@ These systems require many servers, and geographically distributed teams often n
 
 A basic understanding of the major offerings of cloud providers as well as some of the more popular distributed messaging tools will help you find your first data engineering job. You can expect to learn these tools more in depth on the job.
 
-By now, you’ve learned a lot about what data engineering is. But because there’s no standard definition of the discipline, and because there are a lot of related disciplines, you should also have an idea of what data engineering is _not_.
+By now, you’ve learned a lot about what data engineering is. But because there’s no standard definition of the discipline, and because there are a lot of related disciplines, you should also have an idea of what data engineering is *not*.
 
 ## What Isn’t Data Engineering?
 
@@ -224,9 +215,9 @@ Many fields are closely aligned with data engineering, and your customers will o
 
 Here are some of the fields that are closely related to data engineering:
 
--   Data science
--   Business intelligence
--   Machine learning engineering
+* Data science
+* Business intelligence
+* Machine learning engineering
 
 In this section, you’ll take a closer look at these fields, starting with data science.
 
@@ -238,22 +229,21 @@ Data scientists commonly query, explore, and try to derive insights from dataset
 
 Data scientists use statistical tools such as [k-means clustering](https://realpython.com/k-means-clustering-python/) and [regressions](https://realpython.com/logistic-regression-python/) along with machine learning techniques. They often work with R or Python and try to derive insights and predictions from data that will guide decision-making at all levels of a business.
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[ETL]] | [[ELT]]
-- [[Data Engineering]]
-- [[Amazon Web Services]]
-- [[Microsoft Azure]]
-- [[Google Cloud Platform]]
-- [[Data Warehouse]]
-- [[Dimensional Modeling]]
-- [[2-Areas/MOCs/Python]]
+* [ETL](ETL.md) | [ELT](ELT.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* *Amazon Web Services*
+* [Microsoft Azure](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Microsoft%20Azure.md)
+* *Google Cloud Platform*
+* [Data Warehouse](Data%20Warehouse.md)
+* [Dimensional Modeling](Dimensional%20Modeling.md)
+* [2-Areas/MOCs/Python](../2-Areas/MOCs/Python.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Data Engineers]] AND -"Changelog"
-```
+````

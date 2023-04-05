@@ -1,15 +1,8 @@
----
-Date: 2022-02-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CSS", "#Topic/Dev/WebDev", "#Topic/Dev/WebDev/Design", "#Topic/PKM/Obsidian"]
-Alias: ["Default Obsidian Theme CSS Styling"]
----
-
 # Default Obsidian Theme CSS Styling
 
 *Source: https://github.com/mgmeyers/obsidian-style-settings/blob/main/obsidian-default-theme.css*
 
-```css
+````css
 @settings
 
 name: Obsidian Default Theme
@@ -353,18 +346,17 @@ settings:
     format: rgb
     default-light: '#00000033'
     default-dark: '#ffffff33'
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Default Obsidian Theme CSS Styling]] AND -"Changelog"
-```
+````

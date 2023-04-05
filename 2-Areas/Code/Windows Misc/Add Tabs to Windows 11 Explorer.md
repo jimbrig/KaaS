@@ -1,40 +1,33 @@
----
-Date: 2022-03-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["Add Tabs to Windows 11 Explorer"]
----
-
 # Add Tabs to Windows 11 Explorer
 
 *Source: [franzageek/Vapor (github.com)](https://github.com/franzageek/Vapor/)*
 
 1. Download [ViveTool](https://github.com/thebookisclosed/ViVe) from GitHub: [Release ViveTool v0.2.1](https://github.com/thebookisclosed/ViVe/releases/tag/v0.2.1)
 
-Using [[GitHub CLI]]:
+Using [GitHub CLI](../../../3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/GitHub%20CLI.md):
 
-```powershell
+````powershell
 gh release download --pattern '*.zip' --dir "$HOME\Downloads" -R thebookisclosed/ViVe 
-```
+````
 
 2. Add Configuration for `34370472` of value `2`:
 
-```powershell
+````powershell
 cd ViVeTool
 vivetool add config 34370472 2
-```
+````
 
 ![](https://i.imgur.com/5A6yhsY.png)
 
 3. Restart
 
-```powershell
+````powershell
 Restart-Computer
-```
+````
 
 ## Batch File
 
-```batch
+````batch
 @echo off
 mode 130, 30
 title Vapor 0.19
@@ -91,21 +84,21 @@ echo Thanks for using Vapor. Bye!
 timeout /t 2 /nobreak > NUL
 shutdown /r /c "Vapor has scheduled a restart at your request. Press "Close" to restart."
 exit
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Add Tabs to Windows 11 Explorer]] AND -"Changelog"
-```
+````

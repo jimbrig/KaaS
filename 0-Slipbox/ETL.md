@@ -1,21 +1,13 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: "ETL"
----
-
 # ETL
 
 *Source: [A gentle introduction to an ETL process | by Horacio Soldman | Jan, 2022 | Dev Genius](https://blog.devgenius.io/a-gentle-introduction-to-an-etl-process-19925e16367c)*
 
+See Also: [ELT](ELT.md) | [Data Pipeline Architecture](Data%20Pipeline%20Architecture.md)
 
-See Also: [[ELT]] | [[Data Pipeline Architecture]]
-
-> The process of extracting, transforming and loading the data, namely the extraction of data from its data sources to a staging area, the transformations to add structure or to clean the data and the act of loading it to its final destination.— [Real-Time Big Data Warehousing](https://doi.org/10.4018/978-1-5225-5516-2.ch002)
+ > 
+ > The process of extracting, transforming and loading the data, namely the extraction of data from its data sources to a staging area, the transformations to add structure or to clean the data and the act of loading it to its final destination.— [Real-Time Big Data Warehousing](https://doi.org/10.4018/978-1-5225-5516-2.ch002)
 
 ![](https://i.imgur.com/9eyhQvG.png)
-
 
 ## Extract
 
@@ -35,19 +27,18 @@ The last step in the ETL process is to load the transformed data. This is where 
 
 It is also important to have a logging system in the pipeline in order to keep track of the progress of all the processes. This can be made with a simple log function that records the starting and the ending of each stage with timestamps, as well as the potential error is thrown during the process.
 
-***
+---
 
 ## Appendix: Links
 
-- [[ELT]]
-- [[Data Warehouse]]
-- [[ETL Data Warehousing Best Practices]]
-- [[Data Warehousing Concepts and Definitions]]
-- [[Databases]]
+* [ELT](ELT.md)
+* [Data Warehouse](Data%20Warehouse.md)
+* [ETL Data Warehousing Best Practices](ETL%20Data%20Warehousing%20Best%20Practices.md)
+* [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
 
 *Backlinks:*
 
--   [[3-Resources/Highlights/Readwise 1/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
--   [[Stored Procedures - SQL Server]]
--   [[Data Warehousing Concepts and Definitions]]
-
+* *3-Resources/Highlights/Readwise 1/Articles/The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing*
+* [Stored Procedures - SQL Server](Stored%20Procedures%20-%20SQL%20Server.md)
+* [Data Warehousing Concepts and Definitions](Data%20Warehousing%20Concepts%20and%20Definitions.md)

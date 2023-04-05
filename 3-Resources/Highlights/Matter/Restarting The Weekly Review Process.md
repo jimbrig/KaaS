@@ -1,9 +1,10 @@
-
 ## Metadata
+
 * URL: [https://mishacreatrix.com/restarting-the-weekly-review-process](https://mishacreatrix.com/restarting-the-weekly-review-process)
 * Published Date: 2021-01-11
 
 ## Highlights
+
 * The weekly review process is basically where you sit down at a set time each week to review how the past week has gone and then plan out the week ahead.
 * This way I can be sure I’ve planned out everything for next week so I can relax over the weekend.
 * This process might seem simple in practice but it’s amazing to realize how well this can prime your mind for determining where you can improve and planning how the next week will look.

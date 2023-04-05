@@ -1,19 +1,13 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: podcast
-Link: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job", "Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job"]
----
 # Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
-- Category: #Type/Highlight/Podcast
-- URL: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Habit Tune-Up: Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job
+* Category: #Type/Highlight/Podcast
+* URL: https://www.airr.io/episode/5f3e8320b0b93235d1c8a3d2
 
 ## Highlights
-- AirrQuote ([Time 0:38:44](https://www.airr.io/quote/5fc530babb807d658830a4b5))
-    - Note: Keystone Habits
+
+* AirrQuote ([Time 0:38:44](https://www.airr.io/quote/5fc530babb807d658830a4b5))
+  * Note: Keystone Habits

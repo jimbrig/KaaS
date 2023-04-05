@@ -1,37 +1,29 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Optimize Speed"]
----
-
 # VBA - Optimize Speed
 
-*Source: *
+\*Source: *
 
 ## Contents
 
-- [[#OptimizeCodeSpeed|OptimizeCodeSpeed]]
-- [[#OptimizeCodeSpeedRestore|OptimizeCodeSpeedRestore]]
-- [[#LudicrousMode|LudicrousMode]]
-- [[#Example|Example]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [OptimizeCodeSpeed](VBA%20-%20Optimize%20Speed.md#optimizecodespeed)
+* [OptimizeCodeSpeedRestore](VBA%20-%20Optimize%20Speed.md#optimizecodespeedrestore)
+* [LudicrousMode](VBA%20-%20Optimize%20Speed.md#ludicrousmode)
+* [Example](VBA%20-%20Optimize%20Speed.md#example)
+* [Appendix: Links](VBA%20-%20Optimize%20Speed.md#appendix-links)
 
 ## OptimizeVBA
 
-```VBA
+````VBA
 Sub OptimizeVBA(isOn As Boolean)
     Application.Calculation = IIf(isOn, xlCalculationManual, xlCalculationAutomatic)
     Application.EnableEvents = Not (isOn)
     Application.ScreenUpdating = Not (isOn)
     ActiveSheet.DisplayPageBreaks = Not (isOn)
 End Sub
-```
+````
 
 ## OptimizeCodeSpeed
 
-```VBA
+````VBA
 Public Sub OptimizeCodeSpeed()
 
   On Error Resume Next
@@ -47,11 +39,11 @@ Public Sub OptimizeCodeSpeed()
   On Error GoTo 0
                    
 End Sub
-```
+````
 
 ## OptimizeCodeSpeedRestore
 
-```VBA
+````VBA
 Public Sub OptimizeCodeSpeedRestore()
 
   On Error Resume Next
@@ -66,11 +58,11 @@ Public Sub OptimizeCodeSpeedRestore()
   On Error GoTo 0
 
 End Sub
-```
+````
 
 ## LudicrousMode
 
-```VBA
+````VBA
 'Adjusts Excel settings for faster VBA processing
 Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.ScreenUpdating = Not Toggle
@@ -81,11 +73,11 @@ Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.PrintCommunication = Not Toggle
     Application.Calculation = IIf(Toggle, xlCalculationManual, xlCalculationAutomatic)
 End Sub
-```
+````
 
 ## Example
 
-```VBA
+````VBA
 Sub example()
 	'Stop automatic calculation of excel cells
 	Application.Calculation = xlCalculationManual
@@ -98,20 +90,20 @@ Sub example()
 	Application.Calculation = xlCalculationAutomatic
 	Application.ScreenUpdating = True
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Optimize Speed]] AND -"Changelog"
-```
+````

@@ -1,11 +1,3 @@
----
-# Metadata used for sync
-id: "e54bec50-0318-11ed-8624-4b055dcc3557"
-title: "Views vs. Materialized Views.md"
-created: "2022-07-14T02:01:37.942Z"
-source: ""
----
-
 # Views vs. Materialized Views
 
 What are the major differences between a view and materialized view, and why should you use one over the other?
@@ -28,10 +20,8 @@ What this means, however, is that the performance of a View will **always be slo
 
 A materialized view, on the other hand, is a **physical copy** of those original base tables. Think of it more like a photograph of the original base table. The key difference is that a materialized view **will not be updated** every time it is interacted with.
 
+---
 
-***
-
-Links: [[Databases]] | [[PostgreSQL]] | [[System Design]] | [[Web Development]]
+Links: [Databases](../../2-Areas/MOCs/Databases.md) | [PostgreSQL](../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md) | [System Design](../System%20Design.md) | [Web Development](../../2-Areas/MOCs/Web%20Development.md)
 
 Source: [What are Materialized Views? A 5 Minute Introduction (educative.io)](https://www.educative.io/blog/materialized-view-introduction)
-

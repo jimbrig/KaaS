@@ -1,15 +1,8 @@
----
-Date: 2022-09-04
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CSS", "#Topic/Dev/WebDev", "#Topic/Dev/WebDev/Design", "#Topic/PKM/Obsidian"]
-Alias: ["CSS - Obsidian Dashboard"]
----
-
 # CSS - Obsidian Dashboard
 
 *Source: [DashboardPlusPlus/dashboard.css at master · TfTHacker/DashboardPlusPlus (github.com)](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/.obsidian/snippets/dashboard.css)*
 
-```css
+````css
 /* Updated 2022-02-28 */
 
 .dashboard {
@@ -49,18 +42,17 @@ Alias: ["CSS - Obsidian Dashboard"]
     min-width: 250px;
     width: 15%;
 }
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[CSS - Obsidian Dashboard]] AND -"Changelog"
-```
+````

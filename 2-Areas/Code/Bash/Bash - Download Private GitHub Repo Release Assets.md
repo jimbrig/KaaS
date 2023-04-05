@@ -1,15 +1,8 @@
----
-Date: 2022-09-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Bash", "Type/Code/PowerShell", "#Type/Gist", "#Topic/Dev"]
-Alias: ["Download Private GitHub Repo Release Assets"]
----
-
 # Bash - Download Private GitHub Repo Release Assets
 
 *Script: [gh-dl-release.sh](https://gist.githubusercontent.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a/raw/6020fd8ddef25b3ed0809c69e6342b769b3c35b5/gh-dl-release)*
 
-```bash
+````bash
 #!/usr/bin/env bash
 #
 # gh-dl-release
@@ -65,27 +58,25 @@ fi;
 wget -q --auth-no-challenge --header='Accept:application/octet-stream' \
   https://$TOKEN:@api.github.com/repos/$REPO/releases/assets/$asset_id \
   -O $2
-```
+````
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
+* *Code*
+* [Development](../../MOCs/Development.md)
 
-See Also: [[PowerShell - Get-GitHubRelease]]
+See Also: [PowerShell - Get-GitHubRelease](../PowerShell/PowerShell%20-%20Get-GitHubRelease.md)
 
 ### Full Gist
 
-```gist
+````gist
 03aa65c9b20dc3ad86bbb442f723672a
-```
+````
 
-***
-
-
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Bash - Download Private GitHub Repo Release Assets]] AND -"Changelog"
-```
+````

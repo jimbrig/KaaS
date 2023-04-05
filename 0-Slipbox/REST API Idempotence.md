@@ -1,10 +1,3 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "REST API Idempotence"
----
-
 # REST API Idempotence
 
 Idempotence is a funky word that often hooks people. Idempotence is sometimes a confusing concept, at least from the academic definition.
@@ -17,6 +10,6 @@ GET, HEAD, OPTIONS and TRACE methods are defined as safe, meaning they are only 
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[REST API Idempotence]] AND -"Changelog"
-```
+````

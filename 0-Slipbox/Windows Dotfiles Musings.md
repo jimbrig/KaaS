@@ -1,10 +1,3 @@
----
-Date: 2021-11-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Windows"]
-Alias: "Windows Dotfiles Musings"
----
-
 # Windows Dotfiles Musings
 
 *Source: [CMCDragonkai/.dotfiles: Personal Configuration Management](https://github.com/CMCDragonkai/.dotfiles)*
@@ -27,16 +20,16 @@ In linux, data is often considered shared, because they are architecture indeped
 
 Path hierarchy on Windows:
 
--   Default Windows Paths (on Windows): `C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\`
--   Chocolatey path (on Windows): `%ALLUSERSPROFILE%\chocolatey\bin` (use `$env:ChocolateyPath\bin` instead)
--   Custom Windows Path (on Windows): `%ALLUSERSPROFILE%\bin`
--   Cygwin Paths (on Cygwin): `/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin`
--   Home paths (on Cygwin): `~/bin`
+* Default Windows Paths (on Windows): `C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\`
+* Chocolatey path (on Windows): `%ALLUSERSPROFILE%\chocolatey\bin` (use `$env:ChocolateyPath\bin` instead)
+* Custom Windows Path (on Windows): `%ALLUSERSPROFILE%\bin`
+* Cygwin Paths (on Cygwin): `/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin`
+* Home paths (on Cygwin): `~/bin`
 
 To take advantage of Home paths in CMD, make sure to set startup task to: `cmd /K %USERPROFILE%/.cmd_profile`
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Windows Dotfiles Musings]] AND -"Changelog"
-```
+````

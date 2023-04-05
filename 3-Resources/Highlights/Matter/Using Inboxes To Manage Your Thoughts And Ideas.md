@@ -1,8 +1,10 @@
 ## Metadata
+
 * URL: [https://mishacreatrix.com/inboxes-to-manage-thoughts-and-ideas](https://mishacreatrix.com/inboxes-to-manage-thoughts-and-ideas)
 * Published Date: 2021-03-01
 
 ## Highlights
+
 * Our brains are always thinking and processing. If each thought was a word, we would be able to generate enough content to produce a whole book every single day.
 * Over time, your mind becomes foggy and you find you can’t focus on anything else until you’ve actioned that idea. This phenomenon is called the Zeigarnik Effect.
   * **Note**: https://en.wikipedia.org/wiki/Zeigarnik_effect?wprov=sfti1

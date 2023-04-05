@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Oh my! Zsh.", "Oh my! Zsh."]
----
 # Oh my! Zsh.
 
 ## Metadata
-- Author: [[The Changelog: Software Development, Open Source]]
-- Full Title: Oh my! Zsh.
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Changelog: Software Development, Open Source*
+* Full Title: Oh my! Zsh.
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- You Can Make Money From Open Source
+
+* You Can Make Money From Open Source
   Summary:
   Zeno rocha is the creator of omis shall, a free and open-source bash replacement. He says he doesn't want to be accountable for commercial support or anything. But some companies are trying to stop him from making money off his project. Zeno: "It's like you get these extradal things when you switch over"
   Transcript:

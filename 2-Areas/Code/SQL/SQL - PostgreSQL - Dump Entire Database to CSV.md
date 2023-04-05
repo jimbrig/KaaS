@@ -1,16 +1,9 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Dump Entire Database to CSV"]
----
-
 # SQL - PostgreSQL - Dump Entire Database to CSV
 
 *Source: https://gist.github.com/abmmhasan/2f4024922eaea537cd1795223e38c18a*
 *Source: https://stackoverflow.com/questions/17463299/export-postgres-database-into-csv-file*
 
-```SQL
+````SQL
 -- Dump whole database to CSV
 -- Ref: https://stackoverflow.com/questions/17463299/export-postgres-database-into-csv-file
 
@@ -37,21 +30,20 @@ $$ LANGUAGE plpgsql;
 
 -- use it as (this will create one csv file per table, in /path/to/dir/)
 SELECT db_to_csv('/path/to/dir/');
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Dump Entire Database to CSV]] AND -"Changelog"
-```
+````

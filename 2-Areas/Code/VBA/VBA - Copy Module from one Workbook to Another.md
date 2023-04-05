@@ -1,16 +1,8 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Copy Module from one Workbook to Another"]
----
-
 # VBA - Copy Module from one Workbook to Another
 
 *Source: [VBA-General/mod_VBA.bas at main · ViperSRT3g/VBA-General](https://github.com/ViperSRT3g/VBA-General/blob/main/mod_VBA.bas)*
 
-
-```VBA
+````VBA
 Option Explicit
 
 Public Sub CopyModule(ByRef SourceWB As Workbook, ByVal strModuleName As String, ByRef TargetWB As Workbook)
@@ -55,20 +47,20 @@ Public Sub CopyModule(ByRef SourceWB As Workbook, ByVal strModuleName As String,
     Kill strTempFile
     On Error GoTo 0
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Copy Module from one Workbook to Another]] AND -"Changelog"
-```
+````

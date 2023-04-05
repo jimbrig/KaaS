@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS", "Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS"]
----
 # Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule | DEEP QUESTIONS
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Do Less, Do Better, Don't Have a Hard Schedule
+
+* Do Less, Do Better, Don't Have a Hard Schedule
   Summary:
   Ta-Nehisi Coontz: Graduate school is a holding pattern. Do not make unusually large or exaggeratedly difficult schedules. If you do one extra cricular, do it in a way that's notable. But have seven. And quality trumps anity when you are leaving the academic world and going into the world of work. Go listen to the habit tune up minny episodes from thursday....
   Transcript:

@@ -1,40 +1,31 @@
----
-Date: 2022-02-18
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Information Schema Queries"]
----
-
 # SQL - PostgreSQL - Information Schema Queries
 
-*Source: *
+\*Source: *
 
 ## Retrieve Tables from the `information_schema`
 
-```SQL
+````SQL
 SELECT * FROM information_schema.tables;
-```
+````
 
 Filter for a specific schema:
 
-```sql
+````sql
 SELECT * FROM information_schema.tables WHERE table_schema = '<schema_name>';
-```
+````
 
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL Information Schema Queries]] AND -"Changelog"
-```
+````

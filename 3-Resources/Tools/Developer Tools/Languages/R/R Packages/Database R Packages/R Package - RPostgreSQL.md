@@ -1,23 +1,15 @@
----
-Date: 2022-01-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R", "#Topic/Dev/Database"]
-Alias: ["R Package - RPostgreSQL", "RPostgreSQL"]
----
-
 # R Package - RPostgres
 
 *Source: [r-dbi/RPostgres: A DBI-compliant interface to PostgreSQL (github.com)](https://github.com/r-dbi/RPostgres) | [Rcpp Interface to PostgreSQL • RPostgres (r-dbi.org)](https://rpostgres.r-dbi.org/)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Installation|Installation]]
-- [[#Basic usage|Basic usage]]
-- [[#Connecting to a specific Postgres instance|Connecting to a specific Postgres instance]]
-- [[#Design notes|Design notes]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](R%20Package%20-%20RPostgreSQL.md#overview)
+* [Installation](R%20Package%20-%20RPostgreSQL.md#installation)
+* [Basic usage](R%20Package%20-%20RPostgreSQL.md#basic-usage)
+* [Connecting to a specific Postgres instance](R%20Package%20-%20RPostgreSQL.md#connecting-to-a-specific-postgres-instance)
+* [Design notes](R%20Package%20-%20RPostgreSQL.md#design-notes)
+* [Appendix: Links](R%20Package%20-%20RPostgreSQL.md#appendix-links)
 
 ## Overview
 
@@ -29,21 +21,22 @@ RPostgres is an DBI-compliant interface to the postgres database. It's a ground-
 * A simplified build process that relies on system `libpq`.
 
 ## Installation
-```R
+
+````R
 # Install the latest RPostgres release from CRAN:
 install.packages("RPostgres")
 
 # Or the the development version from GitHub:
 # install.packages("remotes")
 remotes::install_github("r-dbi/RPostgres")
-```
+````
 
 Discussions associated with DBI and related database packages take place on [R-SIG-DB](https://stat.ethz.ch/mailman/listinfo/r-sig-db). 
 The website [Databases using R](https://db.rstudio.com/) describes the tools and best practices in this ecosystem.
 
 ## Basic usage
 
-```R
+````R
 library(DBI)
 # Connect to the default postgres database
 con <- dbConnect(RPostgres::Postgres())
@@ -71,10 +64,11 @@ dbClearResult(res)
 
 # Disconnect from the database
 dbDisconnect(con)
-```
+````
+
 ## Connecting to a specific Postgres instance
 
-```R
+````R
 library(DBI)
 # Connect to a specific postgres database i.e. Heroku
 con <- dbConnect(RPostgres::Postgres(),dbname = 'DATABASE_NAME', 
@@ -83,30 +77,29 @@ con <- dbConnect(RPostgres::Postgres(),dbname = 'DATABASE_NAME',
                  user = 'USERNAME',
                  password = 'PASSWORD')
 
-```
+````
 
 ## Design notes
 
 The original DBI design imagined that each package could instantiate X drivers, with each driver having Y connections and each connection having Z results. This turns out to be too general: a driver has no real state, for PostgreSQL each connection can only have one result set. In the RPostgres package there's only one class on the C side: a connection, which optionally contains a result set. On the R side, the driver class is just a dummy class with no contents (used only for dispatch), and both the connection and result objects point to the same external pointer.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
-- [[R]]
-- [[3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R Package - DBI]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
-- [[Databases]]
-- [[R - Connect Shiny to PostgreSQL Database]]
-
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R Package - DBI](R%20Package%20-%20DBI.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RPostgreSQL.md
+* [Databases](../../../../../../../2-Areas/MOCs/Databases.md)
+* [R - Connect Shiny to PostgreSQL Database](../../../../../../../0-Slipbox/R%20-%20Connect%20Shiny%20to%20PostgreSQL%20Database.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - RPostgreSQL]] AND -"Changelog"
-```
+````

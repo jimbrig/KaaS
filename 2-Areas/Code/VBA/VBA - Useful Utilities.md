@@ -1,17 +1,10 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Useful Utilities"]
----
-
 # VBA - Useful Utilities
 
-*Source: *
+\*Source: *
 
 ## Workbook Functions
 
-```VBA
+````VBA
 'Returns TRUE if a given workbook reference exists and has not been saved
 Public Function WBNotSaved(TargetWB As Workbook) As Boolean
     On Error Resume Next
@@ -30,11 +23,11 @@ Public Function WBNullRef(TargetWB As Workbook) As Boolean
     End If
 End Function
 
-```
+````
 
 ### FindWorkbook()
 
-```VBA
+````VBA
 'Returns a workbook object based on a matching name search
 Public Function FindWorkbook(ByVal WorkbookName As String) As Workbook
     If Len(WorkbookName) = 0 Then Exit Function
@@ -46,11 +39,11 @@ Public Function FindWorkbook(ByVal WorkbookName As String) As Workbook
         End If
     Next Index
 End Function
-```
+````
 
 ### IsWorkBookOpen()
 
-```VBA
+````VBA
 'Returns boolean if a given workbook is currently open
 Public Function IsWorkBookOpen(ByVal WorkbookName As String) As Boolean
     On Error GoTo ErrorHandler
@@ -60,11 +53,11 @@ Public Function IsWorkBookOpen(ByVal WorkbookName As String) As Boolean
 ErrorHandler:
     Set WBO = Nothing
 End Function
-```
+````
 
 ### IsWorkbookProtected
 
-```VBA
+````VBA
 'WORKBOOK FUNCTIONS
 'Returns boolean if a given workbook is password protected
 Public Function IsWBProtected(ByRef TWB As Workbook) As Boolean
@@ -72,13 +65,13 @@ Public Function IsWBProtected(ByRef TWB As Workbook) As Boolean
     IsWBProtected = TWB.ProtectWindows Or TWB.ProtectStructure
 End Function
 
-```
+````
 
 ## Worksheet Functions
 
 ### GetSheet()
 
-```VBA
+````VBA
 'WORKSHEET FUNCTIONS
 'Returns a worksheet with the given name, creates a new one if it doesn't already exist
 Public Function GetSheet(SheetName As String, Optional WB As Workbook, Optional ForceNew As Boolean) As Worksheet
@@ -106,22 +99,22 @@ Public Function GetSheet(SheetName As String, Optional WB As Workbook, Optional 
         End If
     End If
 End Function
-```
+````
 
 ### SheetExists()
 
-```VBA
+````VBA
 'Returns boolean if a given worksheet exists in a given workbook
 Public Function SheetExists(ByVal SheetName As String, Optional ByRef WB As Workbook) As Boolean
     On Error Resume Next
     If WB Is Nothing Then Set WB = ThisWorkbook
     SheetExists = Not WB.Worksheets(SheetName) Is Nothing
 End Function
-```
+````
 
 ### CleanSheetName()
 
-```VBA
+````VBA
 'Sanitizes a given string to comply with Excel's Worksheet naming scheme
 Public Function CleanSheetName(WorksheetName As String) As String
     CleanSheetName = WorksheetName
@@ -132,39 +125,39 @@ Public Function CleanSheetName(WorksheetName As String) As String
     Next Index
     CleanSheetName = Left(CleanSheetName, 31)
 End Function
-```
+````
 
 ## Miscellaneous Functions
 
 ### ActiveRow()
 
-```VBA
+````VBA
 'Returns the row number of the currently selected cell
 Public Function ActiveRow() As Long
     ActiveRow = Application.ActiveCell.Row
 End Function
-```
+````
 
 ### ActiveCol()
 
-```VBA
+````VBA
 'Returns the column number of the currently selected cell
 Public Function ActiveCol() As Long
     ActiveCol = Application.ActiveCell.Column
 End Function
-```
+````
 
 ### CurrentCell()
 
-```VBA
+````VBA
 Public Function CurrentCell() As Range
     Set CurrentCell = Application.Caller
 End Function
-```
+````
 
 ### GetURL()
 
-```VBA
+````VBA
 'Returns a URL within a given cell if it contains one
 Public Function GetURL(Target As Range) As String
     If Target Is Nothing Then Exit Function
@@ -180,20 +173,20 @@ Public Function GetURL(Target As Range) As String
         GetURL = Mid(Target.Formula, SLeft + 11, SRight - (SLeft + 11))
     End If
 End Function
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Useful Utilities]] AND -"Changelog"
-```
+````

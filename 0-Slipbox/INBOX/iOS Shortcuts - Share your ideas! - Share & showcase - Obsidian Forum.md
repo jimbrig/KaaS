@@ -1,9 +1,9 @@
-#webclip
+\#webclip
 
 # 2022-04-24
 
-- [iOS Shortcuts - Share your ideas! - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/ios-shortcuts-share-your-ideas/15149?page=5)
-	- author: 
+* [iOS Shortcuts - Share your ideas! - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/ios-shortcuts-share-your-ideas/15149?page=5)
+  * author: 
 
 ---
 

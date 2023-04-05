@@ -1,10 +1,3 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Audit Trigger"]
----
-
 # SQL - PostgreSQL - Audit Trigger
 
 *Source: https://wiki.postgresql.org/wiki/Audit_trigger*
@@ -13,7 +6,7 @@ Alias: ["SQL - PostgreSQL - Audit Trigger"]
 
 ### Setup
 
-```SQL
+````SQL
 create schema audit;
 revoke create on schema audit from public;
 
@@ -43,11 +36,11 @@ on audit.logged_actions(action_tstamp);
 
 create index logged_actions_action_idx 
 on audit.logged_actions(action);
-```
+````
 
 ### Trigger Definition
 
-```SQL
+````SQL
 --
 -- Now, define the actual trigger function:
 --
@@ -107,7 +100,7 @@ SET search_path = pg_catalog, audit;
 -- AFTER INSERT OR UPDATE OR DELETE ON tablename
 -- FOR EACH ROW EXECUTE PROCEDURE audit.if_modified_func();
 --
-```
+````
 
 ### Making the trigger more flexible
 
@@ -119,7 +112,7 @@ It's fairly trivial to extend the above trigger function so you can turn query t
 
 ## Demo
 
-```SQL
+````SQL
 -- Tested with a table named "t"
  drop table if exists t;
  create table t (x int not null primary key, y text);
@@ -162,21 +155,20 @@ It's fairly trivial to extend the above trigger function so you can turn query t
  -- should be a pk violation
  update t set x=4 where x=2;
  select * from t; select * from audit.logged_actions;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL Audit Trigger]] AND -"Changelog"
-```
+````

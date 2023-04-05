@@ -1,10 +1,3 @@
----
-Date: 2022-09-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Feedly"]
----
-
 # Feedly
 
 ## Setup
@@ -13,40 +6,36 @@ Alias: ["Feedly"]
 
 ### Sources
 
-- Blogs
-- **Keyword Alerts**
-- News Sites
-- Newsletters (w/ custom email address for Feedly)
-- Podcasts
-- YouTube
-- Reddit
-- Twitter
-- RSS Feeds
-- Publications
-- GitHub
+* Blogs
+* **Keyword Alerts**
+* News Sites
+* Newsletters (w/ custom email address for Feedly)
+* Podcasts
+* YouTube
+* Reddit
+* Twitter
+* RSS Feeds
+* Publications
+* GitHub
 
 ### Boards
 
-- like creating a library content from the content that gets auto-loaded into you feeds. 
+* like creating a library content from the content that gets auto-loaded into you feeds. 
 
 ### Discovering New Sources
-
 
 ### Train Leo
 
 ### Deduplication Skill
 
-
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/_README|Tools]]
+* *Tools*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Feedly]] AND -"Changelog"
-```
+````

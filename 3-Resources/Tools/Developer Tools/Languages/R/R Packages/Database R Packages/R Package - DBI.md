@@ -1,23 +1,15 @@
----
-Date: 2022-01-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R"]
-Alias: ["R Package - DBI", "DBI"]
----
-
 # R Package - DBI
 
 *Source: [R Database Interface • DBI (r-dbi.org)](https://dbi.r-dbi.org/) | [r-dbi/DBI: A database interface (DBI) definition for communication between R and RDBMSs (github.com)](https://github.com/r-dbi/DBI)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Installation|Installation]]
-- [[#Example|Example]]
-- [[#Class structure|Class structure]]
-- [[#Further Reading|Further Reading]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](R%20Package%20-%20DBI.md#overview)
+* [Installation](R%20Package%20-%20DBI.md#installation)
+* [Example](R%20Package%20-%20DBI.md#example)
+* [Class structure](R%20Package%20-%20DBI.md#class-structure)
+* [Further Reading](R%20Package%20-%20DBI.md#further-reading)
+* [Appendix: Links](R%20Package%20-%20DBI.md#appendix-links)
 
 ## Overview
 
@@ -26,51 +18,51 @@ The DBI package helps connecting R to database management systems
 and a “back-end”. The package defines an interface that is implemented
 by *DBI backends* such as:
 
--   [RPostgres](https://rpostgres.r-dbi.org),
--   [RMariaDB](https://rmariadb.r-dbi.org),
--   [RSQLite](https://rsqlite.r-dbi.org),
--   [odbc](https://github.com/r-dbi/odbc),
--   [bigrquery](https://github.com/r-dbi/bigrquery),
+* [RPostgres](https://rpostgres.r-dbi.org),
+* [RMariaDB](https://rmariadb.r-dbi.org),
+* [RSQLite](https://rsqlite.r-dbi.org),
+* [odbc](https://github.com/r-dbi/odbc),
+* [bigrquery](https://github.com/r-dbi/bigrquery),
 
 and many more, see the [list of backends](https://github.com/r-dbi/backends#readme). R scripts and packages use DBI to access various databases through their DBI backends.
 
 The interface defines a small set of classes and methods similar in spirit to Perl’s [DBI](https://dbi.perl.org/), Java's [JDBC](https://www.oracle.com/java/technologies/javase/javase-tech-database.html), Python’s [DB-API](https://www.python.org/dev/peps/pep-0249/), and Microsoft’s [ODBC](https://en.wikipedia.org/wiki/ODBC). It supports the following operations:
 
--   connect/disconnect to the DBMS
--   create and execute statements in the DBMS
--   extract results/output from statements
--   error/exception handling
--   information (meta-data) from database objects
--   transaction management (optional)
+* connect/disconnect to the DBMS
+* create and execute statements in the DBMS
+* extract results/output from statements
+* error/exception handling
+* information (meta-data) from database objects
+* transaction management (optional)
 
 ## Installation
 
 Most users who want to access a database do not need to install DBI directly. It will be installed automatically when you install one of the database backends:
 
--   [RPostgres](https://rpostgres.r-dbi.org) for PostgreSQL,
--   [RMariaDB](https://rmariadb.r-dbi.org) for MariaDB or MySQL,
--   [RSQLite](https://rsqlite.r-dbi.org) for SQLite,
--   [odbc](https://github.com/r-dbi/odbc) for databases that you can access via [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity),
--   [bigrquery](https://github.com/r-dbi/bigrquery)
+* [RPostgres](https://rpostgres.r-dbi.org) for PostgreSQL,
+* [RMariaDB](https://rmariadb.r-dbi.org) for MariaDB or MySQL,
+* [RSQLite](https://rsqlite.r-dbi.org) for SQLite,
+* [odbc](https://github.com/r-dbi/odbc) for databases that you can access via [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity),
+* [bigrquery](https://github.com/r-dbi/bigrquery)
 
 You can install the released version of DBI from [CRAN](https://CRAN.R-project.org) with:
 
-```R
+````R
 install.packages("DBI")
-```
+````
 
 And the development version from [GitHub](https://github.com/) with:
 
-```R
+````R
 # install.packages("devtools")
 devtools::install_github("r-dbi/DBI")
-```
+````
 
 ## Example
 
 The following example illustrates some of the DBI capabilities:
 
-``` r
+````r
 library(DBI)
 # Create an ephemeral in-memory RSQLite database
 con <- dbConnect(RSQLite::SQLite(), dbname = ":memory:")
@@ -125,42 +117,41 @@ while(!dbHasCompleted(res)){
 dbClearResult(res)
 
 dbDisconnect(con)
-```
+````
 
 ## Class structure
 
 There are four main DBI classes. Three which are each extended by
 individual database backends:
 
--   `DBIObject`: a common base class for all DBI.
--   `DBIDriver`: a base class representing overall DBMS properties. Typically generator functions instantiate the driver objects like `RSQLite()`, `RPostgreSQL()`, `RMySQL()` etc.
--   `DBIConnection`: represents a connection to a specific database
--   `DBIResult`: the result of a DBMS query or statement.
+* `DBIObject`: a common base class for all DBI.
+* `DBIDriver`: a base class representing overall DBMS properties. Typically generator functions instantiate the driver objects like `RSQLite()`, `RPostgreSQL()`, `RMySQL()` etc.
+* `DBIConnection`: represents a connection to a specific database
+* `DBIResult`: the result of a DBMS query or statement.
 
 All classes are *virtual*: they cannot be instantiated directly and instead must be sub-classed.
 
 ## Further Reading
 
--   [Databases using R](https://db.rstudio.com/) describes the tools and best practices in this ecosystem.
--   The [DBI project site](https://www.r-dbi.org/) hosts a blog where recent developments are presented.
--   [A history of DBI](https://r-dbi.github.io/DBI/articles/DBI-history.html) by David James, the driving force behind the development of DBI, and many of the packages that implement it.
+* [Databases using R](https://db.rstudio.com/) describes the tools and best practices in this ecosystem.
+* The [DBI project site](https://www.r-dbi.org/) hosts a blog where recent developments are presented.
+* [A history of DBI](https://r-dbi.github.io/DBI/articles/DBI-history.html) by David James, the driving force behind the development of DBI, and many of the packages that implement it.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI.md
-- [[R]]
-=======
-- [[2-Areas/MOCs/R]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBI.md
-- [[Databases]]
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - DBI.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - DBI.md
+* [Databases](../../../../../../../2-Areas/MOCs/Databases.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - DBI]] AND -"Changelog"
-```
+````

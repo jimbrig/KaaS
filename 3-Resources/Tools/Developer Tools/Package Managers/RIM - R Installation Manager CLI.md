@@ -1,10 +1,3 @@
----
-Date: 2022-01-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool", "#Topic/Dev/CLI"]
-Alias: ["RIM", "R Installation Manager"]
----
-
 # RIM - R Installation Manager CLI
 
 Link: [gaborcsardi/rim: The R Installation Manager (github.com)](https://github.com/gaborcsardi/rim)
@@ -13,16 +6,16 @@ Link: [gaborcsardi/rim: The R Installation Manager (github.com)](https://github.
 
 Install from the GitHub releases URL here: [Releases · gaborcsardi/rim (github.com)](https://github.com/gaborcsardi/rim/releases)
 
-- Install using [[2-Areas/MOCs/PowerShell]] and [[GitHub CLI]] via the following commands:
+* Install using [2-Areas/MOCs/PowerShell](../../../../2-Areas/MOCs/PowerShell.md) and [GitHub CLI](../Command%20Line%20Utilities/GitHub%20CLI.md) via the following commands:
 
-```powershell
+````powershell
 gh release download -R gaborcsardi/rim -D "$HOME\Downloads" -p "*.exe"
 Start-Process "$HOME\Downloads\rim-*.exe"
-```
+````
 
 ## Usage
 
-```powershell
+````powershell
 ➜ rim --help
 RIM -- The R Installation Manager 0.1.5
 
@@ -68,16 +61,16 @@ EXAMPLES:
 
     # Set default version
     rim default 4.0
-```
+````
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

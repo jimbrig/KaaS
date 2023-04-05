@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Scoop Import"]
----
-
 # PowerShell - Scoop Import
 
 *Source: https://gist.github.com/6f2a2368954e3df126a36da6684448cd#file-scoop-import-ps1*
 
-```powershell
+````powershell
 # useage:
 # scoop-import <exported_list_file>
 param(
@@ -25,21 +18,21 @@ $apps = (
 $apps = ($apps | Out-String).Replace("`r`n"," ")
 $cmd = "scoop install " + $apps.Trim(" ")
 Invoke-Expression $cmd
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Scoop Import]] AND -"Changelog"
-```
+````

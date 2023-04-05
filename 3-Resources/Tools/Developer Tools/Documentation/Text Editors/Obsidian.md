@@ -1,23 +1,16 @@
----
-Date: 2021-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: []
----
-
 # Obsidian
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
-- [[Personal Knowledge Management]]
-- [[Zettelkasten]]
-- [[2-Areas/Meta/_README|Meta]]
+* [Tools](../../../Tools.md)
+* [Personal Knowledge Management](../../../../../2-Areas/MOCs/Personal%20Knowledge%20Management.md)
+* [Zettelkasten](../../../../../0-Slipbox/Zettelkasten.md)
+* *Meta*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

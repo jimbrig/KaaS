@@ -1,19 +1,13 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://emilyriederer.netlify.app/post/projmgr/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer", "Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer"]
----
 # Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
 
 ## Metadata
-- Author: [[Emily Riederer]]
-- Full Title: Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
-- Category: #Type/Highlight/Article
-- URL: https://emilyriederer.netlify.app/post/projmgr/
+
+* Author: *Emily Riederer*
+* Full Title: Projmgr: Managing the Human Dependencies of Your Projects | Emily Riederer
+* Category: #Type/Highlight/Article
+* URL: https://emilyriederer.netlify.app/post/projmgr/
 
 ## Highlights
-- Making a Plan
+
+* Making a Plan
   The first step to project management is making a plan and getting buy-in from all relevant stakeholders, including target piees of work to deliver on different timelines. projmgr allows you to easily articulate a project plan in human-readable YAML and then seamlessly bulk-upload a set of GitHub issues and milestones.

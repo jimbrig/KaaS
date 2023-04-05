@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GHA - R Render RMD"]
----
-
 # GHA - R Render RMD
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#render-rmarkdown*
@@ -13,7 +6,7 @@ Alias: ["GHA - R Render RMD"]
 
 This example automatically re-builds any Rmarkdown file in the repository whenever it changes and commits the results to the master branch.
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -50,17 +43,17 @@ jobs:
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git commit ${RMD_PATH[*]/.Rmd/.md} -m 'Re-build Rmarkdown files' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - R Render RMD]] AND -"Changelog"
-```
+````

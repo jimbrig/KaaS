@@ -1,36 +1,29 @@
----
-Date: 2022-06-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Exploring Terraform on Azure"
----
-
 # Exploring Terraform on Azure
 
 ## Authenticate Terraform with Azure
 
 Terraform supports several different methods for authenticating to Azure. You can use:
 
--   The Azure CLI
--   A Managed Service Identity (MSI)
--   A service principal and a client certificate
--   A service principal and a client secret
+* The Azure CLI
+* A Managed Service Identity (MSI)
+* A service principal and a client certificate
+* A service principal and a client secret
 
 When running Terraform as part of a continuous integration pipeline, you can use either an Azure service principal or MSI to authenticate.
 
 To configure Terraform to use your Azure Active Directory (Azure AD) service principal, set the following environment variables:
 
--   ARM_SUBSCRIPTION_ID
--   ARM_CLIENT_ID
--   ARM_CLIENT_SECRET
--   ARM_TENANT_ID
--   ARM_ENVIRONMENT
+* ARM_SUBSCRIPTION_ID
+* ARM_CLIENT_ID
+* ARM_CLIENT_SECRET
+* ARM_TENANT_ID
+* ARM_ENVIRONMENT
 
 The Azure Terraform modules then use these variables. You can also set the environment if you work with an Azure cloud other than an Azure public cloud.
 
 Use the following sample shell script to set these variables:
 
-```bash
+````bash
 #!/bin/sh
 echo "Setting environment variables for Terraform"
 export ARM_SUBSCRIPTION_ID=your_subscription_id
@@ -40,24 +33,24 @@ export ARM_TENANT_ID=your_tenant_id
 
 # Not needed for public, required for usgovernment, german, china
 export ARM_ENVIRONMENT=public
-```
+````
 
 ## Sample Terraform .tf File
 
 Take a moment to skim through the following example of a terraform **.tf** file. Try to identify the different elements within the file. The file does the following actions on Azure:
 
--   Authenticates.
--   Creates a resource group.
--   Creates a virtual network.
--   Creates a subnet.
--   Creates a public IP address.
--   Creates a network security group and rule.
--   Creates a virtual network interface card.
--   Generates random text for use as a unique storage account name.
--   Creates a storage account for diagnostics.
--   Creates a virtual machine.
+* Authenticates.
+* Creates a resource group.
+* Creates a virtual network.
+* Creates a subnet.
+* Creates a public IP address.
+* Creates a network security group and rule.
+* Creates a virtual network interface card.
+* Generates random text for use as a unique storage account name.
+* Creates a storage account for diagnostics.
+* Creates a virtual machine.
 
-```hcl
+````hcl
 # Configure the Microsoft Azure Provider
 provider "azurerm" {
     subscription_id = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
@@ -217,19 +210,19 @@ resource "azurerm_virtual_machine" "myterraformvm" {
         environment = "Terraform Demo"
     }
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/Developer Tools/Cloud Services/Azure/_README|Azure]]
-- [[Terraform]]
-- [[Azure CLI]]
-- [[Terraform and VSCode]]
+* *Azure*
+* [Terraform](../3-Resources/Tools/Developer%20Tools/Infrastructure/Terraform.md)
+* [Azure CLI](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20CLI.md)
+* [Terraform and VSCode](Terraform%20and%20VSCode.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Exploring Terraform on Azure]] AND -"Changelog"
-```
+````

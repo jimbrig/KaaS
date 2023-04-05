@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Data Discovery with Shinji Kim", "Data Discovery with Shinji Kim"]
----
 # Data Discovery with Shinji Kim
 
 ## Metadata
-- Author: [[Software Engineering Daily]]
-- Full Title: Data Discovery with Shinji Kim
-- Category: #Type/Highlight/Podcast
+
+* Author: *Software Engineering Daily*
+* Full Title: Data Discovery with Shinji Kim
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- The Snowflake of Cloud Computing?
+
+* The Snowflake of Cloud Computing?
   Summary:
   Snowflake is a cloud computing system that separates compute and storage. It allows companies to put all their data in one place, rather than spread it over several years or even decades. Snowflake charges for the cost of storing large amounts of data at once. The company has just gone public with its new service called Cloud Foundry.
   Transcript:

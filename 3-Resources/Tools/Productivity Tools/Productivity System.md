@@ -1,57 +1,50 @@
----
-Date: 2022-05-10
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Productivity System"
----
-
 # Productivity System
 
 ## Contents
 
-- [[#Tips|Tips]]
-- [[#List Manager|List Manager]]
-- [[#Physical Daily Planner|Physical Daily Planner]]
-- [[#Physical Notebook|Physical Notebook]]
-- [[#Physical File Folders|Physical File Folders]]
-- [[#Digital Calendar|Digital Calendar]]
-- [[#Email Client and Tools|Email Client and Tools]]
-- [[#Focus and Attention Management|Focus and Attention Management]]
-- [[#Time Tracking|Time Tracking]]
-- [[#Read Later Apps|Read Later Apps]]
-- [[#Bookmarks and Links|Bookmarks and Links]]
-- [[#Writing Apps|Writing Apps]]
-- [[#Personal Knowledge Management|Personal Knowledge Management]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Tips](Productivity%20System.md#tips)
+* [List Manager](Productivity%20System.md#list-manager)
+* [Physical Daily Planner](Productivity%20System.md#physical-daily-planner)
+* [Physical Notebook](Productivity%20System.md#physical-notebook)
+* [Physical File Folders](Productivity%20System.md#physical-file-folders)
+* [Digital Calendar](Productivity%20System.md#digital-calendar)
+* [Email Client and Tools](Productivity%20System.md#email-client-and-tools)
+* [Focus and Attention Management](Productivity%20System.md#focus-and-attention-management)
+* [Time Tracking](Productivity%20System.md#time-tracking)
+* [Read Later Apps](Productivity%20System.md#read-later-apps)
+* [Bookmarks and Links](Productivity%20System.md#bookmarks-and-links)
+* [Writing Apps](Productivity%20System.md#writing-apps)
+* [Personal Knowledge Management](Productivity%20System.md#personal-knowledge-management)
+* [Appendix: Links](Productivity%20System.md#appendix-links)
 
 ## Tips
 
-- Workspace:
-	- Remove noise:
-		- Notifications
-	- Keep Minimal Workspace
+* Workspace:
+  
+  * Remove noise:
+    * Notifications
+  * Keep Minimal Workspace
+* Constantly Write Down what's on my mind
 
-- Constantly Write Down what's on my mind
-
-- Slice and Dice Time
-	- Time Blocking
-	- Pomodoro
-	- No multitasking
-
-- Inbox Zero
-	- Unsubscribe
-	- Unroll.me
-	- Filters
-	- Centralized Inboxes
-
-- FLOW
-	- Internal Stimuli
-	- Mindfulness
-
-- Tools
-	- Zenware
-	- Simple
+* Slice and Dice Time
+  
+  * Time Blocking
+  * Pomodoro
+  * No multitasking
+* Inbox Zero
+  
+  * Unsubscribe
+  * Unroll.me
+  * Filters
+  * Centralized Inboxes
+* FLOW
+  
+  * Internal Stimuli
+  * Mindfulness
+* Tools
+  
+  * Zenware
+  * Simple
 
 Close Browser Tabs
 
@@ -81,22 +74,16 @@ Process!
 
 ## Personal Knowledge Management
 
-
-
-
-
-
-***
+---
 
 ## Appendix: Links
 
-- 
+* 
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Productivity System]] AND -"Changelog"
-```
+````
 
-![[Productivity System.svg]]
-
+![Productivity System.svg](Productivity%20System.svg)

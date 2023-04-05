@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow", "Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow"]
----
 # Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
 
 ## Metadata
-- Author: 
-- Full Title: Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
-- Category: #Type/Highlight/Article
-- URL: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
+
+* Author: 
+* Full Title: Rstudio - Use Internal Links in RMarkdown HTML Output - Stack Overflow
+* Category: #Type/Highlight/Article
+* URL: https://stackoverflow.com/questions/39281266/use-internal-links-in-rmarkdown-html-output
 
 ## Highlights
-- Pandoc supports explicit and implicit section references for headers; see the pandoc manual.
+
+* Pandoc supports explicit and implicit section references for headers; see the pandoc manual.
   explicit: you give a custom name to a header ## Test {#test} and later refer to it with a link syntax: see [the relevant section](#test).
-  implicit: headers where you don't set a custom name, like ## Test, can still be refered to: See the section called [Test].
+  implicit: headers where you don't set a custom name, like ## Test, can still be refered to: See the section called \[Test\].

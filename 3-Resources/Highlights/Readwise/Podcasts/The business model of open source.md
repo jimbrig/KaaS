@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["The business model of open source", "The business model of open source"]
----
 # The business model of open source
 
 ## Metadata
-- Author: [[The Changelog: Software Development, Open Source]]
-- Full Title: The business model of open source
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Changelog: Software Development, Open Source*
+* Full Title: The business model of open source
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Red Hat Enterprise Lennox
+
+* Red Hat Enterprise Lennox
   Summary:
   "If you want red hat enterprise lennox, there's only one way to get it, and that's pay red hat money," he says. "You hear engineers all the time be like, i would never pay for that stuff... What a garbage thing." He adds: "I believe the red hot model is better because what you get is all the upside of open source"
   Transcript:

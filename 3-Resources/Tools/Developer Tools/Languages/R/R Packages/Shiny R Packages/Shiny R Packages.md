@@ -1,30 +1,19 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Shiny R Packages"]
----
-
 # Shiny R Packages Overview
 
 %% Begin Waypoint %%
-- [[Shiny R Packages]]
+
+* [Shiny R Packages](Shiny%20R%20Packages.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Shiny R Packages Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

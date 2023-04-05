@@ -1,39 +1,30 @@
----
-Date: 2022-02-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "GitHub Linguist"
----
-
 # GitHub Linguist
 
 *Source: [linguist/how-linguist-works.md at master · github/linguist](https://github.com/github/linguist/blob/master/docs/how-linguist-works.md)*
 
 ## Contents
 
-- [[#Linguist Documentation|Linguist Documentation]]
-- [[#How GitHub Linguist Works|How GitHub Linguist Works]]
-- [[#Overrides|Overrides]]
-- [[#Using `.gitattributes`|Using `.gitattributes`]]
-	- [[#Summary|Summary]]
-	- [[#Detectable|Detectable]]
-	- [[#Documentation|Documentation]]
-	- [[#Generated code|Generated code]]
-	- [[#Vendored code|Vendored code]]
-- [[#Using Emacs or Vim modelines|Using Emacs or Vim modelines]]
-	- [[#Vim|Vim]]
-	- [[#Emacs|Emacs]]
-- [[#How Linguist works on GitHub.com|How Linguist works on GitHub.com]]
-
-
+* [Linguist Documentation](GitHub%20Linguist.md#linguist-documentation)
+* [How GitHub Linguist Works](GitHub%20Linguist.md#how-github-linguist-works)
+* [Overrides](GitHub%20Linguist.md#overrides)
+* \[\[\#Using `.gitattributes`\|Using `.gitattributes`\]\]
+  * [Summary](GitHub%20Linguist.md#summary)
+  * [Detectable](GitHub%20Linguist.md#detectable)
+  * [Documentation](GitHub%20Linguist.md#documentation)
+  * [Generated code](GitHub%20Linguist.md#generated-code)
+  * [Vendored code](GitHub%20Linguist.md#vendored-code)
+* [Using Emacs or Vim modelines](GitHub%20Linguist.md#using-emacs-or-vim-modelines)
+  * [Vim](GitHub%20Linguist.md#vim)
+  * [Emacs](GitHub%20Linguist.md#emacs)
+* [How Linguist works on GitHub.com](GitHub%20Linguist.md#how-linguist-works-on-github-com)
 
 ## Linguist Documentation
 
--   [How Linguist works](https://github.com/github/linguist/blob/master/docs/how-linguist-works.md)
--   [Change Linguist's behaviour with overrides](https://github.com/github/linguist/blob/master/docs/overrides.md)
--   [Troubleshooting](https://github.com/github/linguist/blob/master/docs/troubleshooting.md)
--   [Contributing guidelines](https://github.com/github/linguist/blob/master/CONTRIBUTING.md)
--   [Releasing Linguist](https://github.com/github/linguist/blob/master/docs/releasing.md) (Only applicable to GitHub staff)
+* [How Linguist works](https://github.com/github/linguist/blob/master/docs/how-linguist-works.md)
+* [Change Linguist's behaviour with overrides](https://github.com/github/linguist/blob/master/docs/overrides.md)
+* [Troubleshooting](https://github.com/github/linguist/blob/master/docs/troubleshooting.md)
+* [Contributing guidelines](https://github.com/github/linguist/blob/master/CONTRIBUTING.md)
+* [Releasing Linguist](https://github.com/github/linguist/blob/master/docs/releasing.md) (Only applicable to GitHub staff)
 
 ## How GitHub Linguist Works
 
@@ -45,14 +36,14 @@ If an [explicit language override](https://github.com/github/linguist/blob/maste
 
 The language of each remaining file is then determined using the following strategies, in order, with each step either identifying the precise language or reducing the number of likely languages passed down to the next strategy:
 
-- Vim or Emacs modeline,
-- commonly used filename,
-- shell shebang,
-- file extension,
-- XML header,
-- man page section,
-- heuristics,
-- naïve Bayesian classification
+* Vim or Emacs modeline,
+* commonly used filename,
+* shell shebang,
+* file extension,
+* XML header,
+* man page section,
+* heuristics,
+* naïve Bayesian classification
 
 The result of this analysis is used to produce the language stats bar which displays the languages percentages for the files in the repository.
 The percentages are calculated based on the bytes of code for each language as reported by the [List Languages](https://docs.github.com/rest/reference/repos#list-repository-languages) API.
@@ -71,28 +62,30 @@ Add [a .gitattributes file](https://git-scm.com/docs/gitattributes) to your proj
 
 You can also manually set syntax highlighting using [Vim or Emacs modelines](#using-emacs-or-vim-modelines).
 
-When testing with a local installation of Linguist, **take note that the added attributes will _not_ take effect until the `.gitattributes` file is committed to your repository.**
+When testing with a local installation of Linguist, **take note that the added attributes will *not* take effect until the `.gitattributes` file is committed to your repository.**
 
 File and folder paths inside `.gitattributes` are calculated relative to the position of the `.gitattributes` file:
 
-```gitattributes
+````gitattributes
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
 *.rb linguist-language=Java
 
 # Replace any whitespace in the language name with hyphens:
 *.glyphs linguist-language=OpenStep-Property-List
-```
+````
 
 ### Summary
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
- | Git attribute                                  | Defined in            | Effect on file                                                  |
- |:-----------------------------------------------|:----------------------|:----------------------------------------------------------------|
- | `linguist-detectable`                          | [`languages.yml`]     | Included in stats, even if language's type is `data` or `prose` |
- | `linguist-documentation`                       | [`documentation.yml`] | Excluded from stats                                             |
- | `linguist-generated`                           | [`generated.rb`]      | Excluded from stats, hidden in diffs                            |
- | `linguist-language`=<var><ins>name</ins></var> | [`languages.yml`]     | Highlighted and classified as <var><ins>name</ins></var>        |
- | `linguist-vendored`                            | [`vendor.yml`]        | Excluded from stats                                             |
+
+\| Git attribute                                  | Defined in            | Effect on file                                                  |
+\|:-----------------------------------------------|:----------------------|:----------------------------------------------------------------|
+\| `linguist-detectable`                          | [`languages.yml`]     | Included in stats, even if language's type is `data` or `prose` |
+\| `linguist-documentation`                       | [`documentation.yml`] | Excluded from stats                                             |
+\| `linguist-generated`                           | [`generated.rb`]      | Excluded from stats, hidden in diffs                            |
+\| `linguist-language`=<var><ins>name</ins></var> | [`languages.yml`]     | Highlighted and classified as <var><ins>name</ins></var>        |
+\| `linguist-vendored`                            | [`vendor.yml`]        | Excluded from stats                                             |
+
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Detectable
@@ -104,11 +97,11 @@ statistics, even if you specify something like `*.mycola linguist-language=MyCoo
 
 Use the `linguist-detectable` attribute to mark or unmark paths as detectable:
 
-```gitattributes
+````gitattributes
 *.kicad_pcb linguist-detectable
 *.sch linguist-detectable
 tools/export_bom.py -linguist-detectable
-```
+````
 
 ### Documentation
 
@@ -117,14 +110,14 @@ Just like vendored files, Linguist excludes documentation files from your projec
 
 Use the `linguist-documentation` attribute to mark or unmark paths as documentation:
 
-```gitattributes
+````gitattributes
 # Apply override to all files in the directory
 project-docs/* linguist-documentation
 # Apply override to a specific file
 docs/formatter.rb -linguist-documentation
 # Apply override to all files and directories in the directory
 ano-dir/** linguist-documentation
-```
+````
 
 ### Generated code
 
@@ -135,9 +128,9 @@ As an added bonus, unlike vendored and documentation files, these files are supp
 
 Use the `linguist-generated` attribute to mark or unmark paths as generated.
 
-```gitattributes
+````gitattributes
 Api.elm linguist-generated
-```
+````
 
 ### Vendored code
 
@@ -146,14 +139,14 @@ By default, Linguist treats all of the paths defined in [`vendor.yml`] as vendor
 
 Use the `linguist-vendored` attribute to vendor or un-vendor paths:
 
-```gitattributes
+````gitattributes
 # Apply override to all files in the directory
 special-vendored-path/* linguist-vendored
 # Apply override to a specific file
 jquery.js -linguist-vendored
 # Apply override to all files and directories in the directory
 ano-dir/** linguist-vendored
-```
+````
 
 ## Using Emacs or Vim modelines
 
@@ -161,24 +154,21 @@ If you do not want to use `.gitattributes` to override the syntax highlighting u
 Modelines can be placed anywhere within a file and are respected when determining how to syntax-highlight a file on GitHub.com
 
 ### Vim
-```
+
+````
 # Some examples of various styles:
 vim: syntax=java
 vim: set syntax=ruby:
 vim: set filetype=prolog:
 vim: set ft=cpp:
-```
+````
 
 ### Emacs
-```
+
+````
 -*- mode: php; -*-
 -*- c++ -*-
-```
-
-[`documentation.yml`]: /lib/linguist/documentation.yml
-[`languages.yml`]:     /lib/linguist/languages.yml
-[`generated.rb`]:      /lib/linguist/generated.rb
-[`vendor.yml`]:        /lib/linguist/vendor.yml
+````
 
 ## How Linguist works on GitHub.com
 
@@ -188,6 +178,11 @@ As this analysis is performed by a low priority background job, it can take a wh
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[How GitHub Linguist Works]] AND -"Changelog"
-```
+````
+
+[`languages.yml`]: /lib/linguist/languages.yml
+[`documentation.yml`]: /lib/linguist/documentation.yml
+[`generated.rb`]: /lib/linguist/generated.rb
+[`vendor.yml`]: /lib/linguist/vendor.yml

@@ -1,10 +1,3 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Extracting Values from JSON Strings"]
----
-
 # SQL - PostgreSQL - Extracting Values from JSON Strings
 
 *Source: [sql-snippets/json-strings.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/json-strings.md)*
@@ -13,13 +6,13 @@ Explore this snippet [here](https://count.co/n/woUuvi105YA?vm=e).
 
 ## Description
 
-[[PostgreSQL]] has supported lots of [[JSON]] functionality for a while now - see some examples in the [official documentation](https://www.postgresql.org/docs/current/functions-json.html).
+[PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md) has supported lots of *JSON* functionality for a while now - see some examples in the [official documentation](https://www.postgresql.org/docs/current/functions-json.html).
 
 ## Operators
 
-There are several operators that act as accessors on [[JSON]] data types:
+There are several operators that act as accessors on *JSON* data types:
 
-```sql
+````sql
 with json as (select '{
   "a": 1,
   "b": "bee",
@@ -40,20 +33,19 @@ select
   text::json#>'{c, 2}' as c_third, -- Extract deeply-nested object
   text::json#>'{c, 2}'->'d' as d -- Extract field from deeply-nested object
 from json
-```
+````
 
 Output:
 
-| root                                                | a | b     | c                       | c_first_str | c_first_num | c_third         | d      |
-| --------------------------------------------------- | - | ----- | ----------------------- | ----------- | ----------- | --------------- | ------ |
-| { "a": 1, "b": "bee", "c": [4, 5, { "d": [6, 7] }]} | 1 | "bee" | [4, 5, { "d": [6, 7] }] | 4           | 4           | { "d": [6, 7] } |	[6, 7] |
-
+|root|a|b|c|c_first_str|c_first_num|c_third|d|
+|----|-|-|-|-----------|-----------|-------|-|
+|{ "a": 1, "b": "bee", "c": \[4, 5, { "d": \[6, 7\] }\]}|1|"bee"|\[4, 5, { "d": \[6, 7\] }\]|4|4|{ "d": \[6, 7\] }|\[6, 7\]|
 
 ## JSON_EXTRACT_PATH
 
 As an alternative to the operator approach, the `JSON_EXTRACT_PATH` function works by specifying the keys of the `JSON` fields to be extracted:
 
-```sql
+````sql
 select
   json_extract_path('{
   "a": 1,
@@ -64,27 +56,26 @@ select
     { "d": [6, 7] }
   ]
 }', 'c', '2', 'd', '0')
-```
+````
 
 Output:
 
-| json_extract_path |
-| ----------------- |
-| 6                 |
+|json_extract_path|
+|-----------------|
+|6|
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Extracting Values from JSON Strings]] AND -"Changelog"
-```
+````

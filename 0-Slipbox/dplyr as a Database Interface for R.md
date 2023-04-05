@@ -1,17 +1,10 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: "dplyr as a Database Interface for R"
----
-
 # dplyr as a Database Interface for R
 
 *Source: [Overview (rstudio.com)](https://db.rstudio.com/getting-started/overview)*
 
 ## Overview
 
-The [[R Package - dplyr|dplyr]] package simplifies data transformation. It provides a consistent set of functions, called verbs, that can be used in succession and interchangeably to gain understanding of the data interactively.
+The [dplyr](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Data%20Manipulation%20Packages/R%20Package%20-%20dplyr.md) package simplifies data transformation. It provides a consistent set of functions, called verbs, that can be used in succession and interchangeably to gain understanding of the data interactively.
 
 ### **dplyr** as a database interface
 
@@ -23,22 +16,21 @@ The `dplyr` package simplifies data transformation. It provides a consistent set
 
 ![](https://db.rstudio.com/homepage/interact.png)
 
-1.  **Run data exploration routines over all of the data**, instead of importing part of the data into R.
-    
-2.  **Use the SQL Engine to run the data transformations.** In effect, computation is being pushed to the database.
-    
-3.  **Collect into R only a targeted dataset.**
-    
-4.  **All of your code is in R.** Because`dplyr` is used to communicate with the database, there is no need to alternate between languages or tools to perform the data exploration.
-    
+1. **Run data exploration routines over all of the data**, instead of importing part of the data into R.
+
+1. **Use the SQL Engine to run the data transformations.** In effect, computation is being pushed to the database.
+
+1. **Collect into R only a targeted dataset.**
+
+1. **All of your code is in R.** Because`dplyr` is used to communicate with the database, there is no need to alternate between languages or tools to perform the data exploration.
 
 ## **Connect to a database**
 
 ![](https://db.rstudio.com/homepage/open-source.png)
 
-**At the center of this approach is the `DBI` package.** This package acts as _‘middle-ware’_ between packages to allow connectivity with the database from the user or other packages. It provides a consistent set of functions regardless of the database type being accessed. The `dplyr` package depends on the `DBI` package for communication with databases.
+**At the center of this approach is the `DBI` package.** This package acts as *‘middle-ware’* between packages to allow connectivity with the database from the user or other packages. It provides a consistent set of functions regardless of the database type being accessed. The `dplyr` package depends on the `DBI` package for communication with databases.
 
-There are packages that enables a direct connection between the an open-source database and R. Currently, such packages exist for the following databases: _MySQL, SQLite, PostgreSQL, and bigquery_.
+There are packages that enables a direct connection between the an open-source database and R. Currently, such packages exist for the following databases: *MySQL, SQLite, PostgreSQL, and bigquery*.
 
 ![](https://db.rstudio.com/homepage/commercial.png)
 
@@ -56,7 +48,7 @@ Is the database you are interested in not listed here? You can still use `DBI` a
 
 The same dplyr syntax used with data in R will also work with data in a database. In the example below, data from the `nycflights13` package are loaded into a SQLite database then queried from R. The results from the query are then collected into R and visualized with ggplot2. The process is the same if you are using an enterprise data warehouse — like Microsoft SQL Server or Snowflake’s data cloud.
 
-```
+````
 library(DBI)
 library(dplyr)
 library(ggplot2)
@@ -71,23 +63,22 @@ tbl(con, "FLIGHTS") %>%
   summarise(delay = mean(dep_delay, na.rm = TRUE)) %>%
   collect() %>%
   ggplot(aes(hour, delay, color = origin)) + geom_line()
-```
+````
 
 ![](https://db.rstudio.com/homepage/snowflake-flights.png)
 
-***
+---
 
 ## Appendix: Links
 
-- [[R - Database Packages List]]
-- [[R Package - dplyr]]
-- [[R Package - dbplyr]]
-- [[Development]]
-- [[2-Areas/MOCs/R]]
-
+* [R - Database Packages List](../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+* [R Package - dplyr](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Data%20Manipulation%20Packages/R%20Package%20-%20dplyr.md)
+* [R Package - dbplyr](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/Database%20R%20Packages/R%20Package%20-%20dbplyr.md)
+* [Development](../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/R](../2-Areas/MOCs/R.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[dplyr as a Database Interface for R]] AND -"Changelog"
-```
+````

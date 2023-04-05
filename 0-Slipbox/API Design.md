@@ -1,13 +1,6 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "API Design"
----
-
 # API Design
 
-*Source: [[Azure_API-Design_Guide_eBook.pdf]]*
+*Source: *Azure_API-Design_Guide_eBook.pdf**
 
 ## REST
 
@@ -29,15 +22,15 @@ As part of onboarding to Microsoft REST API Guidelines, services MUST comply wit
 
 ### Errors
 
-Errors, or more specifically Service Errors, are defined as a client passing invalid data to the service and the service _correctly_ rejecting that data. Examples include invalid credentials, incorrect parameters, unknown version IDs, or similar. These are generally "4xx" HTTP error codes and are the result of a client passing incorrect or invalid data.
+Errors, or more specifically Service Errors, are defined as a client passing invalid data to the service and the service *correctly* rejecting that data. Examples include invalid credentials, incorrect parameters, unknown version IDs, or similar. These are generally "4xx" HTTP error codes and are the result of a client passing incorrect or invalid data.
 
-Errors do _not_ contribute to overall API availability.
+Errors do *not* contribute to overall API availability.
 
 ### Faults
 
 Faults, or more specifically Service Faults, are defined as the service failing to correctly return in response to a valid client request. These are generally "5xx" HTTP error codes.
 
-Faults _do_ contribute to the overall API availability.
+Faults *do* contribute to the overall API availability.
 
 Calls that fail due to rate limiting or quota failures MUST NOT count as faults. Calls that fail as the result of a service fast-failing requests (often for its own protection) do count as faults.
 
@@ -63,32 +56,33 @@ This facilitates discovery and eases adoption on platforms without a well-suppor
 
 An example of a well-structured URL is:
 
-```bash
+````bash
 https://api.contoso.com/v1.0/people/jdoe@contoso.com/inbox
-```
+````
 
 An example URL that is not friendly is:
 
-```bash
+````bash
 https://api.contoso.com/EWS/OData/Users('jdoe@microsoft.com')/Folders('AAMkADdiYzI1MjUzLTk4MjQtNDQ1Yy05YjJkLWNlMzMzYmIzNTY0MwAuAAAAAACzMsPHYH6HQoSwfdpDx-2bAQCXhUk6PC1dS7AERFluCgBfAAABo58UAAA=')
-```
+````
 
 A frequent pattern that comes up is the use of URLs as values. Services MAY use URLs as values. For example, the following is acceptable:
 
-```bash
+````bash
 https://api.contoso.com/v1.0/items?url=https://resources.contoso.com/shoes/fancy
-```
+````
 
 ### URL length
 
 The HTTP 1.1 message format, defined in RFC 7230, in section [3.1.1](https://tools.ietf.org/html/rfc7230#section-3.1.1), defines no length limit on the Request Line, which includes the target URL. From the RFC:
 
-> HTTP does not place a predefined limit on the length of a request-line. [...] A server that receives a request-target longer than any URI it wishes to parse MUST respond with a 414 (URI Too Long) status code.
+ > 
+ > HTTP does not place a predefined limit on the length of a request-line. \[...\] A server that receives a request-target longer than any URI it wishes to parse MUST respond with a 414 (URI Too Long) status code.
 
 Services that can generate URLs longer than 2,083 characters MUST make accommodations for the clients they wish to support. Here are some sources for determining what target clients support:
 
--   [http://stackoverflow.com/a/417184](http://stackoverflow.com/a/417184)
--   [https://blogs.msdn.microsoft.com/ieinternals/2014/08/13/url-length-limits/](https://blogs.msdn.microsoft.com/ieinternals/2014/08/13/url-length-limits/)
+* [http://stackoverflow.com/a/417184](http://stackoverflow.com/a/417184)
+* [https://blogs.msdn.microsoft.com/ieinternals/2014/08/13/url-length-limits/](https://blogs.msdn.microsoft.com/ieinternals/2014/08/13/url-length-limits/)
 
 Also note that some technology stacks have hard and adjustable url limits, so keep this in mind as you design your services.
 
@@ -100,17 +94,16 @@ The stable identifier is not required to be a GUID.
 
 An example of a URL containing a canonical identifier is:
 
-```bash
+````bash
 https://api.contoso.com/v1.0/people/7011042402/inbox
-```
+````
 
 ### Supported methods
 
-#Status/Todo 
-
+\#Status/Todo 
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[API Design]] AND -"Changelog"
-```
+````

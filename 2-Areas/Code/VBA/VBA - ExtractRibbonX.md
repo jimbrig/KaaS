@@ -1,15 +1,8 @@
----
-Date: 2022-06-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - ExtractRibbonX"]
----
-
 # VBA - ExtractRibbonX
 
-*Source: *
+\*Source: *
 
-```vb
+````vb
 Option Explicit
 
 Public Sub ExtractRibbonX(sFullFile As String, sSaveFile As String)
@@ -55,11 +48,11 @@ Public Sub ExtractRibbonX(sFullFile As String, sSaveFile As String)
     'Then the OpenXML file has its original filename back.
     Set cEditOpenXML = Nothing
 End Sub
-```
+````
 
 ## Dependent Class Model: `clsEditOpenXML`
 
-```vb
+````vb
 Option Explicit
 
 Private mbCreateBackup As Boolean
@@ -478,19 +471,20 @@ End Property
 Private Property Let XMLFolderRoot(ByVal vXMLFolderRoot As Variant)
     mvXMLFolderRoot = vXMLFolderRoot
 End Property
-```
-***
+````
+
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - ExtractRibbonX]] AND -"Changelog"
-```
+````

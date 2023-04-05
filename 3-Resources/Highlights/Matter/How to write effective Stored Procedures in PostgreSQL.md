@@ -1,10 +1,12 @@
 ## Metadata
+
 * URL: [https://hub.packtpub.com/write-effective-stored-procedures-postgresql/](https://hub.packtpub.com/write-effective-stored-procedures-postgresql/)
-* Author: [[Amey Varangaonkar -  - 12:00]]
-* Publisher: [[hub.packtpub.com]]
+* Author: *Amey Varangaonkar -  - 12:00*
+* Publisher: *hub.packtpub.com*
 * Published Date: 2017-12-12
 
 ## Highlights
+
 * When it comes to stored procedures, PostgreSQL differs quite significantly from other database systems. Most database engines force you to use a certain programming language to write server-side code. Microsoft SQL Server offers Transact-SQL while Oracle encourages you to use PL/SQL. PostgreSQL does not force you to use a certain language but allows you to decide on what you know best and what you like best.
 * The reason PostgreSQL is so flexible is actually quite interesting too in a historical sense. Many years ago, one of the most well-known PostgreSQL developers (Jan Wieck), who had written countless patches back in its early days, came up with the idea of using TCL as the server-side programming language. The trouble was simple—nobody wanted to use TCL and nobody wanted to have this stuff in the database engine. The solution to the problem was to make the language interface so flexible that basically any language can be integrated with PostgreSQL easily. Then, the CREATE LANGUAGE clause was born:
 * How exactly does PostgreSQL handle languages? If you take a look at the syntax of the CREATE LANGUAGE clause, you will see a couple of keywords:

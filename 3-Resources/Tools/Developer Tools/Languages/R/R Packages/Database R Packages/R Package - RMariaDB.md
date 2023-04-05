@@ -1,10 +1,3 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool"]
-Alias: ["R Package - RMariaDB", "RMariaDB"]
----
-
 # R Package - RMariaDB
 
 *Source: [r-dbi/RMariaDB: An R interface to MariaDB (github.com)](https://github.com/r-dbi/RMariaDB)*
@@ -13,14 +6,13 @@ Alias: ["R Package - RMariaDB", "RMariaDB"]
 
 ## Contents
 
-- [[#Example|Example]]
-- [[#Installation|Installation]]
-	- [[#Connector/C|Connector/C]]
-	- [[#MySQL client library|MySQL client library]]
-- [[#MariaDB configuration file|MariaDB configuration file]]
-- [[#Reference|Reference]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Example](R%20Package%20-%20RMariaDB.md#example)
+* [Installation](R%20Package%20-%20RMariaDB.md#installation)
+  * [Connector/C](R%20Package%20-%20RMariaDB.md#connector-c)
+  * [MySQL client library](R%20Package%20-%20RMariaDB.md#mysql-client-library)
+* [MariaDB configuration file](R%20Package%20-%20RMariaDB.md#mariadb-configuration-file)
+* [Reference](R%20Package%20-%20RMariaDB.md#reference)
+* [Appendix: Links](R%20Package%20-%20RMariaDB.md#appendix-links)
 
 ## Overview
 
@@ -28,7 +20,7 @@ RMariaDB is a database interface and MariaDB driver for R. This version is aimed
 
 ## Example
 
-```R
+````R
 library(DBI)
 # Connect to my-db as defined in ~/.my.cnf
 con <- dbConnect(RMariaDB::MariaDB(), group = "my-db")
@@ -56,16 +48,16 @@ dbClearResult(res)
 
 # Disconnect from the database
 dbDisconnect(con)
-```
+````
 
 ## Installation
 
-```R
+````R
 install.packages("RMariaDB")
 
 devtools::install_github("r-dbi/DBI")
 devtools::install_github("r-dbi/RMariaDB")
-```
+````
 
 Discussions associated with DBI and related database packages take place on [R-SIG-DB](https://stat.ethz.ch/mailman/listinfo/r-sig-db). The website [Databases using R](https://db.rstudio.com/) describes the tools and best practices in this ecosystem.
 
@@ -75,84 +67,83 @@ Installation from source on Linux or OS X currently requires [`MariaDB Connector
 
 On recent **Debian** or **Ubuntu** install [libmariadb-dev](https://packages.debian.org/testing/libmariadb-dev).
 
-```bash
+````bash
 sudo apt-get install -y libmariadb-dev
-```
+````
 
 On **Fedora**, **CentOS** or **RHEL** we need [mariadb-devel](https://src.fedoraproject.org/rpms/mariadb):
 
-```bash
+````bash
 sudo yum install mariadb-devel
-```
+````
 
 On **OS X** use [mariadb-connector-c](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mariadb-connector-c.rb) from Homebrew:
 
-```bash
+````bash
 brew install mariadb-connector-c
-```
+````
 
 ### MySQL client library
 
 On recent **Debian** or **Ubuntu** install [libmysqlclient-dev](https://packages.debian.org/buster/default-libmysqlclient-dev).
 
-```bash
+````bash
 sudo apt-get install -y libmysqlclient-dev
-```
+````
 
 On **Fedora**, **CentOS** or **RHEL** we need mysql-devel, see [https://apps.fedoraproject.org/packages/mysql-devel](https://apps.fedoraproject.org/packages/mysql-devel):
 
-```bash
+````bash
 sudo yum install mysql-devel
-```
+````
 
 Follow [instructions](https://dev.mysql.com/doc/mysql-yum-repo-quick-guide/en/) to enable the MySQL yum repository if the above command attempts to install MariaDB files.
 
 On **OS X** use [mysql-connector-c](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-connector-c++.rb) from Homebrew:
 
-```bash
+````bash
 brew install mysql-connector-c++
-```
+````
 
 ## MariaDB configuration file
 
 Instead of specifying a username and password in calls to `[dbConnect()](https://dbi.r-dbi.org/reference/dbConnect.html)`, it’s better to set up a MariaDB configuration file that names the databases that you connect to most commonly. This file should live in `~/.my.cnf` and look like:
 
-```ini
+````ini
 [database_name]
 option1=value1
 option2=value2
-```
+````
 
 If you want to run the examples, you’ll need to set the proper options in the `[rs-dbi]` group of any MariaDB option file, such as /etc/my.cnf or the .my.cnf file in your home directory. For a default single user install of MariaDB, the following code should work:
 
-```ini
+````ini
 [rs-dbi]
 database="test"
 user="root"
 password=""
-```
+````
 
 ## Reference
 
 [Function reference • RMariaDB (r-dbi.org)](https://rmariadb.r-dbi.org/reference/index.html)
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RMariaDB.md
-- [[R]]
-- [[3-Resources/Tools/R/R Packages/R Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMariaDB.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - RMariaDB.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *3-Resources/Tools/R/R Packages/R Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* *3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages*
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - RMariaDB.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - RMariaDB]] AND -"Changelog"
-```
+````

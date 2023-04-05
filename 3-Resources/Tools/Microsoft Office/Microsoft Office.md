@@ -1,36 +1,33 @@
----
-Date: 2022-02-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Microsoft Office", "Office365", "Office", "Microsoft 365"]
----
-
 # Microsoft Office
 
-- [[Office365]]
+* *Office365*
 
-- [[Excel]]
-- [[Word]]
-- [[Outlook]]
-- [[PowerPoint]]
+* [Excel](../../../2-Areas/Code/Excel/Excel.md)
 
-- [[OneDrive]]
+* *Word*
 
-- [[Sharepoint]]
+* *Outlook*
 
-- [[Project]]
-- [[Microsoft Visio|Visio]]
+* *PowerPoint*
 
-- [[Whiteboard]]
+* *OneDrive*
 
-***
+* *Sharepoint*
+
+* *Project*
+
+* [Visio](Microsoft%20Visio.md)
+
+* *Whiteboard*
+
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

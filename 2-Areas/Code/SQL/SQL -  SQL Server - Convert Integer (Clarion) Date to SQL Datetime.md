@@ -1,18 +1,8 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: [
-    "SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime", 
-    "SQL - Convert Integer (Clarion) Date to SQL Datetime"
-    ]
----
-
 # SQL - SQL Server - Convert Integer (Clarion) Date to SQL Datetime
 
 *Source: [Convert Integer (Clarion) Date to SQL DateTime | thiscodeWorks](https://www.thiscodeworks.com/61faf4d2b783be0015bbaf87)*
 
-```SQL
+````SQL
 DECLARE @ClarionDate INT = 47563
 DECLARE @SqlDateTime DATETIME 
  
@@ -24,7 +14,7 @@ SELECT @SqlDateTime AS 'SQL Date Time'
 -- Now convert it back from and SQL DateTime to a Clarion Date
 SET @ClarionDate = DateDiff(day, DateAdd(day, -4, '1801-01-01'), @SqlDateTime)
 SELECT @ClarionDate AS 'Clarion Date'
-```
+````
 
 ## Notes
 
@@ -34,19 +24,18 @@ The LONG data type with a date format (@D) display picture is normally used for 
 
 The DATE data type is a data format used in the Btrieve Record Manager and some other file systems. A DATE field is internally converted to LONG containing the Clarion standard date before any mathematical or date procedure operation is performed. Therefore, DATE should be used for external file compatibility, and LONG is normally used for other dates.
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Convert Integer (Clarion) Date to SQL Datetime]] AND -"Changelog"
-```
+````

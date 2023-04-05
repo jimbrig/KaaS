@@ -1,27 +1,20 @@
----
-Date: 2022-02-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Multi-Replace (plpgsql)"]
----
-
 # SQL - PostgreSQL - Multi-Replace (plpgsql)
 
 *Source: https://wiki.postgresql.org/wiki/Multi_Replace_plpgsql*
 
-*NOTE: This function is generic [[SQL]]:*
+*NOTE: This function is generic [SQL](SQL.md):*
 
-```SQL
+````SQL
 /* This function quotes characters that may be interpreted as special in a regular expression.
    It's used by the function below and declared separately for clarity. */
 CREATE FUNCTION quote_meta(text) RETURNS text AS $$
   select regexp_replace($1, '([\[\]\\\^\$\.\|\?\*\+\(\)])', '\\\1', 'g');
 $$ language sql strict immutable;
-```
+````
 
-*NOTE: This function uses the [[PLPGSQL]] language.*
+*NOTE: This function uses the [PLPGSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md) language.*
 
-```SQL
+````SQL
 /* Substitute a set of substrings within a larger string.
    When several strings match, the longest wins.
    Similar to php's strtr(string $str, array $replace_pairs).
@@ -70,22 +63,21 @@ BEGIN
 
 END 
 $$ LANGUAGE plpgsql strict immutable;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[PLPGSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [PLPGSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Multi-Replace (plpgsql)]] AND -"Changelog"
-```
+````

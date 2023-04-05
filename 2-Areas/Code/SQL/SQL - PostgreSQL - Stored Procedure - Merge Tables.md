@@ -1,16 +1,8 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Stored Procedure - Merge Tables"]
----
-
 # SQL - PostgreSQL - Stored Procedure - Merge Tables
 
 *Source: [postgres_stored_procedures/sp_merge_tables.sql at main · thevillagers/postgres_stored_procedures](https://github.com/thevillagers/postgres_stored_procedures/blob/main/procedures/sp_merge_tables.sql)*
 
-
-```SQL
+````SQL
 /*
     Merges all tables matching a regex by calling vre_funcs.insert() on all matches
     USAGE:
@@ -86,22 +78,21 @@ BEGIN
 
 END ; $$
 LANGUAGE 'plpgsql';
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[PLPGSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [PLPGSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/PLPGSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL Stored Procedure - Merge Tables]] AND -"Changelog"
-```
+````

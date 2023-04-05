@@ -1,22 +1,15 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Database", "#Topic/Dev/Database"]
-Alias: ["PgAdmin"]
----
-
 # PgAdmin
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[PostgreSQL]]
-- [[Databases]]
+* [Tools](../../../Tools.md)
+* [PostgreSQL](../Databases/PostgreSQL.md)
+* [Databases](../../../../../2-Areas/MOCs/Databases.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PgAdmin]] AND -"Changelog"
-```
+````

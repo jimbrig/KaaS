@@ -1,17 +1,10 @@
----
-Date: 2021-12-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Python/Flask", "#Topic/Dev/Docker"]
-Alias: "Flask and Docker"
----
-
 # Flask and Docker
 
 ## Docker
 
-- Source: [demo-cookiecutter-flask/Dockerfile at master · jamescurtin/demo-cookiecutter-flask (github.com)](https://github.com/jamescurtin/demo-cookiecutter-flask/blob/master/Dockerfile)
+* Source: [demo-cookiecutter-flask/Dockerfile at master · jamescurtin/demo-cookiecutter-flask (github.com)](https://github.com/jamescurtin/demo-cookiecutter-flask/blob/master/Dockerfile)
 
-```Dockerfile
+````Dockerfile
 # ================================== BUILDER ===================================
 
 ARG INSTALL_PYTHON_VERSION=${INSTALL_PYTHON_VERSION:-PYTHON_VERSION_NOT_SET}
@@ -95,13 +88,13 @@ EXPOSE 2992
 EXPOSE 5000
 
 CMD [ "npm", "start" ]
-```
+````
 
 ## Docker Compose
 
-- Source: [demo-cookiecutter-flask/docker-compose.yml at master · jamescurtin/demo-cookiecutter-flask (github.com)](https://github.com/jamescurtin/demo-cookiecutter-flask/blob/master/docker-compose.yml)
+* Source: [demo-cookiecutter-flask/docker-compose.yml at master · jamescurtin/demo-cookiecutter-flask (github.com)](https://github.com/jamescurtin/demo-cookiecutter-flask/blob/master/docker-compose.yml)
 
-```yaml
+````yaml
 version: "3.6"
 
 x-build-args: &build_args
@@ -160,9 +153,9 @@ services:
 
 volumes:
   node-modules:
-```
+````
 
-```Dockerfile
+````Dockerfile
 FROM python:3.9.9-slim-buster
 
 COPY requirements.txt requirements.txt
@@ -172,18 +165,17 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY cookiecutter_spec.py /cookiecutter_spec.py
 
 ENTRYPOINT [ "python", "/cookiecutter_spec.py" ]
-```
+````
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[2-Areas/MOCs/Python]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/Python](../2-Areas/MOCs/Python.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Flask and Docker]] AND -"Changelog"
-```
+````

@@ -1,27 +1,21 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://facilethings.com/blog/en/the-mind-sweep
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Want to Get Organized? Start With the Mind Sweep", "Want to Get Organized? Start With the Mind Sweep"]
----
 # Want to Get Organized? Start With the Mind Sweep
 
 ## Metadata
-- Author: [[Francisco Sáez]]
-- Full Title: Want to Get Organized? Start With the Mind Sweep
-- Category: #Type/Highlight/Article
-- URL: https://facilethings.com/blog/en/the-mind-sweep
+
+* Author: *Francisco Sáez*
+* Full Title: Want to Get Organized? Start With the Mind Sweep
+* Category: #Type/Highlight/Article
+* URL: https://facilethings.com/blog/en/the-mind-sweep
 
 ## Highlights
-- The basic principle is that you must know how your world is right now, how the map in which you move looks like, so that you can make a positive commitment to it.
-- If you don’t do something constructive with all these things that steal your attention, they will continue to be there, maliciously consuming part of your consciousness.
-    - Tags: [[favorite]] 
-- David Allen summarizes this collecting phase in a very simple way: “If it’s on your mind, write it down or record it somehow in a concrete way. It doesn’t matter how you capture these thoughts, as long as you get them out of your head and have them all in some way easily accessible for review.”
-    - Tags: [[favorite]] 
-- when you decide that enough is enough, that it’s time to start organizing your stuff—, you should perform a complete (or nearly complete) capture of everything that exists in your mind. This is called The Mind Sweep in GTD, i.e. a overall scan of everything holding your attention right now. It consists in identifying anything concerning your work or your personal life which you consider should be different, and put it all in one single place, which we can call the in-basket.
-- Professional stuff:
+
+* The basic principle is that you must know how your world is right now, how the map in which you move looks like, so that you can make a positive commitment to it.
+* If you don’t do something constructive with all these things that steal your attention, they will continue to be there, maliciously consuming part of your consciousness.
+  * Tags: *favorite* 
+* David Allen summarizes this collecting phase in a very simple way: “If it’s on your mind, write it down or record it somehow in a concrete way. It doesn’t matter how you capture these thoughts, as long as you get them out of your head and have them all in some way easily accessible for review.”
+  * Tags: *favorite* 
+* when you decide that enough is enough, that it’s time to start organizing your stuff—, you should perform a complete (or nearly complete) capture of everything that exists in your mind. This is called The Mind Sweep in GTD, i.e. a overall scan of everything holding your attention right now. It consists in identifying anything concerning your work or your personal life which you consider should be different, and put it all in one single place, which we can call the in-basket.
+* Professional stuff:
   Projects started, not completed.
   Projects that need to be started.
   Commitments/promises to others (boss, partners, colleagues, subordinates, customers, organizations, professionals…)

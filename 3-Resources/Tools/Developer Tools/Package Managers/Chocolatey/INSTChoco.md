@@ -1,20 +1,13 @@
----
-Date: 2022-03-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["INSTChoco"]
----
-
 # INSTChoco
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[INSTChoco]] AND -"Changelog"
-```
+````

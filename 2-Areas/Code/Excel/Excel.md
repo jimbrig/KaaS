@@ -1,34 +1,25 @@
----
-Date: <% tp.date.now() %>
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Excel"]
----
-
 # Excel Overview
 
 %% Begin Waypoint %%
-- **_assets**
 
-- [[2-Areas/Code/Excel/_README]]
-- [[Excel - Formula to get ActiveSheet Name]]
-- [[Excel]]
+* **\_assets**
+
+* *2-Areas/Code/Excel/_README*
+
+* [Excel - Formula to get ActiveSheet Name](Excel%20-%20Formula%20to%20get%20ActiveSheet%20Name.md)
+
+* [Excel](Excel.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Excel Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
-Jimmy Briggs | <% tp.date.now("YYYY") %> | <jimmy.briggs@jimbrig.com>
-
-
-
+Jimmy Briggs | \<% tp.date.now("YYYY") %> | <jimmy.briggs@jimbrig.com>

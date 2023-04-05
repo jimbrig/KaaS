@@ -1,24 +1,20 @@
----
-Date: 2022-01-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Productivity"]
-Alias: "The Secret Power of Read It Later Apps"
----
-
 # The Secret Power of Read It Later Apps
 
 *Source: https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps*
-*Author: [[Tiago Forte]]*
+*Author: [Tiago Forte](../2-Areas/People/Tiago%20Forte.md)*
 
-> ## Excerpt
-> By Tiago Forte of Forte Labs At the end of 2014 I received an email informing me that I had read over a million words in the ‘read it later’ app Pocket
+ > 
+ > ## Excerpt
+ > 
+ > By Tiago Forte of Forte Labs At the end of 2014 I received an email informing me that I had read over a million words in the ‘read it later’ app Pocket
 
 ---
+
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/2000/1*rPXwIczUJRCE54v8FfAHGw.jpeg?resize=900%2C380&ssl=1)
 
 Image via Nuno Cruz
 
-_By Tiago Forte of_ [_Forte Labs_](http://fortelabs.co/)
+*By Tiago Forte of* [*Forte Labs*](http://fortelabs.co/)
 
 At the end of 2014 I received an email informing me that I had read over a million words in the ‘read it later’ app Pocket over the course of the year.
 
@@ -36,7 +32,7 @@ The fact is, **the ability to read is becoming a source of competitive advantage
 
 I’m not talking about basic literacy. What has become exceedingly scarce (and therefore, valuable) is the physical, emotional, attentional, and mental capability to sit quietly and direct focused attention for sustained periods of time.
 
-A [recent article](https://hbr.org/2005/01/overloaded-circuits-why-smart-people-underperform) in the Harvard Business Review puts a name to this new neurological phenomenon: Attention Deficit Trait. Basically, the terms ADD and ADHD are falling out of use because effectively the entire population fits the diagnostic criteria. It’s not a condition anymore, it’s a _trait_ — the inherent and unavoidable experience of modern life characterized by “distractibility, inner frenzy, and impatience.”
+A [recent article](https://hbr.org/2005/01/overloaded-circuits-why-smart-people-underperform) in the Harvard Business Review puts a name to this new neurological phenomenon: Attention Deficit Trait. Basically, the terms ADD and ADHD are falling out of use because effectively the entire population fits the diagnostic criteria. It’s not a condition anymore, it’s a *trait* — the inherent and unavoidable experience of modern life characterized by “distractibility, inner frenzy, and impatience.”
 
 Start Building Your Second Brain
 
@@ -50,11 +46,11 @@ So-called “Read It Later” apps give you the ability to “save” content on
 
 On top of that core function they add features like favoriting, tags, search, cross-platform syncing, recommended content, offline viewing, and archiving. The most popular options are:
 
--   [Instapaper](https://www.instapaper.com/)
--   [Pocket](https://getpocket.com/a/)
--   [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea?hl=en) (for sending articles to your Kindle)
--   [Feedly](https://feedly.com/i/welcome) (for those RSS fans)
--   and [Safari’s built-in “Add to Reading List” feature](https://support.apple.com/en-us/HT200294).
+* [Instapaper](https://www.instapaper.com/)
+* [Pocket](https://getpocket.com/a/)
+* [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea?hl=en) (for sending articles to your Kindle)
+* [Feedly](https://feedly.com/i/welcome) (for those RSS fans)
+* and [Safari’s built-in “Add to Reading List” feature](https://support.apple.com/en-us/HT200294).
 
 The app I use, Pocket, adds a button to the Chrome toolbar that looks like this:
 
@@ -62,7 +58,7 @@ The app I use, Pocket, adds a button to the Chrome toolbar that looks like this:
 
 Chrome toolbar
 
-_Note: at time of writing, I was using Pocket, but have recently switched to Instapaper because of Pocket’s “Share to Evernote” bug mentioned below._
+*Note: at time of writing, I was using Pocket, but have recently switched to Instapaper because of Pocket’s “Share to Evernote” bug mentioned below.*
 
 Clicking the button while viewing a webpage turns the button pink, and saves the page to your “list.” Navigating to getpocket.com, or opening the Pocket app on your computer or mobile device shows you a list of everything you’ve saved:
 
@@ -86,10 +82,10 @@ But I didn’t address a key question when creating any workflow: how and from w
 
 There are A LOT of ways we could talk about to improve the quality of the information you consume. But I want to focus now on the two that Read It Later apps can help with:
 
-1.  Increasing consumption of long-form content (which is presumably more substantive)
-2.  Better filtering
+1. Increasing consumption of long-form content (which is presumably more substantive)
+1. Better filtering
 
-### #1 | Increasing Consumption of Long-Form Content
+### \#1 | Increasing Consumption of Long-Form Content
 
 In order to consume good ideas, first you have to consume many ideas.
 
@@ -97,11 +93,12 @@ This is the fundamental flaw in the “information diet” advice from Tim Ferri
 
 The problem is that our entire digital world is geared toward snackable chunks of low-grade information — photos, tweets, statuses, snaps, feeds, cards, etc. To fight the tide you have to redesign your environment — you have to create affordances.
 
-> Affordance (n.): a relation between an object and an organism that, through a collection of stimuli, **affords the opportunity for that organism to perform an action.**
+ > 
+ > Affordance (n.): a relation between an object and an organism that, through a collection of stimuli, **affords the opportunity for that organism to perform an action.**
 
 Let’s look at the 4 main barriers to consuming long-form content, and the affordances that Read It Later apps use to overcome them:
 
-#### 1\. App performance
+#### 1. App performance
 
 We know that the most infinitesimal delays in the loading time of a webpage will dramatically impact how many people stay on the page. [Google found](https://blog.kissmetrics.com/speed-is-a-killer/) that increasing the number of results per page from 10 to 30 took only half a second longer, but **caused 20% of people to drop off**.
 
@@ -119,7 +116,7 @@ Effect of ad-blocker on loading times of Boston.com, via [NYT](http://www.nytime
 
 Yeah that’s pretty much an eternity in mobile behavior land.
 
-#### 2\. Matching content with your context
+#### 2. Matching content with your context
 
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*N15BlTDGq8kTc7HdGUmShA.png?resize=507%2C676&ssl=1)
 
@@ -129,39 +126,42 @@ Much of the time when we pull out our phone, we’re looking for something to ma
 
 So you need a little entertainment, and you open…an ebook? Yeah right. Monochrome pages don’t attract you. They don’t draw you in.
 
-Pocket gives reading some of this stimulatory pleasure by laying out your list in a pleasing, magazine-style layout (at left). Not only is it generally attractive, but it gives you that same magazine-flipping pleasure of engaging with something that interests you _right in that moment_.
+Pocket gives reading some of this stimulatory pleasure by laying out your list in a pleasing, magazine-style layout (at left). Not only is it generally attractive, but it gives you that same magazine-flipping pleasure of engaging with something that interests you *right in that moment*.
 
 David Allen puts it this way:
 
-> “It’s practical to have organized reading material at hand when you’re on your way to a meeting that may be starting late, a seminar that may have a window of time when nothing is going on, a dentist appointment that may keep you waiting, or, of course, if you’re going to have some time on a train or plane. Those are all great opportunities to browse and work through that kind of reading. People who don’t have their Read/Review material organized can waste a lot of time, since **life is full of weird little windows when it could be used.**”
+ > 
+ > “It’s practical to have organized reading material at hand when you’re on your way to a meeting that may be starting late, a seminar that may have a window of time when nothing is going on, a dentist appointment that may keep you waiting, or, of course, if you’re going to have some time on a train or plane. Those are all great opportunities to browse and work through that kind of reading. People who don’t have their Read/Review material organized can waste a lot of time, since **life is full of weird little windows when it could be used.**”
 
 You’re not fighting your impulses forcing yourself to read a dense tome after a long work day. Willpower preserved ✓
 
-#### 3\. Asynchronous reading
+#### 3. Asynchronous reading
 
 This is one of the least understood barriers to reading in our fragmented timescape.
 
 There is something deeply, deeply unsatisfying about repeatedly starting something and not finishing it. This is what we experience all day at work, being continuously interrupted by a stream of “emergencies.” The last thing we want after a stressful day starved of wins is to fail even at reading an article.
 
-The [2015 revised edition (affiliate link)](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fortelabs07-20&linkId=fe6db72d8e5bbb38b1ea43241924f7e9&language=en_US) of _Getting Things Done_ [cites the work](http://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf) of Dr. Roy Baumeister, who has shown that “uncompleted tasks take up room in the mind, which then limits clarity and focus.” The risk of cognitive dissonance at not being able to finish a long article (much less a book) keep us from even beginning it.
+The [2015 revised edition (affiliate link)](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=fortelabs07-20&linkId=fe6db72d8e5bbb38b1ea43241924f7e9&language=en_US) of *Getting Things Done* [cites the work](http://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf) of Dr. Roy Baumeister, who has shown that “uncompleted tasks take up room in the mind, which then limits clarity and focus.” The risk of cognitive dissonance at not being able to finish a long article (much less a book) keep us from even beginning it.
 
 Read It Later apps address this by simply saving your progress in a given article, allowing you to pick back up at a different time, or on a different device, and clearly marking items as “read” once you’re finished.
 
-#### 4\. Focus
+#### 4. Focus
 
-A common response when I recommend people adopt _yet another_ category of apps is “Why don’t I just use Evernote?” Or whatever app they’re using for general reference or task management. Evernote even makes a Chrome extension called [Clearly](https://evernote.com/clearly/) for reading online content and [Web Clipper](https://evernote.com/webclipper/?downloaded) for saving it.
+A common response when I recommend people adopt *yet another* category of apps is “Why don’t I just use Evernote?” Or whatever app they’re using for general reference or task management. Evernote even makes a Chrome extension called [Clearly](https://evernote.com/clearly/) for reading online content and [Web Clipper](https://evernote.com/webclipper/?downloaded) for saving it.
 
 It is a question of focus. Why don’t you use your task manager to keep track of content (i.e. “Read this article”)? Because the last thing you want to see when you cuddle up with your hot cocoa for some light reading is the hundreds of tasks you’re not doing.
 
-Likewise, the last thing you want to see when you (finally!) have time to read is the thousands of notes you’ve collected from every corner of the universe, only some of which you haven’t read, only some of which you _want_ to read, only some of which are _meant_ to be read.
+Likewise, the last thing you want to see when you (finally!) have time to read is the thousands of notes you’ve collected from every corner of the universe, only some of which you haven’t read, only some of which you *want* to read, only some of which are *meant* to be read.
 
-> Actionable info ≠ Reference info ≠ To Read pile
+ > 
+ > Actionable info ≠ Reference info ≠ To Read pile
 
 Ergo,
 
-> Task manager ≠ Evernote ≠ Pocket
+ > 
+ > Task manager ≠ Evernote ≠ Pocket
 
-### #2 | Better filtering
+### \#2 | Better filtering
 
 Now you’ve got the funnel filled. It’s time to narrow it.
 
@@ -171,15 +171,15 @@ The problem is that this assumes you are always at your best, always at 100% sel
 
 Yeah.
 
-In the moment, with your blood sugar at a negative value and every fiber of your being screaming for a dopamine hit, _of course_ that Buzzfeed article seems like the best conceivable use of your time. If you think you can permanently seal off your life from the celebrity news, content marketing, and spammy friends that dominate the web, the NSA has a job for you.
+In the moment, with your blood sugar at a negative value and every fiber of your being screaming for a dopamine hit, *of course* that Buzzfeed article seems like the best conceivable use of your time. If you think you can permanently seal off your life from the celebrity news, content marketing, and spammy friends that dominate the web, the NSA has a job for you.
 
-Procrastination is the most powerful force in the universe. _It will find a way._
+Procrastination is the most powerful force in the universe. *It will find a way.*
 
 I have a different approach: **waiting periods**. Every time I come across something I may want to read/watch, I’m totally allowed to. No limits! The only requirement is I have to save it to Pocket, and then choose to consume it at a later time.
 
 I’ve found that even just clicking a link to open the URL, in order to save it to Pocket, is too much of a temptation. The first glimpse of a cute GIF and I’m off to Reddit, completely forgetting my morning email session.
 
-So instead I just **command-click** every link I’m interested in (or **right-click > Open link in new tab**), which opens each link in a separate tab _without taking me to that tab_.
+So instead I just **command-click** every link I’m interested in (or **right-click > Open link in new tab**), which opens each link in a separate tab *without taking me to that tab*.
 
 Here’s what a typical Monday morning link-fest looks like, just from email:
 
@@ -195,7 +195,8 @@ I am always amazed by what happens: no matter how stringent I was in the origina
 
 What I’m essentially doing is creating a buffer. Instead of pushing a new piece of info through from intake to processing to consumption without any scrutiny, I’m creating a pool of options drawn from a longer time period, which allows me to make decisions from a higher perspective, where those decisions are much better aligned with what truly matters to me.
 
-> Remove any feature, process, or effort that does not directly contribute to the learning you seek. — Eric Ries, The Leader’s Guide
+ > 
+ > Remove any feature, process, or effort that does not directly contribute to the learning you seek. — Eric Ries, The Leader’s Guide
 
 Here’s a visual of how this works, from my Pocket analytics:
 
@@ -203,11 +204,11 @@ Here’s a visual of how this works, from my Pocket analytics:
 
 You can see that I save more things toward the beginning of the week and the weekend, and then draw down the buffer more towards the end of the week.
 
-**_/sidebar_**
+***/sidebar***
 
-Imagine for a second if we could do this with everything. On Saturday morning, well-rested and wise, you retroactively decide everything you _want to have done_ during the previous week. Anything you decide was not worthwhile, you _get that time back_.
+Imagine for a second if we could do this with everything. On Saturday morning, well-rested and wise, you retroactively decide everything you *want to have done* during the previous week. Anything you decide was not worthwhile, you *get that time back*.
 
-I experienced this recently with email — after returning from a 10-day meditation course during which I was completely off the grid, I was surprised to notice it took only 1.9 hours to process almost 2 weeks’ worth of email (I track these things). I normally spend on average 2.19 hours on email **per week** — _what happened to those extra 2.48 hours?!_ Besides the gains from batch processing such a large quantity of emails at once, I believe the main factor was that I evaluated my emails from a longer time horizon and higher perspective, more correctly judging whether something was worth responding to or acting on.
+I experienced this recently with email — after returning from a 10-day meditation course during which I was completely off the grid, I was surprised to notice it took only 1.9 hours to process almost 2 weeks’ worth of email (I track these things). I normally spend on average 2.19 hours on email **per week** — *what happened to those extra 2.48 hours?!* Besides the gains from batch processing such a large quantity of emails at once, I believe the main factor was that I evaluated my emails from a longer time horizon and higher perspective, more correctly judging whether something was worth responding to or acting on.
 
 If only this method would scale.
 
@@ -217,15 +218,15 @@ If only this method would scale.
 
 There are drawbacks, which I’ve glossed over until now. The two main ones:
 
-#### 1\. Formatting issues
+#### 1. Formatting issues
 
 Many sites, including popular ones, aren’t presented correctly within the Pocket app (and I imagine others). There’s always the option of opening the link in a web browser, but this eliminates all the positive affordances and then some. If there wasn’t so much value provided otherwise, this would be a deal breaker.
 
-The worst part is that, sometimes, the article is cut off or links don’t appear _without any indication that something is amiss_. On Tim Ferriss’ blog, for example, links (of which there are many) are simply removed.
+The worst part is that, sometimes, the article is cut off or links don’t appear *without any indication that something is amiss*. On Tim Ferriss’ blog, for example, links (of which there are many) are simply removed.
 
 One solution is to tag problematic items with “desktop” so you know that these need to be read/viewed on your computer.
 
-#### 2\. Dependence
+#### 2. Dependence
 
 Every productivity tool eventually becomes a victim of its own success. In this case, I’ve become so dependent on Pocket that bugs really affect me.
 
@@ -233,11 +234,11 @@ For example, the Share to Evernote feature, which I use to highlight and save ke
 
 You wouldn’t think such a minor feature within one app could be so disruptive, but it has been massively so. This simple workflow:
 
-_Highlight > Share > Share to Evernote > Save_
+*Highlight > Share > Share to Evernote > Save*
 
 …has been replaced with this:
 
-_Highlight > Copy > Switch to Evernote > New note > Paste > Switch back to Pocket > Share > More > Copy URL > Switch back to Evernote > Paste URL > Switch back to Pocket_
+*Highlight > Copy > Switch to Evernote > New note > Paste > Switch back to Pocket > Share > More > Copy URL > Switch back to Evernote > Paste URL > Switch back to Pocket*
 
 Worse, I often forget to go back and grab the URL, so I have to hunt it down at some later date.
 
@@ -259,7 +260,7 @@ When you’re immersed in a stream, the faster it goes, the more novel perspecti
 
 Increasingly, the only metric that will matter in your journey of personal growth will be **ROL: Rate-of-Learning**. We’ve heard a lot in recent years about the importance of hands-on learning and practical experimentation. We get it. Burying your head in a book by itself gets you nowhere.
 
-But the pendulum is swinging too far in that direction. Yes, you can be _too_ action-oriented. Ideas, while cheap when compared to effective execution, are still more valuable than many of the other things we spend time on.
+But the pendulum is swinging too far in that direction. Yes, you can be *too* action-oriented. Ideas, while cheap when compared to effective execution, are still more valuable than many of the other things we spend time on.
 
 There’s another way to learn faster: assimilate and build on the ideas of others. Sure, you won’t understand every tacit lesson their experience gave them, but you can incorporate many of them, and in a fraction of the time it would take you to make every mistake yourself.
 
@@ -269,11 +270,14 @@ I lied before. There is one form of leverage even more powerful than the initial
 
 I can’t put it any better than Donella Meadows, in her [seminal piece](http://www.donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) on complex systems:
 
-> People who cling to paradigms (which means just about all of us) take one look at the spacious possibility that everything they think is guaranteed to be nonsense and pedal rapidly in the opposite direction. Surely there is no power, no control, no understanding, not even a reason for being, much less acting, in the notion or experience that there is no certainty in any worldview. But, in fact, everyone who has managed to entertain that idea, for a moment or for a lifetime, has found it to be the basis for radical empowerment. **If no paradigm is right, you can choose whatever one will help to achieve your purpose.**
+ > 
+ > People who cling to paradigms (which means just about all of us) take one look at the spacious possibility that everything they think is guaranteed to be nonsense and pedal rapidly in the opposite direction. Surely there is no power, no control, no understanding, not even a reason for being, much less acting, in the notion or experience that there is no certainty in any worldview. But, in fact, everyone who has managed to entertain that idea, for a moment or for a lifetime, has found it to be the basis for radical empowerment. **If no paradigm is right, you can choose whatever one will help to achieve your purpose.**
 
-> It is in this space of mastery over paradigms that people throw off addictions, live in constant joy, bring down empires, get locked up or burned at the stake or crucified or shot, and **have impacts that last for millennia**.
+ > 
+ > It is in this space of mastery over paradigms that people throw off addictions, live in constant joy, bring down empires, get locked up or burned at the stake or crucified or shot, and **have impacts that last for millennia**.
 
-> In the end, it seems that mastery has less to do with pushing leverage points than it does with **strategically, profoundly, madly letting go.**
+ > 
+ > In the end, it seems that mastery has less to do with pushing leverage points than it does with **strategically, profoundly, madly letting go.**
 
 Reading is the closest thing we have to thinking another’s thoughts. It’s long and sometimes ponderous, but that work is required to wrap yourself in another person’s paradigm. Which is the first step in madly letting go of your own.
 
@@ -281,34 +285,33 @@ The amazing thing about ideas is that it takes zero time for one to change your 
 
 And that is the secret power of Read It Later apps.
 
-**P.S.** _My latest setup has 2 parts: 1) using_ [_this IFTTT recipe_](https://ifttt.com/recipes/182352-instpaper-to-evernote) _to automatically send “liked” articles in Instapaper to an Evernotebook called “Instapaper favorites” (for things I want to save in general but don’t have any particular notes on), and 2)_ [_this recipe_](https://ifttt.com/recipes/368728-send-instapaper-highlights-to-evernote-default-notebook) _that saves anything I highlight in Instapaper to a new note, and sends it to the Evernote default notebook where I can decide where it belongs later (for when I have specific passages I want to extract)_
+**P.S.** *My latest setup has 2 parts: 1) using* [*this IFTTT recipe*](https://ifttt.com/recipes/182352-instpaper-to-evernote) *to automatically send “liked” articles in Instapaper to an Evernotebook called “Instapaper favorites” (for things I want to save in general but don’t have any particular notes on), and 2)* [*this recipe*](https://ifttt.com/recipes/368728-send-instapaper-highlights-to-evernote-default-notebook) *that saves anything I highlight in Instapaper to a new note, and sends it to the Evernote default notebook where I can decide where it belongs later (for when I have specific passages I want to extract)*
 
-___
+---
 
-_**Subscribe below to receive free weekly emails with our best new content, or follow us on [Twitter](https://twitter.com/fortelabs/), [Facebook](https://www.facebook.com/fortelabs/), [Instagram](https://www.instagram.com/fortelabsco/), [LinkedIn](https://www.linkedin.com/in/tiagoforte/), or [YouTube](https://www.youtube.com/user/simulacrumsquared/). Or become a [Praxis member](https://fortelabs.co/about-praxis/) to receive instant access to our full collection of members-only posts.**_
+***Subscribe below to receive free weekly emails with our best new content, or follow us on [Twitter](https://twitter.com/fortelabs/), [Facebook](https://www.facebook.com/fortelabs/), [Instagram](https://www.instagram.com/fortelabsco/), [LinkedIn](https://www.linkedin.com/in/tiagoforte/), or [YouTube](https://www.youtube.com/user/simulacrumsquared/). Or become a [Praxis member](https://fortelabs.co/about-praxis/) to receive instant access to our full collection of members-only posts.***
 
 Join the Forte Labs Newsletter
 
 Join 50,000+ people receiving my best ideas on learning, productivity & knowledge management every Tuesday. I'll send you my Top 10 All-Time Articles right away as a thank you.
 
-
-***
+---
 
 #### Related
 
-- [[Instapaper]]
-- [[Tiago Forte]]
-- [[Tools]]
-- [[Productivity]]
-- [[Personal Knowledge Management]]
-- [[Feedly]]
-- [[Evernote]]
-- [[3-Resources/Highlights/Readwise 1/Articles/Digital Tools I Wish Existed]]
-- [[Hypothesis.io]]
-- [[3-Resources/Highlights/_README|Highlights]]
+* [Instapaper](../3-Resources/Tools/PKM%20Tools/Instapaper.md)
+* [Tiago Forte](../2-Areas/People/Tiago%20Forte.md)
+* [Tools](../3-Resources/Tools/Tools.md)
+* [Productivity](../2-Areas/MOCs/Productivity.md)
+* [Personal Knowledge Management](../2-Areas/MOCs/Personal%20Knowledge%20Management.md)
+* [Feedly](../3-Resources/Tools/PKM%20Tools/Feedly.md)
+* [Evernote](../3-Resources/Tools/PKM%20Tools/Evernote.md)
+* *3-Resources/Highlights/Readwise 1/Articles/Digital Tools I Wish Existed*
+* [Hypothesis.io](../3-Resources/Tools/PKM%20Tools/Hypothesis.io.md)
+* *Highlights*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[The Secret Power of Read It Later Apps]] AND -"Changelog"
-```
+````

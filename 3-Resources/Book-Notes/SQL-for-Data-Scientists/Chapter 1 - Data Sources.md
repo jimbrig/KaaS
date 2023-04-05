@@ -1,100 +1,94 @@
----
-Date: 2022-10-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Book", "#Topic/Dev", "#Topic/Dev/SQL", "#Topic/Dev/Data", "#Topic/Dev/Database"]
-Alias: ["Data Sources"]
----
-
 # Chapter 1 - Data Sources
 
 ## Contents
 
-- [[#Terms|Terms]]
-- [[#Structured v. Unstructured Data|Structured v. Unstructured Data]]
-- [[#Database v. Database Schema|Database v. Database Schema]]
-- [[#One-to-many relationships|One-to-many relationships]]
-- [[#Many-to-many relationships|Many-to-many relationships]]
-- [[#Database normalization|Database normalization]]
-- [[#Dimensional Data Warehouses|Dimensional Data Warehouses]]
+* [Terms](Chapter%201%20-%20Data%20Sources.md#terms)
+* [Structured v. Unstructured Data](Chapter%201%20-%20Data%20Sources.md#structured-v-unstructured-data)
+* [Database v. Database Schema](Chapter%201%20-%20Data%20Sources.md#database-v-database-schema)
+* [One-to-many relationships](Chapter%201%20-%20Data%20Sources.md#one-to-many-relationships)
+* [Many-to-many relationships](Chapter%201%20-%20Data%20Sources.md#many-to-many-relationships)
+* [Database normalization](Chapter%201%20-%20Data%20Sources.md#database-normalization)
+* [Dimensional Data Warehouses](Chapter%201%20-%20Data%20Sources.md#dimensional-data-warehouses)
 
 ## Terms
 
-|                                      Term                                      |                           Definition                            |                                       Notes                                        |
-|:------------------------------------------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
-|                                 [[APIs\|API]]                                  |               *Application Programming Interface*               |                                                                                    |
-| [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL\|SQL]] |                   *Structured Query Language*                   |                                                                                    |
-|                                   [[RDBMS]]                                    |             *Relational Database Management System*             |                                                                                    |
-|                                    [[ODBC]]                                    |                  *Open Database Connectivity*                   | Uses drivers to standardize interfaces between software applications and database. |
-|                                    [[ERD]]                                     |                  *Entity Relationship Diagram*                  |                                                                                    |
-|        [[Foreign Key Constraints in Relational Databases\|Foreign Key]]        | [[Primary Key]] referenced by another table as a [[constraint]] |                                                                                    |
-|                                                                                |                                                                 |                                                                                    |
+|Term|Definition|Notes|
+|:--:|:--------:|:---:|
+|[API](../../Tools/Developer%20Tools/APIs/APIs.md)|*Application Programming Interface*||
+|[SQL](../../Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/SQL.md)|*Structured Query Language*||
+|*RDBMS*|*Relational Database Management System*||
+|*ODBC*|*Open Database Connectivity*|Uses drivers to standardize interfaces between software applications and database.|
+|*ERD*|*Entity Relationship Diagram*||
+|[Foreign Key](../../../0-Slipbox/Foreign%20Key%20Constraints%20in%20Relational%20Databases.md)|*Primary Key* referenced by another table as a *constraint*||
+||||
 
-## Structured vs. Unstructured Data 
+## Structured vs. Unstructured Data
 
 **Unstructured:**
 
-- Text Documents
-- Images
-- etc.
+* Text Documents
+* Images
+* etc.
 
 **Structured:**
 
-- Tabular
-- Spreadsheets
-- Database
-- etc.
+* Tabular
+* Spreadsheets
+* Database
+* etc.
 
-## Database vs. Database Schema 
+## Database vs. Database Schema
 
-* [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Database]] = Collection of tables
-* [[Database Schema]] = Stores table information and relationships (i.e. defines the structure)
+* *Database* = Collection of tables
+* *Database Schema* = Stores table information and relationships (i.e. defines the structure)
 
-## One-to-Many Relationships 
+## One-to-Many Relationships
 
 * Where a unique entity only occurs in one table *once* but can have multiple entries in another 
-    * e.g., patient tbl and appointments tbl 
-    
-## Many-to-Many Relationships 
+  * e.g., patient tbl and appointments tbl 
+
+## Many-to-Many Relationships
 
 * Connection between entities where records on each side of the relationship can connect 
-to multiple records on the other side 
-    * Junction of associated table needs to capture the pairs of related rows 
-    * Allows the ability to reduce the amount of redundant data stored in the database 
-    
-## Database Normalization 
+  to multiple records on the other side 
+  * Junction of associated table needs to capture the pairs of related rows 
+  * Allows the ability to reduce the amount of redundant data stored in the database 
+
+## Database Normalization
 
 * Idea of not storing redundant data in a database 
 
-## Dimensional Data Warehouses 
+## Dimensional Data Warehouses
 
 * Often contain data from multiple underlying sources 
-    * may contain row and summary data 
-    * Can contain historical data logs, etc
- 
+  
+  * may contain row and summary data 
+  * Can contain historical data logs, etc
 * Star scheme design (pg 7)
-    * Divides data into facts/dimensions 
-        * Facts tbl = metadata of an entity and measures 
-        * Dimension tbl = property of entity you can group or "slice and dice" the fact 
-        records by, get further info, etc
-
+  
+  * Divides data into facts/dimensions 
+    * Facts tbl = metadata of an entity and measures 
+    * Dimension tbl = property of entity you can group or "slice and dice" the fact 
+      records by, get further info, etc
 * Table *grain*
-    * level of detail; what set of columns makes a row unique 
-    
+  
+  * level of detail; what set of columns makes a row unique 
 * Database roles 
-    * SME's = subject matter experts 
-    * DBA's = Database administrators 
-    * ETL engineers = PEople who extract, transform, and load data from a source system 
+  
+  * SME's = subject matter experts 
+  * DBA's = Database administrators 
+  * ETL engineers = PEople who extract, transform, and load data from a source system 
     into a data warehouse
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-10-28]]
-- [[3-Resources/Book-Notes/SQL-for-Data-Scientists/_README|SQL for Data Scientists]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
+* *2022-10-28*
+* *SQL for Data Scientists*
+* [3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL](../../Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/SQL.md)
+* *Databases*
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

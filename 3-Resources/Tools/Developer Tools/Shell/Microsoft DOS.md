@@ -1,22 +1,15 @@
----
-Date: 2022-02-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: ["Microsoft DOS", "MS-DOS", "Windows Command Line"]
----
-
 # Microsoft DOS - Windows Command Line
 
-***
+---
 
 ## Appendix: Links
 
-- [[Microsoft]]
-- [[Command Line]]
-- [[CLI Tools List]]
+* [Microsoft](../../../../2-Areas/MOCs/Microsoft.md)
+* *Command Line*
+* [CLI Tools List](../../../../2-Areas/Lists/CLI%20Tools%20List.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Microsoft DOS]] AND -"Changelog"
-```
+````

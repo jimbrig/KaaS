@@ -1,15 +1,8 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Topic/Dev/GitHub"]
-Alias: ["GitHub Action - Release"]
----
-
 # GitHub Action - Release
 
 *Source: [r.pkg.template/release.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/release.yaml)*
 
-```yaml
+````yaml
 ---
 name: Release 🚀
 
@@ -40,18 +33,17 @@ jobs:
         with:
           body_path: RELEASE_BODY.txt
           token: ${{ secrets.GITHUB_TOKEN }}
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - Release]] AND -"Changelog"
-```
+````

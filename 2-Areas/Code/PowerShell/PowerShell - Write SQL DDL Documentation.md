@@ -1,44 +1,43 @@
----
-Date: 2022-11-17
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Write SQL DDL Documentation"]
----
-
 # PowerShell - Write SQL DDL Documentation
 
 *Source: https://github.com/Phil-Factor/PowerShell-Utility-Cmdlets/blob/main/Write-DocumentationToSQLDDLFile/Write-DocumentationToSQLDDLFile.ps1*
 
-#Status/Todo 
+\#Status/Todo 
 
-```powershell
+````powershell
 
-```
+````
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-11-17]]
+* *2022-11-17*
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell|PowerShell (MOC)]]
-- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell (Tools)]]
-- [[2-Areas/Code/PowerShell/_README|PowerShell (Code)]]
+* *Code*
 
-***
+* [Development](../../MOCs/Development.md)
+
+* [Microsoft](../../MOCs/Microsoft.md)
+
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+
+* [PowerShell (MOC)](../../MOCs/PowerShell.md)
+
+* *PowerShell (Tools)*
+
+* [PowerShell (Code)](_README.md)
+
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Write SQL DDL Documentation]] AND -"Changelog"
-```
+````
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
-***
+---

@@ -1,23 +1,17 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Audiobook Review: David Allens GTD > Weekly Review"]
----
 # Audiobook Review: David Allen's "GTD > Weekly Review"
 
 ## Metadata
-- Author: [[lifehack.org]]
-- Full Title: Audiobook Review: David Allen's "GTD > Weekly Review"
-- Category: #Type/Highlight/Article
-- URL: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
+
+* Author: *lifehack.org*
+* Full Title: Audiobook Review: David Allen's "GTD > Weekly Review"
+* Category: #Type/Highlight/Article
+* URL: https://www.lifehack.org/articles/featured/audiobook-review-david-allens-gtd-weekly-review.html
 
 ## Highlights
-- Get clear
+
+* Get clear
   The weekly review is an opportunity to clear your head and really explore where you’re at and where you’re headed. Pay special attention to when you schedule it, because it needs to be a time that works best for you — when you’re not only uninterrupted but most likely to be “at peace”, without any huge problems hanging over your head demanding immediate attention. A weekly review can still be useful even if you’re hurried and there are urgent matters pressing, but if your weekly review is always under those conditions, you probably need to schedule it to a more appropriate time. ([View Highlight](https://instapaper.com/read/1380884797/15276020))
-- e.
+* e.
   Be sure you do schedule it, though. For too many of us, the weekly review is a “when I get around to it” kind of commitment, which more or less undoes what a weekly review can offer. Make a hard commitment to yourself, in your calendar, to do a weekly review every week.
   One important point Allen and the others bring up is that a weekly review is not “catch-up” time — it’s not a couple of extra slack hours for doing everything you’ve gotten behind in over the course of the week. This especially applies to email. While Allen does recommend keeping your email inbox empty, if you aren’t doing this on a weekly basis, your weekly review is not the time to start! If you have a large email backlog, schedule time to clear it up over the course of the upcoming week.
   Get current
@@ -40,13 +34,13 @@ Aliases: ["Audiobook Review: David Allens GTD > Weekly Review"]
   My only qualm is the price: $99 US for a 3-disc set. Whether the content of GTD > Weekly Review is worth the price will depend a great deal on who you are; if you’re in David Allen Co.’s target audience of corporate executives, mid-level management, and successful entrepreneurs, then this is definitely a set worth having. Compared to the cost of one of David Allen’s seminars, or even a seminar from a DavidCo coach, $99 is a steal but there are plenty of people who could use this kind of push in the right direction for whom both the seminar and the GTD > Weekly Review set are both too far out of reach.
   If you can get around the price, this is a really valuable extension of the GTD system. I can virtually guarantee that you’ll listen to this more than once — just like Allen’s books, it’s the kind of material that you’ll refer back to again and again.
   Lifehack · March 7, 2008 ([View Highlight](https://instapaper.com/read/1380884797/15276022))
-- Be sure you do schedule it, though. For too many of us, the weekly review is a “when I get around to it” kind of commitment, which more or less undoes what a weekly review can offer. Make a hard commitment to yourself, in your calendar, to do a weekly review every week. ([View Highlight](https://instapaper.com/read/1380884797/15276024))
-- If you have a large email backlog, schedule time to clear it up over the course of the upcoming week. ([View Highlight](https://instapaper.com/read/1380884797/15276026))
-- Review your calendar
+* Be sure you do schedule it, though. For too many of us, the weekly review is a “when I get around to it” kind of commitment, which more or less undoes what a weekly review can offer. Make a hard commitment to yourself, in your calendar, to do a weekly review every week. ([View Highlight](https://instapaper.com/read/1380884797/15276024))
+* If you have a large email backlog, schedule time to clear it up over the course of the upcoming week. ([View Highlight](https://instapaper.com/read/1380884797/15276026))
+* Review your calendar
   How much of your calendar should you review. Allen’s answer is simple: as far back as you need to, and as far forward as you need to. For Allen, this means many months forward, because he travels frequently and wants to make sure his upgrade requests are sent in a timely fashion. For others, this might only be a week or two in advance. Put a little thought into determining your own “event horizon”, the distance in the future when events start to require immediate actions. ([View Highlight](https://instapaper.com/read/1380884797/15276029))
-- Keeping your projects on track
+* Keeping your projects on track
   David Allen calls projects “outcomes”, to distinguish them from actions — you don’t do projects, you do actions that take you towards a desired outcome. Your project list, then, is a place to think, not do. What is the very next action you need to do to move towards each outcome on your list?
   Allen reminds us that life has projects, too — projects aren’t limited to our work and career. Remodeling your house, cleaning your garage, moving — these are all obvious projects that our non-work life might involve, but there are also things like making time for a family outing or spending more time with your kids. It might seem cold to add these to your project lists next to “Create proposal for city education grant” or whatever, but if they’re not on your lists, they’re burning up thought cycles that you could be using to figure out how to spend more time with your kids instead of just worrying that you should. ([View Highlight](https://instapaper.com/read/1380884797/15276030))
-- Checklists and reference lists
+* Checklists and reference lists
   This is probably the least utilized part of the weekly review (itself a poorly utilized part of GTD). Allen says that you should consider creating a checklist for any routine task that you find yourself doing more than once or twice. Checklists help us to a) not rely on memory to make sure everything’s done, and b) not have to think up next actions for tasks we’ve already figured out the next actions for.
   Reference lists are exactly what the name says: lists of reference information you need to refer to often. An example might be books you want to read, logins and passwords, places you want to visit, recipes you want to get, and so on. As you go through your weekly review, make sure you add any relevant information to your reference lists. ([View Highlight](https://instapaper.com/read/1380884797/15276035))

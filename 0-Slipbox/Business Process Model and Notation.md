@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: ["Business Process Model and Notation", "BPMN"]
----
-
 # Business Process Model and Notation - BPMN
 
 *Source: [Business Process Model & Notation™ (BPMN™) | Object Management Group](https://www.omg.org/bpmn/index.htm)*
@@ -19,18 +12,17 @@ BPMN is part of the triple crown of process improvement standards: BPMN, CMMN an
 
 ## Resources
 
-- [[bpmn.pdf|BPMN-Specification.pdf]]
-- [[BPMN-CMMN-DMN-Specifications-at-OMG.pdf]]
+* *BPMN-Specification.pdf*
+* *BPMN-CMMN-DMN-Specifications-at-OMG.pdf*
 
-
-***
+---
 
 #### Related
 
-- [[Development#Conceptual Topics]]
+* [Development > Conceptual Topics](../2-Areas/MOCs/Development.md#conceptual-topics)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Business Process Model and Notation]] AND -"Changelog"
-```
+````

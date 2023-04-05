@@ -1,32 +1,21 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Linux"]
----
-
 # Linux Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Tools/Developer Tools/Linux/_README]]
-- [[Linux]]
-- [[Windows Subsystem for Linux]]
+
+* *3-Resources/Tools/Developer Tools/Linux/_README*
+* [Linux](../../Linux/Linux.md)
+* [Windows Subsystem for Linux](Windows%20Subsystem%20for%20Linux.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Linux Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

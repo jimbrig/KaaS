@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days", "Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days"]
----
 # Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Productivity Prawn
+
+* Productivity Prawn
   Summary:
   If you're working on a book, switching to smart note taking might make it ten per cent less difficult. But the hard work of thinking hard and trying to produce new thoughts is always going to be hard. If these complicated productivity tools don't call to you, that's o k. You knowt go easy on yourself. And if they do kind of call to you, an, you don't have a lot of time to learn em.
   Transcript:
@@ -24,7 +18,7 @@ Aliases: ["Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days", "Ep. 80 �
   you small winds. They're
   Speaker 1
   not winds that you should ignore, but they're not winds you need to chase if they're not calling to you. I with that, a mine. Let's go on to a question now about phantom part time scheduling. ([Time 0:07:06](https://share.snipd.com/snip/a125e97a-6f04-4787-a37f-6315f36e455b))
-- What Do You Do When Your Mind Is Tired?
+* What Do You Do When Your Mind Is Tired?
   Summary:
   When i've been doing deep work and had a busy day, i find i'm craving an hour just to watch something mindless. I don't have the energy to do anything which requires engaging my brain. Does all leisure have to be quality leisure? Whyle: Mineless is fine for leisure, especially if you are exhausted. If you go to your phone and say, entertain me, you're putting yourself at the mercy of some pretty merciless algaritms.
   Transcript:

@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - System PATH Helpers"]
----
-
 # PowerShell - System PATH Helpers
 
 *Source: https://gist.github.com/014f18d00bea1c63ca5da34fa66a71e0#file-syspath-psm1*
 
-```powershell
+````powershell
 Function Add-SystemPath {
   <#
     .SYNOPSIS
@@ -47,21 +40,21 @@ Function Add-SystemPath {
     }
   }
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - System PATH Helpers]] AND -"Changelog"
-```
+````

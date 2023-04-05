@@ -1,14 +1,8 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Rinse and Repeat - Research, Read, Assimilate"
----
-
 # Rinse and Repeat - Research, Read, Assimilate
 
 *Source: [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/)*
 
+ > 
  > I rarely consult secondary sources again. If I have to do so, it means that I did not do the job right the first time.
 
 If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless. You can bet that you’ll forget about the text’s information one day. It’s guaranteed. Thus, reading without taking notes is just a waste of time in the long run. It’s as if reading never happened.
@@ -19,11 +13,11 @@ It’s only rational to take notes when you read a text because a system of note
 
 Taking notes thoroughly means you can rely on your notes alone and rarely need to look up a detail in the original text.
 
-This is a first step to conquer [[Collectors Fallacy]]: to realize that having a text at hand does nothing to increase our knowledge. We have to work with it instead. Reading alone won’t suffice: we have to create notes, too, to create real, sustainable knowledge.
+This is a first step to conquer [Collectors Fallacy](Collectors%20Fallacy.md): to realize that having a text at hand does nothing to increase our knowledge. We have to work with it instead. Reading alone won’t suffice: we have to create notes, too, to create real, sustainable knowledge.
 
 Shorter cycles of research, reading, and knowledge assimilation are better than long ones. With every full cycle from research to knowledge assimilation, we learn more about the topic. When we know more, our decisions are more informed, thus our research gets more efficient. If, on the other hand, we take home a big pile of material to read and process, some of it will turn out be useless once we finished parts of the pile. To minimize waste, both of time and of paper, it’s beneficial to immerse oneself step by step and learn on the way instead of making big up-front decisions based on guesswork.
 
-[[The Knowledge Cycle]]
+[The Knowledge Cycle](The%20Knowledge%20Cycle.md)
 
 To form a habit, you have to set yourself actionable limits and keep score.
 
@@ -40,15 +34,14 @@ Repeat the cycle and keep track of your perceived productivity until you establi
 [Note Taking and The Internet Best Practices](Note%20Taking%20and%20The%20Internet%20Best%20Practices.md)
 [Information Flow](Information%20Flow.md)
 
-
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../2-Areas/MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Rinse and Repeat - Research, Read, Assimilate]] AND -"Changelog"
-```
+````

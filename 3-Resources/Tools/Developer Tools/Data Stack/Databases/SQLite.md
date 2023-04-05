@@ -1,22 +1,14 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
-Alias: "SQLite"
----
-
 # SQLite
 
-***
+---
 
 #### Related
 
-- [[Development]]
-- [[2-Areas/MOCs/R]]
-
+* [Development](../../../../../2-Areas/MOCs/Development.md)
+* [2-Areas/MOCs/R](../../../../../2-Areas/MOCs/R.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQLite]] AND -"Changelog"
-```
+````

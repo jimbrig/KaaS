@@ -1,12 +1,14 @@
 ## Metadata
+
 * URL: [https://blog.r-hub.io/2020/03/12/user-preferences/](https://blog.r-hub.io/2020/03/12/user-preferences/)
-* Author: [[Maëlle Salmon]]
-* Publisher: [[blog.r-hub.io]]
+* Author: *Maëlle Salmon*
+* Publisher: *blog.r-hub.io*
 * Published Date: 2020-03-12
 
 ## Highlights
+
 * Does your R package work best with some configuration? You probably want it to be easily found by your package. Does your R package download huge datasets that don’t change much on the provider side? Maybe you want to save the corresponding data somewhere persistent so that things will go faster during the next R session. In this blog post we shall explain how an R package developer can go about using and setting persistent configuration and data on the user’s machine.
-* “Applications can actually store user level configuration information, cached data, logs, etc. in the user’s home directory, and there is a standard way to do this [depending on the operating system]." R packages that are on CRAN cannot write to the home directory without getting confirmation from the user, but they can and should use standard locations. To find where those are, package developers can use the rappdirs package.
+* “Applications can actually store user level configuration information, cached data, logs, etc. in the user’s home directory, and there is a standard way to do this \[depending on the operating system\]." R packages that are on CRAN cannot write to the home directory without getting confirmation from the user, but they can and should use standard locations. To find where those are, package developers can use the rappdirs package.
 * “Everyone likes it when you remember their name”. Everyone probably likes it too when the barista at their favourite coffee shop remembers their usual order. As an R package developer, what can you do for your R package to correctly assess user preferences and settings?
 * Using options In R, options allow the user to set and examine a variety of global options which affect the way in which R computes and displays its results. For instance, for the usethis package, the usethis.quiet option can control whether usethis is chatty. Users either:
 * Users can use a project-level or more global user-level .Rprofile. The use of a project-level .Rprofile overrides the user-level .Rprofile unless the project-level .Rprofile contains the following lines as mentioned in the blogdown book:

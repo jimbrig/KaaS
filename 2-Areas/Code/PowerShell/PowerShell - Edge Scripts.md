@@ -1,26 +1,18 @@
----
-Date: 2021-11-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: "PowerShell - Edge Scripts"
----
-
 # PowerShell - Edge Scripts
 
 ## Contents
 
-- [[#Backup Edge Profile Module|Backup Edge Profile Module]]
-	- [[#Backup-EDGEProfiles|Backup-EDGEProfiles]]
-	- [[#Restore-EDGEProfiles|Restore-EDGEProfiles]]
-- [[#Personal Script|Personal Script]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Backup Edge Profile Module](PowerShell%20-%20Edge%20Scripts.md#backup-edge-profile-module)
+  * [Backup-EDGEProfiles](PowerShell%20-%20Edge%20Scripts.md#backup-edgeprofiles)
+  * [Restore-EDGEProfiles](PowerShell%20-%20Edge%20Scripts.md#restore-edgeprofiles)
+* [Personal Script](PowerShell%20-%20Edge%20Scripts.md#personal-script)
+* [Appendix: Links](PowerShell%20-%20Edge%20Scripts.md#appendix-links)
 
 ## Backup Edge Profile Module
 
-- `backup-edge-profile.psm1`
+* `backup-edge-profile.psm1`
 
-```powershell
+````powershell
 <#
  .Synopsis
   Allows for easy backup and restore of Microsoft EDGE (Anaheim) Profiles.
@@ -441,11 +433,11 @@ break
 }
 
 Export-ModuleMember -Function Backup-EDGEProfiles, Restore-EDGEProfiles
-```
+````
 
 ### Backup-EDGEProfiles
 
-```powershell
+````powershell
 function Backup-EDGEProfiles {
   <#
    .Synopsis
@@ -568,11 +560,11 @@ function Backup-EDGEProfiles {
   #endregion Execute
 }
 
-```
+````
 
 ### Restore-EDGEProfiles
 
-```powershell
+````powershell
 function Restore-EDGEProfiles {
   <#
    .Synopsis
@@ -671,13 +663,13 @@ function Restore-EDGEProfiles {
   }
   #endregion Execute
 }
-```
+````
 
 ## Personal Script
 
 *Source: [jimbrig/jimsdots My personalized dotfiles and configs for Windows 10 ⚙️](https://github.com/jimbrig/jimsdots/blob/main/edge/backup-edge-settings.ps1)*
 
-```powershell
+````powershell
 # Edge Backup Script (PowerShell Core)
 
 $dotdir = "$env:DOTDIR"
@@ -695,17 +687,16 @@ Compress-Archive -Path "$env:TEMP\edge_dev\User Data" -DestinationPath "$edge_de
 
 Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge\PreferenceMACs' $dotdir\edge\backups\edge\edge_registry_settings.reg }
 Invoke-Command { reg export 'HKCU\Software\Microsoft\Edge Dev\PreferenceMACs' $dotdir\edge\backups\edge_dev\edge_dev_registry_settings.reg }
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
 *Related*
 
-- [[Edge Search Engines]]
+* [Edge Search Engines](../../../0-Slipbox/Edge%20Search%20Engines.md)
 
 *Backlinks:*
 
-- [[Microsoft Edge]]
+* [Microsoft Edge](../../../3-Resources/Tools/Web%20Browsers/Microsoft%20Edge.md)

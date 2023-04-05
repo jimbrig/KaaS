@@ -1,41 +1,34 @@
----
-Date: 2021-11-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: "How to create a passwordless sudoer on Linux"
----
-
 # How to create a passwordless `sudoer` on Linux
 
 *Source: [How to configure passwordless sudo in Linux](https://www.simplified.guide/linux/enable-passwordless-sudo#:~:text=Steps%20to%20setting%20up%20passwordless%20sudo%20in%20Linux%3A,visudo%20by%20saving%20the%20file.%20More%20items...%20)*
 
 Edit the `etc/sudoers.tmp` file:
 
-Using the [[Linux Commands - visudo|visudo]] command:
+Using the [visudo](Linux%20Commands%20-%20visudo.md) command:
 
-```bash
+````bash
 sudo visudo -f /etc/sudoers.d/vips
-```
+````
 
 Then, edit the opened file with the nano editor, adding:
 
-```bash
+````bash
 [your-username] ALL=(ALL) NOPASSWD:ALL
-```
+````
 
 mine looks like:
 
-```bash
+````bash
 jimmy ALL=(ALL) NOPASSWD:ALL
-```
+````
 
 to exit, `Ctrl+X` > `Enter`.
 
-***
+---
 
 Old Method:
 
-```bash
+````bash
 # Edit the sudoers with the visudo command
 sudo visudo
 
@@ -45,11 +38,11 @@ sudo visudo
 # Press CTRL+X to exit
 # Press Y to save
 # Press Enter to confirm
-```
+````
 
 Note that the file now looks like this:
 
-```text
+````text
 # This file MUST be edited with the 'visudo' command as root.
 #
 # Please consider adding local content in /etc/sudoers.d/ instead of
@@ -79,18 +72,20 @@ root    ALL=(ALL:ALL) ALL
 # See sudoers(5) for more information on "@include" directives:
 
 @includedir /etc/sudoers.d
-```
+````
 
-***
+---
 
 ### Appendix: Links
 
 *Backlinks:*
 
-- [[Linux Commands - visudo]]
+* [Linux Commands - visudo](Linux%20Commands%20-%20visudo.md)
 
 *Dataview*
 
-	```dataview
-	list from [[How to create a passwordless sudoer on Linux]] AND -"Changelog"
-	```
+````
+```dataview
+list from [[How to create a passwordless sudoer on Linux]] AND -"Changelog"
+```
+````

@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["#401 —  Gary Keller — How to Focus on the One Important Thing", "#401 —  Gary Keller — How to Focus on the One Important Thing"]
----
-# #401 —  Gary Keller — How to Focus on the One Important Thing
+# \#401 —  Gary Keller — How to Focus on the One Important Thing
 
 ## Metadata
-- Author: [[The Tim Ferriss Show]]
-- Full Title: #401 —  Gary Keller — How to Focus on the One Important Thing
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Tim Ferriss Show*
+* Full Title: #401 —  Gary Keller — How to Focus on the One Important Thing
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- The Focus in Question
+
+* The Focus in Question
   Summary:
   The focusing question is, what's the one thing i can do such that by doing it, everything else is either easier or unnecessary? It's an understanding that you can't do two important things at the same time. The idea behind the focus in question is, are you present in the moment now? You don't do this every day, minute by minute, where you say, wel whats the mos mpportnt thing i could do it now? But it is kind of a way of life, meaning that if you make your moments matter right matter, as in, you're appropriate in the right moment every every everything falls into place for you.
   Transcript:
@@ -24,7 +18,7 @@ Aliases: ["#401 —  Gary Keller — How to Focus on the One Important Thing", "
   no, just gon to say, and those two to three hours are like a film, right? Imean i if that is, youre if you go to see a movie, you are there exclusively to see a movie. So you turn off yourself on, you get sacks in case you're hungry. You might make a stop in the bathroom beforehand. You do all that. So it can be, you can have an uninterrupted two to three hours attt. You said it perfectly, exactly what it is. And it's, it's kind of wild to think how much, if i look back at periods when i've been able to time block that way successfully consistently, and by consistently, i mean even for two weeks, how much can get done if you set aside the equivalent of one movie to single task on one important thing. It's really remarkable. And i think that's a, perhaps a good segway to the focus in question. And this, this is, in your book, the one thing which has come up over and over and over again with interviews on this podcast, particularly those who are in the sort of growth phase, and citing it as extremely important. In the first it's always import i mean, this question, but the particularly important and the kind of make or break it years in the the first handful of years for och printers that i've interviewed on the appo, y asked, could you tell us about the folkus in question, but perhaps how you got to the folks in question, you
   Speaker 1
   know, the em so iwe if we just talked for a second about the focusing question, right? Which is, what's the one i can do such that by doing it, everything else is either easier or unnecessary? It's, it's, it's an understanding that you can't do two important things at the same time. You you can set defntly multi task, but the second that something really matters to you a lot, a you don't multitask, you you, you, you pone in on that, and you, you, you do that thing. Ah, so that the, the idea of the focus in question is, are you present in the moment now? You don't do this every day, minute by minute, where you say, wel whats the mos mpportnt thing i could do it now? What's the one thing i could do it now? What's the one thing i could do it now? But it is kind of a way of life, meaning that, a, if you make your moments matter right matter, as in, you're appropriate in the right moment every every everything falls into place for you. So the whole idea behind the focusing question was to keep when it matters, when it's important to you, making sure that that you're doing the priority right now that will lever your life, grow your life, expand your life right and and it's the, it's the idea that if you, you know, if two people are standing in the same spot, one has a clear focus and understands the thing they need to be doing right now in order to get where they want to go, there their next step is an appropriate step. For the individual who doesn't know what they should do, they're they're most likely going to take the wrong step. And then another wrong step and another wrong step, and over time, they're there, worlds apart. So that everything that we talk about, from calendars to setting goals, creating plans, all of that, it it toi so that you get one thing. And that is, in the moment, right now, you're doing the thing that matters most, such that by doing it, what you're fixing to do next will either be easier, or, i could turn out to be unnecessary. ([Time 1:13:09](https://share.snipd.com/snip/a4196033-1bdd-40af-9cfb-92ffc37eeda2))
-- The Focus in Question
+* The Focus in Question
   Summary:
   The focusing question is, what's the one thing i can do such that by doing it, everything else is either easier or unnecessary? It's an understanding that you can't do two important things at the same time. The idea behind the focus in question is, are you present in the moment now? You don't do this every day, minute by minute, where you say, wel whats the mos mpportnt thing i could do it now? But it is kind of a way of life, meaning that if you make your moments matter right matter, as in, you're appropriate in the right moment every every everything falls into place for you.
   Transcript:

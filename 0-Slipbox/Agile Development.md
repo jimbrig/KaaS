@@ -1,36 +1,27 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Concept", "#Topic/Dev"]
-Alias: "Agile Development"
----
-
 # Agile Development
 
 *Source: [What is Agile Development? - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-us/devops/plan/what-is-agile-development)*
 
 ## Contents
 
-- [[#What is Agile Development?|What is Agile Development?]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [What is Agile Development?](Agile%20Development.md#what-is-agile-development)
+* [Appendix: Links](Agile%20Development.md#appendix-links)
 
 ## What is Agile Development?
 
-[Agile](https://docs.microsoft.com/en-us/devops/plan/what-is-agile) development is a term used to describe iterative software development. Iterative software development shortens the DevOps lifecycle by executing against work in smaller increments, usually called _sprints_. Sprints are typically 1-4 weeks long. Agile development is often contrasted with traditional or waterfall development, where larger projects are planned up front and executed against that plan.
+[Agile](https://docs.microsoft.com/en-us/devops/plan/what-is-agile) development is a term used to describe iterative software development. Iterative software development shortens the DevOps lifecycle by executing against work in smaller increments, usually called *sprints*. Sprints are typically 1-4 weeks long. Agile development is often contrasted with traditional or waterfall development, where larger projects are planned up front and executed against that plan.
 
 Delivering production quality code every sprint requires the Agile development team to account for the accelerated pace. All coding, testing, and quality verification must be done each and every sprint. Unless a team is properly set up, the results can fall short of expectations. While these disappointments offer great learning opportunities, wouldn't it be better to learn some key lessons before getting started?
 
 This article lays out a few key success factors for Agile development teams:
 
--   Diligent backlog refinement
--   Integrate early and often
--   Minimize technical debt
-
+* Diligent backlog refinement
+* Integrate early and often
+* Minimize technical debt
 
 ## Diligent Backlog Refinement
 
-An Agile development team works off of a backlog of requirements, often called _user stories_. The backlog is prioritized so the most important user stories are at the top. The product owner owns the backlog and adds, changes, and re-prioritizes user stories based on the customer's needs.
+An Agile development team works off of a backlog of requirements, often called *user stories*. The backlog is prioritized so the most important user stories are at the top. The product owner owns the backlog and adds, changes, and re-prioritizes user stories based on the customer's needs.
 
 ![](https://i.imgur.com/HakKxTk.png)
 
@@ -40,11 +31,11 @@ The product owner's job is to ensure that every sprint, the engineers have clear
 
 When refining the backlog, there are some key considerations to remember.
 
-1.  **Refining user stories is often a long-lead activity.** Elegant user interfaces, beautiful screen designs, and customer delighting solutions all take time and energy to create. Diligent product owners refine user stories 2-3 sprints in advance. They account for design iterations and customer reviews. They work to ensure every user story is something the Agile team is proud to deliver to the customer.
-    
-2.  **A user story is not refined unless the team says it is.** The team needs to review the user story and agree it's ready to work on. If a team has not seen the user story until day 1 of a sprint, that's a big red flag.
-    
-3.  **User stories further down the backlog can remain ambiguous.** Don't waste time refining lower priority items. Stay intently focused on the top of the backlog.
+1. **Refining user stories is often a long-lead activity.** Elegant user interfaces, beautiful screen designs, and customer delighting solutions all take time and energy to create. Diligent product owners refine user stories 2-3 sprints in advance. They account for design iterations and customer reviews. They work to ensure every user story is something the Agile team is proud to deliver to the customer.
+
+1. **A user story is not refined unless the team says it is.** The team needs to review the user story and agree it's ready to work on. If a team has not seen the user story until day 1 of a sprint, that's a big red flag.
+
+1. **User stories further down the backlog can remain ambiguous.** Don't waste time refining lower priority items. Stay intently focused on the top of the backlog.
 
 ## Integrate Early and Often
 
@@ -56,13 +47,13 @@ CI/CD also influences your software architecture. It ensures you deliver buildab
 
 There are some key CI/CD activities that are critially important to effective Agile development.
 
-1.  **Unit testing.** Unit tests are the first defense against human error. Unit tests should be considered part of coding and checked in with the code. Executing unit tests should be part of every build. Failed unit tests mean a failed build.
-    
-2.  **Build automation.** The build system should automatically pull code and tests directly from source control when builds execute.
-    
-3.  **Branch and build policies.** Configure branch and build policies to build automatically as the team checks code in to a specific branch.
-    
-4.  **Deploy to an environment.** Set up a release pipeline that automatically deploys built projects to an environment that mimics production.
+1. **Unit testing.** Unit tests are the first defense against human error. Unit tests should be considered part of coding and checked in with the code. Executing unit tests should be part of every build. Failed unit tests mean a failed build.
+
+1. **Build automation.** The build system should automatically pull code and tests directly from source control when builds execute.
+
+1. **Branch and build policies.** Configure branch and build policies to build automatically as the team checks code in to a specific branch.
+
+1. **Deploy to an environment.** Set up a release pipeline that automatically deploys built projects to an environment that mimics production.
 
 ## Minimize Technical Debt
 
@@ -76,10 +67,10 @@ Being Agile means learning from experience and continually improving. Agile deve
 
 For example:
 
--   A team delivers value to the customer, gets feedback, and then modifies their backlog based on that feedback.
--   They learn that their automated builds are missing key tests and include work in their next sprint to address it.
--   They find that certain features perform poorly in production and make plans to improve performance.
--   Someone on the team hears of a new practice and the team decides to try it out for a few sprints.
+* A team delivers value to the customer, gets feedback, and then modifies their backlog based on that feedback.
+* They learn that their automated builds are missing key tests and include work in their next sprint to address it.
+* They find that certain features perform poorly in production and make plans to improve performance.
+* Someone on the team hears of a new practice and the team decides to try it out for a few sprints.
 
 Teams just starting with Agile development should expect more learning opportunities. They are an invaluable part of the process because they lead to growth and improvement.
 
@@ -91,20 +82,20 @@ As organizations grow, it can be a challenge to stay disciplined. Learn more abo
 
 ### Additional Resources
 
-- [What is Agile? - Azure DevOps](https://docs.microsoft.com/en-us/devops/plan/what-is-agile)
-- [What is Scrum? - Azure DevOps](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)
-- [What is Kanban? - Azure DevOps (microsoft.com)](https://docs.microsoft.com/en-us/devops/plan/what-is-kanban)
-- [Introduction to planning efficient workloads with DevOps - Azure DevOps (microsoft.com)](https://docs.microsoft.com/en-us/devops/plan/planning-efficient-workloads-with-devops)
+* [What is Agile? - Azure DevOps](https://docs.microsoft.com/en-us/devops/plan/what-is-agile)
+* [What is Scrum? - Azure DevOps](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)
+* [What is Kanban? - Azure DevOps (microsoft.com)](https://docs.microsoft.com/en-us/devops/plan/what-is-kanban)
+* [Introduction to planning efficient workloads with DevOps - Azure DevOps (microsoft.com)](https://docs.microsoft.com/en-us/devops/plan/planning-efficient-workloads-with-devops)
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Azure DevOps]]
+* [Development](../2-Areas/MOCs/Development.md)
+* [Azure DevOps](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20DevOps.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Agile Development]] AND -"Changelog"
-```
+````

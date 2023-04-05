@@ -1,21 +1,14 @@
----
-Date: 2022-08-10
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["MZ Tools For VBA Development"]
----
-
 # MZ Tools For VBA Development
 
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/_README|Tools]]
-- [[__README|VBA]]
+* *Tools*
+* *VBA*
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[MZ Tools For VBA Development]] AND -"Changelog"
-```
+````

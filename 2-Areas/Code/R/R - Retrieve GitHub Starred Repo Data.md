@@ -1,23 +1,16 @@
----
-Date: 2022-02-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["R - Retrieve GitHub Starred Repo Data"]
----
-
 # R - Retrieve GitHub Starred Repo Data
 
-*Source: [[Github Stars] Pull Github Starred Repositories using Github API and gh R Packages](https://gist.github.com/jimbrig/75fd952bad479737dc7b32b6ec203652#file-get_github_stars-r)*
+*Source: [\[Github Stars\] Pull Github Starred Repositories using Github API and gh R Packages](https://gist.github.com/jimbrig/75fd952bad479737dc7b32b6ec203652#file-get_github_stars-r)*
 
 ## Description ℹ️
 
-Pull Github Starred Repositories using Github API and the [[R Package - gh|gh]] R Package.
+Pull Github Starred Repositories using Github API and the [gh](../../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20gh.md) R Package.
 
-Caches data utilizing the [[R Package - qs|qs]] (quick-serialization) R package for optimal storage. 
+Caches data utilizing the [qs](../../../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/General%20R%20Packages/R%20Package%20-%20qs.md) (quick-serialization) R package for optimal storage. 
 
 ## Snippet ✂️
 
-```R
+````R
 # https://developer.github.com/v3/activity/starring/
 mystars <- gh::gh("/users/:username/starred", username = "jimbrig", .limit = Inf)
 
@@ -50,19 +43,18 @@ fs::dir_create("data")
 
 qs::qsave(out, paste0("data/", Sys.Date(), "-jimbrig-github-starred-repos.qs"))
 
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R - Retrieve GitHub Starred Repo Data]] AND -"Changelog"
-```
+````

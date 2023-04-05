@@ -1,27 +1,19 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
-Alias: ["R Package - importTablesMSSQL", "importTablesMSSQL"]
----
-
 # R Package - importTablesMSSQL
 
 *Source: [cadnza/importTablesMSSQL: Simple R package to import tables from Microsoft SQL Server (github.com)](https://github.com/cadnza/importTablesMSSQL)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Installation|Installation]]
-- [[#Usage|Usage]]
-- [[#Code|Code]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Overview](R%20Package%20-%20importTablesMSSQL.md#overview)
+* [Installation](R%20Package%20-%20importTablesMSSQL.md#installation)
+* [Usage](R%20Package%20-%20importTablesMSSQL.md#usage)
+* [Code](R%20Package%20-%20importTablesMSSQL.md#code)
+* [Appendix: Links](R%20Package%20-%20importTablesMSSQL.md#appendix-links)
 
 ## Overview
 
-> Simple R package to import tables from Microsoft SQL Server.
+ > 
+ > Simple R package to import tables from Microsoft SQL Server.
 
 Really a very simple package. `importTablesMSSQL` includes one function of the same name, and it imports tables from SQL Server into the R global environment using the `DBI` package. It's intended for multi-table pulls in such cases that render individual queries unwieldy, but it pulls single tables just fine, too.
 
@@ -29,19 +21,19 @@ Really a very simple package. `importTablesMSSQL` includes one function of the s
 
 To install, run the following command in the R console after installing the `devtools` package:
 
-```R
+````R
 devtools::install_github("cadnza/importTablesMSSQL")
-```
+````
 
 If you don't have `devtools`, you can get it here:
 
-```R
+````R
 install.packages("devtools")
-```
+````
 
 ## Usage
 
-```R
+````R
 ?importTablesMSSQL
 
 # Clear environment except for imported tables ----
@@ -74,14 +66,13 @@ importTablesMSSQL(
 
 # View SalesPerson dataframe ----
 View(AdventureWorks.Sales.vSalesPerson)
-```
+````
 
 ## Code
 
-- See [importTablesMSSQL.R](https://github.com/cadnza/importTablesMSSQL/blob/master/R/importTablesMSSQL.R):
+* See [importTablesMSSQL.R](https://github.com/cadnza/importTablesMSSQL/blob/master/R/importTablesMSSQL.R):
 
-
-```R
+````R
 importTablesMSSQL <- function(
 	conn,
 	tables=NA,
@@ -244,25 +235,24 @@ importTablesMSSQL <- function(
 	}
 
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
-- [[R]]
-- [[R Database Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *R Database Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R - Database Packages List](../../../../../../../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - importTablesMSSQL.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - importTablesMSSQL]] AND -"Changelog"
-```
+````

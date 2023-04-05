@@ -1,18 +1,11 @@
----
-Date: 2022-09-18
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "RMarkdown"
----
-
 # RMarkdown
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[RMarkdown]] AND -"Changelog"
-```
+````
 
-***
+---
 
-- Date: [[2022-09-18]]
+* Date: [2022-09-18](../../2-Areas/Daily-Notes/2022-09-18.md)

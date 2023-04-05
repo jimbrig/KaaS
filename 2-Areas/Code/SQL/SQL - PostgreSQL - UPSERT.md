@@ -1,15 +1,8 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - UPSERT"]
----
-
 # SQL - PostgreSQL - UPSERT
 
 *Source: https://gist.github.com/nosamanuel/11260660*
 
-```SQL
+````SQL
 create table foo (id serial primary key, data json);
 
 with updated_foo as (
@@ -31,21 +24,20 @@ select 1, '"foo"'
 where not exists(select id from updated_foo);
 
 -- data is updated with value "bar"
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - UPSERT]] AND -"Changelog"
-```
+````

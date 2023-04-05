@@ -1,10 +1,3 @@
----
-Date: 2022-07-29
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Development Best Practices - Staying Organized"
----
-
 # Development Best Practices - Staying Organized
 
 ## Overview
@@ -23,16 +16,16 @@ This is true that having backup is one of the most important best practices, but
 
 It is strongly recommended to use proper source code version control system. There are many source code version control software applications available for free (like SCCS, CVS, Subversion etc.) which you can use to store different versions of the software. But while using a source code control system, follow the rules below:
 
--   Always take source code from the version control system.
--   Always assign a new version to every change.
--   Always put source code back into control system.
+* Always take source code from the version control system.
+* Always assign a new version to every change.
+* Always put source code back into control system.
 
 ## Appendix: Links
 
-- [[Development]]
+* [Development](../2-Areas/MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Development Best Practices - Staying Organized]] AND -"Changelog"
-```
+````

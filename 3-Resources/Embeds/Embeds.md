@@ -1,34 +1,23 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Embeds"]
----
-
 # Embeds Overview
 
 %% Begin Waypoint %%
-- [[3-Resources/Embeds/_README]]
-- [[dbDiagram]]
-- [[Embeds]]
-- [[thiscodeWorks Code Snippets]]
-- [[Todoist-Embed]]
+
+* *3-Resources/Embeds/_README*
+* [dbDiagram](dbDiagram.md)
+* [Embeds](Embeds.md)
+* [thiscodeWorks Code Snippets](thiscodeWorks%20Code%20Snippets.md)
+* [Todoist-Embed](Todoist-Embed.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Embeds Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

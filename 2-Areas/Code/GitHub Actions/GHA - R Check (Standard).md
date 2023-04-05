@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - Standard R CMD Check"]
----
-
 # GitHub Action - Standard R CMD Check
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#standard-ci-workflow*
@@ -15,10 +8,10 @@ This workflow runs R CMD check via the [rcmdcheck](https://github.com/r-lib/rcmd
 
 ### When should you use it?
 
-1.  You plan to submit your package to CRAN or Bioconductor
-2.  Your package has OS-specific code
+1. You plan to submit your package to CRAN or Bioconductor
+1. Your package has OS-specific code
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -77,18 +70,17 @@ jobs:
         with:
           name: ${{ runner.os }}-r${{ matrix.config.r }}-results
           path: check
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - Standard R CMD Check]] AND -"Changelog"
-```
+````

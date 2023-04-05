@@ -1,22 +1,14 @@
----
-Date: 2022-03-29
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - R pkgcheck"]
----
-
 # GitHub Action - R pkgcheck
 
 *Source: [ropensci-review-tools/pkgcheck-action: GitHub action for {pkgcheck}](https://github.com/ropensci-review-tools/pkgcheck-action)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Usage|Usage]]
-	- [[#Usage#Workflow parameters|Workflow parameters]]
-	- [[#Usage#Posting {pgkcheck} results to a GitHub issue in your repository|Posting {pgkcheck} results to a GitHub issue in your repository]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](GHA%20-%20R%20pkgcheck.md#overview)
+* [Usage](GHA%20-%20R%20pkgcheck.md#usage)
+  * [Workflow parameters](GHA%20-%20R%20pkgcheck.md#usage-workflow-parameters)
+  * [Posting {pgkcheck} results to a GitHub issue in your repository](GHA%20-%20R%20pkgcheck.md#usage-posting-pgkcheck-results-to-a-github-issue-in-your-repository)
+* [Appendix: Links](GHA%20-%20R%20pkgcheck.md#appendix-links)
 
 ## Overview
 
@@ -28,7 +20,7 @@ Like the GitHub actions functions from [the `usethis` package](https://usethis.r
 
 The default workflow has the following relatively simple structure:
 
-```yaml
+````yaml
 name: pkgcheck
 
 # This will cancel running jobs once a new run is triggered
@@ -49,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: ropensci-review-tools/pkgcheck-action@main
-```
+````
 
 There are also several parameters which can be used to modify the workflow, as described in the following section.
 
@@ -58,7 +50,7 @@ There are also several parameters which can be used to modify the workflow, as d
 The [`yaml` workflow file](https://github.com/ropensci-review-tools/pkgcheck-action/blob/main/action.yaml)
 which defines this action includes the following list of inputs:
 
-```yaml
+````yaml
 inputs:
   ref:
     description: "The ref to checkout and check. Set to empty string to skip checkout."
@@ -85,27 +77,27 @@ inputs:
     description: "Should issue results be appended to existing issue, or posted in new issues."
     default: true
     required: true
-```
+````
 
 The easiest way to customize these inputs is with [the `pkgcheck::use_github_action_pkgcheck()` function](https://docs.ropensci.org/pkgcheck/reference/use_github_action_pkgcheck.html) in R, the documentation of which includes the following example:
 
-```r
+````r
 use_github_action_pkgcheck (inputs = list (`post-to-issue` = "false"))
-```
+````
 
 That will produce a `.github/workflows/pkgcheck.yaml` file (or will update an existing file by setting the additional parameter, `overwrite = TRUE`) with the `job:` section changed from the default version shown above of:
 
-```yaml
+````yaml
 jobs: 
   check:
     runs-on: ubuntu-latest
     steps:
       - uses: ropensci-review-tools/pkgcheck-action@main
-```
+````
 
 to the modified version of:
 
-```yaml
+````yaml
 jobs: 
   check:
     runs-on: ubuntu-latest
@@ -113,7 +105,7 @@ jobs:
       - uses: ropensci-review-tools/pkgcheck-action@main
         with:
           summary-only: false
-```
+````
 
 That demonstrates that setting any of these parameters to non-default values by passing them as named list items to `pkgcheck::use_github_action_pkgcheck()` appends additional `yaml` lines to the workflow file through the `with:` statement.
 
@@ -121,9 +113,9 @@ Workflows can thus be controlled either from R as shown above, or by directly ed
 
 In R:
 
-- Parameters must be passed as named items of a list named "inputs"
-- Parameter names containing dashes must be specified within backticks.
-- Parameter values must be specified in quotation marks.
+* Parameters must be passed as named items of a list named "inputs"
+* Parameter names containing dashes must be specified within backticks.
+* Parameter values must be specified in quotation marks.
 
 In yaml scripts, parameter names and values should be specified exactly "as is", without quotation marks or backticks.
 
@@ -136,17 +128,16 @@ This default behaviour protects your repository from malicious use of `pull_requ
 
 :warning::warning: ***Never use the `pull_request_target` trigger as this will allow forks to run arbitrary code with access to your repos secrets***:warning::warning: For more information see [here](https://securitylab.github.com/research/github-actions-preventing-pwn-requests/).
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - R pkgcheck]] AND -"Changelog"
-```
+````

@@ -1,30 +1,21 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Data"]
-Alias: ["R Package - dlookr", "dlookr"]
----
-
 # R Package - `dlookr`
 
 *Source: [choonghyunryu/dlookr: Tools for Data Diagnosis, Exploration, Transformation (github.com)](https://github.com/choonghyunryu/dlookr)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Install `dlookr`|Install `dlookr`]]
-- [[#Usage|Usage]]
-	- [[#Data Quality Diagnosis|Data Quality Diagnosis]]
-		- [[#Data: `nycflights13`|Data: `nycflights13`]]
-		- [[#General Diagnosis of All Variables with `diagnose()`|General Diagnosis of All Variables with `diagnose()`]]
-		- [[#Diagnosis of numeric variables with `diagnose_numeric()`|Diagnosis of numeric variables with `diagnose_numeric()`]]
-		- [[#Diagnosis of Categorical Variables with `diagnose_category()`|Diagnosis of Categorical Variables with `diagnose_category()`]]
-		- [[#Diagnosing Outliers with `diagnose_outlier()`|Diagnosing Outliers with `diagnose_outlier()`]]
-		- [[#Visualization of outliers using `plot_outlier()`|Visualization of outliers using `plot_outlier()`]]
-	- [[#To Be Continued...|To Be Continued...]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Overview](R%20Package%20-%20dlookr.md#overview)
+* \[\[\#Install `dlookr`\|Install `dlookr`\]\]
+* [Usage](R%20Package%20-%20dlookr.md#usage)
+  * [Data Quality Diagnosis](R%20Package%20-%20dlookr.md#data-quality-diagnosis)
+    * \[\[\#Data: `nycflights13`\|Data: `nycflights13`\]\]
+    * \[\[\#General Diagnosis of All Variables with `diagnose()`\|General Diagnosis of All Variables with `diagnose()`\]\]
+    * \[\[\#Diagnosis of numeric variables with `diagnose_numeric()`\|Diagnosis of numeric variables with `diagnose_numeric()`\]\]
+    * \[\[\#Diagnosis of Categorical Variables with `diagnose_category()`\|Diagnosis of Categorical Variables with `diagnose_category()`\]\]
+    * \[\[\#Diagnosing Outliers with `diagnose_outlier()`\|Diagnosing Outliers with `diagnose_outlier()`\]\]
+    * \[\[\#Visualization of outliers using `plot_outlier()`\|Visualization of outliers using `plot_outlier()`\]\]
+  * [To Be Continued...](R%20Package%20-%20dlookr.md#to-be-continued)
+* [Appendix: Links](R%20Package%20-%20dlookr.md#appendix-links)
 
 ## Overview
 
@@ -32,12 +23,12 @@ Diagnose, explore and transform data with `dlookr`.
 
 Features:
 
--   Diagnose data quality.
--   Find appropriate scenarios to pursuit the follow-up analysis through data exploration and understanding.
--   Derive new variables or perform variable transformations.
--   Automatically generate reports for the above three tasks.
--   Supports quality diagnosis and EDA of table of DBMS.
-    -   version (≥ 0.3.2)
+* Diagnose data quality.
+* Find appropriate scenarios to pursuit the follow-up analysis through data exploration and understanding.
+* Derive new variables or perform variable transformations.
+* Automatically generate reports for the above three tasks.
+* Supports quality diagnosis and EDA of table of DBMS.
+  * version (≥ 0.3.2)
 
 The name `dlookr` comes from `looking at the data` in the data analysis process.
 
@@ -45,22 +36,22 @@ The name `dlookr` comes from `looking at the data` in the data analysis process.
 
 The released version is available on CRAN
 
-```R
+````R
 install.packages("dlookr")
-```
+````
 
 Or you can get the development version without vignettes from GitHub:
 
-```R
+````R
 devtools::install_github("choonghyunryu/dlookr")
-```
+````
 
 Or you can get the development version with vignettes from GitHub:
 
-```R
+````R
 install.packages(c("nycflights13", "ISLR", "DBI", "RSQLite"))
 devtools::install_github("choonghyunryu/dlookr", build_vignettes = TRUE)
-```
+````
 
 ## Usage
 
@@ -68,14 +59,14 @@ devtools::install_github("choonghyunryu/dlookr", build_vignettes = TRUE)
 
 Provided vignettes is as follows.
 
--   Data quality diagnosis for `data.frame`, `tbl_df`, and `table` of [[Database Management System (DBMS)|DBMS]]
--   Exploratory Data Analysis for `data.frame`, `tbl_df`, and `table` of [[Database Management System (DBMS)|DBMS]]
--   Data Transformation
--   Data diagnosis and EDA for table of [[Database Management System (DBMS)|DBMS]]
+* Data quality diagnosis for `data.frame`, `tbl_df`, and `table` of [DBMS](../../../../../../../0-Slipbox/Database%20Management%20System%20%28DBMS%29.md)
+* Exploratory Data Analysis for `data.frame`, `tbl_df`, and `table` of [DBMS](../../../../../../../0-Slipbox/Database%20Management%20System%20%28DBMS%29.md)
+* Data Transformation
+* Data diagnosis and EDA for table of [DBMS](../../../../../../../0-Slipbox/Database%20Management%20System%20%28DBMS%29.md)
 
-```R
+````R
 browseVignettes(package = "dlookr")
-```
+````
 
 ### Data Quality Diagnosis
 
@@ -83,7 +74,7 @@ browseVignettes(package = "dlookr")
 
 To illustrate basic use of the `dlookr` package, use the `flights` data from the `nycflights13` package. Once loading `nycflights13` library, the `flights` data frame is available. The `flights` data frame contains departure and arrival information on all flights departing from NYC(i.e. JFK, LGA or EWR) in 2013.
 
-``` r
+````r
 library(nycflights13)
 dim(flights)
 #> [1] 336776     19
@@ -104,7 +95,7 @@ flights
 #> # … with 336,766 more rows, and 11 more variables: arr_delay <dbl>,
 #> #   carrier <chr>, flight <int>, tailnum <chr>, origin <chr>, dest <chr>,
 #> #   air_time <dbl>, distance <dbl>, hour <dbl>, minute <dbl>, time_hour <dttm>
-```
+````
 
 #### General Diagnosis of All Variables with `diagnose()`
 
@@ -112,16 +103,16 @@ flights
 
 The variables of the `tbl_df` object returned by `diagnose ()` are as follows.
 
--   `variables` : variable names
--   `types` : the data type of the variables
--   `missing_count` : number of missing values
--   `missing_percent` : percentage of missing values
--   `unique_count` : number of unique values
--   `unique_rate` : rate of unique value. unique_count / number of observation
+* `variables` : variable names
+* `types` : the data type of the variables
+* `missing_count` : number of missing values
+* `missing_percent` : percentage of missing values
+* `unique_count` : number of unique values
+* `unique_rate` : rate of unique value. unique_count / number of observation
 
 For example, we can diagnose all variables in `flights`:
 
-``` r
+````r
 library(dlookr)
 library(dplyr)
 
@@ -148,16 +139,16 @@ diagnose(flights)
 #> 17 hour          numeric              0           0               20  0.0000594 
 #> 18 minute        numeric              0           0               60  0.000178  
 #> 19 time_hour     POSIXct              0           0             6936  0.0206
-```
+````
 
--   `Missing Value(NA)` : Variables with many missing values, i.e. those with a `missing_percent` close to 100, should be excluded from the analysis.
--   `Unique value` : Variables with a unique value (`unique_count` = 1) are considered to be excluded from data analysis. And if the data type is not numeric (integer, numeric) and the number of unique values is equal to the number of observations (unique_rate = 1), then the variable is likely to be an identifier. Therefore, this variable is also not suitable for the analysis model.
+* `Missing Value(NA)` : Variables with many missing values, i.e. those with a `missing_percent` close to 100, should be excluded from the analysis.
+* `Unique value` : Variables with a unique value (`unique_count` = 1) are considered to be excluded from data analysis. And if the data type is not numeric (integer, numeric) and the number of unique values is equal to the number of observations (unique_rate = 1), then the variable is likely to be an identifier. Therefore, this variable is also not suitable for the analysis model.
 
 `year` can be considered not to be used in the analysis model since `unique_count` is 1. However, you do not have to remove it if you configure `date` as a combination of `year`, `month`, and `day`.
 
 For example, we can diagnose only a few selected variables:
 
-``` r
+````r
 # Select columns by name
 diagnose(flights, year, month, day)
 #> # A tibble: 3 x 6
@@ -195,11 +186,11 @@ diagnose(flights, -(year:day))
 #> 14 hour          numeric              0           0               20  0.0000594 
 #> 15 minute        numeric              0           0               60  0.000178  
 #> 16 time_hour     POSIXct              0           0             6936  0.0206
-```
+````
 
 By using with dplyr, variables including missing values can be sorted by the weight of missing values.:
 
-``` r
+````r
 flights %>%
   diagnose() %>%
   select(-unique_count, -unique_rate) %>% 
@@ -214,7 +205,7 @@ flights %>%
 #> 4 dep_time  integer            8255           2.45 
 #> 5 dep_delay numeric            8255           2.45 
 #> 6 tailnum   character          2512           0.746
-```
+````
 
 #### Diagnosis of numeric variables with `diagnose_numeric()`
 
@@ -222,15 +213,15 @@ flights %>%
 
 The variables of the `tbl_df` object returned by `diagnose_numeric()` are as follows.
 
--   `min` : minimum value
--   `Q1` : 1/4 quartile, 25th percentile
--   `mean` : arithmetic mean
--   `median` : median, 50th percentile
--   `Q3` : 3/4 quartile, 75th percentile
--   `max` : maximum value
--   `zero` : number of observations with a value of 0
--   `minus` : number of observations with negative numbers
--   `outlier` : number of outliers
+* `min` : minimum value
+* `Q1` : 1/4 quartile, 25th percentile
+* `mean` : arithmetic mean
+* `median` : median, 50th percentile
+* `Q3` : 3/4 quartile, 75th percentile
+* `max` : maximum value
+* `zero` : number of observations with a value of 0
+* `minus` : number of observations with negative numbers
+* `outlier` : number of outliers
 
 The summary() function summarizes the distribution of individual variables in the data frame and outputs it to the console. The summary values of numeric variables are `min`, `Q1`, `mean`, `median`, `Q3` and `max`, which help to understand the distribution of data.
 
@@ -240,7 +231,7 @@ However, the result displayed on the console has the disadvantage that the analy
 
 `diagnose_numeric()` can diagnose all numeric variables of `flights` as follows.:
 
-``` r
+````r
 diagnose_numeric(flights)
 #> # A tibble: 14 x 10
 #>    variables        min    Q1    mean median    Q3   max  zero  minus outlier
@@ -259,11 +250,11 @@ diagnose_numeric(flights)
 #> 12 distance          17   502 1040.      872  1389  4983     0      0     715
 #> 13 hour               1     9   13.2      13    17    23     0      0       0
 #> 14 minute             0     8   26.2      29    44    59 60696      0       0
-```
+````
 
 If a numeric variable can not logically have a negative or zero value, it can be used with `filter()` to easily find a variable that does not logically match:
 
-``` r
+````r
 diagnose_numeric(flights) %>% 
   filter(minus > 0 | zero > 0) 
 #> # A tibble: 3 x 10
@@ -272,7 +263,7 @@ diagnose_numeric(flights) %>%
 #> 1 dep_delay   -43    -5 12.6      -2    11  1301 16514 183575   43216
 #> 2 arr_delay   -86   -17  6.90     -5    14  1272  5409 188933   27880
 #> 3 minute        0     8 26.2      29    44    59 60696      0       0
-```
+````
 
 #### Diagnosis of Categorical Variables with `diagnose_category()`
 
@@ -282,16 +273,16 @@ The `top` argument specifies the number of levels to return for each variable. T
 
 The variables of the `tbl_df` object returned by `diagnose_category()` are as follows.
 
--   `variables` : variable names
--   `levels`: level names
--   `N` : number of observation
--   `freq` : number of observation at the levels
--   `ratio` : percentage of observation at the levels
--   `rank` : rank of occupancy ratio of levels
+* `variables` : variable names
+* `levels`: level names
+* `N` : number of observation
+* `freq` : number of observation at the levels
+* `ratio` : percentage of observation at the levels
+* `rank` : rank of occupancy ratio of levels
 
 `diagnose_category()` can diagnose all categorical variables of `flights` as follows.:
 
-``` r
+````r
 diagnose_category(flights)
 #> # A tibble: 43 x 6
 #>    variables levels      N  freq ratio  rank
@@ -307,22 +298,22 @@ diagnose_category(flights)
 #>  9 carrier   WN     336776 12275  3.64     9
 #> 10 carrier   VX     336776  5162  1.53    10
 #> # … with 33 more rows
-```
+````
 
 In collaboration with `filter()` in the `dplyr` package, we can see that the `tailnum` variable is ranked in top 1 with 2,512 missing values in the case where the missing value is included in the top 10:
 
-``` r
+````r
 diagnose_category(flights) %>% 
   filter(is.na(levels))
 #> # A tibble: 1 x 6
 #>   variables levels      N  freq ratio  rank
 #>   <chr>     <chr>   <int> <int> <dbl> <int>
 #> 1 tailnum   <NA>   336776  2512 0.746     1
-```
+````
 
 The following example returns a list where the level’s relative percentage is 0.01% or less. Note that the value of the `top` argument is set to a large value such as 500. If the default value of 10 was used, values below 0.01% would not be included in the list:
 
-``` r
+````r
 flights %>%
   diagnose_category(top = 500)  %>%
   filter(ratio <= 0.01)
@@ -339,7 +330,7 @@ flights %>%
 #>  8 dest      ANC    336776     8 0.00238    103
 #>  9 dest      LEX    336776     1 0.000297   104
 #> 10 dest      LGA    336776     1 0.000297   104
-```
+````
 
 In the analytics model, you can also consider removing levels where the relative frequency is very small in the observations or, if possible, combining them together.
 
@@ -349,15 +340,15 @@ In the analytics model, you can also consider removing levels where the relative
 
 The variables of the `tbl_df` object returned by `diagnose_outlier()` are as follows.
 
--   `outliers_cnt` : number of outliers
--   `outliers_ratio` : percent of outliers
--   `outliers_mean` : arithmetic average of outliers
--   `with_mean` : arithmetic average of with outliers
--   `without_mean` : arithmetic average of without outliers
+* `outliers_cnt` : number of outliers
+* `outliers_ratio` : percent of outliers
+* `outliers_mean` : arithmetic average of outliers
+* `with_mean` : arithmetic average of with outliers
+* `without_mean` : arithmetic average of without outliers
 
 `diagnose_outlier()` can diagnose outliers of all numerical variables on `flights` as follows:
 
-``` r
+````r
 diagnose_outlier(flights)
 #> # A tibble: 14 x 6
 #>    variables    outliers_cnt outliers_ratio outliers_mean with_mean without_mean
@@ -376,11 +367,11 @@ diagnose_outlier(flights)
 #> 12 distance              715       0.212           4955.    1040.       1032.   
 #> 13 hour                    0       0                NaN       13.2        13.2  
 #> 14 minute                  0       0                NaN       26.2        26.2
-```
+````
 
 Numeric variables that contained outliers are easily found with `filter()`.:
 
-``` r
+````r
 diagnose_outlier(flights) %>% 
   filter(outliers_cnt > 0) 
 #> # A tibble: 5 x 6
@@ -391,11 +382,11 @@ diagnose_outlier(flights) %>%
 #> 3 flight               1       0.000297        8500     1972.       1972.   
 #> 4 air_time          5448       1.62             400.     151.        146.   
 #> 5 distance           715       0.212           4955.    1040.       1032.
-```
+````
 
 The following example finds a numeric variable with an outlier ratio of 5% or more, and then returns the result of dividing mean of outliers by total mean in descending order:
 
-``` r
+````r
 diagnose_outlier(flights) %>% 
   filter(outliers_ratio > 5) %>% 
   mutate(rate = outliers_mean / with_mean) %>% 
@@ -406,7 +397,7 @@ diagnose_outlier(flights) %>%
 #>   <chr>              <dbl>         <dbl>     <dbl>        <dbl> <dbl>
 #> 1 arr_delay           8.28         121.       6.90       -3.69  17.5 
 #> 2 dep_delay          12.8           93.1     12.6         0.444  7.37
-```
+````
 
 In cases where the mean of the outliers is large relative to the overall average, it may be desirable to impute or remove the outliers.
 
@@ -416,20 +407,20 @@ In cases where the mean of the outliers is large relative to the overall average
 
 The plot derived from the numerical data diagnosis is as follows.
 
--   With outliers box plot
--   Without outliers box plot
--   With outliers histogram
--   Without outliers histogram
+* With outliers box plot
+* Without outliers box plot
+* With outliers histogram
+* Without outliers histogram
 
 The following example uses `diagnose_outlier()`, `plot_outlier()`, and `dplyr` packages to visualize all numerical variables with an outlier ratio of 0.5% or higher.
 
-``` r
+````r
 flights %>%
   plot_outlier(diagnose_outlier(flights) %>% 
                  filter(outliers_ratio >= 0.5) %>% 
                  select(variables) %>% 
                  unlist())
-```
+````
 
 [![](https://github.com/choonghyunryu/dlookr/raw/master/figures/README-plot_outlier_pipe-1.png)](https://github.com/choonghyunryu/dlookr/blob/master/figures/README-plot_outlier_pipe-1.png)[![](https://github.com/choonghyunryu/dlookr/raw/master/figures/README-plot_outlier_pipe-2.png)](https://github.com/choonghyunryu/dlookr/blob/master/figures/README-plot_outlier_pipe-2.png)[![](https://github.com/choonghyunryu/dlookr/raw/master/figures/README-plot_outlier_pipe-3.png)](https://github.com/choonghyunryu/dlookr/blob/master/figures/README-plot_outlier_pipe-3.png)
 
@@ -439,25 +430,22 @@ Looking at the results of the visualization, `arr_delay` shows that the observed
 
 ### To Be Continued...
 
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
-- [[R]]
-- [[R Database Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *R Database Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R - Database Packages List](../../../../../../../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Data Manipulation Packages/R Package - dlookr.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - dlookr]] AND -"Changelog"
-```
+````

@@ -1,20 +1,14 @@
----
-Date: 2022-03-31
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Progress Bar in the Status Bar"]
----
-
 # VBA - Progress Bar in the Status Bar
 
 *Source: [Display a progressbar on the statusbar - Erlandsen Data Consulting](https://erlandsendata.no/?t=vbatips&c=application&p=4060#main)*
 
-***
+---
 
 ![](https://i.imgur.com/pXU4yTg.png)
-***
 
-```VBA
+---
+
+````VBA
 Sub ShowProgress(strText As String, dblPercentDone As Double, Optional blnDoEvents As Boolean = False, Optional lngRefreshInterval As Long = 2)
 ' updated 2016-10-05 by OPE
 ' displays a progress bar on the Statusbar
@@ -42,11 +36,11 @@ Static dblLastTime As Double ' remembers the last time this procedure was run
     dblLastTime = Timer
     If blnDoEvents Then DoEvents
 End Sub
-```
+````
 
 Test:
 
-```VBA
+````VBA
 Sub TestShowProgress()
 Dim i As Long, t As Long
     t = 10
@@ -56,20 +50,20 @@ Dim i As Long, t As Long
     Next i
     Application.StatusBar = False ' reset the status bar
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Progress Bar in the Status Bar]] AND -"Changelog"
-```
+````

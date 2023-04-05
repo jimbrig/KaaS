@@ -1,10 +1,3 @@
----
-Date: 2022-01-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: "Fact Table Structure"
----
-
 # Fact Table Structure
 
 *Source: [Fact Table Structure | Kimball Dimensional Modeling Techniques (kimballgroup.com)](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/fact-table-structure/)*
@@ -13,9 +6,9 @@ A *fact table* contains the numeric measures produced by an operational measurem
 
 ## Appendix: Links
 
-- [[Data Warehouse]]
-- [[Data Science]]
-- [[Databases]]
-- [[Ralph Kimball]]
-- [[The Kimball Lifecycle]]
-- [[Kimball Techniques for Data Warehousing]]
+* [Data Warehouse](Data%20Warehouse.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Ralph Kimball](../2-Areas/People/Ralph%20Kimball.md)
+* [The Kimball Lifecycle](The%20Kimball%20Lifecycle.md)
+* [Kimball Techniques for Data Warehousing](Kimball%20Techniques%20for%20Data%20Warehousing.md)

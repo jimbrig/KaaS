@@ -1,32 +1,21 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["APIs"]
----
-
 # APIs Overview
 
 %% Begin Waypoint %%
-- [[APIs]]
-- [[OpenAPI Specification]]
-- [[Swagger]]
+
+* [APIs](APIs.md)
+* [OpenAPI Specification](OpenAPI%20Specification.md)
+* [Swagger](Swagger.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## APIs Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

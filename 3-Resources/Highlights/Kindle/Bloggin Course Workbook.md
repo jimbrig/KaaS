@@ -1,15 +1,6 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: kindle
-Link:  
-Tags: ["#Type/Highlight/Book"]
-Aliases: ["The Blogging Course Workbook"]
----
-
 # Notes and highlights for The Blogging Course Workbook
 
-Link: [[Blogging_Course_Workbook_v2.pdf|Blogging Course Workbook]]
+Link: *Blogging Course Workbook*
 
 ---
 

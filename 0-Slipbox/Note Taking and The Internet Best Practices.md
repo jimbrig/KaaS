@@ -1,10 +1,3 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Note Taking and The Internet Best Practices"
----
-
 # Note Taking and The Internet Best Practices
 
 *Source: [Note-Taking when Reading the Web and RSS](https://zettelkasten.de/posts/reading-web-rss-note-taking/)*
@@ -113,15 +106,14 @@ To answer the questions from the beginning of this post:
 [Personal Knowledge Management](../../MOCs/Personal%20Knowledge%20Management.md)
 [Rinse and Repeat - Research, Read, Assimilate](Rinse%20and%20Repeat%20-%20Research,%20Read,%20Assimilate.md)
 
-
-***
+---
 
 #### Related
 
-- [[Development]]
+* [Development](../2-Areas/MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Note Taking and The Internet Best Practices]] AND -"Changelog"
-```
+````

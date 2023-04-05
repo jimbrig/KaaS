@@ -1,81 +1,69 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool"]
-Alias: ["R Package - callr", "R Package - callr"]
----
-
 # R Package - callr
 
 *Source: [r-lib/callr: Call R from R (github.com)](https://github.com/r-lib/callr)*
 
-See Also: [[Multi-Process Task Queue in R]]
+See Also: [Multi-Process Task Queue in R](../../../../../../../0-Slipbox/Multi-Process%20Task%20Queue%20in%20R.md)
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Features|Features]]
-- [[#Installation|Installation]]
-- [[#Synchronous, one-off R processes|Synchronous, one-off R processes]]
-	- [[#Passing arguments|Passing arguments]]
-	- [[#Using packages|Using packages]]
-	- [[#Error handling|Error handling]]
-	- [[#Standard output and error|Standard output and error]]
-- [[#Background R processes|Background R processes]]
-- [[#Multiple background R processes and `poll()`|Multiple background R processes and `poll()`]]
-- [[#Persistent R sessions|Persistent R sessions]]
-- [[#Running `R CMD` commands|Running `R CMD` commands]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Overview](R%20Package%20-%20callr.md#overview)
+* [Features](R%20Package%20-%20callr.md#features)
+* [Installation](R%20Package%20-%20callr.md#installation)
+* [Synchronous, one-off R processes](R%20Package%20-%20callr.md#synchronous-one-off-r-processes)
+  * [Passing arguments](R%20Package%20-%20callr.md#passing-arguments)
+  * [Using packages](R%20Package%20-%20callr.md#using-packages)
+  * [Error handling](R%20Package%20-%20callr.md#error-handling)
+  * [Standard output and error](R%20Package%20-%20callr.md#standard-output-and-error)
+* [Background R processes](R%20Package%20-%20callr.md#background-r-processes)
+* \[\[\#Multiple background R processes and `poll()`\|Multiple background R processes and `poll()`\]\]
+* [Persistent R sessions](R%20Package%20-%20callr.md#persistent-r-sessions)
+* \[\[\#Running `R CMD` commands|Running `R CMD` commands\]\]
+* [Appendix: Links](R%20Package%20-%20callr.md#appendix-links)
 
 ## Overview
 
-
-> Call R from R
+ > 
+ > Call R from R
 
 It is sometimes useful to perform a computation in a separate R process, without affecting the current R process at all. This packages does exactly that.
 
 ## Features
 
--   Calls an R function, with arguments, in a subprocess.
--   Copies function arguments to the subprocess and copies the return value of the function back, seamlessly.
--   Copies error objects back from the subprocess, including a stack trace.
--   Shows and/or collects the standard output and standard error of the subprocess.
--   Supports both one-off and persistent R subprocesses.
--   Calls the function synchronously or asynchronously (in the background).
--   Can call `R CMD` commands, synchronously or asynchronously.
--   Can call R scripts, synchronously or asynchronously.
--   Provides extensible `r_process`, `rcmd_process` and `rscript_process` R6 classes, based on `processx::process`.
+* Calls an R function, with arguments, in a subprocess.
+* Copies function arguments to the subprocess and copies the return value of the function back, seamlessly.
+* Copies error objects back from the subprocess, including a stack trace.
+* Shows and/or collects the standard output and standard error of the subprocess.
+* Supports both one-off and persistent R subprocesses.
+* Calls the function synchronously or asynchronously (in the background).
+* Can call `R CMD` commands, synchronously or asynchronously.
+* Can call R scripts, synchronously or asynchronously.
+* Provides extensible `r_process`, `rcmd_process` and `rscript_process` R6 classes, based on `processx::process`.
 
 ## Installation
 
-
 Install the stable version from CRAN:
 
-```r
+````r
 install.packages("callr")
-```
+````
 
 ## Synchronous, one-off R processes
-
 
 Use `r()` to run an R function in a new R process. The results are
 passed back seamlessly:
 
-```r
+````r
 library(callr)
 r(function() var(iris[, 1:4]))
-```
+````
 
-```
+````
    #>              Sepal.Length Sepal.Width Petal.Length Petal.Width
     #> Sepal.Length    0.6856935  -0.0424340    1.2743154   0.5162707
     #> Sepal.Width    -0.0424340   0.1899794   -0.3296564  -0.1216394
     #> Petal.Length    1.2743154  -0.3296564    3.1162779   1.2956094
     #> Petal.Width     0.5162707  -0.1216394    1.2956094   0.5810063
-```
-    
+````
 
 ### Passing arguments
 
@@ -83,22 +71,22 @@ You can pass arguments to the function by setting `args` to the list of argument
 
 For example, the following does not work:
 
-```r
+````r
 mycars <- cars
 r(function() summary(mycars))
-```
+````
 
-```
+````
     #> Error: callr subprocess failed: object 'mycars' not found
-```
+````
 
 But this does:
 
-```r
+````r
 r(function(x) summary(x), args = list(mycars))
-```
+````
 
-```
+````
    #>      speed           dist       
     #>  Min.   : 4.0   Min.   :  2.00  
     #>  1st Qu.:12.0   1st Qu.: 26.00  
@@ -106,7 +94,7 @@ r(function(x) summary(x), args = list(mycars))
     #>  Mean   :15.4   Mean   : 42.98  
     #>  3rd Qu.:19.0   3rd Qu.: 56.00  
     #>  Max.   :25.0   Max.   :120.00
-```
+````
 
 Note that the arguments will be serialized and saved to a file, so if they are large R objects, it might take a long time for the child process to start up.
 
@@ -116,49 +104,49 @@ You can use any R package in the child process, just make sure to refer to it ex
 
 For example, the following code creates an [igraph](https://github.com/igraph/rigraph) graph in the child, and calculates some metrics of it.
 
-```r
+````r
 r(function() { g <- igraph::sample_gnp(1000, 4/1000); igraph::diameter(g) })
-```
+````
 
-```
+````
     #> [1] 14
-```
+````
 
 ### Error handling
 
 `callr` copies errors from the child process back to the main R session:
 
-```r
+````r
 r(function() 1 + "A")
-```
+````
 
-```
+````
     #> Error: callr subprocess failed: non-numeric argument to binary operator
-```
+````
 
 `callr` sets the `.Last.error` variable, and after an error you can inspect this for more details about the error, including stack traces both from the main R process and the subprocess.
 
-```r
+````r
 .Last.error
-```
+````
 
-```
+````
     #> <callr_status_error: callr subprocess failed: non-numeric argument to binary operator>
     #> -->
     #> <callr_remote_error in 1 + "A":
     #>  non-numeric argument to binary operator>
     #>  in process 32341
-```
+````
 
 The error objects has two parts. The first belongs to the main process, and the second belongs to the subprocess.
 
 `.Last.error` also includes a stack trace, that includes both the main R process and the subprocess:
 
-``` r
+````r
 .Last.error.trace
-```
+````
 
-```
+````
    #>  Stack trace:
     #> 
     #>  Process 32229:
@@ -174,7 +162,7 @@ The error objects has two parts. The first belongs to the main process, and the 
     #>  52. h(simpleError(msg, call))
     #> 
     #>  x non-numeric argument to binary operator
-```
+````
 
 The top part of the trace contains the frames in the main process, and the bottom part contains the frames in the subprocess, starting with the anonymous function.
 
@@ -182,20 +170,24 @@ The top part of the trace contains the frames in the main process, and the botto
 
 By default, the standard output and error of the child is lost, but you can request `callr` to redirect them to files, and then inspect the files in the parent:
 
-``` r
+````r
 x <- r(function() { print("hello world!"); message("hello again!") },
   stdout = "/tmp/out", stderr = "/tmp/err"
 )
 readLines("/tmp/out")
-```
+````
 
-    #> [1] "[1] \"hello world!\""
+````
+#> [1] "[1] \"hello world!\""
+````
 
-``` r
+````r
 readLines("/tmp/err")
-```
+````
 
-    #> [1] "hello again!"
+````
+#> [1] "hello again!"
+````
 
 With the `stdout` option, the standard output is collected and can be examined once the child process finished. The `show = TRUE` options will also show the output of the child, as it is printed, on the console of the parent.
 
@@ -203,22 +195,22 @@ With the `stdout` option, the standard output is collected and can be examined o
 
 `r_bg()` is similar to `r()` but it starts the R process in the background. It returns an `r_process` R6 object, that provides a rich API:
 
-```r
+````r
 rp <- r_bg(function() Sys.sleep(.2))
 rp
-```
+````
 
-```
+````
     #> PROCESS 'R', running, pid 32379.
-```
+````
 
 This is a list of all `r_process` methods:
 
-```r
+````r
 ls(rp)
-```
+````
 
-```
+````
    #>  [1] "as_ps_handle"          "clone"                 "finalize"             
     #>  [4] "format"                "get_cmdline"           "get_cpu_times"        
     #>  [7] "get_error_connection"  "get_error_file"        "get_exe"              
@@ -236,32 +228,31 @@ ls(rp)
     #> [43] "read_error_lines"      "read_output"           "read_output_lines"    
     #> [46] "resume"                "signal"                "supervise"            
     #> [49] "suspend"               "wait"                  "write_input"
-```
-
+````
 
 These include all methods of the `processx::process` superclass and the new `get_result()` method, to retrieve the R object returned by the function call. Some of the handiest methods are:
 
--   `get_exit_status()` to query the exit status of a finished process.
--   `get_result()` to collect the return value of the R function call.
--   `interrupt()` to send an interrupt to the process. This is equivalent to a `CTRL+C` key press, and the R process might ignore it.
--   `is_alive()` to check if the process is alive.
--   `kill()` to terminate the process.
--   `poll_io()` to wait for any standard output, standard error, or the completion of the process, with a timeout.
--   `read_*()` to read the standard output or error.
--   `suspend()` and `resume()` to stop and continue a process.
--   `wait()` to wait for the completion of the process, with a timeout.
+* `get_exit_status()` to query the exit status of a finished process.
+* `get_result()` to collect the return value of the R function call.
+* `interrupt()` to send an interrupt to the process. This is equivalent to a `CTRL+C` key press, and the R process might ignore it.
+* `is_alive()` to check if the process is alive.
+* `kill()` to terminate the process.
+* `poll_io()` to wait for any standard output, standard error, or the completion of the process, with a timeout.
+* `read_*()` to read the standard output or error.
+* `suspend()` and `resume()` to stop and continue a process.
+* `wait()` to wait for the completion of the process, with a timeout.
 
 ## Multiple background R processes and `poll()`
 
 Multiple background R processes are best managed with the `processx::poll()` function that waits for events (standard output/error or termination) from multiple processes. It returns as soon as one process has generated an event, or if its timeout has expired. The timeout is in milliseconds.
 
-```r
+````r
 rp1 <- r_bg(function() { Sys.sleep(1/2); "1 done" })
 rp2 <- r_bg(function() { Sys.sleep(1/1000); "2 done" })
 processx::poll(list(rp1, rp2), 1000)
-```
+````
 
-```
+````
    #> [[1]]
     #>   output    error  process 
     #> "silent" "silent" "silent" 
@@ -269,84 +260,82 @@ processx::poll(list(rp1, rp2), 1000)
     #> [[2]]
     #>   output    error  process 
     #> "silent" "silent"  "ready"
-```
+````
 
-```r
+````r
 rp2$get_result()
-```
+````
 
-```
+````
     #> [1] "2 done"
-```
+````
 
-
-```r
+````r
 processx::poll(list(rp1), 1000)
-```
+````
 
-```
+````
    #> [[1]]
     #>   output    error  process 
     #> "silent" "silent"  "ready"
-```
+````
 
-```r
+````r
 rp1$get_result()
-```
+````
 
-```
+````
    #> [1] "1 done"
-```
+````
 
 ## Persistent R sessions
 
 `r_session` is another `processx::process` subclass that represents a persistent background R session:
 
-```r
+````r
 rs <- r_session$new()
 rs
-```
+````
 
-```
+````
     #> R SESSION, alive, idle, pid 32412.
-```
-
+````
 
 `r_session$run()` is a synchronous call, that works similarly to `r()`, but uses the persistent session. `r_session$call()` starts the function call and returns immediately. The `r_session$poll_process()` method or `processx::poll()` can then be used to wait for the completion or other events from one or more R sessions, R processes or other `processx::process` objects.
 
 Once an R session is done with an asynchronous computation, its `poll_process()` method returns `"ready"` and the `r_session$read()` method can read out the result.
 
-```r
+````r
 rs$run(function() runif(10))
-```
+````
 
-```
+````
    #>  [1] 0.75342837 0.12946532 0.98800304 0.09682751 0.23944882 0.99726443
     #>  [7] 0.91098802 0.61136112 0.51781725 0.53566166
-```
+````
 
-```r
+````r
 rs$call(function() rnorm(10))
 rs
-```
+````
 
-```
+````
    #> R SESSION, alive, busy, pid 32412.
-```
+````
 
-```r
+````r
 rs$poll_process(2000)
-```
+````
 
-```
+````
    #> [1] "ready"
-```
+````
 
-```r
+````r
 rs$read()
-```
+````
 
-```
+````
    #> $code
     #> [1] 200
     #> 
@@ -368,18 +357,17 @@ rs$read()
     #> 
     #> attr(,"class")
     #> [1] "callr_session_result"
-```
+````
 
 ## Running `R CMD` commands
 
-
 The `rcmd()` function calls an `R CMD` command. For example, you can call `R CMD INSTALL`, `R CMD check` or `R CMD config` this way:
 
-```r
+````r
 rcmd("config", "CC")
-```
+````
 
-```
+````
    #> $status
     #> [1] 0
     #> 
@@ -397,9 +385,9 @@ rcmd("config", "CC")
     #> [2] "CMD"                                                         
     #> [3] "config"                                                      
     #> [4] "CC"
-```
+````
 
-```r
+````r
 #>$stdout
 #>[1] "clang\n"
 #>
@@ -408,33 +396,32 @@ rcmd("config", "CC")
 #>
 #>$status
 #>[1] 0
-```
+````
 
 This returns a list with three components: the standard output, the standard error, and the exit (status) code of the `R CMD` command.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/General R Packages/R Package - callr.md
-- [[R]]
-- [[3-Resources/Tools/R/R Packages/R Packages]]
-- [[R - Run Shiny App in Background for Development]]
-- [[R Shiny]]
-- [[3-Resources/Tools/R/R Packages/API R Packages/R Package - plumber]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages]]
-- [[R - Run Shiny App in Background for Development]]
-- [[R Shiny]]
-- [[R Package - plumber]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - callr.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/General R Packages/R Package - callr.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *3-Resources/Tools/R/R Packages/R Packages*
+* [R - Run Shiny App in Background for Development](../../../../../../../2-Areas/Code/R/R%20-%20Run%20Shiny%20App%20in%20Background%20for%20Development.md)
+* [R Shiny](../../../../../../../2-Areas/MOCs/R%20Shiny.md)
+* *3-Resources/Tools/R/R Packages/API R Packages/R Package - plumber*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* *3-Resources/Tools/Developer Tools/Programming Languages/R/R Packages/R Packages*
+* [R - Run Shiny App in Background for Development](../../../../../../../2-Areas/Code/R/R%20-%20Run%20Shiny%20App%20in%20Background%20for%20Development.md)
+* [R Shiny](../../../../../../../2-Areas/MOCs/R%20Shiny.md)
+* [R Package - plumber](../API%20R%20Packages/R%20Package%20-%20plumber.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/General R Packages/R Package - callr.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - callr]] AND -"Changelog"
-```
+````

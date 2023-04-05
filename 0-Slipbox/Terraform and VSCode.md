@@ -1,13 +1,6 @@
----
-Date: 2022-06-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Terraform and VSCode"
----
-
 # Terraform and VSCode
 
-```hcl
+````hcl
 # Create a resource group if it doesn't exist.
 resource "azurerm_resource_group" "myterraformgroup" {
     name    = "terraform-rg2"
@@ -156,17 +149,17 @@ resource "azurerm_virtual_machine" "myterraformvm" {
         environment = "Terraform Demo"
     }
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Visual Studio Code]]
-- [[Terraform]]
+* [Visual Studio Code](../3-Resources/Tools/Developer%20Tools/IDE/Visual%20Studio%20Code.md)
+* [Terraform](../3-Resources/Tools/Developer%20Tools/Infrastructure/Terraform.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Terraform and VSCode]] AND -"Changelog"
-```
+````

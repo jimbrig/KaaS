@@ -1,116 +1,105 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["SQL"]
----
-
 # SQL Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/SQL/_README]]
-- [[SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime]]
-- [[SQL - Check Size of DB Objects]]
-- [[SQL - Convert Integer (Clarion) Date to SQL Datetime]]
-- [[SQL - Create Date Dimension with Fiscal Years]]
-- [[SQL - Crosstab Query]]
-- [[SQL - Find Unused Indexes]]
-- [[SQL - Get Number of Open Connections]]
-- [[SQL - Monitor Query Plans]]
-- [[SQL - POST HTTP API Request with SQL Server]]
-- [[SQL - PostgreSQL - Audit Trigger]]
-- [[SQL - PostgreSQL - Basic Instance Information]]
-- [[SQL - PostgreSQL - Calculating the Median]]
-- [[SQL - PostgreSQL - Clone Schema]]
-- [[SQL - PostgreSQL - Count NULLs]]
-- [[SQL - PostgreSQL - Create modified_at columns and triggers]]
-- [[SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile]]
-- [[SQL - PostgreSQL - Cumulative Distribution]]
-- [[SQL - PostgreSQL - DataDictionary]]
-- [[SQL - PostgreSQL - Date Dimension Table]]
-- [[SQL - PostgreSQL - Dump Entire Database to CSV]]
-- [[SQL - PostgreSQL - Dynamic Trigger]]
-- [[SQL - PostgreSQL - ETL Function Template]]
-- [[SQL - PostgreSQL - Extensions]]
-- [[SQL - PostgreSQL - Extracting Values from JSON Strings]]
-- [[SQL - PostgreSQL - Filter for the Last x Days]]
-- [[SQL - PostgreSQL - Find Recent Activity]]
-- [[SQL - PostgreSQL - Formatting Dates and Timestamps]]
-- [[SQL - PostgreSQL - Generate Password]]
-- [[SQL - PostgreSQL - Generate Timeseries of Dates and Times]]
-- [[SQL - PostgreSQL - Get all Primary Keys and Columns]]
-- [[SQL - PostgreSQL - Get Current DB Sessions]]
-- [[SQL - PostgreSQL - Get Last Day of Month]]
-- [[SQL - PostgreSQL - Get the Last Element of an Array]]
-- [[SQL - PostgreSQL - Histogram Bins]]
-- [[SQL - PostgreSQL - Human-Readable Timestamps]]
-- [[SQL - PostgreSQL - Information Schema Queries]]
-- [[SQL - PostgreSQL - Kill Running or Idle Connections]]
-- [[SQL - PostgreSQL - MONTH() Equivalent]]
-- [[SQL - PostgreSQL - Moving Average]]
-- [[SQL - PostgreSQL - Multi-Replace (plpgsql)]]
-- [[SQL - PostgreSQL - Normalize Whitespace]]
-- [[SQL - PostgreSQL - Pivot Query]]
-- [[SQL - PostgreSQL - Ranking Data]]
-- [[SQL - PostgreSQL - Refresh All Materialize Views]]
-- [[SQL - PostgreSQL - RegEx to Parse URL String]]
-- [[SQL - PostgreSQL - RegEx to Validate an Email Address]]
-- [[SQL - PostgreSQL - Replace Empty Strings with NULLs]]
-- [[SQL - PostgreSQL - Replace NULLs]]
-- [[SQL - PostgreSQL - Reverse an Array]]
-- [[SQL - PostgreSQL - SERIAL Example]]
-- [[SQL - PostgreSQL - Set Default UTF8 Encoding]]
-- [[SQL - PostgreSQL - Simulate IIF From SQL Server]]
-- [[SQL - PostgreSQL - Split a Single Column into Separate Rows]]
-- [[SQL - PostgreSQL - Stored Procedure - Merge Tables]]
-- [[SQL - PostgreSQL - Strip Accents from Strings]]
-- [[SQL - PostgreSQL - UPSERT]]
-- [[SQL - PostgreSQL - Using Tables as Templates]]
-- [[SQL - PostgreSQL String Manipulation]]
-- [[SQL - Re-build all Indexes]]
-- [[SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
-- [[SQL - Retrieve Top Slow Requests]]
-- [[SQL - Retrieve Who is Doing What]]
-- [[SQL - SQL Server - Check if a Column is Accessible]]
-- [[SQL - SQL Server - Check Size of DB Objects]]
-- [[SQL - SQL Server - Concatenate Strings]]
-- [[SQL - SQL Server - Create Date Dimension with Fiscal Years]]
-- [[SQL - SQL Server - Cumulative Distribution Functions]]
-- [[SQL - SQL Server - Find the First Row of Each Group]]
-- [[SQL - SQL Server - Find Unused Indexes]]
-- [[SQL - SQL Server - Foreign Keys]]
-- [[SQL - SQL Server - Get Number of Open Connections]]
-- [[SQL - SQL Server - Installation for DBA MultiTool]]
-- [[SQL - SQL Server - Installation Script for DBA MultiTool]]
-- [[SQL - SQL Server - List of Tables with Number of Rows and Comments]]
-- [[SQL - SQL Server - List Views with Definition and Comments]]
-- [[SQL - SQL Server - Monitor Query Plans]]
-- [[SQL - SQL Server - POST HTTP API Request]]
-- [[SQL - SQL Server - Re-build all Indexes]]
-- [[SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages]]
-- [[SQL - SQL Server - Retrieve Top Slow Requests]]
-- [[SQL - SQL Server - Retrieve Who is Doing What]]
-- [[SQL - SQL Server - Search for Text Within Stored Procedures]]
-- [[SQL - SQL Server - Table and Column Details]]
-- [[SQL - SQL Server - Useful Queries]]
-- [[SQL - SQL Server - Views Columns]]
-- [[SQL]]
+
+* *2-Areas/Code/SQL/_README*
+* [SQL -  SQL Server - Convert Integer (Clarion) Date to SQL Datetime](SQL%20-%20%20SQL%20Server%20-%20Convert%20Integer%20%28Clarion%29%20Date%20to%20SQL%20Datetime.md)
+* [SQL - Check Size of DB Objects](SQL%20-%20Check%20Size%20of%20DB%20Objects.md)
+* [SQL - Convert Integer (Clarion) Date to SQL Datetime](SQL%20-%20Convert%20Integer%20%28Clarion%29%20Date%20to%20SQL%20Datetime.md)
+* [SQL - Create Date Dimension with Fiscal Years](SQL%20-%20Create%20Date%20Dimension%20with%20Fiscal%20Years.md)
+* [SQL - Crosstab Query](SQL%20-%20Crosstab%20Query.md)
+* [SQL - Find Unused Indexes](SQL%20-%20Find%20Unused%20Indexes.md)
+* [SQL - Get Number of Open Connections](SQL%20-%20Get%20Number%20of%20Open%20Connections.md)
+* [SQL - Monitor Query Plans](SQL%20-%20Monitor%20Query%20Plans.md)
+* [SQL - POST HTTP API Request with SQL Server](SQL%20-%20POST%20HTTP%20API%20Request%20with%20SQL%20Server.md)
+* [SQL - PostgreSQL - Audit Trigger](SQL%20-%20PostgreSQL%20-%20Audit%20Trigger.md)
+* [SQL - PostgreSQL - Basic Instance Information](SQL%20-%20PostgreSQL%20-%20Basic%20Instance%20Information.md)
+* [SQL - PostgreSQL - Calculating the Median](SQL%20-%20PostgreSQL%20-%20Calculating%20the%20Median.md)
+* [SQL - PostgreSQL - Clone Schema](SQL%20-%20PostgreSQL%20-%20Clone%20Schema.md)
+* [SQL - PostgreSQL - Count NULLs](SQL%20-%20PostgreSQL%20-%20Count%20NULLs.md)
+* [SQL - PostgreSQL - Create modified_at columns and triggers](SQL%20-%20PostgreSQL%20-%20Create%20modified_at%20columns%20and%20triggers.md)
+* [SQL - PostgreSQL - Creating Equal-Sized Buckets using ntile](SQL%20-%20PostgreSQL%20-%20Creating%20Equal-Sized%20Buckets%20using%20ntile.md)
+* [SQL - PostgreSQL - Cumulative Distribution](SQL%20-%20PostgreSQL%20-%20Cumulative%20Distribution.md)
+* [SQL - PostgreSQL - DataDictionary](SQL%20-%20PostgreSQL%20-%20DataDictionary.md)
+* [SQL - PostgreSQL - Date Dimension Table](SQL%20-%20PostgreSQL%20-%20Date%20Dimension%20Table.md)
+* [SQL - PostgreSQL - Dump Entire Database to CSV](SQL%20-%20PostgreSQL%20-%20Dump%20Entire%20Database%20to%20CSV.md)
+* [SQL - PostgreSQL - Dynamic Trigger](SQL%20-%20PostgreSQL%20-%20Dynamic%20Trigger.md)
+* [SQL - PostgreSQL - ETL Function Template](SQL%20-%20PostgreSQL%20-%20ETL%20Function%20Template.md)
+* [SQL - PostgreSQL - Extensions](SQL%20-%20PostgreSQL%20-%20Extensions.md)
+* [SQL - PostgreSQL - Extracting Values from JSON Strings](SQL%20-%20PostgreSQL%20-%20Extracting%20Values%20from%20JSON%20Strings.md)
+* [SQL - PostgreSQL - Filter for the Last x Days](SQL%20-%20PostgreSQL%20-%20Filter%20for%20the%20Last%20x%20Days.md)
+* [SQL - PostgreSQL - Find Recent Activity](SQL%20-%20PostgreSQL%20-%20Find%20Recent%20Activity.md)
+* [SQL - PostgreSQL - Formatting Dates and Timestamps](SQL%20-%20PostgreSQL%20-%20Formatting%20Dates%20and%20Timestamps.md)
+* [SQL - PostgreSQL - Generate Password](SQL%20-%20PostgreSQL%20-%20Generate%20Password.md)
+* [SQL - PostgreSQL - Generate Timeseries of Dates and Times](SQL%20-%20PostgreSQL%20-%20Generate%20Timeseries%20of%20Dates%20and%20Times.md)
+* [SQL - PostgreSQL - Get all Primary Keys and Columns](SQL%20-%20PostgreSQL%20-%20Get%20all%20Primary%20Keys%20and%20Columns.md)
+* [SQL - PostgreSQL - Get Current DB Sessions](SQL%20-%20PostgreSQL%20-%20Get%20Current%20DB%20Sessions.md)
+* [SQL - PostgreSQL - Get Last Day of Month](SQL%20-%20PostgreSQL%20-%20Get%20Last%20Day%20of%20Month.md)
+* [SQL - PostgreSQL - Get the Last Element of an Array](SQL%20-%20PostgreSQL%20-%20Get%20the%20Last%20Element%20of%20an%20Array.md)
+* [SQL - PostgreSQL - Histogram Bins](SQL%20-%20PostgreSQL%20-%20Histogram%20Bins.md)
+* [SQL - PostgreSQL - Human-Readable Timestamps](SQL%20-%20PostgreSQL%20-%20Human-Readable%20Timestamps.md)
+* [SQL - PostgreSQL - Information Schema Queries](SQL%20-%20PostgreSQL%20-%20Information%20Schema%20Queries.md)
+* [SQL - PostgreSQL - Kill Running or Idle Connections](SQL%20-%20PostgreSQL%20-%20Kill%20Running%20or%20Idle%20Connections.md)
+* [SQL - PostgreSQL - MONTH() Equivalent](SQL%20-%20PostgreSQL%20-%20MONTH%28%29%20Equivalent.md)
+* [SQL - PostgreSQL - Moving Average](SQL%20-%20PostgreSQL%20-%20Moving%20Average.md)
+* [SQL - PostgreSQL - Multi-Replace (plpgsql)](SQL%20-%20PostgreSQL%20-%20Multi-Replace%20%28plpgsql%29.md)
+* [SQL - PostgreSQL - Normalize Whitespace](SQL%20-%20PostgreSQL%20-%20Normalize%20Whitespace.md)
+* [SQL - PostgreSQL - Pivot Query](SQL%20-%20PostgreSQL%20-%20Pivot%20Query.md)
+* [SQL - PostgreSQL - Ranking Data](SQL%20-%20PostgreSQL%20-%20Ranking%20Data.md)
+* [SQL - PostgreSQL - Refresh All Materialize Views](SQL%20-%20PostgreSQL%20-%20Refresh%20All%20Materialize%20Views.md)
+* [SQL - PostgreSQL - RegEx to Parse URL String](SQL%20-%20PostgreSQL%20-%20RegEx%20to%20Parse%20URL%20String.md)
+* [SQL - PostgreSQL - RegEx to Validate an Email Address](SQL%20-%20PostgreSQL%20-%20RegEx%20to%20Validate%20an%20Email%20Address.md)
+* [SQL - PostgreSQL - Replace Empty Strings with NULLs](SQL%20-%20PostgreSQL%20-%20Replace%20Empty%20Strings%20with%20NULLs.md)
+* [SQL - PostgreSQL - Replace NULLs](SQL%20-%20PostgreSQL%20-%20Replace%20NULLs.md)
+* [SQL - PostgreSQL - Reverse an Array](SQL%20-%20PostgreSQL%20-%20Reverse%20an%20Array.md)
+* [SQL - PostgreSQL - SERIAL Example](SQL%20-%20PostgreSQL%20-%20SERIAL%20Example.md)
+* [SQL - PostgreSQL - Set Default UTF8 Encoding](SQL%20-%20PostgreSQL%20-%20Set%20Default%20UTF8%20Encoding.md)
+* [SQL - PostgreSQL - Simulate IIF From SQL Server](SQL%20-%20PostgreSQL%20-%20Simulate%20IIF%20From%20SQL%20Server.md)
+* [SQL - PostgreSQL - Split a Single Column into Separate Rows](SQL%20-%20PostgreSQL%20-%20Split%20a%20Single%20Column%20into%20Separate%20Rows.md)
+* [SQL - PostgreSQL - Stored Procedure - Merge Tables](SQL%20-%20PostgreSQL%20-%20Stored%20Procedure%20-%20Merge%20Tables.md)
+* [SQL - PostgreSQL - Strip Accents from Strings](SQL%20-%20PostgreSQL%20-%20Strip%20Accents%20from%20Strings.md)
+* [SQL - PostgreSQL - UPSERT](SQL%20-%20PostgreSQL%20-%20UPSERT.md)
+* [SQL - PostgreSQL - Using Tables as Templates](SQL%20-%20PostgreSQL%20-%20Using%20Tables%20as%20Templates.md)
+* [SQL - PostgreSQL String Manipulation](SQL%20-%20PostgreSQL%20String%20Manipulation.md)
+* [SQL - Re-build all Indexes](SQL%20-%20Re-build%20all%20Indexes.md)
+* [SQL - Retrieve Stored Procedures and Functions Execution Times Counts and Averages](SQL%20-%20Retrieve%20Stored%20Procedures%20and%20Functions%20Execution%20Times%20Counts%20and%20Averages.md)
+* [SQL - Retrieve Top Slow Requests](SQL%20-%20Retrieve%20Top%20Slow%20Requests.md)
+* [SQL - Retrieve Who is Doing What](SQL%20-%20Retrieve%20Who%20is%20Doing%20What.md)
+* [SQL - SQL Server - Check if a Column is Accessible](SQL%20-%20SQL%20Server%20-%20Check%20if%20a%20Column%20is%20Accessible.md)
+* [SQL - SQL Server - Check Size of DB Objects](SQL%20-%20SQL%20Server%20-%20Check%20Size%20of%20DB%20Objects.md)
+* [SQL - SQL Server - Concatenate Strings](SQL%20-%20SQL%20Server%20-%20Concatenate%20Strings.md)
+* [SQL - SQL Server - Create Date Dimension with Fiscal Years](SQL%20-%20SQL%20Server%20-%20Create%20Date%20Dimension%20with%20Fiscal%20Years.md)
+* [SQL - SQL Server - Cumulative Distribution Functions](SQL%20-%20SQL%20Server%20-%20Cumulative%20Distribution%20Functions.md)
+* [SQL - SQL Server - Find the First Row of Each Group](SQL%20-%20SQL%20Server%20-%20Find%20the%20First%20Row%20of%20Each%20Group.md)
+* [SQL - SQL Server - Find Unused Indexes](SQL%20-%20SQL%20Server%20-%20Find%20Unused%20Indexes.md)
+* [SQL - SQL Server - Foreign Keys](SQL%20-%20SQL%20Server%20-%20Foreign%20Keys.md)
+* [SQL - SQL Server - Get Number of Open Connections](SQL%20-%20SQL%20Server%20-%20Get%20Number%20of%20Open%20Connections.md)
+* [SQL - SQL Server - Installation for DBA MultiTool](SQL%20-%20SQL%20Server%20-%20Installation%20for%20DBA%20MultiTool.md)
+* [SQL - SQL Server - Installation Script for DBA MultiTool](SQL%20-%20SQL%20Server%20-%20Installation%20Script%20for%20DBA%20MultiTool.md)
+* [SQL - SQL Server - List of Tables with Number of Rows and Comments](SQL%20-%20SQL%20Server%20-%20List%20of%20Tables%20with%20Number%20of%20Rows%20and%20Comments.md)
+* [SQL - SQL Server - List Views with Definition and Comments](SQL%20-%20SQL%20Server%20-%20List%20Views%20with%20Definition%20and%20Comments.md)
+* [SQL - SQL Server - Monitor Query Plans](SQL%20-%20SQL%20Server%20-%20Monitor%20Query%20Plans.md)
+* [SQL - SQL Server - POST HTTP API Request](SQL%20-%20SQL%20Server%20-%20POST%20HTTP%20API%20Request.md)
+* [SQL - SQL Server - Re-build all Indexes](SQL%20-%20SQL%20Server%20-%20Re-build%20all%20Indexes.md)
+* [SQL - SQL Server - Retrieve Stored Procedures and Functions Execution Times Counts and Averages](SQL%20-%20SQL%20Server%20-%20Retrieve%20Stored%20Procedures%20and%20Functions%20Execution%20Times%20Counts%20and%20Averages.md)
+* [SQL - SQL Server - Retrieve Top Slow Requests](SQL%20-%20SQL%20Server%20-%20Retrieve%20Top%20Slow%20Requests.md)
+* [SQL - SQL Server - Retrieve Who is Doing What](SQL%20-%20SQL%20Server%20-%20Retrieve%20Who%20is%20Doing%20What.md)
+* [SQL - SQL Server - Search for Text Within Stored Procedures](SQL%20-%20SQL%20Server%20-%20Search%20for%20Text%20Within%20Stored%20Procedures.md)
+* [SQL - SQL Server - Table and Column Details](SQL%20-%20SQL%20Server%20-%20Table%20and%20Column%20Details.md)
+* [SQL - SQL Server - Useful Queries](SQL%20-%20SQL%20Server%20-%20Useful%20Queries.md)
+* [SQL - SQL Server - Views Columns](SQL%20-%20SQL%20Server%20-%20Views%20Columns.md)
+* [SQL](SQL.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## SQL Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

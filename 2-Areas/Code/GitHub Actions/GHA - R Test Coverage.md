@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - Test Coverage Workflow"]
----
-
 # GitHub Action - Test Coverage Workflow
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#test-coverage-workflow*
@@ -13,7 +6,7 @@ Alias: ["GitHub Action - Test Coverage Workflow"]
 
 This example uses the [covr](https://covr.r-lib.org) package to query the test coverage of your package and upload the result to [codecov.io](https://codecov.io)
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -44,17 +37,17 @@ jobs:
       - name: Test coverage
         run: covr::codecov()
         shell: Rscript {0}
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - Test Coverage Workflow]] AND -"Changelog"
-```
+````

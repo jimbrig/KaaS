@@ -1,59 +1,50 @@
----
-Date: 2022-10-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Type/Guide", "#Topic/Dev"]
-Alias: ["XDG Base Directory Specification", "XDG", "xdg-user-dirs"]
----
-
 # XDG Base Directory Specification
-
-
 
 *Source: [XDG Base Directory Specification (specifications.freedesktop.org)](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)*
 
-*See Also: [[xdg-user-dirs]]*
+*See Also: [xdg-user-dirs](../3-Resources/Tools/Linux/xdg-user-dirs.md)*
 
 ## Contents
 
-- [[#Introduction|Introduction]]
-- [[#Basics|Basics]]
-- [[#Environment variables|Environment variables]]
-- [[#Referencing this specification|Referencing this specification]]
-- [[#Appendix: Links and References|Appendix: Links and References]]
+* [Introduction](XDG%20Base%20Directory%20Specification.md#introduction)
+* [Basics](XDG%20Base%20Directory%20Specification.md#basics)
+* [Environment variables](XDG%20Base%20Directory%20Specification.md#environment-variables)
+* [Referencing this specification](XDG%20Base%20Directory%20Specification.md#referencing-this-specification)
+* [Appendix: Links and References](XDG%20Base%20Directory%20Specification.md#appendix-links-and-references)
 
 ## Table
 
-| XDG | XDG variable | Path |
-| --- | --- | --- |
-| Config | XDG_CONFIG_HOME | `$HOME/.config` |
-| Data | XDG_DATA_HOME | `$HOME/.local/share` |
-| Cache | XDG_CACHE_HOME | `$HOME/.cache` |
-| State | XDG_STATE_HOME | `$HOME/.local/state` |
+|XDG|XDG variable|Path|
+|---|------------|----|
+|Config|XDG_CONFIG_HOME|`$HOME/.config`|
+|Data|XDG_DATA_HOME|`$HOME/.local/share`|
+|Cache|XDG_CACHE_HOME|`$HOME/.cache`|
+|State|XDG_STATE_HOME|`$HOME/.local/state`|
 
-| Variable | Function | Recommended default |
-| --- | --- | --- |
-| `$XDG_DATA_HOME` | user specific data files | `$HOME/.local/share` |
-| `$XDG_CONFIG_HOME` | user specific configuration files | `$HOME/.config` |
-| `$XDG_DATA_DIRS` | set of ordered directories for data files | `/usr/local/share/:/usr/share/` |
-| `$XDG_CONFIG_DIRS` | set of ordered directorries for configuration files | `/etc/xdg` |
-| `$XDG_CACHE_HOME` | user specific, non-essential (cached) data | `$HOME/.cache` |
-| `$XDG_RUNTIME_DIR` | user specific runtime files | not defined |
+|Variable|Function|Recommended default|
+|--------|--------|-------------------|
+|`$XDG_DATA_HOME`|user specific data files|`$HOME/.local/share`|
+|`$XDG_CONFIG_HOME`|user specific configuration files|`$HOME/.config`|
+|`$XDG_DATA_DIRS`|set of ordered directories for data files|`/usr/local/share/:/usr/share/`|
+|`$XDG_CONFIG_DIRS`|set of ordered directorries for configuration files|`/etc/xdg`|
+|`$XDG_CACHE_HOME`|user specific, non-essential (cached) data|`$HOME/.cache`|
+|`$XDG_RUNTIME_DIR`|user specific runtime files|not defined|
 
 For the `$XDG_RUNTIME_DIR` there is no default, but there are a couple of requirements:
 
--   The directory MUST be owned by the user
--   The user MUST be the only one having read and write access to it
--   Its access mode MUST be `0700`
--   The lifetime of the directory MUST be bound to the user being logged in
--   It MUST be created when the user first logs in and if the user fully logs out the directory MUST be removed
--   If the user logs in more than once he should get pointed to the same directory
--   Files in the directory MUST not survive reboot or a full logout/login cycle
+* The directory MUST be owned by the user
+* The user MUST be the only one having read and write access to it
+* Its access mode MUST be `0700`
+* The lifetime of the directory MUST be bound to the user being logged in
+* It MUST be created when the user first logs in and if the user fully logs out the directory MUST be removed
+* If the user logs in more than once he should get pointed to the same directory
+* Files in the directory MUST not survive reboot or a full logout/login cycle
 
 ## Setup
 
 One must choose a sensible place to set these variables. I chose `/etc/profile.d/xdg.sh`. Create the file and add the following:
 
-```sh
+````sh
 # XDG base directories
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_CACHE_HOME="$HOME/.cache"
@@ -69,56 +60,55 @@ if test -z "${XDG_RUNTIME_DIR}"; then
          chmod 0700 "${XDG_RUNTIME_DIR}"
      fi
  fi
-```
+````
 
 At this point it may be a good idea to reboot and check whether all the variables have been set correctly using `printenv`.
-
 
 ## Moving Config Files
 
 Applications that already implemented the XDG specification will now attempt to create their config files inside `$XDG_CONFIG_HOME`. For example `$XDG_CONFIG_HOME/polybar`. To find out whether or net an application supports the specification already or if one has to do some extra work to get it done, use the [ArchWiki](https://wiki.archlinux.org/index.php/XDG_Base_Directory) page. Simply search for your application. For example `CTRL-F: zsh`.
 
-
 ## User Directories
 
-- `XDG_CONFIG_HOME`:
-	- Where user-specific configurations should be written (analogous to `/etc`).
-	- Should default to `$HOME/.config`.
-
-- `XDG_CACHE_HOME`:
-	- Where user-specific non-essential (cached) data should be written (analogous to `/var/cache`).
-	- Should default to `$HOME/.cache`.
-	
--   `XDG_DATA_HOME`
-    -   Where user-specific data files should be written (analogous to `/usr/share`).
-    -   Should default to `$HOME/.local/share`.
-
--   `XDG_STATE_HOME`
-    -   Where user-specific state files should be written (analogous to `/var/lib`).
-    -   Should default to `$HOME/.local/state`.
-
--   `XDG_RUNTIME_DIR`
-    -   Used for non-essential, user-specific data files such as sockets, named pipes, etc.
-    -   Not required to have a default value; warnings should be issued if not set or equivalents provided.
-    -   Must be owned by the user with an access mode of `0700`.
-    -   Filesystem fully featured by standards of OS.
-    -   Must be on the local filesystem.
-    -   May be subject to periodic cleanup.
-    -   Modified every 6 hours or set sticky bit if persistence is desired.
-    -   Can only exist for the duration of the user's login.
-    -   Should not store large files as it may be mounted as a tmpfs.
-    -   pam_systemd sets this to `/run/user/$UID`.
+* `XDG_CONFIG_HOME`:
+  
+  * Where user-specific configurations should be written (analogous to `/etc`).
+  * Should default to `$HOME/.config`.
+* `XDG_CACHE_HOME`:
+  
+  * Where user-specific non-essential (cached) data should be written (analogous to `/var/cache`).
+  * Should default to `$HOME/.cache`.
+* `XDG_DATA_HOME`
+  
+  * Where user-specific data files should be written (analogous to `/usr/share`).
+  * Should default to `$HOME/.local/share`.
+* `XDG_STATE_HOME`
+  
+  * Where user-specific state files should be written (analogous to `/var/lib`).
+  * Should default to `$HOME/.local/state`.
+* `XDG_RUNTIME_DIR`
+  
+  * Used for non-essential, user-specific data files such as sockets, named pipes, etc.
+  * Not required to have a default value; warnings should be issued if not set or equivalents provided.
+  * Must be owned by the user with an access mode of `0700`.
+  * Filesystem fully featured by standards of OS.
+  * Must be on the local filesystem.
+  * May be subject to periodic cleanup.
+  * Modified every 6 hours or set sticky bit if persistence is desired.
+  * Can only exist for the duration of the user's login.
+  * Should not store large files as it may be mounted as a tmpfs.
+  * pam_systemd sets this to `/run/user/$UID`.
 
 ## System Directories
 
--   `XDG_DATA_DIRS`
-    -   List of directories separated by `:` (analogous to `PATH`).
-    -   Should default to `/usr/local/share:/usr/share`.
-
--   `XDG_CONFIG_DIRS`
-    -   List of directories separated by `:` (analogous to `PATH`).
-    -   Should default to `/etc/xdg`.
-
+* `XDG_DATA_DIRS`
+  
+  * List of directories separated by `:` (analogous to `PATH`).
+  * Should default to `/usr/local/share:/usr/share`.
+* `XDG_CONFIG_DIRS`
+  
+  * List of directories separated by `:` (analogous to `PATH`).
+  * Should default to `/etc/xdg`.
 
 ## Introduction
 
@@ -128,22 +118,21 @@ Various specifications specify files and file formats. This specification define
 
 The XDG Base Directory Specification is based on the following concepts:
 
--   There is a single base directory relative to which user-specific data files should be written. This directory is defined by the environment variable `$XDG_DATA_HOME`.
-    
--   There is a single base directory relative to which user-specific configuration files should be written. This directory is defined by the environment variable `$XDG_CONFIG_HOME`.
-    
--   There is a single base directory relative to which user-specific state data should be written. This directory is defined by the environment variable `$XDG_STATE_HOME`.
-    
--   There is a single base directory relative to which user-specific executable files may be written.
-    
--   There is a set of preference ordered base directories relative to which data files should be searched. This set of directories is defined by the environment variable `$XDG_DATA_DIRS`.
-    
--   There is a set of preference ordered base directories relative to which configuration files should be searched. This set of directories is defined by the environment variable `$XDG_CONFIG_DIRS`.
-    
--   There is a single base directory relative to which user-specific non-essential (cached) data should be written. This directory is defined by the environment variable `$XDG_CACHE_HOME`.
-    
--   There is a single base directory relative to which user-specific runtime files and other file objects should be placed. This directory is defined by the environment variable `$XDG_RUNTIME_DIR`.
-    
+* There is a single base directory relative to which user-specific data files should be written. This directory is defined by the environment variable `$XDG_DATA_HOME`.
+
+* There is a single base directory relative to which user-specific configuration files should be written. This directory is defined by the environment variable `$XDG_CONFIG_HOME`.
+
+* There is a single base directory relative to which user-specific state data should be written. This directory is defined by the environment variable `$XDG_STATE_HOME`.
+
+* There is a single base directory relative to which user-specific executable files may be written.
+
+* There is a set of preference ordered base directories relative to which data files should be searched. This set of directories is defined by the environment variable `$XDG_DATA_DIRS`.
+
+* There is a set of preference ordered base directories relative to which configuration files should be searched. This set of directories is defined by the environment variable `$XDG_CONFIG_DIRS`.
+
+* There is a single base directory relative to which user-specific non-essential (cached) data should be written. This directory is defined by the environment variable `$XDG_CACHE_HOME`.
+
+* There is a single base directory relative to which user-specific runtime files and other file objects should be placed. This directory is defined by the environment variable `$XDG_RUNTIME_DIR`.
 
 All paths set in these environment variables must be absolute. If an implementation encounters a relative path in any of these variables it should consider the path invalid and ignore it.
 
@@ -157,10 +146,9 @@ All paths set in these environment variables must be absolute. If an implementat
 
 The `$XDG_STATE_HOME` contains state data that should persist between (application) restarts, but that is not important or portable enough to the user that it should be stored in `$XDG_DATA_HOME`. It may contain:
 
--   actions history (logs, history, recently used files, …)
-    
--   current state of the application that can be reused on a restart (view, layout, open files, undo history, …)
-    
+* actions history (logs, history, recently used files, …)
+
+* current state of the application that can be reused on a restart (view, layout, open files, undo history, …)
 
 User-specific executable files may be stored in `$HOME`/.local/bin. Distributions should ensure this directory shows up in the UNIX `$PATH` environment variable, at an appropriate place.
 
@@ -190,21 +178,19 @@ If `$XDG_RUNTIME_DIR` is not set applications should fall back to a replacement 
 
 Other specifications may reference this specification by specifying the location of a data file as `$XDG_DATA_DIRS`/subdir/filename. This implies that:
 
--   Such file should be installed to `$datadir`/subdir/filename with `$datadir` defaulting to /usr/share.
-    
--   A user-specific version of the data file may be created in `$XDG_DATA_HOME`/subdir/filename, taking into account the default value for `$XDG_DATA_HOME` if `$XDG_DATA_HOME` is not set.
-    
--   Lookups of the data file should search for ./subdir/filename relative to all base directories specified by `$XDG_DATA_HOME` and `$XDG_DATA_DIRS` . If an environment variable is either not set or empty, its default value as defined by this specification should be used instead.
-    
+* Such file should be installed to `$datadir`/subdir/filename with `$datadir` defaulting to /usr/share.
+
+* A user-specific version of the data file may be created in `$XDG_DATA_HOME`/subdir/filename, taking into account the default value for `$XDG_DATA_HOME` if `$XDG_DATA_HOME` is not set.
+
+* Lookups of the data file should search for ./subdir/filename relative to all base directories specified by `$XDG_DATA_HOME` and `$XDG_DATA_DIRS` . If an environment variable is either not set or empty, its default value as defined by this specification should be used instead.
 
 Specifications may reference this specification by specifying the location of a configuration file as `$XDG_CONFIG_DIRS`/subdir/filename. This implies that:
 
--   Default configuration files should be installed to `$sysconfdir`/xdg/subdir/filename with `$sysconfdir` defaulting to /etc.
-    
--   A user-specific version of the configuration file may be created in `$XDG_CONFIG_HOME`/subdir/filename, taking into account the default value for `$XDG_CONFIG_HOME` if `$XDG_CONFIG_HOME` is not set.
-    
--   Lookups of the configuration file should search for ./subdir/filename relative to all base directories indicated by `$XDG_CONFIG_HOME` and `$XDG_CONFIG_DIRS` . If an environment variable is either not set or empty, its default value as defined by this specification should be used instead.
-    
+* Default configuration files should be installed to `$sysconfdir`/xdg/subdir/filename with `$sysconfdir` defaulting to /etc.
+
+* A user-specific version of the configuration file may be created in `$XDG_CONFIG_HOME`/subdir/filename, taking into account the default value for `$XDG_CONFIG_HOME` if `$XDG_CONFIG_HOME` is not set.
+
+* Lookups of the configuration file should search for ./subdir/filename relative to all base directories indicated by `$XDG_CONFIG_HOME` and `$XDG_CONFIG_DIRS` . If an environment variable is either not set or empty, its default value as defined by this specification should be used instead.
 
 If, when attempting to write a file, the destination directory is non-existent an attempt should be made to create it with permission `0700`. If the destination directory exists already the permissions should not be changed. The application should be prepared to handle the case where the file could not be written, either because the directory was non-existent and could not be created, or for any other reason. In such case it may choose to present an error message to the user.
 
@@ -212,22 +198,21 @@ When attempting to read a file, if for any reason a file in a certain directory 
 
 A specification that refers to `$XDG_DATA_DIRS` or `$XDG_CONFIG_DIRS` should define what the behaviour must be when a file is located under multiple base directories. It could, for example, define that only the file under the most important base directory should be used or, as another example, it could define rules for merging the information from the different files.
 
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-10-02]]
-- [[Windows Subsystem for Linux]]
-- [[3-Resources/Tools/Developer Tools/Linux/_README|Linux]]
-- [[Development]]
+* [2022-10-02](../2-Areas/Daily-Notes/2022-10-02.md)
+* [Windows Subsystem for Linux](../3-Resources/Tools/Developer%20Tools/Linux/Windows%20Subsystem%20for%20Linux.md)
+* *Linux*
+* [Development](../2-Areas/MOCs/Development.md)
 
-
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[XDG Base Directory Specification]] AND -"Changelog"
-```
+````

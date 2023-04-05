@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth", "Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth"]
----
 # Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Can Figure Control Productivity?
+
+* Can Figure Control Productivity?
   Summary:
   If you're in a job that has too much pulling at you, you have to face that productivity dragon. Capture cand figure control is the best way to do it. Do not let your n e male in box be a long term capture system. Have a better place where obligations are clarified and stored. You need time block plan daily. It's always better to face the dragon than just ignore it....
   Transcript:
@@ -24,7 +18,7 @@ Aliases: ["Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting 
   I help. My name is jonathan, and i'm a university administrator. I've been following your work since so good tey. Can't ignore you, and i've put your ideas to work in my own professional life to great effect. O, so thanks. I've a questioned for you about two kind of broad approaches to improving productivity. And i've heard you talk about both, and i'm wondering if you have thoughts on when each is appropriate to apply. The first is the idea that we need to be looking for ways to make difficult work easier. You know, we need to be working deeply when the task is cognitively demanding. We need to be batching shallow tasks together, that kind of thing. Verses realizing sometimes that a work hard, and sometimes you just need to sit down and get to work. And so i find myself struggling to know which of those broad approaches i need to be taking at a given time. And i'm wondering if you have thoughts on that. Thanks.
   Speaker 1
   So, jonathan, the way i think about the type of advice i give, like how to set up an environment so that you can actually do deep work when facing a task that would benefit from it. Conversely, how you get more organized about your shallow tasks if they don't take over too much time, so they don't prevent deep work from being possible. ([Time 0:18:59](https://share.snipd.com/snip/87a80332-a783-417a-8668-d0c08002aae7))
-- Do Lets Do Better - A Recipe For Satisfaction And Success
+* Do Lets Do Better - A Recipe For Satisfaction And Success
   Summary:
   Do less, do better is a recipe for both satisfaction and success. Go to scenic or aesthetically pleasing places to actually do your reading. Put more energy into the things you do. Take more pride in the small number of things you do. Do it really well. And know why? I have a clear vision of why i think this type of project is important. Here's how it fits into vision of my life. But have your own motivation. Hike, my name is grace. The concept of deep work can be at the core of a satisfying student life. A little bit of minimalism could go a long way....
   Transcript:

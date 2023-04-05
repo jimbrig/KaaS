@@ -1,26 +1,18 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Custom Installation Helpers"]
----
-
 # PowerShell - Custom Installation Helpers
 
 *Source: https://gist.github.com/014f18d00bea1c63ca5da34fa66a71e0#file-mapdrives-psm1*
 
 ## Contents
 
-- [[#Install-fromURL|Install-fromURL]]
-- [[#Github Helpers|Github Helpers]]
-- [[#Install Cascadia Code Nerd Fonts|Install Cascadia Code Nerd Fonts]]
-- [[#Invoke Remote Script|Invoke Remote Script]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Install-fromURL](PowerShell%20-%20Custom%20Installation%20Helpers.md#install-fromurl)
+* [Github Helpers](PowerShell%20-%20Custom%20Installation%20Helpers.md#github-helpers)
+* [Install Cascadia Code Nerd Fonts](PowerShell%20-%20Custom%20Installation%20Helpers.md#install-cascadia-code-nerd-fonts)
+* [Invoke Remote Script](PowerShell%20-%20Custom%20Installation%20Helpers.md#invoke-remote-script)
+* [Appendix: Links](PowerShell%20-%20Custom%20Installation%20Helpers.md#appendix-links)
 
 ## Test-ProgramInstalled
 
-```powershell
+````powershell
 function Test-ProgramInstalled( $programName ) {
 
   $localmachine_x86_check = ((Get-ChildItem "HKLM:Software\Microsoft\Windows\CurrentVersion\Uninstall") | Where-Object { $_.GetValue('DisplayName') -like "*$programName*" } ).Length -gt 0;
@@ -41,11 +33,11 @@ function Test-ProgramInstalled( $programName ) {
   return $localmachine_check -or $user_check;
 }
 
-```
+````
 
-## Install-fromURL 
+## Install-fromURL
 
-```powershell
+````powershell
 # Install-fromURL
 # example: Install-fromURL "<url>" "program-name"
 function Install-fromURL($uri, $name) {
@@ -53,11 +45,11 @@ function Install-fromURL($uri, $name) {
   Invoke-WebRequest -Uri $uri -OutFile $out
   Start-Process $out
 }
-```
+````
 
 ## Github Helpers
 
-```powershell
+````powershell
 # get gh download URL
 # example: Get-GHDownloadURL "user/repo" "*.exe"
 function Get-GHDownloadURL($repo, $pattern) {
@@ -85,11 +77,11 @@ function Install-Github($repo, $pattern, $name) {
   Start-Process $installpath
 }
 
-```
+````
 
 ## Install Cascadia Code Nerd Fonts
 
-```powershell
+````powershell
 # Install Cascadia Code from Nerd Fonts
 function Install-CascadiaCode {
 
@@ -123,11 +115,11 @@ function Install-CascadiaCode {
   Remove-Item -Path $folder -Recurse -Force -EA SilentlyContinue
 }
 
-```
+````
 
 ## Invoke Remote Script
 
-```powershell
+````powershell
 # invoke remote script
 # example: Invoke-RemoteScript
 Function Invoke-RemoteScript {
@@ -141,21 +133,21 @@ Function Invoke-RemoteScript {
 
   Invoke-Expression "& { $(Invoke-RestMethod $address) } $remainingArgs"
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Custom Installation Helpers]] AND -"Changelog"
-```
+````

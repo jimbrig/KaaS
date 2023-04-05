@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 125 —  What is Discipline (and How Do I Get It?)", "Ep. 125 —  What is Discipline (and How Do I Get It?)"]
----
 # Ep. 125 —  What is Discipline (and How Do I Get It?)
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 125 —  What is Discipline (and How Do I Get It?)
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 125 —  What is Discipline (and How Do I Get It?)
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Are You Lazy?
+
+* Are You Lazy?
   Summary:
   LZ: What about people who don't want to or cannot do deep work, ultra learning, et cetera? Do these people exist? And if so, what is the message to them? LZ: I am going to reject your premise that you are lazy. This is not an intrinsic trait of someone, like their hair color or their height. Laziness just simply describes the current configuration of your activity. The question is, where do you want to be? So let's try it on for size. We want to build a life that is serving each of those bucket areas.
   Transcript:

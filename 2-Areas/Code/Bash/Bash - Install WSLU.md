@@ -1,48 +1,41 @@
----
-Date: 2022-03-25
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/Linux", "#Type/Code/Bash", "#Type/Code/Script", "#Topic/Dev/Linux", "#Topic/Dev/WSL"]
-Alias: ["Install WSLU"]
----
-
 # WSL - Install WSLU
 
 *Source: [wslu Wiki (wslutiliti.es)](https://wslutiliti.es/wslu/install.html)*
 
 ## Ubuntu
 
-```bash
+````bash
 sudo apt update
 sudo apt install ubuntu-wsl
-```
+````
 
 ## Kali Linux
 
-```bash
+````bash
 sudo apt install gnupg2 apt-transport-https
 wget -O - https://pkg.wslutiliti.es/public.key | sudo tee -a /etc/apt/trusted.gpg.d/wslu.asc
 echo "deb https://pkg.wslutiliti.es/kali kali-rolling main" | sudo tee -a /etc/apt/sources.list
 sudo apt update
 sudo apt install wslu
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[3-Resources/Tools/Developer Tools/Linux/_README|Linux]]
-- [[Bash]]
-- [[Scripts]]
-- [[Windows Subsystem for Linux|WSL]]
-- [[2-Areas/Code/_README|Code]]
-- [[Kali Linux]]
-- [[Ubuntu]]
-- [[WSL Initial Setup Notes]]
-- [[Windows Developer Environment]]
+* [Development](../../MOCs/Development.md)
+* *Linux*
+* [Bash](Bash.md)
+* *Scripts*
+* [WSL](../../../3-Resources/Tools/Developer%20Tools/Linux/Windows%20Subsystem%20for%20Linux.md)
+* *Code*
+* *Kali Linux*
+* *Ubuntu*
+* [WSL Initial Setup Notes](../../../0-Slipbox/WSL%20Initial%20Setup%20Notes.md)
+* [Windows Developer Environment](../../Guides/Windows%20Developer%20Environment.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[WSL - Install WSLU]] AND -"Changelog"
-```
+````

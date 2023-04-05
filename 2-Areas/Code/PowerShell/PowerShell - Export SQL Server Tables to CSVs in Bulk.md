@@ -1,17 +1,10 @@
----
-Date: 2022-07-30
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["Export SQL Server Tables to CSVs in Bulk"]
----
-
 # Export SQL Server Tables to CSVs in Bulk
 
 *Source: Personal PowerShell Code*
 
 `Export-SQLTablesToCSV`
 
-```powershell
+````powershell
 Function Export-SQLTablesToCSV {
     <#
     .DESCRIPTION
@@ -127,21 +120,21 @@ Function Export-SQLTablesToCSV {
 
 }
 
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Export SQL Server Tables to CSVs in Bulk]] AND -"Changelog"
-```
+````

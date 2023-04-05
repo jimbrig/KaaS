@@ -1,10 +1,3 @@
----
-Date: 2022-10-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell", "#Topic/Dev/Databases"]
-Alias: ["Get-OLEDBProviders"]
----
-
 # List all OLEDB Providers with PowerShell
 
 *Original Source: http://dbadailystuff.com/list-all-ole-db-providers-in-powershell*
@@ -13,16 +6,15 @@ See https://www.powershellgallery.com/packages/Get-OLEDBProvider/1.0.0 for my pu
 
 ## Contents
 
-- [[#Snippet|Snippet]]
-- [[#Example Output|Example Output]]
-- [[#Function|Function]]
-- [[#Filtering Output|Filtering Output]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Snippet](PowerShell%20-%20List%20all%20OLEDB%20Providers.md#snippet)
+* [Example Output](PowerShell%20-%20List%20all%20OLEDB%20Providers.md#example-output)
+* [Function](PowerShell%20-%20List%20all%20OLEDB%20Providers.md#function)
+* [Filtering Output](PowerShell%20-%20List%20all%20OLEDB%20Providers.md#filtering-output)
+* [Appendix: Links](PowerShell%20-%20List%20all%20OLEDB%20Providers.md#appendix-links)
 
 ## Snippet
 
-```powershell
+````powershell
 #!/usr/bin/env pwsh
 
 ForEach ($provider in [System.Data.OleDb.OleDbEnumerator]::GetRootEnumerator())
@@ -34,7 +26,7 @@ ForEach ($provider in [System.Data.OleDb.OleDbEnumerator]::GetRootEnumerator())
     }
     $v
 }
-```
+````
 
 ## Example Output
 
@@ -42,7 +34,8 @@ The above snippet will return a listing like the following:
 
 <details><summary>Click to Expand Example Output</summary><p>
 
-```powershell
+
+````powershell
 SOURCES_NAME        : SQLOLEDB
 SOURCES_PARSENAME   : {0C7FF16C-38E3-11d0-97AB-00C04FC2AD98}
 SOURCES_DESCRIPTION : Microsoft OLE DB Provider for SQL Server
@@ -189,8 +182,8 @@ SOURCES_DESCRIPTION : Microsoft OLE DB Driver 19 for SQL Server
 SOURCES_TYPE        : 1
 SOURCES_ISPARENT    : False
 SOURCES_CLSID       : {EE5DE99A-4453-4C96-861C-F8832A7F59FE}
-```
-  
+````
+
 </p>
 </details>
 
@@ -198,7 +191,7 @@ SOURCES_CLSID       : {EE5DE99A-4453-4C96-861C-F8832A7F59FE}
 
 If you want to *functionalize* the script, you can use the following:
 
-```powershell
+````powershell
 #!/usr/bin/env pwsh
 
 Function Get-OLEDBProvider {
@@ -270,7 +263,7 @@ Function Get-OLEDBProvider {
       $p | Select-Object SOURCES_NAME, SOURCES_DESCRIPTION, SOURCES_TYPE, SOURCES_CLSID
   }  
 }
-```
+````
 
 and then run by simply using the function `Get-OLEDBProvider`.
 
@@ -278,25 +271,24 @@ and then run by simply using the function `Get-OLEDBProvider`.
 
 As an example, here's how one could filter for just "SQL Server" Providers:
 
-```powershell
+````powershell
 Get-OLEDBProvider | ?{$_.SOURCES_DESCRIPTION.IndexOf('SQL Server') -ge 0}
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell|PowerShell (MOC)]]
-- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell (Tools)]]
-- [[2-Areas/Code/PowerShell/_README|PowerShell (Code)]]
-
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Microsoft](../../MOCs/Microsoft.md)
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* [PowerShell (MOC)](../../MOCs/PowerShell.md)
+* *PowerShell (Tools)*
+* [PowerShell (Code)](_README.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Get-GitHubRelease]] AND -"Changelog"
-```
+````

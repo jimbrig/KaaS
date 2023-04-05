@@ -1,65 +1,57 @@
----
-Date: 2022-03-30
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Guide", "#Status/WIP"]
-Alias: "VBA Coding Standards"
----
-
 # Visual Basic for Applications (VBA) Coding Standards
 
 *Source: [bluetata/VBA-Coding-Standards: VBA Code Guidelines (github.com)](https://github.com/bluetata/VBA-Coding-Standards)*
 
 ## Contents
 
-- [[#General Advice|General Advice]]
-- [[#Parameters|Parameters]]
-- [[#General errors|General errors]]
-- [[#Variables|Variables]]
-	- [[#Variables#General|General]]
-	- [[#Variables#Declaring|Declaring]]
-	- [[#Variables#Comments|Comments]]
-	- [[#Variables#Variants|Variants]]
-	- [[#Variables#Dates|Dates]]
-- [[#General Naming Conventions|General Naming Conventions]]
-	- [[#General Naming Conventions#General|General]]
-	- [[#General Naming Conventions#Prefix|Prefix]]
-	- [[#General Naming Conventions#Tag|Tag]]
-	- [[#General Naming Conventions#Base name|Base name]]
-	- [[#General Naming Conventions#Qualifiers|Qualifiers]]
-	- [[#General Naming Conventions#Arrays|Arrays]]
-	- [[#General Naming Conventions#Constants|Constants]]
-- [[#API Declaration|API Declaration]]
-	- [[#API Declaration#Use unique alias names|Use unique alias names]]
-- [[#Form, Class & Module Naming|Form, Class & Module Naming]]
-	- [[#Form, Class & Module Naming#Internal Naming|Internal Naming]]
-	- [[#Form, Class & Module Naming#File naming|File naming]]
-	- [[#Form, Class & Module Naming#Object instance naming|Object instance naming]]
-	- [[#Form, Class & Module Naming#Notes|Notes]]
-- [[#Naming Procedures/Functions/Parameters|Naming Procedures/Functions/Parameters]]
-- [[#Function Names|Function Names]]
-	- [[#Function Names#Function return values|Function return values]]
-	- [[#Function Names#Parameters|Parameters]]
-- [[#Naming Controls|Naming Controls]]
-	- [[#Naming Controls#Introduction|Introduction]]
-	- [[#Naming Controls#Control tags|Control tags]]
-	- [[#Naming Controls#Naming menu items|Naming menu items]]
-- [[#**Naming Data Access Objects**|**Naming Data Access Objects**]]
-	- [[#**Naming Data Access Objects**#ADO|ADO]]
-	- [[#**Naming Data Access Objects**#ADO objects|ADO objects]]
-	- [[#**Naming Data Access Objects**#MS Access objects|MS Access objects]]
-- [[#Layout|Layout]]
-	- [[#Layout#Indentation – tab width|Indentation – tab width]]
-	- [[#Layout#Indentation - general|Indentation - general]]
-- [[#Commenting Code|Commenting Code]]
-	- [[#Commenting Code#Comments|Comments]]
-	- [[#Commenting Code#Commenting code when doing maintenance work|Commenting code when doing maintenance work]]
-	- [[#Commenting Code#Etiquette when commenting code|Etiquette when commenting code]]
-	- [[#Commenting Code#Pre-compilation commands|Pre-compilation commands]]
-- [[#Error Handling|Error Handling]]
-	- [[#Error Handling#Generic error handler|Generic error handler]]
-	- [[#Error Handling#Error handling labels|Error handling labels]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [General Advice](VBA%20Coding%20Standards.md#general-advice)
+* [Parameters](VBA%20Coding%20Standards.md#parameters)
+* [General errors](VBA%20Coding%20Standards.md#general-errors)
+* [Variables](VBA%20Coding%20Standards.md#variables)
+  * [General](VBA%20Coding%20Standards.md#variables-general)
+  * [Declaring](VBA%20Coding%20Standards.md#variables-declaring)
+  * [Comments](VBA%20Coding%20Standards.md#variables-comments)
+  * [Variants](VBA%20Coding%20Standards.md#variables-variants)
+  * [Dates](VBA%20Coding%20Standards.md#variables-dates)
+* [General Naming Conventions](VBA%20Coding%20Standards.md#general-naming-conventions)
+  * [General](VBA%20Coding%20Standards.md#general-naming-conventions-general)
+  * [Prefix](VBA%20Coding%20Standards.md#general-naming-conventions-prefix)
+  * [Tag](VBA%20Coding%20Standards.md#general-naming-conventions-tag)
+  * [Base name](VBA%20Coding%20Standards.md#general-naming-conventions-base-name)
+  * [Qualifiers](VBA%20Coding%20Standards.md#general-naming-conventions-qualifiers)
+  * [Arrays](VBA%20Coding%20Standards.md#general-naming-conventions-arrays)
+  * [Constants](VBA%20Coding%20Standards.md#general-naming-conventions-constants)
+* [API Declaration](VBA%20Coding%20Standards.md#api-declaration)
+  * [Use unique alias names](VBA%20Coding%20Standards.md#api-declaration-use-unique-alias-names)
+* [Form, Class & Module Naming](VBA%20Coding%20Standards.md#form-class-module-naming)
+  * [Internal Naming](VBA%20Coding%20Standards.md#form-class-module-naming-internal-naming)
+  * [File naming](VBA%20Coding%20Standards.md#form-class-module-naming-file-naming)
+  * [Object instance naming](VBA%20Coding%20Standards.md#form-class-module-naming-object-instance-naming)
+  * [Notes](VBA%20Coding%20Standards.md#form-class-module-naming-notes)
+* [Naming Procedures/Functions/Parameters](VBA%20Coding%20Standards.md#naming-procedures-functions-parameters)
+* [Function Names](VBA%20Coding%20Standards.md#function-names)
+  * [Function return values](VBA%20Coding%20Standards.md#function-names-function-return-values)
+  * [Parameters](VBA%20Coding%20Standards.md#function-names-parameters)
+* [Naming Controls](VBA%20Coding%20Standards.md#naming-controls)
+  * [Introduction](VBA%20Coding%20Standards.md#naming-controls-introduction)
+  * [Control tags](VBA%20Coding%20Standards.md#naming-controls-control-tags)
+  * [Naming menu items](VBA%20Coding%20Standards.md#naming-controls-naming-menu-items)
+* \[\[\#**Naming Data Access Objects**\|**Naming Data Access Objects**\]\]
+  * \[\[\#**Naming Data Access Objects**\#ADO|ADO\]\]
+  * \[\[\#**Naming Data Access Objects**\#ADO objects|ADO objects\]\]
+  * \[\[\#**Naming Data Access Objects**\#MS Access objects|MS Access objects\]\]
+* [Layout](VBA%20Coding%20Standards.md#layout)
+  * [Indentation – tab width](VBA%20Coding%20Standards.md#layout-indentation-tab-width)
+  * [Indentation - general](VBA%20Coding%20Standards.md#layout-indentation-general)
+* [Commenting Code](VBA%20Coding%20Standards.md#commenting-code)
+  * [Comments](VBA%20Coding%20Standards.md#commenting-code-comments)
+  * [Commenting code when doing maintenance work](VBA%20Coding%20Standards.md#commenting-code-commenting-code-when-doing-maintenance-work)
+  * [Etiquette when commenting code](VBA%20Coding%20Standards.md#commenting-code-etiquette-when-commenting-code)
+  * [Pre-compilation commands](VBA%20Coding%20Standards.md#commenting-code-pre-compilation-commands)
+* [Error Handling](VBA%20Coding%20Standards.md#error-handling)
+  * [Generic error handler](VBA%20Coding%20Standards.md#error-handling-generic-error-handler)
+  * [Error handling labels](VBA%20Coding%20Standards.md#error-handling-error-handling-labels)
+* [Appendix: Links](VBA%20Coding%20Standards.md#appendix-links)
 
 ## General Advice
 
@@ -69,13 +61,13 @@ Always use Option Explicit as the first line in every code module. To switch thi
 
 Avoid confusion over `ByVal` and `ByRef`. Be aware of the default for parameters being `ByRef`. Be explicit when passing parameters.
 
-- [Force] Only use `ByRef` where you intend to modify the parameter and  pass the change back to the Caller.
-- [Force] Pass parameter `ByVal` if they are not to be changes
-- [Suggest] Explicitly use ByRef in an input parameter is to be changed, but watch for signs to redesign.
+* \[Force\] Only use `ByRef` where you intend to modify the parameter and  pass the change back to the Caller.
+* \[Force\] Pass parameter `ByVal` if they are not to be changes
+* \[Suggest\] Explicitly use ByRef in an input parameter is to be changed, but watch for signs to redesign.
 
 Pass by Reference example:
 
-```vba
+````vba
 Private Sub ChangeRefValue()
     Dim intX As Integer
     intX = 1
@@ -89,13 +81,13 @@ End Sub
 Sub ChangeValueByRef(ByRef intY As Integer)
     intY = intY + 5
 End Sub
-```
+````
 
 Pass by Value example:
 
-```vba
+````vba
 Public Sub Load(ByVal strName As String, ByVal strPhone As String)
-```
+````
 
 ## General errors
 
@@ -106,28 +98,29 @@ Handle errors where they occur. This may involve handling the error and raising 
 
 ### General
 
-- [Force] Where global variables are used, they must all be defined in one module.
-- [Force] Hard-coded(Magic) numbers and strings should be made into constants.
-- [Force] Use explicit data casting functions:  `Cstr()`, `CDate()`, `Cbool()` etc.
+* \[Force\] Where global variables are used, they must all be defined in one module.
+* \[Force\] Hard-coded(Magic) numbers and strings should be made into constants.
+* \[Force\] Use explicit data casting functions:  `Cstr()`, `CDate()`, `Cbool()` etc.
 
 ### Declaring
 
-- [Force] Variables must be dimensioned on separate lines, and should specify a datatype (except where this is not possible – as when using certain scripting languages).
+* \[Force\] Variables must be dimensioned on separate lines, and should specify a datatype (except where this is not possible – as when using certain scripting languages).
 
 ### Comments
 
-- [Suggest] All variables must be declared at the top of each procedure or module and must ideally be grouped so that all variable types are placed together.
+* \[Suggest\] All variables must be declared at the top of each procedure or module and must ideally be grouped so that all variable types are placed together.
 
 ### Variants
 
-- [Suggest] Variants may be used where appropriate (e.g. to hold arrays returned by a function, or where Nulls may be encountered), but alternative data types should be used where possible.
+* \[Suggest\] Variants may be used where appropriate (e.g. to hold arrays returned by a function, or where Nulls may be encountered), but alternative data types should be used where possible.
 
-- [Suggest] Avoid using Variants data type unless absolutely necessary.
-	- Variants are slower then native types, when there's large dataset or a big macro project.
+* \[Suggest\] Avoid using Variants data type unless absolutely necessary.
+  
+  * Variants are slower then native types, when there's large dataset or a big macro project.
 
 ### Dates
 
-- [Force] Where dates are displayed to users you should avoid ambiguous formats where either years or days vs. months might be confused (such as DD/MM/YY), however the ultimate decision maker on this issue is the customer.
+* \[Force\] Where dates are displayed to users you should avoid ambiguous formats where either years or days vs. months might be confused (such as DD/MM/YY), however the ultimate decision maker on this issue is the customer.
 
 Where dates are being handled "behind the scenes" care should be taken to avoid UK/US format confusion. Particular care should be taken when
 including UK-format dates in literal SQL strings (where the target Microsoft application may expect dates to be in US format). Where there is the slightest possibility of doubt pass the year, month and day parts separately into `DateSerial`, of format them in the universally acceptable ISO format *YYYY-MM-DD*.
@@ -140,7 +133,7 @@ Object names are made up of four parts: prefix tag base name qualifier
 
 The four parts are assembled as follows:
 
-- `[prefixes]tag[BaseName][qualifier]`
+* `[prefixes]tag[BaseName][qualifier]`
 
 *Note: The brackets denote that these components are optional and are not part of the name.*
 
@@ -148,45 +141,45 @@ The four parts are assembled as follows:
 
 Prefixes and tags are always lowercase so your eye goes past them to the first uppercase letter where the base name begins. This makes the names more readable. The base and qualifier components begin with an uppercase letter.
 
-| Prefix | Use                | Notes                             |
-| ------ | ------------------ | --------------------------------- |
-| None   | Local to procedure | No scope prefix as in: dblMaximum |
-| m\_    | Module level scope | m_strPolicyHolder                 |
-| g\_    | Global scope       | g_intCarsLast                     |
+|Prefix|Use|Notes|
+|------|---|-----|
+|None|Local to procedure|No scope prefix as in: dblMaximum|
+|m\_|Module level scope|m_strPolicyHolder|
+|g\_|Global scope|g_intCarsLast|
 
 ### Tag
 
 The tag is the only required component, but in almost all cases the name will have the base name component since you need to be able to distinguish two objects of the same type.
 
-| Variable type     | Tag | Notes         |
-| ----------------- | --- | ------------- |
-| Boolean           | bln | blnFound      |
-| Byte              | byt | bytRasterData |
-| Currency          | cur | curRevenue    |
-| Date (Time)       | dat | datStart      |
-| Double            | dbl | dblTolerance  |
-| Enum              | enm | enmColours    |
-| Integer           | int | intQuantity   |
-| Long              | lng | lngDistance   |
-| Single            | sng | sngAverage    |
-| String            | str | strFName      |
-| User-defined type | udt | udtEmployee   |
-| Variant           | var | varCheckSum   |
+|Variable type|Tag|Notes|
+|-------------|---|-----|
+|Boolean|bln|blnFound|
+|Byte|byt|bytRasterData|
+|Currency|cur|curRevenue|
+|Date (Time)|dat|datStart|
+|Double|dbl|dblTolerance|
+|Enum|enm|enmColours|
+|Integer|int|intQuantity|
+|Long|lng|lngDistance|
+|Single|sng|sngAverage|
+|String|str|strFName|
+|User-defined type|udt|udtEmployee|
+|Variant|var|varCheckSum|
 
-- [Suggest] To avoid defining an ambiguous variable, it is strongly suggest to use 3-letter abbreviations instead of using a single-letter abbreviations
+* \[Suggest\] To avoid defining an ambiguous variable, it is strongly suggest to use 3-letter abbreviations instead of using a single-letter abbreviations
 
 Positive Example:
 
-```vba
+````vba
 Dim intProductID As Integer
-```
+````
 
 Negative Example:
 
-```vba
+````vba
 Dim iProductID As Integer   ' Too short abbreviative tag definition
 Dim orderID As Integer      ' Meaningless definition
-```
+````
 
 ### Base name
 
@@ -200,33 +193,33 @@ Object qualifiers may follow a name and further clarify names that are similar. 
 
 Other examples of qualifiers:
 
-| Usage                   | Qualifier | Example         |
-| ----------------------- | --------- | --------------- |
-| Current element of set  | Cur       | intCarsCur      |
-| First element of set    | First     | intCarsFirst    |
-| Last element of set     | Last      | intCarsLast     |
-| Next element of set     | Next      | strCustomerNext |
-| Previous element of set | Prev      | strCustomerPrev |
-| Lower limit of range    | Min       | strNameMin      |
-| Upper limit of range    | Max       | strNameMax      |
-| Source                  | Src       | lngBufferSrc    |
-| Destination             | Dest      | lngBufferDest   |
+|Usage|Qualifier|Example|
+|-----|---------|-------|
+|Current element of set|Cur|intCarsCur|
+|First element of set|First|intCarsFirst|
+|Last element of set|Last|intCarsLast|
+|Next element of set|Next|strCustomerNext|
+|Previous element of set|Prev|strCustomerPrev|
+|Lower limit of range|Min|strNameMin|
+|Upper limit of range|Max|strNameMax|
+|Source|Src|lngBufferSrc|
+|Destination|Dest|lngBufferDest|
 
 ### Arrays
 
-- [Force] Array names must be prefixed with "a" or "arr". The upper and lower bounds of the array must be declared explicitly (unless they’re not known at design-time).
+* \[Force\] Array names must be prefixed with "a" or "arr". The upper and lower bounds of the array must be declared explicitly (unless they’re not known at design-time).
 
 Positive Example:
 
-```vba
+````vba
 Dim astrMonths(1 To 12) As String
-```
+````
 
 Negative Example:
 
-```vba
+````vba
 Dim strMonths(1 To 12) As String
-```
+````
 
 ### Constants
 
@@ -234,31 +227,31 @@ Each word must be capitalized and the words separated with an underscore. The ba
 
 Example:
 
-```vba
+````vba
 User defined constant: g_intERR_INVALID_NAME
 Visual Basic: vbArrowHourglass
-```
+````
 
 ## API Declaration
 
 API declarations must be laid out so that they are easily readable on the screen.
 
-```vba
+````vba
 Public Declare Function WritePrivateProfileString Lib "kernel32" Alias "WritePrivateProfileStringA" _
     (ByVal lpApplicationName As String, _
     ByVal lpKeyName As Any, _
     ByVal lpString As Any, _
     ByVal lpFileName As String) As Long
-```
+````
 
 ### Use unique alias names
 
 In VB you can call external procedures in `DLLs` when you know the entry point (the name of the function in the DLL). However, the caveat is that you can only declare the external procedure once. If you load a library that calls the same Windows API that your module calls, you will get the infamous error, "Tried to load module with duplicate procedure definition."
 
-```vba
+````vba
 Declare smg_GetActiveWindow Lib "Kernel" Alias _
 	"GetActiveWindo" () As Integer
-```
+````
 
 ## Form, Class & Module Naming
 
@@ -266,35 +259,35 @@ Declare smg_GetActiveWindow Lib "Kernel" Alias _
 
 (i.e. the name assigned to the module within the VB Properties)
 
-| Module Type      | Prefix | Example      |
-| ---------------- | ------ | ------------ |
-| Form             | frm    | frmLogon     |
-| Standard module  | mod    | modUtilities |
-| Class module     | C      | CPerson      |
-| Collection class | C      | CPersons1    |
-| Interface class  | I      | IPerson      |
+|Module Type|Prefix|Example|
+|-----------|------|-------|
+|Form|frm|frmLogon|
+|Standard module|mod|modUtilities|
+|Class module|C|CPerson|
+|Collection class|C|CPersons1|
+|Interface class|I|IPerson|
 
 ### File naming
 
 (i.e. the name assigned to the module when saving the physical file)
 
-| Module Type      | Prefix | Example          |
-| ---------------- | ------ | ---------------- |
-| Form             | frm    | frmLogon.frm     |
-| Standard module  | mod    | modUtilities.bas |
-| Class module     | C      | CPerson.cls      |
-| Collection class | C      | CPersons.cls1    |
-| Interface class  | I      | IPerson.cls      |
+|Module Type|Prefix|Example|
+|-----------|------|-------|
+|Form|frm|frmLogon.frm|
+|Standard module|mod|modUtilities.bas|
+|Class module|C|CPerson.cls|
+|Collection class|C|CPersons.cls1|
+|Interface class|I|IPerson.cls|
 
 ### Object instance naming
 
 (i.e. the name assigned when declaring a variable based on the form or class)
 
-| Instance of | Prefix | Example    |
-| ----------- | ------ | ---------- |
-| Form        | frm    | frmLogon   |
-| Class       | obj    | objPerson  |
-| Collection  | obj    | objPersons |
+|Instance of|Prefix|Example|
+|-----------|------|-------|
+|Form|frm|frmLogon|
+|Class|obj|objPerson|
+|Collection|obj|objPersons|
 
 ### Notes
 
@@ -306,11 +299,11 @@ Classes which hold collections should have the same "C" prefix as any other clas
 
 Tags should not be prefixed to Function or Sub names, but **should** be appended to the parameters of these routines. For example:
 
-_**Correct approach for internal function:**_
+***Correct approach for internal function:***
 
-```vba
+````vba
 Private Function TotalUp(ByVal sngSubTotal As Single) As Integer
-```
+````
 
 ### Function return values
 
@@ -320,7 +313,7 @@ This has two benefits. The code is not specific to the name of the function so p
 
 Example:
 
-```vba
+````vba
 Private Function Example(ByVal argintA as Integer) as Single
     Dim sngRetVal as Single
 
@@ -332,7 +325,7 @@ Private Function Example(ByVal argintA as Integer) as Single
     ' Set the Function value
     Example = sngRetVal
 End Function
-```
+````
 
 ### Parameters
 
@@ -340,9 +333,9 @@ Should you find it useful, you may also prefix parameter names with `arg` to avo
 
 Example:
 
-```vba
+````vba
 Private Function DoSomething(ByVal argstrMessage as String) as String
-```
+````
 
 However, should you choose to adopt this standard it must be applied consistently across the entire project
 
@@ -354,31 +347,31 @@ Controls must be named with uniform prefixes strictly adhering to the following 
 
 ### Control tags
 
-| Object Type                   | Tag  | Notes           |
-| ----------------------------- | ---- | --------------- |
-| Check box                     | chk  | chkReadOnly     |
-| Combo box, drop-down list box | cbo  | cboEnglish      |
-| Command button                | cmd  | cmdExit         |
-| Common dialog                 | dlg  | dlgFileOpen     |
-| Control                       | ctl  | ctlCurrent      |
-| Form                          | frm  | frmEntry        |
-| Frame                         | fra  | fraLanguage     |
-| Grid                          | grd  | grdPrices       |
-| Image                         | img  | imgIcon         |
-| Key status                    | key  | keyCaps         |
-| Label                         | lbl  | lblHelpMessage  |
-| Line                          | lin  | linVertical     |
-| List box                      | lst  | lstPolicyCodes  |
-| Menu                          | mnu  | mnuFileOpen     |
-| Report                        | rpt  | rptQtr1Earnings |
-| Shape                         | shp  | shpCircle       |
-| Text box                      | txt  | txtLastName     |
-| True DBGrid                   | tdbg | tdbgRecords     |
-| Timer                         | tmr  | tmrAlarm        |
-| ImageList                     | ils  | ilsAllIcons     |
-| Toolbar                       | tlb  | tlbActions      |
-| TabStrip                      | tab  | tabOptions      |
-| ListView                      | lvw  | lvwHeadings     |
+|Object Type|Tag|Notes|
+|-----------|---|-----|
+|Check box|chk|chkReadOnly|
+|Combo box, drop-down list box|cbo|cboEnglish|
+|Command button|cmd|cmdExit|
+|Common dialog|dlg|dlgFileOpen|
+|Control|ctl|ctlCurrent|
+|Form|frm|frmEntry|
+|Frame|fra|fraLanguage|
+|Grid|grd|grdPrices|
+|Image|img|imgIcon|
+|Key status|key|keyCaps|
+|Label|lbl|lblHelpMessage|
+|Line|lin|linVertical|
+|List box|lst|lstPolicyCodes|
+|Menu|mnu|mnuFileOpen|
+|Report|rpt|rptQtr1Earnings|
+|Shape|shp|shpCircle|
+|Text box|txt|txtLastName|
+|True DBGrid|tdbg|tdbgRecords|
+|Timer|tmr|tmrAlarm|
+|ImageList|ils|ilsAllIcons|
+|Toolbar|tlb|tlbActions|
+|TabStrip|tab|tabOptions|
+|ListView|lvw|lvwHeadings|
 
 ### Naming menu items
 
@@ -388,10 +381,10 @@ Prefixing must ideally continue beyond the initial prefix. The first prefix afte
 
 Example:
 
-```vba
+````vba
 Top level menu item – mnuFile
 Menu sub item – mnuFileSave
-```
+````
 
 ## **Naming Data Access Objects**
 
@@ -401,42 +394,42 @@ If you include references to both ADO and DAO in the same project you must expli
 
 Example:
 
-```vba
+````vba
 Dim cnnStore As ADODB.Connection
 Dim cnnOther As DAO.Connection
-```
+````
 
 ### ADO objects
 
-| Object Type | Tag | Example     |
-| ----------- | --- | ----------- |
-| Command     | cmd | cmdBooks    |
-| Connection  | cnn | cnnLibrary  |
-| Parameter   | prm | prmTitle    |
-| Error       | err | errLoop     |
-| Recordset   | rst | rstForecast |
+|Object Type|Tag|Example|
+|-----------|---|-------|
+|Command|cmd|cmdBooks|
+|Connection|cnn|cnnLibrary|
+|Parameter|prm|prmTitle|
+|Error|err|errLoop|
+|Recordset|rst|rstForecast|
 
 ### MS Access objects
 
 The following is a suggested naming convention for use with MS Access objects – you may find it useful for larger Access projects which have many objects within the same database.
 
-| Object Type        | Tag  | Example           |
-| ------------------ | ---- | ----------------- |
-| Table              | tbl  | tblCustomer       |
-| Query (select)     | qry  | qryOverAchiever   |
-| Query (append)     | qapp | qappNewProduct    |
-| Query (crosstab)   | qxtb | qxtbRegionSales   |
-| Query (delete)     | qdel | qdelOldAccount    |
-| Query (make table) | qmak | qmakShipTo        |
-| Query (update)     | qupd | qupdDiscount      |
-| Form               | frm  | frmCustomer       |
-| Form (dialog)      | fdlg | fdlgLogin         |
-| Form (message)     | fmsg | fmsgWait          |
-| Form (subform)     | fsub | fsubOrder         |
-| Report             | rpt  | rptInsuranceValue |
-| Report (subreport) | rsub | rsubOrder         |
-| Macro (menu)       | mmnu | mmnuEntryFormFile |
-| Module             | mod  | modBilling        |
+|Object Type|Tag|Example|
+|-----------|---|-------|
+|Table|tbl|tblCustomer|
+|Query (select)|qry|qryOverAchiever|
+|Query (append)|qapp|qappNewProduct|
+|Query (crosstab)|qxtb|qxtbRegionSales|
+|Query (delete)|qdel|qdelOldAccount|
+|Query (make table)|qmak|qmakShipTo|
+|Query (update)|qupd|qupdDiscount|
+|Form|frm|frmCustomer|
+|Form (dialog)|fdlg|fdlgLogin|
+|Form (message)|fmsg|fmsgWait|
+|Form (subform)|fsub|fsubOrder|
+|Report|rpt|rptInsuranceValue|
+|Report (subreport)|rsub|rsubOrder|
+|Macro (menu)|mmnu|mmnuEntryFormFile|
+|Module|mod|modBilling|
 
 ## Layout
 
@@ -450,19 +443,19 @@ This is the default VB setting, and using it ensures compatibility when code is 
 
 Code must be indented consistently adhering to the following rules:
 
-- Declarations must not be indented.
-- On Error statements and line labels/numbers must not be indented.
-- Start code indented to one tab stop.
-- Code within If-Else-EndIf, For-Next, Do While/Until and any other loops must be indented a further tab stop within the body.
-- Code between add/edit and update statements must be indented a further tab stop.
-- Case statements must be indented to one stop after the Select Case. 
-- Code following the Case statements must be indented a further Tab stop.
-- Code between With and End With statements must be indented by one tab stop.
-- Code within error trap must be indented by to one tab stop. 
+* Declarations must not be indented.
+* On Error statements and line labels/numbers must not be indented.
+* Start code indented to one tab stop.
+* Code within If-Else-EndIf, For-Next, Do While/Until and any other loops must be indented a further tab stop within the body.
+* Code between add/edit and update statements must be indented a further tab stop.
+* Case statements must be indented to one stop after the Select Case. 
+* Code following the Case statements must be indented a further Tab stop.
+* Code between With and End With statements must be indented by one tab stop.
+* Code within error trap must be indented by to one tab stop. 
 
 Example:
 
-```vba
+````vba
 Dim strTest as String
 Dim wrk as Workspace
 On Error Goto ErrHandler
@@ -488,7 +481,7 @@ ExitHere:
     Exit Sub
 ErrHandler:
     Resume ExitHere
-```
+````
 
 ## Commenting Code
 
@@ -496,30 +489,30 @@ ErrHandler:
 
 Remember the following points:
 
-- Code must be commented appropriately. The goal should be to improve understanding and maintainability of the code.
-- Comments should explain the reasoning behind the code. It may be obvious to the original developer what a piece of code does but somebody reading it may have no idea why it has to be there. When you write a piece of code, imagine someone else having to read through it 3 months later. Will it make sense to them?
-- Important variable declarations may include an inline comment describing the use of the variable being declared.
+* Code must be commented appropriately. The goal should be to improve understanding and maintainability of the code.
+* Comments should explain the reasoning behind the code. It may be obvious to the original developer what a piece of code does but somebody reading it may have no idea why it has to be there. When you write a piece of code, imagine someone else having to read through it 3 months later. Will it make sense to them?
+* Important variable declarations may include an inline comment describing the use of the variable being declared.
 
 Example:
 
-```vba
+````vba
 Dim strLookUp as String    ' Accepts value from user to search for
-```
+````
 
-- Comments for individual lines appear above, or of the code to which they refer.
-- The functional overview comment of a procedure may be indented one space to aid readability.
-- You can also add comments to your code with the `Rem` keyword.
+* Comments for individual lines appear above, or of the code to which they refer.
+* The functional overview comment of a procedure may be indented one space to aid readability.
+* You can also add comments to your code with the `Rem` keyword.
 
 However, the `'` symbol are easier to use and require less space and memory.
 
 Example:
 
-```vba
+````vba
 Public Sub DeleteCustomer(ByVal argintID As Long)
     ' Removes customer from Database
     cnVideo.Execute "DELETE FROM Customer WHERE CustomerID=" & argintID
 End Sub
-```
+````
 
 ### Commenting code when doing maintenance work
 
@@ -539,14 +532,14 @@ These can be useful for including/excluding debug code etc.
 
 For example:
 
-```vba
+````vba
 #Const DebugMode = True
 #IF  DebugMode THEN
     <code block>
 #ELSE
     <code block>
 #ENDIF
-```
+````
 
 ## Error Handling
 
@@ -554,7 +547,7 @@ For example:
 
 Consistent error handlers must be implemented. The following error handler should be used:
 
-```vba
+````vba
 On Error GoTo ErrHandler
     <code block>
 
@@ -574,16 +567,14 @@ ErrHandler:
                 Resume ExitHere
         End Select
 End Sub
-```
+````
 
 ### Error handling labels
 
 The labels **ErrHandler** and **ExitHere** are used both for consistency across routines, and to facilitate easier copying and pasting of error handlers between routines.
 
-***
+---
 
 ## Appendix: Links
 
 **See Also:**
-
-

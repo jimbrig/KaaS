@@ -1,10 +1,3 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox"]
-Alias: "Property Casualty Loss Reserving Methodologies"
----
-
 # Property Casualty Loss Reserving Methodologies
 
 ## Traditional Methods
@@ -37,16 +30,15 @@ Incurred loss development and paid loss development.
 
 ### Simulation and Confidence Intervals
 
-
-***
+---
 
 #### Related
 
-- [[Actuarial Science]]
-- [[Development]]
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
+* [Development](../2-Areas/MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Property Casualty Loss Reserving Methodologies]] AND -"Changelog"
-```
+````

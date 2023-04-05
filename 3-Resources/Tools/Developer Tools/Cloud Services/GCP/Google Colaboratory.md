@@ -1,10 +1,3 @@
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Google Colaboratory"]
----
-
 <h1>Google Colaboratory</h1><p><img style="float" href="https://colab.research.google.com/" src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45px"></p>
 
 Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with 
@@ -33,17 +26,17 @@ Whether you're a **student**, a **data scientist** or an **AI researcher**
 
 ## Related
 
-* [[Data Science]]
-* [[Developer Notebooks]]
-* [[Data Science in the Cloud]]
-* [[Google Cloud Platform]]
-* [[Google Cloud BigQuery]]
-* [[Jupyter Notebooks]]
-* [[2-Areas/MOCs/Python]]
-* [[Azure Machine Learning]]
-* [[GitHub Codespaces]]
-* [[Visual Studio Code]]
-* [[MLOps]]
+* [Data Science](../../../../../2-Areas/MOCs/Data%20Science.md)
+* [Developer Notebooks](../../../../../0-Slipbox/Developer%20Notebooks.md)
+* *Data Science in the Cloud*
+* *Google Cloud Platform*
+* [Google Cloud BigQuery](Google%20Cloud%20BigQuery.md)
+* *Jupyter Notebooks*
+* [2-Areas/MOCs/Python](../../../../../2-Areas/MOCs/Python.md)
+* [Azure Machine Learning](../Azure/Azure%20Machine%20Learning.md)
+* *GitHub Codespaces*
+* [Visual Studio Code](../../IDE/Visual%20Studio%20Code.md)
+* [MLOps](../../../../../0-Slipbox/MLOps.md)
 
 ---
 
@@ -55,15 +48,14 @@ Whether you're a **student**, a **data scientist** or an **AI researcher**
 list from [[Google Colaboratory]] AND -"Meta/Changelog"
 ````
 
-
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

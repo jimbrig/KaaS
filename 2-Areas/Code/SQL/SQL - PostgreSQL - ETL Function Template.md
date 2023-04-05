@@ -1,15 +1,8 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL ETL Function Template"]
----
-
 # SQL - PostgreSQL - ETL Function Template
 
 *Source: [A "best practice" Postgresql function template for ETL processes - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/122052/a-best-practice-postgresql-function-template-for-etl-processes)*
 
-```SQL
+````SQL
 create or replace function 
     table_schema.load_table_name(l_job_date date) 
 returns
@@ -80,30 +73,29 @@ exception when others then
 
 end;
 $$ language plpgsql;
-```
+````
 
 See Also:
 
--   [Manual on error trapping](http://www.postgresql.org/docs/current/static/plpgsql-control-structures.html#PLPGSQL-ERROR-TRAPPING)
--   [Example provided for capturing exceptions](http://www.postgresql.org/docs/current/static/plpgsql-control-structures.html#PLPGSQL-EXCEPTION-DIAGNOSTICS)
--   [Example Setting Function Variables](http://www.faqs.org/docs/ppbook/x19832.htm#OPTIONALVARIABLEEXAMPLES)
--   [Raising exceptions example](http://www.depesz.com/2011/07/20/waiting-for-9-2-stacked-diagnostics-in-plpgsql/)
--   [Wraps another `begin ... end` inside the function definition](https://stackoverflow.com/questions/16372794/postgresql-exception-handling-detail-with-get-stacked-diagnostics)
--   [Prefix local variables so as not to confuse the parser](https://stackoverflow.com/a/20518659/893766)
+* [Manual on error trapping](http://www.postgresql.org/docs/current/static/plpgsql-control-structures.html#PLPGSQL-ERROR-TRAPPING)
+* [Example provided for capturing exceptions](http://www.postgresql.org/docs/current/static/plpgsql-control-structures.html#PLPGSQL-EXCEPTION-DIAGNOSTICS)
+* [Example Setting Function Variables](http://www.faqs.org/docs/ppbook/x19832.htm#OPTIONALVARIABLEEXAMPLES)
+* [Raising exceptions example](http://www.depesz.com/2011/07/20/waiting-for-9-2-stacked-diagnostics-in-plpgsql/)
+* [Wraps another `begin ... end` inside the function definition](https://stackoverflow.com/questions/16372794/postgresql-exception-handling-detail-with-get-stacked-diagnostics)
+* [Prefix local variables so as not to confuse the parser](https://stackoverflow.com/a/20518659/893766)
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL ETL Function Template]] AND -"Changelog"
-```
+````

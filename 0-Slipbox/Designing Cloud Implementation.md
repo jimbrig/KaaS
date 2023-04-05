@@ -1,20 +1,14 @@
----
-Date: 2022-06-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Designing Cloud Implementation"
----
-
 # Designing Cloud Implementation
 
 ## Setup
 
-- Setup Version Control
-- Setup Project Reference Materials
+* Setup Version Control
 
-- Deploy a *demo* or *sandbox* environment.
+* Setup Project Reference Materials
 
-- Publish/plan Milestone Dates
+* Deploy a *demo* or *sandbox* environment.
+
+* Publish/plan Milestone Dates
 
 ## Capture Business Processes and Requirements
 
@@ -40,12 +34,8 @@ After you have captured the business process, requirements, fits, and gaps, revi
 
 When the customer signs off on the business process, requirements, fits and gaps you can mark this task as complete. Use the Business process modeler to record and manage gaps and firm the future business processes.
 
-
-
-
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Designing Cloud Implementation]] AND -"Changelog"
-```
+````

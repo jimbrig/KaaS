@@ -1,15 +1,8 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - R Spelling Checks"]
----
-
 # GitHub Action - R Spelling Checks
 
 *Source: [r.pkg.template/spelling.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/spelling.yaml)*
 
-```yaml
+````yaml
 name: Spelling 🆎
 
 on:
@@ -39,19 +32,18 @@ jobs:
         uses: insightsengineering/r-spellcheck-action@v2
         with:
           exclude: inst/extdata/*
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - R Spelling Checks]] AND -"Changelog"
-```
+````

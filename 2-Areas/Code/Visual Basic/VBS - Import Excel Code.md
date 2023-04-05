@@ -1,15 +1,8 @@
----
-Date: 2022-06-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBS - Excel Import Code"]
----
-
 # VBS - Import Excel Code
 
 *Source: https://github.com/cavo789/vbs_xls_import_code*
 
-```vb
+````vb
 Option Explicit
 
 Private Const cDebugMode = True
@@ -591,29 +584,29 @@ End sub
         call finalize()
         
     End if
-```
+````
 
-Then, use the helper [[2-Areas/Code/Windows CMD/_README|CMD]] script to call this Visual Basic script with a single parameter/argument for the excel file to export from:
+Then, use the helper *CMD* script to call this Visual Basic script with a single parameter/argument for the excel file to export from:
 
-```cmd
+````cmd
 cscript excel_import_code.vbs demo.xlsm //nologo
 pause
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-*See Also: [[VBS - Export Excel Code]]*
+*See Also: [VBS - Export Excel Code](VBS%20-%20Export%20Excel%20Code.md)*
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBS - Excel Import Code]] AND -"Changelog"
-```
+````

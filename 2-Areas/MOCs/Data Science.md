@@ -1,29 +1,22 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Data Science"
----
-
 # Data Science
 
 *Data Science* Map of Content houses all notes related to Data Science in general.
 
 ## Related MOCs
 
-- [[Actuarial Science]]
-- [[Development]]
-- [[2-Areas/MOCs/R]]
+* [Actuarial Science](Actuarial%20Science.md)
+* [Development](Development.md)
+* [2-Areas/MOCs/R](R.md)
 
 ## Notes
 
-- [[Data Science Lifecycle]]
-- [[Team Data Science Process]]
+* [Data Science Lifecycle](../../0-Slipbox/Data%20Science%20Lifecycle.md)
+* [Team Data Science Process](../../0-Slipbox/Team%20Data%20Science%20Process.md)
 
 ## Dataviews
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Data Science]] AND -"Changelog"
-```
+````

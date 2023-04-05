@@ -1,24 +1,16 @@
----
-Date: 2022-09-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Extract Icon from EXE"]
----
-
 # PowerShell - Extract Icon from EXE
 
 ## Contents
 
-- [[#Function|Function]]
-- [[#Extract Multiple Icons from Exe’s in a Folder:|Extract Multiple Icons from Exe’s in a Folder:]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Function](PowerShell%20-%20Extract%20Icon%20from%20EXE.md#function)
+* [Extract Multiple Icons from Exe’s in a Folder:](PowerShell%20-%20Extract%20Icon%20from%20EXE.md#extract-multiple-icons-from-exe-s-in-a-folder)
+* [Appendix: Links](PowerShell%20-%20Extract%20Icon%20from%20EXE.md#appendix-links)
 
 ## Function
 
 *Source: Originally from [Extract Icon from .EXE Powershell (spiceworks.com)](https://community.spiceworks.com/topic/592770-extract-icon-from-exe-powershell) but altered for my needs.*
 
-```powershell
+````powershell
 Function Get-ExeIcon {
 
 	<#
@@ -56,11 +48,11 @@ Function Get-ExeIcon {
     [System.Drawing.Icon]::ExtractAssociatedIcon($ExePath).ToBitmap().Save("$outputFile")
 
 }
-```
+````
 
 ## Extract Multiple Icons from Exe’s in a Folder:
 
-```powershell
+````powershell
 Function Get-ExeIconsFromFolder {
 	<#
 	.SYNOPSIS
@@ -90,26 +82,22 @@ Function Get-ExeIconsFromFolder {
     }
 
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
-- [[Batch Scripting Tips and Tricks]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Microsoft](../../MOCs/Microsoft.md)
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
+* [Batch Scripting Tips and Tricks](../../../0-Slipbox/Batch%20Scripting%20Tips%20and%20Tricks.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Extract Icon from EXE]] AND -"Changelog"
-```
-
-
-
-
+````

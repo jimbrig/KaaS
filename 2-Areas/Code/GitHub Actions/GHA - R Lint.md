@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GHA - Link Workflow"]
----
-
 # GHA - Link Workflow
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#lint-workflow*
@@ -13,7 +6,7 @@ Alias: ["GHA - Link Workflow"]
 
 This example uses the [lintr](https://github.com/jimhester/lintr) package to lint your package and return the results as build annotations.
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -43,17 +36,17 @@ jobs:
       - name: Lint
         run: lintr::lint_package()
         shell: Rscript {0}
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - Link Workflow]] AND -"Changelog"
-```
+````

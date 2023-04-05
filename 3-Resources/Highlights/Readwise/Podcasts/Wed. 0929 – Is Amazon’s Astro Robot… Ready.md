@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Wed. 09/29 – Is Amazon’s Astro Robot… Ready?", "Wed. 09/29 – Is Amazon’s Astro Robot… Ready?"]
----
 # Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
 
 ## Metadata
-- Author: [[Techmeme Ride Home]]
-- Full Title: Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
-- Category: #Type/Highlight/Podcast
+
+* Author: *Techmeme Ride Home*
+* Full Title: Wed. 09/29 – Is Amazon’s Astro Robot… Ready?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Microsopt to Bring Amazon and Epic Games to the Microso Store
+
+* Microsopt to Bring Amazon and Epic Games to the Microso Store
   Summary:
   Microsopt has opened the windows ap store to third party ap stores. Amazon and epic games will be the first store front aps in the coming months. While steam, for example, isn't on the list yet, it could still arrive in the future. Not only is the store being overhauled for windows 11 and eventually windows ten, but microsopt will also let developers keep 100 % of the revenue from aps if they use alternative payment platforms.
   Transcript:

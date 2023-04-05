@@ -1,17 +1,10 @@
----
-Date: 2022-09-23
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["Get-GitHubRelease"]
----
-
 # PowerShell - Get-GitHubRelease
 
 *Source: [Get-GitHubRelease.ps1](https://gist.github.com/jimbrig/03aa65c9b20dc3ad86bbb442f723672a)*
 
-See Also: [[Bash - Download Private GitHub Repo Release Assets]]
+See Also: [Bash - Download Private GitHub Repo Release Assets](../Bash/Bash%20-%20Download%20Private%20GitHub%20Repo%20Release%20Assets.md)
 
-```powershell
+````powershell
 #!/usr/bin/env pwsh
 
 Function Get-GitHubRelease {
@@ -81,23 +74,22 @@ Function Get-GitHubRelease {
     Invoke-WebRequest -SkipCertificateCheck -Uri $private_uri -Headers $private_headers -OutFile $asset_path -Resume -PassThru
 
 }
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Microsoft]]
-- [[Microsoft DOS|Windows Command Line]]
-- [[2-Areas/MOCs/PowerShell|PowerShell (MOC)]]
-- [[3-Resources/Tools/Developer Tools/Languages/PowerShell/_README|PowerShell (Tools)]]
-- [[2-Areas/Code/PowerShell/_README|PowerShell (Code)]]
-
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Microsoft](../../MOCs/Microsoft.md)
+* [Windows Command Line](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* [PowerShell (MOC)](../../MOCs/PowerShell.md)
+* *PowerShell (Tools)*
+* [PowerShell (Code)](_README.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Get-GitHubRelease]] AND -"Changelog"
-```
+````

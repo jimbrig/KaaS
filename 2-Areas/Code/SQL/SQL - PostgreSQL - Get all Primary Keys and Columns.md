@@ -1,15 +1,8 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Get all Primary Keys and Columns"]
----
-
 # SQL - PostgreSQL - Get all Primary Keys and Columns
 
 *Source: https://gist.github.com/abmmhasan/2f4024922eaea537cd1795223e38c18a*
 
-```SQL
+````SQL
 -- Get all primary keys & Columns
 select kcu.table_schema,
        kcu.table_name,
@@ -25,21 +18,20 @@ where tco.constraint_type = 'PRIMARY KEY'
 order by kcu.table_schema,
          kcu.table_name,
          position;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Get all Primary Keys and Columns]] AND -"Changelog"
-```
+````

@@ -1,14 +1,6 @@
----
-Date: 2022-02-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Modern Data Pipeline Complexities"
----
-
 # Modern Data Pipeline Complexities
 
 ![](https://i.imgur.com/kNjjWhZ.png)
-
 
 #### **Data Pipeline Components**
 
@@ -62,14 +54,14 @@ Data storage is the means to persist data as intermediate datasets as it moves t
 
 Data volume and query requirements are the two primary decision factors when making data storage choices. Volume and query are the two most significant decision factors, but many other variables need to be considered when choosing data storage methods. When designing data storage consider these factors:
 
--   Data volume
--   Structure and format
--   Duration and retention
--   Query frequency and volume
--   Other users and uses of the data
--   Governance constraints
--   Privacy and security
--   Fault tolerance and disaster recovery
+* Data volume
+* Structure and format
+* Duration and retention
+* Query frequency and volume
+* Other users and uses of the data
+* Governance constraints
+* Privacy and security
+* Fault tolerance and disaster recovery
 
 #### **Design the Processing**
 
@@ -125,11 +117,11 @@ What parallel processing dependencies require multiple jobs or tasks to complete
 
 Monitoring is the work of observing the data pipeline to ensure a healthy and efficient pipeline that is reliable and performs as required. Pipeline design questions for monitoring include:
 
--   What needs to be monitored?
--   Who is responsible to monitor?
--   What tools will be used to monitor the pipeline?
--   What thresholds and limits are applicable?
--   What actions are needed when thresholds and limits are encountered, and who is responsible to take action?
+* What needs to be monitored?
+* Who is responsible to monitor?
+* What tools will be used to monitor the pipeline?
+* What thresholds and limits are applicable?
+* What actions are needed when thresholds and limits are encountered, and who is responsible to take action?
 
 #### **Choosing the Right Technologies**
 
@@ -139,29 +131,28 @@ Pipeline technology is a huge and continuously evolving topic – too large to a
 
 Data pipelines are inherently complex, but they don’t have to be overly complicated. A systematic approach to pipeline design is the key to reducing complexity. A good step-by-step approach to data pipeline design uses these steps:
 
--   Understand the Destination – Where is the data needed and why?
--   Understand the Origin – Where and how will you acquire the data?
--   Design the Dataflow – How will data move from origin to destination?
--   Design Storage and Processing – What activities are needed to transform and move data, and what techniques to persist data?
--   Design the Workflow – What dependencies exist and what are the right processing sequences?
--   Define the Monitoring – How will you manage pipeline health?
--   Choose the Technology – What tools are needed to implement the pipeline?
+* Understand the Destination – Where is the data needed and why?
+* Understand the Origin – Where and how will you acquire the data?
+* Design the Dataflow – How will data move from origin to destination?
+* Design Storage and Processing – What activities are needed to transform and move data, and what techniques to persist data?
+* Design the Workflow – What dependencies exist and what are the right processing sequences?
+* Define the Monitoring – How will you manage pipeline health?
+* Choose the Technology – What tools are needed to implement the pipeline?
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[ETL]] | [[ELT]]
-- [[Data Engineering]]
-- [[Amazon Web Services]]
-- [[Microsoft Azure]]
-- [[Google Cloud Platform]]
-- [[Data Warehouse]]
-- [[Dimensional Modeling]]
+* [ETL](ETL.md) | [ELT](ELT.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* *Amazon Web Services*
+* [Microsoft Azure](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Microsoft%20Azure.md)
+* *Google Cloud Platform*
+* [Data Warehouse](Data%20Warehouse.md)
+* [Dimensional Modeling](Dimensional%20Modeling.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Modern Data Pipeline Complexities]] AND -"Changelog"
-```
+````

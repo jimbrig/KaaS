@@ -1,33 +1,26 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Cloud/Azure", "#Type/Tool/Database", "#Topic/Dev/Cloud/Azure"]
-Alias: "Azure Data Studio"
----
-
 # Azure Data Studio
 
 Related: 
-- [[SQL Server Management Studio]] (SSMS)
-- [[Visual Studio Code]]
-- [[Azure Machine Learning]]
+
+* [SQL Server Management Studio](../../Data%20Stack/Database%20GUI/SQL%20Server%20Management%20Studio.md) (SSMS)
+* [Visual Studio Code](../../IDE/Visual%20Studio%20Code.md)
+* [Azure Machine Learning](Azure%20Machine%20Learning.md)
 
 ## Contents
 
-- [[#What is Azure Data Studio|What is Azure Data Studio]]
-- [[#Features|Features]]
-- [[#SQL code editor with IntelliSense|SQL code editor with IntelliSense]]
-- [[#Smart SQL code snippets|Smart SQL code snippets]]
-- [[#Customizable Server and Database Dashboards|Customizable Server and Database Dashboards]]
-- [[#Connection management (server groups)|Connection management (server groups)]]
-- [[#Integrated Terminal|Integrated Terminal]]
-- [[#Extensibility and extension authoring|Extensibility and extension authoring]]
-- [[#Feature comparison with SQL Server Management Studio (SSMS)|Feature comparison with SQL Server Management Studio (SSMS)]]
-- [[#Source Control|Source Control]]
-	- [[#Git support in Azure Data Studio|Git support in Azure Data Studio]]
-	- [[#Open an existing Git repository|Open an existing Git repository]]
-	- [[#Working with Git repositories|Working with Git repositories]]
-
+* [What is Azure Data Studio](Azure%20Data%20Studio.md#what-is-azure-data-studio)
+* [Features](Azure%20Data%20Studio.md#features)
+* [SQL code editor with IntelliSense](Azure%20Data%20Studio.md#sql-code-editor-with-intellisense)
+* [Smart SQL code snippets](Azure%20Data%20Studio.md#smart-sql-code-snippets)
+* [Customizable Server and Database Dashboards](Azure%20Data%20Studio.md#customizable-server-and-database-dashboards)
+* [Connection management (server groups)](Azure%20Data%20Studio.md#connection-management-server-groups)
+* [Integrated Terminal](Azure%20Data%20Studio.md#integrated-terminal)
+* [Extensibility and extension authoring](Azure%20Data%20Studio.md#extensibility-and-extension-authoring)
+* [Feature comparison with SQL Server Management Studio (SSMS)](Azure%20Data%20Studio.md#feature-comparison-with-sql-server-management-studio-ssms)
+* [Source Control](Azure%20Data%20Studio.md#source-control)
+  * [Git support in Azure Data Studio](Azure%20Data%20Studio.md#git-support-in-azure-data-studio)
+  * [Open an existing Git repository](Azure%20Data%20Studio.md#open-an-existing-git-repository)
+  * [Working with Git repositories](Azure%20Data%20Studio.md#working-with-git-repositories)
 
 ## What is Azure Data Studio
 
@@ -36,9 +29,10 @@ Related:
 Azure Data Studio offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. It's engineered with the data platform user in mind, with built-in charting of query result sets and customizable dashboards.
 
 Links:
-- [Documentation](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
-- [Download and Install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
-- [Source Code](https://github.com/microsoft/azuredatastudio)
+
+* [Documentation](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
+* [Download and Install Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+* [Source Code](https://github.com/microsoft/azuredatastudio)
 
 ## Features
 
@@ -74,21 +68,21 @@ To learn about extensibility in Azure Data Studio, see [Extensibility](https://d
 
 **Use Azure Data Studio if you:**
 
--   Are mostly editing or executing queries.
--   Need the ability to quickly chart and visualize result sets.
--   Can execute most administrative tasks via the integrated terminal using sqlcmd or PowerShell.
--   Have minimal need for wizard experiences.
--   Do not need to do deep administrative or platform related configuration.
--   Need to run on macOS or Linux.
+* Are mostly editing or executing queries.
+* Need the ability to quickly chart and visualize result sets.
+* Can execute most administrative tasks via the integrated terminal using sqlcmd or PowerShell.
+* Have minimal need for wizard experiences.
+* Do not need to do deep administrative or platform related configuration.
+* Need to run on macOS or Linux.
 
 **Use SQL Server Management Studio if you:**
 
--   Are doing complex administrative or platform configuration.
--   Are doing security management, including user management, vulnerability assessment, and configuration of security features.
--   Need to make use of performance tuning advisors and dashboards.
--   Use database diagrams and table designers.
--   Need access to Registered Servers.
--   Make use of live query stats or client statistics.
+* Are doing complex administrative or platform configuration.
+* Are doing security management, including user management, vulnerability assessment, and configuration of security features.
+* Need to make use of performance tuning advisors and dashboards.
+* Use database diagrams and table designers.
+* Need access to Registered Servers.
+* Make use of live query stats or client statistics.
 
 ## Source Control
 
@@ -100,8 +94,8 @@ Azure Data Studio ships with a Git source control manager (SCM), but you still n
 
 ### Open an existing Git repository
 
-1.  Under the **File** menu, select **Open Folder...**
-2.  Browse to the folder that contains your files tracked by git, and select **Select Folder**. Subfolders in your local repository are okay to select here.
+1. Under the **File** menu, select **Open Folder...**
+1. Browse to the folder that contains your files tracked by git, and select **Select Folder**. Subfolders in your local repository are okay to select here.
 
 ### Working with Git repositories
 
@@ -111,6 +105,6 @@ See also: [Git documentation](https://git-scm.com/documentation)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Azure Data Studio]] AND -"Changelog"
-```
+````

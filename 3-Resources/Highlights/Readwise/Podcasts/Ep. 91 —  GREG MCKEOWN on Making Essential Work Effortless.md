@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless", "Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless"]
----
 # Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Is There a Difference Between Productivity and Objectives?
+
+* Is There a Difference Between Productivity and Objectives?
   Summary:
   productivity and objectives, there's you kind of figur out what you want to do. Behind the objective is like one of the different parts we have in place to execute that objective. And then productivity can come in and say, when do we schedule those parts? There should be less of these things, right? Focus on the important objectives. Don't do too many of these things,. A lot of productivity work on the coke. How do you make sense o organized and schedule, make time for the things you need to do? The piece we were missing is that once you have the objective, the parts that are behind it, like the things you needs to achieve that objective, that's
   Transcript:

@@ -1,14 +1,6 @@
----
-Date: [[2022-09-05]]
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Person", "#Topic/History", "#Topic/Physics"]
-Aliases: ["Democritas"]
----
-
 # Democritas
 
-#Status/Todo 
-
+\#Status/Todo 
 
 ## Links
 
@@ -16,11 +8,10 @@ Aliases: ["Democritas"]
 
 ## Links
 
-***
+---
 
 *Backlinks*
 
-```dataview
+````dataview
 list from [[Democritas - The Father of Atoms]] AND -"Changelog"
-```
-
+````

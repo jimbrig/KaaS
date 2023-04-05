@@ -1,31 +1,20 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Edge"]
----
-
 # Edge Overview
 
 %% Begin Waypoint %%
-- [[Edge]]
-- [[Microsoft Edge]]
+
+* [Edge](Edge.md)
+* [Microsoft Edge](../Microsoft%20Edge.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Edge Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

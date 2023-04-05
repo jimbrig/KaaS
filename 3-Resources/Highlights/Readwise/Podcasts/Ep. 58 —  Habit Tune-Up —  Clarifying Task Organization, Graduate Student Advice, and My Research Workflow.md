@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow", "Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow"]
----
 # Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- What is your Research Workflow Like As an Academic?
+
+* What is your Research Workflow Like As an Academic?
   Summary:
   I want to know what is your research work flow like. How you read papers, what you do with them once you have read and how you get ideas for your own papers. I'm doing my ph d in energy engineering. Most of my work is focused on proofs. So we'll design algarithms and analyze them. ive also had some specialty in the past on proving fundamental impossibility results. so it's all pen paper Proofs. And sorry for no e mythological reference. Well, i don't want it to seem like i'm a stickler about the mythological references. Roman references would be fine too. All right, so i can be flexible here. This
   Transcript:

@@ -1,23 +1,15 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: "Data Versioning"
----
-
 # Data Versioning
 
 *Source: [leeper/data-versioning: Collecting thoughts about data versioning](https://github.com/leeper/data-versioning)*
 
-See Also: [[Databases]] | [[Data Science]] | [[3-Resources/Tools/Developer Tools/Version Control/_README]]
+See Also: [Databases](../2-Areas/MOCs/Databases.md) | [Data Science](../2-Areas/MOCs/Data%20Science.md) | *3-Resources/Tools/Developer Tools/Version Control/_README*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Principles of Data Versioning|Principles of Data Versioning]]
-- [[#Existing Tools and Approaches|Existing Tools and Approaches]]
-- [[#Tentative Conclusions|Tentative Conclusions]]
-
+* [Overview](Data%20Versioning.md#overview)
+* [Principles of Data Versioning](Data%20Versioning.md#principles-of-data-versioning)
+* [Existing Tools and Approaches](Data%20Versioning.md#existing-tools-and-approaches)
+* [Tentative Conclusions](Data%20Versioning.md#tentative-conclusions)
 
 ## Overview
 
@@ -26,11 +18,11 @@ Version control is a huge part of reproducible research and open source software
 ## Principles of Data Versioning
 
 1. Changes to data have sources or explanations
-2. Data versioning should be value-based, not variable- or observation-based
-3. Data exist independent of their format
-4. Collaboration is essential to data generation and curation
-5. Changes to data structure should be recorded independently of data values
-6. Metadata matters but, like structure, should be handled separately from changes to data
+1. Data versioning should be value-based, not variable- or observation-based
+1. Data exist independent of their format
+1. Collaboration is essential to data generation and curation
+1. Changes to data structure should be recorded independently of data values
+1. Metadata matters but, like structure, should be handled separately from changes to data
 
 The first principle of data versioning is that *changes to data have sources or explanations*. A system of data versioning must be able to connect data values, structure, and metadata (and changes to those features) to explanations of those values or the changes to values at the value level (rather than at the level of variables, observations, or files).
 
@@ -56,17 +48,17 @@ Using the linebreak `\n` as delimiter to track changes to an object does work fo
 
 [Universal Numeric Fingerprint (UNF)](http://guides.dataverse.org/en/latest/developers/unf/index.html) provides a potential strategy for version control of data. Indeed, that's specifically what it was designed to do. It's not a version control system per se, but it provides a hash that can be useful for determining when a dataset has changed. It has some nice features:
 
--   File format independent (so better than an MD5)
--   Column order independent (a dataset where columns have been shuffled produces the same UNF hash)
--   Consistently handles floating point numbers (rounding and precision issues are unproblematic) But, UNF is not perfect. The problems include:
--   It is sort-sensitive (an identical dataset that is row sorted produces a different UNF; thus privileging columns/variables over rows/observations)
--   There is no handling of metadata (e.g., variable names are not part of the hash)
--   It is quite sensitive to data structure (e.g., "wide" and "long" representations of the same dataset produce different UNFs)
--   It is not a version control system and provides essentially no insights into what changed, only that a change occurred
+* File format independent (so better than an MD5)
+* Column order independent (a dataset where columns have been shuffled produces the same UNF hash)
+* Consistently handles floating point numbers (rounding and precision issues are unproblematic) But, UNF is not perfect. The problems include:
+* It is sort-sensitive (an identical dataset that is row sorted produces a different UNF; thus privileging columns/variables over rows/observations)
+* There is no handling of metadata (e.g., variable names are not part of the hash)
+* It is quite sensitive to data structure (e.g., "wide" and "long" representations of the same dataset produce different UNFs)
+* It is not a version control system and provides essentially no insights into what changed, only that a change occurred
 
 All of these tools also focus on the data themselves, rather than associated metadata (e.g., the codebook describing the data). While some data formats (e.g., proprietary formats like Stata's .dta and SPSS's .sav) encode this metadata directly in the file, it is not a common feature of widely text-delimited data structures. Sometimes codebooks are modified independent of data values and vice versa, but it's rather to see large public datasets provide detailed information about changes to either the data or the codebook, except in occasional releases.
 
-Another major challenge to data versioning is that existing tools version control are not well-designed to handle provenance. When data is generated, stored, or modified, a software-oriented version control system has no obvious mechanism for recording _why_ values in a dataset are what they are or why changes are made to particular values. A commit message might provide this information, but as soon as a value is changed again, the history of changes _to a particular value_ are lost in the broader history of the data file as a whole.
+Another major challenge to data versioning is that existing tools version control are not well-designed to handle provenance. When data is generated, stored, or modified, a software-oriented version control system has no obvious mechanism for recording *why* values in a dataset are what they are or why changes are made to particular values. A commit message might provide this information, but as soon as a value is changed again, the history of changes *to a particular value* are lost in the broader history of the data file as a whole.
 
 So, there are clearly no complete tools in existence for versioning data.
 
@@ -76,11 +68,10 @@ Data should be stored in a [key-value](http://en.wikipedia.org/wiki/Associative_
 
 Any interface to such a key-value store should come in a familiar and flexible form: users should interact with a data versioning system via whatever manner they currently use data (e.g., a text editor, data analysis software, a spreadsheet application, etc.). Changes should be recorded in a master file that can natively and immediately import from and export to any data file format (including delimited files, spreadsheets, XML, JSON, etc.).
 
-Data versioning systems must have a more sophisticated commit system than that provided by current, software-oriented version control systems. In particular, commits should record not only the change to a data value, structure, or metadata but also _structured_ information that explains that change, including the reason for the change, the source(s) of the data value, and the author of the change. In essence, both changesets and states of the complete data should be fully citable and carry citation-relevant metadata.
-
+Data versioning systems must have a more sophisticated commit system than that provided by current, software-oriented version control systems. In particular, commits should record not only the change to a data value, structure, or metadata but also *structured* information that explains that change, including the reason for the change, the source(s) of the data value, and the author of the change. In essence, both changesets and states of the complete data should be fully citable and carry citation-relevant metadata.
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Data Versioning]] AND -"Changelog"
-```
+````

@@ -1,22 +1,16 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: instapaper
-Link: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
-Tags: ["#Type/Highlight/Article"]
-Aliases: ["Solutions for Taking Notes When Listening to Podcasts", "Solutions for Taking Notes When Listening to Podcasts"]
----
 # Solutions for Taking Notes When Listening to Podcasts
 
 ## Metadata
-- Author: [[Joshua Dance]]
-- Full Title: Solutions for Taking Notes When Listening to Podcasts
-- Category: #Type/Highlight/Article
-- URL: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
+
+* Author: *Joshua Dance*
+* Full Title: Solutions for Taking Notes When Listening to Podcasts
+* Category: #Type/Highlight/Article
+* URL: https://mentalpivot.com/solutions-for-taking-notes-when-listening-to-podcasts/
 
 ## Highlights
-- Here’s the workflow I’m currently using. It uses the Pocket Casts app and an email utility called Mail Notes. Mail Notes lets you setup a single email address that you will send messages to. This speeds up the emailing process because you don’t need to enter a target email when sending a message. I also have a dedicated gmail address for all the notes I mail to myself. I do this so I don’t have to wade through extraneous emails in my inbox. I treat this as a holding pen for jotting quick ideas to myself that I will later flesh out and organize.
-- Here are the steps:
+
+* Here’s the workflow I’m currently using. It uses the Pocket Casts app and an email utility called Mail Notes. Mail Notes lets you setup a single email address that you will send messages to. This speeds up the emailing process because you don’t need to enter a target email when sending a message. I also have a dedicated gmail address for all the notes I mail to myself. I do this so I don’t have to wade through extraneous emails in my inbox. I treat this as a holding pen for jotting quick ideas to myself that I will later flesh out and organize.
+* Here are the steps:
   Pause the podcast.
   Display the “Now Playing” screen. This screen shows the podcast name, podcast episode and time location in the episode.
   Take a screenshot.

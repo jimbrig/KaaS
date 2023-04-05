@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS", "Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS"]
----
 # Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends | DEEP QUESTIONS
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Time Blocking - Is it a Good Idea?
+
+* Time Blocking - Is it a Good Idea?
   Summary:
   daily, weekly, quarterly. That really seems oget the job done. Batch together small things and elaborate on what they are using labels that you explicate up in the upper right hand corner of your time block page. You could have a thirty minute block or an hour long block. Label it admint or tasks. Put a number in it, like one with a circle in the upper right corner of the page,. put a one with a circle, and list out what are the tasks that you would actually do in that block. A lot of professional writers don't get writer's block either....
   Transcript:
@@ -44,7 +38,7 @@ Aliases: ["Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Sl
   so,
   Speaker 1
   what do you do to jump yourself out of it. Well, june, i think i may have talked about this before, but i don't believe in writers block. A lot of other professional writers don't either. ([Time 0:09:04](https://share.snipd.com/snip/8fb66dbc-9b9e-4cc0-8ab9-285ef6bfcab8))
-- Slack Helps Minimize That Uncomfortable, Anxiety Producing Feeling
+* Slack Helps Minimize That Uncomfortable, Anxiety Producing Feeling
   Summary:
   "Slack solves in a lot of office environments is that it helps minimize that really uncomfortable, anxiety producing feeling of messages piling up," he says. "There's this comfort in when i am not communicating, nothing's piling up, right? That or ethic hears you talk to me syncnously if you need something." 'The're some technical benefits that are very important for certain organizations'...
   Transcript:

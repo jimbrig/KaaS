@@ -1,32 +1,21 @@
----
-Date: 2022-09-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Folder", "#Type/ReadMe"]
-Alias: ["Pandoc"]
----
-
 # Pandoc Overview
 
 %% Begin Waypoint %%
-- [[2-Areas/Code/Pandoc/_README]]
-- [[Pandoc - Convert Word to Markdown]]
-- [[Pandoc]]
+
+* *2-Areas/Code/Pandoc/_README*
+* [Pandoc - Convert Word to Markdown](Pandoc%20-%20Convert%20Word%20to%20Markdown.md)
+* [Pandoc](Pandoc.md)
 
 %% End Waypoint %%
 
-***
+---
 
 ## Pandoc Gallery
 
- 
-```ccard
+````ccard
 type: folder_brief_live
-```
- 
+````
 
-***
+---
 
 Jimmy Briggs | 2022 | <jimmy.briggs@jimbrig.com>
-
-
-

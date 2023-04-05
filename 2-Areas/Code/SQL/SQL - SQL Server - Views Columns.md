@@ -1,15 +1,8 @@
----
-Date: 2022-09-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - SQL Server - Views Columns"]
----
-
 # SQL - SQL Server - Views Columns
 
-*Source: *
+\*Source: *
 
-```SQL
+````SQL
 select schema_name(v.schema_id) as schema_name,
        v.name as view_name, 
        col.name as column_name,
@@ -85,21 +78,20 @@ select schema_name(v.schema_id) as schema_name,
  order by schema_name,
        view_name,
        column_name;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - SQL Server - Views Columns]] AND -"Changelog"
-```
+````

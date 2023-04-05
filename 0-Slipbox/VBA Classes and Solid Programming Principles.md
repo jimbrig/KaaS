@@ -1,28 +1,22 @@
----
-Date: 2022-04-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "VBA Classes and Solid Programming Principles"
----
-
 # VBA Classes and Solid Programming Principles
+
 *Source: [VBA Class Modules: gateway to SOLID code – Rubberduck News (wordpress.com)](https://rubberduckvba.wordpress.com/2020/02/27/vba-classes-gateway-to-solid/)*
 
 ## Creating Custom Types
 
 You may have already used a user-defined type (UDT), which is a convenient way to create a structure of closely related properties together. You may have used it before especially if you’ve ever had to use certain API functions via the Declare statements. Let’s start with a Person UDT. We can create a new standard module and define a UDT within the module:
 
-```VBA
+````VBA
 Public Type Person
   FirstName As String
   LastName As String
   BirthDate As Date
 End Type
-```
+````
 
 The UDT provides us with 3 members that tells us something about a Person; namely the first & last name and the birth date. Obviously, we can have more but we want the example to stay simple. The calling code to use a Person UDT could look something like this:
 
-```VBA
+````VBA
 Public Sub Test()
   Dim p1 As Person
   Dim p2 As Person
@@ -37,23 +31,23 @@ Public Sub Test()
  
   Debug.Print VarPtr(p1), VarPtr(p2)
 End Sub
-```
+````
 
 ## Create First Class Module
 
 [image-8.png (171×120) (wordpress.com)](https://rubberduckvba.files.wordpress.com/2020/02/image-8.png)
 
-The very first thing we want to do with our first class is to define the private data it needs to have to work correctly. We could start with nothing but _public fields_, like this:
+The very first thing we want to do with our first class is to define the private data it needs to have to work correctly. We could start with nothing but *public fields*, like this:
 
-```VBA
+````VBA
 Public FirstName As String
 Public LastName As String
 Public BirthDate As Date
-```
+````
 
 We could use `Property` statements instead. If you’ve never used one before, they are a way to provide a procedural access to a member of the data structure, which grants us additional control on how the property may be accessed. We could revise the code accordingly:
 
-```VBA
+````VBA
 Private mFirstName As String
 Private mLastName As String
 Private mBirthDate As Date
@@ -81,10 +75,10 @@ End Property
 Public Property Let BirthDate(NewValue As String)
   mBirthDate = BirthDate
 End Property
-```
+````
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA Classes and Solid Programming Principles]] AND -"Changelog"
-```
+````

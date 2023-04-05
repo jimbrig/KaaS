@@ -1,21 +1,15 @@
----
-Date: 2022-01-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Web Application Architecture"
----
-
 # Web Application Architecture
 
-> A web application architecture describes the layout of all the component of a web application and also highlights the interactions between various application components, third-party middleware systems, web services, and databases. This provides a snapshot of interaction between a number of applications working together simultaneously to provide service to end users
+ > 
+ > A web application architecture describes the layout of all the component of a web application and also highlights the interactions between various application components, third-party middleware systems, web services, and databases. This provides a snapshot of interaction between a number of applications working together simultaneously to provide service to end users
 
 ![](https://i.imgur.com/0OLf55k.png)
 
 ## The Difference Between Software Architecture And Software Design
 
-**_Software architecture_** is highlights all the high-level components of a system and the interaction within them.
+***Software architecture*** is highlights all the high-level components of a system and the interaction within them.
 
-**_Software design_** is a code level design focusing on distributing application business logic into various modules with its own specific purposes. This helps in building and managing the application business logic.
+***Software design*** is a code level design focusing on distributing application business logic into various modules with its own specific purposes. This helps in building and managing the application business logic.
 
 ## User Agent
 
@@ -45,11 +39,12 @@ The database provides tools for organizing, adding, searching, updating, deletin
 
 Caching service provides storage for data, which allows storing and searching data. Caching allows you to refer to the previous result to make computation much faster. Caches can be applied and leveraged throughout various layers of technology including Operating Systems, Networking layers including Content Delivery Networks (CDN) and DNS, web applications, and Databases.
 
-> Client-Side — HTTP Cache Headers, Browsers  
-> DNS — DNS Servers  
-> Web — HTTP Cache Headers, CDNs, Reverse Proxies, Web Accelerators, Key/Value Stores  
-> App — Key/Value data stores, Local caches  
-> Database — Database Cache, buffers, Key/Value data stores
+ > 
+ > Client-Side — HTTP Cache Headers, Browsers  
+ > DNS — DNS Servers  
+ > Web — HTTP Cache Headers, CDNs, Reverse Proxies, Web Accelerators, Key/Value Stores  
+ > App — Key/Value data stores, Local caches  
+ > Database — Database Cache, buffers, Key/Value data stores
 
 ## Content Delivery Network(CDN)
 
@@ -69,8 +64,8 @@ Web services use SOAP (Simple Object Access Protocol) for sending the XML data b
 
 There are mainly two types of web services.
 
-1.  Simple Object Access Protocol or SOAP web services.
-2.  Representational State Transfer or REST web services.
+1. Simple Object Access Protocol or SOAP web services.
+1. Representational State Transfer or REST web services.
 
 ## Data Warehouse
 
@@ -80,33 +75,34 @@ The two main approaches used to build a data warehouse system are Extract, trans
 
 These three required processes are —
 
-> **Extract**: Extract data from multiple sources.  
-> **Transform**: Transform the data including cleaning, margin, and categorizing.  
-> **Load**: Loading the data in storage for data warehousing.
+ > 
+ > **Extract**: Extract data from multiple sources.  
+ > **Transform**: Transform the data including cleaning, margin, and categorizing.  
+ > **Load**: Loading the data in storage for data warehousing.
 
 There are only three models of web application components. It’s closely related to the number of services and databases used for a web application. Here they are:
 
--   _One Web Server, One Database_
--   _Multiple Web Servers, One Database_
--   _Multiple Web Server, Multiple Databases_
--   _Applicaton Services_
+* *One Web Server, One Database*
+* *Multiple Web Servers, One Database*
+* *Multiple Web Server, Multiple Databases*
+* *Applicaton Services*
 
 The three so-called “Monolithic” models are due to their server’s rigid and stable nature. In contrast, application services (microservices and serverless) tend to be agile since they simplify upgrades and scaling. Applying this model allows splitting up web servers into smaller parts: ‘services’ in microservices and ‘functions’ in serverless. Thus, modifying and scaling independently using each of them is easier.
 
 The principal criteria for building a reliable application architecture:
 
--   Efficient
--   Flexible
--   Reusable
--   Easily testable
--   Solves problems consistently and successfully
--   With well-structured and understandable code
--   Scalable in the development process
--   Have fast response times
--   Doesn’t crush
--   Doesn’t have a single point of failure
--   Simple
--   Uses go-to security standards
+* Efficient
+* Flexible
+* Reusable
+* Easily testable
+* Solves problems consistently and successfully
+* With well-structured and understandable code
+* Scalable in the development process
+* Have fast response times
+* Doesn’t crush
+* Doesn’t have a single point of failure
+* Simple
+* Uses go-to security standards
 
 Useful resources:
 
@@ -116,6 +112,6 @@ Useful resources:
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Web Application Architecture]] AND -"Changelog"
-```
+````

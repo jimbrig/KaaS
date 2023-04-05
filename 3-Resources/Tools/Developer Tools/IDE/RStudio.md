@@ -1,20 +1,13 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["RStudio"]
----
-
 # RStudio
 
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[RStudio]] AND -"Changelog"
-```
+````

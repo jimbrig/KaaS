@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS", "Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS"]
----
 # Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work | DEEP QUESTIONS
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- How to Take Control of Your Life - A Personal Culture of Discipline
+
+* How to Take Control of Your Life - A Personal Culture of Discipline
   Summary:
   The other thing i'm going to recommend, gabriella, is a general personal culture of discipline. If you're not in that mind set, it just seems hopelessly tedious. Last year for my birthday, so in june of two thousand and nineteen, i launched at initiative where i closed all f the open loops in what we could call like household management....
   Transcript:

@@ -1,22 +1,16 @@
----
-Date: 2022-09-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["Regedit - Add Open in VSCode Insiders to Explorer Context Menu"]
----
-
 # Regedit - Add Open in VSCode Insiders to Explorer Context Menu
 
 *Source: [Adds 'Open in VS Code - Insiders' to context menu in Windows Explorer. (github.com)](https://gist.github.com/jimbrig/26b0b7788987215b466e36975b07e40c)*
 
-![[Pasted image 20220909182538.png]]
+![Pasted image 20220909182538.png](_assets/Pasted%20image%2020220909182538.png)
 
 Adds the following context menu items:
-- Open Folder as VS Code Insiders Project (for clicking on a folders background in explorer)
-- Open Folder as VS Code Insiders Project (for clicking on a folder directly)
-- Edit with VS Code Insiders (for clicking on a file directly)
 
-```registry
+* Open Folder as VS Code Insiders Project (for clicking on a folders background in explorer)
+* Open Folder as VS Code Insiders Project (for clicking on a folder directly)
+* Edit with VS Code Insiders (for clicking on a file directly)
+
+````registry
 Windows Registry Editor Version 5.00
 
 ; ----------------------------------------------------------
@@ -51,25 +45,24 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\*\shell\VSCodeInsiders\command]
 @="\"C:\\Users\\jimmy\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\Code - Insiders.exe\" \"%1\""
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[2-Areas/Code/Windows Registry/_README|Registry]]
-- [[Windows Registry Hacks]]
-- [[2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites]]
-- [[RegEdit - Customizing Windows Explorer Context Menu]]
-- [[PowerShell - Extract Icon from EXE]]
-- [[Working with the Registry from PowerShell]]
-- [[CMD - Restart Explorer and Start Menu]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Registry*
+* *Windows Registry Hacks*
+* *2-Areas/Code/Windows Registry/Regedit - Export Saved Registry Favorites*
+* *RegEdit - Customizing Windows Explorer Context Menu*
+* [PowerShell - Extract Icon from EXE](../PowerShell/PowerShell%20-%20Extract%20Icon%20from%20EXE.md)
+* [Working with the Registry from PowerShell](../../../0-Slipbox/Working%20with%20the%20Registry%20from%20PowerShell.md)
+* [CMD - Restart Explorer and Start Menu](../CMD/CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Regedit - Add Open in VSCode Insiders to Explorer Context Menu]] AND -"Changelog"
-```
+````

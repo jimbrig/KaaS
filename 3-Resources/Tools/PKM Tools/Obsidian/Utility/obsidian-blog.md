@@ -1,10 +1,3 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Obsidian", "#Type/Tool/Python", "#Type/Tool/CLI", "#Topic/PKM/Obsidian", "Topic/Dev/CLI"]
-Alias: ["obsidian-blog"]
----
-
 # obsidian-blog
 
 *Source: [A/obsidian-blog: Work-in-Progress static site/blog generator for obsidian.md (github.com)](https://github.com/A/obsidian-blog)*
@@ -17,29 +10,29 @@ The idea is to create a simple blog generated from obsidian [Map Of Content](htt
 
 ### Features
 
--   Yet another static site generator for obsidian
--   Built to use with git, github pages and action.
--   Uses handlebars template engine
--   Supports `--watch` and `--server` modes for local writing
--   Recursively parses `[[includes]]` and has cycles detection
--   Automatically copies included local images into the build
--   Supports `--draft` mode to work unpublished files locally
--   Privacy. Notes can be published only with explicit `published: True` annotation.
--   Fluent title detection from `[[note | alt title]]`, frontmatter `title` attribute, or a filename.
--   Render notes as links, in case they're included in the middle of the paragraph and have `link` frontmatter attribute.
--   Supports filename delimeters: `Topic - Category - Note` becomes just `Note`
+* Yet another static site generator for obsidian
+* Built to use with git, github pages and action.
+* Uses handlebars template engine
+* Supports `--watch` and `--server` modes for local writing
+* Recursively parses `[[includes]]` and has cycles detection
+* Automatically copies included local images into the build
+* Supports `--draft` mode to work unpublished files locally
+* Privacy. Notes can be published only with explicit `published: True` annotation.
+* Fluent title detection from `[[note | alt title]]`, frontmatter `title` attribute, or a filename.
+* Render notes as links, in case they're included in the middle of the paragraph and have `link` frontmatter attribute.
+* Supports filename delimeters: `Topic - Category - Note` becomes just `Note`
 
 ### Installation
 
-`obsidian-blog` is a [[Python Packages|Python Package]] and therefore should be installed via [[Python - pip|pip]]:
+`obsidian-blog` is a [Python Package](../../../Developer%20Tools/Languages/Python/Python%20Packages/Python%20Packages.md) and therefore should be installed via [pip](../../../Developer%20Tools/Package%20Managers/Python%20-%20pip.md):
 
-```bash
+````bash
 pip install obsidian-blog
-```
+````
 
 ### Usage
 
-```powershell
+````powershell
 obsidian-blog
 
 Static site generator for obsidian.md notes.
@@ -58,7 +51,7 @@ Options:
   --pages_dir=<directory>       Pages directory to parse [default: Pages]
 
   --version             Show version
-```
+````
 
 ### Example
 
@@ -70,7 +63,7 @@ See [Obsidian Blog Theme](https://github.com/A/obsidian-blog-theme/)
 
 ### Blog files
 
-```bash
+````bash
 notes ❯ tree .blog -a -I .git
 ├── .blog
 │   ├── _assets # static files to be copied into .build
@@ -81,20 +74,20 @@ notes ❯ tree .blog -a -I .git
 ├── .env # environment variables
 ├── Pages # Pages directory, contains handlebars and markdown files
 └── Posts # Posts directory contains obsidian markdown files (which are anyway processed via handlebars)
-```
+````
 
 ### Posts
 
 Posts are obsidian markdown files with includes, images, and anything you usually have in your obsidian notes. Posts are post-processed by handlebars, so you can use it if you need (but not sure if it's a good idea tho).
 
-```yaml
+````yaml
 ---
 title: My awesome post
 date: 2021-01-01 (used for sorting)
 published: True # privacy, can't be skipped
 layout: main (default_layout is used if it skipped)
 ---
-```
+````
 
 ### Pages
 
@@ -104,8 +97,8 @@ Pages are handlebars templates (or just markdown files), rendered via global (`p
 
 Assets are divided into 2 types:
 
--   `.blog/_assets` copied during the build unconditionally
--   Images included either with markdown reference or incline images, or by obsidian `![[]]` syntax. This ones are detected and copied during the build.
+* `.blog/_assets` copied during the build unconditionally
+* Images included either with markdown reference or incline images, or by obsidian `![[]]` syntax. This ones are detected and copied during the build.
 
 ### Deployment
 
@@ -117,18 +110,18 @@ Just text me in [telegram](https://t.me/a_shuvalov) or file an issue. I'd be hap
 
 ### Alternatives
 
--   [Obsidian Export](https://crates.io/crates/obsidian-export) - cli to render obsidian notes into markdown written in Rust (See [[obsidian-export]])
+* [Obsidian Export](https://crates.io/crates/obsidian-export) - cli to render obsidian notes into markdown written in Rust (See [obsidian-export](obsidian-export.md))
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Obsidian]]
-- [[CLI Tools List]]
+* [Tools](../../../Tools.md)
+* [Obsidian](../Obsidian.md)
+* [CLI Tools List](../../../../../2-Areas/Lists/CLI%20Tools%20List.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[obsidian-blog]] AND -"Changelog"
-```
+````

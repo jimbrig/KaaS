@@ -1,22 +1,15 @@
----
-Date: 2022-06-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/Cloud/Azure", "#Topic/Dev/Cloud/Azure", "#Topic/Dev/Docker"]
-Alias: "Azure Container Registry"
----
-
 # Azure Container Registry
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Cloud Computing]]
-- [[Azure Container Instances]]
+* [Development](../../../../../2-Areas/MOCs/Development.md)
+* [Cloud Computing](../../../../../0-Slipbox/Cloud%20Computing.md)
+* [Azure Container Instances](Azure%20Container%20Instances.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Azure Container Registry]] AND -"Changelog"
-```
+````

@@ -1,28 +1,20 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Docker Compose", "docker-compose"]
----
-
 # Docker Compose
 
 ## Contents
 
-- [[#Command options overview and help|Command options overview and help]]
-- [[#Use `-f` to specify name and path of one or more Compose files|Use `-f` to specify name and path of one or more Compose files]]
-	- [[#Specifying multiple Compose files|Specifying multiple Compose files]]
-	- [[#Specifying a path to a single Compose file|Specifying a path to a single Compose file]]
-- [[#Use `-p` to specify a project name|Use `-p` to specify a project name]]
-- [[#Use `--profile` to specify one or more active profiles|Use `--profile` to specify one or more active profiles]]
-- [[#Set up environment variables|Set up environment variables]]
-- [[#Where to go next|Where to go next]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Command options overview and help](Docker%20Compose.md#command-options-overview-and-help)
+* \[\[\#Use `-f` to specify name and path of one or more Compose files|Use `-f` to specify name and path of one or more Compose files\]\]
+  * [Specifying multiple Compose files](Docker%20Compose.md#specifying-multiple-compose-files)
+  * [Specifying a path to a single Compose file](Docker%20Compose.md#specifying-a-path-to-a-single-compose-file)
+* \[\[\#Use `-p` to specify a project name|Use `-p` to specify a project name\]\]
+* \[\[\#Use `--profile` to specify one or more active profiles|Use `--profile` to specify one or more active profiles\]\]
+* [Set up environment variables](Docker%20Compose.md#set-up-environment-variables)
+* [Where to go next](Docker%20Compose.md#where-to-go-next)
+* [Appendix: Links](Docker%20Compose.md#appendix-links)
 
 ## Overview of docker-compose CLI
 
-_Estimated reading time: 5 minutes_
+*Estimated reading time: 5 minutes*
 
 This page provides the usage information for the `docker-compose` Command.
 
@@ -30,7 +22,7 @@ This page provides the usage information for the `docker-compose` Command.
 
 You can also see this information by running `docker-compose --help` from the command line.
 
-```bash
+````bash
 Define and run multi-container applications with Docker.
 
 Usage:
@@ -88,7 +80,7 @@ Commands:
   unpause            Unpause services
   up                 Create and start containers
   version            Show the Docker-Compose version information
-```
+````
 
 You can use Docker Compose binary, `docker-compose [-f <arg>...] [options] [COMMAND] [ARGS...]`, to build and manage multiple services in Docker containers.
 
@@ -102,29 +94,29 @@ You can supply multiple `-f` configuration files. When you supply multiple files
 
 For example, consider this command line:
 
-```bash
+````bash
 $ docker-compose -f docker-compose.yml -f docker-compose.admin.yml run backup_db
-```
+````
 
 The `docker-compose.yml` file might specify a `webapp` service.
 
-```yaml
+````yaml
 webapp:
   image: examples/web
   ports:
     - "8000:8000"
   volumes:
     - "/data"
-```
+````
 
 If the `docker-compose.admin.yml` also specifies this same service, any matching fields override the previous file. New values, add to the `webapp` service configuration.
 
-```yaml
+````yaml
 webapp:
   build: .
   environment:
     - DEBUG=1
-```
+````
 
 When you use multiple Compose files, all paths in the files are relative to the first configuration file specified with `-f`. You can use the `--project-directory` option to override this base path.
 
@@ -142,7 +134,7 @@ For an example of using the `-f` option at the command line, suppose you are run
 
 Here’s the full example:
 
-```bash
+````bash
 $ docker-compose -f ~/sandbox/rails/docker-compose.yml pull db
 Pulling db (postgres:latest)...
 latest: Pulling from library/postgres
@@ -161,7 +153,7 @@ dcca70822752: Pull complete
 cecf11b8ccf3: Pull complete
 Digest: sha256:1364924c753d5ff7e2260cd34dc4ba05ebd40ee8193391220be0f9901d4e1651
 Status: Downloaded newer image for postgres:latest
-```
+````
 
 ## Use `-p` to specify a project name
 
@@ -171,7 +163,7 @@ Each configuration has a project name. If you supply a `-p` flag, you can specif
 
 Calling `docker-compose --profile frontend up` will start the services with the profile `frontend` and services without specified profiles. You can also enable multiple profiles, e.g. with `docker-compose --profile frontend --profile debug up` the profiles `frontend` and `debug` will be enabled.
 
-See also [_Using profiles with Compose_](https://docs.docker.com/compose/profiles/) and the [`COMPOSE_PROFILES` environment variable](https://docs.docker.com/compose/reference/envvars/#compose_profiles).
+See also [*Using profiles with Compose*](https://docs.docker.com/compose/profiles/) and the [`COMPOSE_PROFILES` environment variable](https://docs.docker.com/compose/reference/envvars/#compose_profiles).
 
 ## Set up environment variables
 
@@ -183,25 +175,24 @@ Also, you can set some of these variables in an [environment file](https://docs.
 
 ## Where to go next
 
--   [CLI environment variables](https://docs.docker.com/compose/reference/envvars/)
--   [Declare default environment variables in file](https://docs.docker.com/compose/env-file/)
+* [CLI environment variables](https://docs.docker.com/compose/reference/envvars/)
+* [Declare default environment variables in file](https://docs.docker.com/compose/env-file/)
 
 [fig](https://docs.docker.com/search/?q=fig), [composition](https://docs.docker.com/search/?q=composition), [compose](https://docs.docker.com/search/?q=compose), [docker](https://docs.docker.com/search/?q=docker), [orchestration](https://docs.docker.com/search/?q=orchestration), [cli](https://docs.docker.com/search/?q=cli), [reference](https://docs.docker.com/search/?q=reference), [docker-compose](https://docs.docker.com/search/?q=docker-compose)
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Docker CLI]]
-- [[Docker Compose]]
-- [[Containers]]
-- [[Kubernetes]]
-- [[Web Development]]
+* [Tools](../../Tools.md)
+* [Docker CLI](Docker%20CLI.md)
+* [Docker Compose](Docker%20Compose.md)
+* *Containers*
+* *Kubernetes*
+* [Web Development](../../../../2-Areas/MOCs/Web%20Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Docker CLI]] AND -"Changelog"
-```
+````

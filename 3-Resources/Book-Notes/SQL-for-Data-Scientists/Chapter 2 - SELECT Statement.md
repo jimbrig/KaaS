@@ -1,34 +1,25 @@
----
-Date: 2022-10-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Book", "#Topic/Dev", "#Topic/Dev/SQL", "#Topic/Dev/Data", "#Topic/Dev/Database"]
-Alias: ["Data Sources"]
----
-
 # Chapter 2 - The `SELECT` Statement
 
-
-`SELECT` = [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL]] Code to retrieve data from database
+`SELECT` = [3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL](../../Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/SQL.md) Code to retrieve data from database
 
 ## Contents
 
-- [[#Use Cases|Use Cases]]
-- [[#Syntax|Syntax]]
-- [[#`LIMIT`|`LIMIT`]]
-- [[#`ORDER BY`|`ORDER BY`]]
-- [[#Inline Calculations|Inline Calculations]]
-- [[#Appendix: Links and References|Appendix: Links and References]]
-
+* [Use Cases](Chapter%202%20-%20SELECT%20Statement.md#use-cases)
+* [Syntax](Chapter%202%20-%20SELECT%20Statement.md#syntax)
+* \[\[\#`LIMIT`\|`LIMIT`\]\]
+* \[\[\#`ORDER BY`\|`ORDER BY`\]\]
+* [Inline Calculations](Chapter%202%20-%20SELECT%20Statement.md#inline-calculations)
+* [Appendix: Links and References](Chapter%202%20-%20SELECT%20Statement.md#appendix-links-and-references)
 
 ## Use Cases
 
-- View data from set of columns in a table
-- Combine data from multiple tables
-- Filter results from above, perform custom calculations, etc.
+* View data from set of columns in a table
+* Combine data from multiple tables
+* Filter results from above, perform custom calculations, etc.
 
 ## Syntax
 
-```SQL
+````SQL
 SELECT [DISTINCT]
 	[COLUMN],
 	...
@@ -42,51 +33,49 @@ HAVING
 	[CONDITIONAL FILTER STATEMENTS AFTER GROUPING]
 ORDER BY
 	[COLUMNS TO SORT];
-```
+````
 
 **Select All:**
 
-```SQL
+````SQL
 SELECT * FROM [SCHEMA].[TABLENAME];
-```
+````
 
 ## `LIMIT`
 
-- Sets maximum number of rows to return
-- Is *always* the last line of the query
+* Sets maximum number of rows to return
+* Is *always* the last line of the query
 
-```SQL
+````SQL
 SELECT *
 FROM [SCHEMA].[TABLENAME]
 LIMIT 5
-```
+````
 
 ## `ORDER BY`
 
--   Sort output rows
--   Add `ASC` or `DESC`
-    -   In MySQL, `NULL` values appear first w/ `ASC`
+* Sort output rows
+* Add `ASC` or `DESC`
+  * In MySQL, `NULL` values appear first w/ `ASC`
 
-```SQL
+````SQL
 SELECT * 
 FROM [SCHEMA].[TABLENAME] 
 ORDER BY [ORDERCOLUMN] DESC
 LIMIT 5
-```
+````
 
 ## Inline Calculations
 
-
-
-***
+---
 
 ## Appendix: Links and References
 
-- [[2022-10-28]]
-- [[3-Resources/Book-Notes/SQL-for-Data-Scientists/_README|SQL for Data Scientists]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL]]
-- [[3-Resources/Tools/Developer Tools/Data Stack/Databases/_README|Databases]]
+* *2022-10-28*
+* *SQL for Data Scientists*
+* [3-Resources/Tools/Developer Tools/Data Stack/Procedural Languages/SQL](../../Tools/Developer%20Tools/Data%20Stack/Procedural%20Languages/SQL.md)
+* *Databases*
 
-***
+---
 
 Jimmy Briggs <jimmy.briggs@jimbrig.com> | 2022

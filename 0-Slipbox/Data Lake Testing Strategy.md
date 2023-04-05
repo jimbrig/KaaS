@@ -1,10 +1,3 @@
----
-Date: 2022-10-14
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Data Lake Testing Strategy"
----
-
 # Data Lake Testing Strategy
 
 ## Overview

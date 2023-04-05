@@ -1,15 +1,8 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/PowerShell", "#Topic/Dev/PowerShell"]
-Alias: ["PowerShell - Cleanup Windows Script"]
----
-
 # PowerShell - Cleanup Windows Script
 
 *Source: https://gist.github.com/367df6d602dde2e05b68c6c7ae9fe105#file-cleanup-win10-ps1*
 
-```powershell
+````powershell
 ##
 ## Windows 10 cleanup script.
 ## Remove dodgy tracking settings, unneeded services, all apps, and optional features that come with Windows 10. Make it more like Windows 7.
@@ -183,21 +176,21 @@ foreach ($feature in $features) {
     Disable-WindowsOptionalFeature -Online -FeatureName $feature -NoRestart
 }
 
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[PowerShell - Cleanup Windows Script]] AND -"Changelog"
-```
+````

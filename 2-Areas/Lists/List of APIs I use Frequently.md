@@ -1,10 +1,3 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/List", "#Topic/Dev/WebDev", "#Topic/Dev/WebDev/API"]
-Alias: ["List of APIs I use Frequently", "APIs I use"]
----
-
 # List of APIs I use Frequently
 
 ## Auth0 API
@@ -19,14 +12,10 @@ Alias: ["List of APIs I use Frequently", "APIs I use"]
 
 ## Feedly API
 
-
-
-
-
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[List of APIs I use Frequently]] AND -"Changelog"
-```
+````

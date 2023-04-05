@@ -1,17 +1,10 @@
----
-Date: 2022-02-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - Clone Schema"]
----
-
 # SQL - Clone Schema
 
 *Source: https://wiki.postgresql.org/wiki/Clone_schema*
 
 The version in this page only clones tables. There's a more complete version, that copies sequences, tables, data, views & functions, [in this posting.](https://www.postgresql.org/message-id/CANu8FiyJtt-0q%3DbkUxyra66tHi6FFzgU8TqVR2aahseCBDDntA%40mail.gmail.com)
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION clone_schema(source_schema text, dest_schema text) RETURNS void AS
 $BODY$
 DECLARE 
@@ -31,23 +24,23 @@ BEGIN
 END;
 $BODY$
 LANGUAGE plpgsql VOLATILE;
-```
+````
 
 Execution example:
 
-```SQL
+````SQL
 SELECT clone_schema('old_schema','new_schema');
-```
+````
 
 Worth noting is that this copies all tables in the schema, including the default values. Which, in the case of serial fields, will mean the default value points to the old schema:
 
-```SQL
+````SQL
 nextval('old_schema.sequence_name'::regclass)
-```
+````
 
 If you want to have a new sequence for the new table in the new schema:
 
-```SQL
+````SQL
 CREATE OR REPLACE FUNCTION clone_schema(source_schema text, dest_schema text) RETURNS void AS
 $$
 
@@ -82,21 +75,20 @@ BEGIN
 END;
 
 $$ LANGUAGE plpgsql VOLATILE;
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Clone Schema]] AND -"Changelog"
-```
+````

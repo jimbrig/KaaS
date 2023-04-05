@@ -1,23 +1,14 @@
----
-Date: 2022-03-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI"]
-Alias: ["CMD - Restart Explorer and Start Menu"]
----
-
 # CMD - Restart Explorer and Start Menu
 
-*See Also: [[RegEdit - Restart Explorer and StartMenu Context Bar]]*
+*See Also: [RegEdit - Restart Explorer and StartMenu Context Bar](../Registry/RegEdit%20-%20Restart%20Explorer%20and%20StartMenu%20Context%20Bar.md)*
 
 ## Contents
 
-- [[#Explorer|Explorer]]
-	- [[#Enhanced Solution|Enhanced Solution]]
-	- [[#Original Solution|Original Solution]]
-- [[#Start Menu|Start Menu]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Explorer](CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md#explorer)
+  * [Enhanced Solution](CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md#enhanced-solution)
+  * [Original Solution](CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md#original-solution)
+* [Start Menu](CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md#start-menu)
+* [Appendix: Links](CMD%20-%20Restart%20Explorer%20and%20Start%20Menu.md#appendix-links)
 
 ## Explorer
 
@@ -25,39 +16,39 @@ Alias: ["CMD - Restart Explorer and Start Menu"]
 
 ### Enhanced Solution
 
-- Add `/fi` flag for calling `ShellCommon.dll` to ensure I am only killing to main shell, and not any other Explorer Windows.
+* Add `/fi` flag for calling `ShellCommon.dll` to ensure I am only killing to main shell, and not any other Explorer Windows.
 
-```powershell
+````powershell
 cmd.exe /c taskkill /f /im explorer.exe /fi "modules eq Windows.Internal.ShellCommon.dll" & start explorer.exe
-```
+````
 
 If you want to restart with a pause then:
 
-```powershell
+````powershell
 cmd.exe /c @echo off & 
     echo The explorer.exe process will be terminated & echo. &
     taskkill /f /im explorer.exe /fi "modules eq Windows.Internal.ShellCommon.dll" & echo. & 
     echo Done & echo. & 
     echo Press any key to start explorer.exe process & pause>NUL & start explorer.exe & 
     exit
-```
+````
 
 ### Original Solution
 
-- Using a [[2-Areas/Code/Windows Batch/_README|Batch]] File: `restart-explorer.bat`:
+* Using a *Batch* File: `restart-explorer.bat`:
 
-```powershell
+````powershell
 taskkill /f /im explorer.exe
 start explorer.exe
 exit
-```
+````
 
-- Using Command Line:
+* Using Command Line:
 
-```powershell
+````powershell
 taskkill /f /im explorer.exe
 start explorer.exe
-```
+````
 
 ## Start Menu
 
@@ -71,25 +62,24 @@ Full Path: `C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n
 
 Restart Command:
 
-```powershell
+````powershell
 taskkill /im StartMenuExperienceHost.exe /f\
 start C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[CMD - Restart Explorer and Start Menu]] AND -"Changelog"
-```
+````

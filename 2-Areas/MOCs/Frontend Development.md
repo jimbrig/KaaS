@@ -1,31 +1,31 @@
----
-Date: 2022-06-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/MOC"]
-Alias: "Frontend Development"
----
-
 # Frontend Development
 
 *Frontend Development* Map of Content houses all notes related to Frontend Development in general.
 
 ## Overview
 
-- [[What is a Frontend Developer]]
-- 
+* [What is a Frontend Developer](../../0-Slipbox/What%20is%20a%20Frontend%20Developer.md)
+* 
 
 ## Notes
 
-- [[3-Resources/Tools/Developer Tools/Languages/HTML/_README|HTML]]
-- [[HTML Tables]]
-- [[3-Resources/Tools/Developer Tools/Languages/CSS/_README|CSS]]
-- [[CSS Layout]]
-- [[3-Resources/Tools/Developer Tools/Languages/JavaScript/_README|JavaScript]]
-- [[Client Side Web APIs]]
-- [[Asynchronous JavaScript]]
+* *HTML*
 
-- [[Web Forms]]
-- [[]]
+* *HTML Tables*
+
+* *CSS*
+
+* *CSS Layout*
+
+* *JavaScript*
+
+* *Client Side Web APIs*
+
+* *Asynchronous JavaScript*
+
+* *Web Forms*
+
+* \[\[\]\]
 
 ## Related MOCs
 
@@ -33,12 +33,12 @@ Alias: "Frontend Development"
 
 ### Tagged as *Category/Frontend Development*
 
-```dataview
+````dataview
 list from #Category/Frontend Development AND -"Templates" AND -"MOCs" AND -"Changelog"
-```
+````
 
 ### Links to this File
 
-```dataview
+````dataview
 list from [[Frontend Development]] AND -"Changelog"
-```
+````

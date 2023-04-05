@@ -1,31 +1,21 @@
----
-Date: 2022-10-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Actuarial"]
-Alias: "Actuarial Process Optimization"
----
-
 # Actuarial Process Optimization—A Case for Using Modern Technology in Actuarial Domain
 
-***
+---
 
-![[actuarial-process-automation-header-image.png]]
+![actuarial-process-automation-header-image.png](_assets/actuarial-process-automation-header-image.png)
 
-
-***
+---
 
 ## Contents
 
-- [[#Overview|Overview]]
-		- [[#Defining Actuarial Process Optimization|Defining Actuarial Process Optimization]]
-		- [[#Opportunities for APO|Opportunities for APO]]
-		- [[#APO in Action|APO in Action]]
-			- [[#APO in Action#Providing Strategic Business Direction|Providing Strategic Business Direction]]
-			- [[#APO in Action#Maintaining Governance, Controls, and Risk Frameworks|Maintaining Governance, Controls, and Risk Frameworks]]
-			- [[#APO in Action#Optimizing Skillsets and Technologies|Optimizing Skillsets and Technologies]]
-		- [[#In Conclusion|In Conclusion]]
-
-
+* [Overview](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#overview)
+  - [Defining Actuarial Process Optimization](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#defining-actuarial-process-optimization)
+  - [Opportunities for APO](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#opportunities-for-apo)
+  - [APO in Action](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#apo-in-action)
+  - [Providing Strategic Business Direction](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#apo-in-action-providing-strategic-business-direction)
+  - [Maintaining Governance, Controls, and Risk Frameworks](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#apo-in-action-maintaining-governance-controls-and-risk-frameworks)
+  - [Optimizing Skillsets and Technologies](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#apo-in-action-optimizing-skillsets-and-technologies)
+  - [In Conclusion](Actuarial%20Process%20Optimization%20-%20A%20Case%20for%20Using%20Modern%20Technology%20in%20the%20Actuarial%20Domain.md#in-conclusion)
 
 ## Overview
 
@@ -37,7 +27,7 @@ As the insurance industry leaps into the future, actuaries must not only proacti
 
 #### Defining Actuarial Process Optimization
 
-![[actuarial-process-automation-covid-image.png]]
+![actuarial-process-automation-covid-image.png](_assets/actuarial-process-automation-covid-image.png)
 
 Since actuarial process optimization could mean various things to each of us, it is important to define the term for the purpose of this article. Actuarial process optimization is a framework for making continuous improvements, through the use of modern technology, to processes that commonly fall within actuarial responsibilities. We will focus our discussion on the use of modern technology including low-code/no-code technology, robotic process automation (RPA) tools, process orchestration applications, and analytics and visualization software. The advantages of implementing modern technology are increasingly attractive and cost effective. Insurers often realize return on upfront implementation costs within a year as a result of resource and time savings. Actuaries at these insurers shifted their time from carrying out repetitive and manual processes to higher value tasks, including conducting complex analyses that supports strategic decision making.
 
@@ -45,18 +35,18 @@ Since actuarial process optimization could mean various things to each of us, it
 
 Actuaries are valuable and strategically important resources to insurance companies. We are trained both on the job and through an intensive education and exam curriculum to study and own insurance risk. As highly capable professionals, actuaries are often self-reliant, and are interested in owning all technology tools, data and processes that support their daily jobs. However, this hands-on approach can lead to performing many tasks that do not require actuarial expertise. By occupying ourselves with various high effort but low value tasks, we often neglect to focus on higher value tasks that are truly valuable to the future of our organization. Advancements in technology and the desire for lean operations have contributed to many insurers evaluating their strategic direction and the role of the actuary of the future, shifting their focus onto highest value tasks. Consider below some common low-value, high-effort tasks that actuaries may encounter:
 
-1.  Unnecessarily complex and error prone ETL, production and reporting workflows.
-2.  Time and resources wasted on resolving errors and tracing back complex process steps.
-3.  Production and process errors that can result in misstatements and delays in reporting.
-4.  Multiple un-validated spreadsheets with overlapping functionalities.
-5.  Multiple sources of information, but no single “source of truth.”
-6.  Storage and processing time wastage.
+1. Unnecessarily complex and error prone ETL, production and reporting workflows.
+1. Time and resources wasted on resolving errors and tracing back complex process steps.
+1. Production and process errors that can result in misstatements and delays in reporting.
+1. Multiple un-validated spreadsheets with overlapping functionalities.
+1. Multiple sources of information, but no single “source of truth.”
+1. Storage and processing time wastage.
 
 While there has been much discussion, in person and in print, focused on the role of the actuary of the future, the general consensus states that the actuary of the future must be ready to provide strategic business direction, handle governance and risk frameworks, and optimize skillsets and technologies. The actuarial process optimization framework defines three pillars of technological opportunity to support the actuary of the future in being successful at his or her role:
 
-1.  Optimization and upscaling of existing technologies—target “band-aid” fixes, manual legacy processes, and processes that commonly fail or produce inconsistent output.
-2.  Process automation—target manual and frequently repetitive processes, and processes that could require scalability.
-3.  Taking advantage of new technologies—target opportunities for new insights, deeper analytical capabilities, new governance and control framework capabilities, and acceleration of complex multi-step processes.
+1. Optimization and upscaling of existing technologies—target “band-aid” fixes, manual legacy processes, and processes that commonly fail or produce inconsistent output.
+1. Process automation—target manual and frequently repetitive processes, and processes that could require scalability.
+1. Taking advantage of new technologies—target opportunities for new insights, deeper analytical capabilities, new governance and control framework capabilities, and acceleration of complex multi-step processes.
 
 #### APO in Action
 
@@ -92,15 +82,15 @@ Optimizing the use of technology is also bringing higher efficiency to our work.
 
 Insurance companies have a significant opportunity to optimize resources, enhance operations and upskill actuaries by implementing the actuarial process optimization framework and fully embedding modern technology into the actuarial environment. As valuable resources with deep knowledge in risk management, financial reporting and operational considerations, actuaries must focus on higher value tasks that create strategic value for our employers and get comfortable with delegating and automating the lower value tasks. The three pillars of technological opportunity—optimization and upscaling of existing technologies, process automation, and utilization of new technologies—will be key elements in supporting the role of the actuary of the future. Through actuarial process optimization, technology and process optimization will enable and support the actuaries of the future.
 
-***
+---
 
 ## Appendix: Links & References
 
-- [[Actuarial Science]]
-- [[2-Areas/Content/Posts/Actuarial Posts/_README|Actuarial Posts]]
-- [[Actuarial Property Casualty Data Thoughts]]
-- [[Actuarial Development Master Resource List]]
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
+* *Actuarial Posts*
+* [Actuarial Property Casualty Data Thoughts](Actuarial%20Property%20Casualty%20Data%20Thoughts.md)
+* [Actuarial Development Master Resource List](../2-Areas/Lists/Actuarial%20Development%20Master%20Resource%20List.md)
 
-***
+---
 
-- https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/
+* https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-zaidlin/

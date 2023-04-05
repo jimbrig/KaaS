@@ -1,31 +1,23 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/R", "#Topic/Dev/R", "#Type/Tool", "#Topic/Dev/Database"]
-Alias: ["R Package - elastic", "R Package - elastic"]
----
-
 # R Package - elastic
 
 *Source: `<GitHub Repo>`*
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - elastic.md
-- [[R]]
-- [[R Database Packages]]
-=======
-- [[2-Areas/MOCs/R]]
-- [[R - Database Packages List]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - elastic.md
-
+* [Tools](../../../../../Tools.md)
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/Database R Packages/R Package - elastic.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+* *R Database Packages*
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+* [R - Database Packages List](../../../../../../../2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/Database R Packages/R Package - elastic.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[R Package - elastic]] AND -"Changelog"
-```
+````

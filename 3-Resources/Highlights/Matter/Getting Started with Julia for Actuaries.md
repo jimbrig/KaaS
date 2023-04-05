@@ -1,12 +1,14 @@
 ## Metadata
+
 * URL: [https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-loudenback-vanguelov/](https://www.soa.org/sections/technology/technology-newsletter/2021/october/att-2021-10-loudenback-vanguelov/)
-* Publisher: [[www.soa.org]]
+* Publisher: *www.soa.org*
 
 ## Highlights
+
 * In the 2021 Stack Overflow Survey, Julia was the 5th most loved language. This was ahead of other languages commonly used in actuarial contexts, such as Python (6th), R (28th), C++ (25th), Matlab (36th), or VBA (37th).
 * The language itself offers expressiveness, pleasant syntax, and less boilerplate than many alternatives.
 * Multiple dispatch is a programming paradigm that is an evolution of object-oriented approaches that's more amenable to a wide range of programming styles, including functional and vectorized approaches. It affords Julia code a high level of composability and is what makes the Julia ecosystem so powerful.
-* High performant Julia code, instead of needing libraries written in C/Cython/etc. For lots of problems, especially "toy" problems as you learn a language, the speed of Matlab/Python/R is fast enough. However, in real usage, particularly actuarial problems, you might find that when you need the performance, it's too late.[1]
+* High performant Julia code, instead of needing libraries written in C/Cython/etc. For lots of problems, especially "toy" problems as you learn a language, the speed of Matlab/Python/R is fast enough. However, in real usage, particularly actuarial problems, you might find that when you need the performance, it's too late.\[1\]
 * The language, tooling, and ecosystem is very modern, mature, and powerful. A built-in package manager, packages that work together without needing to know about each other, differentiable programming, meta-programming (macros), first-class GPU/parallel support, and a wide range of packages relevant to actuarial workloads.
 * Julia is a high-level language, with syntax that should feel familiar to someone coming from R, Python, or Matlab.
 * Julia code is compiled on-the-fly, generating efficient code for the specific data that you are currently working with. This is kind of an in-between of a fully interpreted language (like pure Python or R) and a complied language like C++ which must compile everything in advance.

@@ -1,15 +1,8 @@
----
-Date: 2022-09-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - SQL Server - List of Tables with Number of Rows and Comments"]
----
-
 # SQL - SQL Server - List of Tables with Number of Rows and Comments
 
 *Source: https://dataedo.com/blog/useful-sql-server-data-dictionary-queries-every-dba-should-have*
 
-```SQL
+````SQL
 select schema_name(tab.schema_id) as schema_name,
        tab.name as table_name, 
        tab.create_date as created,  
@@ -33,21 +26,20 @@ select schema_name(tab.schema_id) as schema_name,
            and ep.class_desc = 'OBJECT_OR_COLUMN'
   order by schema_name,
         table_name
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[SQL Server]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [SQL Server](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - SQL Server - List of Tables with Number of Rows and Comments]] AND -"Changelog"
-```
+````

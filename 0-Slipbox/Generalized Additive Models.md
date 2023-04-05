@@ -1,30 +1,16 @@
----
-Date: 2021-11-12
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags:
-  [
-    "#Type/Slipbox",
-    "#Topic/Dev",
-    "#Topic/Actuarial/Modeling",
-    "#Topic/Math/Statistics",
-    "#Topic/Dev/Data"
-  ]
-Alias: "Generalized Additive Models"
----
-
 # Generalized Additive Models
 
-***
+---
 
 #### Related
 
-- [[Data Science]]
-- [[Development]]
-- [[Actuarial Science]]
-- [[Mathematics and Statistics]]
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Development](../2-Areas/MOCs/Development.md)
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
+* [Mathematics and Statistics](../2-Areas/MOCs/Mathematics%20and%20Statistics.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Generalized Additive Models]] AND -"Changelog"
-```
+````

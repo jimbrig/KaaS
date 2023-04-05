@@ -1,10 +1,3 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/SQL", "#Topic/Dev/Database"]
-Alias: ["SQL - PostgreSQL - Formatting Dates and Timestamps"]
----
-
 # SQL - PostgreSQL - Formatting Dates and Timestamps
 
 *Source: [sql-snippets/dt-formatting.md at main · count/sql-snippets (github.com)](https://github.com/count/sql-snippets/blob/main/postgres/dt-formatting.md)*
@@ -17,7 +10,7 @@ These snippets contain the most common formats for quick access.
 
 ## Dates
 
-```sql
+````sql
 with dates as (SELECT day::DATE
 FROM generate_series('2021-01-01'::DATE, '2021-01-04'::DATE, '1 day') AS day)
 
@@ -35,21 +28,20 @@ select
   to_char(day,'Mon DD YYYY') as american_date, -- Month/Day/Year format
   to_char(day,'DD Mon YYYY') as international_date -- Day/Month/Year
 from dates
-```
+````
 
 Output:
 
-|day|day_of_week|all_month_formats|year_formats|day_of_year|julian_day|day_of_month| week_of_year| week_of_month| quarter| american_date| international_date|
-|---|-----------|-----------------|------------|-----------|----------|------------|-------------|--------------|--------|--------------|-------------------|
+|day|day_of_week|all_month_formats|year_formats|day_of_year|julian_day|day_of_month|week_of_year|week_of_month|quarter|american_date|international_date|
+|---|-----------|-----------------|------------|-----------|----------|------------|------------|-------------|-------|-------------|------------------|
 |01/01/01|6/5/friday /fri|January /01/jan|2021/21|001/369|2459216|01|01/53|1|1|Jan 01 2021|01 Jan 2021|
 |02/01/01|7/6/saturday /sat|January /01/jan|2021/21|002/370|2459217|02|01/53|1|1|Jan 02 2021|02 Jan 2021|
 |03/01/01|1/7/sunday /sun|January /01/jan|2021/21|003/371|2459218|03|01/53|1|1|Jan 03 2021|03 Jan 2021|
 |04/01/01|2/1/monday /mon|January /01/jan|2021/21|004/001|2459219|04|01/01|1|1|Jan 04 2021|04 Jan 2021|
 
-
 ## Timestamps
 
-```sql
+````sql
 with timestamps as (
   SELECT timeseries_hour
 FROM generate_series(
@@ -70,7 +62,7 @@ select
   to_char(timeseries_hour,'TZ') as timezone,
   to_char(timeseries_hour,'HH:MI AM') as local_time
 from timestamps
-```
+````
 
 Output:
 
@@ -88,19 +80,18 @@ Output:
 |2021-01-01T11:30:00.000Z|11/11|30|00|000|000000|41400|AM|UTC|11:30 AM|
 |2021-01-01T13:00:00.000Z|01/13|00|00|000|000000|46800|PM|UTC|01:00 PM|
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[SQL]]
-- [[Databases]]
-- [[PostgreSQL]]
-- [[Development]]
+* *Code*
+* [SQL](SQL.md)
+* [Databases](../../MOCs/Databases.md)
+* [PostgreSQL](../../../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/PostgreSQL.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - PostgreSQL - Formatting Dates and Timestamps]] AND -"Changelog"
-```
+````

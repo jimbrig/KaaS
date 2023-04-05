@@ -1,22 +1,14 @@
----
-Date: 2022-03-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["Office RibbonX Editor"]
----
-
 # Office RibbonX Editor
 
 *Source: [fernandreu/office-ribbonx-editor: An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF (github.com)](https://github.com/fernandreu/office-ribbonx-editor)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Improvements|Improvements]]
-- [[#Download / Build status|Download / Build status]]
-- [[#How does the `Reload on Save` option work?|How does the `Reload on Save` option work?]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](Office%20RibbonX%20Editor.md#overview)
+* [Improvements](Office%20RibbonX%20Editor.md#improvements)
+* [Download / Build status](Office%20RibbonX%20Editor.md#download-build-status)
+* \[\[\#How does the `Reload on Save` option work?|How does the `Reload on Save` option work?\]\]
+* [Appendix: Links](Office%20RibbonX%20Editor.md#appendix-links)
 
 ## Overview
 
@@ -26,10 +18,10 @@ The Office 2010 custom UI schema is the latest schema and it's still being used 
 
 To learn more about how to use these identifiers to customize the Office ribbon, backstage, and context menus visit:
 
--   [Change the Ribbon in Excel 2007-2016](https://www.rondebruin.nl/win/s2/win001.htm)
--   [Customizing the Office Fluent Ribbon for Developers](https://msdn.microsoft.com/en-us/library/aa338202(v=office.14).aspx)
--   [Introduction to the Office Backstage View for Developers](https://msdn.microsoft.com/en-us/library/ee691833(office.14).aspx)
--   [Office Fluent User Interface Control Identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers)
+* [Change the Ribbon in Excel 2007-2016](https://www.rondebruin.nl/win/s2/win001.htm)
+* [Customizing the Office Fluent Ribbon for Developers](https://msdn.microsoft.com/en-us/library/aa338202(v=office.14).aspx)
+* [Introduction to the Office Backstage View for Developers](https://msdn.microsoft.com/en-us/library/ee691833(office.14).aspx)
+* [Office Fluent User Interface Control Identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers)
 
 ## Improvements
 
@@ -37,13 +29,13 @@ This GitHub project is a fork of [Custom UI Editor for Microsoft Office](https:
 
 Features of this overhauled editor include:
 
--   [ScintillaNET](https://github.com/jacobslusser/ScintillaNET) (via [SctintillaNET.WPF](https://github.com/Stumpii/ScintillaNET.WPF/tree/master/ScintillaNET.WPF)) as text editor, with seamless syntax highlighting
--   The TreeView allows you to have more than one file open, easily switching between different customUI files (for example, for copying code from one file to another)
--   A multi-tab layout, allowing to have multiple files open simultaneously (including icon previews)
--   List of recently opened files showing up on the file menu (thanks to [RecentFileList](https://www.codeproject.com/Articles/23731/RecentFileList-a-WPF-MRU))
--   A `Reload on Save` option that avoids losing any external changes (for more info, see [the section below](https://github.com/fernandreu/office-ribbonx-editor#how-does-the-reload-on-save-option-work))
--   Possibility of customizing some aspects of the editor such as font size and color
--   Plus all the features of the original Windows Forms project
+* [ScintillaNET](https://github.com/jacobslusser/ScintillaNET) (via [SctintillaNET.WPF](https://github.com/Stumpii/ScintillaNET.WPF/tree/master/ScintillaNET.WPF)) as text editor, with seamless syntax highlighting
+* The TreeView allows you to have more than one file open, easily switching between different customUI files (for example, for copying code from one file to another)
+* A multi-tab layout, allowing to have multiple files open simultaneously (including icon previews)
+* List of recently opened files showing up on the file menu (thanks to [RecentFileList](https://www.codeproject.com/Articles/23731/RecentFileList-a-WPF-MRU))
+* A `Reload on Save` option that avoids losing any external changes (for more info, see [the section below](https://github.com/fernandreu/office-ribbonx-editor#how-does-the-reload-on-save-option-work))
+* Possibility of customizing some aspects of the editor such as font size and color
+* Plus all the features of the original Windows Forms project
 
 [![Screenshot](https://github.com/fernandreu/office-ribbonx-editor/raw/master/docs/Screenshot.png)](https://github.com/fernandreu/office-ribbonx-editor/blob/master/docs/Screenshot.png)
 
@@ -55,7 +47,7 @@ To download the latest release, go to the following link:
 
 To download the latest development build instead, go to the Artifacts section on Azure Pipelines:
 
-[https://dev.azure.com/fernandreu-public/OfficeRibbonXEditor/_build/latest?definitionId=1&branchName=master](https://dev.azure.com/fernandreu-public/OfficeRibbonXEditor/_build/latest?definitionId=1&branchName=master)
+[https://dev.azure.com/fernandreu-public/OfficeRibbonXEditor/\_build/latest?definitionId=1&branchName=master](https://dev.azure.com/fernandreu-public/OfficeRibbonXEditor/_build/latest?definitionId=1&branchName=master)
 
 ## How does the `Reload on Save` option work?
 
@@ -63,32 +55,32 @@ An Office 2007+ file (`.xlsm`, `.xlam`, `.pptm`, `.docx`, etc.) is nothing mo
 
 The way you would use the original Custom UI Editor is similar to the following:
 
-1.  If the file you want to edit is open in Excel, close it first
-2.  Open that file in the Custom UI Editor
-3.  Edit the xml files, icons, etc.
-4.  Save the file in the Custom UI Editor (and close it if you wish)
-5.  Open the file back in Excel, and enjoy the changes you just made
+1. If the file you want to edit is open in Excel, close it first
+1. Open that file in the Custom UI Editor
+1. Edit the xml files, icons, etc.
+1. Save the file in the Custom UI Editor (and close it if you wish)
+1. Open the file back in Excel, and enjoy the changes you just made
 
 However, **what would happen if you forget Step 1** and Excel has the same file open when you are using the tool? Your workflow could then look like this instead:
 
-1.  Open that file in the Custom UI Editor
-2.  Edit xml files, icons, etc.
-3.  You realise you had the file open in Excel, so you close it there first
-    -   But you also had unsaved changes in Excel, so you save the file before closing it
-4.  Save the file in the Custom UI Editor (and close it if you wish)
-    -   **Remember:** all this time since Step 1, the Custom UI Editor was looking at a temporary unzipped copy of the Excel file that did not include the changes saved in Step 3!
-5.  Open the file back in Excel. The changes you made in the Custom UI Editor (Step 2) are there, but the ones you did in Excel (Step 3) have disappeared
+1. Open that file in the Custom UI Editor
+1. Edit xml files, icons, etc.
+1. You realise you had the file open in Excel, so you close it there first
+   * But you also had unsaved changes in Excel, so you save the file before closing it
+1. Save the file in the Custom UI Editor (and close it if you wish)
+   * **Remember:** all this time since Step 1, the Custom UI Editor was looking at a temporary unzipped copy of the Excel file that did not include the changes saved in Step 3!
+1. Open the file back in Excel. The changes you made in the Custom UI Editor (Step 2) are there, but the ones you did in Excel (Step 3) have disappeared
 
 **The `Reload on Save` button adds an extra step to the process as a safety precaution in this scenario.** In essence, Step 4 will no longer use the temporary unzipped copy of the Excel file that was generated in Step 1, but will generate a new one instead. As a consequence, any external changes you might have done in the meantime (i.e. Step 3) will no longer get lost. If you did not make any external changes, the `Reload on Save` button won’t have any noticeable impact for you.
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Office RibbonX Editor]] AND -"Changelog"
-```
+````

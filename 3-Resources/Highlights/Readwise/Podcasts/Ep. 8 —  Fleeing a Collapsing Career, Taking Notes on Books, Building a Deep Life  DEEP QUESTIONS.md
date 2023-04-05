@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS", "Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS"]
----
 # Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life | DEEP QUESTIONS
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Is There a Task List That Isn't Structured?
+
+* Is There a Task List That Isn't Structured?
   Summary:
   Budget work is not, by itself, an action. It's harder than you think to actually articulate what the action is that is captured by a given task. A universal list that just is really long with a bunch of stuff on it is not useful. That snuft doesn't provide sufficient structure to the landscape of what's on your plateo....
   Transcript:
@@ -40,7 +34,7 @@ Aliases: ["Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Buildi
   things to go over
   Speaker 1
   next time i meet with the department chair, and a status for things to go over discuss or decide on next time i have a phone caller meeting with my graduate programme manager, and now i can start moving tasks into there. So now ther just not on a big list. I's like, you knowt you know where this obligation is. Now this obligation is over here with this status, where i know that it's something i'm going to deal with when i have my next meeting with this particular person. So adding structure, assigning these status, is how every one to say, it takes this landscape of anxiety producing obligations and actually puts a framework around it. Am i working on it now or not? Is on the back burner, ok? If it's now, when am i going to work on it when i have this meeting? When i'm next working on this project is if am i doing monk mode mornings for deep work? And if i'm doing that, then maybe i have a particular status for here are the things i'm in order that i want to tackle during those muckmod mode ([Time 0:15:22](https://share.snipd.com/snip/7fdc8546-5cf7-4fe3-8e3c-360e52754d70))
-- How Do You Read Books?
+* How Do You Read Books?
   Summary:
   Will prefers to use physical books, especially for research materials. He uses kindle versions of books when there's a time sensitivity. In the kindle book, you can highlight on the screen while you're reading it and then down load your high lights in an e-mail format....
   Transcript:

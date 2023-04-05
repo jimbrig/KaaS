@@ -1,10 +1,3 @@
----
-Date: 2022-06-07
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Functional Consultant and Solution Architects"
----
-
 # Functional Consultant and Solution Architects
 
 *Source: [Use implementation methodologies for a successful implementation - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/design-plan-implementation-finance-operations/2-implementation-methodologies)*
@@ -19,11 +12,11 @@ A correct sequence of tasks, and ensuring all required resources and artifacts a
 
 Any successful implementation usually consists of five major phases:
 
--   Analysis
--   Design and develop
--   Test
--   Deploy
--   Operate
+* Analysis
+* Design and develop
+* Test
+* Deploy
+* Operate
 
 In the next units, you’ll look at a summary of tasks in the implementation methodology. This will help you understand the overall phases of implementation. By collaborating with other project team members, you can better fulfill your duty and exceed the expectation of the customer to have a successful go-live.
 
@@ -31,6 +24,6 @@ Regardless of deployment topology, either on the cloud or on-premises, the metho
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Functional Consultant and Solution Architects]] AND -"Changelog"
-```
+````

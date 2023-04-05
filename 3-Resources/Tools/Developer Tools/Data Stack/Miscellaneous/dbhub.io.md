@@ -1,20 +1,13 @@
----
-Date: 2022-03-26
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool"]
-Alias: ["dbhub.io"]
----
-
 # dbhub.io
 
-***
+---
 
 ## Appendix: Links
 
-- [[Tools]]
+* [Tools](../../../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[dbhub.io]] AND -"Changelog"
-```
+````

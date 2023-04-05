@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 69 —  How Do I Find Joy in Leisure?", "Ep. 69 —  How Do I Find Joy in Leisure?"]
----
 # Ep. 69 —  How Do I Find Joy in Leisure?
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 69 —  How Do I Find Joy in Leisure?
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 69 —  How Do I Find Joy in Leisure?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Prioritizing Quad Two Style Projects
+
+* Prioritizing Quad Two Style Projects
   Summary:
   Stephanie Soloon: Prioritizing quad twos, to use the terminology of stephen covey, is often the key to a successful sustainable life. She says when you're trying to make sense of all the stuff on your plate, so when you're doing what we would call the configure step of capture, that's where that important row really gets handled.Soloon: This general eisenhauer bach framework is useful weigh more than just professional endeavors, but for your life in general....
   Transcript:

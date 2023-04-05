@@ -1,47 +1,40 @@
----
-Date: 2022-06-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev", "#Topic/Actuarial"]
-Alias: "US GAAP LDTI - Considerations for the Modeling Actuary"
----
-
 # US GAAP LDTI - Considerations for the Modeling Actuary
 
 *Source: https://www.ey.com/en_us/insurance/finance-risk-actuarial-change/us-gaap-ldti-considerations-for-the-modeling-actuary*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Migrating Toward a Defined, yet Adaptive, Future State Vision|Migrating Toward a Defined, yet Adaptive, Future State Vision]]
-- [[#End-to-End Considerations|End-to-End Considerations]]
-	- [[#End-to-End Considerations#Consolidation and Centralization|Consolidation and Centralization]]
-		- [[#Consolidation and Centralization#Single Source of Truth Database Solutions|Single Source of Truth Database Solutions]]
-		- [[#Consolidation and Centralization#Consolidate and Standardize to Reduce Complexity|Consolidate and Standardize to Reduce Complexity]]
-		- [[#Consolidation and Centralization#Future Operating Model|Future Operating Model]]
-	- [[#End-to-End Considerations#Systems Integration and Automation|Systems Integration and Automation]]
-		- [[#Systems Integration and Automation#Data Staging and Preparation|Data Staging and Preparation]]
-		- [[#Systems Integration and Automation#Disclosures|Disclosures]]
-		- [[#Systems Integration and Automation#Integration-Centric Workflow|Integration-Centric Workflow]]
-	- [[#End-to-End Considerations#Advanced Analytical Capabilities|Advanced Analytical Capabilities]]
-		- [[#Advanced Analytical Capabilities#Dashboard Reporting|Dashboard Reporting]]
-		- [[#Advanced Analytical Capabilities#Artificial intelligence and machine learning (AIML)|Artificial intelligence and machine learning (AIML)]]
-- [[#Testing and validation: gaining comfort without a point of comparison|Testing and validation: gaining comfort without a point of comparison]]
-- [[#Appendix: Links|Appendix: Links]]
-
+* [Overview](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#overview)
+* [Migrating Toward a Defined, yet Adaptive, Future State Vision](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#migrating-toward-a-defined-yet-adaptive-future-state-vision)
+* [End-to-End Considerations](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#end-to-end-considerations)
+  * [Consolidation and Centralization](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#end-to-end-considerations-consolidation-and-centralization)
+    * [Single Source of Truth Database Solutions](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#consolidation-and-centralization-single-source-of-truth-database-solutions)
+    * [Consolidate and Standardize to Reduce Complexity](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#consolidation-and-centralization-consolidate-and-standardize-to-reduce-complexity)
+    * [Future Operating Model](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#consolidation-and-centralization-future-operating-model)
+  * [Systems Integration and Automation](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#end-to-end-considerations-systems-integration-and-automation)
+    * [Data Staging and Preparation](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#systems-integration-and-automation-data-staging-and-preparation)
+    * [Disclosures](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#systems-integration-and-automation-disclosures)
+    * [Integration-Centric Workflow](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#systems-integration-and-automation-integration-centric-workflow)
+  * [Advanced Analytical Capabilities](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#end-to-end-considerations-advanced-analytical-capabilities)
+    * [Dashboard Reporting](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#advanced-analytical-capabilities-dashboard-reporting)
+    * [Artificial intelligence and machine learning (AIML)](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#advanced-analytical-capabilities-artificial-intelligence-and-machine-learning-aiml)
+* [Testing and validation: gaining comfort without a point of comparison](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#testing-and-validation-gaining-comfort-without-a-point-of-comparison)
+* [Appendix: Links](US%20GAAP%20LDTI%20-%20Considerations%20for%20the%20Modeling%20Actuary.md#appendix-links)
 
 ## Overview
 
-> Whether largely a compliance or modernization exercise, the considerations for the modeling actuary are numerous.
+ > 
+ > Whether largely a compliance or modernization exercise, the considerations for the modeling actuary are numerous.
 
 **In brief:**
 
--   [[LDTI]]'s impact on the [[actuarial modeling process]] is extensive.
--   Whether you look at [[LDTI]] as a compliance or [[modernization]] exercise, there are numerous considerations for the modeling [[actuary]].
--   Establishing a future state vision of the entire modeling process and translating into a strategy for execution will help position you for successful implementation.
+* *LDTI*'s impact on the *actuarial modeling process* is extensive.
+* Whether you look at *LDTI* as a compliance or *modernization* exercise, there are numerous considerations for the modeling *actuary*.
+* Establishing a future state vision of the entire modeling process and translating into a strategy for execution will help position you for successful implementation.
 
-The [[Accounting Standards Update]] (ASU) No. 2018-12, also referred to as *Targeted Improvements to the Accounting for Long-Duration Contracts*, or [[LDTI]] amends existing accounting requirements under generally accepted accounting principles ([[GAAP]]) for long-duration contracts. For U.S. reporting companies, [[LDTI]] is one of the most significant accounting framework changes in decades, impacting virtually every functional area within the company.
+The *Accounting Standards Update* (ASU) No. 2018-12, also referred to as *Targeted Improvements to the Accounting for Long-Duration Contracts*, or *LDTI* amends existing accounting requirements under generally accepted accounting principles (*GAAP*) for long-duration contracts. For U.S. reporting companies, *LDTI* is one of the most significant accounting framework changes in decades, impacting virtually every functional area within the company.
 
-The actuarial modeling process is no exception; implementing changes of this magnitude requires careful assessment of the pending requirements, measured coordination with associated in-flight efforts, and collaboration across [[accounting]], [[finance]], [[actuarial]], and [[information technology]] (IT) departments.
+The actuarial modeling process is no exception; implementing changes of this magnitude requires careful assessment of the pending requirements, measured coordination with associated in-flight efforts, and collaboration across *accounting*, [finance](../2-Areas/MOCs/Finance.md), *actuarial*, and *information technology* (IT) departments.
 
 In particular, modeling actuaries must navigate a confluence of changes to the models, including increasingly complex calculations, new data sources, new reporting requirements, and integration of functionality being rolled out by actuarial software providers. Further, a company's particular set of circumstances, such as being a public or private entity, or the degree of internal resource capacity, can influence the degree by which LDTI will be more of a compliance exercise versus an opportunity to modernize.
 
@@ -49,13 +42,11 @@ This article explores some key challenges facing the modeling actuary related to
 
 ## Migrating Toward a Defined, yet Adaptive, Future State Vision
 
-```ad-important
+````ad-important
 
 Establishing a clear future state vision of a company's end-to-end process for financial reporting and translating this vision into a strategy and tactical execution blueprint is critical for successful LDTI implementation.
 
-```
-
-
+````
 
 Establishing a clear future state vision of a company's end-to-end process for financial reporting and translating this vision into a strategy and tactical execution blueprint is critical for successful LDTI implementation. This is true regardless of whether companies approach LDTI as a compliance exercise, aiming for “minimum viable product,” or as an opportunity to modernize. A key question to answer at the forefront of an LDTI implementation is what scope should be, from a modernization perspective.
 
@@ -119,11 +110,10 @@ This may require some analysis amid the implementation to map new reports and as
 
 On top of that, once the reporting data is at the right level of detail, some companies have looked to move away from bespoke spreadsheet or database tools to the use of more powerful business integration (BI) toolsets when formulating analyses and associated reports. Actuarial modelers often need to work in close contact with valuation, IT, and other areas to develop these BI reports.
 
-
 #### Artificial intelligence and machine learning (AIML)
 
 The increased complexity associated with the calculation of GAAP balances puts a strain on processing time to some degree for valuation purposes, but even more so when companies aim to forecast GAAP financials. Traditional brute-force nested stochastic techniques are fraught with runtime/granularity tradeoffs that tend to hamper the quality and actionability of associated analyses.
-    
+
 We have recently observed consideration of AIML techniques as a mathematical alternative to traditional Monte Carlo simulation techniques, providing a tremendous speed pick-up without sacrificing accuracy.  Application to use cases that forecast LDTI, such as financial planning, pricing, or forecasting, may help enable the fidelity and “speed to market” a modeling actuary can expect from these analyses on a go-forward basis.
 
 ## Testing and validation: gaining comfort without a point of comparison
@@ -134,57 +124,70 @@ In lieu of having legacy model results to validate LDTI against, the actuarial m
 
 As part of the project planning phase, the actuarial modeler should develop a complete testing plan, including acceptance criteria to be used as tollgates for each phase of testing, and ultimately deem the end-to-end model fit for production go-live. No actuarial modeler wants to find themselves approaching the go-live date and not being able to get user acceptance of the model because of underestimating the testing required to get these models to go-live. Generally speaking, there are four key benefits of having a comprehensive test strategy covering all phases of testing:
 
-1.  Mitigation of financial reporting risk
-2.  Increased predictability and quality
-3.  Reduction of overall costs of testing
-4.  Demonstration of audit compliance
+1. Mitigation of financial reporting risk
+1. Increased predictability and quality
+1. Reduction of overall costs of testing
+1. Demonstration of audit compliance
 
 A well-designed test plan covers the entire end-to-end process of the model. The table below provides a high-level summary of generalized stages of testing that are often employed to assure the quality of the LDTI model(s), considering all aspects of the end-to-end process:
 
-| Testing stage                      | Description                                                                                                                                                                                                                                                                                                                                               | Considerations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Unit and developer testing         | Initial testing of the model by the developer before considering the configuration of the calculation engine complete\. Unit testing of individual records would be performed to ensure the records are functioning as expected\. In addition to the unit testing, the developer would perform high\-level reasonability tests on the aggregate results\. |  
-       
-       Multiple components of the model updated for LDTI that require initial testing by the developer \(e\.g\., data, assumptions, calculation engine\) 
-       When selecting a sample for unit testing, consider choosing records in a cohort with a limited number of records to increase the efficiency of testing initial cohort\-level calculations 
-       An independent validation tool would need to be developed to validate that the measurement model was updated as intended 
-                                                                  |
-| Component testing                  | Quality assurance testing against associated LDTI requirements within each component of the end\-to\-end LDTI modeling process                                                                                                                                                                                                                            |  
-       
-       The component testing is often the largest of the testing efforts 
-       The following updates should be considered when testing LDTI: 
-         
-         Inputs—New actual historical data \(including transition balances for modified\-retrospective transition\) and assumptions 
-         Calculation engine—New measurement model, development of an independent calculation tool needed to validate updated calculation engine 
-         Output—Enhanced disclosures with a heavy reliance on actuarial models to populate 
-          
-        |
-| System integration testing \(SIT\) | Testing performed to validate end\-to\-end integration of components for LDTI, also can be referred to as testing of the “pipes” to ensure correct data is flowing through the end\-to\-end process                                                                                                                                                       |  
-       
-       LDTI creates new data processes \(e\.g\., actual historical data feeding actuarial models\) in addition to enhancements of existing data and system processes, confirm the data moves from system to system without failure 
-       Ensure defects are cleared in advance of user acceptance testing so end users can focus on testing LDTI functionality rather than resolving system/technical defects and issues 
-                                                                                                                                   |
-| User acceptance testing \(UAT\)    | Testing performed by end users of the LDTI actuarial modeling process to ensure the LDTI requirements were ultimately met for all use cases of LDTI \(e\.g\., valuation, forecasting\)                                                                                                                                                                    |  
-       
-       Make sure end users can explain and attribute both the transition and projected financial impacts of LDTI 
-       UAT includes business capability testing, to validate the ability of the new LDTI end\-to\-end process to meet business needs \(e\.g\., usability, performance\) 
-                                                                                                                                                                                                                                                                    |
-| Parallel testing                   | Testing performed by end users in parallel to current GAAP financial process to analyze LDTI financial results produced by new actuarial modeling process                                                                                                                                                                                                 |  
-       
-       Perform on multiple cycles to continue to monitor system stability, the reasonableness of results, and business process continuity before the effective date for LDTI 
-       Can be performed in a lagged manner as the company balances the effort of parallel testing and period\-end reporting 
-                                                                                                                                                                                                                                                    |
+|Testing stage|Description|Considerations|
+|-------------|-----------|--------------|
+|Unit and developer testing|Initial testing of the model by the developer before considering the configuration of the calculation engine complete. Unit testing of individual records would be performed to ensure the records are functioning as expected. In addition to the unit testing, the developer would perform high-level reasonability tests on the aggregate results.||
 
-***
+````
+   Multiple components of the model updated for LDTI that require initial testing by the developer \(e\.g\., data, assumptions, calculation engine\) 
+   When selecting a sample for unit testing, consider choosing records in a cohort with a limited number of records to increase the efficiency of testing initial cohort\-level calculations 
+   An independent validation tool would need to be developed to validate that the measurement model was updated as intended 
+                                                              |
+````
+
+\| Component testing                  | Quality assurance testing against associated LDTI requirements within each component of the end-to-end LDTI modeling process                                                                                                                                                                                                                            |
+
+````
+   The component testing is often the largest of the testing efforts 
+   The following updates should be considered when testing LDTI: 
+     
+     Inputs—New actual historical data \(including transition balances for modified\-retrospective transition\) and assumptions 
+     Calculation engine—New measurement model, development of an independent calculation tool needed to validate updated calculation engine 
+     Output—Enhanced disclosures with a heavy reliance on actuarial models to populate 
+      
+    |
+````
+
+\| System integration testing (SIT) | Testing performed to validate end-to-end integration of components for LDTI, also can be referred to as testing of the “pipes” to ensure correct data is flowing through the end-to-end process                                                                                                                                                       |
+
+````
+   LDTI creates new data processes \(e\.g\., actual historical data feeding actuarial models\) in addition to enhancements of existing data and system processes, confirm the data moves from system to system without failure 
+   Ensure defects are cleared in advance of user acceptance testing so end users can focus on testing LDTI functionality rather than resolving system/technical defects and issues 
+                                                                                                                               |
+````
+
+\| User acceptance testing (UAT)    | Testing performed by end users of the LDTI actuarial modeling process to ensure the LDTI requirements were ultimately met for all use cases of LDTI (e.g., valuation, forecasting)                                                                                                                                                                    |
+
+````
+   Make sure end users can explain and attribute both the transition and projected financial impacts of LDTI 
+   UAT includes business capability testing, to validate the ability of the new LDTI end\-to\-end process to meet business needs \(e\.g\., usability, performance\) 
+                                                                                                                                                                                                                                                                |
+````
+
+\| Parallel testing                   | Testing performed by end users in parallel to current GAAP financial process to analyze LDTI financial results produced by new actuarial modeling process                                                                                                                                                                                                 |
+
+````
+   Perform on multiple cycles to continue to monitor system stability, the reasonableness of results, and business process continuity before the effective date for LDTI 
+   Can be performed in a lagged manner as the company balances the effort of parallel testing and period\-end reporting 
+                                                                                                                                                                                                                                                |
+````
+
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Actuarial Science]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [Actuarial Science](../2-Areas/MOCs/Actuarial%20Science.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[US GAAP LDTI - Considerations for the Modeling Actuary]] AND -"Changelog"
-```
+````

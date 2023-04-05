@@ -1,10 +1,3 @@
----
-Date: 2022-01-10
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/R"]
-Alias: ["RStudio Package Manager", "RSPM"]
----
-
 # RStudio Package Manager
 
 *Source: [RStudio Package Manager](https://packagemanager.rstudio.com/client/#/repos/1/overview)*
@@ -23,15 +16,15 @@ To configure R outside of RStudio, set the [`repos` option](http://stat.ethz.ch/
 
 ## Repository Setup Code
 
-```R
+````R
 options(repos = c(REPO_NAME = "https://packagemanager.rstudio.com/all/latest"))
-```
+````
 
 We recommend adding this to your R startup file (`Rprofile.site` or `.Rprofile`) to maintain the configuration across R sessions. More information about managing R startup files is available in [this article](https://support.rstudio.com/hc/en-us/articles/360047157094-Managing-R-with-Rprofile-Renviron-Rprofile-site-Renviron-site-rsession-conf-and-repos-conf).
 
 ## System Requirements
 
-```bash
+````bash
 # rriskDistributions requirements:
 yum install -y tcl
 yum install -y tk
@@ -2690,25 +2683,21 @@ R CMD javareconf
 
 # abn requirements:
 yum install -y gsl-devel
-```
+````
 
-
-
-
-***
+---
 
 #### Related
 
-- [[Development]]
-<<<<<<< HEAD:3-Resources/Tools/R/R Packages/R Package Tools/RStudio Package Manager.md
-- [[R]]
-=======
-- [[2-Areas/MOCs/R]]
->>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/RStudio Package Manager.md
-
+* [Development](../../../../../../../2-Areas/MOCs/Development.md)
+  \<\<\<\<\<\<\< HEAD:3-Resources/Tools/R/R Packages/R Package Tools/RStudio Package Manager.md
+* [R](../../../../../../../2-Areas/Code/R/R.md)
+  =======
+* [2-Areas/MOCs/R](../../../../../../../2-Areas/MOCs/R.md)
+  \>>>>>>> develop:3-Resources/Tools/Developer Tools/Languages/R/R Packages/R Package Tools/RStudio Package Manager.md
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[RStudio Package Manager]] AND -"Changelog"
-```
+````

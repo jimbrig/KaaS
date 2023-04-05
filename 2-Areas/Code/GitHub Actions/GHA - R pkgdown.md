@@ -1,17 +1,10 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - pkgdown"]
----
-
 # GitHub Action - pkgdown
 
 *Source: [r.pkg.template/pkgdown.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/pkgdown.yaml)*
 
-See Also: [[R Package - pkgdown]]
+See Also: *R Package - pkgdown*
 
-```yaml
+````yaml
 ---
 name: Pkgdown Docs 📚
 
@@ -186,18 +179,17 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           branch: gh-pages
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - pkgdown]] AND -"Changelog"
-```
+````

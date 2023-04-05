@@ -1,12 +1,3 @@
-
-
----
-Date: 2022-02-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Visual Studio Code Notebooks Deepdive"
----
-
 # Visual Studio Code Notebooks Deepdive
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D-AXZZDTQhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -22,9 +13,8 @@ VS Code is adding Notebooks as a core concept in the API, on top of which extens
 list from [[VS Code Notebooks a Deep Dive]] AND -"Meta/Changelog"
 ````
 
-
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Visual Studio Code Notebooks Deepdive]] AND -"Changelog"
-```
+````

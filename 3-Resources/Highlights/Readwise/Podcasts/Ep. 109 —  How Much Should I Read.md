@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 109 —  How Much Should I Read?", "Ep. 109 —  How Much Should I Read?"]
----
 # Ep. 109 —  How Much Should I Read?
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 109 —  How Much Should I Read?
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 109 —  How Much Should I Read?
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- How Do You Find Day Time to Read?
+
+* How Do You Find Day Time to Read?
   Summary:
   The two chapter a day rule is probably the best way to develop a reading habit. Two chapters of something get read every day at least. This will add up to a lot of books as well. So either would recommend, i would say what i do, five books. Five books a month is a lot more than two chapters a day, but two chapters a day is a good base line. And overtime, it's what's going to push you towards increasingly radical and exciting ways of living.
   Transcript:

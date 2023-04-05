@@ -1,14 +1,6 @@
----
-Date: 2022-02-04
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Topic/Dev", "#Type/Tool/Utility"]
-Alias: ["Universal Silent Switch Finder", "ussf"]
----
-
 # Universal Silent Switch Finder
 
 ![](https://i.imgur.com/jE3DtdE.png)
-
 
 ## Overview
 
@@ -18,20 +10,18 @@ Full disclaimer, I’ve had mixed results using USSF. Some apps simply don’t h
 
 ## Installation
 
-```powershell
+````powershell
 cinst -y ussf
-```
+````
 
-
-
-***
+---
 
 ## Appendix: Related
 
-- [[Tools]]
+* [Tools](../Tools.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Tool-Template]] AND -"Changelog"
-```
+````

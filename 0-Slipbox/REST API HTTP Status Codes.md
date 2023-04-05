@@ -1,12 +1,3 @@
----
-Date: 2021-10-27
-Author: Jimmy Briggs <jimmy.briggs@pwc.com>
-Tags:
-  - "#Type/Slipbox"
-  - "#Topic/Dev/WebDev/API"
-Alias: ~
----
-
 # REST API HTTP Status Codes
 
 *Source: https://www.restapitutorial.com/httpstatuscodes.html*
@@ -165,10 +156,10 @@ This page is created from HTTP status code information found at [ietf.org](https
 
 ---
 
-[[0-Slipbox/_README]]
-[[REST API Resources List]]
-[[REST API HTTP Status Codes]]
-[[REST API Resource Naming]]
-[[REST API Idempotence]]
-[[R Package - plumber]]
-[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
+*0-Slipbox/_README*
+[REST API Resources List](../2-Areas/Lists/REST%20API%20Resources%20List.md)
+[REST API HTTP Status Codes](REST%20API%20HTTP%20Status%20Codes.md)
+[REST API Resource Naming](REST%20API%20Resource%20Naming.md)
+[REST API Idempotence](REST%20API%20Idempotence.md)
+[R Package - plumber](../3-Resources/Tools/Developer%20Tools/Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20plumber.md)
+*3-Resources/Tools/Python/Python Packages 1/Python Package - Flask*

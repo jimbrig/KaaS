@@ -1,17 +1,10 @@
----
-Date: 2022-03-01
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - SQL Stored Procedure Caller Module"]
----
-
 # VBA - SQL Stored Procedure Caller Module
 
 *Source: https://gist.github.com/2bb551e24cb2fab4f61db673f6ee62a3#file-mdlgen_dbcommands-vb*
 
-[[Excel VBA]] - [[SQL]] Stored Procedure Caller Module - `mdlGen_DBCommands.vb`:
+*Excel VBA* - [SQL](../SQL/SQL.md) Stored Procedure Caller Module - `mdlGen_DBCommands.vb`:
 
-```vba
+````vba
 'This module was originally created by Rohan Shenoy in December 2012. It was designed to collect parameters,
 'and use them to call stored procedures (in SQL Server 2005+). The primary function - sqlStoredProc takes the
 'name of a stored procedure and a scripting dictionary containing a variable number of parameters (stored in
@@ -326,25 +319,22 @@ Public Sub rsToRow(rs As ADODB.Recordset, StartRange As Range, Optional HeaderRo
         End With
     End If
 End Sub
-```
+````
 
-
-
-
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
-- [[SQL]]
-- [[Stored Procedures - SQL Server]]
+* *Code*
+* [Development](../../MOCs/Development.md)
+* [Excel](../Excel/Excel.md)
+* [Microsoft Office](../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
+* [SQL](../SQL/SQL.md)
+* [Stored Procedures - SQL Server](../../../0-Slipbox/Stored%20Procedures%20-%20SQL%20Server.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - SQL Stored Procedure Caller Module]] AND -"Changelog"
-```
+````

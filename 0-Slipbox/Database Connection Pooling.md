@@ -1,15 +1,8 @@
----
-Date: 2021-11-16
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Database Connection Pooling"
----
-
 # Database Connection Pooling
 
 *Source: [How to preserve database connection in a python web server](https://stackoverflow.com/questions/6688413/how-to-preserve-database-connection-in-a-python-web-server)*
 
-![[Database-Pooling.png]]
+![Database-Pooling.png](_assets/Database-Pooling.png)
 
 A database connection pool maintains open a number of connections. The application layer simply takes a connection that is not being used, the connections get released when the application layer doesn't need them anymore. By "released" I mean that they get returned to the pool in order to be used again. 
 
@@ -25,28 +18,28 @@ Instead of opening and closing a connection per request/endpoint, you now acquir
 
 In Python you can utilize [PySQLPool](http://packages.python.org/PySQLPool/) for `mysql` for example.
 
-For production applications with Python you should by using [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|SQLAlchemy]] with a connection pool configured, even if you are not interested in coding using the native [[SQLAlchemy ORM]]. See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy|SQLAlchemy]] and [[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask|Flask]].
+For production applications with Python you should by using *SQLAlchemy* with a connection pool configured, even if you are not interested in coding using the native [SQLAlchemy ORM](SQLAlchemy%20ORM.md). See [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer) for details on setting up a **SQL Abstraction Layer** with *SQLAlchemy* and *Flask*.
 
 ## Reference
 
-- [Engine Configuration — SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html)
-	- [Pooling -- SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html#pooling)
-- [The Flask Mega-Tutorial Part IV Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
-- [Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (2.x)](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
-- [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer)
-- https://en.wikipedia.org/wiki/Singleton_pattern
+* [Engine Configuration — SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html)
+  * [Pooling -- SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/13/core/engines.html#pooling)
+* [The Flask Mega-Tutorial Part IV Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
+* [Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (2.x)](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+* [SQLAlchemy in Flask — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/patterns/sqlalchemy/#sql-abstraction-layer)
+* https://en.wikipedia.org/wiki/Singleton_pattern
 
-
-***
+---
 
 Backlinks:
--	[[3-Resources/Tools/Python/Python Packages 1/Python Package - Flask]]
-- [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy]]
-- [[System Design]]
--	[[Web Development]]
+
+* *3-Resources/Tools/Python/Python Packages 1/Python Package - Flask*
+* *3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy*
+* [System Design](System%20Design.md)
+* [Web Development](../2-Areas/MOCs/Web%20Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Database Connection Pooling]] AND -"Changelog"
-```
+````

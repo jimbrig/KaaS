@@ -1,10 +1,3 @@
----
-Date: 2022-01-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Person"]
-Aliases: [""]
----
-
 # Ralph Kimball
 
 *Source: [Ralph Kimball - Wikipedia](https://en.wikipedia.org/wiki/Ralph_Kimball)*
@@ -21,24 +14,22 @@ Aliases: [""]
 
 ![](https://i.imgur.com/ocIjhFr.png)
 
-
 ## External Links
 
--   [Kimball Group](http://www.kimballgroup.com/)
--   [Differences of Opinion: The Kimball bus architecture and the Corporate Information Factory](http://www.kimballgroup.com/2004/03/differences-of-opinion/)
+* [Kimball Group](http://www.kimballgroup.com/)
+* [Differences of Opinion: The Kimball bus architecture and the Corporate Information Factory](http://www.kimballgroup.com/2004/03/differences-of-opinion/)
 
+[Bill Inmon](Bill%20Inmon.md)
 
-[[Bill Inmon]]
-
-***
+---
 
 ## Appendix: Links
 
-- [[Data Science]]
-- [[Development]]
-- [[Data Engineering]]
-- [[Data Warehouse]]
-- [[Dimensional Modeling]]
-- [[ETL Data Warehousing Best Practices]]
-- [[Databases]]
-- [[The Kimball Lifecycle]]
+* [Data Science](../MOCs/Data%20Science.md)
+* [Development](../MOCs/Development.md)
+* [Data Engineering](../MOCs/Data%20Engineering.md)
+* [Data Warehouse](../../0-Slipbox/Data%20Warehouse.md)
+* [Dimensional Modeling](../../0-Slipbox/Dimensional%20Modeling.md)
+* [ETL Data Warehousing Best Practices](../../0-Slipbox/ETL%20Data%20Warehousing%20Best%20Practices.md)
+* [Databases](../MOCs/Databases.md)
+* [The Kimball Lifecycle](../../0-Slipbox/The%20Kimball%20Lifecycle.md)

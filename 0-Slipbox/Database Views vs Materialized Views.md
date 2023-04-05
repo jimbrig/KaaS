@@ -1,10 +1,3 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
-Alias: "Database Views vs Materialized Views"
----
-
 # Database Views vs Materialized Views
 
 *Source: [What are Materialized Views? A 5 Minute Introduction (educative.io)](https://www.educative.io/blog/materialized-view-introduction)*
@@ -29,19 +22,17 @@ What this means, however, is that the performance of a View will **always be slo
 
 A materialized view, on the other hand, is a **physical copy** of those original base tables. Think of it more like a photograph of the original base table. The key difference is that a materialized view **will not be updated** every time it is interacted with.
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Databases]]
-- [[Data Science]]
-- [[Data Engineering]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Database Views vs Materialized Views]] AND -"Changelog"
-```
+````

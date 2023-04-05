@@ -1,15 +1,8 @@
----
-Date: 2022-02-11
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Action - Build-Check-Install R Package"]
----
-
 # GitHub Action - Build-Check-Install R Package
 
 *Source: [r.pkg.template/build-check-install.yaml at main · insightsengineering/r.pkg.template (github.com)](https://github.com/insightsengineering/r.pkg.template/blob/main/.github/workflows/build-check-install.yaml)*
 
-```yaml
+````yaml
 name: R CMD Check 🧬
 
 on:
@@ -206,19 +199,18 @@ jobs:
           asset_name: ${{ env.PKGBUILD }}
           tag: ${{ github.ref }}
           overwrite: false
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Action - Build-Check-Install R Package]] AND -"Changelog"
-```
+````

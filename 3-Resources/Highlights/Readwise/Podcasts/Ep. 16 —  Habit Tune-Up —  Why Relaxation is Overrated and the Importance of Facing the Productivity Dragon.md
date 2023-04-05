@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon", "Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon"]
----
 # Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon
 
 ## Metadata
-- Author: [[Deep Questions with Cal Newport]]
-- Full Title: Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon
-- Category: #Type/Highlight/Podcast
+
+* Author: *Deep Questions with Cal Newport*
+* Full Title: Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Relaxation Centric Vacations
+
+* Relaxation Centric Vacations
   Summary:
   Dollia: I find it disorienting when i when i first get into mit break. To make these type of relaxation centric vacations work, i have to bring work with me. Arnold bennett said that the mind needs sleep and diversity of activity but doesn't need tho just sit and look at the sunrise for hours a time. It wants to do things like read or watch net flicks for hours on end....
   Transcript:

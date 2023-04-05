@@ -1,26 +1,17 @@
----
-Date: 2022-02-05
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["docker_shiny_mssql"]
----
-
 # docker_shiny_mssql
 
 *Source: [viktortat/docker_shiny_mssql: This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tutorial on Dockerizing R/Shiny and MS SQL Server (github.com)](https://github.com/viktortat/docker_shiny_mssql)*
 
 ## Contents
 
-- [[#Overview|Overview]]
-- [[#Code|Code]]
-	- [[#Docker and Docker Compose|Docker and Docker Compose]]
-	- [[#R|R]]
-	- [[#PowerShell|PowerShell]]
-	- [[#SQL Server|SQL Server]]
-	- [[#Apps|Apps]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Overview](R%20-%20docker_shiny_mssql.md#overview)
+* [Code](R%20-%20docker_shiny_mssql.md#code)
+  * [Docker and Docker Compose](R%20-%20docker_shiny_mssql.md#docker-and-docker-compose)
+  * [R](R%20-%20docker_shiny_mssql.md#r)
+  * [PowerShell](R%20-%20docker_shiny_mssql.md#powershell)
+  * [SQL Server](R%20-%20docker_shiny_mssql.md#sql-server)
+  * [Apps](R%20-%20docker_shiny_mssql.md#apps)
+* [Appendix: Links](R%20-%20docker_shiny_mssql.md#appendix-links)
 
 ## Overview
 
@@ -30,17 +21,17 @@ This repo holds the relevant Docker, R and SQL scripts needed to reproduce my tu
 
 ### Docker and Docker Compose
 
-- [Dockerfile](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile)
+* [Dockerfile](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile)
 
-```Dockerfile
+````Dockerfile
 FROM rocker/shiny-verse
 
 COPY /first_app/ /srv/shiny-server/
-```
+````
 
-- [Dockerfile_R](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile_R)
+* [Dockerfile_R](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile_R)
 
-```Dockerfile
+````Dockerfile
 FROM rocker/shiny-verse
 
 #update all packages
@@ -66,11 +57,11 @@ RUN R -e "install.packages(c('odbc', 'data.table'))"
 
 #copy app to image
 COPY second_app/ /srv/shiny-server/second_app
-```
+````
 
-- [Dockerfile_sql](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile_sql)
+* [Dockerfile_sql](https://github.com/viktortat/docker_shiny_mssql/blob/master/Dockerfile_sql)
 
-```Dockerfile
+````Dockerfile
 FROM mcr.microsoft.com/mssql/server:2017-CU21-ubuntu-16.04
 
 RUN ln -s /opt/mssql-tools/bin/* /usr/local/bin/
@@ -92,11 +83,11 @@ RUN chmod +x /usr/src/app/entrypoint.sh
 
 #define new entry point
 CMD /bin/bash /usr/src/app/entrypoint.sh
-```
+````
 
-- [docker-compose.yml](https://github.com/viktortat/docker_shiny_mssql/blob/master/docker-compose.yml)
+* [docker-compose.yml](https://github.com/viktortat/docker_shiny_mssql/blob/master/docker-compose.yml)
 
-```yaml
+````yaml
 version: "3.7"
 services:
 
@@ -111,13 +102,13 @@ services:
     image: sql-server
     ports:
       - "1433:1433"
-```
+````
 
 ### R
 
-- [local_db_connector.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/local_db_connector.R):
+* [local_db_connector.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/local_db_connector.R):
 
-```R
+````R
 #load odbc package
 library(odbc)
 
@@ -132,13 +123,13 @@ dbGetQuery(con, "SELECT name, database_id, create_date FROM sys.databases")
 
 #create new database
 dbGetQuery(con, "CREATE DATABASE test_db")
-```
+````
 
 ### PowerShell
 
-- [script.ps1](https://github.com/viktortat/docker_shiny_mssql/blob/master/script.ps1)
+* [script.ps1](https://github.com/viktortat/docker_shiny_mssql/blob/master/script.ps1)
 
-```PowerShell
+````PowerShell
 #get docker version
 docker --version
 
@@ -202,21 +193,21 @@ docker logs R-container -f
 
 #finish off by bringing down the containers
 docker-compose down
-```
+````
 
 ### SQL Server
 
 *Source: [docker_shiny_mssql/sqlserver at master · viktortat/docker_shiny_mssql (github.com)](https://github.com/viktortat/docker_shiny_mssql/tree/master/sqlserver)*
 
-- [entrypoint.sh](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/entrypoint.sh):
+* [entrypoint.sh](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/entrypoint.sh):
 
-```bash
+````bash
 /usr/src/app/run-startup.sh & /opt/mssql/bin/sqlservr
-```
+````
 
-- [load_data.sql](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/load_data.sql):
+* [load_data.sql](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/load_data.sql):
 
-```SQL
+````SQL
 CREATE DATABASE app_db;
 GO
 USE app_db;
@@ -242,25 +233,23 @@ GO
 
 UPDATE iris
 SET Species = REPLACE(Species, CHAR(34), '')
-```
+````
 
-- [run-startup.sh](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/run-startup.sh):
+* [run-startup.sh](https://github.com/viktortat/docker_shiny_mssql/blob/master/sqlserver/run-startup.sh):
 
-```bash
+````bash
 # Wait a little to ensure the server has booted up
 sleep 10s
 
 #run sql script to create database and load data
 sqlcmd -S localhost -U sa -P MyPassword123! -d master -i /usr/src/app/load_data.sql
-```
-
+````
 
 ### Apps
 
-- [first_app/app.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/first_app/app.R):
+* [first_app/app.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/first_app/app.R):
 
-
-```R
+````R
 library(shiny)
 
 # Define UI for application that draws a histogram
@@ -301,11 +290,11 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
-```
+````
 
-- [second_app/app.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/second_app/app.R):
+* [second_app/app.R](https://github.com/viktortat/docker_shiny_mssql/blob/master/second_app/app.R):
 
-```R
+````R
 library(shiny)
 library(data.table)
 library(odbc)
@@ -375,18 +364,18 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[2-Areas/MOCs/R]]
-- [[Development]]
+* [Code](../Code.md)
+* [2-Areas/MOCs/R](../../MOCs/R.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[docker_shiny_mssql]] AND -"Changelog"
-```
+````

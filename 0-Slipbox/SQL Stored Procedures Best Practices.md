@@ -1,43 +1,34 @@
----
-Date: 2022-01-24
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Database"]
-Alias: "SQL Stored Procedures Best Practices"
----
-
 # SQL Stored Procedures Best Practices
 
 *Source: [CREATE PROCEDURE (Transact-SQL) - SQL Server - Best Practices | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-ver15#best-practices)*
 
 ## Contents
 
-- [[#Best Practices|Best Practices]]
-- [[#General Remarks|General Remarks]]
-- [[#Examples|Examples]]
-	- [[#Simple Example|Simple Example]]
-	- [[#Return More than One Result|Return More than One Result]]
-	- [[#Passing Parameters|Passing Parameters]]
-	- [[#Table Valued Parameters|Table Valued Parameters]]
-- [[#Appendix: Links|Appendix: Links]]
-
-
+* [Best Practices](SQL%20Stored%20Procedures%20Best%20Practices.md#best-practices)
+* [General Remarks](SQL%20Stored%20Procedures%20Best%20Practices.md#general-remarks)
+* [Examples](SQL%20Stored%20Procedures%20Best%20Practices.md#examples)
+  * [Simple Example](SQL%20Stored%20Procedures%20Best%20Practices.md#simple-example)
+  * [Return More than One Result](SQL%20Stored%20Procedures%20Best%20Practices.md#return-more-than-one-result)
+  * [Passing Parameters](SQL%20Stored%20Procedures%20Best%20Practices.md#passing-parameters)
+  * [Table Valued Parameters](SQL%20Stored%20Procedures%20Best%20Practices.md#table-valued-parameters)
+* [Appendix: Links](SQL%20Stored%20Procedures%20Best%20Practices.md#appendix-links)
 
 ## Best Practices
 
 Although this is not an exhaustive list of best practices, these suggestions may improve procedure performance.
 
--   Use the `SET NOCOUNT ON` statement as the first statement in the body of the procedure. That is, place it just after the `AS` keyword. This turns off messages that SQL Server sends back to the client after any `SELECT`, `INSERT`, `UPDATE`, `MERGE`, and `DELETE` statements are executed. This keeps the output generated to a minimum for clarity. There is no measurable performance benefit however on today's hardware. For information, see [SET NOCOUNT (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/set-nocount-transact-sql?view=sql-server-ver15).
--   Use schema names when creating or referencing database objects in the procedure. It takes less processing time for the Database Engine to resolve object names if it does not have to search multiple schemas. It also prevents permission and access problems caused by a user's default schema being assigned when objects are created without specifying the schema.
--   Avoid wrapping functions around columns specified in the `WHERE` and `JOIN` clauses. Doing so makes the columns non-deterministic and prevents the query processor from using indexes.
--   Avoid using scalar functions in `SELECT` statements that return many rows of data. Because the scalar function must be applied to every row, the resulting behavior is like row-based processing and degrades performance.
--   Avoid the use of `SELECT *`. Instead, specify the required column names. This can prevent some Database Engine errors that stop procedure execution. For example, a `SELECT *` statement that returns data from a 12 column table and then inserts that data into a 12 column temporary table succeeds until the number or order of columns in either table is changed.
--   Avoid processing or returning too much data. Narrow the results as early as possible in the procedure code so that any subsequent operations performed by the procedure are done using the smallest data set possible. Send just the essential data to the client application. It is more efficient than sending extra data across the network and forcing the client application to work through unnecessarily large result sets.
--   Use explicit transactions by using `BEGIN/COMMIT TRANSACTION` and keep transactions as short as possible. Longer transactions mean longer record locking and a greater potential for deadlocking.
--   Use the Transact-SQL `TRY...CATCH` feature for error handling inside a procedure. `TRY...CATCH` can encapsulate an entire block of Transact-SQL statements. This not only creates less performance overhead, it also makes error reporting more accurate with significantly less programming.
--   Use the `DEFAULT` keyword on all table columns that are referenced by `CREATE TABLE` or `ALTER TABLE` Transact-SQL statements in the body of the procedure. This prevents passing NULL to columns that do not allow null values.
--   Use `NULL` or `NOT NULL` for each column in a temporary table. The `ANSI_DFLT_ON` and `ANSI_DFLT_OFF` options control the way the Database Engine assigns the `NULL` or `NOT NULL` attributes to columns when these attributes are not specified in a `CREATE TABLE` or `ALTER TABLE` statement. If a connection executes a procedure with different settings for these options than the connection that created the procedure, the columns of the table created for the second connection can have different nullability and exhibit different behavior. If `NULL` or `NOT NULL` is explicitly stated for each column, the temporary tables are created by using the same nullability for all connections that execute the procedure.
--   Use modification statements that convert nulls and include logic that eliminates rows with null values from queries. Be aware that in Transact-SQL, `NULL` is not an empty or "nothing" value. It is a placeholder for an unknown value and can cause unexpected behavior, especially when querying for result sets or using `AGGREGATE` functions.
--   Use the `UNION ALL` operator instead of the `UNION` or `OR` operators, unless there is a specific need for distinct values. The `UNION ALL` operator requires less processing overhead because duplicates are not filtered out of the result set.
+* Use the `SET NOCOUNT ON` statement as the first statement in the body of the procedure. That is, place it just after the `AS` keyword. This turns off messages that SQL Server sends back to the client after any `SELECT`, `INSERT`, `UPDATE`, `MERGE`, and `DELETE` statements are executed. This keeps the output generated to a minimum for clarity. There is no measurable performance benefit however on today's hardware. For information, see [SET NOCOUNT (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/statements/set-nocount-transact-sql?view=sql-server-ver15).
+* Use schema names when creating or referencing database objects in the procedure. It takes less processing time for the Database Engine to resolve object names if it does not have to search multiple schemas. It also prevents permission and access problems caused by a user's default schema being assigned when objects are created without specifying the schema.
+* Avoid wrapping functions around columns specified in the `WHERE` and `JOIN` clauses. Doing so makes the columns non-deterministic and prevents the query processor from using indexes.
+* Avoid using scalar functions in `SELECT` statements that return many rows of data. Because the scalar function must be applied to every row, the resulting behavior is like row-based processing and degrades performance.
+* Avoid the use of `SELECT *`. Instead, specify the required column names. This can prevent some Database Engine errors that stop procedure execution. For example, a `SELECT *` statement that returns data from a 12 column table and then inserts that data into a 12 column temporary table succeeds until the number or order of columns in either table is changed.
+* Avoid processing or returning too much data. Narrow the results as early as possible in the procedure code so that any subsequent operations performed by the procedure are done using the smallest data set possible. Send just the essential data to the client application. It is more efficient than sending extra data across the network and forcing the client application to work through unnecessarily large result sets.
+* Use explicit transactions by using `BEGIN/COMMIT TRANSACTION` and keep transactions as short as possible. Longer transactions mean longer record locking and a greater potential for deadlocking.
+* Use the Transact-SQL `TRY...CATCH` feature for error handling inside a procedure. `TRY...CATCH` can encapsulate an entire block of Transact-SQL statements. This not only creates less performance overhead, it also makes error reporting more accurate with significantly less programming.
+* Use the `DEFAULT` keyword on all table columns that are referenced by `CREATE TABLE` or `ALTER TABLE` Transact-SQL statements in the body of the procedure. This prevents passing NULL to columns that do not allow null values.
+* Use `NULL` or `NOT NULL` for each column in a temporary table. The `ANSI_DFLT_ON` and `ANSI_DFLT_OFF` options control the way the Database Engine assigns the `NULL` or `NOT NULL` attributes to columns when these attributes are not specified in a `CREATE TABLE` or `ALTER TABLE` statement. If a connection executes a procedure with different settings for these options than the connection that created the procedure, the columns of the table created for the second connection can have different nullability and exhibit different behavior. If `NULL` or `NOT NULL` is explicitly stated for each column, the temporary tables are created by using the same nullability for all connections that execute the procedure.
+* Use modification statements that convert nulls and include logic that eliminates rows with null values from queries. Be aware that in Transact-SQL, `NULL` is not an empty or "nothing" value. It is a placeholder for an unknown value and can cause unexpected behavior, especially when querying for result sets or using `AGGREGATE` functions.
+* Use the `UNION ALL` operator instead of the `UNION` or `OR` operators, unless there is a specific need for distinct values. The `UNION ALL` operator requires less processing overhead because duplicates are not filtered out of the result set.
 
 ## General Remarks
 
@@ -57,7 +48,7 @@ Attempting to exceed the maximum nesting level causes the entire calling chain t
 
 ### Simple Example
 
-```SQL
+````SQL
 CREATE PROCEDURE HumanResources.uspGetAllEmployees
 AS
     SET NOCOUNT ON;
@@ -66,11 +57,11 @@ AS
 GO
 
 SELECT * FROM HumanResources.vEmployeeDepartment;
-```
+````
 
 The `uspGetEmployees` procedure can be executed in the following ways:
 
-```SQL
+````SQL
 EXECUTE HumanResources.uspGetAllEmployees;
 GO
 -- Or
@@ -78,21 +69,21 @@ EXEC HumanResources.uspGetAllEmployees;
 GO
 -- Or, if this procedure is the first statement within a batch:
 HumanResources.uspGetAllEmployees;
-```
+````
 
 ### Return More than One Result
 
-```SQL
+````SQL
 CREATE PROCEDURE dbo.uspMultipleResults
 AS
 SELECT TOP(10) BusinessEntityID, Lastname, FirstName FROM Person.Person;
 SELECT TOP(10) CustomerID, AccountNumber FROM Sales.Customer;
 GO
-```
+````
 
 ### Passing Parameters
 
-```SQL
+````SQL
 IF OBJECT_ID ( 'HumanResources.uspGetEmployees', 'P' ) IS NOT NULL
     DROP PROCEDURE HumanResources.uspGetEmployees;
 GO
@@ -106,11 +97,11 @@ AS
     FROM HumanResources.vEmployeeDepartment
     WHERE FirstName = @FirstName AND LastName = @LastName;
 GO
-```
+````
 
 Then execute:
 
-```SQL
+````SQL
 EXECUTE HumanResources.uspGetEmployees N'Ackerman', N'Pilar';
 -- Or
 EXEC HumanResources.uspGetEmployees @LastName = N'Ackerman', @FirstName = N'Pilar';
@@ -120,11 +111,11 @@ EXECUTE HumanResources.uspGetEmployees @FirstName = N'Pilar', @LastName = N'Acke
 GO
 -- Or, if this procedure is the first statement within a batch:
 HumanResources.uspGetEmployees N'Ackerman', N'Pilar';
-```
+````
 
 ### Table Valued Parameters
 
-```SQL
+````SQL
 /* Create a table type. */
 CREATE TYPE LocationTableType AS TABLE
 ( LocationName VARCHAR(50)
@@ -158,19 +149,19 @@ INSERT INTO @LocationTVP (LocationName, CostRate)
 /* Pass the table variable data to a stored procedure. */
 EXEC usp_InsertProductionLocation @LocationTVP;
 GO
-```
+````
 
-***
+---
 
 ## Appendix: Links
-- [[Stored Procedures - SQL Server]]
-- [[Databases]]
-- [[Data Science]]
-- [[Data Engineering]]
-- [[SQL]]
-- [[SQL Server]]
-- [[SQL Server Management Studio]]
-- [[Azure SQL Databases]]
-- [[Data Engineering]]
-- [[Data Warehouse]]
 
+* [Stored Procedures - SQL Server](Stored%20Procedures%20-%20SQL%20Server.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [SQL](../2-Areas/Code/SQL/SQL.md)
+* [SQL Server](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Databases/SQL%20Server.md)
+* [SQL Server Management Studio](../3-Resources/Tools/Developer%20Tools/Data%20Stack/Database%20GUI/SQL%20Server%20Management%20Studio.md)
+* [Azure SQL Databases](../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20SQL%20Databases.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
+* [Data Warehouse](Data%20Warehouse.md)

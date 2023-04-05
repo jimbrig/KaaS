@@ -1,10 +1,3 @@
----
-Date: 2022-06-08
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Tool/API", "#Topic/Dev/WebDev/API"]
-Alias: ["OpenAPI Specification"]
----
-
 # OpenAPI Specification
 
 *Source: [OpenAPI-Specification/3.0.3.md at main · OAI/OpenAPI-Specification (github.com)](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.3.md)*
@@ -22,74 +15,78 @@ The OpenAPI Specification (OAS) defines a standard, language-agnostic interface 
 An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.
 
 ## Table of Contents
+
 <!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Definitions](#definitions)
-	- [OpenAPI Document](#oasDocument)
-	- [Path Templating](#pathTemplating)
-	- [Media Types](#mediaTypes)
-	- [HTTP Status Codes](#httpCodes)
-- [Specification](#specification)
-	- [Versions](#versions)
-	- [Format](#format)
-	- [Document Structure](#documentStructure)
-	- [Data Types](#dataTypes)
-	- [Rich Text Formatting](#richText)
-	- [Relative References In URLs](#relativeReferences)
-	- [Schema](#schema)
-		- [OpenAPI Object](#oasObject)
-		- [Info Object](#infoObject)
-		- [Contact Object](#contactObject)
-		- [License Object](#licenseObject)
-		- [Server Object](#serverObject)
-		- [Server Variable Object](#serverVariableObject)
-		- [Components Object](#componentsObject)
-		- [Paths Object](#pathsObject)
-		- [Path Item Object](#pathItemObject)
-		- [Operation Object](#operationObject)
-		- [External Documentation Object](#externalDocumentationObject)
-		- [Parameter Object](#parameterObject)
-		- [Request Body Object](#requestBodyObject)
-		- [Media Type Object](#mediaTypeObject)
-		- [Encoding Object](#encodingObject)
-		- [Responses Object](#responsesObject)
-		- [Response Object](#responseObject)
-		- [Callback Object](#callbackObject)
-		- [Example Object](#exampleObject)
-		- [Link Object](#linkObject)
-		- [Header Object](#headerObject)
-		- [Tag Object](#tagObject)
-		- [Reference Object](#referenceObject)
-		- [Schema Object](#schemaObject)
-		- [Discriminator Object](#discriminatorObject)
-		- [XML Object](#xmlObject)
-		- [Security Scheme Object](#securitySchemeObject)
-		- [OAuth Flows Object](#oauthFlowsObject)
-		- [OAuth Flow Object](#oauthFlowObject)
-		- [Security Requirement Object](#securityRequirementObject)
-	- [Specification Extensions](#specificationExtensions)
-	- [Security Filtering](#securityFiltering)
-- [Appendix A: Revision History](#revisionHistory)
-	
+* [Definitions](#definitions)
+  * [OpenAPI Document](#oasDocument)
+  * [Path Templating](#pathTemplating)
+  * [Media Types](#mediaTypes)
+  * [HTTP Status Codes](#httpCodes)
+* [Specification](#specification)
+  * [Versions](#versions)
+  * [Format](#format)
+  * [Document Structure](#documentStructure)
+  * [Data Types](#dataTypes)
+  * [Rich Text Formatting](#richText)
+  * [Relative References In URLs](#relativeReferences)
+  * [Schema](#schema)
+    * [OpenAPI Object](#oasObject)
+    * [Info Object](#infoObject)
+    * [Contact Object](#contactObject)
+    * [License Object](#licenseObject)
+    * [Server Object](#serverObject)
+    * [Server Variable Object](#serverVariableObject)
+    * [Components Object](#componentsObject)
+    * [Paths Object](#pathsObject)
+    * [Path Item Object](#pathItemObject)
+    * [Operation Object](#operationObject)
+    * [External Documentation Object](#externalDocumentationObject)
+    * [Parameter Object](#parameterObject)
+    * [Request Body Object](#requestBodyObject)
+    * [Media Type Object](#mediaTypeObject)
+    * [Encoding Object](#encodingObject)
+    * [Responses Object](#responsesObject)
+    * [Response Object](#responseObject)
+    * [Callback Object](#callbackObject)
+    * [Example Object](#exampleObject)
+    * [Link Object](#linkObject)
+    * [Header Object](#headerObject)
+    * [Tag Object](#tagObject)
+    * [Reference Object](#referenceObject)
+    * [Schema Object](#schemaObject)
+    * [Discriminator Object](#discriminatorObject)
+    * [XML Object](#xmlObject)
+    * [Security Scheme Object](#securitySchemeObject)
+    * [OAuth Flows Object](#oauthFlowsObject)
+    * [OAuth Flow Object](#oauthFlowObject)
+    * [Security Requirement Object](#securityRequirementObject)
+  * [Specification Extensions](#specificationExtensions)
+  * [Security Filtering](#securityFiltering)
+* [Appendix A: Revision History](#revisionHistory)
 
 <!-- /TOC -->
 
 ## Definitions
 
 ##### <a name="oasDocument"></a>OpenAPI Document
+
 A document (or set of documents) that defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification.
 
 ##### <a name="pathTemplating"></a>Path Templating
+
 Path templating refers to the usage of template expressions, delimited by curly braces ({}), to mark a section of a URL path as replaceable using path parameters.
 
 Each template expression in the path MUST correspond to a path parameter that is included in the [Path Item](#path-item-object) itself and/or in each of the Path Item's [Operations](#operation-object).
 
 ##### <a name="mediaTypes"></a>Media Types
+
 Media type definitions are spread across several resources.
 The media type definitions SHOULD be in compliance with [RFC6838](https://tools.ietf.org/html/rfc6838).
 
 Some examples of possible media type definitions:
-```
+
+````
   text/plain; charset=utf-8
   application/json
   application/vnd.github+json
@@ -100,8 +97,10 @@ Some examples of possible media type definitions:
   application/vnd.github.v3.full+json
   application/vnd.github.v3.diff
   application/vnd.github.v3.patch
-```
+````
+
 ##### <a name="httpCodes"></a>HTTP Status Codes
+
 The HTTP Status Codes are used to indicate the status of the executed operation. 
 The available status codes are defined by [RFC7231](https://tools.ietf.org/html/rfc7231#section-6) and registered status codes are listed in the [IANA Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml).
 
@@ -125,11 +124,12 @@ An OpenAPI document that conforms to the OpenAPI Specification is itself a JSON 
 
 For example, if a field has an array value, the JSON array representation will be used:
 
-```json
+````json
 {
    "field": [ 1, 2, 3 ]
 }
-```
+````
+
 All field names in the specification are **case sensitive**.
 This includes all fields that are used as keys in a map, except where explicitly noted that keys are **case insensitive**.
 
@@ -139,8 +139,8 @@ Patterned fields MUST have unique names within the containing object.
 
 In order to preserve the ability to round-trip between YAML and JSON formats, YAML version [1.2](https://yaml.org/spec/1.2/spec.html) is RECOMMENDED along with some additional constraints:
 
-- Tags MUST be limited to those allowed by the [JSON Schema ruleset](https://yaml.org/spec/1.2/spec.html#id2803231).
-- Keys used in YAML maps MUST be limited to a scalar string, as defined by the [YAML Failsafe schema ruleset](https://yaml.org/spec/1.2/spec.html#id2802346).
+* Tags MUST be limited to those allowed by the [JSON Schema ruleset](https://yaml.org/spec/1.2/spec.html#id2803231).
+* Keys used in YAML maps MUST be limited to a scalar string, as defined by the [YAML Failsafe schema ruleset](https://yaml.org/spec/1.2/spec.html#id2802346).
 
 **Note:** While APIs may be defined by OpenAPI documents in either YAML or JSON format, the API request and response bodies and other content are not required to be JSON or YAML.
 
@@ -165,22 +165,22 @@ Types that are not accompanied by a `format` property follow the type definition
 
 The formats defined by the OAS are:
 
-[`type`](#dataTypes) | [`format`](#dataTypeFormat) | Comments
------- | -------- | --------
-`integer` | `int32` | signed 32 bits
-`integer` | `int64` | signed 64 bits (a.k.a long)
-`number` | `float` | |
-`number` | `double` | |
-`string` | | |
-`string` | `byte` | base64 encoded characters
-`string` | `binary` | any sequence of octets
-`boolean` | | |
-`string` | `date` | As defined by `full-date` - [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14)
-`string` | `date-time` | As defined by `date-time` - [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14)
-`string` | `password` | A hint to UIs to obscure input.
-
+|[`type`](#dataTypes)|[`format`](#dataTypeFormat)|Comments|
+|------|--------|--------|
+|`integer`|`int32`|signed 32 bits|
+|`integer`|`int64`|signed 64 bits (a.k.a long)|
+|`number`|`float`||
+|`number`|`double`||
+|`string`|||
+|`string`|`byte`|base64 encoded characters|
+|`string`|`binary`|any sequence of octets|
+|`boolean`|||
+|`string`|`date`|As defined by `full-date` - [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14)|
+|`string`|`date-time`|As defined by `date-time` - [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14)|
+|`string`|`password`|A hint to UIs to obscure input.|
 
 ### <a name="richText"></a>Rich Text Formatting
+
 Throughout the specification `description` fields are noted as supporting CommonMark markdown formatting.
 Where OpenAPI tooling renders rich text it MUST support, at a minimum, markdown syntax as described by [CommonMark 0.27](https://spec.commonmark.org/0.27/). Tooling MAY choose to ignore some CommonMark features to address security concerns. 
 
@@ -201,16 +201,16 @@ This is the root document object of the [OpenAPI document](#oasDocument).
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="oasVersion"></a>openapi | `string` | **REQUIRED**. This string MUST be the [semantic version number](https://semver.org/spec/v2.0.0.html) of the [OpenAPI Specification version](#versions) that the OpenAPI document uses. The `openapi` field SHOULD be used by tooling specifications and clients to interpret the OpenAPI document. This is *not* related to the API [`info.version`](#infoVersion) string.
-<a name="oasInfo"></a>info | [Info Object](#infoObject) | **REQUIRED**. Provides metadata about the API. The metadata MAY be used by tooling as required.
-<a name="oasServers"></a>servers | [[Server Object](#serverObject)] | An array of Server Objects, which provide connectivity information to a target server. If the `servers` property is not provided, or is an empty array, the default value would be a [Server Object](#serverObject) with a [url](#serverUrl) value of `/`.
-<a name="oasPaths"></a>paths | [Paths Object](#pathsObject) | **REQUIRED**. The available paths and operations for the API.
-<a name="oasComponents"></a>components | [Components Object](#componentsObject) | An element to hold various schemas for the specification.
-<a name="oasSecurity"></a>security | [[Security Requirement Object](#securityRequirementObject)] | A declaration of which security mechanisms can be used across the API. The list of values includes alternative security requirement objects that can be used. Only one of the security requirement objects need to be satisfied to authorize a request. Individual operations can override this definition. To make security optional, an empty security requirement (`{}`) can be included in the array.
-<a name="oasTags"></a>tags | [[Tag Object](#tagObject)] | A list of tags used by the specification with additional metadata. The order of the tags can be used to reflect on their order by the parsing tools. Not all tags that are used by the [Operation Object](#operationObject) must be declared. The tags that are not declared MAY be organized randomly or based on the tools' logic. Each tag name in the list MUST be unique.
-<a name="oasExternalDocs"></a>externalDocs | [External Documentation Object](#externalDocumentationObject) | Additional external documentation.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="oasVersion"></a>openapi|`string`|**REQUIRED**. This string MUST be the [semantic version number](https://semver.org/spec/v2.0.0.html) of the [OpenAPI Specification version](#versions) that the OpenAPI document uses. The `openapi` field SHOULD be used by tooling specifications and clients to interpret the OpenAPI document. This is *not* related to the API [`info.version`](#infoVersion) string.|
+|<a name="oasInfo"></a>info|[Info Object](#infoObject)|**REQUIRED**. Provides metadata about the API. The metadata MAY be used by tooling as required.|
+|<a name="oasServers"></a>servers|\[[Server Object](#serverObject)\]|An array of Server Objects, which provide connectivity information to a target server. If the `servers` property is not provided, or is an empty array, the default value would be a [Server Object](#serverObject) with a [url](#serverUrl) value of `/`.|
+|<a name="oasPaths"></a>paths|[Paths Object](#pathsObject)|**REQUIRED**. The available paths and operations for the API.|
+|<a name="oasComponents"></a>components|[Components Object](#componentsObject)|An element to hold various schemas for the specification.|
+|<a name="oasSecurity"></a>security|\[[Security Requirement Object](#securityRequirementObject)\]|A declaration of which security mechanisms can be used across the API. The list of values includes alternative security requirement objects that can be used. Only one of the security requirement objects need to be satisfied to authorize a request. Individual operations can override this definition. To make security optional, an empty security requirement (`{}`) can be included in the array.|
+|<a name="oasTags"></a>tags|\[[Tag Object](#tagObject)\]|A list of tags used by the specification with additional metadata. The order of the tags can be used to reflect on their order by the parsing tools. Not all tags that are used by the [Operation Object](#operationObject) must be declared. The tags that are not declared MAY be organized randomly or based on the tools' logic. Each tag name in the list MUST be unique.|
+|<a name="oasExternalDocs"></a>externalDocs|[External Documentation Object](#externalDocumentationObject)|Additional external documentation.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -221,21 +221,20 @@ The metadata MAY be used by the clients if needed, and MAY be presented in editi
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="infoTitle"></a>title | `string` | **REQUIRED**. The title of the API.
-<a name="infoDescription"></a>description | `string` | A short description of the API. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="infoTermsOfService"></a>termsOfService | `string` | A URL to the Terms of Service for the API. MUST be in the format of a URL.
-<a name="infoContact"></a>contact | [Contact Object](#contactObject) | The contact information for the exposed API.
-<a name="infoLicense"></a>license | [License Object](#licenseObject) | The license information for the exposed API.
-<a name="infoVersion"></a>version | `string` | **REQUIRED**. The version of the OpenAPI document (which is distinct from the [OpenAPI Specification version](#oasVersion) or the API implementation version).
-
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="infoTitle"></a>title|`string`|**REQUIRED**. The title of the API.|
+|<a name="infoDescription"></a>description|`string`|A short description of the API. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="infoTermsOfService"></a>termsOfService|`string`|A URL to the Terms of Service for the API. MUST be in the format of a URL.|
+|<a name="infoContact"></a>contact|[Contact Object](#contactObject)|The contact information for the exposed API.|
+|<a name="infoLicense"></a>license|[License Object](#licenseObject)|The license information for the exposed API.|
+|<a name="infoVersion"></a>version|`string`|**REQUIRED**. The version of the OpenAPI document (which is distinct from the [OpenAPI Specification version](#oasVersion) or the API implementation version).|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Info Object Example
 
-```json
+````json
 {
   "title": "Sample Pet Store App",
   "description": "This is a sample server for a pet store.",
@@ -251,9 +250,9 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
   },
   "version": "1.0.1"
 }
-```
+````
 
-```yaml
+````yaml
 title: Sample Pet Store App
 description: This is a sample server for a pet store.
 termsOfService: http://example.com/terms/
@@ -265,7 +264,7 @@ license:
   name: Apache 2.0
   url: https://www.apache.org/licenses/LICENSE-2.0.html
 version: 1.0.1
-```
+````
 
 #### <a name="contactObject"></a>Contact Object
 
@@ -273,29 +272,29 @@ Contact information for the exposed API.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="contactName"></a>name | `string` | The identifying name of the contact person/organization.
-<a name="contactUrl"></a>url | `string` | The URL pointing to the contact information. MUST be in the format of a URL.
-<a name="contactEmail"></a>email | `string` | The email address of the contact person/organization. MUST be in the format of an email address.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="contactName"></a>name|`string`|The identifying name of the contact person/organization.|
+|<a name="contactUrl"></a>url|`string`|The URL pointing to the contact information. MUST be in the format of a URL.|
+|<a name="contactEmail"></a>email|`string`|The email address of the contact person/organization. MUST be in the format of an email address.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Contact Object Example
 
-```json
+````json
 {
   "name": "API Support",
   "url": "http://www.example.com/support",
   "email": "support@example.com"
 }
-```
+````
 
-```yaml
+````yaml
 name: API Support
 url: http://www.example.com/support
 email: support@example.com
-```
+````
 
 #### <a name="licenseObject"></a>License Object
 
@@ -303,26 +302,26 @@ License information for the exposed API.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="licenseName"></a>name | `string` | **REQUIRED**. The license name used for the API.
-<a name="licenseUrl"></a>url | `string` | A URL to the license used for the API. MUST be in the format of a URL.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="licenseName"></a>name|`string`|**REQUIRED**. The license name used for the API.|
+|<a name="licenseUrl"></a>url|`string`|A URL to the license used for the API. MUST be in the format of a URL.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### License Object Example
 
-```json
+````json
 {
   "name": "Apache 2.0",
   "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
 }
-```
+````
 
-```yaml
+````yaml
 name: Apache 2.0
 url: https://www.apache.org/licenses/LICENSE-2.0.html
-```
+````
 
 #### <a name="serverObject"></a>Server Object
 
@@ -330,11 +329,11 @@ An object representing a Server.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="serverUrl"></a>url | `string` | **REQUIRED**. A URL to the target host.  This URL supports Server Variables and MAY be relative, to indicate that the host location is relative to the location where the OpenAPI document is being served. Variable substitutions will be made when a variable is named in `{`brackets`}`.
-<a name="serverDescription"></a>description | `string` | An optional string describing the host designated by the URL. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="serverVariables"></a>variables | Map[`string`, [Server Variable Object](#serverVariableObject)] | A map between a variable name and its value.  The value is used for substitution in the server's URL template.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="serverUrl"></a>url|`string`|**REQUIRED**. A URL to the target host.  This URL supports Server Variables and MAY be relative, to indicate that the host location is relative to the location where the OpenAPI document is being served. Variable substitutions will be made when a variable is named in `{`brackets`}`.|
+|<a name="serverDescription"></a>description|`string`|An optional string describing the host designated by the URL. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="serverVariables"></a>variables|Map\[`string`, [Server Variable Object](#serverVariableObject)\]|A map between a variable name and its value.  The value is used for substitution in the server's URL template.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -342,21 +341,21 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 A single server would be described as:
 
-```json
+````json
 {
   "url": "https://development.gigantic-server.com/v1",
   "description": "Development server"
 }
-```
+````
 
-```yaml
+````yaml
 url: https://development.gigantic-server.com/v1
 description: Development server
-```
+````
 
 The following shows how multiple servers can be described, for example, at the OpenAPI Object's [`servers`](#oasServers):
 
-```json
+````json
 {
   "servers": [
     {
@@ -373,9 +372,9 @@ The following shows how multiple servers can be described, for example, at the O
     }
   ]
 }
-```
+````
 
-```yaml
+````yaml
 servers:
 - url: https://development.gigantic-server.com/v1
   description: Development server
@@ -383,11 +382,11 @@ servers:
   description: Staging server
 - url: https://api.gigantic-server.com/v1
   description: Production server
-```
+````
 
 The following shows how variables can be used for a server configuration:
 
-```json
+````json
 {
   "servers": [
     {
@@ -412,9 +411,9 @@ The following shows how variables can be used for a server configuration:
     }
   ]
 }
-```
+````
 
-```yaml
+````yaml
 servers:
 - url: https://{username}.gigantic-server.com:{port}/{basePath}
   description: The production API server
@@ -431,8 +430,7 @@ servers:
     basePath:
       # open meaning there is the opportunity to use special base paths as assigned by the provider, default is `v2`
       default: v2
-```
-
+````
 
 #### <a name="serverVariableObject"></a>Server Variable Object
 
@@ -440,11 +438,11 @@ An object representing a Server Variable for server URL template substitution.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="serverVariableEnum"></a>enum | [`string`] | An enumeration of string values to be used if the substitution options are from a limited set. The array SHOULD NOT be empty.
-<a name="serverVariableDefault"></a>default | `string` |  **REQUIRED**. The default value to use for substitution, which SHALL be sent if an alternate value is _not_ supplied. Note this behavior is different than the [Schema Object's](#schemaObject) treatment of default values, because in those cases parameter values are optional. If the [`enum`](#serverVariableEnum) is defined, the value SHOULD exist in the enum's values.
-<a name="serverVariableDescription"></a>description | `string` | An optional description for the server variable. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="serverVariableEnum"></a>enum|\[`string`\]|An enumeration of string values to be used if the substitution options are from a limited set. The array SHOULD NOT be empty.|
+|<a name="serverVariableDefault"></a>default|`string`|**REQUIRED**. The default value to use for substitution, which SHALL be sent if an alternate value is *not* supplied. Note this behavior is different than the [Schema Object's](#schemaObject) treatment of default values, because in those cases parameter values are optional. If the [`enum`](#serverVariableEnum) is defined, the value SHOULD exist in the enum's values.|
+|<a name="serverVariableDescription"></a>description|`string`|An optional description for the server variable. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -453,20 +451,19 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 Holds a set of reusable objects for different aspects of the OAS.
 All objects defined within the components object will have no effect on the API unless they are explicitly referenced from properties outside the components object.
 
-
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---|---
-<a name="componentsSchemas"></a> schemas | Map[`string`, [Schema Object](#schemaObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Schema Objects](#schemaObject).
-<a name="componentsResponses"></a> responses | Map[`string`, [Response Object](#responseObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Response Objects](#responseObject).
-<a name="componentsParameters"></a> parameters | Map[`string`, [Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Parameter Objects](#parameterObject).
-<a name="componentsExamples"></a> examples | Map[`string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Example Objects](#exampleObject).
-<a name="componentsRequestBodies"></a> requestBodies | Map[`string`, [Request Body Object](#requestBodyObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Request Body Objects](#requestBodyObject).
-<a name="componentsHeaders"></a> headers | Map[`string`, [Header Object](#headerObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Header Objects](#headerObject).
-<a name="componentsSecuritySchemes"></a> securitySchemes| Map[`string`, [Security Scheme Object](#securitySchemeObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Security Scheme Objects](#securitySchemeObject).
-<a name="componentsLinks"></a> links | Map[`string`, [Link Object](#linkObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Link Objects](#linkObject).
-<a name="componentsCallbacks"></a> callbacks | Map[`string`, [Callback Object](#callbackObject) \| [Reference Object](#referenceObject)] | An object to hold reusable [Callback Objects](#callbackObject).
+|Field Name|Type|Description|
+|----------|:---|-----------|
+|<a name="componentsSchemas"></a> schemas|Map\[`string`, [Schema Object](#schemaObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Schema Objects](#schemaObject).|
+|<a name="componentsResponses"></a> responses|Map\[`string`, [Response Object](#responseObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Response Objects](#responseObject).|
+|<a name="componentsParameters"></a> parameters|Map\[`string`, [Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Parameter Objects](#parameterObject).|
+|<a name="componentsExamples"></a> examples|Map\[`string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Example Objects](#exampleObject).|
+|<a name="componentsRequestBodies"></a> requestBodies|Map\[`string`, [Request Body Object](#requestBodyObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Request Body Objects](#requestBodyObject).|
+|<a name="componentsHeaders"></a> headers|Map\[`string`, [Header Object](#headerObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Header Objects](#headerObject).|
+|<a name="componentsSecuritySchemes"></a> securitySchemes|Map\[`string`, [Security Scheme Object](#securitySchemeObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Security Scheme Objects](#securitySchemeObject).|
+|<a name="componentsLinks"></a> links|Map\[`string`, [Link Object](#linkObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Link Objects](#linkObject).|
+|<a name="componentsCallbacks"></a> callbacks|Map\[`string`, [Callback Object](#callbackObject) \| [Reference Object](#referenceObject)\]|An object to hold reusable [Callback Objects](#callbackObject).|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -474,17 +471,17 @@ All the fixed fields declared above are objects that MUST use keys that match th
 
 Field Name Examples:
 
-```
+````
 User
 User_1
 User_Name
 user-name
 my.org.User
-```
+````
 
 ##### Components Object Example
 
-```json
+````json
 "components": {
   "schemas": {
     "GeneralError": {
@@ -584,9 +581,9 @@ my.org.User
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 components:
   schemas:
     GeneralError:
@@ -654,8 +651,7 @@ components:
           scopes:
             write:pets: modify pets in your account
             read:pets: read your pets
-```
-
+````
 
 #### <a name="pathsObject"></a>Paths Object
 
@@ -664,9 +660,9 @@ The path is appended to the URL from the [`Server Object`](#serverObject) in ord
 
 ##### Patterned Fields
 
-Field Pattern | Type | Description
----|:---:|---
-<a name="pathsPath"></a>/{path} | [Path Item Object](#pathItemObject) | A relative path to an individual endpoint. The field name MUST begin with a forward slash (`/`). The path is **appended** (no relative URL resolution) to the expanded URL from the [`Server Object`](#serverObject)'s `url` field in order to construct the full URL. [Path templating](#pathTemplating) is allowed. When matching URLs, concrete (non-templated) paths would be matched before their templated counterparts. Templated paths with the same hierarchy but different templated names MUST NOT exist as they are identical. In case of ambiguous matching, it's up to the tooling to decide which one to use.
+|Field Pattern|Type|Description|
+|-------------|:--:|-----------|
+|<a name="pathsPath"></a>/{path}|[Path Item Object](#pathItemObject)|A relative path to an individual endpoint. The field name MUST begin with a forward slash (`/`). The path is **appended** (no relative URL resolution) to the expanded URL from the [`Server Object`](#serverObject)'s `url` field in order to construct the full URL. [Path templating](#pathTemplating) is allowed. When matching URLs, concrete (non-templated) paths would be matched before their templated counterparts. Templated paths with the same hierarchy but different templated names MUST NOT exist as they are identical. In case of ambiguous matching, it's up to the tooling to decide which one to use.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -674,28 +670,28 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 Assuming the following paths, the concrete definition, `/pets/mine`, will be matched first if used:
 
-```
+````
   /pets/{petId}
   /pets/mine
-```
+````
 
 The following paths are considered identical and invalid:
 
-```
+````
   /pets/{petId}
   /pets/{name}
-```
+````
 
 The following may lead to ambiguous resolution:
 
-```
+````
   /{entity}/me
   /books/{id}
-```
+````
 
 ##### Paths Object Example
 
-```json
+````json
 {
   "/pets": {
     "get": {
@@ -718,9 +714,9 @@ The following may lead to ambiguous resolution:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 /pets:
   get:
     description: Returns all pets from the system that the user has access to
@@ -733,7 +729,7 @@ The following may lead to ambiguous resolution:
               type: array
               items:
                 $ref: '#/components/schemas/pet'
-```
+````
 
 #### <a name="pathItemObject"></a>Path Item Object
 
@@ -743,28 +739,27 @@ The path itself is still exposed to the documentation viewer but they will not k
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="pathItemRef"></a>$ref | `string` | Allows for an external definition of this path item. The referenced structure MUST be in the format of a [Path Item Object](#pathItemObject).  In case a Path Item Object field appears both in the defined object and the referenced object, the behavior is undefined.
-<a name="pathItemSummary"></a>summary| `string` | An optional, string summary, intended to apply to all operations in this path.
-<a name="pathItemDescription"></a>description | `string` | An optional, string description, intended to apply to all operations in this path. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="pathItemGet"></a>get | [Operation Object](#operationObject) | A definition of a GET operation on this path.
-<a name="pathItemPut"></a>put | [Operation Object](#operationObject) | A definition of a PUT operation on this path.
-<a name="pathItemPost"></a>post | [Operation Object](#operationObject) | A definition of a POST operation on this path.
-<a name="pathItemDelete"></a>delete | [Operation Object](#operationObject) | A definition of a DELETE operation on this path.
-<a name="pathItemOptions"></a>options | [Operation Object](#operationObject) | A definition of a OPTIONS operation on this path.
-<a name="pathItemHead"></a>head | [Operation Object](#operationObject) | A definition of a HEAD operation on this path.
-<a name="pathItemPatch"></a>patch | [Operation Object](#operationObject) | A definition of a PATCH operation on this path.
-<a name="pathItemTrace"></a>trace | [Operation Object](#operationObject) | A definition of a TRACE operation on this path.
-<a name="pathItemServers"></a>servers | [[Server Object](#serverObject)] | An alternative `server` array to service all operations in this path.
-<a name="pathItemParameters"></a>parameters | [[Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)] | A list of parameters that are applicable for all the operations described under this path. These parameters can be overridden at the operation level, but cannot be removed there. The list MUST NOT include duplicated parameters. A unique parameter is defined by a combination of a [name](#parameterName) and [location](#parameterIn). The list can use the [Reference Object](#referenceObject) to link to parameters that are defined at the [OpenAPI Object's components/parameters](#componentsParameters). 
-
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="pathItemRef"></a>$ref|`string`|Allows for an external definition of this path item. The referenced structure MUST be in the format of a [Path Item Object](#pathItemObject).  In case a Path Item Object field appears both in the defined object and the referenced object, the behavior is undefined.|
+|<a name="pathItemSummary"></a>summary|`string`|An optional, string summary, intended to apply to all operations in this path.|
+|<a name="pathItemDescription"></a>description|`string`|An optional, string description, intended to apply to all operations in this path. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="pathItemGet"></a>get|[Operation Object](#operationObject)|A definition of a GET operation on this path.|
+|<a name="pathItemPut"></a>put|[Operation Object](#operationObject)|A definition of a PUT operation on this path.|
+|<a name="pathItemPost"></a>post|[Operation Object](#operationObject)|A definition of a POST operation on this path.|
+|<a name="pathItemDelete"></a>delete|[Operation Object](#operationObject)|A definition of a DELETE operation on this path.|
+|<a name="pathItemOptions"></a>options|[Operation Object](#operationObject)|A definition of a OPTIONS operation on this path.|
+|<a name="pathItemHead"></a>head|[Operation Object](#operationObject)|A definition of a HEAD operation on this path.|
+|<a name="pathItemPatch"></a>patch|[Operation Object](#operationObject)|A definition of a PATCH operation on this path.|
+|<a name="pathItemTrace"></a>trace|[Operation Object](#operationObject)|A definition of a TRACE operation on this path.|
+|<a name="pathItemServers"></a>servers|\[[Server Object](#serverObject)\]|An alternative `server` array to service all operations in this path.|
+|<a name="pathItemParameters"></a>parameters|\[[Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)\]|A list of parameters that are applicable for all the operations described under this path. These parameters can be overridden at the operation level, but cannot be removed there. The list MUST NOT include duplicated parameters. A unique parameter is defined by a combination of a [name](#parameterName) and [location](#parameterIn). The list can use the [Reference Object](#referenceObject) to link to parameters that are defined at the [OpenAPI Object's components/parameters](#componentsParameters).|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Path Item Object Example
 
-```json
+````json
 {
   "get": {
     "description": "Returns pets based on ID",
@@ -812,9 +807,9 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
     }
   ]
 }
-```
+````
 
-```yaml
+````yaml
 get:
   description: Returns pets based on ID
   summary: Find pets by ID
@@ -844,7 +839,7 @@ parameters:
     items:
       type: string  
   style: simple
-```
+````
 
 #### <a name="operationObject"></a>Operation Object
 
@@ -852,26 +847,26 @@ Describes a single API operation on a path.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="operationTags"></a>tags | [`string`] | A list of tags for API documentation control. Tags can be used for logical grouping of operations by resources or any other qualifier.
-<a name="operationSummary"></a>summary | `string` | A short summary of what the operation does.
-<a name="operationDescription"></a>description | `string` | A verbose explanation of the operation behavior. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="operationExternalDocs"></a>externalDocs | [External Documentation Object](#externalDocumentationObject) | Additional external documentation for this operation.
-<a name="operationId"></a>operationId | `string` | Unique string used to identify the operation. The id MUST be unique among all operations described in the API. The operationId value is **case-sensitive**. Tools and libraries MAY use the operationId to uniquely identify an operation, therefore, it is RECOMMENDED to follow common programming naming conventions.
-<a name="operationParameters"></a>parameters | [[Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)] | A list of parameters that are applicable for this operation. If a parameter is already defined at the [Path Item](#pathItemParameters), the new definition will override it but can never remove it. The list MUST NOT include duplicated parameters. A unique parameter is defined by a combination of a [name](#parameterName) and [location](#parameterIn). The list can use the [Reference Object](#referenceObject) to link to parameters that are defined at the [OpenAPI Object's components/parameters](#componentsParameters).
-<a name="operationRequestBody"></a>requestBody | [Request Body Object](#requestBodyObject) \| [Reference Object](#referenceObject) | The request body applicable for this operation.  The `requestBody` is only supported in HTTP methods where the HTTP 1.1 specification [RFC7231](https://tools.ietf.org/html/rfc7231#section-4.3.1) has explicitly defined semantics for request bodies.  In other cases where the HTTP spec is vague, `requestBody` SHALL be ignored by consumers.
-<a name="operationResponses"></a>responses | [Responses Object](#responsesObject) | **REQUIRED**. The list of possible responses as they are returned from executing this operation.
-<a name="operationCallbacks"></a>callbacks | Map[`string`, [Callback Object](#callbackObject) \| [Reference Object](#referenceObject)] | A map of possible out-of band callbacks related to the parent operation. The key is a unique identifier for the Callback Object. Each value in the map is a [Callback Object](#callbackObject) that describes a request that may be initiated by the API provider and the expected responses.
-<a name="operationDeprecated"></a>deprecated | `boolean` | Declares this operation to be deprecated. Consumers SHOULD refrain from usage of the declared operation. Default value is `false`.
-<a name="operationSecurity"></a>security | [[Security Requirement Object](#securityRequirementObject)] | A declaration of which security mechanisms can be used for this operation. The list of values includes alternative security requirement objects that can be used. Only one of the security requirement objects need to be satisfied to authorize a request. To make security optional, an empty security requirement (`{}`) can be included in the array. This definition overrides any declared top-level [`security`](#oasSecurity). To remove a top-level security declaration, an empty array can be used.
-<a name="operationServers"></a>servers | [[Server Object](#serverObject)] | An alternative `server` array to service this operation. If an alternative `server` object is specified at the Path Item Object or Root level, it will be overridden by this value.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="operationTags"></a>tags|\[`string`\]|A list of tags for API documentation control. Tags can be used for logical grouping of operations by resources or any other qualifier.|
+|<a name="operationSummary"></a>summary|`string`|A short summary of what the operation does.|
+|<a name="operationDescription"></a>description|`string`|A verbose explanation of the operation behavior. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="operationExternalDocs"></a>externalDocs|[External Documentation Object](#externalDocumentationObject)|Additional external documentation for this operation.|
+|<a name="operationId"></a>operationId|`string`|Unique string used to identify the operation. The id MUST be unique among all operations described in the API. The operationId value is **case-sensitive**. Tools and libraries MAY use the operationId to uniquely identify an operation, therefore, it is RECOMMENDED to follow common programming naming conventions.|
+|<a name="operationParameters"></a>parameters|\[[Parameter Object](#parameterObject) \| [Reference Object](#referenceObject)\]|A list of parameters that are applicable for this operation. If a parameter is already defined at the [Path Item](#pathItemParameters), the new definition will override it but can never remove it. The list MUST NOT include duplicated parameters. A unique parameter is defined by a combination of a [name](#parameterName) and [location](#parameterIn). The list can use the [Reference Object](#referenceObject) to link to parameters that are defined at the [OpenAPI Object's components/parameters](#componentsParameters).|
+|<a name="operationRequestBody"></a>requestBody|[Request Body Object](#requestBodyObject) \| [Reference Object](#referenceObject)|The request body applicable for this operation.  The `requestBody` is only supported in HTTP methods where the HTTP 1.1 specification [RFC7231](https://tools.ietf.org/html/rfc7231#section-4.3.1) has explicitly defined semantics for request bodies.  In other cases where the HTTP spec is vague, `requestBody` SHALL be ignored by consumers.|
+|<a name="operationResponses"></a>responses|[Responses Object](#responsesObject)|**REQUIRED**. The list of possible responses as they are returned from executing this operation.|
+|<a name="operationCallbacks"></a>callbacks|Map\[`string`, [Callback Object](#callbackObject) \| [Reference Object](#referenceObject)\]|A map of possible out-of band callbacks related to the parent operation. The key is a unique identifier for the Callback Object. Each value in the map is a [Callback Object](#callbackObject) that describes a request that may be initiated by the API provider and the expected responses.|
+|<a name="operationDeprecated"></a>deprecated|`boolean`|Declares this operation to be deprecated. Consumers SHOULD refrain from usage of the declared operation. Default value is `false`.|
+|<a name="operationSecurity"></a>security|\[[Security Requirement Object](#securityRequirementObject)\]|A declaration of which security mechanisms can be used for this operation. The list of values includes alternative security requirement objects that can be used. Only one of the security requirement objects need to be satisfied to authorize a request. To make security optional, an empty security requirement (`{}`) can be included in the array. This definition overrides any declared top-level [`security`](#oasSecurity). To remove a top-level security declaration, an empty array can be used.|
+|<a name="operationServers"></a>servers|\[[Server Object](#serverObject)\]|An alternative `server` array to service this operation. If an alternative `server` object is specified at the Path Item Object or Root level, it will be overridden by this value.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Operation Object Example
 
-```json
+````json
 {
   "tags": [
     "pet"
@@ -934,9 +929,9 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
     }
   ]
 }
-```
+````
 
-```yaml
+````yaml
 tags:
 - pet
 summary: Updates a pet in the store with form data
@@ -976,8 +971,7 @@ security:
 - petstore_auth:
   - write:pets
   - read:pets
-```
-
+````
 
 #### <a name="externalDocumentationObject"></a>External Documentation Object
 
@@ -985,26 +979,26 @@ Allows referencing an external resource for extended documentation.
 
 ##### Fixed Fields
 
-Field Name | Type | Description
----|:---:|---
-<a name="externalDocDescription"></a>description | `string` | A short description of the target documentation. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="externalDocUrl"></a>url | `string` | **REQUIRED**. The URL for the target documentation. Value MUST be in the format of a URL.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="externalDocDescription"></a>description|`string`|A short description of the target documentation. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="externalDocUrl"></a>url|`string`|**REQUIRED**. The URL for the target documentation. Value MUST be in the format of a URL.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### External Documentation Object Example
 
-```json
+````json
 {
   "description": "Find more info here",
   "url": "https://example.com"
 }
-```
+````
 
-```yaml
+````yaml
 description: Find more info here
 url: https://example.com
-```
+````
 
 #### <a name="parameterObject"></a>Parameter Object
 
@@ -1013,83 +1007,84 @@ Describes a single operation parameter.
 A unique parameter is defined by a combination of a [name](#parameterName) and [location](#parameterIn).
 
 ##### Parameter Locations
+
 There are four possible parameter locations specified by the `in` field:
+
 * path - Used together with [Path Templating](#pathTemplating), where the parameter value is actually part of the operation's URL. This does not include the host or base path of the API. For example, in `/items/{itemId}`, the path parameter is `itemId`.
 * query - Parameters that are appended to the URL. For example, in `/items?id=###`, the query parameter is `id`.
 * header - Custom headers that are expected as part of the request. Note that [RFC7230](https://tools.ietf.org/html/rfc7230#page-22) states header names are case insensitive.
 * cookie - Used to pass a specific cookie value to the API.
 
-
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="parameterName"></a>name | `string` | **REQUIRED**. The name of the parameter. Parameter names are *case sensitive*. <ul><li>If [`in`](#parameterIn) is `"path"`, the `name` field MUST correspond to a template expression occurring within the [path](#pathsPath) field in the [Paths Object](#pathsObject). See [Path Templating](#pathTemplating) for further information.<li>If [`in`](#parameterIn) is `"header"` and the `name` field is `"Accept"`, `"Content-Type"` or `"Authorization"`, the parameter definition SHALL be ignored.<li>For all other cases, the `name` corresponds to the parameter name used by the [`in`](#parameterIn) property.</ul>
-<a name="parameterIn"></a>in | `string` | **REQUIRED**. The location of the parameter. Possible values are `"query"`, `"header"`, `"path"` or `"cookie"`.
-<a name="parameterDescription"></a>description | `string` | A brief description of the parameter. This could contain examples of use. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="parameterRequired"></a>required | `boolean` | Determines whether this parameter is mandatory. If the [parameter location](#parameterIn) is `"path"`, this property is **REQUIRED** and its value MUST be `true`. Otherwise, the property MAY be included and its default value is `false`.
-<a name="parameterDeprecated"></a> deprecated | `boolean` | Specifies that a parameter is deprecated and SHOULD be transitioned out of usage. Default value is `false`.
-<a name="parameterAllowEmptyValue"></a> allowEmptyValue | `boolean` | Sets the ability to pass empty-valued parameters. This is valid only for `query` parameters and allows sending a parameter with an empty value. Default value is `false`. If [`style`](#parameterStyle) is used, and if behavior is `n/a` (cannot be serialized), the value of `allowEmptyValue` SHALL be ignored. Use of this property is NOT RECOMMENDED, as it is likely to be removed in a later revision.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="parameterName"></a>name|`string`|**REQUIRED**. The name of the parameter. Parameter names are *case sensitive*. <ul><li>If [`in`](#parameterIn) is `"path"`, the `name` field MUST correspond to a template expression occurring within the [path](#pathsPath) field in the [Paths Object](#pathsObject). See [Path Templating](#pathTemplating) for further information.<li>If [`in`](#parameterIn) is `"header"` and the `name` field is `"Accept"`, `"Content-Type"` or `"Authorization"`, the parameter definition SHALL be ignored.<li>For all other cases, the `name` corresponds to the parameter name used by the [`in`](#parameterIn) property.</ul>|
+|<a name="parameterIn"></a>in|`string`|**REQUIRED**. The location of the parameter. Possible values are `"query"`, `"header"`, `"path"` or `"cookie"`.|
+|<a name="parameterDescription"></a>description|`string`|A brief description of the parameter. This could contain examples of use. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="parameterRequired"></a>required|`boolean`|Determines whether this parameter is mandatory. If the [parameter location](#parameterIn) is `"path"`, this property is **REQUIRED** and its value MUST be `true`. Otherwise, the property MAY be included and its default value is `false`.|
+|<a name="parameterDeprecated"></a> deprecated|`boolean`|Specifies that a parameter is deprecated and SHOULD be transitioned out of usage. Default value is `false`.|
+|<a name="parameterAllowEmptyValue"></a> allowEmptyValue|`boolean`|Sets the ability to pass empty-valued parameters. This is valid only for `query` parameters and allows sending a parameter with an empty value. Default value is `false`. If [`style`](#parameterStyle) is used, and if behavior is `n/a` (cannot be serialized), the value of `allowEmptyValue` SHALL be ignored. Use of this property is NOT RECOMMENDED, as it is likely to be removed in a later revision.|
 
 The rules for serialization of the parameter are specified in one of two ways.
 For simpler scenarios, a [`schema`](#parameterSchema) and [`style`](#parameterStyle) can describe the structure and syntax of the parameter.
 
-Field Name | Type | Description
----|:---:|---
-<a name="parameterStyle"></a>style | `string` | Describes how the parameter value will be serialized depending on the type of the parameter value. Default values (based on value of `in`): for `query` - `form`; for `path` - `simple`; for `header` - `simple`; for `cookie` - `form`.
-<a name="parameterExplode"></a>explode | `boolean` | When this is true, parameter values of type `array` or `object` generate separate parameters for each value of the array or key-value pair of the map. For other types of parameters this property has no effect. When [`style`](#parameterStyle) is `form`, the default value is `true`. For all other styles, the default value is `false`.
-<a name="parameterAllowReserved"></a>allowReserved | `boolean` | Determines whether the parameter value SHOULD allow reserved characters, as defined by [RFC3986](https://tools.ietf.org/html/rfc3986#section-2.2) `:/?#[]@!$&'()*+,;=` to be included without percent-encoding. This property only applies to parameters with an `in` value of `query`. The default value is `false`.
-<a name="parameterSchema"></a>schema | [Schema Object](#schemaObject) \| [Reference Object](#referenceObject) | The schema defining the type used for the parameter.
-<a name="parameterExample"></a>example | Any | Example of the parameter's potential value. The example SHOULD match the specified schema and encoding properties if present. The `example` field is mutually exclusive of the `examples` field. Furthermore, if referencing a `schema` that contains an example, the `example` value SHALL _override_ the example provided by the schema. To represent examples of media types that cannot naturally be represented in JSON or YAML, a string value can contain the example with escaping where necessary.
-<a name="parameterExamples"></a>examples | Map[ `string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)] | Examples of the parameter's potential value. Each example SHOULD contain a value in the correct format as specified in the parameter encoding. The `examples` field is mutually exclusive of the `example` field. Furthermore, if referencing a `schema` that contains an example, the `examples` value SHALL _override_ the example provided by the schema.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="parameterStyle"></a>style|`string`|Describes how the parameter value will be serialized depending on the type of the parameter value. Default values (based on value of `in`): for `query` - `form`; for `path` - `simple`; for `header` - `simple`; for `cookie` - `form`.|
+|<a name="parameterExplode"></a>explode|`boolean`|When this is true, parameter values of type `array` or `object` generate separate parameters for each value of the array or key-value pair of the map. For other types of parameters this property has no effect. When [`style`](#parameterStyle) is `form`, the default value is `true`. For all other styles, the default value is `false`.|
+|<a name="parameterAllowReserved"></a>allowReserved|`boolean`|Determines whether the parameter value SHOULD allow reserved characters, as defined by [RFC3986](https://tools.ietf.org/html/rfc3986#section-2.2) `:/?#[]@!$&'()*+,;=` to be included without percent-encoding. This property only applies to parameters with an `in` value of `query`. The default value is `false`.|
+|<a name="parameterSchema"></a>schema|[Schema Object](#schemaObject) \| [Reference Object](#referenceObject)|The schema defining the type used for the parameter.|
+|<a name="parameterExample"></a>example|Any|Example of the parameter's potential value. The example SHOULD match the specified schema and encoding properties if present. The `example` field is mutually exclusive of the `examples` field. Furthermore, if referencing a `schema` that contains an example, the `example` value SHALL *override* the example provided by the schema. To represent examples of media types that cannot naturally be represented in JSON or YAML, a string value can contain the example with escaping where necessary.|
+|<a name="parameterExamples"></a>examples|Map\[ `string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)\]|Examples of the parameter's potential value. Each example SHOULD contain a value in the correct format as specified in the parameter encoding. The `examples` field is mutually exclusive of the `example` field. Furthermore, if referencing a `schema` that contains an example, the `examples` value SHALL *override* the example provided by the schema.|
 
 For more complex scenarios, the [`content`](#parameterContent) property can define the media type and schema of the parameter.
 A parameter MUST contain either a `schema` property, or a `content` property, but not both.
 When `example` or `examples` are provided in conjunction with the `schema` object, the example MUST follow the prescribed serialization strategy for the parameter.
 
-
-Field Name | Type | Description
----|:---:|---
-<a name="parameterContent"></a>content | Map[`string`, [Media Type Object](#mediaTypeObject)] | A map containing the representations for the parameter. The key is the media type and the value describes it. The map MUST only contain one entry.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="parameterContent"></a>content|Map\[`string`, [Media Type Object](#mediaTypeObject)\]|A map containing the representations for the parameter. The key is the media type and the value describes it. The map MUST only contain one entry.|
 
 ##### Style Values
 
 In order to support common ways of serializing simple parameters, a set of `style` values are defined.
 
-`style` | [`type`](#dataTypes) |  `in` | Comments
------------ | ------ | -------- | --------
-matrix |  `primitive`, `array`, `object` |  `path` | Path-style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.7) 
-label | `primitive`, `array`, `object` |  `path` | Label style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.5)
-form |  `primitive`, `array`, `object` |  `query`, `cookie` | Form style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.8). This option replaces `collectionFormat` with a `csv` (when `explode` is false) or `multi` (when `explode` is true) value from OpenAPI 2.0.
-simple | `array` | `path`, `header` | Simple style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.2).  This option replaces `collectionFormat` with a `csv` value from OpenAPI 2.0.
-spaceDelimited | `array` | `query` | Space separated array values. This option replaces `collectionFormat` equal to `ssv` from OpenAPI 2.0. 
-pipeDelimited | `array` | `query` | Pipe separated array values. This option replaces `collectionFormat` equal to `pipes` from OpenAPI 2.0.
-deepObject | `object` | `query` | Provides a simple way of rendering nested objects using form parameters.
-
+|`style`|[`type`](#dataTypes)|`in`|Comments|
+|-------|------|----|--------|
+|matrix|`primitive`, `array`, `object`|`path`|Path-style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.7)|
+|label|`primitive`, `array`, `object`|`path`|Label style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.5)|
+|form|`primitive`, `array`, `object`|`query`, `cookie`|Form style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.8). This option replaces `collectionFormat` with a `csv` (when `explode` is false) or `multi` (when `explode` is true) value from OpenAPI 2.0.|
+|simple|`array`|`path`, `header`|Simple style parameters defined by [RFC6570](https://tools.ietf.org/html/rfc6570#section-3.2.2).  This option replaces `collectionFormat` with a `csv` value from OpenAPI 2.0.|
+|spaceDelimited|`array`|`query`|Space separated array values. This option replaces `collectionFormat` equal to `ssv` from OpenAPI 2.0.|
+|pipeDelimited|`array`|`query`|Pipe separated array values. This option replaces `collectionFormat` equal to `pipes` from OpenAPI 2.0.|
+|deepObject|`object`|`query`|Provides a simple way of rendering nested objects using form parameters.|
 
 ##### Style Examples
 
 Assume a parameter named `color` has one of the following values:
 
-```
+````
    string -> "blue"
    array -> ["blue","black","brown"]
    object -> { "R": 100, "G": 200, "B": 150 }
-```
+````
+
 The following table shows examples of rendering differences for each value.
 
-[`style`](#dataTypeFormat) | `explode` | `empty` | `string` | `array` | `object`
------------ | ------ | -------- | -------- | -------- | -------
-matrix | false | ;color | ;color=blue | ;color=blue,black,brown | ;color=R,100,G,200,B,150
-matrix | true | ;color | ;color=blue | ;color=blue;color=black;color=brown | ;R=100;G=200;B=150
-label | false | .  | .blue |  .blue.black.brown | .R.100.G.200.B.150
-label | true | . | .blue |  .blue.black.brown | .R=100.G=200.B=150
-form | false | color= | color=blue | color=blue,black,brown | color=R,100,G,200,B,150
-form | true | color= | color=blue | color=blue&color=black&color=brown | R=100&G=200&B=150
-simple | false | n/a | blue | blue,black,brown | R,100,G,200,B,150
-simple | true | n/a | blue | blue,black,brown | R=100,G=200,B=150
-spaceDelimited | false | n/a | n/a | blue%20black%20brown | R%20100%20G%20200%20B%20150
-pipeDelimited | false | n/a | n/a | blue\|black\|brown | R\|100\|G\|200\|B\|150
-deepObject | true | n/a | n/a | n/a | color[R]=100&color[G]=200&color[B]=150
+|[`style`](#dataTypeFormat)|`explode`|`empty`|`string`|`array`|`object`|
+|-------|---------|-------|--------|-------|--------|
+|matrix|false|;color|;color=blue|;color=blue,black,brown|;color=R,100,G,200,B,150|
+|matrix|true|;color|;color=blue|;color=blue;color=black;color=brown|;R=100;G=200;B=150|
+|label|false|.|.blue|.blue.black.brown|.R.100.G.200.B.150|
+|label|true|.|.blue|.blue.black.brown|.R=100.G=200.B=150|
+|form|false|color=|color=blue|color=blue,black,brown|color=R,100,G,200,B,150|
+|form|true|color=|color=blue|color=blue&color=black&color=brown|R=100&G=200&B=150|
+|simple|false|n/a|blue|blue,black,brown|R,100,G,200,B,150|
+|simple|true|n/a|blue|blue,black,brown|R=100,G=200,B=150|
+|spaceDelimited|false|n/a|n/a|blue%20black%20brown|R%20100%20G%20200%20B%20150|
+|pipeDelimited|false|n/a|n/a|blue\|black\|brown|R\|100\|G\|200\|B\|150|
+|deepObject|true|n/a|n/a|n/a|color\[R\]=100&color\[G\]=200&color\[B\]=150|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -1097,7 +1092,7 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 A header parameter with an array of 64 bit integer numbers:
 
-```json
+````json
 {
   "name": "token",
   "in": "header",
@@ -1112,9 +1107,9 @@ A header parameter with an array of 64 bit integer numbers:
   },
   "style": "simple"
 }
-```
+````
 
-```yaml
+````yaml
 name: token
 in: header
 description: token to be passed as a header
@@ -1125,10 +1120,11 @@ schema:
     type: integer
     format: int64
 style: simple
-```
+````
 
 A path parameter of a string value:
-```json
+
+````json
 {
   "name": "username",
   "in": "path",
@@ -1138,19 +1134,20 @@ A path parameter of a string value:
     "type": "string"
   }
 }
-```
+````
 
-```yaml
+````yaml
 name: username
 in: path
 description: username to fetch
 required: true
 schema:
   type: string
-```
+````
 
 An optional query parameter of a string value, allowing multiple values by repeating the query parameter:
-```json
+
+````json
 {
   "name": "id",
   "in": "query",
@@ -1165,9 +1162,9 @@ An optional query parameter of a string value, allowing multiple values by repea
   "style": "form",
   "explode": true
 }
-```
+````
 
-```yaml
+````yaml
 name: id
 in: query
 description: ID of the object to fetch
@@ -1178,10 +1175,11 @@ schema:
     type: string
 style: form
 explode: true
-```
+````
 
 A free-form query parameter, allowing undefined parameters of a specific type:
-```json
+
+````json
 {
   "in": "query",
   "name": "freeForm",
@@ -1193,9 +1191,9 @@ A free-form query parameter, allowing undefined parameters of a specific type:
   },
   "style": "form"
 }
-```
+````
 
-```yaml
+````yaml
 in: query
 name: freeForm
 schema:
@@ -1203,11 +1201,11 @@ schema:
   additionalProperties:
     type: integer
 style: form
-```
+````
 
 A complex parameter using `content` to define serialization:
 
-```json
+````json
 {
   "in": "query",
   "name": "coordinates",
@@ -1231,9 +1229,9 @@ A complex parameter using `content` to define serialization:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 in: query
 name: coordinates
 content:
@@ -1248,26 +1246,27 @@ content:
           type: number
         long:
           type: number
-```
+````
 
 #### <a name="requestBodyObject"></a>Request Body Object
 
 Describes a single request body.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="requestBodyDescription"></a>description | `string` | A brief description of the request body. This could contain examples of use.  [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="requestBodyContent"></a>content | Map[`string`, [Media Type Object](#mediaTypeObject)] | **REQUIRED**. The content of the request body. The key is a media type or [media type range](https://tools.ietf.org/html/rfc7231#appendix-D) and the value describes it.  For requests that match multiple keys, only the most specific key is applicable. e.g. text/plain overrides text/*
-<a name="requestBodyRequired"></a>required | `boolean` | Determines if the request body is required in the request. Defaults to `false`.
 
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="requestBodyDescription"></a>description|`string`|A brief description of the request body. This could contain examples of use.  [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="requestBodyContent"></a>content|Map\[`string`, [Media Type Object](#mediaTypeObject)\]|**REQUIRED**. The content of the request body. The key is a media type or [media type range](https://tools.ietf.org/html/rfc7231#appendix-D) and the value describes it.  For requests that match multiple keys, only the most specific key is applicable. e.g. text/plain overrides text/\*|
+|<a name="requestBodyRequired"></a>required|`boolean`|Determines if the request body is required in the request. Defaults to `false`.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Request Body Examples
 
 A request body with a referenced model definition.
-```json
+
+````json
 {
   "description": "user to add to the system",
   "content": {
@@ -1311,9 +1310,9 @@ A request body with a referenced model definition.
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 description: user to add to the system
 content: 
   'application/json':
@@ -1340,10 +1339,11 @@ content:
       user: 
         summary: User example in other format
         externalValue: 'http://foo.bar/examples/user-example.whatever'
-```
+````
 
 A body parameter that is an array of string values:
-```json
+
+````json
 {
   "description": "user to add to the system",
   "content": {
@@ -1357,9 +1357,9 @@ A body parameter that is an array of string values:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 description: user to add to the system
 required: true
 content:
@@ -1368,25 +1368,26 @@ content:
       type: array
       items:
         type: string
-```
-
+````
 
 #### <a name="mediaTypeObject"></a>Media Type Object
+
 Each Media Type Object provides schema and examples for the media type identified by its key.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="mediaTypeSchema"></a>schema | [Schema Object](#schemaObject) \| [Reference Object](#referenceObject) | The schema defining the content of the request, response, or parameter.
-<a name="mediaTypeExample"></a>example | Any | Example of the media type.  The example object SHOULD be in the correct format as specified by the media type.  The `example` field is mutually exclusive of the `examples` field.  Furthermore, if referencing a `schema` which contains an example, the `example` value SHALL _override_ the example provided by the schema.
-<a name="mediaTypeExamples"></a>examples | Map[ `string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)] | Examples of the media type.  Each example object SHOULD  match the media type and specified schema if present.  The `examples` field is mutually exclusive of the `example` field.  Furthermore, if referencing a `schema` which contains an example, the `examples` value SHALL _override_ the example provided by the schema.
-<a name="mediaTypeEncoding"></a>encoding | Map[`string`, [Encoding Object](#encodingObject)] | A map between a property name and its encoding information. The key, being the property name, MUST exist in the schema as a property. The encoding object SHALL only apply to `requestBody` objects when the media type is `multipart` or `application/x-www-form-urlencoded`.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="mediaTypeSchema"></a>schema|[Schema Object](#schemaObject) \| [Reference Object](#referenceObject)|The schema defining the content of the request, response, or parameter.|
+|<a name="mediaTypeExample"></a>example|Any|Example of the media type.  The example object SHOULD be in the correct format as specified by the media type.  The `example` field is mutually exclusive of the `examples` field.  Furthermore, if referencing a `schema` which contains an example, the `example` value SHALL *override* the example provided by the schema.|
+|<a name="mediaTypeExamples"></a>examples|Map\[ `string`, [Example Object](#exampleObject) \| [Reference Object](#referenceObject)\]|Examples of the media type.  Each example object SHOULD  match the media type and specified schema if present.  The `examples` field is mutually exclusive of the `example` field.  Furthermore, if referencing a `schema` which contains an example, the `examples` value SHALL *override* the example provided by the schema.|
+|<a name="mediaTypeEncoding"></a>encoding|Map\[`string`, [Encoding Object](#encodingObject)\]|A map between a property name and its encoding information. The key, being the property name, MUST exist in the schema as a property. The encoding object SHALL only apply to `requestBody` objects when the media type is `multipart` or `application/x-www-form-urlencoded`.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Media Type Examples
 
-```json
+````json
 {
   "application/json": {
     "schema": {
@@ -1420,9 +1421,9 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 application/json: 
   schema:
     $ref: "#/components/schemas/Pet"
@@ -1445,31 +1446,31 @@ application/json:
         breed: Mixed
     frog:
       $ref: "#/components/examples/frog-example"
-```
+````
 
 ##### Considerations for File Uploads
 
 In contrast with the 2.0 specification, `file` input/output content in OpenAPI is described with the same semantics as any other schema type. Specifically:
 
-```yaml
+````yaml
 # content transferred with base64 encoding
 schema:
   type: string
   format: base64
-```
+````
 
-```yaml
+````yaml
 # content transferred in binary (octet-stream):
 schema:
   type: string
   format: binary
-```
+````
 
 These examples apply to either input payloads of file uploads or response payloads.
 
 A `requestBody` for submitting a file in a `POST` operation may look like the following example:
 
-```yaml
+````yaml
 requestBody:
   content:
     application/octet-stream:
@@ -1477,11 +1478,11 @@ requestBody:
         # a binary file of any type
         type: string
         format: binary
-```
+````
 
 In addition, specific media types MAY be specified:
 
-```yaml
+````yaml
 # multiple, specific media types may be specified:
 requestBody:
   content:
@@ -1494,11 +1495,11 @@ requestBody:
       schema:
         type: string
         format: binary        
-```
+````
 
 To upload multiple files, a `multipart` media type MUST be used:
 
-```yaml
+````yaml
 requestBody:
   content:
     multipart/form-data:
@@ -1511,14 +1512,14 @@ requestBody:
               type: string
               format: binary
 
-```
+````
 
 ##### Support for x-www-form-urlencoded Request Bodies
 
 To submit content using form url encoding via [RFC1866](https://tools.ietf.org/html/rfc1866), the following
 definition may be used:
 
-```yaml
+````yaml
 requestBody:
   content:
     application/x-www-form-urlencoded:
@@ -1532,7 +1533,7 @@ requestBody:
             # complex types are stringified to support RFC 1866
             type: object
             properties: {}
-```
+````
 
 In this example, the contents in the `requestBody` MUST be stringified per [RFC1866](https://tools.ietf.org/html/rfc1866/) when passed to the server.  In addition, the `address` field complex object will be stringified.
 
@@ -1548,10 +1549,9 @@ When passing in `multipart` types, boundaries MAY be used to separate sections o
 * If the property is complex, or an array of complex values, the default Content-Type is `application/json`
 * If the property is a `type: string` with `format: binary` or `format: base64` (aka a file object), the default Content-Type is `application/octet-stream`
 
-
 Examples:
 
-```yaml
+````yaml
 requestBody:
   content:
     multipart/form-data:
@@ -1579,28 +1579,29 @@ requestBody:
             type: array
             items:
               type: '#/components/schemas/Address'
-```
+````
 
-An `encoding` attribute is introduced to give you control over the serialization of parts of `multipart` request bodies.  This attribute is _only_ applicable to `multipart` and `application/x-www-form-urlencoded` request bodies.
+An `encoding` attribute is introduced to give you control over the serialization of parts of `multipart` request bodies.  This attribute is *only* applicable to `multipart` and `application/x-www-form-urlencoded` request bodies.
 
 #### <a name="encodingObject"></a>Encoding Object
 
 A single encoding definition applied to a single schema property.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="encodingContentType"></a>contentType | `string` | The Content-Type for encoding a specific property. Default value depends on the property type: for `string` with `format` being `binary` – `application/octet-stream`; for other primitive types – `text/plain`; for `object` - `application/json`; for `array` – the default is defined based on the inner type. The value can be a specific media type (e.g. `application/json`), a wildcard media type (e.g. `image/*`), or a comma-separated list of the two types.
-<a name="encodingHeaders"></a>headers | Map[`string`, [Header Object](#headerObject) \| [Reference Object](#referenceObject)] | A map allowing additional information to be provided as headers, for example `Content-Disposition`.  `Content-Type` is described separately and SHALL be ignored in this section. This property SHALL be ignored if the request body media type is not a `multipart`.
-<a name="encodingStyle"></a>style | `string` | Describes how a specific property value will be serialized depending on its type.  See [Parameter Object](#parameterObject) for details on the [`style`](#parameterStyle) property. The behavior follows the same values as `query` parameters, including default values. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.
-<a name="encodingExplode"></a>explode | `boolean` | When this is true, property values of type `array` or `object` generate separate parameters for each value of the array, or key-value-pair of the map.  For other types of properties this property has no effect. When [`style`](#encodingStyle) is `form`, the default value is `true`. For all other styles, the default value is `false`. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.
-<a name="encodingAllowReserved"></a>allowReserved | `boolean` | Determines whether the parameter value SHOULD allow reserved characters, as defined by [RFC3986](https://tools.ietf.org/html/rfc3986#section-2.2) `:/?#[]@!$&'()*+,;=` to be included without percent-encoding. The default value is `false`. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="encodingContentType"></a>contentType|`string`|The Content-Type for encoding a specific property. Default value depends on the property type: for `string` with `format` being `binary` – `application/octet-stream`; for other primitive types – `text/plain`; for `object` - `application/json`; for `array` – the default is defined based on the inner type. The value can be a specific media type (e.g. `application/json`), a wildcard media type (e.g. `image/*`), or a comma-separated list of the two types.|
+|<a name="encodingHeaders"></a>headers|Map\[`string`, [Header Object](#headerObject) \| [Reference Object](#referenceObject)\]|A map allowing additional information to be provided as headers, for example `Content-Disposition`.  `Content-Type` is described separately and SHALL be ignored in this section. This property SHALL be ignored if the request body media type is not a `multipart`.|
+|<a name="encodingStyle"></a>style|`string`|Describes how a specific property value will be serialized depending on its type.  See [Parameter Object](#parameterObject) for details on the [`style`](#parameterStyle) property. The behavior follows the same values as `query` parameters, including default values. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.|
+|<a name="encodingExplode"></a>explode|`boolean`|When this is true, property values of type `array` or `object` generate separate parameters for each value of the array, or key-value-pair of the map.  For other types of properties this property has no effect. When [`style`](#encodingStyle) is `form`, the default value is `true`. For all other styles, the default value is `false`. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.|
+|<a name="encodingAllowReserved"></a>allowReserved|`boolean`|Determines whether the parameter value SHOULD allow reserved characters, as defined by [RFC3986](https://tools.ietf.org/html/rfc3986#section-2.2) `:/?#[]@!$&'()*+,;=` to be included without percent-encoding. The default value is `false`. This property SHALL be ignored if the request body media type is not `application/x-www-form-urlencoded`.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Encoding Object Example
 
-```yaml
+````yaml
 requestBody:
   content:
     multipart/mixed:
@@ -1636,7 +1637,7 @@ requestBody:
               description: The number of allowed requests in the current period
               schema:
                 type: integer
-```
+````
 
 #### <a name="responsesObject"></a>Responses Object
 
@@ -1653,15 +1654,17 @@ The `Responses Object` MUST contain at least one response code, and it
 SHOULD be the response for a successful operation call.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="responsesDefault"></a>default | [Response Object](#responseObject) \| [Reference Object](#referenceObject) | The documentation of responses other than the ones declared for specific HTTP response codes. Use this field to cover undeclared responses. A [Reference Object](#referenceObject) can link to a response that the [OpenAPI Object's components/responses](#componentsResponses) section defines.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="responsesDefault"></a>default|[Response Object](#responseObject) \| [Reference Object](#referenceObject)|The documentation of responses other than the ones declared for specific HTTP response codes. Use this field to cover undeclared responses. A [Reference Object](#referenceObject) can link to a response that the [OpenAPI Object's components/responses](#componentsResponses) section defines.|
 
 ##### Patterned Fields
-Field Pattern | Type | Description
----|:---:|---
-<a name="responsesCode"></a>[HTTP Status Code](#httpCodes) | [Response Object](#responseObject) \| [Reference Object](#referenceObject) | Any [HTTP status code](#httpCodes) can be used as the property name, but only one property per code, to describe the expected response for that HTTP status code.  A [Reference Object](#referenceObject) can link to a response that is defined in the [OpenAPI Object's components/responses](#componentsResponses) section. This field MUST be enclosed in quotation marks (for example, "200") for compatibility between JSON and YAML. To define a range of response codes, this field MAY contain the uppercase wildcard character `X`. For example, `2XX` represents all response codes between `[200-299]`. Only the following range definitions are allowed: `1XX`, `2XX`, `3XX`, `4XX`, and `5XX`. If a response is defined using an explicit code, the explicit code definition takes precedence over the range definition for that code.
 
+|Field Pattern|Type|Description|
+|-------------|:--:|-----------|
+|<a name="responsesCode"></a>
+[HTTP Status Code](#httpCodes)|[Response Object](#responseObject) \| [Reference Object](#referenceObject)|Any [HTTP status code](#httpCodes) can be used as the property name, but only one property per code, to describe the expected response for that HTTP status code.  A [Reference Object](#referenceObject) can link to a response that is defined in the [OpenAPI Object's components/responses](#componentsResponses) section. This field MUST be enclosed in quotation marks (for example, "200") for compatibility between JSON and YAML. To define a range of response codes, this field MAY contain the uppercase wildcard character `X`. For example, `2XX` represents all response codes between `[200-299]`. Only the following range definitions are allowed: `1XX`, `2XX`, `3XX`, `4XX`, and `5XX`. If a response is defined using an explicit code, the explicit code definition takes precedence over the range definition for that code.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -1669,7 +1672,7 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 A 200 response for a successful operation and a default response for others (implying an error):
 
-```json
+````json
 {
   "200": {
     "description": "a pet to be returned",
@@ -1692,9 +1695,9 @@ A 200 response for a successful operation and a default response for others (imp
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 '200':
   description: a pet to be returned
   content: 
@@ -1707,19 +1710,21 @@ default:
     application/json:
       schema:
         $ref: '#/components/schemas/ErrorModel'
-```
+````
 
 #### <a name="responseObject"></a>Response Object
+
 Describes a single response from an API Operation, including design-time, static 
 `links` to operations based on the response.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="responseDescription"></a>description | `string` | **REQUIRED**. A short description of the response. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="responseHeaders"></a>headers | Map[`string`, [Header Object](#headerObject)  \| [Reference Object](#referenceObject)] |  Maps a header name to its definition. [RFC7230](https://tools.ietf.org/html/rfc7230#page-22) states header names are case insensitive. If a response header is defined with the name `"Content-Type"`, it SHALL be ignored.
-<a name="responseContent"></a>content | Map[`string`, [Media Type Object](#mediaTypeObject)] | A map containing descriptions of potential response payloads. The key is a media type or [media type range](https://tools.ietf.org/html/rfc7231#appendix-D) and the value describes it.  For responses that match multiple keys, only the most specific key is applicable. e.g. text/plain overrides text/*
-<a name="responseLinks"></a>links | Map[`string`, [Link Object](#linkObject) \| [Reference Object](#referenceObject)] | A map of operations links that can be followed from the response. The key of the map is a short name for the link, following the naming constraints of the names for [Component Objects](#componentsObject). 
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="responseDescription"></a>description|`string`|**REQUIRED**. A short description of the response. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="responseHeaders"></a>headers|Map\[`string`, [Header Object](#headerObject)  \| [Reference Object](#referenceObject)\]|Maps a header name to its definition. [RFC7230](https://tools.ietf.org/html/rfc7230#page-22) states header names are case insensitive. If a response header is defined with the name `"Content-Type"`, it SHALL be ignored.|
+|<a name="responseContent"></a>content|Map\[`string`, [Media Type Object](#mediaTypeObject)\]|A map containing descriptions of potential response payloads. The key is a media type or [media type range](https://tools.ietf.org/html/rfc7231#appendix-D) and the value describes it.  For responses that match multiple keys, only the most specific key is applicable. e.g. text/plain overrides text/\*|
+|<a name="responseLinks"></a>links|Map\[`string`, [Link Object](#linkObject) \| [Reference Object](#referenceObject)\]|A map of operations links that can be followed from the response. The key of the map is a short name for the link, following the naming constraints of the names for [Component Objects](#componentsObject).|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -1727,7 +1732,7 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 Response of an array of a complex type:
 
-```json
+````json
 {
   "description": "A complex object array response",
   "content": {
@@ -1741,9 +1746,9 @@ Response of an array of a complex type:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 description: A complex object array response
 content: 
   application/json:
@@ -1751,11 +1756,11 @@ content:
       type: array
       items:
         $ref: '#/components/schemas/VeryComplexType'
-```
+````
 
 Response with a string type:
 
-```json
+````json
 {
   "description": "A simple string response",
   "content": {
@@ -1767,19 +1772,19 @@ Response with a string type:
   }
 
 }
-```
+````
 
-```yaml
+````yaml
 description: A simple string response
 content:
   text/plain:
     schema:
       type: string
-```
+````
 
 Plain text response with headers:
 
-```json
+````json
 {
   "description": "A simple string response",
   "content": {
@@ -1811,9 +1816,9 @@ Plain text response with headers:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 description: A simple string response
 content:
   text/plain:
@@ -1833,19 +1838,19 @@ headers:
     description: The number of seconds left in the current period
     schema:
       type: integer
-```
+````
 
 Response with no return value:
 
-```json
+````json
 {
   "description": "object created"
 }
-```
+````
 
-```yaml
+````yaml
 description: object created
-```
+````
 
 #### <a name="callbackObject"></a>Callback Object
 
@@ -1854,9 +1859,10 @@ Each value in the map is a [Path Item Object](#pathItemObject) that describes a 
 The key value used to identify the path item object is an expression, evaluated at runtime, that identifies a URL to use for the callback operation.
 
 ##### Patterned Fields
-Field Pattern | Type | Description
----|:---:|---
-<a name="callbackExpression"></a>{expression} | [Path Item Object](#pathItemObject) | A Path Item Object used to define a callback request and expected responses.  A [complete example](../examples/v3.0/callback-example.yaml) is available.
+
+|Field Pattern|Type|Description|
+|-------------|:--:|-----------|
+|<a name="callbackExpression"></a>{expression}|[Path Item Object](#pathItemObject)|A Path Item Object used to define a callback request and expected responses.  A [complete example](../examples/v3.0/callback-example.yaml) is available.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -1869,7 +1875,7 @@ This includes accessing any part of a body that a JSON Pointer [RFC6901](https:/
 
 For example, given the following HTTP request:
 
-```http
+````http
 POST /subscribe/myevent?queryUrl=http://clientdomain.com/stillrunning HTTP/1.1
 Host: example.org
 Content-Type: application/json
@@ -1886,27 +1892,26 @@ Content-Length: 187
 
 201 Created
 Location: http://example.org/subscription/1
-```
+````
 
 The following examples show how the various expressions evaluate, assuming the callback operation has a path parameter named `eventType` and a query parameter named `queryUrl`.
 
-Expression | Value 
----|:---
-$url | http://example.org/subscribe/myevent?queryUrl=http://clientdomain.com/stillrunning
-$method | POST
-$request.path.eventType | myevent
-$request.query.queryUrl | http://clientdomain.com/stillrunning
-$request.header.content-Type | application/json
-$request.body#/failedUrl | http://clientdomain.com/failed
-$request.body#/successUrls/2 | http://clientdomain.com/medium
-$response.header.Location | http://example.org/subscription/1
-
+|Expression|Value|
+|----------|:----|
+|$url|http://example.org/subscribe/myevent?queryUrl=http://clientdomain.com/stillrunning|
+|$method|POST|
+|$request.path.eventType|myevent|
+|$request.query.queryUrl|http://clientdomain.com/stillrunning|
+|$request.header.content-Type|application/json|
+|$request.body#/failedUrl|http://clientdomain.com/failed|
+|$request.body#/successUrls/2|http://clientdomain.com/medium|
+|$response.header.Location|http://example.org/subscription/1|
 
 ##### Callback Object Examples
 
 The following example uses the user provided `queryUrl` query string parameter to define the callback URL.  This is an example of how to use a callback object to describe a WebHook callback that goes with the subscription operation to enable registering for the WebHook.
 
-```yaml
+````yaml
 myCallback:
   '{$request.query.queryUrl}':
     post:
@@ -1919,11 +1924,11 @@ myCallback:
       responses:
         '200':
           description: callback successfully processed
-```
+````
 
 The following example shows a callback where the server is hard-coded, but the query string parameters are populated from the `id` and `email` property in the request body.
 
-```yaml
+````yaml
 transactionCallback:
   'http://notificationServer.com?transactionId={$request.body#/id}&email={$request.body#/email}':
     post:
@@ -1936,17 +1941,18 @@ transactionCallback:
       responses:
         '200':
           description: callback successfully processed
-```
+````
 
 #### <a name="exampleObject"></a>Example Object
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="exampleSummary"></a>summary | `string` | Short description for the example.
-<a name="exampleDescription"></a>description | `string` | Long description for the example. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="exampleValue"></a>value | Any | Embedded literal example. The `value` field and `externalValue` field are mutually exclusive. To represent examples of media types that cannot naturally represented in JSON or YAML, use a string value to contain the example, escaping where necessary.
-<a name="exampleExternalValue"></a>externalValue | `string` | A URL that points to the literal example. This provides the capability to reference examples that cannot easily be included in JSON or YAML documents.  The `value` field and `externalValue` field are mutually exclusive. 
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="exampleSummary"></a>summary|`string`|Short description for the example.|
+|<a name="exampleDescription"></a>description|`string`|Long description for the example. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="exampleValue"></a>value|Any|Embedded literal example. The `value` field and `externalValue` field are mutually exclusive. To represent examples of media types that cannot naturally represented in JSON or YAML, use a string value to contain the example, escaping where necessary.|
+|<a name="exampleExternalValue"></a>externalValue|`string`|A URL that points to the literal example. This provides the capability to reference examples that cannot easily be included in JSON or YAML documents.  The `value` field and `externalValue` field are mutually exclusive.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -1958,7 +1964,7 @@ validate compatibility automatically, and reject the example value(s) if incompa
 
 In a request body:
 
-```yaml
+````yaml
 requestBody:
   content:
     'application/json':
@@ -1981,11 +1987,11 @@ requestBody:
         textExample: 
           summary: This is a text example
           externalValue: 'http://foo.bar/examples/address-example.txt'
-```
+````
 
 In a parameter:
 
-```yaml
+````yaml
 parameters:
   - name: 'zipCode'
     in: 'query'
@@ -1995,11 +2001,11 @@ parameters:
     examples:
       zip-example: 
         $ref: '#/components/examples/zip-example'
-```
+````
 
 In a response:
 
-```yaml
+````yaml
 responses:
   '200':
     description: your car appointment has been booked
@@ -2010,28 +2016,27 @@ responses:
         examples:
           confirmation-success:
             $ref: '#/components/examples/confirmation-success'
-```
-
+````
 
 #### <a name="linkObject"></a>Link Object
 
 The `Link object` represents a possible design-time link for a response.
 The presence of a link does not guarantee the caller's ability to successfully invoke it, rather it provides a known relationship and traversal mechanism between responses and other operations.
 
-Unlike _dynamic_ links (i.e. links provided **in** the response payload), the OAS linking mechanism does not require link information in the runtime response.
+Unlike *dynamic* links (i.e. links provided **in** the response payload), the OAS linking mechanism does not require link information in the runtime response.
 
-For computing links, and providing instructions to execute them, a [runtime expression](#runtimeExpression) is used for accessing values in an operation and using them as parameters while invoking the linked operation.  
+For computing links, and providing instructions to execute them, a [runtime expression](#runtimeExpression) is used for accessing values in an operation and using them as parameters while invoking the linked operation.
 
 ##### Fixed Fields
 
-Field Name  |  Type  | Description
----|:---:|---
-<a name="linkOperationRef"></a>operationRef | `string` | A relative or absolute URI reference to an OAS operation. This field is mutually exclusive of the `operationId` field, and MUST point to an [Operation Object](#operationObject). Relative `operationRef` values MAY be used to locate an existing [Operation Object](#operationObject) in the OpenAPI definition.
-<a name="linkOperationId"></a>operationId  | `string` | The name of an _existing_, resolvable OAS operation, as defined with a unique `operationId`.  This field is mutually exclusive of the `operationRef` field.  
-<a name="linkParameters"></a>parameters   | Map[`string`, Any \| [{expression}](#runtimeExpression)] | A map representing parameters to pass to an operation as specified with `operationId` or identified via `operationRef`. The key is the parameter name to be used, whereas the value can be a constant or an expression to be evaluated and passed to the linked operation.  The parameter name can be qualified using the [parameter location](#parameterIn) `[{in}.]{name}` for operations that use the same parameter name in different locations (e.g. path.id).
-<a name="linkRequestBody"></a>requestBody | Any \| [{expression}](#runtimeExpression) | A literal value or [{expression}](#runtimeExpression) to use as a request body when calling the target operation.
-<a name="linkDescription"></a>description  | `string` | A description of the link. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="linkServer"></a>server       | [Server Object](#serverObject) | A server object to be used by the target operation.
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="linkOperationRef"></a>operationRef|`string`|A relative or absolute URI reference to an OAS operation. This field is mutually exclusive of the `operationId` field, and MUST point to an [Operation Object](#operationObject). Relative `operationRef` values MAY be used to locate an existing [Operation Object](#operationObject) in the OpenAPI definition.|
+|<a name="linkOperationId"></a>operationId|`string`|The name of an *existing*, resolvable OAS operation, as defined with a unique `operationId`.  This field is mutually exclusive of the `operationRef` field.|
+|<a name="linkParameters"></a>parameters|Map\[`string`, Any \| [{expression}](#runtimeExpression)\]|A map representing parameters to pass to an operation as specified with `operationId` or identified via `operationRef`. The key is the parameter name to be used, whereas the value can be a constant or an expression to be evaluated and passed to the linked operation.  The parameter name can be qualified using the [parameter location](#parameterIn) `[{in}.]{name}` for operations that use the same parameter name in different locations (e.g. path.id).|
+|<a name="linkRequestBody"></a>requestBody|Any \| [{expression}](#runtimeExpression)|A literal value or [{expression}](#runtimeExpression) to use as a request body when calling the target operation.|
+|<a name="linkDescription"></a>description|`string`|A description of the link. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="linkServer"></a>server|[Server Object](#serverObject)|A server object to be used by the target operation.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -2044,7 +2049,7 @@ for specifications with external references.
 
 Computing a link from a request operation where the `$request.path.id` is used to pass a request parameter to the linked operation.
 
-```yaml
+````yaml
 paths:
   /users/{id}:
     parameters:
@@ -2088,54 +2093,52 @@ paths:
       responses:
         '200':
           description: the user's address
-```
+````
 
 When a runtime expression fails to evaluate, no parameter value is passed to the target operation.
 
 Values from the response body can be used to drive a linked operation.
 
-```yaml
+````yaml
 links:
   address:
     operationId: getUserAddressByUUID
     parameters:
       # get the `uuid` field from the `uuid` field in the response body
       userUuid: $response.body#/uuid
-```
+````
 
 Clients follow all links at their discretion. 
 Neither permissions, nor the capability to make a successful call to that link, is guaranteed 
 solely by the existence of a relationship.
-
 
 ##### OperationRef Examples
 
 As references to `operationId` MAY NOT be possible (the `operationId` is an optional 
 field in an [Operation Object](#operationObject)), references MAY also be made through a relative `operationRef`:
 
-```yaml
+````yaml
 links:
   UserRepositories:
     # returns array of '#/components/schemas/repository'
     operationRef: '#/paths/~12.0~1repositories~1{username}/get'
     parameters:
       username: $response.body#/username
-```
+````
 
 or an absolute `operationRef`:
 
-```yaml
+````yaml
 links:
   UserRepositories:
     # returns array of '#/components/schemas/repository'
     operationRef: 'https://na2.gigantic-server.com/#/paths/~12.0~1repositories~1{username}/get'
     parameters:
       username: $response.body#/username
-```
+````
 
-Note that in the use of `operationRef`, the _escaped forward-slash_ is necessary when 
+Note that in the use of `operationRef`, the *escaped forward-slash* is necessary when 
 using JSON references.
-
 
 ##### <a name="runtimeExpression"></a>Runtime Expressions
 
@@ -2144,7 +2147,7 @@ This mechanism is used by [Link Objects](#linkObject) and [Callback Objects](#ca
 
 The runtime expression is defined by the following [ABNF](https://tools.ietf.org/html/rfc5234) syntax
 
-```abnf
+````abnf
       expression = ( "$url" / "$method" / "$statusCode" / "$request." source / "$response." source )
       source = ( header-reference / query-reference / path-reference / body-reference )
       header-reference = "header." token
@@ -2161,7 +2164,7 @@ The runtime expression is defined by the following [ABNF](https://tools.ietf.org
       token = 1*tchar
       tchar = "!" / "#" / "$" / "%" / "&" / "'" / "*" / "+" / "-" / "." /
         "^" / "_" / "`" / "|" / "~" / DIGIT / ALPHA
-```
+````
 
 Here, `json-pointer` is taken from [RFC 6901](https://tools.ietf.org/html/rfc6901), `char` from [RFC 7159](https://tools.ietf.org/html/rfc7159#section-7) and `token` from [RFC 7230](https://tools.ietf.org/html/rfc7230#section-3.2.6).
 
@@ -2171,15 +2174,15 @@ The table below provides examples of runtime expressions and examples of their u
 
 ##### <a name="runtimeExpressionExamples"></a>Examples
 
-Source Location | example expression  | notes
----|:---|:---|
-HTTP Method            | `$method`         | The allowable values for the `$method` will be those for the HTTP operation.
-Requested media type | `$request.header.accept`        |  
-Request parameter      | `$request.path.id`        | Request parameters MUST be declared in the `parameters` section of the parent operation or they cannot be evaluated. This includes request headers.
-Request body property   | `$request.body#/user/uuid`   | In operations which accept payloads, references may be made to portions of the `requestBody` or the entire body.
-Request URL            | `$url`            |  
-Response value         | `$response.body#/status`       |  In operations which return payloads, references may be made to portions of the response body or the entire body.
-Response header        | `$response.header.Server` |  Single header values only are available
+|Source Location|example expression|notes|
+|---------------|:-----------------|:----|
+|HTTP Method|`$method`|The allowable values for the `$method` will be those for the HTTP operation.|
+|Requested media type|`$request.header.accept`||
+|Request parameter|`$request.path.id`|Request parameters MUST be declared in the `parameters` section of the parent operation or they cannot be evaluated. This includes request headers.|
+|Request body property|`$request.body#/user/uuid`|In operations which accept payloads, references may be made to portions of the `requestBody` or the entire body.|
+|Request URL|`$url`||
+|Response value|`$response.body#/status`|In operations which return payloads, references may be made to portions of the response body or the entire body.|
+|Response header|`$response.header.Server`|Single header values only are available|
 
 Runtime expressions preserve the type of the referenced value.
 Expressions can be embedded into string values by surrounding the expression with `{}` curly braces.
@@ -2196,20 +2199,20 @@ The Header Object follows the structure of the [Parameter Object](#parameterObje
 
 A simple header of type `integer`:
 
-```json
+````json
 {
   "description": "The number of allowed requests in the current period",
   "schema": {
     "type": "integer"
   }
 }
-```
+````
 
-```yaml
+````yaml
 description: The number of allowed requests in the current period
 schema:
   type: integer
-```
+````
 
 #### <a name="tagObject"></a>Tag Object
 
@@ -2217,28 +2220,28 @@ Adds metadata to a single tag that is used by the [Operation Object](#operationO
 It is not mandatory to have a Tag Object per tag defined in the Operation Object instances.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="tagName"></a>name | `string` | **REQUIRED**. The name of the tag.
-<a name="tagDescription"></a>description | `string` | A short description for the tag. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="tagExternalDocs"></a>externalDocs | [External Documentation Object](#externalDocumentationObject) | Additional external documentation for this tag.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="tagName"></a>name|`string`|**REQUIRED**. The name of the tag.|
+|<a name="tagDescription"></a>description|`string`|A short description for the tag. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="tagExternalDocs"></a>externalDocs|[External Documentation Object](#externalDocumentationObject)|Additional external documentation for this tag.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### Tag Object Example
 
-```json
+````json
 {
 	"name": "pet",
 	"description": "Pets operations"
 }
-```
+````
 
-```yaml
+````yaml
 name: pet
 description: Pets operations
-```
-
+````
 
 #### <a name="referenceObject"></a>Reference Object
 
@@ -2249,45 +2252,48 @@ The Reference Object is defined by [JSON Reference](https://tools.ietf.org/html/
 For this specification, reference resolution is accomplished as defined by the JSON Reference specification and not by the JSON Schema specification.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="referenceRef"></a>$ref | `string` | **REQUIRED**. The reference string.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="referenceRef"></a>$ref|`string`|**REQUIRED**. The reference string.|
 
 This object cannot be extended with additional properties and any properties added SHALL be ignored.
 
 ##### Reference Object Example
 
-```json
+````json
 {
 	"$ref": "#/components/schemas/Pet"
 }
-```
+````
 
-```yaml
+````yaml
 $ref: '#/components/schemas/Pet'
-```
+````
 
 ##### Relative Schema Document Example
-```json
+
+````json
 {
   "$ref": "Pet.json"
 }
-```
+````
 
-```yaml
+````yaml
 $ref: Pet.yaml
-```
+````
 
 ##### Relative Documents With Embedded Schema Example
-```json
+
+````json
 {
   "$ref": "definitions.json#/Pet"
 }
-```
+````
 
-```yaml
+````yaml
 $ref: definitions.yaml#/Pet
-```
+````
 
 #### <a name="schemaObject"></a>Schema Object
 
@@ -2298,39 +2304,40 @@ This object is an extended subset of the [JSON Schema Specification Wright Draft
 For more information about the properties, see [JSON Schema Core](https://tools.ietf.org/html/draft-wright-json-schema-00) and [JSON Schema Validation](https://tools.ietf.org/html/draft-wright-json-schema-validation-00).
 Unless stated otherwise, the property definitions follow the JSON Schema.
 
-##### Properties 
+##### Properties
 
 The following properties are taken directly from the JSON Schema definition and follow the same specifications:
 
-- title
-- multipleOf
-- maximum
-- exclusiveMaximum
-- minimum
-- exclusiveMinimum
-- maxLength
-- minLength
-- pattern (This string SHOULD be a valid regular expression, according to the [Ecma-262 Edition 5.1 regular expression](https://www.ecma-international.org/ecma-262/5.1/#sec-15.10.1) dialect)
-- maxItems
-- minItems
-- uniqueItems
-- maxProperties
-- minProperties
-- required
-- enum
+* title
+* multipleOf
+* maximum
+* exclusiveMaximum
+* minimum
+* exclusiveMinimum
+* maxLength
+* minLength
+* pattern (This string SHOULD be a valid regular expression, according to the [Ecma-262 Edition 5.1 regular expression](https://www.ecma-international.org/ecma-262/5.1/#sec-15.10.1) dialect)
+* maxItems
+* minItems
+* uniqueItems
+* maxProperties
+* minProperties
+* required
+* enum
 
 The following properties are taken from the JSON Schema definition but their definitions were adjusted to the OpenAPI Specification. 
-- type - Value MUST be a string. Multiple types via an array are not supported.
-- allOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
-- oneOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
-- anyOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
-- not - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
-- items - Value MUST be an object and not an array. Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema. `items` MUST be present if the `type` is `array`.
-- properties - Property definitions MUST be a [Schema Object](#schemaObject) and not a standard JSON Schema (inline or referenced).
-- additionalProperties - Value can be boolean or object. Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema. Consistent with JSON Schema, `additionalProperties` defaults to `true`.
-- description - [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-- format - See [Data Type Formats](#dataTypeFormat) for further details. While relying on JSON Schema's defined formats, the OAS offers a few additional predefined formats.
-- default - The default value represents what would be assumed by the consumer of the input as the value of the schema if one is not provided. Unlike JSON Schema, the value MUST conform to the defined type for the Schema Object defined at the same level. For example, if `type` is `string`, then `default` can be `"foo"` but cannot be `1`.
+
+* type - Value MUST be a string. Multiple types via an array are not supported.
+* allOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
+* oneOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
+* anyOf - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
+* not - Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema.
+* items - Value MUST be an object and not an array. Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema. `items` MUST be present if the `type` is `array`.
+* properties - Property definitions MUST be a [Schema Object](#schemaObject) and not a standard JSON Schema (inline or referenced).
+* additionalProperties - Value can be boolean or object. Inline or referenced schema MUST be of a [Schema Object](#schemaObject) and not a standard JSON Schema. Consistent with JSON Schema, `additionalProperties` defaults to `true`.
+* description - [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
+* format - See [Data Type Formats](#dataTypeFormat) for further details. While relying on JSON Schema's defined formats, the OAS offers a few additional predefined formats.
+* default - The default value represents what would be assumed by the consumer of the input as the value of the schema if one is not provided. Unlike JSON Schema, the value MUST conform to the defined type for the Schema Object defined at the same level. For example, if `type` is `string`, then `default` can be `"foo"` but cannot be `1`.
 
 Alternatively, any time a Schema Object can be used, a [Reference Object](#referenceObject) can be used in its place. This allows referencing definitions instead of defining them inline.
 
@@ -2339,16 +2346,17 @@ Additional properties defined by the JSON Schema specification that are not ment
 Other than the JSON Schema subset fields, the following fields MAY be used for further schema documentation:
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="schemaNullable"></a>nullable | `boolean` | A `true` value adds `"null"` to the allowed type specified by the `type` keyword, only if `type` is explicitly defined within the same Schema Object. Other Schema Object constraints retain their defined behavior, and therefore may disallow the use of `null` as a value. A `false` value leaves the specified or default `type` unmodified. The default value is `false`.
-<a name="schemaDiscriminator"></a>discriminator | [Discriminator Object](#discriminatorObject) | Adds support for polymorphism. The discriminator is an object name that is used to differentiate between other schemas which may satisfy the payload description. See [Composition and Inheritance](#schemaComposition) for more details.
-<a name="schemaReadOnly"></a>readOnly | `boolean` | Relevant only for Schema `"properties"` definitions. Declares the property as "read only". This means that it MAY be sent as part of a response but SHOULD NOT be sent as part of the request. If the property is marked as `readOnly` being `true` and is in the `required` list, the `required` will take effect on the response only. A property MUST NOT be marked as both `readOnly` and `writeOnly` being `true`. Default value is `false`.
-<a name="schemaWriteOnly"></a>writeOnly | `boolean` | Relevant only for Schema `"properties"` definitions. Declares the property as "write only". Therefore, it MAY be sent as part of a request but SHOULD NOT be sent as part of the response. If the property is marked as `writeOnly` being `true` and is in the `required` list, the `required` will take effect on the request only. A property MUST NOT be marked as both `readOnly` and `writeOnly` being `true`. Default value is `false`.
-<a name="schemaXml"></a>xml | [XML Object](#xmlObject) | This MAY be used only on properties schemas. It has no effect on root schemas. Adds additional metadata to describe the XML representation of this property.
-<a name="schemaExternalDocs"></a>externalDocs | [External Documentation Object](#externalDocumentationObject) | Additional external documentation for this schema. 
-<a name="schemaExample"></a>example | Any | A free-form property to include an example of an instance for this schema. To represent examples that cannot be naturally represented in JSON or YAML, a string value can be used to contain the example with escaping where necessary.
-<a name="schemaDeprecated"></a> deprecated | `boolean` | Specifies that a schema is deprecated and SHOULD be transitioned out of usage. Default value is `false`.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="schemaNullable"></a>nullable|`boolean`|A `true` value adds `"null"` to the allowed type specified by the `type` keyword, only if `type` is explicitly defined within the same Schema Object. Other Schema Object constraints retain their defined behavior, and therefore may disallow the use of `null` as a value. A `false` value leaves the specified or default `type` unmodified. The default value is `false`.|
+|<a name="schemaDiscriminator"></a>discriminator|[Discriminator Object](#discriminatorObject)|Adds support for polymorphism. The discriminator is an object name that is used to differentiate between other schemas which may satisfy the payload description. See [Composition and Inheritance](#schemaComposition) for more details.|
+|<a name="schemaReadOnly"></a>readOnly|`boolean`|Relevant only for Schema `"properties"` definitions. Declares the property as "read only". This means that it MAY be sent as part of a response but SHOULD NOT be sent as part of the request. If the property is marked as `readOnly` being `true` and is in the `required` list, the `required` will take effect on the response only. A property MUST NOT be marked as both `readOnly` and `writeOnly` being `true`. Default value is `false`.|
+|<a name="schemaWriteOnly"></a>writeOnly|`boolean`|Relevant only for Schema `"properties"` definitions. Declares the property as "write only". Therefore, it MAY be sent as part of a request but SHOULD NOT be sent as part of the response. If the property is marked as `writeOnly` being `true` and is in the `required` list, the `required` will take effect on the request only. A property MUST NOT be marked as both `readOnly` and `writeOnly` being `true`. Default value is `false`.|
+|<a name="schemaXml"></a>xml|[XML Object](#xmlObject)|This MAY be used only on properties schemas. It has no effect on root schemas. Adds additional metadata to describe the XML representation of this property.|
+|<a name="schemaExternalDocs"></a>externalDocs|[External Documentation Object](#externalDocumentationObject)|Additional external documentation for this schema.|
+|<a name="schemaExample"></a>example|Any|A free-form property to include an example of an instance for this schema. To represent examples that cannot be naturally represented in JSON or YAML, a string value can be used to contain the example with escaping where necessary.|
+|<a name="schemaDeprecated"></a> deprecated|`boolean`|Specifies that a schema is deprecated and SHOULD be transitioned out of usage. Default value is `false`.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -2362,9 +2370,10 @@ To support polymorphism, the OpenAPI Specification adds the `discriminator` fiel
 When used, the `discriminator` will be the name of the property that decides which schema definition validates the structure of the model.
 As such, the `discriminator` field MUST be a required field.
 There are two ways to define the value of a discriminator for an inheriting instance.
-- Use the schema name.
-- Override the schema name by overriding the property with a new value. If a new value exists, this takes precedence over the schema name.
-As such, inline schema definitions, which do not have a given id, *cannot* be used in polymorphism.
+
+* Use the schema name.
+* Override the schema name by overriding the property with a new value. If a new value exists, this takes precedence over the schema name.
+  As such, inline schema definitions, which do not have a given id, *cannot* be used in polymorphism.
 
 ###### XML Modeling
 
@@ -2375,21 +2384,21 @@ The [XML Object](#xmlObject) contains additional information about the available
 
 ###### Primitive Sample
 
-```json
+````json
 {
   "type": "string",
   "format": "email"
 }
-```
+````
 
-```yaml
+````yaml
 type: string
 format: email
-```
+````
 
 ###### Simple Model
 
-```json
+````json
 {
   "type": "object",
   "required": [
@@ -2409,9 +2418,9 @@ format: email
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: object
 required:
 - name
@@ -2424,47 +2433,47 @@ properties:
     type: integer
     format: int32
     minimum: 0
-```
+````
 
 ###### Model with Map/Dictionary Properties
 
 For a simple string to string mapping:
 
-```json
+````json
 {
   "type": "object",
   "additionalProperties": {
     "type": "string"
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: object
 additionalProperties:
   type: string
-```
+````
 
 For a string to model mapping:
 
-```json
+````json
 {
   "type": "object",
   "additionalProperties": {
     "$ref": "#/components/schemas/ComplexModel"
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: object
 additionalProperties:
   $ref: '#/components/schemas/ComplexModel'
-```
+````
 
 ###### Model with Example
 
-```json
+````json
 {
   "type": "object",
   "properties": {
@@ -2484,9 +2493,9 @@ additionalProperties:
     "id": 1
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: object
 properties:
   id:
@@ -2499,11 +2508,11 @@ required:
 example:
   name: Puma
   id: 1
-```
+````
 
 ###### Models with Composition
 
-```json
+````json
 {
   "components": {
     "schemas": {
@@ -2545,9 +2554,9 @@ example:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 components:
   schemas:
     ErrorModel:
@@ -2571,11 +2580,11 @@ components:
         properties:
           rootCause:
             type: string
-```
+````
 
 ###### Models with Polymorphism Support
 
-```json
+````json
 {
   "components": {
     "schemas": {
@@ -2650,9 +2659,9 @@ components:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 components:
   schemas:
     Pet:
@@ -2697,36 +2706,36 @@ components:
             minimum: 0
         required:
         - packSize
-```
+````
 
 #### <a name="discriminatorObject"></a>Discriminator Object
 
 When request bodies or response payloads may be one of a number of different schemas, a `discriminator` object can be used to aid in serialization, deserialization, and validation.  The discriminator is a specific object in a schema which is used to inform the consumer of the specification of an alternative schema based on the value associated with it.
 
-When using the discriminator, _inline_ schemas will not be considered.
+When using the discriminator, *inline* schemas will not be considered.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="propertyName"></a>propertyName | `string` | **REQUIRED**. The name of the property in the payload that will hold the discriminator value.
-<a name="discriminatorMapping"></a> mapping | Map[`string`, `string`] | An object to hold mappings between payload values and schema names or references.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="propertyName"></a>propertyName|`string`|**REQUIRED**. The name of the property in the payload that will hold the discriminator value.|
+|<a name="discriminatorMapping"></a> mapping|Map\[`string`, `string`\]|An object to hold mappings between payload values and schema names or references.|
 
 The discriminator object is legal only when using one of the composite keywords `oneOf`, `anyOf`, `allOf`.
 
 In OAS 3.0, a response payload MAY be described to be exactly one of any number of types:
 
-```yaml
+````yaml
 MyResponseType:
   oneOf:
   - $ref: '#/components/schemas/Cat'
   - $ref: '#/components/schemas/Dog'
   - $ref: '#/components/schemas/Lizard'
-```
+````
 
-which means the payload _MUST_, by validation, match exactly one of the schemas described by `Cat`, `Dog`, or `Lizard`.  In this case, a discriminator MAY act as a "hint" to shortcut validation and selection of the matching schema which may be a costly operation, depending on the complexity of the schema. We can then describe exactly which field tells us which schema to use:
+which means the payload *MUST*, by validation, match exactly one of the schemas described by `Cat`, `Dog`, or `Lizard`.  In this case, a discriminator MAY act as a "hint" to shortcut validation and selection of the matching schema which may be a costly operation, depending on the complexity of the schema. We can then describe exactly which field tells us which schema to use:
 
-
-```yaml
+````yaml
 MyResponseType:
   oneOf:
   - $ref: '#/components/schemas/Cat'
@@ -2734,22 +2743,22 @@ MyResponseType:
   - $ref: '#/components/schemas/Lizard'
   discriminator:
     propertyName: petType
-```
+````
 
-The expectation now is that a property with name `petType` _MUST_ be present in the response payload, and the value will correspond to the name of a schema defined in the OAS document.  Thus the response payload:
+The expectation now is that a property with name `petType` *MUST* be present in the response payload, and the value will correspond to the name of a schema defined in the OAS document.  Thus the response payload:
 
-```json
+````json
 {
   "id": 12345,
   "petType": "Cat"
 }
-```
+````
 
 Will indicate that the `Cat` schema be used in conjunction with this payload.
 
 In scenarios where the value of the discriminator field does not match the schema name or implicit mapping is not possible, an optional `mapping` definition MAY be used:
 
-```yaml
+````yaml
 MyResponseType:
   oneOf:
   - $ref: '#/components/schemas/Cat'
@@ -2761,9 +2770,9 @@ MyResponseType:
     mapping:
       dog: '#/components/schemas/Dog'
       monster: 'https://gigantic-server.com/schemas/Monster/schema.json'
-```
+````
 
-Here the discriminator _value_ of `dog` will map to the schema `#/components/schemas/Dog`, rather than the default (implicit) value of `Dog`.  If the discriminator _value_ does not match an implicit or explicit mapping, no schema can be determined and validation SHOULD fail. Mapping keys MUST be string values, but tooling MAY convert response values to strings for comparison.
+Here the discriminator *value* of `dog` will map to the schema `#/components/schemas/Dog`, rather than the default (implicit) value of `Dog`.  If the discriminator *value* does not match an implicit or explicit mapping, no schema can be determined and validation SHOULD fail. Mapping keys MUST be string values, but tooling MAY convert response values to strings for comparison.
 
 When used in conjunction with the `anyOf` construct, the use of the discriminator can avoid ambiguity where multiple schemas may satisfy a single payload.
 
@@ -2771,7 +2780,7 @@ In both the `oneOf` and `anyOf` use cases, all possible schemas MUST be listed e
 
 For example:
 
-```yaml
+````yaml
 components:
   schemas:
     Pet:
@@ -2809,28 +2818,27 @@ components:
         properties:
           lovesRocks:
             type: boolean
-```
+````
 
 a payload like this:
 
-```json
+````json
 {
   "petType": "Cat",
   "name": "misty"
 }
-```
+````
 
 will indicate that the `Cat` schema be used.  Likewise this schema:
 
-```json
+````json
 {
   "petType": "dog",
   "bark": "soft"
 }
-```
+````
 
 will map to `Dog` because of the definition in the `mappings` element.
-
 
 #### <a name="xmlObject"></a>XML Object
 
@@ -2840,13 +2848,14 @@ When using arrays, XML element names are *not* inferred (for singular/plural for
 See examples for expected behavior.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="xmlName"></a>name | `string` | Replaces the name of the element/attribute used for the described schema property. When defined within `items`, it will affect the name of the individual XML elements within the list. When defined alongside `type` being `array` (outside the `items`), it will affect the wrapping element and only if `wrapped` is `true`. If `wrapped` is `false`, it will be ignored.
-<a name="xmlNamespace"></a>namespace | `string` | The URI of the namespace definition. Value MUST be in the form of an absolute URI.
-<a name="xmlPrefix"></a>prefix | `string` | The prefix to be used for the [name](#xmlName).
-<a name="xmlAttribute"></a>attribute | `boolean` | Declares whether the property definition translates to an attribute instead of an element. Default value is `false`.
-<a name="xmlWrapped"></a>wrapped | `boolean` | MAY be used only for an array definition. Signifies whether the array is wrapped (for example, `<books><book/><book/></books>`) or unwrapped (`<book/><book/>`). Default value is `false`. The definition takes effect only when defined alongside `type` being `array` (outside the `items`).
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="xmlName"></a>name|`string`|Replaces the name of the element/attribute used for the described schema property. When defined within `items`, it will affect the name of the individual XML elements within the list. When defined alongside `type` being `array` (outside the `items`), it will affect the wrapping element and only if `wrapped` is `true`. If `wrapped` is `false`, it will be ignored.|
+|<a name="xmlNamespace"></a>namespace|`string`|The URI of the namespace definition. Value MUST be in the form of an absolute URI.|
+|<a name="xmlPrefix"></a>prefix|`string`|The prefix to be used for the [name](#xmlName).|
+|<a name="xmlAttribute"></a>attribute|`boolean`|Declares whether the property definition translates to an attribute instead of an element. Default value is `false`.|
+|<a name="xmlWrapped"></a>wrapped|`boolean`|MAY be used only for an array definition. Signifies whether the array is wrapped (for example, `<books><book/><book/></books>`) or unwrapped (`<book/><book/>`). Default value is `false`. The definition takes effect only when defined alongside `type` being `array` (outside the `items`).|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -2858,26 +2867,26 @@ The examples of the XML object definitions are included inside a property defini
 
 Basic string property:
 
-```json
+````json
 {
     "animals": {
         "type": "string"
     }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: string
-```
+````
 
-```xml
+````xml
 <animals>...</animals>
-```
+````
 
 Basic string array property ([`wrapped`](#xmlWrapped) is `false` by default):
 
-```json
+````json
 {
     "animals": {
         "type": "array",
@@ -2886,24 +2895,24 @@ Basic string array property ([`wrapped`](#xmlWrapped) is `false` by default):
         }
     }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
     type: string
-```
+````
 
-```xml
+````xml
 <animals>...</animals>
 <animals>...</animals>
 <animals>...</animals>
-```
+````
 
 ###### XML Name Replacement
 
-```json
+````json
 {
   "animals": {
     "type": "string",
@@ -2912,25 +2921,24 @@ animals:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: string
   xml:
     name: animal
-```
+````
 
-```xml
+````xml
 <animal>...</animal>
-```
-
+````
 
 ###### XML Attribute, Prefix and Namespace
 
 In this example, a full model definition is shown.
 
-```json
+````json
 {
   "Person": {
     "type": "object",
@@ -2952,9 +2960,9 @@ In this example, a full model definition is shown.
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 Person:
   type: object
   properties:
@@ -2968,19 +2976,19 @@ Person:
       xml:
         namespace: http://example.com/schema/sample
         prefix: sample
-```
+````
 
-```xml
+````xml
 <Person id="123">
     <sample:name xmlns:sample="http://example.com/schema/sample">example</sample:name>
 </Person>
-```
+````
 
 ###### XML Arrays
 
 Changing the element names:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -2992,25 +3000,25 @@ Changing the element names:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
     type: string
     xml:
       name: animal
-```
+````
 
-```xml
+````xml
 <animal>value</animal>
 <animal>value</animal>
-```
+````
 
 The external `name` property has no effect on the XML:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -3025,9 +3033,9 @@ The external `name` property has no effect on the XML:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
@@ -3036,16 +3044,16 @@ animals:
       name: animal
   xml:
     name: aliens
-```
+````
 
-```xml
+````xml
 <animal>value</animal>
 <animal>value</animal>
-```
+````
 
 Even when the array is wrapped, if a name is not explicitly defined, the same name will be used both internally and externally:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -3057,27 +3065,27 @@ Even when the array is wrapped, if a name is not explicitly defined, the same na
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
     type: string
   xml:
     wrapped: true
-```
+````
 
-```xml
+````xml
 <animals>
   <animals>value</animals>
   <animals>value</animals>
 </animals>
-```
+````
 
 To overcome the naming problem in the example above, the following definition can be used:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -3092,9 +3100,9 @@ To overcome the naming problem in the example above, the following definition ca
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
@@ -3103,18 +3111,18 @@ animals:
       name: animal
   xml:
     wrapped: true
-```
+````
 
-```xml
+````xml
 <animals>
   <animal>value</animal>
   <animal>value</animal>
 </animals>
-```
+````
 
 Affecting both internal and external names:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -3130,9 +3138,9 @@ Affecting both internal and external names:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
@@ -3142,18 +3150,18 @@ animals:
   xml:
     name: aliens
     wrapped: true
-```
+````
 
-```xml
+````xml
 <aliens>
   <animal>value</animal>
   <animal>value</animal>
 </aliens>
-```
+````
 
 If we change the external element but not the internal ones:
 
-```json
+````json
 {
   "animals": {
     "type": "array",
@@ -3166,9 +3174,9 @@ If we change the external element but not the internal ones:
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 animals:
   type: array
   items:
@@ -3176,14 +3184,14 @@ animals:
   xml:
     name: aliens
     wrapped: true
-```
+````
 
-```xml
+````xml
 <aliens>
   <aliens>value</aliens>
   <aliens>value</aliens>
 </aliens>
-```
+````
 
 #### <a name="securitySchemeObject"></a>Security Scheme Object
 
@@ -3191,16 +3199,17 @@ Defines a security scheme that can be used by the operations.
 Supported schemes are HTTP authentication, an API key (either as a header, a cookie parameter or as a query parameter), OAuth2's common flows (implicit, password, client credentials and authorization code) as defined in [RFC6749](https://tools.ietf.org/html/rfc6749), and [OpenID Connect Discovery](https://tools.ietf.org/html/draft-ietf-oauth-discovery-06).
 
 ##### Fixed Fields
-Field Name | Type | Applies To | Description
----|:---:|---|---
-<a name="securitySchemeType"></a>type | `string` | Any | **REQUIRED**. The type of the security scheme. Valid values are `"apiKey"`, `"http"`, `"oauth2"`, `"openIdConnect"`.
-<a name="securitySchemeDescription"></a>description | `string` | Any | A short description for security scheme. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.
-<a name="securitySchemeName"></a>name | `string` | `apiKey` | **REQUIRED**. The name of the header, query or cookie parameter to be used.
-<a name="securitySchemeIn"></a>in | `string` | `apiKey` | **REQUIRED**. The location of the API key. Valid values are `"query"`, `"header"` or `"cookie"`.
-<a name="securitySchemeScheme"></a>scheme | `string` | `http` | **REQUIRED**. The name of the HTTP Authorization scheme to be used in the [Authorization header as defined in RFC7235](https://tools.ietf.org/html/rfc7235#section-5.1).  The values used SHOULD be registered in the [IANA Authentication Scheme registry](https://www.iana.org/assignments/http-authschemes/http-authschemes.xhtml).
-<a name="securitySchemeBearerFormat"></a>bearerFormat | `string` | `http` (`"bearer"`) | A hint to the client to identify how the bearer token is formatted.  Bearer tokens are usually generated by an authorization server, so this information is primarily for documentation purposes.
-<a name="securitySchemeFlows"></a>flows | [OAuth Flows Object](#oauthFlowsObject) | `oauth2` | **REQUIRED**. An object containing configuration information for the flow types supported.
-<a name="securitySchemeOpenIdConnectUrl"></a>openIdConnectUrl | `string` | `openIdConnect` | **REQUIRED**. OpenId Connect URL to discover OAuth2 configuration values. This MUST be in the form of a URL.
+
+|Field Name|Type|Applies To|Description|
+|----------|:--:|----------|-----------|
+|<a name="securitySchemeType"></a>type|`string`|Any|**REQUIRED**. The type of the security scheme. Valid values are `"apiKey"`, `"http"`, `"oauth2"`, `"openIdConnect"`.|
+|<a name="securitySchemeDescription"></a>description|`string`|Any|A short description for security scheme. [CommonMark syntax](https://spec.commonmark.org/) MAY be used for rich text representation.|
+|<a name="securitySchemeName"></a>name|`string`|`apiKey`|**REQUIRED**. The name of the header, query or cookie parameter to be used.|
+|<a name="securitySchemeIn"></a>in|`string`|`apiKey`|**REQUIRED**. The location of the API key. Valid values are `"query"`, `"header"` or `"cookie"`.|
+|<a name="securitySchemeScheme"></a>scheme|`string`|`http`|**REQUIRED**. The name of the HTTP Authorization scheme to be used in the [Authorization header as defined in RFC7235](https://tools.ietf.org/html/rfc7235#section-5.1).  The values used SHOULD be registered in the [IANA Authentication Scheme registry](https://www.iana.org/assignments/http-authschemes/http-authschemes.xhtml).|
+|<a name="securitySchemeBearerFormat"></a>bearerFormat|`string`|`http` (`"bearer"`)|A hint to the client to identify how the bearer token is formatted.  Bearer tokens are usually generated by an authorization server, so this information is primarily for documentation purposes.|
+|<a name="securitySchemeFlows"></a>flows|[OAuth Flows Object](#oauthFlowsObject)|`oauth2`|**REQUIRED**. An object containing configuration information for the flow types supported.|
+|<a name="securitySchemeOpenIdConnectUrl"></a>openIdConnectUrl|`string`|`openIdConnect`|**REQUIRED**. OpenId Connect URL to discover OAuth2 configuration values. This MUST be in the form of a URL.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -3208,53 +3217,53 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 
 ###### Basic Authentication Sample
 
-```json
+````json
 {
   "type": "http",
   "scheme": "basic"
 }
-```
+````
 
-```yaml
+````yaml
 type: http
 scheme: basic
-```
+````
 
 ###### API Key Sample
 
-```json
+````json
 {
   "type": "apiKey",
   "name": "api_key",
   "in": "header"
 }
-```
+````
 
-```yaml
+````yaml
 type: apiKey
 name: api_key
 in: header
-```
+````
 
 ###### JWT Bearer Sample
 
-```json
+````json
 {
   "type": "http",
   "scheme": "bearer",
   "bearerFormat": "JWT",
 }
-```
+````
 
-```yaml
+````yaml
 type: http
 scheme: bearer
 bearerFormat: JWT
-```
+````
 
 ###### Implicit OAuth2 Sample
 
-```json
+````json
 {
   "type": "oauth2",
   "flows": {
@@ -3267,9 +3276,9 @@ bearerFormat: JWT
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: oauth2
 flows: 
   implicit:
@@ -3277,19 +3286,20 @@ flows:
     scopes:
       write:pets: modify pets in your account
       read:pets: read your pets
-```
+````
 
 #### <a name="oauthFlowsObject"></a>OAuth Flows Object
 
 Allows configuration of the supported OAuth Flows.
 
 ##### Fixed Fields
-Field Name | Type | Description
----|:---:|---
-<a name="oauthFlowsImplicit"></a>implicit| [OAuth Flow Object](#oauthFlowObject) | Configuration for the OAuth Implicit flow 
-<a name="oauthFlowsPassword"></a>password| [OAuth Flow Object](#oauthFlowObject) | Configuration for the OAuth Resource Owner Password flow 
-<a name="oauthFlowsClientCredentials"></a>clientCredentials| [OAuth Flow Object](#oauthFlowObject) | Configuration for the OAuth Client Credentials flow.  Previously called `application` in OpenAPI 2.0.
-<a name="oauthFlowsAuthorizationCode"></a>authorizationCode| [OAuth Flow Object](#oauthFlowObject) | Configuration for the OAuth Authorization Code flow.  Previously called `accessCode` in OpenAPI 2.0.
+
+|Field Name|Type|Description|
+|----------|:--:|-----------|
+|<a name="oauthFlowsImplicit"></a>implicit|[OAuth Flow Object](#oauthFlowObject)|Configuration for the OAuth Implicit flow|
+|<a name="oauthFlowsPassword"></a>password|[OAuth Flow Object](#oauthFlowObject)|Configuration for the OAuth Resource Owner Password flow|
+|<a name="oauthFlowsClientCredentials"></a>clientCredentials|[OAuth Flow Object](#oauthFlowObject)|Configuration for the OAuth Client Credentials flow.  Previously called `application` in OpenAPI 2.0.|
+|<a name="oauthFlowsAuthorizationCode"></a>authorizationCode|[OAuth Flow Object](#oauthFlowObject)|Configuration for the OAuth Authorization Code flow.  Previously called `accessCode` in OpenAPI 2.0.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
@@ -3298,18 +3308,19 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
 Configuration details for a supported OAuth Flow
 
 ##### Fixed Fields
-Field Name | Type | Applies To | Description
----|:---:|---|---
-<a name="oauthFlowAuthorizationUrl"></a>authorizationUrl | `string` | `oauth2` (`"implicit"`, `"authorizationCode"`) | **REQUIRED**. The authorization URL to be used for this flow. This MUST be in the form of a URL.
-<a name="oauthFlowTokenUrl"></a>tokenUrl | `string` | `oauth2` (`"password"`, `"clientCredentials"`, `"authorizationCode"`) | **REQUIRED**. The token URL to be used for this flow. This MUST be in the form of a URL.
-<a name="oauthFlowRefreshUrl"></a>refreshUrl | `string` | `oauth2` | The URL to be used for obtaining refresh tokens. This MUST be in the form of a URL.
-<a name="oauthFlowScopes"></a>scopes | Map[`string`, `string`] | `oauth2` | **REQUIRED**. The available scopes for the OAuth2 security scheme. A map between the scope name and a short description for it. The map MAY be empty.
+
+|Field Name|Type|Applies To|Description|
+|----------|:--:|----------|-----------|
+|<a name="oauthFlowAuthorizationUrl"></a>authorizationUrl|`string`|`oauth2` (`"implicit"`, `"authorizationCode"`)|**REQUIRED**. The authorization URL to be used for this flow. This MUST be in the form of a URL.|
+|<a name="oauthFlowTokenUrl"></a>tokenUrl|`string`|`oauth2` (`"password"`, `"clientCredentials"`, `"authorizationCode"`)|**REQUIRED**. The token URL to be used for this flow. This MUST be in the form of a URL.|
+|<a name="oauthFlowRefreshUrl"></a>refreshUrl|`string`|`oauth2`|The URL to be used for obtaining refresh tokens. This MUST be in the form of a URL.|
+|<a name="oauthFlowScopes"></a>scopes|Map\[`string`, `string`\]|`oauth2`|**REQUIRED**. The available scopes for the OAuth2 security scheme. A map between the scope name and a short description for it. The map MAY be empty.|
 
 This object MAY be extended with [Specification Extensions](#specificationExtensions).
 
 ##### OAuth Flow Object Examples
 
-```JSON
+````JSON
 {
   "type": "oauth2",
   "flows": {
@@ -3330,9 +3341,9 @@ This object MAY be extended with [Specification Extensions](#specificationExtens
     }
   }
 }
-```
+````
 
-```yaml
+````yaml
 type: oauth2
 flows: 
   implicit:
@@ -3346,7 +3357,7 @@ flows:
     scopes:
       write:pets: modify pets in your account
       read:pets: read your pets 
-```
+````
 
 #### <a name="securityRequirementObject"></a>Security Requirement Object
 
@@ -3360,46 +3371,46 @@ When a list of Security Requirement Objects is defined on the [OpenAPI Object](#
 
 ##### Patterned Fields
 
-Field Pattern | Type | Description
----|:---:|---
-<a name="securityRequirementsName"></a>{name} | [`string`] | Each name MUST correspond to a security scheme which is declared in the [Security Schemes](#componentsSecuritySchemes) under the [Components Object](#componentsObject). If the security scheme is of type `"oauth2"` or `"openIdConnect"`, then the value is a list of scope names required for the execution, and the list MAY be empty if authorization does not require a specified scope. For other security scheme types, the array MUST be empty.
+|Field Pattern|Type|Description|
+|-------------|:--:|-----------|
+|<a name="securityRequirementsName"></a>{name}|\[`string`\]|Each name MUST correspond to a security scheme which is declared in the [Security Schemes](#componentsSecuritySchemes) under the [Components Object](#componentsObject). If the security scheme is of type `"oauth2"` or `"openIdConnect"`, then the value is a list of scope names required for the execution, and the list MAY be empty if authorization does not require a specified scope. For other security scheme types, the array MUST be empty.|
 
 ##### Security Requirement Object Examples
 
 ###### Non-OAuth2 Security Requirement
 
-```json
+````json
 {
   "api_key": []
 }
-```
+````
 
-```yaml
+````yaml
 api_key: []
-```
+````
 
 ###### OAuth2 Security Requirement
 
-```json
+````json
 {
   "petstore_auth": [
     "write:pets",
     "read:pets"
   ]
 }
-```
+````
 
-```yaml
+````yaml
 petstore_auth:
 - write:pets
 - read:pets
-```
+````
 
 ###### Optional OAuth2 Security
 
 Optional OAuth2 security as would be defined in an <a href="#openapi-object">OpenAPI Object</a> or an <a href="#operation-object">Operation Object</a>:
 
-```json
+````json
 {
   "security": [
     {},
@@ -3411,15 +3422,15 @@ Optional OAuth2 security as would be defined in an <a href="#openapi-object">Ope
     }
   ]
 }
-```
+````
 
-```yaml
+````yaml
 security:
   - {}
   - petstore_auth:
     - write:pets
     - read:pets
-```
+````
 
 ### <a name="specificationExtensions"></a>Specification Extensions
 
@@ -3427,9 +3438,9 @@ While the OpenAPI Specification tries to accommodate most use cases, additional 
 
 The extensions properties are implemented as patterned fields that are always prefixed by `"x-"`.
 
-Field Pattern | Type | Description
----|:---:|---
-<a name="infoExtensions"></a>^x- | Any | Allows extensions to the OpenAPI Schema. The field name MUST begin with `x-`, for example, `x-internal-id`. The value can be `null`, a primitive, an array or an object. Can have any valid JSON format value.
+|Field Pattern|Type|Description|
+|-------------|:--:|-----------|
+|<a name="infoExtensions"></a>^x-|Any|Allows extensions to the OpenAPI Schema. The field name MUST begin with `x-`, for example, `x-internal-id`. The value can be `null`, a primitive, an array or an object. Can have any valid JSON format value.|
 
 The extensions may or may not be supported by the available tooling, but those may be extended as well to add requested support (if tools are internal or open-sourced).
 
@@ -3443,43 +3454,43 @@ While not part of the specification itself, certain libraries MAY choose to allo
 Two examples of this:
 
 1. The [Paths Object](#pathsObject) MAY be empty. It may be counterintuitive, but this may tell the viewer that they got to the right place, but can't access any documentation. They'd still have access to the [Info Object](#infoObject) which may contain additional information regarding authentication.
-2. The [Path Item Object](#pathItemObject) MAY be empty. In this case, the viewer will be aware that the path exists, but will not be able to see any of its operations or parameters. This is different from hiding the path itself from the [Paths Object](#pathsObject), because the user will be aware of its existence. This allows the documentation provider to finely control what the viewer can see.
+1. The [Path Item Object](#pathItemObject) MAY be empty. In this case, the viewer will be aware that the path exists, but will not be able to see any of its operations or parameters. This is different from hiding the path itself from the [Paths Object](#pathsObject), because the user will be aware of its existence. This allows the documentation provider to finely control what the viewer can see.
 
 ## <a name="revisionHistory"></a>Appendix A: Revision History
 
-Version   | Date       | Notes
----       | ---        | ---
-3.0.3     | 2020-02-20 | Patch release of the OpenAPI Specification 3.0.3
-3.0.2     | 2018-10-08 | Patch release of the OpenAPI Specification 3.0.2
-3.0.1     | 2017-12-06 | Patch release of the OpenAPI Specification 3.0.1
-3.0.0     | 2017-07-26 | Release of the OpenAPI Specification 3.0.0
-3.0.0-rc2 | 2017-06-16 | rc2 of the 3.0 specification
-3.0.0-rc1 | 2017-04-27 | rc1 of the 3.0 specification
-3.0.0-rc0 | 2017-02-28 | Implementer's Draft of the 3.0 specification
-2.0       | 2015-12-31 | Donation of Swagger 2.0 to the OpenAPI Initiative
-2.0       | 2014-09-08 | Release of Swagger 2.0
-1.2       | 2014-03-14 | Initial release of the formal document.
-1.1       | 2012-08-22 | Release of Swagger 1.1
-1.0       | 2011-08-10 | First release of the Swagger Specification
+|Version|Date|Notes|
+|-------|----|-----|
+|3.0.3|2020-02-20|Patch release of the OpenAPI Specification 3.0.3|
+|3.0.2|2018-10-08|Patch release of the OpenAPI Specification 3.0.2|
+|3.0.1|2017-12-06|Patch release of the OpenAPI Specification 3.0.1|
+|3.0.0|2017-07-26|Release of the OpenAPI Specification 3.0.0|
+|3.0.0-rc2|2017-06-16|rc2 of the 3.0 specification|
+|3.0.0-rc1|2017-04-27|rc1 of the 3.0 specification|
+|3.0.0-rc0|2017-02-28|Implementer's Draft of the 3.0 specification|
+|2.0|2015-12-31|Donation of Swagger 2.0 to the OpenAPI Initiative|
+|2.0|2014-09-08|Release of Swagger 2.0|
+|1.2|2014-03-14|Initial release of the formal document.|
+|1.1|2012-08-22|Release of Swagger 1.1|
+|1.0|2011-08-10|First release of the Swagger Specification|
 
-***
+---
 
 ## Appendix: Links
 
-- [[3-Resources/Tools/_README|Tools]]
-- [[Development]]
-- [[API Design]]
-- [[API Authentication]]
-- [[API Architecture - Performance Best Practices]]
-- [[REST API Best Practices]]
-- [[Web Development]]
-- [[3-Resources/Tools/Developer Tools/_README|Developer Tools]]
-- [[Online Developer Tools List]]
-- [[Swagger]]
-- [[R Package - plumber]]
+* *Tools*
+* [Development](../../../../2-Areas/MOCs/Development.md)
+* [API Design](../../../../0-Slipbox/API%20Design.md)
+* [API Authentication](../../../../0-Slipbox/API%20Authentication.md)
+* [API Architecture - Performance Best Practices](../../../../0-Slipbox/API%20Architecture%20-%20Performance%20Best%20Practices.md)
+* [REST API Best Practices](../../../../0-Slipbox/REST%20API%20Best%20Practices.md)
+* [Web Development](../../../../2-Areas/MOCs/Web%20Development.md)
+* *Developer Tools*
+* [Online Developer Tools List](../../../../2-Areas/Lists/Online%20Developer%20Tools%20List.md)
+* [Swagger](Swagger.md)
+* [R Package - plumber](../Languages/R/R%20Packages/API%20R%20Packages/R%20Package%20-%20plumber.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[OpenAPI Specification]] AND -"Changelog"
-```
+````

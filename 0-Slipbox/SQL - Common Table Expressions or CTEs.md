@@ -1,24 +1,16 @@
----
-Date: 2022-02-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: ["SQL - Common Table Expressions or CTEs", "CTE", "Common Table Expression"]
----
-
 # SQL - Common Table Expressions or CTEs
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Databases]]
-- [[Data Science]]
-- [[Data Engineering]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[SQL - Common Table Expressions or CTEs]] AND -"Changelog"
-```
+````

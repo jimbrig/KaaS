@@ -1,20 +1,14 @@
----
-Date: 2022-02-06
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Source: snipd
-Link: 
-Tags: ["#Type/Highlight/Podcast"]
-Aliases: ["#384 —  David Allen — The Art of Getting Things Done (GTD)", "#384 —  David Allen — The Art of Getting Things Done (GTD)"]
----
-# #384 —  David Allen — The Art of Getting Things Done (GTD)
+# \#384 —  David Allen — The Art of Getting Things Done (GTD)
 
 ## Metadata
-- Author: [[The Tim Ferriss Show]]
-- Full Title: #384 —  David Allen — The Art of Getting Things Done (GTD)
-- Category: #Type/Highlight/Podcast
+
+* Author: *The Tim Ferriss Show*
+* Full Title: #384 —  David Allen — The Art of Getting Things Done (GTD)
+* Category: #Type/Highlight/Podcast
 
 ## Highlights
-- Next Action Decisions - What's the Very Next Thing?
+
+* Next Action Decisions - What's the Very Next Thing?
   Summary:
   S.E. Cupp: Next action decisions differ from what a lot of people put on their to do lists. What is the very, very next thing you need to do to get clarity? On mom's birthday, or increasing your bank credit line, or hiring a vice president, or getting a life? You don't wat the very next action. If you had nothing else to do but that, what would you go do? She says most people are need to train a cognitive muscle to answer those questions about the stuf.
   Transcript:

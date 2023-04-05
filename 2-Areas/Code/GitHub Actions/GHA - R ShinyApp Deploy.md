@@ -1,10 +1,3 @@
----
-Date: 2022-06-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GHA - R ShinyApp Deploy"]
----
-
 # GHA - R ShinyApp Deploy
 
 *Source: https://github.com/r-lib/actions/tree/master/examples#shiny-app-deployment*
@@ -15,12 +8,11 @@ This example will deploy your Shiny application to either [shinyapps.io](https:/
 
 This action assumes you have an `renv` lockfile in your repository that describes the `R` packages and versions required for your Shiny application.
 
--   See here for information on how to obtain the token and secret for configuring `rsconnect`: [https://shiny.rstudio.com/articles/shinyapps.html](https://shiny.rstudio.com/articles/shinyapps.html)
-    
--   See here for information on how to store private tokens in a repository as GitHub Secrets: [https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository](https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository)
+* See here for information on how to obtain the token and secret for configuring `rsconnect`: [https://shiny.rstudio.com/articles/shinyapps.html](https://shiny.rstudio.com/articles/shinyapps.html)
 
+* See here for information on how to store private tokens in a repository as GitHub Secrets: [https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository](https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository)
 
-```yaml
+````yaml
 # Workflow derived from https://github.com/r-lib/actions/tree/master/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
@@ -54,17 +46,17 @@ jobs:
           rsconnect::setAccountInfo(${{ secrets.RSCONNECT_USER }}, ${{ secrets.RSCONNECT_TOKEN }}, ${{ secrets.RSCONNECT_SECRET }})
           rsconnect::deployApp()
         shell: Rscript {0}
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* [Code](../Code.md)
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GHA - R ShinyApp Deploy]] AND -"Changelog"
-```
+````

@@ -1,12 +1,4 @@
----
-Date: 2022-03-02
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev"]
-Alias: "Data Pipelines"
----
-
 # Data Pipelines
-
 
 ## What is a Data Pipeline?
 
@@ -18,12 +10,12 @@ Alias: "Data Pipelines"
 
 A data pipeline can have these characteristics: 
 
-- 1 or more data inputs.
-- 1 or more data outputs.
-- Optional filtering.
-- Optional transformation, including schema changes (adding or removing fields) and transforming the format.
-- Optional aggregation, including group by, joins, and statistics.
-- Other robustness features.
+* 1 or more data inputs.
+* 1 or more data outputs.
+* Optional filtering.
+* Optional transformation, including schema changes (adding or removing fields) and transforming the format.
+* Optional aggregation, including group by, joins, and statistics.
+* Other robustness features.
 
 ## Who Needs a Data Pipeline?
 
@@ -37,6 +29,6 @@ Most of the companies you interface with on a daily basis — and probably your 
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Data Pipelines]] AND -"Changelog"
-```
+````

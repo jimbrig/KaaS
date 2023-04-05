@@ -1,24 +1,16 @@
----
-Date: 2022-02-28
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Slipbox", "#Topic/Dev/Data"]
-Alias: ["SQL - Window Functions", "Window Function"]
----
-
 # SQL - Window Function
 
-***
+---
 
 ## Appendix: Links
 
-- [[Development]]
-- [[Databases]]
-- [[Data Science]]
-- [[Data Engineering]]
-
+* [Development](../2-Areas/MOCs/Development.md)
+* [Databases](../2-Areas/MOCs/Databases.md)
+* [Data Science](../2-Areas/MOCs/Data%20Science.md)
+* [Data Engineering](../2-Areas/MOCs/Data%20Engineering.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Window Function]] AND -"Changelog"
-```
+````

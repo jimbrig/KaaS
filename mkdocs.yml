@@ -1,0 +1,61 @@
+site_name: KaaS
+site_description: Knowledge as a Service.
+site_author: Jimmy Briggs
+site_url: https://kaas.jimbrig.com/
+copyright: Copyright &copy; 2022 Jimmy Briggs
+repo_url: https://github.com/jimbrig/KaaS/
+repo_name: jimbrig/KaaS
+remote_branch: gh-pages
+edit_uri: edit/main/
+use_directory_urls: true
+docs_dir: .docs
+
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.smartsymbols
+  - meta
+  - smarty
+  - fontawesome_markdown
+
+plugins:
+  - search
+  # - roamlinks
+  - awesome-pages

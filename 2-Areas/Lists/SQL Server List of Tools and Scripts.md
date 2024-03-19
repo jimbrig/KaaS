@@ -77,6 +77,7 @@ Micosoft curates a list of first and third party extensions [here](https://githu
 |[DBFit](http://www.methodsandtools.com/tools/dbfit.php)|Testing||[Yavor Nikolov](https://javornikolov.wordpress.com/)|
 |[DB Fiddle](https://dbfiddle.uk/)|Testing/Sharing||[Jack Douglas](https://douglastechnology.co.uk/)|
 |[SQL Fiddle](http://sqlfiddle.com/)|Testing/Sharing||[Jake Feasel](http://stackoverflow.com/users/808921/jake-feasel)|
+|[ExtendsClass](https://extendsclass.com/sql-server-online.html)|Testing/Sharing||[Cyril Bois](https://github.com/cyrilbois)|
 |[SQL Query Stress](https://github.com/ErikEJ/SqlQueryStress)|Testing|👍|[Erik Ejlskov Jensen](https://erikej.github.io/)|
 |[Paste The Plan](https://pastetheplan.com/)|Tuning/Sharing||[Brent Ozar Unlimited](https://www.brentozar.com/)|
 
